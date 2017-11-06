@@ -3,7 +3,6 @@ import pandas as pd
 import json
 from underthesea.util.file_io import write
 from load_data import load_dataset
-
 from model import classify
 
 data_file = join(dirname(dirname(dirname(__file__))), "data", "fb_bank_category",

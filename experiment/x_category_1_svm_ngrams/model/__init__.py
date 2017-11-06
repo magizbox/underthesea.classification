@@ -7,6 +7,7 @@ y_transform = joblib.load(join(dirname(__file__), "label.transformer.bin"))
 x_transform = joblib.load(join(dirname(__file__), "tfidf.transformer.bin"))
 estimator = joblib.load(join(dirname(__file__), "model.bin"))
 
+
 def classify(X):
     if isinstance(X, list):
         return y_transform.inverse_transform(

@@ -1,3 +1,4 @@
+joblib
 click==6.7
 cycler==0.10.0
 Cython==0.26.1

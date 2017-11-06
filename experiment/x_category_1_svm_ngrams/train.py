@@ -1,5 +1,5 @@
 from os.path import dirname, join
-from sklearn.linear_model import LogisticRegression
+import sys
 from sklearn.multiclass import OneVsRestClassifier
 from underthesea_flow.flow import Flow
 from underthesea_flow.model import Model
@@ -10,6 +10,11 @@ from transformer import TfidfVectorizer
 from sklearn.linear_model import SGDClassifier
 
 if __name__ == '__main__':
+    log_file = join(dirname(__file__), "log", "result.txt")
+    orig_stdout = sys.stdout
+    f = open(log_file, 'w')
+    sys.stdout = f
+
     data_file = join(dirname(dirname(dirname(__file__))), "data", "fb_bank_category", "corpus", "train.xlsx")
     X, y = load_dataset(data_file)
 
@@ -30,3 +35,5 @@ if __name__ == '__main__':
     flow.train()
     flow.export_folder = "model"
     flow.export(model_name="SGD")
+    sys.stdout = orig_stdout
+    f.close()
