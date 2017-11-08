@@ -1,0 +1,8 @@
+X Shape:  (2038, 73260)
+Train:  1834
+Test:  204
+Accuracy : 0.102941176471
+F1 (micro) : 0.297376093294
+F1 (macro) : 0.124442655216
+F1 (weighted): 0.271151188794
+Running Time: 197.73 seconds.
