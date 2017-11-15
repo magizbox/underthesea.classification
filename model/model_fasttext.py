@@ -1,12 +1,9 @@
-import random
 from os.path import join, dirname
-
 import numpy as np
 from sklearn.base import ClassifierMixin, BaseEstimator
 import fasttext as ft
 from underthesea.util.file_io import write
 import os
-
 from underthesea.util.singleton import Singleton
 
 
