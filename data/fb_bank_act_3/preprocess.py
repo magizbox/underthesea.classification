@@ -6,6 +6,8 @@ from underthesea.util.file_io import read
 
 
 def filter_post(post):
+    if "\b" in post["text"]:
+        return False
     if len(post["act"]) > 0:
         return True
     else:

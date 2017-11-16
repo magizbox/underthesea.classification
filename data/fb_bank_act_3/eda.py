@@ -16,6 +16,7 @@ def analyze(input, name):
     plt.savefig(join(output_folder, "{}_labels_distribution.png".format(name)))
     # plt.show()
 
+
 analyze("train.xlsx", "train")
 analyze("test.xlsx", "test")
-analyze("data.xlsx", "data")
+# analyze("data.xlsx", "data")
