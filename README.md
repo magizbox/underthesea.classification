@@ -54,9 +54,11 @@ $ python classication.py -fin tmp/input.txt -fout tmp/output.txt
 
 ### 2.2 Train a new dataset
 
-Prepare a new dataset
+**Prepare a new dataset**
 
-Train and test
+To be updated
+
+**Train and test**
 
 ```
 $ cd ner
