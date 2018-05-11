@@ -101,3 +101,6 @@ report/*
 !report/build.sh
 !report/techique_report.tex
 
+tmp/*
+!tmp/.gitkeep
+
