@@ -96,3 +96,8 @@ ENV/
 .ropeproject
 
 /fasttext_bin/
+
+report/*
+!report/build.sh
+!report/techique_report.tex
+

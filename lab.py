@@ -35,6 +35,7 @@ def load_dataset(data_file):
     y = list(temp.apply(lambda _: list(columns[_.values]), axis=1))
     return X, y
 
+
 if __name__ == '__main__':
     # data_file = "corpus/data_3k.xlsx"
     # data_file = "corpus/data_10k.xlsx"
