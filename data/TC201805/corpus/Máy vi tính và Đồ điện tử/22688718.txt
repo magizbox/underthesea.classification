@@ -1,0 +1,2 @@
+Cách nào đo tốc độ ổ lưu trữ USB trên Windows?
+Không phải ổ lưu trữ USB nào cũng có tốc độ như nhau, tùy theo chuẩn kết nối, công nghệ sử dụng mà mỗi loại thiết bị đều cho tốc độ khác nhau.

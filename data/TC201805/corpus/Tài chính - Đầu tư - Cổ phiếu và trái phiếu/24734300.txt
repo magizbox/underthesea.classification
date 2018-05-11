@@ -1,0 +1,2 @@
+Phiên sáng 24/1: Dòng tiền chờ đợi sàn HOSE
+Sự cố dừng giao dịch trên sàn HOSE khiến dòng tiền có phần chuyển hướng sang sàn HNX và UPCoM, nhưng dường như 'sự hấp dẫn' chưa đủ để giúp 2 sàn này hút mạnh dòng tiền, đà tăng đang có dấu hiệu chững lại trong phiên giao dịch sang 24/1.

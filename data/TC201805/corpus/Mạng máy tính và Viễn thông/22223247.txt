@@ -1,0 +1,2 @@
+Video giao diện di động của hệ điều hành Google Fuchsia
+Fuchsia có giao diện đơn giản, được thiết kế theo phong cách phẳng tối ưu cho đa nhiệm.

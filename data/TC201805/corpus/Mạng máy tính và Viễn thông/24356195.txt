@@ -1,0 +1,2 @@
+Triển khai dịch vụ thanh toán điện tử cho khách du lịch châu Á qua mã QR-Code
+Ví điện tử Vi Mô vừa 'bắt tay' với SASCO triển khai dịch vụ thanh toán điện tử cho du lịch châu Á khi đến du lịch tại Việt Nam.

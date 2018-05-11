@@ -1,0 +1,2 @@
+Sẽ có ứng dụng gọi cứu hộ giao thông 'kiểu Grab'
+Dịch vụ này có nguyên lý hoạt động như ứng dụng “Grab”. Việc tương tác và xác định vị trí dựa trên nền tảng di động và tín hiệu GPS với bản đồ số trực quan, hỗ trợ theo dõi, dẫn đường.

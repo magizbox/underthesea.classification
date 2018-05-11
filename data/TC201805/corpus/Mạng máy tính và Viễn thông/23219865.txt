@@ -1,0 +1,2 @@
+Phát hiện một cuộc tấn công có chủ đích nhằm vào Việt Nam
+Chuyên gia bảo mật đã phát hiện một số tài liệu chữa mã độc, với tên gọi là Rehashed RAT - được sử dụng để khai thác lỗ hổng CVE-2012-0158, nhằm vào các tổ chức, cơ quan, doanh nghiệp Việt.

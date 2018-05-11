@@ -1,0 +1,2 @@
+Mỹ: Phát hiện lỗ hổng an ninh mạng mới
+Ngày 25/5, Bộ An ninh nội địa Mỹ thông báo các chuyên gia an ninh mạng đã phát hiện một “lỗ hổng” mới trong một phần mềm mạng được sử dụng rộng rãi khiến hàng chục nghìn máy tính có thể bị tấn công.

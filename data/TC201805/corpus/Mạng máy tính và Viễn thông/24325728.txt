@@ -1,0 +1,2 @@
+Ứng dụng đọc cảm xúc con người
+Tập đoàn Công nghệ Điện tử Trung Quốc (CETC) tuyên bố đã phát triển thành công một ứng dụng có thể nhận dạng chính xác cảm xúc con người, thậm chí thông qua camera trên điện thoại di động.

@@ -1,0 +1,2 @@
+Hệ thống WiFi sử dụng ánh sáng hồng ngoại cho tốc độ siêu nhanh
+Có một ý tưởng về hệ thống WiFi sử dụng ánh sáng hồng ngoại để truyền tải dữ liệu, cho tốc độ lên tới 40Gb/giây.

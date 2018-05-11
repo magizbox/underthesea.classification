@@ -1,0 +1,2 @@
+Nhiều thư viện triển khai ứng dụng mượn và đọc sách điện tử
+Bookworm của công ty Tinh Vân là ứng dụng mượn và đọc sách điện tử dành cho bạn đọc thư viện, có thể cài đặt trên mọi thiết bị khác nhau như máy tính, tablet và điện thoại thông minh, giúp độc giả truy cập và khai thác kho tài nguyên nội sinh của trường một cách thuận tiện mọi lúc mọi nơi.

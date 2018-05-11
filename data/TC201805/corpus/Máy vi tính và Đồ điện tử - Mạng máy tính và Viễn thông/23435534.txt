@@ -1,0 +1,2 @@
+Nghiên cứu và lập trình hệ thống mô phỏng hải đồ điện tử
+Bài báo trình bày một phương pháp xây dựng mô phỏng thực hành hải đồ điện tử.

@@ -1,0 +1,2 @@
+Bảo đảm an toàn khi triển khai các dịch vụ, sản phẩm IoT
+Mạng lưới vạn vật kết nối In-tơ-nét (Internet of Things - IoT) hoặc mạng lưới thiết bị kết nối In-tơ-nét đang là xu hướng công nghệ được phát triển nhanh chóng, thay đổi toàn bộ phương thức làm việc, cách sống của con người. Vấn đề an toàn thông tin cho các thiết bị và hệ thống cần phải được bảo đảm để có thể khai thác hoàn toàn lợi ích IoT đem lại.

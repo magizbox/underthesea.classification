@@ -1,0 +1,2 @@
+NVIDIA GeForce GTX 1080 Ti sẽ nhanh hơn 35% so với phiên bản 'thường'
+Ngày 1/3, NVIDIA cuối cùng đã tung ra card đồ họa mới nhất GeForce GTX 1080 Ti sau nhiều đồn đoán. Đây là sản phẩm với chip xử lý đồ họa (GPU) mạnh nhất từ trước tới nay, được giới chuyên môn nhận định sẽ định hình thị trường đồ họa máy tính để bàn trong suốt năm 2017.

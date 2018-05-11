@@ -1,0 +1,2 @@
+ADATA tung ra bộ nhớ RAM DDR4 4600Mhz cho bo mạch chủ Intel Z370 và X299
+Sự ra đời của các chipset Z370 và X299 cao cấp mới mà Intel dành cho nền tảng vi xử lý Coffee Lake đã tạo ra chuẩn mực mới về bộ nhớ, một lần nữa buộc các nhà sản xuất RAM phải tăng tốc nhằm đáp ứng nhu cầu không chỉ của người dùng thông thường mà cả các tay chơi ép xung (overclocking).

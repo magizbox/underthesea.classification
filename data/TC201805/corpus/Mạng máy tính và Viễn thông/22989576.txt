@@ -1,0 +1,2 @@
+Có đến 1.000 phần mềm gián điệp đang lẩn trốn trên các kho ứng dụng Android
+Gần đây, người ta phát hiện ra có đến 3 phần mềm tin nhắn trên Google Play Store có thể phát tán phần mềm gián điệp ăn cắp dữ liệu người dùng SonicSpy và đó chỉ mới là một phần rất nhỏ trong số hàng ngàn phần mềm tương tự đang lẩn trốn trên các kho ứng dụng (app store) dành cho Android.

@@ -1,0 +1,2 @@
+Một ứng dụng muốn thành công cần có những gì?
+Trên thực tế, rất ít ứng dụng được nhiều người dùng ngay từ khi mới ra mắt mà thay vào đó phải trải qua quá trình cập nhật, thay đổi các tính năng để phù hợp với khách hàng.

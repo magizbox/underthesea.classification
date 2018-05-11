@@ -1,0 +1,2 @@
+Giải thích cách tấn công của botnet Mirai
+Mirai từng đánh sập Twitter, Netflix, gây ra hoảng loạn cho giới bảo mật vào năm ngoái.

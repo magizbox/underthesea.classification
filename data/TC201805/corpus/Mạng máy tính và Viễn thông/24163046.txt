@@ -1,0 +1,2 @@
+Người tạo ra cổng USB tiết lộ lý do chúng ta phải chịu cảnh cắm cổng USB sai chiều
+Một trong những người tạo ra cổng USB đã giải thích lý do tại sao chúng ta lâu nay phải chịu cảnh luôn cắm cổng này sai chiều.

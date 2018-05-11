@@ -1,0 +1,2 @@
+Đừng cập nhật macOS nếu không muốn lỗ hổng bảo mật 'root' quay trở lại
+Nếu bạn cập nhật macOS lên phiên bản 10.13.1 mới ra mắt thì nhiều khả năng bản cập nhật vá lỗi bảo mật 'root' trước đó đã bị vô hiệu hóa.

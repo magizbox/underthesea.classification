@@ -1,0 +1,2 @@
+'Loạn' các cuộc thi dành cho giáo viên và học sinh trong nhà trường
+Nhà trường là nơi học tập, rèn luyện, bồi dưỡng kiến thức cho học sinh. Tuy nhiên hiện nay, vì chạy theo thành tích mà không ít nhà trường đang "loạn" vì các cuộc thi gây áp lực cho cả học sinh và giáo viên, ảnh hưởng đến chất lượng học tập.

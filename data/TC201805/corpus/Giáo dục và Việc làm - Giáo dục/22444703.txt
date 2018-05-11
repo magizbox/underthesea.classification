@@ -1,0 +1,2 @@
+HP: Bất ngờ hủy kết quả 2 trường hợp trúng tuyển viên chức mầm non
+Hai trường hợp không có tên trong danh sách thông báo đủ điều kiện dự tuyển viên chức, nhưng lại có tên trong danh sách kết quả xét tuyển vừa bị hủy kết quả.

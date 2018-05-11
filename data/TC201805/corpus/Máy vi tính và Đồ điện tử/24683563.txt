@@ -1,0 +1,2 @@
+Intel sản xuất thành công mô-đun đa chip kết hợp giữa CPU Intel và GPU AMD
+Intel đã sản xuất thành công mô-đun đa chip Intel Core i7-8705G với CPU là dòng CPU Intel Kaby Lake và GPU là AMD Vega M.

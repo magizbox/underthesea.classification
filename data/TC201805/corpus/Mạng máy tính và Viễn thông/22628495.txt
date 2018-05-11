@@ -1,0 +1,2 @@
+Hàng loạt công ty đa quốc gia bị dính mã độc Petrwrap
+Một vụ tấn công mạng đòi tiền chuộc với quy mô lớn lại xảy ra trên phạm vi toàn cầu. Mã độc "tống tiền" Petya, có tác hại tương tự mã độc WannaCry lại tái xuất dưới phiên bản mới là "Petrwrap" và tấn công nhiều hệ thống máy tính trên toàn cầu, với những thiệt hại ban đầu được ghi nhận tại các nước Ukraine, Nga, Anh và Ấn Độ.

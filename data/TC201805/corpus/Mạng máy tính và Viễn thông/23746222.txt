@@ -1,0 +1,2 @@
+Google Search chọn vị trí địa phương mặc định bất kể tên miền quốc gia
+Google vừa có những thay đổi lớn dành cho tính năng tìm kiếm toàn cầu, cụ thể là cách người dùng có thể thực hiện tìm kiếm nội dung quốc tế.

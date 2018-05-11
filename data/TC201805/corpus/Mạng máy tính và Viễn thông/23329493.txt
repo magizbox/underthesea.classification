@@ -1,0 +1,2 @@
+Phần mềm vệ sinh máy tính CCleaner bị nhúng mã độc nguy hiểm ra sao?
+Phần mềm bảo trì máy tính phổ biến CCleaner vừa được phát hiện bị tấn công bởi phần mềm độc hại, một điều rất nghiêm trọng bởi đây là ứng dụng có hàng triệu lượt tải về mỗi tuần.

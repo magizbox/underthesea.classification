@@ -1,0 +1,2 @@
+VNCERT thúc ngăn chặn mã độc tống tiền
+Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam (VNCERT) đã yêu cầu các đơn vị chuyên trách về công nghệ thông tin (CNTT), an toàn thông tin, các nhà cung cấp dịch vụ viễn thông, hạ tầng Internet… áp dụng các biện pháp để ngăn chặn kết nối với các máy chủ điều khiển mã độc.

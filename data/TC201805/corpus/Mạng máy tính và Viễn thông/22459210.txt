@@ -1,0 +1,2 @@
+App Store không hiển thị các ứng dụng 32-bit khi tìm kiếm
+Apple có lẽ muốn các nhà lập trình phải dừng hẳn việc viết ứng dụng 32-bit nên khi người dùng thực hiện tìm kiếm trên App Store, kết quả trả về chỉ toàn là các ứng dụng 64-bit.

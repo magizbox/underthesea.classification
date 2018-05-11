@@ -1,0 +1,2 @@
+Google Maps bổ sung chức năng chia sẻ vị trí
+Sau một loạt tính năng mới như nhớ vị trí đậu xe, tìm các bài đánh giá nhà hàng lân cận, tránh khu vực tắc đường, Google tiếp tục bổ sung cho Maps tính năng chia sẻ vị trí theo thời gian thực.

@@ -1,0 +1,2 @@
+UberShip, dịch vụ giao hàng thử nghiệm của Uber, triển khai tại TP.HCM
+Dịch vụ giao hàng UberShip vừa được Uber tung ra thử nghiệm tại TP.HCM, thêm một đối thủ cho Grab Giao Hàng.

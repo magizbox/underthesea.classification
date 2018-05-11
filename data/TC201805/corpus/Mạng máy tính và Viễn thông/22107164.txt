@@ -1,0 +1,2 @@
+Cách Windows tự động tìm và sửa lỗi thông thường cho máy tính
+Windows có nhiều trình gỡ rối được thiết kế để chẩn đoán nhanh và tự động giải quyết các sự cố máy tính khác nhau. Trình khắc phục sự cố không thể khắc phục mọi thứ, nhưng chúng là nơi tuyệt vời để bắt đầu nếu bạn gặp sự cố với máy tính của mình.

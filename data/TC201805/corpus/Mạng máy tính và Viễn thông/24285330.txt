@@ -1,0 +1,2 @@
+Facebook thử nghiệm tính năng bảo mật comment
+Mới đây, Facebook đã bổ sung một tính năng mới trong phần comment (bình luận), cho phép người dùng có thể chỉ định những đối tượng được quyền trả lời bình luận trên một bài viết bất kỳ.

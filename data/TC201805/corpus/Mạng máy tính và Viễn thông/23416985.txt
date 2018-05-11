@@ -1,0 +1,2 @@
+Một số máy tính Mac của Apple dễ bị tấn công 'firmware'
+Kể từ năm 2015, Apple đã nỗ lực bảo vệ về dòng máy tính Mac của mình khỏi một kiểu tấn công vô cùng khó để phát hiện ra, nhưng đã không hoàn toàn thành công trong việc sửa các lỗi cho các khách hàng, theo một nghiên cứu được Duo Security đưa ra ngày 29/9.

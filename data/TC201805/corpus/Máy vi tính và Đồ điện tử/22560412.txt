@@ -1,0 +1,2 @@
+Những lý do khiến tốc độ WiFi bị chậm
+Đa số thiết bị công nghệ hiện nay gần như đều có khả năng kết nối WiFi theo xu hướng IoT (Internet of Things), điều này đồng nghĩa với việc khi WiFi gặp sự cố, các thiết bị trên sẽ hoạt động kém hiệu quả. Làm thế nào để khắc phục tình trạng trên?

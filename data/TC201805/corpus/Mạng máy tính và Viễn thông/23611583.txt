@@ -1,0 +1,2 @@
+Facebook thử nghiệm status tự hủy
+Status có độ dài tối đa 101 ký tự, tự hủy sau một thời gian định sẵn sắp xuất hiện trên Facebook. Công ty xác nhận bắt đầu thử nghiệm từ tuần này.

@@ -1,0 +1,2 @@
+Sẽ có ứng dụng tương tự Uber, Grab trong cứu hộ giao thông
+Ứng dụng này giúp chủ phương tiện tìm kiếm được đơn vị cứu hộ gần nhất để lựa chọn xe cứu hộ.

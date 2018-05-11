@@ -1,0 +1,2 @@
+VNPT triển khai Phần mềm điều hành hoạt động HĐND các cấp cho Đà Nẵng
+Phần mềm đã phục vụ thành công một số kỳ họp, hiện thực hóa mục tiêu thực hiện các 'Kỳ họp không giấy tờ' của HĐND thành phố Đà Nẵng. Với những hiệu quả thiết thực mang lại, sắp tới phần mềm sẽ được triển khai đến cấp quận, huyện, xã.

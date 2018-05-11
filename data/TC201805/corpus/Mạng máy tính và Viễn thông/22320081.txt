@@ -1,0 +1,2 @@
+Đã có công cụ giải mã thành công WannaCry
+Công cụ mang tên WannaKiwi sẽ khôi phục được máy tính Windows 7 và XP dính mã độc WannaCry.

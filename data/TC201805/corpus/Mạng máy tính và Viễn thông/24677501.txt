@@ -1,0 +1,2 @@
+Microsoft gỡ bỏ HealthVault Insights khỏi chợ ứng dụng di động
+Microsoft dự kiến sẽ gỡ bỏ ứng dụng HealthVault Insights khỏi các chợ ứng dụng di động hiện nay, bao gồm iOS, Android và Windows, vào cuối tháng này.

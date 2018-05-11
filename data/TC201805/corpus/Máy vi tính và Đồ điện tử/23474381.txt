@@ -1,0 +1,2 @@
+iPhone 6s có thể hạ cấp về iOS 10.3.3 sau khi Apple khóa Sign
+Sau khi Apple chính thức khóa Sign hai phiên bản là iOS 11 và iOS 10.3.3 nhằm giúp các thiết bị luôn chạy trên nền tảng mới nhất, ổn định hơn. Tuy nhiên, chỉ có một thiết bị duy nhất được Apple mở Sign để quay về iOS 10.3.3

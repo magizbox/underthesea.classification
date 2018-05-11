@@ -1,0 +1,2 @@
+QR Voice: Tạo và đọc mã QR qua giọng nói
+Mã QR là một cách thức truyền tải thông tin (tên, địa chỉ cá nhân, mật khẩu tài khoản internet, liên kết trang web,…) phổ biến trên điện thoại di động. Hiện nay, có khá nhiều công cụ và dịch vụ online giúp bạn tạo mã QR, chủ yếu thực hiện bằng thao tác nhập/dán văn bản. Cũng có chức năng như vậy, nhưng với QR Voice bạn có thể tạo và đọc mã QR theo một phương pháp hoàn toàn mới - qua giọng nói.

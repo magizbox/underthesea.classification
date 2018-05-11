@@ -1,0 +1,2 @@
+Google xây dựng cả một thành phố "giả" để thử nghiệm xe không người lái
+Một trong những vấn đề lớn nhất mà các thuật toán lái xe tự động phải đối mặt là các tình huống mà con người hàng ngày phải xử lý khi lái xe trong môi trường dân cư đông đúc. Google đã tìm cách giải quyết vấn đề này như thế nào?

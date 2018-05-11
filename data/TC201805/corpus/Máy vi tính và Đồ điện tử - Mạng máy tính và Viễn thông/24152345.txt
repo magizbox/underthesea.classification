@@ -1,0 +1,2 @@
+Máy bay không người lái giao hàng của Amazon khi cần sẽ 'rơi theo quy trình'
+Có thể chắc chắn rằng, không có người nào muốn một chiếc máy bay không người lái (UAV hay drone) rơi trên đầu mình, nhất là những chiếc UAV lớn chở các kiện hàng cho hãng thương mại điện tử Amazon. Để tránh rủi ro, công ty đã nhận bằng sáng chế ra những chiếc UAV có khả năng tách mảnh theo đúng 'quy trình'.

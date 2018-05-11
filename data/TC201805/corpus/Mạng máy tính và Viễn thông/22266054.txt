@@ -1,0 +1,2 @@
+Cách hữu hiệu để bảo vệ mình khỏi các phần mềm tống tiền
+Một cuộc tấn công mạng với mục đích tống tiền có quy mô lớn chưa từng có đã ảnh hưởng tới một loạt các quốc gia khắp thế giới, với khoảng 75.000 máy tính bị lây nhiễm. Mã độc này có tên gọi là WannaCrypt, được cho là phát tán từ ngày 14/4 bởi nhóm có tên Shadow Brokers.

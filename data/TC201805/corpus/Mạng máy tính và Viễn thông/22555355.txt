@@ -1,0 +1,2 @@
+Hack tài khoản Facebook bằng số điện thoại
+Bằng cách tận dụng lỗ hổng trong giao thức truyền tín hiệu SS7 (hơn 800 nhà mạng trên toàn thế giới sử dụng).

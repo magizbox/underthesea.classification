@@ -1,0 +1,2 @@
+Skype hỗ trợ chạy trên thanh Touch Bar của MacBook Pro
+Microsoft vừa tung ra bản cập nhật mới cho ứng dụng Skype chạy trên Mac OS, qua đó bổ sung khả năng tương thích với thanh Touch Bar có trên dòng máy MacBook Pro mới của Apple.

@@ -1,0 +1,2 @@
+Thực tiễn và quy phạm dự báo sức chịu tải dọc trục của cọc đơn theo tiêu chuẩn thiết kế cầu 22TCN 272-05
+Hiện nay, có nhiều nhóm phương pháp dự báo sức chịu tải (SCT) dọc trục của cọc đơn theo đất nền. Trong đó, SCT của cọc được dự báo từ phương pháp thí nghiệm nén tĩnh được đánh giá là chính xác và phù hợp với thực tế nhất [4], [5], [6]. Khi tính toán trong các hồ sơ thiết kế thì các nhà tư vấn thường tính theo nhóm phương pháp dựa vào lý thuyết hoặc nhóm phương pháp xác định theo quy phạm.

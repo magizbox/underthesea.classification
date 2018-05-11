@@ -1,0 +1,2 @@
+Sửa lỗi WiFi bị limited trên Windows
+Trong quá trình sử dụng, hẳn là sẽ có đôi lần bạn gặp phải tình trạng máy tính không thể truy cập mạng và xuất hiện biểu tượng dấu chấm than màu vàng. Làm thế nào để khắc phục vấn đề trên?

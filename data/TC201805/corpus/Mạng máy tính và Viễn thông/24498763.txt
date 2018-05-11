@@ -1,0 +1,2 @@
+Cảnh báo tấn công DDos đạt 1 triệu gói tin/giây
+Hình thức tấn công DDos trong nhiều năm vẫn là mối nguy cho những hệ thống mạng.

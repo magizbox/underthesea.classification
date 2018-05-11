@@ -1,0 +1,2 @@
+Apple Watch có thể dò ra nhịp tim bất thường chính xác tới 97%
+Theo một nghiên cứu vừa được tiến hành thông qua ứng dụng theo dõi nhịp tim Cardiogram tại Đại học California, chiếc Apple Watch có thể dò ra nhịp tim bất thường với độ chính xác lên tới 97% khi dùng chung với một thuật toán đo nhịp tim dựa trên trí thông minh nhân tạo (AI).

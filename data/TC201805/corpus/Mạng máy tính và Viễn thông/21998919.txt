@@ -1,0 +1,2 @@
+Google cập nhật Chrome giúp sửa lỗi khó chịu khi cuộn trang
+Google vừa cập nhật tính năng Scroll Anchoring giúp trình duyệt web Chrome không còn tình trạng đẩy người dùng về đầu trang web khi đã cuộn xuống phía dưới.

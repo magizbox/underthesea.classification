@@ -1,0 +1,2 @@
+Ứng dụng công nghệ Kết nối Nhà máy mới dựa trên nền tảng IIoT
+Tập đoàn đa công nghệ Honeywell vừa công bố sẽ cung cấp Dịch vụ Hiệu suất Kết nối (CPS) mới dựa trên nền tảng IIoT (Industrial Internet of Things) cho Công ty Hóa dầu AL WAHA để xem xét khả năng tối đa hóa sản xuất propylene.

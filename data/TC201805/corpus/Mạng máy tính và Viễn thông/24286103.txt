@@ -1,0 +1,2 @@
+Lấy người sử dụng làm trung tâm khi xây dựng dịch vụ công trực tuyến
+Việc xây dựng cổng thông tin điện tử và dịch vụ công trực tuyến của cơ quan nhà nước phải theo nguyên tắc lấy người sử dụng làm trung tâm.

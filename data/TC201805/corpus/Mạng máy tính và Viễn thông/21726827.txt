@@ -1,0 +1,2 @@
+Mục đích của tin tặc tấn công website sân bay Tân Sơn Nhất
+Cục Hàng không cho hay, sau khi tấn công vào trang web của Cảng Hàng không Tân Sơn Nhất, tin tặc không lấy đi bất cứ dữ liệu nào, chỉ để lại các dòng cảnh báo.

@@ -1,0 +1,2 @@
+Icheck - Ứng dụng bảo vệ người tiêu dùng
+Trước thực trạng hàng giả, hàng kém chất lượng đang làm ảnh hưởng tới cuộc sống, sức khỏe của người dân, một số công ty đã cho ra đời các ứng dụng bảo vệ người tiêu dùng thông minh, trong đó phần mềm iCheck. iCheck Scanner là phần mềm quét mã vạch, QR code,... từ đó truy xuất ra những thông tin đầy đủ và minh bạch nhất về sản phẩm, giúp cho người tiêu dùng dễ dàng chọn các sản phẩm an toàn.

@@ -1,0 +1,2 @@
+AlphaGo Zero tự học cờ vây để thắng cả phiên bản tiền nhiệm từng vô địch thế giới
+Công trình nghiên cứu về trí thông minh nhân tạo AlphaGo Zero vừa có được những thành quả lớn khi nó đã tự học để vượt qua mọi phiên bản AlphaGo trước đó.

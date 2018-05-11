@@ -1,0 +1,2 @@
+NVIDIA sắp ngừng hỗ trợ hệ điều hành 32-bit
+Người dùng cần nâng cấp lên hệ điều hành 64-bit nếu muốn tiếp tục nhận cập nhật driver mới từ NVIDIA.

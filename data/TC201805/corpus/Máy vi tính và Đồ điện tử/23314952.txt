@@ -1,0 +1,2 @@
+Tùy biến cử chỉ touchpad trên Windows 10
+Một trong những cải tiến lớn của phiên bản Creators Update trên Windows 10 đó là mang đến cho người dùng laptop khả năng sử dụng các cử chỉ trên touchpad một cách chính xác nhất thông qua việc tùy biến các cử chỉ này theo ý mình.

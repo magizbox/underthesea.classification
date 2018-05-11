@@ -1,0 +1,2 @@
+Hơn 7.000 thiết bị mạng tại Việt Nam dính lỗ hổng bảo mật Dnsmasq
+Theo thống kê sơ bộ, có hơn 7.000 router của các nhà mạng lớn tại Việt Nam có thể bị tin tặc khai thác qua lỗ hổng bảo mật Dnsmasq. Chuyên gia Bkav khuyến cáo các nhà mạng nên cập nhật Dnsmasp lên phiên bản 2.78 mới phát hành đã khắc phục các lỗ hổng.

@@ -1,0 +1,2 @@
+TP.HCM: Nộp hồ sơ và nhận kết quả dịch vụ y tế qua tin nhắn
+Sau một thời gian thử nghiệm, Sở Y tế TP.HCM chính thức triển khai nhắn tin báo kết quả xử lý hồ sơ dịch vụ công đến người dân. Những người có nhu cầu về dịch vụ công liên quan đến ngành y tế, có thể 'ngồi tại nhà nộp hồ sơ và chờ tin nhắn báo nhận kết quả'.

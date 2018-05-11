@@ -1,0 +1,2 @@
+Thiết bị không dây giúp phát hiện sớm các triệu bất thường của tim
+Hai sinh viên Trường Đại học Quốc tế TP.HCM là Cù Gia Huy và Nguyễn Hoàng Tuấn đã mày mò, nghiên cứu “Hệ thống Theo dõi mang mặc điện tâm đồ không dây” nhằm tạo điều kiện chăm sóc y tế tại nhà tốt hơn cho các bệnh nhân tim mạch sinh sống tại Việt Nam.

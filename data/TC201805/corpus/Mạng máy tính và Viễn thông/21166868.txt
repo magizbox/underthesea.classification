@@ -1,0 +1,2 @@
+Cách phát hiện phần mềm gián điệp trên smartphone TQ
+Hồi tháng 11-2016, các nhà nghiên cứu bảo mật tại Kryptowire đã vô tình phát hiện ra một loại backdoor tự động gửi dữ liệu cá nhân của người dùng về máy chủ tại Trung Quốc.

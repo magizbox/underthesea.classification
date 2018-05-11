@@ -1,0 +1,2 @@
+Phần mềm phát hiện nguy cơ bệnh tim
+Công nghệ này có thể cứu sống con người bằng cách phát hiện trước những người cần được điều trị tăng cường.

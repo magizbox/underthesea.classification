@@ -1,0 +1,2 @@
+'Bom tin nhắn' làm treo cứng thiết bị Apple
+iPhone, iPad và máy Mac có thể bị treo cứng, tin nhắn bị xóa sạch nếu mở đường link độc hại gửi qua ứng dụng Messages của Apple.

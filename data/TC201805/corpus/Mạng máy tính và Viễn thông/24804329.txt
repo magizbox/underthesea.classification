@@ -1,0 +1,2 @@
+Aquantia cung cấp bộ điều khiển mạng multi-gigabit cho nền tảng xe tự lái của Nvidia
+Aquantia sẽ trở thành đối tác trong việc cung cấp bộ điều khiển mạng multi-gigabit cho Drive PX Pegasus, nền tảng điều khiển xe tự hành của Nvidia. Được biết Aquantia là thương hiệu chuyên cung cấp bộ điều khiển mạng tốc độ cao dùng trong bo mạch chủ cao cấp, laptop chuyên game cũng như các giải pháp về mạng tốc độ cao.

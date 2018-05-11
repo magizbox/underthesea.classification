@@ -1,0 +1,2 @@
+NHNN yêu cầu kiểm soát an ninh, an toàn cho các giao dịch thẻ ATM trong dịp Tết
+Theo yêu cầu của Ngân hàng Nhà nước, trong dịp cuối năm và Tết sắp tới, các tổ chức cung ứng dịch vụ thanh toán thẻ cần rà soát, kiểm tra việc trang bị, quản lý, vận hành đối với các ATM trong đó chú ý cài đặt, nâng cấp phần mềm, phần cứng thiết bị chống sao chép, trộm cắp thông tin thẻ tại ATM.

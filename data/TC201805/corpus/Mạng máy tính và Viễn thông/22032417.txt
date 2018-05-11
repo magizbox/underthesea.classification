@@ -1,0 +1,2 @@
+Microsoft 'khoe' thời lượng pin xuất sắc của trình duyệt Edge trên Windows 10
+Khi xem video trên trình duyệt Edge của Windows 10, chiếc Surface Book cho thời lượng pin ấn tượng 12 giờ, trong khi con số này của Chrome và Firefox lần lượt chỉ là 9 giờ và 7 giờ.

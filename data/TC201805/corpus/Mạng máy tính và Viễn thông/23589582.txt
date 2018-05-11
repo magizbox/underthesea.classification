@@ -1,0 +1,2 @@
+Gần 2.600 tên miền .VN được cung cấp thử nghiệm dịch vụ khóa tên miền
+Để bảo vệ tên miền trước các nguy cơ tấn công, ngoài việc cung cấp miễn phí cho các tên miền được ưu tiên bảo vệ, VNNIC đã phối hợp với nhà đăng ký cung cấp thử nghiệm dịch vụ khoá tên miền (Registry Lock) cho chủ thể 2.570 tên miền '.VN', tính đến 30/9/2017.

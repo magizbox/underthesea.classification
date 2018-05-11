@@ -1,0 +1,2 @@
+Ford phát triển công nghệ phát hiện “ổ gà”
+Để giải quyết những khó chịu, hư hỏng cũng như nguy cơ xảy ra tai nạn khi điều khiển xe qua ổ gà, Ford Motors đang nghiên cứu phát triển bản đồ ảo chỉ rõ các vị trí ổ gà, hoạt động dựa trên nguyên tắc sử dụng nguồn thông tin của đám đông (crowdsourcing).

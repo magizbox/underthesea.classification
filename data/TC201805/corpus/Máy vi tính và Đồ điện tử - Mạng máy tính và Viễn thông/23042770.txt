@@ -1,0 +1,2 @@
+Phi công lái máy bay viết chữ, vẽ hoa trên màn hình radar
+Những phi công sáng tạo đã khéo léo dùng chính những đường bay của mình để viết chữ, vẽ hoa trên ứng dụng theo dõi hành trình bay Flightradar 24.

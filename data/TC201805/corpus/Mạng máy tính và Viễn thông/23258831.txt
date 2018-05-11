@@ -1,0 +1,2 @@
+Làm chủ tính năng HomeKit trên Apple Home bằng thiết bị iOS
+Khi sử dụng thiết bị HomeKit, chúng sẽ được lưu trữ trong ứng dụng Apple Home. Việc loại bỏ chúng không phải đơn giản như kiểu cài đặt lại thiết bị gốc.

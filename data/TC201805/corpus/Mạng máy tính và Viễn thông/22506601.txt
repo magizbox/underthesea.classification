@@ -1,0 +1,2 @@
+Cách sao lưu và phục hồi mật khẩu WiFi
+Khi cài đặt lại smartphone hoặc đưa thiết bị trở về trạng thái xuất xưởng, bạn sẽ mất rất nhiều thời gian để khôi phục các tùy chọn trước đó, đặc biệt là mật khẩu WiFi và Bluetooth.

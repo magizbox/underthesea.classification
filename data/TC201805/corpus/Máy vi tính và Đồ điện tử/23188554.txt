@@ -1,0 +1,2 @@
+Sửa lỗi cảm biến vân tay trên iPhone không hoạt động
+Trong quá trình sử dụng iPhone, hẳn là sẽ có đôi lần bạn gặp phải tình trạng Touch ID (cảm biến vân tay) phản hồi chậm. Làm thế nào để khắc vấn đề trên?

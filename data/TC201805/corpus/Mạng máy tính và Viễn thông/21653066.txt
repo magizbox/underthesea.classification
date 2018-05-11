@@ -1,0 +1,2 @@
+Chạy ứng dụng đã ghim lên Taskbar với quyền Administrator trong Windows 10
+Chỉ với vài thao tác đơn giản, bạn sẽ có thể chạy ứng dụng được Ghim (Pin) lên Taskbar với quyền Administrator.

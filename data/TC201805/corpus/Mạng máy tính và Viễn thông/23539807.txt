@@ -1,0 +1,2 @@
+Tin giả sẽ phát triển đến trí tuệ nhân tạo cũng không phát hiện được
+Mặc dù các hãng công nghệ vẫn đang phát triển các nền tảng AI giúp phát hiện nội dung giả mạo, nhưng Gartner đã dự đoán vào năm 2020, các tin giả mạo sẽ phát triển vượt khả năng phát hiện của AI.

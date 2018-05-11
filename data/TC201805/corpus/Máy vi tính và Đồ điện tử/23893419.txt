@@ -1,0 +1,2 @@
+Cách dùng split view khi gọi Video Call trên Zalo
+Trải nghiệm tính năng split view (chia đôi màn hình) trên Zalo khi gọi Video Call.

@@ -1,0 +1,2 @@
+Thuật toán mới của Google giúp giảm kích thước tập tin hình ảnh JPEG đến 35%
+Guetzli là thuật toán nguồn mở mới được Google đưa ra, với mục tiêu giảm kích thước tập tin hình ảnh JPEG nhỏ hơn khoảng 35% so với hình ảnh hiện tại.

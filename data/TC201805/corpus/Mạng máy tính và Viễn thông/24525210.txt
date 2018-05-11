@@ -1,0 +1,2 @@
+Cần làm gì với lỗi bảo mật chipset của Intel?
+Các chuyên trang về công nghệ thông tin như The Verge, Techcrunch, PCmag… ào ạt đưa tin về các lỗi bảo mật trên bộ vi xử lý máy tính, không chỉ con chipset của Intel mà cả AMD, ARM.

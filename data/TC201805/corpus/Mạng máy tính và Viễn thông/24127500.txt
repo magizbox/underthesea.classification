@@ -1,0 +1,2 @@
+HP bị phát hiện lén cài phần mềm làm chậm máy người dùng
+Phần mềm bị phát hiện làm chậm máy người dùng mà HP cài đặt được xác định có khả năng khai thác thông tin trên máy tính người dùng.

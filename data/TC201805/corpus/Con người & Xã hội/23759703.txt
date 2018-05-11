@@ -1,0 +1,2 @@
+Vợ sinh 3 được nghỉ tối đa mấy ngày?
+Một công ty ở quận 1, TP HCM hỏi: 'Nếu vợ sinh 3 trở lên thì chồng được nghỉ thêm 3 ngày cho mỗi đứa con. Vậy nếu sinh 3 mà phải phẫu thuật thì có được cộng thêm 3 ngày nghỉ nữa để có 17 ngày nghỉ?'.

@@ -1,0 +1,2 @@
+Cáp AAG gặp sự cố, VNPT nhanh chóng điều tiết lưu lượng qua tuyến cáp mới APG
+17h chiều 18/2/2017, tuyến cáp quang biển quốc tế AAG đã gặp sự cố trên tuyến cáp hướng Việt Nam - HongKong, gây ảnh hưởng đến truy cập Internet từ Việt Nam đi quốc tế. Để đảm bảo truy cập internet quốc tế cho người dùng, ngay trong đêm 18, VNPT đã điều tiết lưu lượng qua một số tuyến cáp khác.

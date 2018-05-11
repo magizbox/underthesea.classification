@@ -1,0 +1,2 @@
+Khắc phục vấn đề hao pin trên iPhone khi cập nhật lên iOS 11
+Một trong những vấn đề quan tâm nhất trong iOS 11 chính là nó làm thiết bị suy giảm thời lượng pin so với trước đó, tuy nhiên bạn có thể khắc phục tạm vấn đề trước khi Apple tung bản sửa lỗi hoàn toàn.

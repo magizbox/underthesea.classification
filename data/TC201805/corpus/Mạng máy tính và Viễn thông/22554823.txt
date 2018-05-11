@@ -1,0 +1,2 @@
+Microsoft dùng trí tuệ nhân tạo để lập kỷ lục khi chơi game Pac-Man
+Dựa trên nền tảng học tăng cường (reinforcement learning), trí thông minh nhân tạo (AI) do Microsoft nghiên cứu đã chơi phiên bản Atara 2600 của Pac-Man với điểm số tối đa 999.990.

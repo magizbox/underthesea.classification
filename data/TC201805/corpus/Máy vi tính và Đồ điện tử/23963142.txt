@@ -1,0 +1,2 @@
+Animoji hoạt động không cần camera TrueDepth
+Trong buổi giới thiệu iPhone X, Apple có nói Animoji dựa vào camera TrueDepth để hoạt động nhưng thực tế chứng minh không phải vậy.

@@ -1,0 +1,2 @@
+Bản iOS 10 cuối cùng phát hành trước khi đón iOS 11
+iOS 10.3.3 không có tính năng mới sáng giá, chủ yếu để khắc phục lỗi và tăng cường bảo mật hệ thống.

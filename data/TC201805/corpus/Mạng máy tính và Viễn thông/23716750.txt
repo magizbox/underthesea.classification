@@ -1,0 +1,2 @@
+Tại sao ứng dụng máy tính của người dùng iOS 11 bị sai?
+Ứng dụng máy tính trên iOS11 mới đây bị phát hiện không thể thực hiện đúng phép tính 1+2+3 khiến người dùng băn khoăn không rõ từ trước đến nay họ có bị cộng sai vì ứng dụng này không.

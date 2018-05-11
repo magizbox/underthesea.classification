@@ -1,0 +1,2 @@
+Hệ thống xếp hàng khám bệnh thông minh
+Nhằm giải quyết tình trạng đông đúc hiện nay tại các khu vực cấp số thứ tự và khu chờ khám tại bệnh viện (BV), nhóm tác giả Công ty cổ phần dịch vụ viễn thông May Mắn - LuckyTel đã thiết kế thành công phần mềm hệ thống xếp hàng khám bệnh thông minh.

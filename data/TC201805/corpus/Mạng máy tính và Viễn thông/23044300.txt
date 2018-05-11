@@ -1,0 +1,2 @@
+Huawei và MapD hợp tác về phân tích dữ liệu trên nền tảng GPU
+Huawei và MapD Technologies, công ty hàng đầu về phân tích dữ liệu trên nền tảng bộ vi xử lý đồ họa (GPU), vừa thông báo họ đã ký biên bản ghi nhớ hợp tác (MoU) để thúc đẩy ứng dụng phân tích dữ liệu trên nền tảng GPU.

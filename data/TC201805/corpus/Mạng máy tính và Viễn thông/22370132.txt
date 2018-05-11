@@ -1,0 +1,2 @@
+Phát hiện loại mã độc mới lây lan qua phụ đề phim
+Các nhà nghiên cứu vừa phát hiện ra một loại mã độc mới giúp tin tặc có thể nắm quyền kiểm soát máy tính của bạn nhờ một loại mã độc lây lan qua phụ đề phim giả.

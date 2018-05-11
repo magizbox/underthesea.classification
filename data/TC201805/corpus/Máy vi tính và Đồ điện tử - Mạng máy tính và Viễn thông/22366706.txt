@@ -1,0 +1,2 @@
+Sinh viên Cao đẳng Việt - Hàn chế tạo hệ thống chăm sóc cây trồng tự động
+Người nông dân thường phải tốn nhiều thời gian chăm sóc cây trồng một cách thủ công nhưng năng suất không cao. Mới đây, em Nguyễn Xuân Đạt (sinh viên năm 3, khoa Công nghệ, Điện tử - Viễn thông, trường Cao đẳng CNTT Hữu nghị Việt - Hàn) đã chế tạo hệ thống tự động tưới nước và quang hợp cho cây.

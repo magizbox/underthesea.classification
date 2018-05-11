@@ -1,0 +1,2 @@
+1 học sinh 30 điểm, 40 học sinh trên 25 điểm trong cùng một lớp
+Trong số 50 học sinh của lớp có 1 em được 30 điểm, 4 em từ 29,1 - 29,75 điểm, 20 em từ 27 - 29 điểm, 20 em trên 25 điểm, còn lại 5 em trên 23 điểm. Tất cả đều là khối B.

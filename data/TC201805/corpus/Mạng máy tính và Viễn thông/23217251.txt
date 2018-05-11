@@ -1,0 +1,2 @@
+Cảnh báo nguy cơ tin tặc tấn công mạng lưới điện ở Mỹ và châu Âu
+Hãng bảo mật máy tính Symantec ngày 6/9 cho biết một nhóm tin tặc có tên là Dragonfly 2.0 đã xâm nhập vào các hệ thống kiểm soát mạng lưới phân phối điện ở Mỹ và châu Âu.

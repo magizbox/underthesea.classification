@@ -1,0 +1,2 @@
+Robot lươn phát hiện ô nhiễm nước
+Con robot lươn này có tên là Envirobot, được phát triển bởi Viện Công nghệ liên bang Thụy Sĩ, có thể phát hiện được sự ô nhiễm của nguồn nước.

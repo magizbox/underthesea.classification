@@ -1,0 +1,2 @@
+UW phát triển thành công hệ thống phát hiện các thiết bị nghe lén phi pháp
+Đại học Washington (UW) phát triển thành công hệ thống SeaGlass có chức năng phát hiện những điểm bất thường giúp cảnh báo các thiết bị giám sát điện thoại bất hợp pháp đang được sử dụng.

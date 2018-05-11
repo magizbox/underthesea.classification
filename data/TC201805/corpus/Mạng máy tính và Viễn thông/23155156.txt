@@ -1,0 +1,2 @@
+iOS 11 không hỗ trợ ứng dụng 32 bit có tác động như thế nào đến chợ ứng dụng App Store?
+Đã từ lâu rồi, Eddy Boxerman tin rằng trò chơi Osmos do công ty ông phát triển sẽ không cần phải cập nhật phiên bản mới thêm một lần nào nữa. Ông thậm chí còn nghi ngờ khả năng thêm phiên bản mới bởi những bộ code thuộc phần chơi multiplayer cũng đã không còn tương thích với bộ công cụ phát triển mới của Apple.

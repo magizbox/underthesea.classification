@@ -1,0 +1,2 @@
+Microsoft khẩn cấp phát hành bản vá lỗi cho ứng dụng Office
+Bản vá lỗi Tuesday do Microsoft mới cập nhật ngăn chặn hacker cài đặt phần mềm độc hại qua các tài liệu bẫy dạng Word.

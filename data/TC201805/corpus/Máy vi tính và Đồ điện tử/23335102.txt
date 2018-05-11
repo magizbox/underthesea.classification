@@ -1,0 +1,2 @@
+RÒ RỈ: Điểm benchmark hủy diệt của CPU Intel Core i9 7980XE
+Mùa hè năm nay, Intel đã công bố thời điểm phát hành mẫu chip Intel Core i9 mới của hãng là bộ ba Core i9-7940X (14 lõi), Core i9-7960X (16 lõi) và Core i9-7980XE Extreme Edition (18 lõi) sẽ bán ra vào tháng 10. Tất cả các mẫu chip xử lý trên đều được bán ra cùng bo mạch chủ X299.

@@ -1,0 +1,2 @@
+Ứng dụng quản lý dữ liệu mạng Google Datally đã có tiếng Việt
+Datally, một ứng dụng Android thông minh và đơn giản do Google phát hành miễn phí, giúp người dùng quản lý và tiết kiệm dung lượng dữ liệu di dộng, vừa ra mắt vào cuối tháng 11/2017 đã bổ sung tiếng Việt, giúp trở nên thuận tiện hơn đối với người dùng Việt Nam.

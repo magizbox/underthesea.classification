@@ -1,0 +1,2 @@
+Ứng dụng 'điện toán biết nhận thức' hỗ trợ điều trị ung thư
+Sau khi bác sỹ cập nhật thông tin chẩn đoán, kết quả xét nghiệm của bệnh nhân vào hệ thống điện toán nhận thức, hệ thống sẽ 'hiểu' được tình trạng bệnh và đưa ra các tài liệu y khoa liên quan để có phác đồ điều trị phù hợp.

@@ -1,0 +1,2 @@
+Mỹ sử dụng trí tuệ nhân tạo chẩn đoán bệnh từ xa
+Theo Scientific American, phần mềm Human Dx giúp các bác sĩ tư vấn từ xa và cùng nhau phối hợp trong hội chẩn bệnh. Thuật toán trên nền tảng trí tuệ nhân tạo sử dụng máy học để cấu trúc dữ liệu và đưa ra một danh sách các chẩn đoán có khả năng nhất. Phần mềm Human Dx này sẽ sớm xuất hiện trong các cơ sở y tế của Mỹ và hiện đã được Hiệp hội y khoa Mỹ ủng hộ.

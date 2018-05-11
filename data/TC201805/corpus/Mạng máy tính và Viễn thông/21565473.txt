@@ -1,0 +1,2 @@
+Ứng dụng hóa trang Pitu thu thập nhiều thông tin lạ
+Ứng dụng Pitu có nguồn gốc từ Trung Quốc, giúp người dùng hóa thân thành các nhân vật cổ trang nhưng đang thu thập rất nhiều thông tin của người dùng không liên quan như vị trí, lịch sử dùng ứng dụng.

@@ -1,0 +1,2 @@
+Lỗi Chrome khiến người dùng vô tình 'mời' hacker theo dõi
+Lỗ hổng mới khiến người dùng vô tình cho phép trình duyệt Chrome ghi lại âm thanh qua micro và kích hoạt camera để quay phim nhưng không hề hay biết.

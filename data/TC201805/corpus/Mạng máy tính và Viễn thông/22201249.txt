@@ -1,0 +1,2 @@
+Microsoft: tin tặc đang "nhòm ngó" Windows qua hệ thống cập nhật phần mềm
+Mới đây, Microsoft đã đưa ra cảnh báo về một loạt các vụ tấn công mới nhằm chiếm quyền điều khiển hệ thống cập nhật phần mềm phổ biến, sau đó triển khai phần mềm độc hại trên các máy tính thuộc sở hữu của các tổ chức tài chính và các dịch vụ thanh toán.

@@ -1,0 +1,2 @@
+Apple tung bản cập nhật watchOS 3.2 cho đồng hồ thông minh
+Bên cạnh iOS 10.3 vừa được tung ra, Apple cũng đã chính thức phát hành bản cập nhật watchOS 3.2 với việc tích hợp thêm Theater Mode và SiriKit cho mẫu đồng hồ thông minh Apple Watch của mình.

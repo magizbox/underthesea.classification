@@ -1,0 +1,2 @@
+5 công cụ miễn phí thay thế cho Microsoft Paint
+Có lẽ đã đến lúc chào tạm biệt phần mềm Microsoft Paint, một phần mềm đã gắn bó với Windows từ ngay phiên bản đầu tiên. Theo như trang web Microsoft, trong bản cập nhật Windows 10 Fall Creators Update, Paint sẽ không còn xuất hiện trong Windows mà sẽ được đưa lên Windows Store.

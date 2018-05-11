@@ -1,0 +1,2 @@
+Những điều cần biết về thảm họa bảo mật Cloudbleed vừa xảy ra
+Lỗi bảo mật Cloudbleed xảy ra có nguyên nhân từ công ty internet Cloudflare và đã làm rò rỉ thông tin cá nhân của người dùng, ảnh hưởng tới hàng ngàn website.

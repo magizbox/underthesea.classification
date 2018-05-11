@@ -1,0 +1,2 @@
+Sony biến ảnh chụp hóa đơn thành dữ liệu xu hướng bán hàng
+Sony sẽ dùng thư viện ảnh chụp hóa đơn để phân tích xu hướng bán hàng của các sản phẩm bán tại các cửa hàng bán lẻ, mở rộng sang lĩnh vực tiếp thị điện tử.

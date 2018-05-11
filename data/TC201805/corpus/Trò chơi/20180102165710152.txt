@@ -1,0 +1,2 @@
+Phần mềm siêu tiện lợi giúp chủ quán net xem được cả tốc độ mạng từng máy sử dụng
+Phần mềm sẽ giúp cho chủ quán net vô cùng tiện lợi trong việc quản lý máy trạm, tiết chế hoạt động của những khách hàng 'tốn băng thông' nhằm cân bằng tải cho toàn bộ các máy khác.

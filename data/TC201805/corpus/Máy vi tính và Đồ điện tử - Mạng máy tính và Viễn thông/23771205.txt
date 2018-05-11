@@ -1,0 +1,2 @@
+Robot lươn phát hiện nước bị ô nhiễm
+Con lươn robot được trang bị các cảm biến hóa học, vật lý và sinh học để có thể bơi trong nước và phát hiện nguồn nước bị ô nhiễm.

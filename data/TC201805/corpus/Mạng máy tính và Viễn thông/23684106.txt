@@ -1,0 +1,2 @@
+5 bước giải quyết các vấn đề liên quan Windows Update
+Người dùng Windows hẳn ai cũng biết và ghét tính năng Windows Update. Dù đây là một tính năng quan trọng nhưng nó lại có thể gặp nhiều sự cố: quá trình tải về bản cập nhật bị treo, tải xong nhưng không cài được, hoặc trong quá trình cài thì hệ thống bị khởi động lại liên tục.

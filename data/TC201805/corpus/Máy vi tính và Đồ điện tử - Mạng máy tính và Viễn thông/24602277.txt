@@ -1,0 +1,2 @@
+Sinh viên kỹ thuật Việt Nam sáng tạo cùng cuộc thi ASU/AWS EduHack 2018
+Giải Nhất cuộc thi sáng tạo EduHack 2018 do Trường đại học bang Arizona (ASU) và Amazon Web Services (AWS) phối hợp tổ chức đã dược trao cho nhóm Curiosity - Đại học Bách khoa Đà Nẵng, với giải pháp hỗ trợ đọc sách cho người khiếm thị, trong ngày chung kết thi tài 10/1/2018 vừa qua.

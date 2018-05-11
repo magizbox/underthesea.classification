@@ -1,0 +1,2 @@
+Sẽ có robot sinh học với tế bào cơ xương người
+Theo Hackaday, một trong những vấn đề thiết yếu để chế tạo và điều khiển robot sinh học (biorobot) là thiết bị truyền động.

@@ -1,0 +1,2 @@
+Chẩn đoán bệnh từ xa bằng sóng siêu âm
+Một nhóm nhà khoa học thuộc Viện Máy móc và Vật liệu Hàn Quốc vừa thông báo đã phát minh ra hệ thống chẩn đoán bệnh từ xa bằng sóng siêu âm, gọi là RADIUS, theo đó cho phép các bác sĩ theo dõi những hình ảnh siêu âm của nhiều cơ quan nội tạng của bệnh nhân như gan hoặc tuyến giáp mà họ không cần phải tới bệnh viện.

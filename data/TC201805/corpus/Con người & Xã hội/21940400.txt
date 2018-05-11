@@ -1,0 +1,2 @@
+Mở rộng triển khai lồng ghép quản lý, cung cấp dịch vụ lao và HIV tại y tế cơ sở
+Hiện nay, ở nước ta, số người bệnh đồng nhiễm lao/HIV mới mắc trong cùng năm là 5.500 người. Người nhiễm lao/HIV cũng là đối tượng nguy cơ cao trong kháng đa thuốc và siêu kháng thuốc. Phối hợp phòng chống lao/HIV là một thành phần quan trọng của các Chiến lược phòng chống lao và HIV ở nước ta.

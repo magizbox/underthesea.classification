@@ -1,0 +1,2 @@
+iOS 11 lại mắc lỗi khi người dùng gõ 'it' và 'is'
+Một lỗi gợi ý từ trên các smartphone cài iOS 11 vừa được người dùng phát hiện. Lỗi này tương tự như lỗi gõ chữ 'I' thành chữ 'A?' được phát hiện cách đây chưa lâu.

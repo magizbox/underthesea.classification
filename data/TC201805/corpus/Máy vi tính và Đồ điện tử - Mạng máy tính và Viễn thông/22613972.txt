@@ -1,0 +1,2 @@
+Triển khai bản đồ số giao thông 1.700 tỷ đồng cho Hà Nội
+Công ty FPT sẽ triển khai bản đồ số, cung cấp thông tin về tình trạng giao thông theo thời gian thực, danh mục các thiết bị hạ tầng giao thông (bến xe, biển báo…), tích hợp với các phương tiện vận tải công cộng trên địa bàn Hà Nội.

@@ -1,0 +1,2 @@
+Sử dụng hiệu quả năng lượng trong ngành xây dựng
+Các chủ công trình hỗ trợ kỹ thuật miễn phí để khảo sát, mô phỏng năng lượng nhằm xác định quy mô tiết giảm mức năng lượng sử dụng cũng như phát thải khí nhà kính khi xây mới hoặc cải tạo công trình.

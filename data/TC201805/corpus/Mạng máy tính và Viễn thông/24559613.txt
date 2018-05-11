@@ -1,0 +1,2 @@
+Làm thế nào để 'miễn nhiễm' trước lỗ hổng bảo mật trên CPU?
+Hai lỗ hổng Meltdown và Spectre vừa được phát hiện với mức ảnh hưởng trên hàng tỷ thiết bị toàn cầu trong 20 năm qua. Trong lúc chờ đợi các nhà phát triển tung ra các bản vá lỗi, người dùng cũng cần phải biết cách tự bảo vệ mình.

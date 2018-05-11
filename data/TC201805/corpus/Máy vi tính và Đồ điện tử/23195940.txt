@@ -1,0 +1,2 @@
+3 ứng dụng kiểm tra nhiệt độ máy tính
+Giống như nhiều thiết bị công nghệ khác, laptop và máy tính cá nhân (PC) sẽ hoạt động kém ổn định khi nhiệt độ tăng cao. Làm thế nào để hạn chế tình trạng trên?

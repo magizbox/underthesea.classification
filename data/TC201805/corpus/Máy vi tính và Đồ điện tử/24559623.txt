@@ -1,0 +1,2 @@
+Intel giới thiệu chip Core i5 và Core i7 được hợp tác với AMD
+Thành quả của cuộc hợp tác kinh điển giữa Intel và AMD đã có kết quả là chip Intel Core i5 và Core i7 tích hợp GPU Radeon RX Vega M rời của AMD.

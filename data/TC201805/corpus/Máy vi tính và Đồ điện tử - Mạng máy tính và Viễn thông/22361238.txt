@@ -1,0 +1,2 @@
+Cách chiến hạm LCS săn ngầm khi bị chê vô dụng
+Để tăng khả năng săn ngầm cho chiến hạm LCS, Hải quân Mỹ quyết định trang bị cho UAV MQ-8 Fire Scout hệ thống cảm biến tối tân COBRA.

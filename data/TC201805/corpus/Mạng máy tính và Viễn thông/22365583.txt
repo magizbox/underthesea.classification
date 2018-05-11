@@ -1,0 +1,2 @@
+Tiếp tục xuất hiện mã độc mới nguy hiểm hơn rất nhiều
+Mã độc mới có tên là EternalRocks, sử dụng tới 7 công cụ bị đánh cắp từ cơ sở dữ liệu của cơ quan An ninh quốc gia Mỹ nên tầm nguy hiểm được đánh giá là cao hơn rất nhiều so với WannaCry - mã độc đã làm mưa làm gió tại 150 quốc gia trong 10 ngày qua.

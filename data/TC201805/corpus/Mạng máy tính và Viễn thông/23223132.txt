@@ -1,0 +1,2 @@
+Ứng dụng ngăn người dùng 'đốt tiền' khi quá chén
+Ứng dụng này sẽ vô hiệu quá tất cả các giao dịch qua thẻ thanh toán nếu nồng độ cồn qua hơi thở hoặc trong máu của người dùng quá ngưỡng cho phép.

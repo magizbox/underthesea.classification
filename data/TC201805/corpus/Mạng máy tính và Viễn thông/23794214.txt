@@ -1,0 +1,2 @@
+Google tạo kho 3D cho các nhà phát triển
+Google đã công bố một công cụ khám phá đối tượng 3D mới mang tên Poly, giúp các nhà phát triển tìm và tải đối tượng 3D cho dự án ảo (VR) và tăng cường thực tế ảo (AR) của họ.

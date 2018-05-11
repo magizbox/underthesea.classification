@@ -1,0 +1,2 @@
+Tự động tắt Wi-Fi khi kết nối mạng dây vào PC Windows 10
+Sau khi thiết lập, Windows sẽ tự động vô hiệu hóa Wi-Fi khi bạn kết nối cáp mạng vào máy tính.

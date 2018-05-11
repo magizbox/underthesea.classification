@@ -1,0 +1,2 @@
+Gần 9.000 máy chủ nguy hại ở Đông Nam Á
+Trong một chiến dịch nhằm truy quét tội phạm máy tính trên toàn khu vực Đông Nam Á, Tổ chức Interpol cho biết đã xác định được 8.800 máy chủ điều khiển (C&C) và hàng trăm website bị xâm nhập tại 8 nước thành viên ASEAN, theo Reuters ngày 25.4.

@@ -1,0 +1,2 @@
+Cách chụp ảnh màn hình Touch Bar trên MacBook Pro
+Chụp ảnh màn hình MacBook được thực hiện khá đơn giản, nhưng nếu bạn muốn chụp màn hình hiển thị thứ hai trên MacBook Pro mới (tức vị trí thanh Touch Bar), thì có thể thực hiện theo thủ thuật sau.

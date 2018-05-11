@@ -1,0 +1,2 @@
+Bóc mẽ lỗi ngớ ngẩn của iOS 11 trên ứng dụng máy tính
+Ứng dụng Calculator trên iOS 11 gặp lỗi nhận diện chậm một số thao tác nên khi nhập liệu đưa ra kết quả bất ngờ.

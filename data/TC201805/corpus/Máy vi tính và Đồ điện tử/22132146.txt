@@ -1,0 +1,2 @@
+Mang giao diện dòng lệnh lên smartphone Android với Linux CLI Launcher
+Theo Android Authority, Linux CLI Launcher cho phép bạn sử dụng những dòng lệnh trên Linux để điều khiển chiếc smartphone Android của mình.

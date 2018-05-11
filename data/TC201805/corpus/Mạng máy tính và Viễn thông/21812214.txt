@@ -1,0 +1,2 @@
+Hướng dẫn khôi phục dữ liệu đã xóa trên Dropbox
+Trong quá trình sử dụng, người dùng lỡ tay xóa mất một số dữ liệu quan trọng trên Dropbox. Họ muốn lấy lại những dữ liệu này nhưng không biết làm như thế nào. Bài viết sau đây sẽ hướng dẫn khôi phục dữ liệu đã xóa trên Dropbox.

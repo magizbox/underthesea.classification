@@ -1,0 +1,2 @@
+Microsoft khẳng định không khai tử Paint
+Theo Microsoft, Paint vẫn tồn tại trên Windows 10 bản nâng cấp mới nhất. Tuy nhiên, nó không còn là ứng dụng mặc định. Nếu muốn, người dùng phải tải từ Windows Store.

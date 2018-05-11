@@ -1,0 +1,2 @@
+Trí thông minh nhân tạo tiên đoán được "bạn sẽ làm gì"
+Đây là mã mới giúp máy tính lần đầu quan sát được từng chuyển động nhỏ của nhiều người cùng một lúc và có khả năng khiến robot hiểu ngôn ngữ không lời.

@@ -1,0 +1,2 @@
+Microsoft âm thầm xóa bỏ giới hạn thiết bị truy cập Windows Store
+Microsoft đã thay đổi những quy định về số lượng thiết bị truy cập Windows Store dưới cùng một tài khoản hiện lên đến 2.000, thay vì 10 như trước đây.

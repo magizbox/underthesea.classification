@@ -1,0 +1,2 @@
+Phát hiện mã độc gián điệp cực nguy hiểm phát tán trên kho ứng dụng của Android
+Các chuyên gia bảo mật vừa phát hiện một loại ứng dụng gián điệp có khả năng theo dõi người dùng một cách hết sức tinh vi đang được phát tán ngay trên kho ứng dụng Google Play dành cho nền tảng Android.

@@ -1,0 +1,2 @@
+Hướng dẫn kiểm tra, cập nhật phiên bản Android mới
+Hiện nay, hệ điều hành Android rất phổ biến trên toàn thế giới. Tuy nhiên, không phải ai cũng biết cách kiểm tra và cập nhật phiên bản Android trên thiết bị mà họ đang sử dụng. Bài viết sau đây sẽ giúp bạn thực hiện các thao tác này.

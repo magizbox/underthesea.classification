@@ -1,0 +1,2 @@
+ENV gọi đây là "Bước đường cùng". Còn các bạn sẽ đặt caption nào cho bức ảnh này?
+Không ít chú gấu rơi vào tình cảnh giống bức hình, hãy ký tên để bảo vệ gấu tại: http://thiennhien.org/ky-ten-bao-ve-gau

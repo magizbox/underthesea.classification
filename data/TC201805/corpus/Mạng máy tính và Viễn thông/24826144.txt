@@ -1,0 +1,2 @@
+Google giờ đây có thể biết trước chuyến bay của bạn liệu có bị trễ
+Sử dụng dữ liệu về tình trạng chuyến bay vào các thuật toán máy học của mình, Google có thể dự đoán chính xác đến 80% khả năng chuyến bay có bị trễ hay không.

@@ -1,0 +1,2 @@
+TP.HCM nâng cấp ứng dụng thông tin giao thông
+Phiên bản 3.3.0 với nhiều tính năng tiện lợi, các thao tác sử dụng được tối giản giúp cho người sử dụng dễ dàng hơn.

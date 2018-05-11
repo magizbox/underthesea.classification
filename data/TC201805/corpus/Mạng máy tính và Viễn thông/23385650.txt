@@ -1,0 +1,2 @@
+Chế tạo AI có khả năng ngăn chặn gian lận chỉ số điện
+Nhằm ngăn chặn tình trạng ăn cắp điện đang diễn ra phổ biến ở Brazil, các nhà nghiên cứu mới đây đã phát triển trí thông minh nhân tạo, có khả năng phát hiện các hành vi gian lận chỉ số điện với độ chính xác lên đến 65%.

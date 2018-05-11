@@ -1,0 +1,2 @@
+Hệ thống bảng led cảnh báo an toàn
+Các nhà khoa học thuộc Viện Khoa học Công nghệ Mỏ (Vinacomin) đã xây dựng phương án kỹ thuật, thiết kế, chế tạo thành công hệ thống bảng led điện tử cảnh báo tại các mỏ than, thay thế công tác chỉ dẫn thông tin bằng thủ công gây tốn thời gian.

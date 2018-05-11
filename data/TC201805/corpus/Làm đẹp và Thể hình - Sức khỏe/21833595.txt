@@ -1,0 +1,2 @@
+Dựa tường… mà khỏe
+Bạn chỉ cần một mảng tường trống ở nhà để thực hiện các bài tập dưới đây. Đây là những biến tấu thú vị của các bài tập căn bản nên cũng là cách để bạn không cảm thấy nhàm chán bởi có một “đối tác cứng đầu cứng cổ” như mảng tường.

@@ -1,0 +1,2 @@
+iOS 11 gặp lỗi tự động chuyển chế độ báo thức về im lặng trên iPhone
+Tiếp tục là một lỗi không mong muốn khác vừa xuất hiện trên iPhone cài iOS 11. Buồn thay đây là một tính năng được sử dụng hàng ngày của người dùng, khi báo thức bị vô hiệu hóa hoặc chuyển sang chế độ im lặng một cách khó hiểu.

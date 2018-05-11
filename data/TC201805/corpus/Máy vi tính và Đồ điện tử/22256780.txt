@@ -1,0 +1,2 @@
+NVIDIA GV100: siêu chip đồ họa Volta 12 nm cho AI, 21,1 tỷ transistor, giá 3,4 tỷ đồng
+Nghiên cứu trí tuệ nhân tạo (AI) đang là lĩnh vực "hot" trong giới công nghệ. NVIDIA, một trong các hãng công nghệ hàng đầu thế giới về đồ họa, vừa cho ra mắt siêu chip GV100 dựa trên kiến trúc Volta với kích thước "điên rồ".

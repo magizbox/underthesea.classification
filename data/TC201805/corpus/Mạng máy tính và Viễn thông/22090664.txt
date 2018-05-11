@@ -1,0 +1,2 @@
+Hướng dẫn chuyển hệ điều hành Windows sang ổ đĩa SSD
+Trong bài viết hôm nay, chúng tôi sẽ hướng dẫn bạn cách thay ổ cứng mới không cần cài đặt lại hệ điều hành Windows.

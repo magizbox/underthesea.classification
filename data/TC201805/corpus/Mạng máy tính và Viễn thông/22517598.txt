@@ -1,0 +1,2 @@
+Microsoft tuyên bố Windows 10 S không sợ virus
+Vì mọi phần mềm chạy trên Windows 10 S đều chỉ có thể tải về từ Windows Store nên hệ điều hành này sẽ phòng tránh được sự lây nhiễm của virus.

@@ -1,0 +1,2 @@
+661 ứng dụng ví điện tử chứa phần mềm đánh cắp thông tin người dùng
+Công ty an ninh mạng RiskIQ đã nghiên cứu 18.000 ứng dụng và phát hiện tới 661 ví điện tử có chứa phần mềm độc hại.

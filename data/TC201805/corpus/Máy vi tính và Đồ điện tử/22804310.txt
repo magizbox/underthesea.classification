@@ -1,0 +1,2 @@
+Cách chơi game PC ở độ phân giải cao hơn mức hỗ trợ của màn hình nhờ Supersampling
+Độ phân giải lý tưởng cho một game PC là bao nhiêu? Mọi game thủ sẽ ngay lập tức trả lời rằng: "đó là độ phân giải cao nhất mà màn hình của bạn hỗ trợ". Quả thật, chẳng có nghĩa lý gì khi bạn render hình ảnh ở độ phân giải cao hơn mức mà màn hình có thể xuất ra và mắt có thể nhận biết. Liệu điều này có thực sự đúng hay không?

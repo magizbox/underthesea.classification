@@ -1,0 +1,2 @@
+Người dùng iOS và Android dính lỗ hổng nguy hiểm
+Được đánh giá là an toàn hơn so với Android và Windows, tuy nhiên lượng phần mềm độc hại được tìm thấy trên các thiết bị của Apple đã tăng lên đáng kể trong vài năm trở lại đây.

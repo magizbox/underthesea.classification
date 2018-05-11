@@ -1,0 +1,2 @@
+Facebook thử nghiệm nút reaction và dislike trong Facebook Messenger
+Nút reaction và dislike trong Facebook Messenger hoàn toàn tương tự nút reaction trên iMessage vốn được Apple tích hợp trên iOS 10.

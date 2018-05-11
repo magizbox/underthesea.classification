@@ -1,0 +1,2 @@
+Thiết lập âm báo khác nhau cho các ứng dụng Android
+Thay đổi âm thanh thông báo ứng dụng có thể giúp bạn xác định ứng dụng từ chính âm thanh thông báo mà không cần chạm hay nhìn vào điện thoại Android của mình.

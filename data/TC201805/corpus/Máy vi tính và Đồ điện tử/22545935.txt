@@ -1,0 +1,2 @@
+Microsoft bổ sung hiệu ứng Prisma cho ứng dụng Pix Camera
+Microsoft vừa giới thiệu các tính năng mới hấp dẫn dành cho Pix Camera mà công ty phát hành lần đầu vào mùa hè năm ngoái, cung cấp các bộ lọc mới giúp tạo ra những bức ảnh tương tự Prisma.

@@ -1,0 +1,2 @@
+Singapore phát triển xe tự hành với nền tảng phần cứng của NVIDIA
+Các nhà nghiên cứu xe tự hành của Singapore hiện đang có những bước tiến lớn nhờ vào việc tận dụng các thuật toán trí tuệ nhân tạo dựa trên nền tảng phần cứng DRIVE PX 2 của NVIDIA.

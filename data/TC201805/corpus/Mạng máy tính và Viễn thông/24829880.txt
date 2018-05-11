@@ -1,0 +1,2 @@
+Vimo và Lotte triển khai dịch vụ thanh toán qua QR Code
+Ngày 1/2/2018, Công ty Cổ phần Công nghệ Vi Mô (đơn vị chủ quản ví điện tử Vimo.vn) chính thức hợp tác cùng Lotte Duty Free để triển khai kênh thanh toán bằng QR-Code trên điện thoại di động.

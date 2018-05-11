@@ -1,0 +1,2 @@
+Thêm hiệu ứng slow-motion cho video bằng ứng dụng Photos
+Không cần cài đặt thêm phần mềm bên thứ ba, bạn vẫn có thể tạo video quay chậm trên Windows 10.

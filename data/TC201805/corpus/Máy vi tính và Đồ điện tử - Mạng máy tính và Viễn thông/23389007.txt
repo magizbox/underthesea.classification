@@ -1,0 +1,2 @@
+Hệ thống 'thứ 7' của đô thị thông minh
+Qua 2 kỳ đầu tiên của chuỗi bài viết 'Đi tìm một định nghĩa có cấu trúc cho đô thị thông minh (ĐTTM)' khởi đăng từ ấn phẩm TGVT số tháng 4/2015, chúng ta đã đưa ra khái niệm Đô thị hiện đại (ĐTHĐ) là gì cũng như 6 hệ thống hạ tầng kỹ thuật – dịch vụ hoàn chỉnh kiến tạo nên một ĐTHĐ.

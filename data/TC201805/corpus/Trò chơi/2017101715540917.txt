@@ -1,0 +1,2 @@
+Microsoft tiên phong phát hành bản cập nhật fix triệt để lỗ hổng WPA2, Android bị tấn công nặng nhất nhưng Google bảo từ từ
+Ngay sau khi lỗ hổng được phát hiện, Microsoft đã ngay lập tức làm việc và phát hành bản vá bảo mật dành cho những người dùng Windows của mình.

@@ -1,0 +1,2 @@
+Bài toán thanh khoản cổ phiếu, chờ lời giải từ chính doanh nghiệp
+Nhắc tới việc cơ chế tạo lập thị trường chính thức được áp dụng cho sàn UPCoM và sàn niêm yết HNX, có thể nói, ngoại trừ câu chuyện về mở dòng tiền margin vào UPCoM chưa thể triển khai vì nhiều lý do, nhà quản lý đã tạo ra những điều kiện thuận lợi đáng kể cho sự phát triển thanh khoản và thúc đẩy minh bạch cho sàn UPCoM.

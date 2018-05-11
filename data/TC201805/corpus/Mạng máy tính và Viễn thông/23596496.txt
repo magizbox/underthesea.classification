@@ -1,0 +1,2 @@
+Bộ TT&TT cảnh báo lỗ hổng Wifi khiến hàng tỷ thiết bị gặp nguy hiểm
+Các chuyên gia bảo mật vừa phát hiện thấy một lỗ hổng bảo mật trên giao thức bảo mật WPA/WPA2 của mạng Wifi cho phép tin tặc có thể lấy cắp dữ liệu từ các thiết bị có kết nối Wifi. Điều này đồng nghĩa với hàng tỷ thiết bị đang gặp nguy hiểm.

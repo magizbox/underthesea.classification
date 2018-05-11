@@ -1,0 +1,2 @@
+Một loạt ứng dụng sẽ ngừng hoạt động sau khi iPhone lên iOS 11
+Trước khi bấm nút đồng ý nâng cấp chiếc iPhone/iPad lên iOS 11, người dùng cần lưu ý các ứng dụng 32-bit cũ hơn chưa được cập nhật với hỗ trợ iOS 11 sẽ không hoạt động.

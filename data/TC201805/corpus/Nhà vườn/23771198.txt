@@ -1,0 +1,2 @@
+Choáng ngợp với trung tâm thư giãn làm từ container tái chế
+Việc sử dụng thùng container như một vật liệu trong kiến trúc và xây dựng không còn quá xa lạ trên thế giới. Ngày nay, chúng trở nên phổ biến và được đánh giá cao nhờ những đặc điểm độc đáo. Một trong những thiết kế từ container nổi bật nhất năm 2017 phải kể đến Cube Club.

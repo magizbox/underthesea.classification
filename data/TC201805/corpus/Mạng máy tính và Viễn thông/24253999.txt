@@ -1,0 +1,2 @@
+Phát hiện lỗ hổng bảo mật MS Office tồn tại 17 năm
+Hãng bảo mật Trend Micro vừa cảnh báo lỗ hổng tồn tại suốt 17 năm trên Microsoft Office, đang bị các hacker khai thác để phân tán mã độc backdoor có thể điều khiển từ xa toàn bộ hệ thống máy tính.

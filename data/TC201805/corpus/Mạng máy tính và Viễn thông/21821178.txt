@@ -1,0 +1,2 @@
+Hacker khai thác các ứng dụng nhắn tin mã hóa thông qua trình duyệt web
+Các nhà nghiên cứu bảo mật của hãng Check Point vừa công bố một kỹ thuật mới có thể qua mặt mã hóa đầu cuối (end-to-end) của ứng dụng nhắn tin WhatsApp, ngoài ra, những cuộc tấn công cũng nhắm vào các ứng dụng được mã hóa đầu cuối khác, dấy lên mối lo ngại về độ an toàn của các ứng dụng nhắn tin hiện nay.

@@ -1,0 +1,2 @@
+Cẩn thận PC có thể bị tấn công thông qua các tệp phụ đề video
+Các nhà nghiên cứu tại Check Point Security Labs đã khám phá ra một kỹ thuật tấn công khó chịu làm mất lợi thế an ninh trong một số máy nghe nhạc phổ biến.

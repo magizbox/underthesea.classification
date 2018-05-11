@@ -1,0 +1,2 @@
+Hệ thống của HoSE bị sự cố, hàng loạt giao dịch bị ngưng trệ
+Hệ thống giao dịch HoSE bất ngờ bị lỗi vào chiều 22-1 khiến hàng loạt giao dịch bị đình trệ

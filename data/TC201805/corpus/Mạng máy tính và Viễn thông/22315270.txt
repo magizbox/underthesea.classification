@@ -1,0 +1,2 @@
+Microsoft thu hồi bản vá lỗi an ninh miễn phí của hệ điều hành Windows XP
+Hãng Microsoft của Mỹ đã ngừng cung cấp bản cập nhật an ninh miễn phí vào ngày 12/5 - đúng ngày xảy ra cuộc tấn công mạng trên quy mô toàn cầu bằng mã độc tống tiền WannaCry.

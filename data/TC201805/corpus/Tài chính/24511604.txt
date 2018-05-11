@@ -1,0 +1,2 @@
+Ngân hàng đồng loạt tính lãi suất theo cách mới
+Cách tính mới xác định một năm là 365 ngày thay vì 360 nên lãi suất huy động mỗi ngày bị giảm đi và người gửi tiền có thể thiệt một chút nhưng người đi vay lại có lợi. Lãnh đạo một ngân hàng cho biết, chưa thấy phản hồi của người gửi tiền nào từ cách tính lãi suất mới.

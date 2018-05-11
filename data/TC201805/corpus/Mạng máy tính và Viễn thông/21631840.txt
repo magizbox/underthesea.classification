@@ -1,0 +1,2 @@
+Những điều cần lưu ý khi giao dịch bằng thẻ tín dụng
+Ingenico, một nhà phát triển thiết bị đầu cuối thẻ tín dụng, gần đây đã đăng tải một số hướng dẫn cách phân biệt thiết bị đọc thẻ chuẩn và thiết bị đọc thẻ giả. Đây chắc chắn sẽ là những thông tin hữu ích cho bạn.

@@ -1,0 +1,2 @@
+Ứng dụng nhắn tin siêu bảo mật Signal thêm tính năng chat video
+Sau tính năng mã hóa đầu cuối cho tin nhắn văn bản và gọi thoại, Signal vừa được cập nhật phiên bản mới bổ sung khả năng mã hóa khi chat video.

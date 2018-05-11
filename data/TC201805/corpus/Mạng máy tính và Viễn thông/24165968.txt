@@ -1,0 +1,2 @@
+TPBank số hóa biểu mẫu, hướng tới ngân hàng số đồng bộ
+Sau khi TPBank hoàn thành số hóa biểu mẫu, khách hàng chỉ cần điền nội dung vào các ô cần thiết của biểu mẫu trên web, các nội dung khác vẫn giữ nguyên và đúng định dạng, rút ngắn thời gian, giảm sai lỗi trong quá trình thực hiện giao dịch.

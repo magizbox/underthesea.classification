@@ -1,0 +1,2 @@
+iOS 11 'dốt toán'? Tính sai cả phép cộng 1+2+3
+Lỗi bug khiến iOS 11 đã trở nên 'dốt toán' hơn bao giờ hết, mặc dù lỗi này đã tồn tại từ bản iOS 11.0.3 Beta và cho đến nay, bản beta thứ 5 của iOS 11, vẫn chưa được Apple xử lý.

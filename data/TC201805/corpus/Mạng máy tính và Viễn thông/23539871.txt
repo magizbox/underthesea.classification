@@ -1,0 +1,2 @@
+Chuyên gia khuyến cáo vá lỗ hổng Zeroday trong Microsoft Office
+Chuyên gia của CMC InfoSec khuyến cáo, người dùng cần cập nhật bản vá lỗ hổng Zeroday nghiêm trọng trong Microsoft Office nếu không muốn tin tặc khai thác thông tin.

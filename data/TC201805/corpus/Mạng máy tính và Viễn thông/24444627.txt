@@ -1,0 +1,2 @@
+Phát hành công cụ miễn phí kiểm tra lộ lọt thông tin tài khoản
+Trước tình trạng gần 450.000 tài khoản của Việt Nam bị lộ lọt mật khẩu, Cục An toàn thông tin đã đưa ra công cụ miễn phí, giúp người dùng Việt kiểm tra độ an toàn tài khoản của mình.

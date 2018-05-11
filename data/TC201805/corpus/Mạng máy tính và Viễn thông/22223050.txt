@@ -1,0 +1,2 @@
+NgânLượng.vn ra mắt dịch vụ thanh toán thẻ liên kết Alepay Tokenization
+Dịch vụ chấp nhận thanh toán thẻ liên kết Alepay Tokenization của NgânLượng.vn cho phép người mua liên kết thẻ hoặc tài khoản ngân hàng với website bán hàng hoặc ứng dụng di động của người bán để tự động trừ tiền thanh toán cho các giao dịch tương lai.

@@ -1,0 +1,2 @@
+Trường hợp được hưởng quyền lợi bảo hiểm y tế người có công
+Trường hợp một người thuộc nhiều đối tượng tham gia BHYT thì được hưởng quyền lợi BHYT theo đối tượng có quyền lợi cao nhất.

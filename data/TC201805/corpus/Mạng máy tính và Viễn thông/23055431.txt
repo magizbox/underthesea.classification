@@ -1,0 +1,2 @@
+Vô hiệu hóa nhanh Touch ID trên iPhone chạy iOS 11
+Bạn có thể tắt ngay Touch ID trên iPhone nếu thiết bị đã được cập nhật lên iOS 11.

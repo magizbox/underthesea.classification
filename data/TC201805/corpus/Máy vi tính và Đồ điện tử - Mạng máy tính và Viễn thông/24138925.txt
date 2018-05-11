@@ -1,0 +1,2 @@
+Ứng dụng thông minh hỗ trợ thanh niên nông thôn khởi nghiệp
+Do T.Ư Đoàn TNCS Hồ Chí Minh xây dựng trên nền tảng điện thoại di động thông minh, ứng dụng 'Thanh niên với nông nghiệp' được kỳ vọng sẽ là cầu nối giữa lực lượng thanh niên nông thôn có đam mê làm giàu chính đáng với doanh nghiệp, hình thành chuỗi liên kết trong sản xuất và tiêu thụ sản phẩm.

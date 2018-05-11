@@ -1,0 +1,2 @@
+Bức ảnh lí giải vì sao xe tự lái lại có nhiều cảm biến đến như vậy
+Cảm biến chính là thứ khiến cho xe tự lái có thể cảm nhận được môi trường xung quanh và từ đó đưa ra các quyết định cần thiết để có thể lưu hành một cách an toàn.

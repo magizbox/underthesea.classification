@@ -1,0 +1,2 @@
+Chiêm ngưỡng đầu tiên về hệ điều hành đa nền tảng mới của Google
+Google hiện đang sở hữu hai hệ điều hành nổi tiếng nhất – Chrome OS và Android nhưng gã khổng lồ tìm kiến đang bí mật phát triển hệ điều hành thứ ba có tên gọi Fuchsia.

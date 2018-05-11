@@ -1,0 +1,2 @@
+Robot không cần pin, không cần dây vẫn chạy tốt
+Tương lai, loại robot này có thể ứng dụng trong y sinh học cũng như cách nó hoạt động sẽ là nền tảng phát triển thiết bị điện tử thông minh khác.

@@ -1,0 +1,2 @@
+Apple cập nhật khắc phục lỗi bảo mật nghiêm trọng cho iPhone, iPad và Mac
+Lỗi bật mật nghiêm trọng trên các chip (vi xử lý) của Intel, ARM và AMD khiến Apple phải ngay lập tức tung ra cập nhật mới cho iPhone, iPad và cả Mac của mình.

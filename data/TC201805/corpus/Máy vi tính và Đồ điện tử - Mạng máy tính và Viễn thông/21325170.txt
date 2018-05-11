@@ -1,0 +1,2 @@
+Tính toán cọc đơn chịu tác dụng của tải trọng ngang bằng phần mềm MIDAS
+Bài báo trình bày tính toán và phân tích sức chịu tải của cọc chịu đồng thời tải trọng thẳng đứng, tải trọng ngang và mô-men bằng phần mềm MIDAS SOIL WORK.

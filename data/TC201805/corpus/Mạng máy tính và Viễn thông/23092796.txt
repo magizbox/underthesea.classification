@@ -1,0 +1,2 @@
+Thuật toán mới của Google "tiếp tay" việc vi phạm bản quyền hình ảnh
+Thuật toán mới của Google cho phép dễ dàng xoá bất cứ dấu bản quyền (watermark) nào trên hình ảnh, kể cả phức tạp.

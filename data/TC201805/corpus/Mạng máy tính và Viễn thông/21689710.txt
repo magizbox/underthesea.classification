@@ -1,0 +1,2 @@
+Gõ sai câu lệnh, kỹ sư Amazon khiến 20% internet tê liệt
+Chỉ vì một câu lệnh gõ sai trong quá trình sửa lỗi, một kỹ sư trong nhóm máy chủ S3 của Amazon Web Services (AWS) đã khiến cho 20% internet bị tê liệt.

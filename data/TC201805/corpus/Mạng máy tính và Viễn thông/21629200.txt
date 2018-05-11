@@ -1,0 +1,2 @@
+AI học cách viết code cho chính mình
+Có thể nào máy móc tự viết phần mềm cho mình và chiếm công ăn việc làm của lập trình viên?

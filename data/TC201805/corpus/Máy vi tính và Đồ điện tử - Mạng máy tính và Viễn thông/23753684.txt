@@ -1,0 +1,2 @@
+222 bệnh nhân được điều trị với robot phẫu thuật tại Bệnh viện Bình Dân
+Đây là thành tựu ấn tượng sau 2 năm triển khai chương trình phẫu thuật robot cho người lớn tại Việt Nam tại bệnh viện Bình Dân Thành phố Hồ Chí Minh.

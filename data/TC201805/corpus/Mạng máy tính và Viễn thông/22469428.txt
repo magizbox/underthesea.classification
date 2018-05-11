@@ -1,0 +1,2 @@
+Cách tải và cài đặt macOS High Sierra bản thử nghiệm
+Dưới đây là hướng dẫn cách cài đặt phiên bản dùng thử đầu tiên của macOS High Sierra cho nhà phát triển.

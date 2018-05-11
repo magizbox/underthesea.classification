@@ -1,0 +1,2 @@
+Sinh viên chế robot điều khiển từ xa giúp nông dân tưới rau
+Mới đây một sinh viên tên Trần Khánh đã tự mình chế một chiếc 'robot' tưới rau tự động được điều khiển từ xa. 'Robot' này được chế tạo từ một chiếc máy bơm nước động cơ xăng và các ông nhựa PVC. Với 'robot' này, người nông dân chỉ việc đứng trên bờ điều khiển robot tưới rau một cách hoàn toàn tự động.

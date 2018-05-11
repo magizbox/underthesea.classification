@@ -1,0 +1,2 @@
+Kích hoạt chức năng mã hóa để bảo vệ điện thoại Android
+Mã hóa là tính năng được tích hợp sẵn trong hệ điều hành Android 5.1 trở về sau, cho phép bạn không cần tải bất kỳ phần mềm hoặc ứng dụng của bên thứ ba nào để thực hiện tác vụ.

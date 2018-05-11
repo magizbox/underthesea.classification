@@ -1,0 +1,2 @@
+Một thành viên liên danh không hoàn thành hợp đồng
+Gói thầu Xây lắp 01 thuộc Dự án X do liên danh Công ty A và Công ty B thi công. Trong quá trình thực hiện hợp đồng, Công ty A đã hoàn thành công việc theo phân công trong thỏa thuận liên danh, Công ty B không hoàn thành phần việc của mình, để ảnh hưởng đến tiến độ, chất lượng Gói thầu.

@@ -1,0 +1,2 @@
+Tỉ lệ truy cập qua IPv6 của Việt Nam có thời điểm đạt tới 25%
+Tính đến tháng 7/2017, tỉ lệ truy cập qua IPv6 của Việt Nam đạt khoảng 7%, thời điểm cao nhất lên tới 25% (nguồn APNIC) với hơn 3.500.000 người dùng IPv6 (nguồn phòng Lab Cisco), đứng thứ 2 khu vực ASEAN, thứ 6 khu vực Châu Á.

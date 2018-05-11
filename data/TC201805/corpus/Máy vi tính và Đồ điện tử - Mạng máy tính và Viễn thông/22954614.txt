@@ -1,0 +1,2 @@
+Kiến tạo diện mạo thành phố bằng ánh sáng - Bài 4: Dùng thiết bị chiếu sáng nào cho đô thị?
+Hệ thống chiếu sáng công cộng tại các đô thị thường đòi hỏi chi phí rất tốn kém. Nhiều nước trên thế giới có xu hướng lựa chọn giải pháp chiếu sáng thông minh, tiết kiệm điện và thân thiện với môi trường, hướng tới mục tiêu sử dụng đèn LED thay thế các loại đèn truyền thống.

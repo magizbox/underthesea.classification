@@ -1,0 +1,2 @@
+Cách Ruby tạo ra một tác phẩm nghệ thuật độc đáo
+Với đôi bàn tay khéo léo, Ruby họa nên những tác phẩm hoàn hảo trên chiếc túi lọc trà nhỏ xíu.

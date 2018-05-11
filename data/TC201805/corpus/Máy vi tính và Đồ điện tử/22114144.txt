@@ -1,0 +1,2 @@
+Lỗi iOS 10.3.2 khiến iPhone, iPad bị treo
+Khi người dùng kích hoạt cùng lúc 3 tính năng trong Control Center, thiết bị iOS sẽ bị “đóng băng”. Đây là một lỗi xuất hiện trong phiên bản iOS 10.3.2.

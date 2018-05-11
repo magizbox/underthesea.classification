@@ -1,0 +1,2 @@
+Twitter thêm tính năng lưu tweet vào Bookmarks để xem sau
+Nếu trong trường hợp nào đó bạn nhận được một tweet từ những người quan tâm nhưng có việc bận phải đi gấp không kịp xem, thì có thể lưu lại để xem sau thông qua tính năng mới vừa được Twitter cung cấp.

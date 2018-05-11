@@ -1,0 +1,2 @@
+Chrome 62 trên Android có khả năng vá lỗi KRACK Wi-Fi
+Sau khi thử nghiệm phiên bản beta, Google vừa phát hành phiên bản Chrome 62 chính thức, dành cho các thiết bị Android – Theo Phone Arena.

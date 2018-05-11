@@ -1,0 +1,2 @@
+Có robot này ‘giúp sức’, lấn chiếm vỉa hè sẽ được phát hiện nhanh
+Tình trạng lấn chiếm vỉa hè đang là vấn đề nóng hổi của nước ta. Xuất phát từ thực tiễn đó, nhóm học sinh ở Huế đã nghiên cứu ra một con robot tuần tra có thể tự động phát hiện ra những hành vi lấn chiếm vỉa hè.

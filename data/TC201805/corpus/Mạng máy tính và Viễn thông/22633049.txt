@@ -1,0 +1,2 @@
+Bkav: Mã độc Petya đang lan khắp thế giới, nguy hiểm hơn cả WannaCry
+Nhận định mã độc tống tiền Petya đang khiến cả thế giới “điên đảo” còn nguy hiểm hơn WannaCry, Bkav khuyến nghị quản trị hệ thống rà soát kỹ server bởi với WMIC và PSEXEC, mã độc có thể dễ dàng lây nhiễm từ một server ra toàn hệ thống có cùng domain.

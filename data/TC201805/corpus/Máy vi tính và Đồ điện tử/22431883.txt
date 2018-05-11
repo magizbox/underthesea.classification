@@ -1,0 +1,2 @@
+LMHT: Người chơi sẽ được nhận mảnh chìa khóa với tính năng Vinh Danh mới
+Ngoài ra, tính năng này cũng được thiết kế trông bắt mắt và tiện lợi hơn để mọi người chăm vinh danh đồng đội hơn.

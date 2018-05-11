@@ -1,0 +1,2 @@
+Thử nghiệm Google's Perspective
+Với công cụ mang tên Google's Perspective, một phần mềm tự học được Jigsaw – công ty con của Alphabet phát triển, những bình luận trên tờ New York Times phiên bản online sẽ được kiểm duyệt nhanh chóng hơn rất nhiều so với quá khứ.

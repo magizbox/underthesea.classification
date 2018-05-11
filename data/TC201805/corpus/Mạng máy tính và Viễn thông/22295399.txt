@@ -1,0 +1,2 @@
+Đại dịch WannaCry: Bạn có an toàn?
+Một vài ngày trước thấy bùng phát cuộc tấn công của một virus Trojan mã hóa WannaCry. Đối với hệ thống máy tính toàn cầu, đây là một đại dịch - một đại dịch toàn cầu. Kaspersky Lab ước tính có hơn 45.000 trường hợp bị tấn công chỉ trong một ngày, nhưng con số thật sự cao hơn nhiều.

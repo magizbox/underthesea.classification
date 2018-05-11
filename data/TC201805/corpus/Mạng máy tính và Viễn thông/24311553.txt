@@ -1,0 +1,2 @@
+Lộ thông tin khách hàng do hãng hàng không
+Kết luận thanh tra của Cục Hàng không VN về việc để lộ, lọt bảo mật thông tin hành khách đi máy bay của cả 3 hãng Vietnam Airlines, Vietjet Air và Jetstar Pacific đã chỉ rõ nguồn lộ thông tin chính là do nhân viên các hãng và lỗ hổng phần mềm, chỉ một phần do đại lý bán vé máy bay.

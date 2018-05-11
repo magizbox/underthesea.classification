@@ -1,0 +1,2 @@
+Cạn kiệt không gian tài khóa và hệ lụy vĩ mô
+Sự cạn kiệt về không gian tài khóa hiện nay sẽ dẫn tới tăng nợ công và làm tình trạng thâm hụt tài khóa trở nên nghiêm trọng hơn.

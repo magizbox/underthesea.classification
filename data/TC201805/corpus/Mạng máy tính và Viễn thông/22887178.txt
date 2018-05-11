@@ -1,0 +1,2 @@
+Mẹo xóa nhiều tin nhắn Messenger cùng lúc
+Thay vì phải xóa từng tin nhắn theo cách thủ công, bạn chỉ cần cài đặt tiện ích Message Cleaner cho trình duyệt Chrome (Cốc Cốc, Opera…) tại địa chỉ https://goo.gl/z6XujR.

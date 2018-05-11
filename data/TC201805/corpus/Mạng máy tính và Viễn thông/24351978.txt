@@ -1,0 +1,2 @@
+Giải pháp an ninh mạng thế hệ mới: 'Tấm áo giáp' bảo vệ kho dữ liệu số
+Trung tâm CMC NextGen SOC của CMC vừa đi vào vận hành là trung tâm điều hành an ninh mạng tiên phong tại Việt Nam tích hợp thành công trí tuệ nhân tạo (Artificial Intelligence - AI) và công nghệ Automation (tự động hóa), nhằm tối ưu hóa các hoạt động phát hiện tấn công, cách ly và phân tích lưu vết phục vụ điều tra số.

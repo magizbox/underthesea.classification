@@ -1,0 +1,2 @@
+Tự động tắt touchpad khi dùng chuột rời trên Windows 10
+Dù được tích hợp nhiều tính năng cử chỉ tiện dụng, nhưng nhiều người vẫn thích dùng chuột rời thông thường thay vì touchpad (bàn rê cảm ứng) trang bị sẵn trên laptop.

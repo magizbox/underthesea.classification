@@ -1,0 +1,2 @@
+Tắt tính năng tự động phát video trên smartphone
+Để tiết kiệm dữ liệu di động (3/4G), bạn có thể áp dụng mẹo nhỏ sau đây để vô hiệu hóa tính năng tự động phát video (autoplay) trên smartphone.

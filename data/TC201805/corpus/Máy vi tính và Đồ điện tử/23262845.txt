@@ -1,0 +1,2 @@
+Nhận diện nói dối công nghệ cao
+Đây không phải là một cuộc phỏng vấn thông thường mà là bài kiểm tra nói dối công nghệ cao hay còn gọi là "máy nhận diện thay đổi thụ động". Đối tượng sẽ được quay phim khi đang trả lời, sau đó, video sẽ được phân tích bằng các thuật toán được phát triển đặc biệt.

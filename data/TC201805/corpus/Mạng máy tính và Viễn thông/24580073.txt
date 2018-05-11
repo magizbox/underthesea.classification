@@ -1,0 +1,2 @@
+Microsoft: Các bản vá lỗi phần mềm làm giảm hiệu suất máy tính
+Tập đoàn công nghệ Microsoft ngày 9/1 cho biết các bản vá lỗi phần mềm được cài đặt nhằm ngăn chặn các mối đe dọa bảo mật đã làm giảm tốc độ ở một số máy tính cá nhân và nhiều máy chủ.

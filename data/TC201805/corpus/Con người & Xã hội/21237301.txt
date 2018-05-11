@@ -1,0 +1,2 @@
+Cách nhận biết giúp hành khách không mua vé xe buýt giả
+Trên bìa trước của mỗi tệp vé xe buýt năm 2017 có con dấu của Trung tâm Quản lý vận tải HKCC TP.HCM (Trung tâm) và con dấu của đại lý.

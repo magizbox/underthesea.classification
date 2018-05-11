@@ -1,0 +1,2 @@
+Thẻ BHYT hết giá trị sử dụng nếu chậm đóng tiền 30 ngày
+Đơn vị chậm đóng BHYT cho người lao động từ 30 ngày trở lên, thẻ BHYT hết giá trị sử dụng.

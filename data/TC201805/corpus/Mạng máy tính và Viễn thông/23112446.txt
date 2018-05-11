@@ -1,0 +1,2 @@
+Zalo cho phép gọi từ danh bạ, không cần mở ứng dụng
+Việc tích hợp tính năng gọi điện từ danh bạ của Zalo giúp tiết kiệm thao tác khi liên lạc qua nền tảng này.

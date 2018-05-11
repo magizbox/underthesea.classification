@@ -1,0 +1,2 @@
+Một số driver laptop của HP bị phát hiện chứa keylogger
+Hồi tháng 5 vừa qua, giới bảo mật đã phát hiện một số driver âm thanh của laptop HP bị dính keylogger. Có vẻ cái dớp vẫn chưa buông tha hãng này khi mới đây driver touchpad của HP lại bị phát hiện dính keylogger.

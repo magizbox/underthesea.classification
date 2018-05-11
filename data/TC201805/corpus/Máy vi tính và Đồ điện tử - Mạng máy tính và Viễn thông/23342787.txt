@@ -1,0 +1,2 @@
+NVIDIA mở hội nghị chuyên đề trí tuệ nhân tạo dựa trên GPU
+Hội nghị có 3 nội dung hội thảo gồm AI dành cho thành phố thông minh, AI dành cho các ngành công nghiệp và AI dành cho nghiên cứu.

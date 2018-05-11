@@ -1,0 +1,2 @@
+Đây là cách Google Maps biết nơi nào đang tắc đường
+Google Maps là một công cụ hữu ích để điều hướng trên toàn thế giới và đưa người dùng tới đích nhanh nhất có thể. Để làm được điều này Google Maps đã dự đoán tình trạng tắc nghẽn giao thông, từ đó tính toán ra tuyến đường đi nhanh nhất. Nhưng làm cách nào Google có thể tính toán chính xác hoạt động của các phương tiện giao thông?

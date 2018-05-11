@@ -1,0 +1,2 @@
+Cáp quang IA đã được khắc phục, AAG phải chờ đến 27/1
+Sau khi được cấu hình lại nguồn, lưu lượng trên tuyến cáp IA đã được khôi phục trở lại bình thường nhưng cáp quang AAG phải đến 27/1 mới được khôi phục

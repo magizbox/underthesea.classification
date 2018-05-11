@@ -1,0 +1,2 @@
+Triển khai Bộ công cụ tập trung dữ liệu ngành BHXH
+BHXH VN vừa ban hành Kế hoạch số 2449 về tập trung, thống nhất cơ sở dữ liệu và triển khai Bộ công cụ tập trung dữ liệu ngành BHXH, đảm bảo liên thông giữa các phần mềm nghiệp vụ.

@@ -1,0 +1,2 @@
+Điều khiển các thiết bị smarthome bằng tin nhắn trên di động
+Tin nhắn văn bản trên smartphone hoàn toàn có thể được sử dụng để kiểm soát tất cả các thiết bị smarthome của bạn. Bạn có thể thực hiện theo thủ thuật sau.

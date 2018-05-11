@@ -1,0 +1,2 @@
+Cổng Thông tin điện tử phải lấy người sử dụng làm trung tâm
+Đó là một trong những nguyên tắc khi xây dựng cổng thông tin điện tử (TTĐT) được Bộ Thông tin và Truyền thông đặt ra tại Dự thảo Thông tư quy định về việc cung cấp dịch vụ công trực tuyến và bảo đảm khả năng truy cập thuận tiện đối với trang TTĐT hoặc cổng TTĐT của cơ quan nhà nước.

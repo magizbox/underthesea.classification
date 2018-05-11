@@ -1,0 +1,2 @@
+Hướng dẫn khôi phục dữ liệu đã xóa trên Android
+Trong quá trình sử dụng, người dùng có thể vô tình xóa nhầm các dữ liệu quan trọng như hình ảnh kỉ niệm, video, tài liệu… khiến họ thường lo lắng và không biết phải làm như thế nào. Bài viết sau đây sẽ hướng dẫn khôi phục dữ liệu đã xóa trên thiết bị Android.

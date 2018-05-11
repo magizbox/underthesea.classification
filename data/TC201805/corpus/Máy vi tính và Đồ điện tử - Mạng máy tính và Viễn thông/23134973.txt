@@ -1,0 +1,2 @@
+TP.Cần Thơ sử dụng dữ liệu mở quản lý đô thị
+Dự án lập cơ sở dữ liệu có sự tham gia cộng đồng tại TP.Cần Thơ là dự án cho các thành phố sử dụng dữ liệu mở cho các sáng kiến thích ứng và là một phần hỗ trợ kỹ thuật nằm trong dự án Phát triển TP.Cần Thơ và tăng cường thích ứng của đô thị.

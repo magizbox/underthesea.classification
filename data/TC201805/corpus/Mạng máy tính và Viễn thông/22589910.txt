@@ -1,0 +1,2 @@
+Wikileaks tiết lộ công cụ của CIA truy cập các hệ thống an toàn nhất thế giới
+Mới đây, Wikileaks, trang mạng chuyên đăng tải những tài liệu bị rò rỉ từ các chính phủ trên toàn thế giới, đã công bố thông tin về các chương trình của Cơ quan Tình báo Trung ương Mỹ (CIA) có tên gọi “Brutal Kangaroo” và “Emotional Simian”, là những ổ đĩa ngụy trang cho phép cơ quan tình báo này lén lút truy cập từ xa các mạng lưới máy tính bí mật hoặc hệ thống “Air-gapped” (hệ thống mạng an toàn không kết nối trực tiếp đến Internet).

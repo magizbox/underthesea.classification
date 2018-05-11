@@ -1,0 +1,2 @@
+Công cụ tình báo hỗ trợ INTERPOL điều tra tội phạm mạng
+Đây là công cụ giúp cải thiện khả năng ứng phó với sự cố mạng và dự đoán trước sự cố.

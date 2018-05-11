@@ -1,0 +1,2 @@
+Thuật toán mới có thể thay đổi được chiều sâu của bức hình
+Tấm ảnh cuối cùng không phải chỉ là một, mà là sự tổ hợp của nhiều tấm lại với nhau.

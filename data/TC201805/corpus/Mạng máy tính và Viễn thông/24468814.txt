@@ -1,0 +1,2 @@
+Tiện ích mở rộng đào tiền ảo xuất hiện trên Google Chrome
+Google vừa phát hiện một tiện ích mở rộng (extension) đào tiền ảo ngấm ngầm được cài đặt trên trình duyệt Chrome khiến cho CPU làm việc nặng hơn bất thường.

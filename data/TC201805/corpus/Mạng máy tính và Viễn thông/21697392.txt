@@ -1,0 +1,2 @@
+Lệnh hay giúp hẹn giờ bật/tắt máy tính để bàn Windows
+Nếu cần phải rời khỏi máy tính trong vài giờ tới, nhưng muốn hệ thống tự động tắt sau khi một quy trình nhất định hoàn tất, bạn có thể thực hiện như hướng dẫn sau mà không cần đến việc cài thêm các phần mềm.

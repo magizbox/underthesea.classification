@@ -1,0 +1,2 @@
+Thủ thuật buộc Firefox giữ lại công cụ tìm kiếm ưa thích
+Nếu sử dụng Firefox, người dùng sẽ thấy rằng trình duyệt web này sử dụng Yahoo như là công cụ tìm kiếm mặc định của nó, nhưng nếu muốn công cụ tìm kiếm khác, bạn có thể thay đổi điều này.

@@ -1,0 +1,2 @@
+Cảnh giác phần mềm quét virus giả mạo lan truyền trong chợ ứng dụng
+Sau làn sóng WannaCry vào tháng trước, đã có hàng loạt ứng dụng được tạo ra hứa hẹn có khả năng bảo vệ người sử dụng trước các cuộc tấn công lạ. Tuy nhiên, hãy nên cảnh giác với những phần mềm lạ.

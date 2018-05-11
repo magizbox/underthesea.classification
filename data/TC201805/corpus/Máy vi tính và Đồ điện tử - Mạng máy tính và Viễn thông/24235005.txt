@@ -1,0 +1,2 @@
+Nông nghiệp thông minh với IoT và điện toán đám mây
+Vệc ứng dụng IoT vào nông nghiệp hiện nay không còn quá phức tạp và đắt đỏ. Chỉ cần lắp thêm các hệ thống cảm biến, xây dựng một hệ thống quản lý dữ liệu trên máy tính và thiết bị di động là có thể sử dụng ngay.

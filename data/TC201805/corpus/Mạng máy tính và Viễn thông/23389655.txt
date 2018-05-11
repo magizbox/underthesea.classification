@@ -1,0 +1,2 @@
+Europol cảnh báo gia tăng các vụ tấn công mạng nhằm vào máy ATM
+Tin tặc không chỉ sử dụng những thiết bị trên để tấn công các ATM, mà còn truy cập thông tin của những máy rút tiền này thông qua mạng lưới máy tính của các ngân hàng.

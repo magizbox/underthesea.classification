@@ -1,0 +1,2 @@
+Ra mắt ứng dụng tìm xe buýt thông minh như Uber, Grab
+Ứng dụng Timbuyt có nhiều tiện ích và tính tương tác cao với hành khách tương tự ứng dụng của Uber, Grab. Ứng dụng đã được đưa lên các cửa hàng ứng dụng của cả hệ điều hành Androi lẫn iOS, sử dụng ngôn ngữ Tiếng Việt và Tiếng Anh.

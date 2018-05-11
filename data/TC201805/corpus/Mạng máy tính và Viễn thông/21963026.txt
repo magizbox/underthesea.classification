@@ -1,0 +1,2 @@
+Tấn công phần mềm lấy cắp thông tin thẻ tín dụng để chiếm đoạt tài sản
+Lợi dụng hiểu biết về lĩnh vực công nghệ thông tin, Nguyễn Dương Bá, Vũ Duy Nam, Nguyễn Văn Hiếu, Lê Anh Việt và Trần Nhật Minh đã tấn công các website lấy cắp thông tin thẻ tín dụng của người khác để chiếm đoạt hàng chục triệu đồng.

@@ -1,0 +1,2 @@
+Phát hiện 'backdoor' được cài vào một sản phẩm phần mềm quản lý máy chủ
+Các chuyên gia Kaspersky Lab đã phát hiện ra một 'backdoor' được cài vào một sản phẩm phần mềm quản lý máy chủ được sử dụng bởi hàng trăm doanh nghiệp lớn trên thế giới.

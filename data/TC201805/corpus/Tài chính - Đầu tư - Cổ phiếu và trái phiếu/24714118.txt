@@ -1,0 +1,2 @@
+Hy hữu: Sàn chứng khoán HOSE lỗi kết nối, ngàn tỷ tắc cứng
+Hàng loạt các lệnh giao dịch trong phiên ATC không thể khớp và cho tới giờ vẫn đang treo khi hệ thống HOSE mất kết nối vào cuối phiên.

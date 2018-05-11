@@ -1,0 +1,2 @@
+Vụ tấn công mạng toàn cầu: Pháp tìm ra cách cứu các tập tin nhiễm mã độc WannaCry
+Các nhà nghiên cứu Pháp đã tìm ra cách để khôi phục các tệp tin Windows nhiễm mã độc WannaCry và đây được coi là cơ hội cuối cùng khi thời hạn chót 1 tuần mà "thủ phạm" các vụ tấn công mạng toàn đưa ra buộc các nạn nhân phải trả khoản tiền điện tử Bitcoin, trị giá từ 300-600 USD tránh cho máy tính bị đánh sập, chỉ còn tính theo từng giờ.

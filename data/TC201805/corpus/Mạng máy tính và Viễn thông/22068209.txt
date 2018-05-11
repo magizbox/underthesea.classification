@@ -1,0 +1,2 @@
+Hướng dẫn tạo bản sao lưu hệ thống trong Windows 10
+Bạn có thể sao lưu toàn bộ hệ thống Windows 10 chỉ bằng công cụ tích hợp sẵn trong hệ điều hành này. Bài viết từ GroovyPost sẽ hướng dẫn bạn cách thực hiện.

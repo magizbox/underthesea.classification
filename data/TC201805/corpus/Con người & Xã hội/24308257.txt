@@ -1,0 +1,2 @@
+Ứng dụng theo dõi dữ liệu chăm sóc nuôi dưỡng trẻ từ 0-8 tuổi
+Hệ thống cho phép thu thập dữ liệu, phân tích thông tin quan trọng của bà mẹ, trẻ em theo thời gian thực nhằm hỗ trợ toàn diện cho nhân viên y tế trong việc chủ động cung cấp các can thiệp hợp lý.

@@ -1,0 +1,2 @@
+Công cụ giúp kiểm tra Windows có bị lỗi Spectre và Meldown hay không
+Ashampoo Spectre Meltdown CPU Checker là công cụ miễn phí dành cho máy tính Windows kiểm tra xem còn có thể bị khai thác bởi hai lỗi Spectre và Meldown hay không.

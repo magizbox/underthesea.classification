@@ -1,0 +1,2 @@
+Google phát hành Chrome 62 trên Android vá lỗi bảo mật KRACK Wi-Fi
+Sau một giai đoạn thử nghiệm beta ngắn, Google đã phát hành phiên bản Chrome 62 dành cho các thiết bị Android.

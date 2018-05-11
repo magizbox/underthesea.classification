@@ -1,0 +1,2 @@
+Microsoft ngưng hỗ trợ điện thoại chạy Windows 10
+Microsoft vừa công bố bản build mới của Windows 10 dành cho người dùng PC và smartphone tham gia chương trình Windows Insider, cùng danh sách smartphone sẽ nhận được bản cập nhật Creators Update chính thức.

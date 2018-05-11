@@ -1,0 +1,2 @@
+Hàng triệu máy tính đang chậm đi vì lỗi bảo mật nghiêm trọng của chip Intel
+Một lỗi bảo mật đã được tìm thấy trong gần như toàn bộ vi xử lý Intel, khiến hãng này cần phản ứng nhanh để xử lý cho các thiết bị Windows, macOS và Linux.

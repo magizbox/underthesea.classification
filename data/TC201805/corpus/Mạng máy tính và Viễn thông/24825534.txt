@@ -1,0 +1,2 @@
+Hướng dẫn chia sẻ mật khẩu Wi-Fi bằng QR Code
+Thay vì phải đọc mật khẩu Wi-Fi nhiều lần, chúng ta có thể tạo ngay mã QR Code để rồi người muốn truy cập chỉ cần quét mã là vào ngay được Wi-Fi.

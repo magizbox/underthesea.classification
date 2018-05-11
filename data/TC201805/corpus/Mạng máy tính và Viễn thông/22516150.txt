@@ -1,0 +1,2 @@
+Tiếp tục hoàn thiện dịch vụ iParking
+Sau hơn một tháng triển khai thí điểm, ứng dụng công nghệ iParking (tìm kiếm và thanh toán trông giữ ô-tô qua điện thoại) đã được nhiều người trải nghiệm và có phản hồi tích cực. Tuy nhiên, thao tác thực tế từ phía người sử dụng đã cho thấy một số hạn chế cần sớm khắc phục.

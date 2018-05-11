@@ -1,0 +1,2 @@
+Cách quét QR Code mà không cần cài ứng dụng
+Mới đây, Apple đã bổ sung thêm tính năng cho phép người dùng iPhone, iPad có thể quét QR Code bằng camera mà không cần cài đặt thêm các ứng dụng của bên thứ ba.

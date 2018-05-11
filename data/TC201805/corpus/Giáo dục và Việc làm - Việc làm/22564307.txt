@@ -1,0 +1,2 @@
+Trưởng phòng có thể thi chức danh vụ trưởng
+Phó trưởng phòng có thể được dự tuyển chức danh phó vụ trưởng và tương đương. Trưởng phòng có thể được dự tuyển chức danh vụ trưởng và tương đương.

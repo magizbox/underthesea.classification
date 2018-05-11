@@ -1,0 +1,2 @@
+Bùi Đắc Dương, sáng lập ứng dụng Shanaca: Muốn mỗi tấm danh thiếp có đời sống riêng
+Với mong muốn thay đổi quan niệm về danh thiếp, biến danh thiếp giấy thành danh thiếp số có thể chia sẻ trực tiếp, kèm theo nhiều chức năng đặc lực dành cho từng nhóm đối tượng, như thể có một đời sống riêng, chàng trai 8x Bùi Đắc Dương đã xây dựng ứng dụng Shanaca.

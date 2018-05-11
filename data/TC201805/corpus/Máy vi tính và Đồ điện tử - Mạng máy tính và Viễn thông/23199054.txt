@@ -1,0 +1,2 @@
+Lazada thí điểm giao hàng bằng xe điện vì môi trường
+Nhằm giảm lượng khí thải từ các phương tiện giao thông, Lazada mới đây đã triển khai thí điểm dự án Go Green, sử dụng xe đạp điện để giao hàng tại 3 thành phố Hà Nội, Hồ Chí Minh và Đà Nẵng từ tháng 6/2017.

@@ -1,0 +1,2 @@
+OneLogin bị hack, hàng triệu người dùng gặp nguy
+Giám đốc bảo mật Alvaro Hoyos của hãng cung cấp dịch vụ quản lý mật khẩu OneLogin cho biết đã phát hiện “truy cập không phép vào dữ liệu OneLogin” trên blog công ty.

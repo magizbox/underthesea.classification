@@ -1,0 +1,2 @@
+Google Photos gặp sự cố sao lưu ảnh
+Dịch vụ lưu trữ ảnh trực tuyến Google Photos dường như đang gặp sự cố, khi một số người dùng báo cáo, sau ngày 14.10, hình ảnh được tải lên ứng dụng không hiển thị trên dịch vụ web dù chúng đã được sao lưu.

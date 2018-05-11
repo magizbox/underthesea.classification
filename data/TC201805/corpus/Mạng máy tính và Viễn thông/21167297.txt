@@ -1,0 +1,2 @@
+Khóa số phát tán tin nhắn và cuộc gọi rác
+Người bị quấy rầy cung cấp số điện thoại gọi đến, thời điểm gọi, nội dung gọi để các đơn vị cung cấp dịch vụ khóa số.

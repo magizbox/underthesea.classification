@@ -1,0 +1,2 @@
+Tắt hiệu ứng này sẽ giúp tăng tốc, tiết kiệm pin cho MacBook
+Reduce Transparency là tính năng trong macOS nhằm cung cấp hiệu ứng mờ bắt mắt nhưng có thể ảnh hưởng đến trải nghiệm và thời lượng pin sử dụng, vì vậy hãy vô hiệu hóa nó nếu không cần thiết.

@@ -1,0 +1,2 @@
+Máy học (machine learning) là gì và tại sao càng ngày nó càng phổ biến?
+Thời gian gần đây, chắc hẳn bạn đã được nghe nhiều về thuật ngữ 'Machine Learning' (học máy hoặc máy học) - vốn được sử dụng rất nhiều trong việc phát hiện lừa đảo trực tuyến, cung cấp các đề xuất mua hàng trực tuyến trên Netflix hay Amazon, trong công nghệ nhận diện khuôn mặt, xe hơi tự lái, hay ứng dụng trong các Trí tuệ nhân tạo (AI) tiên tiến nhất thế giới hiện nay.

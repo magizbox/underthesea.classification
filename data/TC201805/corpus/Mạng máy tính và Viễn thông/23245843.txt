@@ -1,0 +1,2 @@
+Xử lý người dùng để chống vi phạm bản quyền là rất khó
+chống vi phạm bản quyền phải tìm cách ngăn chặn tận gốc rễ của vấn đề, từ những đối tượng tạo ra nội dung vi phạm và công cụ vi phạm bản quyền, bao gồm các kho tải chứa nội dung vi phạm và các app hay trang web lậu, còn xử lý người dùng là rất khó khăn.

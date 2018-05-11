@@ -1,0 +1,2 @@
+Những lưu ý khi thực hiện công trình bằng container
+Tận dụng container cũ làm văn phòng, nhà ở đang là xu hướng xây dựng mới, được nhiều người trẻ ứng dụng.

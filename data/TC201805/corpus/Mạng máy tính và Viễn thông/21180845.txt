@@ -1,0 +1,2 @@
+SeABank đạt chứng chỉ bảo mật thẻ thanh toán đầu tiên tại Việt Nam
+Đại diện Ngân hàng TMCP Đông Nam Á (SeABank) ngày 26/12 cho biết: SeABank đã triển khai thành công Dự án xây dựng bộ tiêu chuẩn bảo mật dữ liệu thẻ thanh toán (PCI DSS).

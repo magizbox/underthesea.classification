@@ -1,0 +1,2 @@
+Làm thế nào để chạy ứng dụng iOS trên Android?
+Appetize, Cider và iEMU là 3 trình giả lập cho phép người dùng có thể mở các ứng dụng iOS trên smartphone Android chỉ với vài thao tác đơn giản.

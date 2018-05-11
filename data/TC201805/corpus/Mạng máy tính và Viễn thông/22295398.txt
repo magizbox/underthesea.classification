@@ -1,0 +1,2 @@
+Sắp có máy tính Windows 10 dùng chip Snapdragon 835
+Microsoft đang thúc đẩy việc đưa hệ điều hành Windows 10 bản đầy đủ lên các máy tính dùng bộ xử lý ARM 64-bit của Qualcomm.

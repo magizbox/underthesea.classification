@@ -1,0 +1,2 @@
+Qualcomm Snapdragon 450 tăng cường hỗ trợ camera kép và kết nối LTE tốc độ cao
+Dành riêng cho các điện thoại thông minh và máy tính bảng tầm trung, Snapdragon 450 là thành viên đầu tiên của dòng Snapdragon 400 sử dụng quy trình 14nm FinFET, và được thiết kế để mang lại cải thiện đáng kể về thời lượng pin, đồ họa và năng lực tính toán, xử lý hình ảnh cũng như kết nối LTE so với thế hệ trước là nền tảng di động Snapdragon 435.

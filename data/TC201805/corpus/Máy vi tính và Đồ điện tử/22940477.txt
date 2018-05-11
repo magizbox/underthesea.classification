@@ -1,0 +1,2 @@
+Robot dễ thương chạy quanh nhà để quay video
+Kuri là robot có khả năng quay video và chụp ảnh. Robot này có thể nhận diện được khuôn mặt các thành viên trong gia đình và tự động quay video khi có mặt các thành viên. Robot này đang được bán với giá 800 USD

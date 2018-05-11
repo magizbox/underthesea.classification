@@ -1,0 +1,2 @@
+7 thủ thuật sử dụng hiệu quả System Preferences trên macOS
+Nếu muốn tùy biến các thành phần cũng như tính năng của macOS, chắc chắn bạn sẽ cần đến System Preferences.

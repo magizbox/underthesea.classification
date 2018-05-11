@@ -1,0 +1,2 @@
+Giải pháp tích hợp máy quét vân tay vào màn hình smartphone
+Một giải pháp công nghệ vừa được đưa ra cho phép các nhà sản xuất thiết bị cầm tay có thể loại bỏ nút Home và tạo ra điện thoại viền siêu mỏng nhưng vẫn tích hợp máy quét vân tay trên màn hình.

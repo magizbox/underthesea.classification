@@ -1,0 +1,2 @@
+TPHCM ứng dụng phần mềm kiểm soát bệnh sốt xuất huyết và Zika
+Khi phát hiện các ca bệnh sốt xuất huyết và Zika và một số dịch bệnh khác, các bệnh viện sẽ chuyển thông tin đến trung tâm y tế dự phòng thành phố.

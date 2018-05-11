@@ -1,0 +1,2 @@
+Ứng dụng tìm đường an toàn
+Ứng dụng này dựa trên dữ liệu về tai nạn và giao thông có tính đến các điều kiện như ngày trong tuần, tắc nghẽn và loại đường.

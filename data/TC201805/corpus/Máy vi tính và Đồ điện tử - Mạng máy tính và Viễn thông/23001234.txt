@@ -1,0 +1,2 @@
+Quản lý bay áp luồng không lưu mới, giảm thời gian bay chờ
+Từ sáng 7h sáng mai (14/8), TCT Quản lý bay VN triển khai hệ thống quản lý mới giúp giảm thiểu bay chờ.

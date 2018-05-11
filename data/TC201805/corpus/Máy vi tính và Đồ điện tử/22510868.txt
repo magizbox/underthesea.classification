@@ -1,0 +1,2 @@
+iOS 11 có định dạng hình ảnh mới giúp giảm 50% dung lượng ảnh
+iOS 11 sẽ hỗ trợ hai định dạng máy ảnh mới, HEVC và HEIF, giúp tiết kiệm được ít nhất 50% không gian lưu trữ trên thiết bị, mà không phải hy sinh chất lượng hình ảnh.

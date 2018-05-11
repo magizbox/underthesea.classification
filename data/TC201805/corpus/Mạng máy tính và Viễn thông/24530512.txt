@@ -1,0 +1,2 @@
+Lỗi chip ảnh hưởng hàng tỷ điện thoại thông minh
+Ngày 5/1, Apple khẳng định, tất cả các sản phẩm của hãng gồm điện thoại iPhone, máy tính bảng iPad và máy tính bàn Mac, tivi đều bị ảnh hưởng bởi Spectre và Meltdown - hai lỗ hổng bảo mật của các bộ vi xử lý thông dụng. Riêng đồng hồ Apple Watch chỉ bị ảnh hưởng bởi một trong hai lỗi trên.

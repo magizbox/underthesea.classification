@@ -1,0 +1,2 @@
+Xuất hiện phần mềm độc hại mới tấn công thiết bị Android
+Các nhà nghiên cứu vừa phát hiện một phần mềm độc hại (malware) mới, tên gọi là Judy, đang lây lan khắp toàn cầu và tấn công hơn 36 triệu thiết bị Android.

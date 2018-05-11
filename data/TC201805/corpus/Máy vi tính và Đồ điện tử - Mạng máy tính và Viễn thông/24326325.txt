@@ -1,0 +1,2 @@
+Sinh viên sáng tạo phần mềm nhận diện khuôn mặt
+Hệ thống nhận dạng khuôn mặt Bkface của nhóm sinh viên ngành công nghệ thông tin, trường ĐH Bách khoa Hà Nội và sinh viên ĐH Ngoại thương, ĐH Kinh tế quốc dân vừa được trao giải nhất cuộc thi sáng tạo trẻ do trường ĐH Bách khoa Hà Nội tổ chức.

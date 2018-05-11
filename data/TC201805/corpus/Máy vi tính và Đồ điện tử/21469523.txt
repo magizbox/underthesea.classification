@@ -1,0 +1,2 @@
+Những thay đổi đáng chú ý trên iOS 11
+Theo trang Macworld, Apple sắp giới thiệu phiên bản hệ điều hành iOS 11 với nhiều tính năng hấp dẫn như bàn phím tự phát hiện vị trí ngón tay, chế độ Dark Mode… Đồng thời, iOS 11 cũng ngừng hỗ trợ những thiết bị dùng chip 32-bit.

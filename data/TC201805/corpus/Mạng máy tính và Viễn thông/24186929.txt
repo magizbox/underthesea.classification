@@ -1,0 +1,2 @@
+Cách quét mã QR trên các thiết bị iOS
+Sử dụng mã QR để bắt link web, mua hàng, lấy thông tin liên lạc... một cách dễ dàng trên các thiết bị di động đang là xu hướng hiện nay. Vậy làm thế nào để quét mã QR trên các thiết bị iOS?

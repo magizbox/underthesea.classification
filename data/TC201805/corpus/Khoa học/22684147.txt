@@ -1,0 +1,2 @@
+Dọn rác trong vũ trụ bằng robot mô phỏng chân tắc kè
+Các nhà nghiên cứu tại cơ quan hàng không vũ trụ Mỹ NASA và đại học Stanford ở California vừa phát triển một robot lấy cảm hứng từ chân tắc kè.

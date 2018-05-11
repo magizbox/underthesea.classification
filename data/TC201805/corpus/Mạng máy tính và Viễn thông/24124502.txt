@@ -1,0 +1,2 @@
+Hãy thôi đặt mật khẩu có cả chữ, số và ký tự vì nó vô nghĩa
+Hiện vẫn có nhiều trang khuyến cáo, thậm chí là bắt buộc người dùng phải đặt mật khẩu dạng có cả chữ viết hoa, chữ cái, số và ký tự. Tuy nhiên, theo thông tin mới đây nhất thì điều đó hoàn toàn vô nghĩa.

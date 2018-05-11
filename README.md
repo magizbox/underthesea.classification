@@ -63,7 +63,7 @@ To be updated
 ```
 $ cd classification
 $ source activate classification
-$ python classication.py
+$ python train.py
   --train data/vlsp2018/corpus/train.txt
 ```
 

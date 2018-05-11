@@ -1,0 +1,2 @@
+Sốc: Dù tắt GPS hay tháo SIM, google vẫn theo dõi được vị trí người dùng
+Google vừa chính thức thừa nhận rằng ngay cả khi bạn đã tắt chức năng định vị toàn cầu GPS hoặc thậm chí tháo SIM ra khỏi máy, các điện thoại Android hiện nay vẫn tiếp tục theo dõi vị trí người dùng thông qua việc xác định các trụ phát sóng mạng di động. Một khi thiết bị kết nối vào internet, thông tin vị trí người dùng sẽ được mã hóa và gửi về cho Google.

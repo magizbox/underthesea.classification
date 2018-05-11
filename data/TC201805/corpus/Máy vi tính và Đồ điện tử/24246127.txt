@@ -1,0 +1,2 @@
+Tại sao khởi động lại router có thể giúp sửa nhiều lỗi liên quan đến đường truyền?
+Đường truyền Internet nhà bạn đang gặp vấn đề, và bạn lại áp dụng phương pháp 'thần thánh': rút nguồn router hoặc modem ra, đợi 10 giây và cắm lại như cũ, mọi việc được giải quyết. Thế nhưng đã bao giờ bạn tự hỏi tại sao phương pháp này lại thần kỳ đến thế? Và tại sao phải đợi 10 giây mà không phải ít hơn? Và quan trọng nhất là, có cách nào khác để giải quyết không?

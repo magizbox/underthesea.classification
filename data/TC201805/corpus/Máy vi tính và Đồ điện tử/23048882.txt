@@ -1,0 +1,2 @@
+Làm chủ chức năng zoom trong iPhone, iPad chạy iOS
+Zoom là một tính năng được tích hợp trong iOS 8 trở về sau như là một chiếc kính lúp.

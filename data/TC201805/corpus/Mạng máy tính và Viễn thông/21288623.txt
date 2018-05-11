@@ -1,0 +1,2 @@
+Bkav 'điểm mặt' những lỗ hổng an ninh mạng trong năm 2016
+Theo Bkav, năm 2016 thiệt hại do virus máy tính gây ra đối với người dùng Việt Nam lên tới 10.400 tỷ đồng. Ransomware, virus qua USB, tin nhắn rác và tấn công có chủ đích là những điểm nóng nhất.
