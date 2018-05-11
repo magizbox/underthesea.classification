@@ -47,7 +47,7 @@ $ pip install -r requirements.txt
 ### 2.1 Using a pretrained model
 
 ```
-cd ner
+cd classification
 $ source activate classification
 $ python classication.py -fin tmp/input.txt -fout tmp/output.txt
 ```
@@ -61,7 +61,7 @@ To be updated
 **Train and test**
 
 ```
-$ cd ner
+$ cd classification
 $ source activate classification
 $ python classication.py
   --train data/vlsp2018/corpus/train.txt
