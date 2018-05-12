@@ -1,0 +1,8 @@
+Tại hội sách quận 7, mọi người liên tục hỏi sách về dân tộc Do Thái. Chắc nhiều bạn cũng đang tìm nên chia sẻ nguyên bộ lên
+
+Bạn đã đọc được cuốn nào trong bộ này rồi ạ?
+1: Mật mã Do Thái
+2: Chủng tộc Technion
+3: Câu chuyện Do Thái
+4: Tâm thức Israel
+5: Số ít được lựa chọn

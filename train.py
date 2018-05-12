@@ -6,7 +6,7 @@ from util.convert_to_fasttext_classification_corpus import convert_to_fasttext_c
 path = os.path.abspath("./data/TC201805/corpus")
 convert_to_fasttext_classification_corpus(path, "tmp/train.txt")
 
-classifier = fasttext.supervised('tmp/train.txt', 'model.bin')
+classifier = fasttext.supervised('tmp/train.txt', 'tmp/model.bin')
 sentences = [
     'Tôi bị Phạm Anh Khoa khóa tay, ép vào tường để tấn công tình dục',
     'Người Thái cử thêm 3 nhân sự vào Bia Sài Gòn',

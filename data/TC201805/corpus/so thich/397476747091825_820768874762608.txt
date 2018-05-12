@@ -1,0 +1,9 @@
+cần rỗng cho cụ nào thích nhẹ nhàng
+cần rỗng shimano badejo:
+2m1=220k
+2m4=240k
+2m7=260k
+cần rỗng shimano:cruzar
+2m1=250k
+2m4=270k
+2m7=290k

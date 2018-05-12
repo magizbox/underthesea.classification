@@ -1,0 +1,15 @@
+[TÍNH NĂNG MỚI] Tính năng nạp Xu tại Miki đã chính thức đi vào hoạt động nhằm hỗ trợ bạn mua sách tốt hơn tại ứng dụng. Với tính năng này, bạn có thể nạp tiền từ thẻ điện thoại hoặc nạp từ ứng dụng với tỉ giá 1.000 VNĐ = 1.000 Xu và tiến hành mua sách bình thường trên Miki.
+
+Để nạp tiền, bạn có thể thực hiện theo hướng dẫn sau.
+
+1. Vào mục Cá nhân ---> chọn Ví tiền.
+
+2. Chọn Nạp Xu (icons dấu + màu xanh lá) ---> chọn hình thức Thẻ cào điện thoại hoặc Trực tiếp từ ứng dụng.
+
+3. Với hình thức Thẻ cào điện thoại, bạn cần chọn nhà mạng, Mã số thẻ và Số serial thẻ --> bấm Nạp Xu.
+
+4. Với hình thức Trực tiếp từ ứng dụng, bạn chọn mệnh giá nạp và thanh toán trực tiếp từ thẻ tín dụng của mình thông qua Play Store/itunes.
+
+Sau khi nạp Xu thành công, tại Ví tiền sẽ hiển thị số Xu bạn đang có. Khi mua sách, Miki sẽ tiến hành trừ dần số Xu trong tài khoản của bạn.
+
+Hy vọng với tính năng này, bạn sẽ có thêm nhiều trải nghiệm thú vị hơn cùng Miki.
