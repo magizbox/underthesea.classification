@@ -63,8 +63,8 @@ To be updated
 ```
 $ cd classification
 $ source activate classification
-$ python train.py
-  --train data/vlsp2018/corpus/train.txt
+$ python train.py \
+    --train data/TC201805/corpus/
 ```
 
 ### 2.3 Sharing a model

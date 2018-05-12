@@ -1,9 +1,14 @@
+import argparse
 from os.path import join
 import os
 import fasttext
 from util.convert_to_fasttext_classification_corpus import convert_to_fasttext_classification_corpus
 
-path = os.path.abspath("./data/TC201805/corpus")
+parser = argparse.ArgumentParser("train.py")
+parser.add_argument("--train", help="train file", required=True)
+args = parser.parse_args()
+
+path = os.path.abspath(args.train)
 convert_to_fasttext_classification_corpus(path, "tmp/train.txt")
 
 classifier = fasttext.supervised('tmp/train.txt', 'tmp/model.bin')
@@ -16,5 +21,4 @@ sentences = [
     'Diễn biến ngày đầu The Players Championship',
     'Xuân Trường lọt top 5 bàn thắng đẹp nhất vòng 7 V-League 2018'
 ]
-
 print(classifier.predict(sentences))
