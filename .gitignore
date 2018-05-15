@@ -102,6 +102,7 @@ report/*
 !report/technique_report.tex
 !report/*.bib
 !report/*.sty
+!report/technique_report_final.pdf
 
 tmp/*
 !tmp/.gitkeep
