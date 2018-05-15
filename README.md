@@ -64,7 +64,8 @@ To be updated
 $ cd classification
 $ source activate classification
 $ python train.py \
-    --train data/TC201805/corpus/
+    --train data/TC201805/corpus/ \
+    --train-test-split 0.9
 ```
 
 ### 2.3 Sharing a model

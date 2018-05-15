@@ -6,6 +6,8 @@ from util.convert_to_fasttext_classification_corpus import convert_to_fasttext_c
 
 parser = argparse.ArgumentParser("train.py")
 parser.add_argument("--train", help="train file", required=True)
+parser.add_argument("--train-test-split", type=float,
+                    help="train/test split ratio")
 parser.add_argument("--cross-validation", type=int, help="cross validation")
 args = parser.parse_args()
 
