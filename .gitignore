@@ -100,6 +100,8 @@ ENV/
 report/*
 !report/build.sh
 !report/technique_report.tex
+!report/*.bib
+!report/*.sty
 
 tmp/*
 !tmp/.gitkeep
