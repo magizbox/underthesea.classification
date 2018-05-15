@@ -1,4 +1,4 @@
-\documentclass[journal]{IEEEtran}
+%\documentclass[journal]{IEEEtran}
 
 
 % *** CITATION PACKAGES ***
@@ -60,30 +60,6 @@
 %
 % You can find documentation about the pdfTeX application at:
 % http://www.tug.org/applications/pdftex
-
-
-
-
-
-% *** MATH PACKAGES ***
-%
-%\usepackage[cmex10]{amsmath}
-% A popular package from the American Mathematical Society that provides
-% many useful and powerful commands for dealing with mathematics. If using
-% it, be sure to load this package with the cmex10 option to ensure that
-% only type 1 fonts will utilized at all point sizes. Without this option,
-% it is possible that some math symbols, particularly those within
-% footnotes, will be rendered in bitmap form which will result in a
-% document that can not be IEEE Xplore compliant!
-%
-% Also, note that the amsmath package sets \interdisplaylinepenalty to 10000
-% thus preventing page breaks from occurring within multiline equations. Use:
-%\interdisplaylinepenalty=2500
-% after loading amsmath to restore such page breaks as IEEEtran.cls normally
-% does. amsmath.sty is already installed on most LaTeX systems. The latest
-% version and documentation can be obtained at:
-% http://www.ctan.org/tex-archive/macros/latex/required/amslatex/math/
-
 
 
 
@@ -238,6 +214,8 @@
 % page by themselves.
 
 % correct bad hyphenation here
+\usepackage[hyperref]{acl2018}
+
 \hyphenation{op-tical net-works semi-conduc-tor}
 
 
@@ -298,14 +276,16 @@ The conclusion goes here.
 
 \section*{Acknowledgment}
 
-To be updated
+To be updated Blablabla said ~\cite{DBLP:journals/corr/JoulinGBM16}
 
-\begin{thebibliography}{1}
-
-\bibitem{IEEEhowto:kopka}
-
-To be updated
-
-\end{thebibliography}
+\bibliography{bib}{}
+\bibliographystyle{acl_natbib}
+%\begin{thebibliography}{1}
+%
+%\bibitem{IEEEhowto:kopka}
+%
+%To be updated
+%
+%\end{thebibliography}
 
 \end{document}
