@@ -64,6 +64,10 @@ In recent years, natural language processing and text classification have had a 
 
 We takes some experiments in Naive Bayes, SVM, fasttext models ~\cite{DBLP:journals/corr/JoulinGBM16}.
 
+\subsection{FastText}
+
+FastText maps each vocabulary to a real-valued  vector, with unknown words having a special vocabulary ID. A document can be represented as the average of all these vectors. Then FastText will train a maximum entropy multi-class classifier  on the vectors and the output labels.
+
 \section{Evaluation}
 
 \subsection{Data sets}
