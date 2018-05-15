@@ -99,7 +99,7 @@ ENV/
 
 report/*
 !report/build.sh
-!report/techique_report.tex
+!report/technique_report.tex
 
 tmp/*
 !tmp/.gitkeep
