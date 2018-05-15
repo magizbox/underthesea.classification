@@ -62,7 +62,11 @@ In recent years, natural language processing and text classification have had a 
 
 \section{System Description}
 
-We takes some experiments in Naive Bayes, SVM, fasttext models ~\cite{DBLP:journals/corr/JoulinGBM16}.
+We takes some experiments in Naive Bayes, SVM ~\cite{Suykens1999}, fasttext models ~\cite{DBLP:journals/corr/JoulinGBM16}.
+
+\subsection{SVM}
+
+SVM algorithm works by creating support vectors that separating two classes in n-dimensional space, where each dimension is represented by a feature. The separation is done by finding the largest separation margin between  the features from the two classes and a vector.
 
 \subsection{FastText}
 
@@ -73,6 +77,10 @@ FastText maps each vocabulary to a real-valued  vector, with unknown words havin
 \subsection{Data sets}
 
 \noindent \textbf{TC201805}: This dataset contains 5000 items in 15 categories
+
+\noindent \textbf{VNTC}: A Vietnamese corpus based on the four largest
+circulation Vietnamese online newspapers: VnExpress, TuoiTre Online, Thanh Nien Online, Nguoi Lao Dong Online. The collected texts are automatically preprocessed (removing the HTML tags, spelling normalization) by Teleport software and various heuristics. There followed a stage of manual correction by linguists (five master students in Linguistics of University of Social Sciences, VNU-HCM city, Vietnam) who reviewed and adjusted the documents which are
+classified to the wrong topics. Final relatively large and sufficient corpus includes about 100,000 documents.
 
 \subsection{Evaluation Measures}
 

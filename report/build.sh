@@ -5,7 +5,6 @@ bibtex $name.aux
 pdflatex -file-line-error -interaction=nonstopmode -synctex=1 -output-format=pdf -output-directory=. $name.tex
 pdflatex -file-line-error -interaction=nonstopmode -synctex=1 -output-format=pdf -output-directory=. $name.tex
 
-# remove logs
 rm -rf $name.blg
 rm -rf $name.log
 rm -rf $name.out
