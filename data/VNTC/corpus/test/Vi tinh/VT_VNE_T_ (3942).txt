@@ -1,0 +1,8 @@
+AMD 4000+ tham vọng thế chân Centrino
+Hãng sản xuất chip thứ hai thế giới hôm qua đã cho ra mắt bộ vi xử lý thiết bị di động mới dành riêng cho máy tính xách tay với quyết tâm đạt doanh số đủ lớn để lấn át "đế chế" Centrino của Intel.
+AMD cho biết Athlon 64 bit 4000+ được thiết kế cho notebook có kích thước chuẩn, màn hình khoảng từ 15 đến 17 inch. Hai hãng Fujitsu Siemens và VoodooPC đã khẳng định sẽ sử dụng chip này trong những phiên bản laptop mới nhất của họ.
+Với giá 382 USD/sản phẩm cho các đơn hàng mua 1.000 chip, AMD tin tưởng 4000+ có thể vận hành và xử lý những những công việc 32 bit và 64 bit. Sản phẩm tích hợp công nghệ không dây 802.11a/b/g và cơ chế chống virus. Bên cạnh 4000+, AMD tiết lộ hãng sẽ cung cấp thêm 5 bộ vi xử lý thiết bị di động Athlon 64 khác.
+Các nhà sản xuất PC và chip đặc biệt quan tâm đến mùa khai trường, giai đoạn nhộn nhịp thứ hai sau mùa Giáng Sinh trên thị trường máy tính. Cả Intel và AMD gần đây đều hạ giá thiết bị xử lý để thúc đẩy doanh số sản phẩm. 
+AMD cắt giảm giá thành của chip dùng cho server Opteron, Turion và Sempron cho notebook, chip đơn lõi và lõi kép Athlon. Trong đó, chip Opteron 152 chỉ còn 417 USD so với 637 USD trước đó. Athlon 64 X2 giảm từ 1.001 USD xuống còn 902 USD. Athlon 64 400+ có giá 375 USD thay vì 482 USD, còn Turion 64 ML-40 là 354 USD, trong khi trước đó là 525 USD.
+Intel cũng tuyên bố hạ giá 5 loại thiết bị xử lý, trong đó chip có mức giảm cao nhất là Pentium 4 660 3,6 GHz xuống còn 401 USD từ 605 USD. Pentium 4 650 3,4 GHz hạ 31,92% (273 USD so với 401 USD). Chip 670 3,8 GHz cũng giảm 28,91% chỉ còn 605 USD. Chip 630 3 GHz sẽ được bán với giá 178 USD và 640 3,3 GHz là 218 USD.
+

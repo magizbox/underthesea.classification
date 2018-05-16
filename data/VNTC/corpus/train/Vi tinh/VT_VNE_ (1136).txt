@@ -1,0 +1,6 @@
+Chống virus mới bằng AVG Free
+Phần mềm chống virus xử lý những nguy cơ đã biết là thứ tối cần thiết để có thể làm việc với máy tính. Thế còn những virus lọt lưới vì code chống lại chúng chưa ra đời thì sao? AVG Free được lập trình đặc biệt cho trường hợp này.
+Hệ thống chống virus của AVG sẽ phát hiện những chương trình có hành vi giống với virus, khóa lại và cô lập, ngay cả khi chưa có định nghĩa hay thông báo nào về sự xuất hiện của chúng. Ngoài ra, kết hợp độc đáo giữa các phương pháp phát hiện virus (phân tích logic, phát hiện chủng loại, quét và kiểm tra tích hợp) bảo đảm máy tính của bạn được bảo vệ ở mức cao nhất.
+Bạn có thể thao tác bằng tay để ra lệnh cho chương trình quét virus trên các tập tin và e-mail hoặc lập thời gian biểu để định trước thời gian và thư mục cần quét. AVG có thể thực hiện tác vụ cách ly virus ở chế độ nền nên bạn sẽ không bị nó gây mất tập trung trong khi làm việc.
+AVG Free có dung lượng 9,8 MB, có thể tải tại đây.
+

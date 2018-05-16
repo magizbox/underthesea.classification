@@ -1,0 +1,5 @@
+ Sun phát hành StarOffice 8
+Bộ ứng dụng bao gồm một bộ soạn thảo văn bản, một chương trình bảng tính, một bộ thiết kế trình diễn đa phương tiện và cuối cùng là một ứng dụng để tạo và tổ chức dữ liệu. StarOffice 8 có khả năng nhập các tập tin hay macro được tạo ra từ Microsoft Office. Ngoài ra, StarOffice 8 cũng hỗ trợ định dạng “Open Document”, định dạng Microsoft từ chối giới thiệu trong Microsoft Office. 
+Hỗ trợ 11 ngôn ngữ, và dự định sẽ có thêm 5 ngôn ngữ khác được bổ sung sau khi phát hành. Việc giới thiệu phiên bản 8 mới này cùng nhiều tính năng cải tiến và khả năng tương thích, Sun muốn đưa vị trí của mình trong lĩnh vực cung ứng các ứng dụng văn phòng lên một bậc nữa. 
+StarOffice 8 có giá 99,95 USD cho bản trên CD và bản trên Internet có giá 69,95 USD. Phiên bản phi thương mại của StarOffice là OpenOffice vẫn đang được tiếp tục phát triển qua phiên bản thử nghiệm. Bạn có thể tham khảo thông tin về StarOffice tại đây . 
+

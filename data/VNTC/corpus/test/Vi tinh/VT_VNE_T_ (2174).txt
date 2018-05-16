@@ -1,0 +1,6 @@
+Firefox vá lỗi an ninh
+Tổ chức mã mở Mozilla vừa phát hành bản nâng cấp Firefox 1.0.1 cho trình duyệt web miễn phí của mình nhằm khắc phục một số khiếm khuyết, trong đó có lỗi cho phép giả mạo tên miền.
+Cơ chế tên miền quốc tế hóa IDN là một chuẩn xử lý các bộ ký tự đặc biệt trong những domain đồng dạng ở nhiều ngôn ngữ khác nhau. Khiếm khuyết liên quan đến IDN trong Firefox cho phép những kẻ lợi dụng tạo ra một website giả trên trình duyệt để tiến hành các thủ đoạn phishing. Đường link giả mạo khi đó sẽ có vẻ ngoài như một URL hợp lệ trên thanh địa chỉ address bar của trình duyệt bị lỗi. Đường liên kết này sẽ dẫn tới một địa chỉ giả với tên miền trá hình giống hệt như địa chỉ trong quy trình IDN.
+Trong bản nâng cấp, Firefox sẽ hiển thị mã IDN Punycode trên address bar để ngăn ngừa giả mạo URL. Punycode là cách mã hóa các chuỗi Unicode thành một bộ ký tự hạn chế được hệ thống tên miền DNS và IDN hỗ trợ. Phiên bản Firefox 1.0.1 dành cho cả Windows, Mac OS X và Linux được cung cấp tại đây.
+Kể từ khi ra mắt tháng 11 năm ngoái đến nay, trình duyệt mã mở miễn phí của Mozilla đã thu hút 25 triệu lượt truy tải. Trung bình mỗi ngày có 250.000 người download và hơn 500.000 website đang cung cấp đường link download hoặc các nội dung quảng bá trình duyệt này.
+

@@ -1,0 +1,6 @@
+Google trở thành nhà cung cấp tên miền
+Tuần qua, Tổ chức tên miền quốc tế ICANN và bộ phận kỹ thuật trực thuộc là IANA đã phê chuẩn yêu cầu của Google về việc tham gia cung cấp các domain .biz, .com, .info, .name, .net, .org và .pro. 
+Tuy nhiên, Google vẫn chưa được phép bán các tên miền khác như .aero, .coop, hay .museum...
+Tham gia cung cấp tên miền, Google đã phải chi ra số tiền 2.500 USD nhằm thiết kế phần mềm ứng dụng và 6.500 USD lệ phí để được quyền bán 6 loại domain phổ biến nhất nói trên. Lợi ích từ việc kinh doanh tên miền chưa được đặt lên hàng đầu, mục đích của hãng này chỉ là chỉ giúp mọi người hiểu rõ hơn về hệ thống tên miền DNS và tăng cường khả năng cho công cụ tìm kiếm. Những người quan tâm có thể tìm hiểu thông tin qua e-mail dns-admin@google.com.
+Tuy nhiên, nhiều khả năng Google sẽ chưa cung cấp ngay dịch vụ này. Trước đây, một trường hợp tương tự cũng đã xảy ra. Vào tháng 3/2003, một bài báo đăng trên tờ Wall Street Journal đã khẳng định Amazon trở thành nhà cung cấp tên miền. Tuy nhiên, đến nay, hãng bán lẻ trực tuyến khổng lồ này vẫn chưa có bất kỳ động thái nào liên quan đến việc cung cấp domain. 
+

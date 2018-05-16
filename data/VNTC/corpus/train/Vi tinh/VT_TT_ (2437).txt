@@ -1,0 +1,4 @@
+ Gọi điện thoại Internet giá rẻ không cần máy vi tính
+Đó là IP Box, có cơ chế hoạt động như một máy tính và một modem thu gọn. Người sử dụng chỉ cần thao tác ấn các nút đã được cài đặt sẵn các chức năng là có thể gọi điện thoại Internet mà không cần đến chiếc máy vi tính có kết nối Internet. 
+Dự kiến KASATI không thu các loại cước cài đặt, cước thuê bao, cước các dịch vụ cộng thêm. Cước cuộc gọi quốc tế (chiều từ VN gọi đến thuê bao điện thoại các nước) trung bình khoảng 500đ/phút (tùy theo nước gọi đến). Riêng cước cuộc gọi trong nước và quốc tế (máy tính gọi đến máy tính - PC to PC) sẽ miễn phí. 
+

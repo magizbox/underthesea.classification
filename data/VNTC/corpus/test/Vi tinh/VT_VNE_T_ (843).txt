@@ -1,0 +1,21 @@
+NetSky vẫn là nguy cơ lớn trong tháng 5
+Bất chấp cơn bùng phát toàn cầu vừa qua đưa sâu Sasser lên vị trí số 1, những biến thể của họ virus từng cùng Bagle giao tranh trong đợt lây lan kéo dài nhiều tháng đầu năm nay vẫn chiếm số đông với tỷ lệ phát tán không hề thuyên giảm.
+Theo thống kế của hãng Sophos (Anh), Sasser chiếm 51% số vụ lây nhiễm tháng qua nhưng NetSky lại chiếm từ vị trí thứ 2 đến thứ 7. Sasser gây tác động lớn khi tấn công nhiều doanh nghiệp và hộ gia đình, Carole Theriault, nhà phân tích của Sophos, nói. Mặc dù biến thể của các loại virus trước vẫn xuất hiện nhiều, Sasser mới thực sự là mối đe dọa lớn nhất của tháng 5. Trong 31 ngày qua, Sophos đã xác định thêm 959 virus mới. Đây là con số cao nhất về những chương trình phá hoại mới mà hãng này ghi nhận trong riêng một tháng kể từ tháng 12/2001. 
+Tương phản với những quan sát của Sophos, Trend Micro lại đưa ra một thống kê mà trong đó chỉ có biến thể E của Sasser lọt vào thứ 8/10 trong khi vị trí số 1 thuộc về NetSky. Trend Micro còn cho rằng tình hình virus đang có chiều hướng giảm xuống. Trong tháng 5, công ty này phát hiện thêm 1.050 mã tấn công mới, bao gồm cả sâu, virus, Trojan và một số loại phần mềm phá hoại khác, so với 1.700 virus mới của tháng 4. Trend Micro khẳng định chính NetSky chứ không phải Sasser mới gây nhiều vấn đề nhất trong tháng qua.
+Trên thực tế, từ nhiều năm nay, khi mà sự cạnh tranh trong thị trường phần mềm an ninh ngày càng gia tăng vì những nguồn lợi nhuận tiềm tàng, các công ty bảo mật không mấy khi thống nhất trong việc đặt tên và đánh giá tình hình virus. Chính vì thế, cũng chẳng có gì ngạc nhiên khi không thể kết luận rằng lượng virus trong tháng qua tăng hay giảm và việc tham khảo những thống kê trái ngược của một loạt công ty an ninh có thể chỉ làm cho người ta càng ù cả tai.
+Bức tranh virus tháng 5 không chỉ có các loại sâu. Hãng Panda (Tây Ban Nha) cho biết một số Trojan như Briss.A và Downloader.L cũng đang phát tán mạnh qua e-mail và mạng chia sẻ file ngang hàng. Một khi đã xâm nhập, những chương trình này ngay lập tức download thêm mã tấn công và có thể biến PC nạn nhân thành cỗ máy phát tán thư rác hoặc hỗ trợ tấn công từ chối dịch vụ.
+Nhìn chung, giới nghiên cứu cho rằng sự gia tăng các biến thể virus gắn liền với việc hacker liên tục điều chỉnh mã. Một điểm mà cả 3 công ty an ninh nói trên đều thống nhất là chỉ sử dụng phần mềm diệt virus thôi thì chưa đủ để đối phó với những loại sâu thế hệ mới với những phương thức phát tán rất đa dạng. Để tăng cường sự an toàn cho hệ thống, các hãng này cho rằng tường lửa và một số công cụ bổ trợ nên được áp dụng.
+Patrick Hinojosa, Giám đốc công nghệ của Panda, nói: Cũng trong tháng qua, chúng tôi đã phát hiện sự gia tăng đáng kể nhiều hoạt động tội phạm trực tuyến. Thực sự mà nói, việc bắt giữ Sven Jaschan, tác giả sâu Sasser, không đem lại nhiều tác động hạn chế tình trạng này. Theo Hinojosa, viết virus bây giờ đã trở thành một điều quá đơn giản. Việc tạo ra một loại sâu e-mail thậm chí không đòi hỏi mấy kỹ năng máy tính cao siêu gì vì bây giờ rất nhiều công cụ hỗ trợ làm virus đang xuất hiện trên Internet. Điều này báo hiệu những chủng loại virus mới sẽ tiếp tục gia tăng và biến đổi không ngờ. 
+Bảng xếp hạng virus tháng 5 của Sophos (trong ngoặc là tỷ lệ thông báo gửi về Sophos).
+Sasser (51,1%). 
+Netsky-P (11,7%). 
+Netsky-B (4,1%). 
+Netsky-D (3,8%). 
+Netsky-Z (3,4%). 
+Netsky-Q (2,4%). 
+Netsky-C (2,1%). 
+Sober-G (1,5%). 
+Bagle-AA (0,8%). 
+Lovgate-V (0,7%).
+Các loại khác: 18,4%.
+

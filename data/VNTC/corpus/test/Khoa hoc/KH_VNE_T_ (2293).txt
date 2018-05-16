@@ -1,0 +1,8 @@
+Thiết bị điều khiển con người từ xa
+Chúng ta dùng công cụ từ xa để bật tắt các vật dụng và yêu cầu chúng hoạt động theo ý muốn. Phi công đứng trên mặt đất điều chỉnh máy báy và quân đội sử dụng robot tham chiến. Nhưng các nhà khoa học Nhật cho biết con người cũng sẽ bị ra lệnh. 
+Công ty điện thoại hàng đầu Nhật Bản NTT đang phát triển một công nghệ có thể khiến người thử nghiệm di chuyển theo ý muốn. Một hệ thống tai nghe đặc biệt được đặt vòng qua đầu, truyền một dòng điện thấp từ tai trái sang tai phải hoặc ngược lại tùy thuộc vào chuyển động của joystick. Đây là phương pháp kích thích tiền đình khiến mọi người cảm thấy một sự hối thúc bí ẩn, không thể cưỡng lại và bắt đầu đi sang phải bất cứ khi nào nhà nghiên cứu hướng công tắc sang phải. 
+NTT khẳng định họ có thể bắt một người đi theo lịch trình cụ thể, vì dụ theo hình dạng chiếc bánh xoắn. Người bị điều khiển có cảm giác như thôi miên, uống rượu say, bị gây mê, thậm chí như thấy một bàn tay vô hình đặt bên trong não họ. 
+Một số tỏ ra thích thú nhưng những người khác lại thấy khó chịu khi tham gia thử nghiệm. NTT chưa có kế hoạch kinh doanh sản phẩm sử dụng công nghệ này.
+Ở Mỹ, James Collins, giáo sư tại Đại học Boston, cũng đã nghiên cứu một công nghệ giúp người cao tuổi tránh bị ngã, hay hỗ trợ những ai không có khả năng giữ thăng bằng. Ông khẳng định dòng điện đủ thấp để không ảnh hưởng đến sức khỏe mọi người.
+Tuy vậy, Timothy Hullar, trợ lý giáo sư tại Đại học y Washington (Mỹ) lo ngại rằng việc tìm cách đưa từ trường nam châm từ xa tới tai có thể biến công nghệ này trở thành một loại vũ khí, tuy không làm người khác bị thương nhưng có thể khiến họ mất cân bằng và dễ dàng bị đánh bại.
+

@@ -1,0 +1,6 @@
+ Ý tưởng: Máy chơi media theo tâm trạng
+Tổng hành dinh của Walt Disney ở California đã đưa ra ý tưởng cho một chiếc máy chơi nhạc có thể chơi các bài nhạc tự động tùy theo tâm trạng của người sử dụng. Ý tưởng đó đã được bắt tay thực hiện. 
+Đầu tiên, người ta tiến hành đo chỉ số về nhiệt độ, độ ẩm trên da và nhịp mạch của con người. Thông qua ba con số này để xây dựng một cơ sở dữ liệu về tâm trạng của con người nói chung. Máy chơi nhạc sẽ ghi nhận các chỉ số trên, thông qua so sánh chỉ số đó với cơ sở dữ liệu, sẽ biết được tâm trạng của người sử dụng và chơi các bài nhạc tương ứng. 
+Bước phát triển tiếp theo của ý tưởng là thêm vào chơi video và nếu cần có thể tải về trực tiếp từ Internet các “tâm trạng” mà nó chưa biết. Cơ sở dữ liệu trên sẽ được làm giàu và cập nhật liên tục, kèm theo là sự phân loại triệt để các thể loại nhạc tương ứng. 
+Ngày qua ngày, chiếc máy trên trở thành chiếc máy nghe nhạc đầu tiên có thể nhận biết được tâm trạng của chủ nhân. Thực hiện công phu là vậy, và hiệu quả như thế nào. Chắc hẳn không cần trả lời. 
+

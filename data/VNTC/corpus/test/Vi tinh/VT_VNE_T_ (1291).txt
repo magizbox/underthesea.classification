@@ -1,0 +1,6 @@
+Sổ khám bệnh máy tính
+Sổ sẽ ghi lại xuất xứ sản xuất, người sử dụng, cấu hình, bệnh sử máy và được các chuyên gia theo dõi, tư vấn chữa trị... như đối với người. Sản phẩm do công ty Nguyễn Hoàng thiết kế và cung cấp. Giá mỗi cuốn là 20 USD đối với khu vực nội thành và 30 USD đồng với nội thành.
+Các thông tin ghi trong sổ sẽ được nhập vào phần mềm theo dõi sản phẩm của bệnh viện máy tính Nguyễn Hoàng (iCare). "Bệnh nhân" là tất cả các loại máy lưu hành trên địa bàn TP HCM, không nhất thiết phải mua từ nhà cung cấp sổ, có sử dụng dịch vụ iCare. Các dòng máy bộ đã hết hạn bảo hành của Nguyễn Hoàng cũng được sử dụng sổ này.
+Ngoài ra, đối tượng phục vụ của sổ có thể mở rộng với các thiết bị văn phòng kỹ thuật số như: máy scanner, máy in, máy photo...
+Sản phẩm có hình thức như sổ khám chữa bệnh thông thường, in trên giấy A5, hiện bán tại iCare và các siêu thị máy tính. Thời hạn sử dụng là 12 tháng, kể từ ngày mua.
+

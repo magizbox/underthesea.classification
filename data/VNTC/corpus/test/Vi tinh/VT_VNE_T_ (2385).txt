@@ -1,0 +1,5 @@
+Thêm một hình thức phishing mới
+Thay vì sử dụng những website giả mạo, những kẻ lừa đảo trực tuyếntấn công vào trang web xịn của các ngân hàng, chèn vào trong cấu trúc những đoạn mã riêng để moi thông tin về tài khoản của người truy cập. 
+Ngân hàng Charter One có trụ sở tại Mỹ là nạn nhân đầu tiên của hình thức tấn công này. Cấu trúc website của ngân hàng này đã bị thay đổi một cách bí mật khi phisher thêm vào một đoạn script mới, nằm ẩn sau những gì vẫn xuất hiện bình thường trên trang web charteone.com. Những người bình thường truy cập vào đây không thể nào phát hiện được mình đang bị theo dõi và rất có thể sẽ trở thành nạn nhân của trò lừa đảo này. Từ site này, một e-mail sẽ được gửi tới hòm thư của khách hàng, kèm theo đó là đường link dẫn đến một form cập nhật thông tin về tài khoản. Nếu không tỉnh táo, người dùng sẽ ngoan ngoãn cung cấp những thông tin quan trọng, tiếp tay cho kẻ lừa đảo ăn cắp chính tài sản của mình trong ngân hàng. 
+Khả năng sáng tạo của tội phạm mạng đang là mối lo ngại lớn cho các ngân hàng. Với lợi ích kinh tế to lớn, bọn chúng không ngần ngại "động não" ra những chiêu mới và thực hiện các cuộc tấn công một cách táo bạo.
+

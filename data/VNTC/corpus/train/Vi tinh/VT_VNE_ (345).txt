@@ -1,0 +1,8 @@
+Microsoft cảnh cáo những kẻ xem trộm mã
+Việc sao chép mã nguồn là vi phạm bản quyền và bí mật thương mại. Nếu bạn đã download hoặc cung cấp chúng cho người khác download, bạn sẽ đối mặt với án phạt hình sự và dân sự, Bink.nu, một nguồn không chính thức đưa tin về Microsoft, khẳng định hôm 17/2.
+Đối tượng của lời cảnh báo là cộng đồng lập trình viên trên Internet, vốn đang tranh nhau dòm ngó phần mã bị lộ hôm thứ 5 tuần trước. Microsoft yêu cầu họ hủy ngay những gì tải về và báo cho Microsoft biết xuất xứ của chúng.
+Microsoft coi đây là một sự cố nghiêm trọng và sẽ có những hành động pháp lý đối với những kẻ cố tình vi phạm. Chúng tôi mong mọi người sẽ hợp tác. Trong trường hợp cần thiết, các bạn có thể liên lạc với chúng tôi qua địa chỉ trên, Bink.nu tiết lộ thêm.
+Tom Pilla, người phát ngôn của Microsoft, cũng xác nhận công ty đã đưa ra một số cảnh báo, song từ chối tiết lộ chi tiết. Ông nói thêm là họ đang điều tra cả trong lẫn ngoài công ty.
+Bất chấp các lời đe dọa trên, một số lập trình viên cho rằng có quá nhiều người đang copy các đoạn mã, nên họ cũng chả dại gì đứng ngoài nhìn. Cộng đồng mã mở thì xem đây là cơ hội để so sánh xem những đoạn mã này có gì tương đồng với sản phẩm của họ không.
+Mã nguồn quả thực là bí mật thương mại của Microsoft. Nhưng một khi nước đã đổ khỏi cốc thì khó lòng thu lại được, Phil Abert, một chuyên gia luật, kết luận.
+

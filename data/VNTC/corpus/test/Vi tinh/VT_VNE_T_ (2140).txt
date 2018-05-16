@@ -1,0 +1,7 @@
+Virus 'I love you' trở lại
+5 năm sau khi thế giới Internet là nạn nhân của loại sâu mang thông điệp tình yêu, một hacker khác lại đang cố gắng khai thác thủ đoạn này đối với những người dùng máy tính kém cảnh giác.
+Hãng bảo mật Anh Sophos phát hiện ra virus Assiral.A hôm 21/1 với những đặc điểm giống hệt phiên bản ngày xưa, sử dụng dòng chủ đề (subject) Re: LOV YA! để dụ người nhận e-mail mở những phần đính kèm nguy hiểm (thường có tiêu đề "love-letter-for-you"). 
+Nội dung thư là Kindly read and reply to my LOVE LETTER in the attachments :-) và phần đính kèm mang file LOVE_LETTER.TXT.exe.
+Nếu người nhận mail mở phần attachment, virus sẽ tự sao chép sang máy tính khác và mở ra một trang web ở dịch vụ Geocities, đồng thời thả một file text vào máy bị lây nhiễm.
+Virus gốc có sức lây lan rất lớn nhưng các chuyên gia Sophos cho rằng Assiral.A khó có thể đạt được mức nguy hiểm tương tự.
+

@@ -1,0 +1,6 @@
+Ngày tàn của Password 
+Không còn nghi ngờ gì nữa, mọi người sẽ ngày càng ít dùng mật khẩu, bởi nó không còn đáp ứng được nhu cầu bảo mật thông tin nữa, Chủ tịch Bill Gates nói về "cái chết" của mật khẩu kiểu cũ. 
+Gates đưa ra tiên đoán này tại hội nghị bảo mật RSA Security, tổ chức tại San Francisco, hôm 24/2. Thay vì password, ông đề cập tới những công nghệ nhận dạng như SecurID, dùng cho Windows. Đây là hệ thống kiểm tra được nhiều doanh nghiệp lớn sử dụng. Bên cạnh password hay số PIN thông thường, nó bắt người truy cập nhập một chuỗi số thường xuyên thay đổi.
+Ngoài SecurID, trong nội bộ công ty, Microsoft đã dùng hệ thống thẻ thông minh. Chúng tôi vừa chuyển sang hệ thống này, với sự trợ giúp của hãng bảo mật RSA, Gates cho biết.
+Hãng cũng tự phát triển phần mềm Thẻ thông tin cá nhân (ID card) sinh trắc học, có thể chống giả mạo. Nó giúp các công ty tạo ID card từ vài thiết bị đơn giản, như camera số, máy in phun và máy quét thẻ. Để tạo ra thẻ ID, phần mềm chỉ yêu cầu một tấm ảnh cùng các thông tin đơn giản về tên tuổi hay ngày sinh. Điểm mạnh của hệ thống này là không cần kho dữ liệu, mọi thông tin đều lưu trên card, Gavin Jancke, Giám đốc bộ phận nghiên cứu của Microsoft, khẳng định. Ông tiết lộ thêm là nó có thể lưu cả một số thông tin sinh học như vân tay hoặc ánh mắt, song không cho biết bao giờ sẽ tung ra phần mềm này.
+

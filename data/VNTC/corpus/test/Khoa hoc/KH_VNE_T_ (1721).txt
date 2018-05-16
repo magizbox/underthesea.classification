@@ -1,0 +1,16 @@
+Gene người làm đổi màu cá
+Các nhà khoa học đã thay đổi những con cá vằn bị đột biến có màu vàng thành một loại cá chuẩn có màu trắng phớt vàng với những sọc tối, bằng cách chèn các gene tạo sắc tố vào cá con. 
+Trong một "xảo thuật" thú vị, họ phát hiện thấy khi chèn một loại gene sắc tố tương tự ở người cho cá, chúng cũng biến màu tương tự. 
+Như với người, màu da của cá vằn được quyết định bởi các tế bào sắc tố, chứa những hạt sắc tố có tên gọi melanosome. Số lượng, kích cỡ và độ sẫm của các hạt melanosome trong mỗi tế bào sắc tố sẽ ảnh hưởng đến màu da của nó. Chẳng hạn, người châu Âu có ít hạt melanosome hơn, các hạt này cũng nhỏ hơn và nhẹ hơn so với chủng người tây Phi, trong khi người châu Á nằm đâu đó ở giữa hai nhóm này.
+Những con cá vằn màu vàng có các hạt sắc tố melanosome ít hơn, nhỏ hơn và nhẹ hơn so với cá bình thường. 
+Thí nghiệm
+Keith Cheng từ Đại học Y bang Pennsylvania và cộng sự nhận thấy sự đột biến của một gene (khiến nó hoạt động sai lệch) đã làm cho cơ thể cá vằn không sản xuất ra protein cần thiết để tạo hạt sắc tố.
+"Một đột biến gene khiến cho chiếc máy sản xuất protein bị ngừng lại", Cheng nói. 
+Nhưng khi nhóm của Cheng chèn một bản không bị lỗi của gene nói trên vào những phôi cá vằn màu vàng 2 ngày tuổi, chúng đã sản sinh được melanosome, giúp cho màu da sẫm trở lại màu quen thuộc chỉ trong vài ngày. 
+Tiếp đó, nhóm nghiên cứu tìm hiểu HapMap, một dữ liệu trên mạng về hồ sơ gene người, và phát hiện thấy có một gene sinh melanosome tương tự trên cơ thể chúng ta. Vì thế, họ đã chèn thử gene này vào những phôi cá vằn màu vàng, và chúng cũng trở lại màu tối quen thuộc. 
+"Chúng tôi phỏng đoán da cá vằn đã sẫm màu hơn nhờ chức năng tương tự của gene người được cấy vào - những gene vốn tạo ra nhiều hạt melanosome hơn, lớn hơn và sẫm màu hơn", Cheng nói.
+Đột biến ở người
+Dường như giống cá vằn màu vàng, người châu Âu da sáng cũng có một đột biến trong gene sản xuất melanosome, kết quả là màu da của họ có ít sắc tố hơn. Các nhà khoa học phỏng đoán sự đa dạng của gene này cũng có thể là nguyên nhận tạo ra màu mắt xanh và tóc sáng ở một số người. 
+Tuy nhiên, Cheng nói, điều quan trọng là nghiên cứu đã chỉ ra rằng đột biến ở người và cá vằn là khác nhau - trong khi gene ở cá vằn thất bại hoàn toàn trong việc sản xuất protein để tạo melanosome, gene đột biến ở người vẫn làm việc, chỉ có điều không tích cực mà thôi. 
+Phát hiện này có thể đưa tới những tiến bộ trong việc định mục tiêu chữa các khối u sắc tố ác tính, hoặc trong các nghiên cứu cách làm biến đổi màu da mà không dùng hoá chất hoặc các giải pháp gây tổn thương khác. 
+

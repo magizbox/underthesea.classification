@@ -1,0 +1,5 @@
+Sập site vì Valentine
+Hallmark.com, trang web khổng lồ chuyên cung cấp thiệp điện tử, đã bị quá tải dẫn đến phải ngừng hoạt động bởi hàng loạt yêu cầu gửi và xem thiệp trong ngày lễ Tình nhân. 
+Bắt đầu từ 7h (giờ Washington) ngày 14/2, trang web Hallmark.com đã có dấu hiệu quá tải. Vào thời điểm đó, chỉ khoảng 28% số lượng các yêu cầu được xử lý trong khi việc đăng nhập cũng diễn ra lâu hơn. Mặc dù đến 8 giờ, hiệu suất hoạt động của site tăng lên đáng kể nhưng lại bắt đầu ì ạch khoảng 1 tiếng sau đó. Đến 10h, toàn bộ site đã sụp đổ và chỉ còn dòng chữ: Hallmark.com tạm thời ngừng hoạt động để nâng cấp và sẽ sớm trở lại. 
+Trong ngày lễ Tình nhân vừa qua, khoảng 1 tỷ thiệp chúc mừng đã được chuyển đi. Số lượng này chỉ ít hơn chút ít so với dịp Giáng sinh.
+

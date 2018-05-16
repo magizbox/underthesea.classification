@@ -1,0 +1,10 @@
+Kính thông minh cho người bơi
+Một kỹ sư cơ khí tại Đại học Brunel, London, Anh đã phát minh ra chiếc kính thông minh, giúp người bơi tính được độ dài quãng đường và thời gian trôi qua.
+Katie Williams đã thiết kế và chế tạo chiếc kính này trong một dự án kéo dài 3 năm tại một khóa học về Thiết kế công nghiệp ở Đại học Brunel. 
+Williams cho biết, ý tưởng về chiếc kính Inview bắt nguồn từ những kinh nghiệm của chính cô khi còn làm bảo vệ tại bể bơi của địa phương mình. Nhiều người phải nhờ đến đồng hồ đeo tay hoặc đồng hồ chỉ tốc độ gắn trên tường để biết được thời gian bơi hết một vòng, song cả hai cách này đều khiến họ mất tập trung.
+"Nếu có một cái đồng hồ trên tay, hầu hết người bơi sẽ cử động cánh tay trái theo một cách khác, chỉ để nhìn xem mình đang bơi nhanh hay chậm. Điều đó gây lãng phí năng lượng", Williams nói.
+Nhiều người cũng gặp khó khăn khi ước lượng số vòng đã bơi, đặc biệt nếu họ phải bơi nhiều vòng hoặc phải tập trung vào thực hiện các cú sải hoàn hảo.
+"Tôi chẳng bao giờ biết được mình đã bơi bao nhiêu vòng", Williams nói.
+Phát minh của Williams cho phép người bơi tập trung vào cải tiến những cú sải nước thay vì tính toán xem mình đã bơi được bao xa. Thiết bị sử dụng một la bàn. Khi người bơi bước xuống hồ, la bàn sẽ tự định hướng, và thông báo khi chủ nhân thay đổi hướng bơi, đồng thời ghi lại một vòng.
+Nguyên mẫu điện tử gắn trên kính có chứa la bàn và một máy đếm vòng, với kích cỡ của một hòn đá nhỏ, và có một chút bất tiện với người dùng. Tuy nhiên, thiết bị khi được nghiên cứu hoàn hảo sẽ không lớn hơn một đồng 50 xu và nằm khiêm tốn trên quai đeo phía sau của kính.
+

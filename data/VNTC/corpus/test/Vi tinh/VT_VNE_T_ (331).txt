@@ -1,0 +1,9 @@
+AMos - giải pháp ERP cho doanh nghiệp vừa và nhỏ
+Hôm qua, tại Hà Nội, Phòng Thương mại và công nghiệp Việt Nam cùng Công ty VietSoftware giới thiệu hệ quản trị tài nguyên doanh nghiệp và định hướng thương mại điện tử. Sản phẩm này có giá từ 5.000 đến 15.000 USD, tùy theo yêu cầu của khách hàng. Thời gian triển khai hệ thống tối thiểu là 6 tháng.
+Phần mềm này được VietSoftware phát triển dựa trên công nghệ của Compiere. Giải pháp giúp sản phẩm có đầy đủ nền tảng ERP cần thiết để có thể thiết kế cho phù hợp với đặc thù riêng của môi trường hoạt động kinh doanh tại Việt Nam. AMoscho phép điều hành và quản lý doanh nghiệp từ những nghiệp vụ cơ bản như bán hàng, mua hàng, kế toán, tài chính đến giao dịch thương mại điện tử.
+AMos là một hệ thống mở, với giao diện web và desktop. Nó có thể hỗ trợ cho nhiều hệ kế toán, cách tính thuế, giá với đa ngôn ngữ, phù hợp với tổ chức của doanh nghiệp có văn phòng giao dịch và công ty con ở nhiều nơi khác nhau. 
+Trần Doãn Tuấn, Giám đốc Công ty cổ phần Alliant, bày tỏ: "Tôi thấy sản phẩm này có ưu điểm là sử dụng mã nguồn mở. Nếu ứng dụng vào thực tế mà hợp lý thì giá thành như vậy hoàn toàn không đắt. Tôi sẽ cân nhắc đến việc mua AMos".
+Tuy nhiên, nhiều doanh nhân vẫn còn băn khoăn về khả năng ứng dụng của mô hình vào môi trường kinh doanh tại Việt Nam. Thực tế là đã có nhiều sản phẩm tương tự được giới thiệu, nhưng ít phát huy được tính khả thi. 
+Chị Thủy, Kế toán Công ty Hồng Phúc, cho biết: "Chúng tôi rất quan tâm đến mô hình ERP và trước đây từng tham khảo sản phẩm của nước ngoài, nhưng không mua được vì quá đắt. Tuy nhiên, tôi cũng không thấy ấn tượng lắm với những gì VietSoftware giới thiệu".
+Ông Nguyễn Văn Thảo, Giám đốc Trung tâm Xúc tiến phát triển phần mềm doanh nghiệp, lý giải: "Có thể AMos chưa hoàn hảo, nhưng chúng tôi hy vọng có được sự ủng hộ của cộng đồng để việc ứng dụng công nghệ thông tin trong quản lý thực sự nâng cao năng lực cạnh tranh của các doanh nghiệp".
+

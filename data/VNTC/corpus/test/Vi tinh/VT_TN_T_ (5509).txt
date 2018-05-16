@@ -1,0 +1,22 @@
+Tổng cộng có 18 phần mềm miễn phí tại địa chỉ http://www.softwareclub.ws đang chờ chúng ta tải về sử dụng. Xin giới thiệu với bạn đọc cách sử dụng vài phần mềm trong số ấy.
+1. Chuyển đổi định dạng âm thanh với SC Audio Convertor
+Có nhiều định dạng âm thanh kỹ thuật số và phổ biến nhất hiện nay là mp3, wav, wma, ogg vorbis... Tùy theo yêu cầu mà chúng ta chọn lựa định dạng phù hợp để chuyển đổi và hãy thử sử dụng một công cụ miễn phí của Softwareclub. Chương trình có dung lượng 11,9 MB, tải về từ địa chỉ http://www.softwareclub.ws/. 
+- Chuyển định dạng âm thanh: Khung Convert to: Bấm mũi tên chọn định dạng chúng ta muốn chuyển thành. Bấm nút Add file, có thể chọn cùng lúc file. Nếu muốn sản phẩm chứa trong cùng thư mục với file gốc thì đánh dấu ô Output to the same folder as original. Cũng có thể chọn vị trí khác để lưu sản phẩm bằng cách bấm nút Browse rồi chỉ vị trí. Muốn đổi tên file sau khi hoàn tất việc chuyển định dạng hãy bấm nút Rename Output Files.
+Người dùng có thể xác định chất lượng của file sản phẩm bằng cách bấm nút Configure và tùy chọn tần số lấy mẫu, kiểu âm thanh...
+Đánh dấu Preserve ID Tag để bảo lưu nội dung thông tin cho định dạng mới. Đánh dấu Delete source file(s) after conversion nếu muốn xóa bỏ file gốc sau khi hoàn thành việc chuyển định dạng.Quy định xong bấm nút Convert để chương trình thực hiện.
+- Trích xuất file âm thanh từ CD: Những CD âm thanh ghi dưới dạng .cda nếu copy theo kiểu thông thường chúng ta chỉ lấy được... shortcut mà thôi. Do vậy chương trình này sẽ rất tiện dụng để chúng ta trích xuất các file nhạc trên CD. Cách làm cũng tương tự như phần trên, chỉ khác một chút là khi bấm nút Add file, chúng ta phải chỉ đến file trên đĩa CD cần trích xuất.
+- Chơi nhạc: Phần Record được giới thiệu là có thể ghi âm, tuy nhiên chức năng này chưa tốt lắm. Nhưng dùng nó để chơi một file nhạc thì dễ dàng. Bấm nút Record, bấm tiếp nút Play và chỉ đến vị trí file nhạc trên đĩa, bấm đúp chuột vào file nhạc ấy.
+2. Cắt nhỏ file video
+Chia nhỏ file để thuận tiện cho việc chép lên thiết bị lưu trữ là cần thiết và phổ biến. Rất nhiều phần mềm giúp người dùng máy tính thực hiện điều này. Nhưng, thông thường là sau khi cắt nhỏ file không còn giữ được định dạng như ban đầu. Nếu muốn chia nhỏ file hoặc trích lấy một đoạn của file video và sản phẩm đầu ra vẫn là định dạng ban đầu, hãy dùng phần mềm miễn phí SC Video Cut and Split dung lượng 14,5 MB, cũng tải về từ địa chỉ http://www.softwareclub.ws/.
+Chương trình này còn cung cấp cho chúng ta tiện ích: Capture hình ảnh từ file video rồi lưu dưới một định dạng ảnh thông dụng như bmp, jpg, gif... Độc đáo hơn nữa khi có thể vừa cắt nhỏ, vừa chuyển đổi định dạng từ file avi sang mpeg hoặc wmv.
+Khung Input Video file bấm nút và chỉ đến vị trí file video cần tác động. Có thể bấm nút Play để xem trước. Kéo thanh trượt đến vị trí cần cắt ra khỏi file gốc hoặc đó là nơi sẽ chia đôi file gốc. Bấm nút Output Video File để đặt tên và chỉ đến vị trí lưu sản phẩm.
+Khung Convert to chọn định dạng muốn chuyển đổi có thể là avi, wmv hoặc mpeg. Không muốn chuyển định dạng thì không cần chức năng này. Tương tự như vậy là Audio Format dành cho việc chuyển đổi định dạng âm thanh.
+Tùy theo ý thích có thể chọn và bấm một trong hai nút Cut hoặc Split.Nếu muốn capture hình ảnh từ file video, bấm nút Save Frame. Chọn định dạng file hình ảnh, đặt tên và chỉ vị trí lưu.
+3. Ghi đĩa với SC DVD Ripper &amp; Burner
+Dung lượng 10,6 MB. Sau cài đặt có 6 chức năng: Ghi - xóa dữ liệu trên DVD; Ghi - xóa dữ liệu trên CD; Trích xuất file âm thanh trên CD; Ghi file âm thanh lên CD.
+Sau cài đặt, chạy chương trình, chọn Burn Data CD. Trong cửa sổ chương trình, bấm File, chỉ đến những file cần ghi, bấm Add, bấm Burn. Các chức năng còn lại cũng thao tác tương tự.
+4. SC Net Speed Booster
+Dung lượng 4,7 MB. Giúp tăng tốc kết nối internet, tối ưu hóa bộ nhớ. 
+5. SC System Tuner
+Dung lượng 3,56 MB, là một tiện ích hay cho hệ thống. Gồm hai phần chính là tác động trên hệ điều hành (nút Operating System) và tác động trên CPU-Memory. Trong đó:- Oprating System gồm các thành phần:Visual có 3 thẻ Vitual Option (các tùy chọn cho việc hiển thị); các tác động đối với Start Menu và DesktopDrives: Tác động đối với ổ đĩa (định dạng và chống phân mảnh)Input: Tình trạng của Recycle bin. Tác động đối với chuột và bàn phímExplorer: Những tác động đối với chức năng Exlorer của windowsSystem Info: Những thông tin về hệ thống của bạnSystem Health: Một ứng dụng khá hay để kiểm tra và sửa lỗi trong hệ thống- CPU &amp; Memory: Giám sát hoạt động của CPU và RAM.
+

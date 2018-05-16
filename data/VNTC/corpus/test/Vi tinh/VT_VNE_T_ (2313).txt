@@ -1,0 +1,6 @@
+Thiết lập Wi-Fi chỉ cần một nút bấm
+Công ty LinkSys vừa công bố một kỹ thuật có tính cách mạng trong việc cài đặt kết nối không dây cho mạng gia đình. Công nghệ sẽ cho phép khách hàng dễ dàng mở một mạng Wi-Fi và kích hoạt hệ thống bảo mật Wi-Fi Protected Access (WPA).
+Sau khi ấn một nút trên router LinkSys và thiết bị không dây (hoặc dùng phần mềm thiết lập điểm truy cập của hãng này trên máy tính xách tay), giải pháp mang tên SecureEasySetup sẽ tạo một kết nối riêng giữa các thiết bị truy cập và tự động cấu hình công cụ xác định dịch vụ Service Set Identifier trên mạng, đồng thời hỗ trợ tính năng bảo mật WPA.
+Theo LinkSys, công nghệ này (được giới thiệu tại triển lãm công nghệ CeBit, Hanover, Đức) sẽ giải tỏa những trở ngại hiện nay trong việc mở rộng sự phổ cập các sản phẩm Wi-Fi gia đình bằng cách đem đến cho người tiêu dùng sự thuận tiện khi sử dụng và tính năng an ninh tự động.
+Nhà cung cấp trực thuộc tập đoàn Cisco này dự kiến sẽ bắt đầu cung cấp các sản phẩm Wi-Fi có hệ thống thiết lập một nút bấm nói trên tại thị trường châu Âu trong đầu năm nay.
+

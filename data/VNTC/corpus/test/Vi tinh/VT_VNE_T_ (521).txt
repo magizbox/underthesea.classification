@@ -1,0 +1,5 @@
+Lindows cho download miễn phí hệ điều hành 
+Sau khi phải đổi thương hiệu, làm thế nào để khách hàng quan tâm tới sản phẩm của bạn? Với Michael Robertson, Giám đốc điều hành Lindows, câu trả lời là hãy phân phát chúng miễn phí.
+Ít nhất, đó cũng là lý do trong e-mail ông gửi đi chiều hôm 14/4, sau khi tuyên bố Lindows sẽ trở thành Linspire. Hầu hết người dùng máy tính đều chưa từng sờ tới Lindows. Điều đó mang lại cơ hội cho chúng tôi tạo một ấn tượng ban đầu thật quan trọng, Robertson nói với độc giả.
+Kết quả trong mấy ngày tới, Linspire 4.5 có thể được tải về dưới dạng BitTorrent. Đây là một công cụ chia sẻ ngang hàng, nhằm phân phối cùng một file tới nhiều người dùng, bằng cách buộc những người đang sử dụng công cụ này để download file phải đồng thời upload cho người khác. Robertson nói Lindows dùng tới công nghệ này để giảm áp lực về máy chủ và băng tần. Nếu dùng cách download dựa trên nền web thì máy chủ của chúng tôi chảy ra mất, ông giải thích. Dù vậy, việc lấy không được Linspire, vốn có giá 49,95 USD, có thể rất khó khăn với những người không quen dùng BitTorrent.
+

@@ -1,0 +1,7 @@
+Chip nhớ DDR RAM nhanh nhất thế giới
+Hãng sản xuất thiết bị nhớ Elpida của Nhật vừa giới thiệu chip RAM có tốc độ truyền dữ liệu 1,3 Gb/giây, vượt qua kỷ lục 1,06 Gb/giây của Samsung.
+Elpida DDR3 521 MB.
+Bộ nhớ DDR3 512 MB hoạt động nhanh gấp 2 lần thiết bị DDR2 hiện nay nhưng lại tiêu thụ ít năng lượng hơn, chỉ 1,5 volt so với 1,8 volt của DDR2.
+"Mục tiêu của chúng tôi khi phát triển bộ nhớ DDR3 thế hệ mới là để duy trì những điểm mạnh sẵn có của DDR2, như khả năng hoạt động với nguồn điện thấp, trong khi vẫn tăng tốc độ truyền dữ liệu", Jun Kitano, Giám đốc thị trường của Elpida Memory, cho biết. "Chúng tôi sử dụng các bóng bán dẫn 'hai cổng' (dual gate) đầu tiên với DRAM, cho phép DDR3 521 MB đạt được khả năng vận hành cao trong các ứng dụng điện toán cải tiến của tương lai", 
+Chip DDR3 521 MB sẽ chính thức được đưa vào kinh doanh cuối năm nay. Elpida chưa công bố giá thành sản phẩm.
+

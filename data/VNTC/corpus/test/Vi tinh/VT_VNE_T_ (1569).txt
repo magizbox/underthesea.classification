@@ -1,0 +1,8 @@
+Lỗi đồ họa mới nhất trong Linux
+Khiếm khuyết xuất hiện ở những mã chung (common code) được sử dụng để xử lý đồ hoạ trong mội trường GNOME desktop. Lỗ hổng mới  có thể cho phép kẻ tấn công phá hoại máy tính thông qua một file ảnh đặc biệt.
+Sai sót kĩ thuật nằm trong thư viện phần mềm Imlib, một bộ mã nguồn dùng chung, để xử lý đồ hoạ. Hãng bảo mật Secunia (Đan Mạch), công bố thông tin này hôm thứ 7/12, đánh giá lỗi ở mức độ nghiêm trọng.
+Nhà phát triển phần mềm người Czech Pavel Kankosky là người đầu tiên phát hiện ra lỗi này. Trong khi thực hiện kiểm tra Imlib để tìm hiểu xem thư viện này có bị ảnh hưởng bởi các lỗi đồ hoạcông bố  trong thời gian gần đây hay không thì ông phát hiện ra sai sót nói trên. 
+Đây là lỗi mới nhất trong các khiếm khuyết liên quan đến đồ hoạ, gây ảnh hưởng đến hệ thống. Trước đó, Microsoft đã phải vá lỗi xảy ra ở định dạng ảnh JPEG, sử dụng trong hệ điều hành Windows và các ứng dụng khác. Lỗi này giúp kẻ tấn công kiểm soát máy tính của nạn nhân thông qua một bức ảnh được thiết kế đặc biệt, gây tràn bộ nhớ đệm. Một lỗi tương tự khác cũng xảy ra ở Portable Network Graphics, một định dạng ảnh mã nguồn mở khác. Những lỗi đồ hoạ này đã đặt các máy tính sử dụng Linux, Windows và Mac OS vào tình thế nguy hiểm.
+Gần như ngay lập tức sau khi vấn đề trên được phát hiện, cả Gentoo và SuSE Linux (Novell), hai nhà phân phối Linux lớn trên thế giới, đã tung ra bản vá lỗi trong tuần này.
+Hiện tại, nhiều phiên bản khác nhau của Linux sử dụng môi trường đồ hoạ GNOME desktop cũng bị nghi ngờ có lỗ hổng nói trên.
+

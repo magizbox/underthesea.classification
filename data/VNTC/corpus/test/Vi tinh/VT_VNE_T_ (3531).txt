@@ -1,0 +1,6 @@
+Nối các đoạn phim bằng All Video Joiner 
+Chương trình nối các kiểu file AVI, MPEG, WMV hay ASF vào trong một file duy nhất, với số lượng file và dung lượng không hạn chế, sắp xếp chúng theo ý muốn. 
+Một số phần mềm chỉ có thể nối các file video có cùng một kiểu nhưng đặc điểm nổi bật của All Video Joiner khả năng nối file có kiểu khác nhau như AVI, MPEG, WMV hay ASF.
+Giao diện dễ sử dụng của chương trình cho phép bạn xem trực tiếp file đích được tạo ra. Thật tiện lợi khi chỉ với vài cú nhấn chuột bạn có thể thưởng thức những đoạn phim do chính tay mình tạo ra.
+Phiên bản mới nhất là All Video Joiner 1.6.5. Bản dùng thử có dung lượng 2.16 MB, bạn có thể tải tạiđây.
+

@@ -1,0 +1,6 @@
+SCO vẫn chưa được buông tha
+Hôm qua, hacker lại tấn công và chèn một số tuyên bố lên website của hãng phần mềm gây nhiều tranh cãi với tuyên bố chủ quyền đối với một số bộ phận của hệ điều hành Linux.
+Kẻ tấn công để lại trên trang web nội dung Chúng tôi sở hữu mã của các vị và hãy trả hết tiền đi. Đoạn chữ sử dụng font và màu giống hệt như trên website của SCO, kèm theo một bản sao logo của hãng. 
+Đây là trường hợp mới nhất trong một loạt vụ tấn công nhắm vào SCO. Đầu năm nay, hãng phần mềm mã mở cũng đã lao đao với một biến thể của virus Mydoom, làm website của họ tê liệt do tấn công từ chối dịch vụ và SCO thậm chí đã phải tạm chuyển sang một địa chỉ dự phòng.
+Việc SCO thường là mục tiêu tấn công của hacker có nguyên nhân từ chiến dịch đòi tiền bồ thường của họ từ các công ty cung cấp và sử dụng hệ điều hành Linux. Năm ngoái, SCO khiếu kiện IBM với lý do Big Blue cung cấp bất hợp pháp mã nguồn của Unix cho cộng đồng mã mở để sử dụng trong Linux. 
+

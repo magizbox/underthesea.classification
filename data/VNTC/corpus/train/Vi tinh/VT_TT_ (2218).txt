@@ -1,0 +1,7 @@
+ Intel thử nghiệm bộ xử lý công nghệ 45nm
+Mặc dù được đưa ra thử nghiệm là SRAM (static RAM), tuy nhiên, theo như Intel cho biết, bộ phận này có đầy đủ chức năng như một bộ vi xử lý đa nhân. Cuộc thử nghiệm này chỉ nhằm chứng minh một điều, Intel có thể sản xuất được các bộ vi xử lý sử dụng công nghệ 45 nm. 
+45 nm là kích thước nhỏ nhất của một cấu kiện có thể được sản xuất và định hình trên đĩa bán dẫn. Với công nghệ này, Intel có thể sản xuất được những bộ vi xử lý tiêu thụ ít điện năng hơn, khả năng xử lý cao hơn so với các bộ vi xử lý sản xuất theo các công nghệ trước đây, cụ thể con số ước đoán là 5 lần. 
+Intel hiện đang sản xuất các bộ vi xử lý sử dụng công nghệ 65 nm, các bộ vi xử lý sử dụng công nghệ 45 nm sẽ có mặt trên thị trường vào năm 2007. 
+Định luật Moore vẫn tiếp tục được duy trì. Định luật này nói rằng, mật độ cấu kiện trên các bộ vi xử lý sẽ tăng gấp đôi sau 18 tháng. 
+Chưa biết AMD sẽ có những bước tiến gì sau những thành công ấn tượng gần đây nhất trước đối thủ truyền kỳ là Intel. 
+

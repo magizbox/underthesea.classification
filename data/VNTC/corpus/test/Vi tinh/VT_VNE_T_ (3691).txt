@@ -1,0 +1,6 @@
+Linux là tối ưu cho điện toán lưới
+Theo Guy Cross, Giám đốc phát triển kinh doanh bộ phận Linux khu vực châu Á - Thái Bình Dương của Oracle, phần mềm Chim cánh cụt không chỉ làm giảm chi phí điện toán doanh nghiệp mà còn đóng một vai trò then chốt trong xu thế của ngành CNTT.
+Cross cho rằng một cuộc cách mạng CNTT lớn đang diễn ra và mặc dù tiến trình này được gọi bằng nhiều cái tên khác nhau như điện toán lưới (grid), điện toán theo yêu cầu (on demand), điện toán thích ứng doanh nghiệp (adaptive enterprise), điện toán tiện ích (utility)& thì động lực chính của nó vẫn là cải thiện sự liên thông tương thích và giúp ngành công nghệ thông tin cung cấp những sản phẩm tốt hơn với giá thành hạ.
+Trung tâm của quá trình tiến hóa này là ý tưởng ảo hóa và lưới điện toán - tức là kết hợp các thành phần module chuẩn lại với nhau để hoạt động như một máy tính thống nhất, từ đó đem đến sự linh hoạt cũng như khả năng phản ứng tốt hơn trong hạ tầng công nghệ thông tin.
+Những ích lợi của điện toán lưới, theo quan điểm của Oracle, bao gồm sự tiết kiệm thông qua việc sử dụng những thành phần module chi phí thấp, khả năng sẵn sàng của các dịch vụ và không bị nguy cơ trục trặc hệ thống vì một điểm đơn lẻ.
+

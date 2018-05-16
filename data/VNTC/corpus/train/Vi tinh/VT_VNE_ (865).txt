@@ -1,0 +1,6 @@
+Cách khóa ổ cứng (1)
+Nhà tôi có một máy vi tính. Tôi muốn khóa ổ cứng C không cho ai có thể làm bất cứ thao tác nào. Ngoại trừ chỉ cho phép copy. Để tránh trẻ em không biết gì về vi tính xóa đi những tập tin hệ thống chương trình của máy hay các tập tin quan trọng khác. Mong được sự hướng dẫn. Cảm ơn. 
+phan van minh ut
+Hồi âm:
+Toi nghi neu ban muon khoa o cung nhu the thi tot hon nhat la ban nen xai windown 2000 hoac la windown XP, roi format o cung duoi dang NTFS, thi ban co the xai duoc nhung chac nang nhu vay.
+

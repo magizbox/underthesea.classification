@@ -1,0 +1,68 @@
+'Thanh Lam - Hà Trần' đứng đầu số phiếu bình chọn
+Trong số 6 album VnExpress đưa ra để đánh giá, sau một tháng bình chọn, CD "Thanh Lam - Hà Trần" nhận được nhiều phiếu bầu nhất. Sở trường jazz với những ca khúc trữ tình đã giúp hai giọng ca vượt lên, thêm một lần khẳng định đẳng cấp của họ.
+Sự đuổi nhau sát nút giữa Thanh Lam - Hà Trần và Nam châm (Bức Tường) đã chứng minh sức hấp dẫn của hai dòng nhạc. Thanh Lam - Hà Trần với sở trường jazz, trong album này đã chinh phục những đôi tai nghe nhạc khó tính bằng những bản ballad, chiếm 3.393 phiếu bầu, trở thành album xếp vị trí thứ nhất. Với sáng tác đầu tay theo phong cách jazz, Thanh Lam đã tạo nên một hình ảnh mới cho mình với Anh có nghe em hát. Sự kết hợp hai giọng ca đẳng cấp Thanh Lam - Hà Trần trong Ngẫu nhiên (Trịnh Công Sơn) không chỉ là sự kết hợp âm nhạc hoàn hảo, nó còn đánh dấu một bước phát triển mới trong tình bạn của hai giọng ca hàng đầu.
+Nam châm với những ca khúc bốc lửa đã vượt qua hai diva làng nhạc để kéo về phía mình hàng nghìn fan, chiếm vị trí thứ hai với 3.331 phiếu. Các rock fan không tiếc lời khen cho thần tượng của họ, thậm chí độc giảLý Maicòn lên tiếng đòi "sự công bằng" cho Bức Tường: "Nếu như ở VN có một giải thưởng về thành tựu cho những nhân vật có công với lịch sử âm nhạc Việt Nam thì tôi tin rằng chỉ biểu dương Bức Tường thôi thì không bao giờ đủ, họ xứng đáng hơn thế".
+function CheckSubmit()
+{document.ContactUs.fName.value = Trim(document.ContactUs.fName.value);
+if (document.ContactUs.fName.value == '')
+{alert('Xin hay nhap Ho ten!');
+document.ContactUs.fName.focus();
+return;
+}if ((SEmail = CheckEmailAddress(document.ContactUs.fEmail.value))=='')
+{alert('Dia chi Email khong hop le!');
+document.ContactUs.fEmail.focus();
+return;
+}document.ContactUs.fEmail.value = SEmail;
+document.ContactUs.fTitle.value = Trim(document.ContactUs.fTitle.value);
+if (document.ContactUs.fTitle.value == '')
+{alert('Xin hay nhap Tieu de!');
+document.ContactUs.fTitle.focus();
+return;
+}document.ContactUs.fContent.value = Trim(document.ContactUs.fContent.value);
+if (document.ContactUs.fContent.value == '')
+{alert('Xin hay Noi dung!');
+document.ContactUs.fContent.focus();
+return;
+}document.ContactUs.fCateDesc.value = document.ContactUs.fCategory.options[document.ContactUs.fCategory.selectedIndex].text;
+if (!confirm('Gui y kien toi Ban bien tap?'))
+return;
+vWH = 160;
+vWW = 330;
+vWN = 'ContactUs';
+winDef = 'status=no,resizable=no,scrollbars=no,toolbar=no,location=no,fullscreen=no,titlebar=yes,height='.concat(vWH).concat(',').concat('width=').concat(vWW).concat(',');
+winDef = winDef.concat('top=').concat((screen.height - vWH)/2).concat(',');
+winDef = winDef.concat('left=').concat((screen.width - vWW)/2);
+newwin = open('', vWN, winDef);
+document.ContactUs.action = '/ContactUs/AddSubmit.asp';
+document.ContactUs.target = vWN;
+document.ContactUs.submit();
+} 
+Đứng ngay sau hai album nặng ký của bậc đi trước, Đến một lúc nào đócủa Đan Trường đạt 3.008 phiếu bầu (chiếm 24,4% tổng số phiếu). Gương mặt baby và tiếng tăm sẵn có trong nhiều năm qua đã giúp Đan Trường giữ được vị trí trong top những ca sĩ ăn khách làng nhạc VN. Những ca khúc trong album của Đan Trường được thay đổi về phong cách, mà theo lời ông Hoàng Tuấn, người quản lý của Đan Trường, thì nó đã được phần nào "Tây hóa". Tính đến cuối năm 2004,Đến một lúc nào đó đã tiêu thụ hơn 30.000 bản. Ông Tuấn cho biết thêm: "Đây là album tương đối thành công của Trường trong năm qua. Album này được thực hiện theo yêu cầu của những thính giả trẻ tuổi, sôi động và nhiều chất ngoại. Tuy nhiên, trong những album tiếp theo, có lẽ Trường sẽ trở về với phong cách cũ của mình, lãng mạn và nhẹ nhàng hơn".
+Ca sĩ Đan Trường.
+Cánh cung - sản phẩm đầu tay của nhạc sĩ Đỗ Bảo - lạ, mới và mang phong cách riêng đã thu hút sự quan tâm của người yêu nhạc trong thời gian qua. Một phong cách nhạc mới, giống như lời tự sự kể chuyện mình mà nếu chỉ nghe một lần sẽ khó có thể cảm nhận hết cái hay, Cánh cung được xếp vào hàng những album kén khách. Độc giả Leo Nguyễn nhận xét: "Câu chuyện mà Đỗ Bảo kể khéo đến mức ai cũng có thể nhìn thấy trái tim vụn vỡ yếu đuối của mình trong đó, bất kể lúc bình yên hạnh phúc, hay đau đớn dày vò. Câu chuyện kể về một tình yêu của nhiều đối tượng, không nhất quán về nội dung, không cường điệu. Nó giản đơn, mộc mạc. Lời hát mộc đến độ đáng ngờ cho một tâm hồn đẹp biết tiết giảm ngôn từ thuật cao". Tuy chưa phải là cuộc bứt phá ngoạn mục, nhưng album của Đỗ Bảo đã mang đến luồng gió mới cho nhạc trẻ VN, trong sáng và tươi trẻ. Trong đó, Bức thư tình thứ hai, Điều ngọt ngào nhất, Cầu vồng đêm mưa... đã trở thành những ca khúc "hit" năm 2004. 
+Ca khúc Họa mi hót trong mưa đã đem lại cho ca sĩ trẻ Khánh Linh giải ba cuộc thi tiếng hát Sao Mai. Nhân thành công ấy, cô thực hiện album đầu tay cùng tên và nhận được sự cổ vũ của khán giả. Minh Trang, bạn đọc VnExpress tại nước ngoài, rất yêu mến giọng ca Khánh Linh, tâm sự: "Tôi nghe giọng hát Khánh Linh qua đĩa nhạc Hoạ mi hót trong mưa, cảm thấy rất thích chất giọng trong và thánh thiện của cô. Đĩa nhạc đó thực sự gợi lại cho tôi một chút gì thật ấm áp của quê nhà giữa mùa đông lạnh giá nơi xứ người".
+2004 có thể coi là một năm bận rộn với Quang Dũng. Anh liên tục cho xuất xưởng CD mới. Có lẽ sự yêu mến của khán giả dàn đều cho các album của anh nên Nguyệt chỉ chiếm khiêm tốn 10,6% trong tổng số phiếu bình chọn. 
+Dưới đây là bảng bình chọn của độc giả VnExpress, tính đến ngày 23/1.
+Thanh Lam - Hà Trần
+21,1%
+3.393 phiếu
+"Nguyệt" - ca sĩ Quang Dũng
+10,6%
+1.709 phiếu
+"Nam châm" - ban nhạc Bức Tường
+20,7%
+3.331 phiếu
+"Cánh cung" - nhạc sĩ Đỗ Bảo
+17,1%
+2.742 phiếu
+"Đến một lúc nào đó" - ca sĩ Đan Trường
+18,7%
+3.008 phiếu
+"Hoạ mi hót trong mưa" - ca sĩ Khánh Linh
+10,1%
+1.630 phiếu
+Album khác
+1,6%
+258 phiếu
+
+

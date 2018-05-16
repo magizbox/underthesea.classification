@@ -1,0 +1,6 @@
+eBay mở website cho các nhà phát triển mã nguồn mở 
+Trang web này được công bố ngày hôm qua. Đây là một diễn đàn cung cấp những công cụ để tích hợp các dịch vụ của eBay vào ứng dụng web của các lập trình viên. 
+Webssite có tên là Community Codebase giúp cho nhà phát triển phần mềm sử dụng các dịch vụ dựa trên nền tảng web của eBay và PayPal. Nó cung cấp môi trường cho các nhà phát triển ở các vùng lãnh thổ khác nhau hoặc có múi giờ khác nhau có thể làm việc trong cùng một dự án. Hiện nay, thành viên của trang web có thể truy cập vào hơn 10.000 các chương trình ứng dụng miễn phí.
+Greg Isaacs, Giám đốc chương trình Developers Program của eBay, phát biểu tại lễ ra mắt: "Phát triển mã nguồn mở giúp giảm thời gian và chi phí cho việc phát triển phần mềm, trong khi đó lại tăng chất lượng thông qua sự cộng tác và liên tục cải thiện chương trình. Chúng tôi hy vọng đã tạo thêm một nền tảng cho sự sáng tạo của các lập trình viên". 
+Một số công ty bắt đầu chuyển sang hướng xây dựng và phát triển những cộng đồng lớn của giới lập trình viên nhằm tăng cường số lượng các ứng dụng chạy trên phần mềm và website của họ. Điển hình là vào tháng 3, Google cũng đưa ra trang GoogleCode. 
+

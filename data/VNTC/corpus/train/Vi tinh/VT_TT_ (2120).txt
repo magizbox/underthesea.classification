@@ -1,0 +1,14 @@
+ Bộ công cụ bảo mật rất đa năng của Only PC Tools
+All-in-One gồm 10 ứng dụng bảo mật như: 
+1. 1-ACT Anti Keylogger 2006: công cụ chuyên săn tìm các chương trình Keylogger chuyên âm thầm thu thập dữ liệu hoạt động của bàn phím. Qua thử nghiệm nhận thấy chương trình này hoạt động hết sức hiệu quả. Nó có thể tìm ra hàng loạt các chương trình Keylogger ẩn danh bằng các file liên kết thư viện động .DLL mà không hiểu bằng cách nào chui được vào hệ thống, trong khi máy tính đã được cài bộ công cụ Symantec Antivirus được cập nhật thường xuyên. Một điều độc đáo là chương trình Anti Keylogger này cũng phát hiện được luôn công cụ 1-ACT Computer Spy 2006 do do chính Only PC Tools tạo ra. 
+2. 1-ACT AntiPhishing 2006: chương trình chống mọi loại e-mail chuyên lừa gạt để chiếm đoạt thông tin tài chính. Chương trình này có khả năng ngăn cấm người dùng truy cập vào các thư rác mà nó nghi ngờ là e-mail lừa đảo. 
+3. 1-ACT AntiVirus 2006: chương trình chống virus nhỏ gọn nhưng hiệu quả không kém công cụ của các đại gia. 
+4. 1-ACT Computer Spy 2006: Nói thẳng ra đây là chương trình “siêu gián điệp”, chuyên ghi nhận lại mọi hoạt động của máy tính, mọi thông tin hoạt động bàn phím. Nhưng đây là chương trình gián điệp hợp pháp do người dùng trực tiếp cài đặt vào máy tính của mình, có đòi hỏi mật khẩu đăng nhập hệ thống, giúp cho cha mẹ có thể tìm hiểu được con cái đã sử dụng những nội dung gì khi xài máy tính. 
+5. 1-ACT Evidence Remover 2006: chương trình xóa mọi dấu vết của người dùng để lại trên máy tính, có tính hỗ trợ bảo mật rất cao. 
+6. 1-ACT Parental Advisor 2006: chương trình ngăn ngừa truy cập vào các trang web khiêu dâm. Qua thử nghiệm thấy chương trình hoạt động khá hiệu quả nhưng vẫn thua kém chương trình ngăn chặn hình ảnh khiêu dâm số 1 hiện nay là iShield &amp; ScreenShield. 
+7. 1-ACT Personal Firewall 2006: ứng dụng tạo tường lửa cá nhân trên máy tính, hoạt động rất hiệu quả với nhiều tùy chọn ngăn chặn. 
+8. 1-ACT Spyware Remover 2006: ứng dụng ngăn chặn và diệt phần mềm gián điệp hoạt động hết sức hiệu quả, không hề thua kém công cụ Microsoft AntiSpyware. Hầu hết mọi cookie nguy hiểm và phần mềm gián điệp trong máy tính đều có thể bị nó phát hiện và tiêu diệt. 
+9. 1-ACT Hard Dish Monitor: công cụ theo dõi và tối ưu hóa ổ cứng. 
+10. 1-ACT Registry Cleaner: công cụ sửa lỗi và tối ưu hóa Registry của Windows. 
+Người dùng có thể vào đây để tham khảo chi tiết và tải các bản thử nghiệm về dùng. Only PC Tools hiện đang bán ra bộ công cụ bảo mật “ONLY PCTools All-in-One” với giá là 49 USD và hiện bộ công cụ này đã có mặt tại các cửa hàng phần mềm tin học tại TP Hồ Chí Minh. 
+

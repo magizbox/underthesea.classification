@@ -1,0 +1,7 @@
+Công nghệ nano mới trong sản xuất PC tốc độ cao
+Các nhà vật lý tại đại học Pennsylvania (Mỹ) đã tiết lộ quy trình mang tính cách mạng trong việc tạo ra mạch điện chức năng sử dụng các ống nano siêu nhỏ.
+Những ống nano đơn lớp được hình thành bằng cách chuyển tấm đơn nguyên tử carbon thành ống trụ tròn có đường kính khoảng chừng một nano (1 phần tỷ mét). Thay vì phát triển theo mô hình sản xuất chip silicon truyền thống, các nhà nghiên cứu của Pennsylvania đã nghĩ ra cách đặt rải rác ống này trong chip.
+Chúng tôi nhúng chip vào ống nano theo kiểu phủ kem lên kẹo, Danvers Johnston, trưởng nhóm nghiên cứu, mô tả. Nhờ đó, chúng tôi có thể gắn ống nano vào bất cứ nơi nào mình muốn khi xây dựng mạch.
+Cách duy nhất để khiến thiết bị xử lý hoạt động nhanh hơn là đưa càng nhiều transistor vào chip càng tốt, Alan Johnson, Phó giáo sư khoa Vật lý và Thiên văn, cho biết. Ống nano chỉ nhỏ bằng những transistor hiện nay. Khi chèn nhiều vào trong chip, thiết bị xử lý sẽ có khả năng vận hành nhanh và hiệu quả hơn rất nhiều.
+Do quá trình này cho phép tạo ống nano tách biệt với sản xuất chip, người ta có thể điều chỉnh chất lượng và đường kính sản phẩm chính xác và hiệu quả hơn. Trước đây, hầu hết các mạch nano được xây dựng bằng cách phát triển ống nano ngay trên bề mặt chip bằng phương pháp kết tinh hoá học, tuy nhiên, thường đem lại chất lượng sản phẩm không đồng đều và có đường kính lớn.
+

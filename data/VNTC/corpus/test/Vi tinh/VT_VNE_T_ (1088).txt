@@ -1,0 +1,5 @@
+Bỏ định dạng khi copy văn bản bằng PureText 2
+Nếu công việc đòi hỏi bạn phải sao chép văn bản từ web hay từ tài liệu nọ sang tài liệu kia, chắc chắn bạn thường cảm thấy khó chịu vì kết quả vẫn lưu giữ font chữ và định dạng cũ. Phần mềm miễn phí PureText 2 sẽ giúp bạn loại bỏ những yếu tố không mong muốn ấy.
+Tiện ích PureText 2 chỉ giữ lại văn bản, trong khi bỏ hết định dạng, mã HTML, liên kết& Chương trình chạy trong khay hệ thống và chuyển đổi văn bản trong clipboard chỉ bằng một cú nhấn chuột hoặc phím nóng. 
+Phần mềm có dung lượng rất nhỏ, chỉ 13 KB. Bạn có thể tải tại đây.
+

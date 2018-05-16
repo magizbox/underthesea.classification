@@ -1,0 +1,6 @@
+Thư rác khiêu dâm chiếm 21% tổng số spam
+Theo thống kê của hãng Email Systems, trong tổng số e-mail lưu thông tháng 1/2005, các bức thư quảng cáo không mời chiếm tới 90% và riêng những thông điệp mang nội dung người lớn đã chiếm 1/5.
+So với tháng 12/2004, lượng spam đồi trụy đã tăng gấp 3 lần còn thư rác nói chung tăng 40% so với tháng 11/2004, trái ngược với xu hướng giảm dần của virus. Khảo sát cũng phát hiện ra rằng hơn 2/5 thư rác có nội dung liên quan đến lĩnh vực chăm sóc sức khỏe. Ngược lại, spam quảng bá các dịch vụ tài chính lại giảm từ 21% tháng 12/2004 xuống chưa đầy 10% tháng 1/2005.
+Tháng đầu năm nay rõ ràng là thời điểm người tiêu dùng ít quan tâm đến việc sử dụng các dịch vụ tài chính hoặc bỏ tiền vào những cơ hội đầu tư đáng ngờ, Neil Hammerton, Giám đốc điều hành Email Systems, phát biểu. Vì thế, giới spammer đã nhanh chóng điều chỉnh chiến thuật khi chú trọng hơn vào việc phát tán các nội dung liên quan đến y tế và sex. 
+Email Systems cho biết số vụ tấn công từ chối dịch vụ (DDoS) bằng e-mail cũng đang tăng đều. Một trong số khách hàng của hãng này tháng vừa qua đã nhận tới 12 triệu thông điệp mà trong đó chỉ có 54.000 là thư giao dịch thực sự. 
+

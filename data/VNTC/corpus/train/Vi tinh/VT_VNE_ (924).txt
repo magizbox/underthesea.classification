@@ -1,0 +1,10 @@
+Mozilla nỗ lực nâng cao tính bảo mật
+Hôm qua, Mozilla Foundation thông báo sẽ thưởng 500 USD cho bất kỳ chuyên gia an ninh nào phát hiện ra 1 khiếm khuyết trong trình duyệt cùng tên vì trong thời gian gần đây browser của họ đã bị quá nhiều lỗ hổng nghiêm trọng.
+Đây là chương trình bịt lỗ hổng an ninh Mozilla được triển khai 1 tuần sau khi công ty khẳng định các trình duyệt của họ, Mozilla và Firefox, có 2 lỗi nghiêm trọng trong việc nhận dạng giấy phép số, thẻ nhận dạng cá nhân ID trên Internet. 
+"Những lỗ hổng trong thời gian gần đây cho thấy việc thực hiện chương trình này là rất cần thiết, nó sẽ giúp chúng tôi khắc phục các vấn đề an ninh không mấy khả quan trước đây", Mitchell Baker, Giám đốc Mozilla Foundation, nói. "Đồng thời nó cũng tạo điều kiện thuận lợi cho những người ủng hộ Mozilla vá lỗi trước khi hacker nguy hiểm khai thác chúng".
+Đại diện của Mozilla cho biết hãng phần mềm Linspire và nhà kinh doanh Internet Mark Shuttleworth đã tài trợ cho sáng kiến mới này . Linspire đã đầu tư 5.000 USD và Shuttleworth hứa sẽ cung cấp 5.000 USD tiền thưởng đầu tiên.
+Chris Hofmann, Giám đốc kỹ thuật của Mozilla, phát biểu: "An ninh là vấn đề mà chúng tôi rất quan tâm và hãng muốn nhanh chóng triển khai chương trình này". Phần giải thưởng của Mozilla cũng có thể góp phần thuyết phục những kẻ tấn công tiềm ẩn từ bỏ thói quen xấu và nhận tiền của hãng.
+Ông Hofmann khẳng định: "Mặc dù phần thưởng trị giá 500 USD có thể không mấy hấp dẫn, chúng tôi không có ý định nâng số tiền thưởng này lên. Đây là một cách để chúng tôi cảm ơn những người giúp đỡ công ty nâng cao tính bảo mật trong sản phẩm của hãng". Trong khi đó,  Microsoft không mở hầu bao cho những ai phát hiện lỗ hổng nhưng hãng lại dành 3 phần thưởng mỗi phần thưởng trị giá 250.000 USD cho những ai tìm thấy tác giả viết ra virus.
+Hiện nay, ứng dụng web Mozilla, trong đó có trình duyệt, e-mail, chat, chương trình biên tập trang web, đã phát hành phiên bản 1.7. Trình duyệt Firefox và ứng dụng e-mail Thunderbird của hãng cũng sắp hoàn tất và sẽ được sử dụng rộng rãi trong giới tiêu dùng.
+Mọi người có thể biết thêm thông tin về giải thưởng tại website của Mozilla.
+

@@ -1,0 +1,5 @@
+Tăng tốc độ truy cập bằng EasyMTU v3.0
+Phần mềm này sẽ giúp bạn nâng cao tốc độ kết nối quay số bằng cách tối ưu hóa thiết lập TCP/IP. EasyMTU v3.0 cho phép thay đổi cài đặt Windows Registry một cách đơn giản, nhờ đó bạn có thể tận dụng tối đa thời gian online. 
+Chương trình này còn bao gồm một tính năng đánh giá tương tích (bench mark), giúp bạn so sánh những cách setting Registry khác nhau.
+Để tải miễn phí EasyMTU v3.0, bấmvào đây.
+

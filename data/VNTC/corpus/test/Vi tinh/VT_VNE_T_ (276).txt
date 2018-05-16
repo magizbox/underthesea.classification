@@ -1,0 +1,6 @@
+Phát hành thử Windows XP Service Pack 
+Microsoft đã tung ra một phiên bản tiền chính thức của phần mềm nâng cấp mới nhất đối với hệ điều hành XP. Service Pack 2 Release Candidate 1 (RC1) được cung cấp trong phạm vi nhóm khách hàng thử nghiệm beta của hãng và sẽ chính thức ra mắt ngày 1/7.
+Mục tiêu của chương trình mới là tăng cường an ninh cho hệ điều hành tiện dụng nhưng đã và đang gặp rất nhiều sự cố do các khiếm khuyết bên trong gây ra. Service Pack 2 RC1 bổ sung công cụ bảo vệ bộ nhớ và cải thiện tính năng bảo vệ việc chạy các chương trình. Nó còn được thiết kế để khóa những bộ phận khác nhau của hệ thống nhằm hạn chế khả năng hoạt động của virus 
+Gói phần mềm còn có một trung tâm an ninh, tức là một giao diện cho người sử dụng để lập cấu hình tường lửa, hàng rào chống virus và công cụ khóa pop-up cho Internet Explorer để ngăn ngừa các website mở những chương trình không mong muốn trên màn hình.
+Ngoài ra, lần đầu tiên khả năng hỗ trợ Bluetooth cũng được bổ sung vào Windows XP. Service Pack 2 RC1 cũng kết hợp một số phần nâng cấp cho máy tính bỏ túi và các phiên bản Media Center của hệ điều hành này. Service Pack 2 là một phần trong dự án Điện toán tin cậy của Microsoft.
+

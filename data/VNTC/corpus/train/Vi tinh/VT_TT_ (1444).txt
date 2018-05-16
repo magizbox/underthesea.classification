@@ -1,0 +1,9 @@
+ Chủ nhật thay áo cho màn hình máy tính
+Bên tay trái liệt kê danh mục được sắp xếp ứng với các phần mềm tương ứng. Bên tay phải liêt kê những themes được nhiều người download nhất, những tác phẩm mới, hay những phần mới được cập nhật. 
+Các theme được sắp xếp theo từng chủng loại khác nhau, tương ứng với những phần mềm sử dụng khác nhau. Mặc dù các theme đều miễn phí sử dụng, nhưng để sử dụng được các theme này, yêu cầu bạn phải sử dụng các công cụ hỗ trợ sau đây: 
+- WindowBlinds (.WBA): đây là chương trình thay đổi giao diện người dùng trên Windows. Sau khi cài đặt các themes bằng chương trình này, bạn có thể lựa chọn nó bằng cách sử dụng tab Appearance trong thuộc tính của Display của hệ thống. 
+- DesktopX (.DXTheme, .DXPack): đây là chương trình thay đổi hoàn toàn desktop của bạn. Nó không thay đổi giao diện người dùng của chương trình, nó chỉ đơn thuần thay đổi desktop. Với nhiều kiểu theme ấn tượng, chắc chắn sẽ làm bạn bớt nhàm chán với màn hình desktop đơn giản mà bạn đang sử dụng. 
+- IconPackager (.IP files): đây là chương trình cho phép bạn thay đổi các biểu tượng của hệ thống (MyComputer, MyDoccuments, Recycle Bin,…) theo những chủ đề khác nhau. 
+- WinStyles (.Suite, .XPTheme): đây là chương trình đặc biệt, nó có thể “giao tiếp” với các chương trình trên để thay đổi những thứ mà bạn muốn ngay lập tức. 
+- Object Desktop : đây là chương trình được viết bới nhóm thành lập trang web WinCustomize này. Nó có thể hoạt động hiệu quả như một chương trình bao gồm các chương tình trên cộng lại. Nghĩa là bằng cách sử dụng chương trình này, bạn có thể có được tất cả các chương trình cần thiết để thay đổi màn hình desktop của bạn. 
+

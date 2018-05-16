@@ -1,0 +1,48 @@
+VinaGame bị yêu cầu ngừng cung cấp dịch vụ game online
+Cuối tuần trước, đoàn thanh tra Sở Bưu chính Viễn thông TP HCM đã tiến hành kiểm tra hoạt động của công ty VinaGame. Đơn vị này đang kinh doanh dịch vụ game trên mạng Internet, có tổ chức thu tiền người chơi, tuy nhiên lại không có giấy phép cung cấp dịch vụ ứng dụng OSP.
+Theo Nghị định quy định chi tiết một số điều của Pháp lệnh Bưu chính - Viễn thông thì việc cung cấp game online là cung cấp dịch vụ viễn thông giá trị gia tăng sử dụng thiết bị Internet nên phải có giấy phép cung cấp dịch vụ ứng dụng OSP (Online Service Provider). Nhưng VinaGame cung cấp game từ tháng 6 và bắt đầu thu phí từ 1/9 mà không hề có giấy phép trên. 
+Đoàn thanh tra đã kiến nghị Sở Bưu chính Viễn thông TP HCM yêu cầu Công ty VinaGame ngừng cung cấp dịch vụ này cho đến khi có giấy phép OSP do Bộ Bưu chính Viễn thông cấp, và được phép hoạt động của Bộ Văn hóa Thông tin.
+"Đúng là cuối tuần qua thanh tra Sở Bưu chính Viễn thông TP HCM có tiến hành kiểm tra công ty chúng tôi. VinaGame có 1 tuần để bổ sung hoàn tất hồ sơ. Sau thời gian này, dự kiến sẽ có một buổi họp giữa VinaGame với thanh tra Sở", ông Nguyễn Hoàng Tuấn Anh, Trưởng nhóm PR đại diện cho Công ty VinaGame cho biết. "Đến nay, chúng tôi vẫn hoạt động bình thường. Việc cung cấp dịch vụ game online cho người chơi vẫn không có gì thay đổi".
+Mục 3 Điều 13 Nghị định 55 quy định: Doanh nghiệp cung cấp dịch vụ ứng dụng Internet (OSP) là doanh nghiệp sử dụng Internet để cung cấp các dịch vụ ứng dụng Internet cho người sử dụng. Các doanh nghiệp cung cấp dịch vụ ứng dụng Internet ngoài việc chấp hành các quy định của Nghị định này, phải tuân theo các quy định của pháp luật về quản lý nhà nước chuyên ngành.
+Một quan chức của Bộ Bưu chính Viễn thông cho biết, VinaGame hoạt động trên địa bàn TP HCM, vì vậy, việc kiểm soát hoạt động thuộc toàn quyền của Sở Bưu chính Viễn thông TP HCM. Tuy nhiên, trong số những đơn vị kinh doanh game thì VinaGame, Asiasoft là những đơn vị chưa đăng ký cung cấp dịch vụ. Sau khi bị "thổi còi", đơn vị này mới có công văn nhờ Bộ tư vấn về thủ tục làm các giấy phép kinh doanh. Theo quan chức nói trên, tất cả quy định đã có trong Pháp lệnh Bưu chính Viễn thông và cụ thể là Nghị định 55, các bên doanh nghiệp và cơ quan quản lý cứ căn cứ vào đó mà thực hiện. "Theo quy định, nếu chưa có giấy phép họ sẽ phải tạm ngừng cung cấp dịch vụ. Bộ sẽ có phán quyết khi nhận được kết luận chính thức của Sở Bưu chính Viễn thông TP HCM", vị quan chức này nói. 
+Ông Lê Mạnh Hà, Giám đốc Sở Bưu chính Viễn thông TP HCM, từ chối bình luận về sự việc này nhưng tiết lộ rằng mọi việc vẫn đang được xem xét và sẽ có kết luận chính thức bằng văn bản trong một vài ngày tới.
+Tại Việt Nam hiện có 15 đơn vị có giấy phép OSP là FPT, VNPT, Viettel, SPT, Hanoi Telecom, EVN Telecom, NetNam, QTnet, Elinco, Techcom, One-Connection, TIE, Thanh Tâm, Hợp Thành, Kasati.
+Các trò chơi trực tuyến đang được cung cấp ở Việt Nam:
+Tên trò chơi
+Nhà cung cấp
+Trụ sở
+Tình trạng
+MU Online
+FPT
+Hà Nội
+Open Beta
+PTV
+FPT
+Hà Nội
+Open Beta
+RYL2
+VASC
+Hà Nội
+Open Beta
+Herrcot
+VASC
+Hà Nội
+Close Beta
+Võ lâm Truyền kỳ
+VinaGame
+TP HCM
+Đã thu tiền
+Gunbound
+Asiasoft
+TP HCM
+Đã thu tiền
+TSOnline
+Asiasoft
+TP HCM
+Đã thu tiền
+Khan Online
+Hanoi Telecom
+Hà Nội
+Open Beta
+N.H. - M.K. - L.N.
+

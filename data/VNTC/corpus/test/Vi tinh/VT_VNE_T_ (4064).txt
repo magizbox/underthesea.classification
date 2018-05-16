@@ -1,0 +1,8 @@
+Lỗi khi cài phần mềm ứng dụng 3D (1)
+Trong một lần em cài 1 chương trình ứng dụng 3D, thì nhận được thông báo sau khi bật file Sci Tech GLD open GL Unsupported Operation System At this time, Sci Tech GLD Direct will not run on Windows NT, when Direct 3d support is added to windows NT, it will run  và hiện OK , Cancel.
+Sau đó em nhấn OK hay cancel thì chương trình đều thoát ra, không chạy nữa. Em không hiểu đây là lỗi gì? Cách khắc phục ra sao ? Em rất được giúp vì em đang rất cần chương trình này. Cấu hình máy của em là Windows 2000 Professional SP1, 64M SDR, Intel Grafics 4 MB.
+Em có nghe nhiều người nói về phần mềm tạo ra bộ nhớ Ram và VGA ảo để tăng tốc cho máy tính, không biết có thật không, và cách sử dụng ?
+Cuong
+Hồi âm:
+Có lẽ cấu hình máy bạn không đạt yêu cầu khi cài, (Sci Tech GLD) phiên bản 5 yêu cầu , (Intel grafic của bạn chỉ có 4 MB ) card hình tối thiểu 8 MB hệ điều hành Win2k Pro SP1 thì ít nhất RAM phải 256 MB. Về vấn đề tăng tốc bộ nhớ tốt hơn nên thêm RAM và đổi cạc hình nếu bạn muốn chơi game hay áp dụng trong các chương trình ứng dụng 3D.
+

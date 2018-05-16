@@ -1,0 +1,8 @@
+IBM công bố thông tin mới về chip Cell
+Thiết bị xử lý đa lõi dùng trong PlayStation 3 này có thể hoạt động với xung nhịp 3,2 GHz. Dựa trên cấu trúc Power của IBM, khả năng vận hành củaCell được thực hiện qua 8 thành phần tách biệt mang tên SPE (thành tố xử lý đồng vận).
+Theo Scott Clark, thành viên nhóm kỹ thuật của IBM, SPE được kết nối qua một cấu trúc kênh truyền dữ liệu bên trong, được coi là "xương sống" của Cell, mang tên EIB (Element Interconnect Bus), . Loại bus này sử dụng một số vòng tương kết thông tin giữa SPE và bộ nhớ tốc độ cao hay thiết bị điều khiển I/O.
+EIB có thể nhập/xuất 16 GB dữ liệu trong 1 giây. Tuy nhiên, băng thông này chỉ có thể đạt tốc độ tối đa với sự hỗ trợ bộ nhớ và thiết bị I/O của Rambus. 
+Các nhà thiết kế sản phẩm có khả năng sử dụng Cell như một thiết bị xử lý đơn hoặc những cấu hình đa chip. Bus I/O cho phép Cell kết nối trực tiếp tới một chip Cell khác qua một thiết bị chuyên đổi riêng biệt. 
+Ngoài ra, nhà thiết kế cũng có thể đính kèm một chip SCC mới do Toshiba phát triển. Kết hợp SCC với cổng I/O của Cell, các thiết bị dân dụng có khả năng giải mã đồng thời tới 48 đoạn video độ nét chuẩn riêng biệt trên một thiết bị đơn.
+Bộ ba IBM, Toshiba và Sony cũng đang có kế hoạch phát triển Cell cho những thiết bị như đầu ghi chất lượng cao, máy tính doanh nghiệp và máy chủ dạng phiến...
+

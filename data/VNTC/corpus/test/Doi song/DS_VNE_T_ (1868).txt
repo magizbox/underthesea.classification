@@ -1,0 +1,45 @@
+Chàng là người tình thế nào?
+Bạn có muốn biết người ấy của mình thuộc kiểu người tình thế nào không? Hãy bỏ ra một tuần theo dõi, bạn sẽ có kết quả. Bắt đầu từ ngày thứ 2 trong tờ lịch, bạn đánh dấu tất cả những ngày cả hai có quan hệ tình dục trong 1 tuần đó.
+Sau đây là cách tính điểm theo số lần xuất hiện nhu cầu ân ái và số lần "tột khoái" của mỗi người.
+1. Số lần tột khoái của chồng trong một tuần (TK chồng):
+1 hoặc ít hơn 1 lần: 11 điểm
+2 lần:12 điểm
+3 lần: 13 điểm
+4 lần: 14 điểm
+5 lần: 15 điểm
+6 lần trở lên: 20 điểm
+2. Số lần tột khoái của vợ (TK vợ):
+1 hoặc ít hơn 1 lần: 11 điểm
+2 lần: 12 điểm
+3 lần: 13 điểm
+4 lần: 14 điểm
+5 lần: 15 điểm
+6 lần trở lên: 20 điểm
+3. Số lần vợ có nhu cầu ân ái (NC vợ):
+1 hoặc ít hơn 1 lần: 11 điểm
+2 lần:12 điểm
+3 lần: 13 điểm
+4 lần: 14 điểm
+5 lần: 15 điểm
+6 lần trở lên: 20 điểm
+4. Số lần chồng có nhu cầu ân ái (NC chồng):
+1 hoặc ít hơn 1 lần: 1 điểm
+2 lần: 2 điểm
+3 lần: 3 điểm
+4 lần: 4 điểm
+5 lần: 5 điểm
+6 lần trở lên: 10 điểm
+Kết quả = (TK chồng-TK vợ) x (NC vợ-NC chồng)
+Lưu ý: Với phép trừ trong ngoặc đơn chỉ cần lấy số chênh lệch giữa vợ và chồng - lấy số lớn trừ đi số bé. 
+300-361 điểm: Một kẻ tuyệt đối ích kỷ
+Anh ta cho rằng chỉ bản thân mình mới được quyền hưởng mọi sung sướng. Đối tác nữ "sống chết" ra sao thì cũng mặc kệ. Anh ta đã muốn thì phải lập tức được phục vụ, chẳng thích phải chờ đợi, chỗ này "kém chất lượng" thì tìm ngay chỗ khác.
+Người con gái nào gắn kết với anh ta có nguy cơ mắc bệnh tự ti, mặc cảm, nhưng đến khi bùng phát thì có những phản ứng mạnh như mù quáng lao theo người đàn ông khác, ngoại tình mà không thấy sợ hãi run rẩy.
+250-300 điểm: Rất thụ động
+Bạn phải bật đèn xanh thì anh ta mới bắt được tín hiệu. Nếu mập mờ quá thì anh ta cứ nhởn nhơ ngủ tít. Từ lúc âu yếm dạo đầu đã phải có sự chỉ dẫn, cần nói rõ vùng nhạy cảm trên thân thể mình để anh ta không rơi vào trạng thái "ngứa một đằng, gãi một nẻo".
+200-250 điểm: Một gã đãng trí
+Về lý thuyết anh ta biết phải làm gì để làm hài lòng đối tác nhưng khi đã "vào cuộc" anh ta quên tiệt. Nhiệm vụ của người nữ là phải kiểm soát tốc độ để anh ta không chạy vụt về đích một mình. Hãy phân tán anh ta bằng một câu nói nào đó hoặc một ngụm nước mát, anh ấy sẽ nhớ ra sự tồn tại của người đồng hành.
+100-200 điểm: Người có giáo dục
+Anh ta khá hiểu biết về chuyện này. Nếu bạn làm anh ấy bay bổng thì chàng còn biết cách mang đến cho bạn không chỉ một lần cực khoái.
+1-100 điểm: Một người xứng với mong đợi
+Anh ấy sẽ là chỗ dựa vững chắc và là một "kho dự trữ" để tiếp tế năng lượng sinh học cho bạn. Anh ấy biết bạn cần gì, bản thân thế nào, đem lại cho bạn cảm giác tràn trề sinh lực chứ không phải là thừa thãi ngập ứ.
+

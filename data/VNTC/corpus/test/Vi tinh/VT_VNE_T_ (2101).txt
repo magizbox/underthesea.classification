@@ -1,0 +1,5 @@
+Bản vá lỗi an ninh cho Yahoo Messenger
+Một lỗ hổng trong phần mềm gửi tin nhắn rất phổ biến này, cho phép kẻ tấn công lừa người sử dụng thực thi những file nguy hiểm trên máy tính, đã được nhà cung cấp khắc phục vào ngày hôm qua.
+Theo hãng bảo mật Secunia (Đan Mạch), Yahoo Messenger không thể trình bày được những file có tên quá dài trong hộp hội thoại xuất hiện khi người dùng thực hiện gửi file cho nhau qua dịch vụ tin nhắn nhanh (instant message). Kẻ tấn công sẽ lợi dụng sai sót kỹ thuật này để chuyển những đoạn mã nguy hiểm đến người sử dụng. 
+Điều này có thể bị khai thác để lừa người dùng chấp nhận và chạy những file nguy hiểm, Secunia cảnh báo. Một nhà nghiên cứu của hãng bảo mật này đã khám phá ra lỗ hổng nói trên tháng trước. Đến ngày 17/2, Yahoo mới đưa ra bản cập nhật 6.0.0.1921 để xử lý khiếm khuyết. Có thể tải phiên bản mới của Yahoo Messenger tại đây. 
+

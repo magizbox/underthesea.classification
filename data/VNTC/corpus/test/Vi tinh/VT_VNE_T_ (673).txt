@@ -1,0 +1,8 @@
+Cứu dữ liệu (2)
+Chào mọi người, tôi có cài 1 chương trình xem CD vào ổ D vì đĩa C đã hết chỗ. Xem xong, tôi unistall chương trình này đi nhưng tất cả dữ liệu trong đĩa D cũng mất hết. Xin giúp tôi làm thế nào cứu dữ liệu? có thể lùi thời gian trong máy đến thời điểm chưa xảy ra sự cố được không? bằng cách nào? Cám ơn rất nhiều!
+BPhượng
+Hồi âm:
+Ban Phuong than men! Truoc tien, ban khong noi ro ban dang su dung he dieu hanh nao? Neu ban dang su dung WinXP Pro thi trong Win co cung cap san mot cong cu phuc hoi he thong, lui lai thoi gian trong may ve thoi gian ngay truoc khi co su co hoac thoi diem minh muon. Do la System Restore. Ban co the lui thoi gian trong may cua minh bang cach chon Star All programsAccesoriesSystem Tool System Restore. Trong man hinh "Welcome to System Restore", neu ban muon may tinh phuc hoi lai mot thoi gian ngay truoc khi co su co, ban chon muc:Restore my computer to an earlier time Hoac ban biet dich xac thoi diem truoc khi may ban xay ra su co, ban co the chon muc:Creat a Restore Point Trong man hinh "Creat a Restore point " ban nhap vao phan mo ta cho diem phuc hoi cua ban trong hop thoai "Restore Point Description " va nhap "Creat" . Windows se tao diem phuc hoi nay va bo sung ngay thang va thoi gian hien tai vao phan mo ta.Chuc ban thanh cong va co nhieu hung thu moi khi khai thac Windows. 
+Nguyen Tuong Hao Hiep
+Ban thu dung chuong trinh EasyRecoveryT Professional xem. Vao http://www.ontrack.com/easyrecoveryprofessional/ de lay Trial. Toi tin la ban se hai long voi ket qua cua minh. Chuc ban nhieu may man.
+

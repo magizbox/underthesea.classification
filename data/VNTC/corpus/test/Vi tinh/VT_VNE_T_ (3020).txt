@@ -1,0 +1,8 @@
+Thủ thuật qua mặt sự kiểm duyệt của Microsoft
+Công cụGenuineCheck.execó thể giúp người dùng đánh lừa hệ thống kiểm duyệt và tải phần mềm từ Download Center của Microsoft về máy tính chạy trên phiên bản Windows lậu.
+GenuineCheck hoạt động nhờ lợi dụng cơ chế của WGA - phần mềm được xây dựng để kiểm tra một bản sao hệ điều hành đã được cấp phép hay chưa - sử dụng ActiveX không hỗ trợ trong tất cả các trình duyệt. Công cụ này sẽ tạo ra một khóa mà người dùng có thể lấy để làm mã số chứng thực tính hiệu lực cho bản copy trái phép.
+Microsoft đã thừa nhận thông tin này nhưng một đại diện của hãng cho biết công ty công hề lo lắng: "Đây chỉ là một mối đe dọa không đáng kể với Microsoft. Chúng tôi đã chuẩn bị tinh thần để đối phó với những kẻ giả mạo đang cố thử hàng loạt các phương pháp để qua mặt hệ thống bảo vệ WGA".
+Theo Microsoft, nguy cơ không lớn là do khóa GenuineCheck tạo ra sẽ bị hết liệu lực rất nhanh. Nhưng mọi người vẫn có thể tạo khóa và sử dụng ngay lập tức trên máy tính chạy bản copy lậu hay gửi cho người khác.
+"Chúng tôi thấy hành động này cũng không khác với việc mọi người vẫn dùng phần mềm hợp pháp để sao ra nhiều CD và phân phát cho bạn bè", đại diện Microsoft phát biểu. "Hơn thế, cả Download Center và Windows Update Website đều cung cấp các ứng dụng như Windows Media Player, sản phẩm chống Spyware cũng như phiên bản nâng cấp của Microsoft, nhưng thủ thuật này chỉ hoạt động được ở Download Center".
+Microsoft đã tiến hành kiểm tra và nâng cấp khóa bảo mật WGA tại Download Center và Windows Update Website từ nhiều tháng qua. Hãng tuyên bố vào giữa năm nay, tất cả những người dùng Windows XP và Windows 2000 sẽ phải xác nhận đăng ký Windows trước khi họ có thể tải ứng dụng về từ website.
+

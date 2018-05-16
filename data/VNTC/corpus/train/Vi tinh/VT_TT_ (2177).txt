@@ -1,0 +1,14 @@
+ Virus mới tấn công ĐTDĐ sử dụng HĐH Symbian
+Commwarrior.C chuyên phát tán qua Bluetooth, MMS và thẻ nhớ MMC khi cắm vào các ĐTDĐ bị nhiễm. Khi lây nhiễm, Commwarrior.C sẽ cố gắng thay đổi logo vận hành đang có trên máy bằng chính của nó. Commwarrior.C đã lây nhiễm trên Nokia 6600 và thay đổi logo thành “Đã nhiễm Commwarrior”. 
+Tuy vậy, người dùng phải chấp nhận cài đặt ứng dụng thì virus mới có thể lây nhiễm trên điện thoại di động của họ. Vì vậy, hãng bảo mật cũng khuyến cáo người dùng nên cẩn thận khi nhận các tập tin trên ĐTDĐ sử dụng hệ điều hành Symbian. 
+Khi bị lây nhiễm, Commwarrior.C sẽ thực hiện các công việc: 
+Khi người dùng trả lời các tin nhắn SMS và MMS mới, Commwarrior.C sẽ mở một trang web sử dụng trình duyệt của ĐTDĐ. 
+Commwarrior sử dụng bluetooth để phát tán bằng cách dò tìm các máy điện thoại di động khác xung quanh và gởi tập tin SIS đã bị nhiễm virus đến tất cả ĐTDĐ mà nó tìm thấy. Tên của tập tin SIS này sẽ không có trật tự nên người dùng dễ nhầm lẫn. 
+Khi cho thẻ nhớ MMC vào ĐTDĐ đã nhiễm Commwarrior.C thì nó sẽ tự động nhân bản mình vào thẻ nhớ. Khi máy ĐTDĐ khác bị nhiễm Commwarrior do gắn thẻ nhớ có Commwarrior sẽ có đoạn ký tự sau: 
+" CommWarrior Outcast: The dark side of Symbian Force. 
+CommWarrior v2.0-PRO. Copyright (c) 2005 by e10d0r 
+CommWarrior is freeware product. You may freely distribute it 
+in it's original unmodified form. 
+With best regards from Russia. 
+OTMOP03KAM HET! " 
+

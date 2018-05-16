@@ -1,0 +1,7 @@
+Robots khiêu vũ
+Khiêu vũ cổ điển không chỉ còn dành riêng cho những người lãng mạn. Các nhà nghiên cứu Nhật Bản đã phát triển ra một robot có thể nhún nhảy trên sàn bằng cách đoán bước đi của bạn nhảy.
+Robot khiêu vũ mang tên PBDR, mang hình dáng phụ nữ, có một bộ cảm ứng quanh eo và có thể di chuyển theo mọi hướng trên 3 bánh xe giấu trong chiếc váy dạ hội.
+Khi bạn nhảy di chuyển, robot sẽ phân tích cử động của anh ta và cử động tương ứng bằng vai, khuỷu tay, eo và cổ. PBDR cao 1m65 cm, nặng 100 kg và có 2 trang phục màu đỏ, xanh. Phiên bản nam giới đang tiếp tục được phát triển. 
+Sản phẩm đã được nhóm nghiên cứu tại Khoa robot và kỹ thuật sinh học tại Đại học Tohoku tung ra tuần trước, sau 6 năm nghiên cứu. 
+Kazuhiro Kosuge, người đứng đầu nghiên cứu, cho biết robot chưa có cử động nhạy bén và thực sự phong phú để phù hợp với con người. Nhưng nó là một bước đệm để tiến tới một hướng phát triển khác, robot chăm sóc người già.
+

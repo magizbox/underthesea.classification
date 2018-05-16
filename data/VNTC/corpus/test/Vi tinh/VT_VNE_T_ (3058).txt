@@ -1,0 +1,10 @@
+Không dùng được Voice Chat (3)
+Chào các anh. Trước đây em vẫn dùng voice chat bình thường nhưng không hiểu sao bây giờ em không thể nào chat voice ở yahoo messenger và paltalk được. Em đa thử mọi cách mà em biết nhưng không giải quyết được. Mong các anh giúp em. Có thể em dã cài nhầm chương trình lock mic nhưng em không biết nó nằm ở dâu và giải quyết thế nào. Em đã kiểm tra mic thi vẫn tốt. Khi chat voice thi bên kia noi gì em vẫn nghe được nhưng khi em nói thì người ta lại không nghe được. Các anh làm ơn giúp em nhé! Cảm ơn các anh!
+Nguyễn Thanh Tùng
+Hồi âm:
+Chao ban. Ve van de ban khog chat voice duoc nua, thu nhat ban xoa het messenger cua Paltalk va yahoo, roi lam moi lai, thu 2 ban coi chinh lai nhung phan cot am thanh coi sao? co the ban khoa nham vao cot micro roi. Ban bam hinh cai loa tren man hinh 2 cai, no se hien ra nhung cot dieu chinh cho am thanh, tu day ban co the tu tu tim thay cach chinh, neu khog duoc ban mail cho toi leoanh9@aol.com . Ban co the cho nick va hen toi chat voi ban va truc tiep chi ban cach mo lai voice chat. Chuc ban vui ve. 
+leoanh9@aol.com
+Thử vào Volume Control (Click cuối màn hình góc dưới tay mặt hình cái Speaker hoặc vô Control Panel click Sounds and Audio Devices (Options- Properties check mark enable Microphone display) coi Microphone có bị check Mute không.
+T.O.M.1.
+Xem ky lai dau cam mic, va day cam vao sound card xem sao, co the xem luon ca microphone cho chac an xem sao. Chac la khong co tin hieu tu microphone vao card sound. Nen remove va cai lai Yahoo Messenger va PalTalk. 
+

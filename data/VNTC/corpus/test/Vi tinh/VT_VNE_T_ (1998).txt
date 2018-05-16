@@ -1,0 +1,6 @@
+Cách format nhiều ổ cứng từ một máy (1)
+Các máy của tôi nối mạng với nhau. Xin được hỏi có cách nào dùng một máy có ổ khởi động có thể format các ổ của máy khác được không? 
+Vũ Hường
+Hồi âm:
+Dieu kien cua ban qua that la ko the lam duoc vi tren nguyen tac muon 1 may tinh muon romote may khac thi 2 may phai noi voi nhau qua he dieu hanh nao day! Lenh format la 1 trong nhung lenh cua he dieu hanh Ms-dos. Trong khi he dieu hanh Ms-dos chi co the chay doc lap va chay don phuong hien gio ban ms-dos noi nhat la phien ban 7.10 (MS-DOS 7.10 is an standalone and independent OS actually -- ban co the go dia chi google.com roi search cum tu Ms-dos la biet ngay). Nen ban ko the format tu may tinh nay voi o cung cua may tinh khac duoc. Con neu 2 may tinh da noi voi nhau bang 1 he dieu hanh chung (vd: Window) thi chinh cai may tinh dang dungcon ko format duoc o cung cua may tinh do nua la may tinh khac!
+

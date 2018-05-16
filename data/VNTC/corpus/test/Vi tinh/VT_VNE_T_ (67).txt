@@ -1,0 +1,6 @@
+Phần mềm PDF cho thiết kế
+Hôm qua, Adobe Systems cùng một số đối tác tuyên bố sẽ phát triển phiên bản mới của chương trình PDF, dùng cho tài liệu kỹ thuật. Với tên gọi PDF Engineering (PDF/E), nó cho phép hiển thị chi tiết hơn các thông tin thiết kế và chế tạo.
+Những người tham gia dự án này gồm đại diện của Adobe Systems, AIIM (nhóm thương mại quản lý nội dung), NPES (nhóm thương mại in ấn), Hewlett-Packard, Intel cùng nhiều công ty khác.
+Với phiên bản mới này, giới thiết kế chuyên nghiệp có thể yên tâm sáng tạo và trao đổi tài liệu, Chủ tịch AIIM, John Mancini, khẳng định.
+PDF hiện được ứng dụng rộng rãi trong các văn bản máy tính. Người ta cũng thường in nó ra, sử dụng trong những tờ khai thuế hay các cuốn sách giới thiệu nhỏ. Tuy nhiên, từ trước đến nay, đối thủ của Adobe đã chê baiPDF vì nó không có khả năng thể hiện các tài liệu kỹ thuật phức tạp. Hãng phần mềm hy vọng sẽ dập tắt những lời phê bình trên với phiên bản mới này.
+

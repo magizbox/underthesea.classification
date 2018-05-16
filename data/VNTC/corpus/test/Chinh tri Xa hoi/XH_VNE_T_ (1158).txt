@@ -1,0 +1,8 @@
+TP HCM: Đề nghị bỏ rẽ phải khi đèn đỏ
+Phòng Cảnh sát giao thông vừa đưa ra kiến nghị cấm tất cả các phương tiện rẽ phải khi có đèn đỏ, nhằm hạn chế tình trạng lộn xộn tại các ngã tư. Tuy nhiên, thói quen của người dân thành phố lâu nay là thoải mái rẽ phải ở tất cả các con đường, thậm chí rẽ cả bên trái nếu gặp đường một chiều.
+Theo phía Cảnh sát giao thông, trước đây khá lâu, liên Sở Giao thông công chính - Công an TP HCM đã có một văn bản thống nhất cho phép tất cả các loại xe 2 bánh khi lưu thông trên các tuyến đường của TP HCM được phép rẽ phải khi đèn đỏ tại các giao lộ (ngoại trừ những đường cấm). 
+AddVote(1000150940,0,134849718,'','Theo bạn, có nên cho phép rẽ phải tại các ngã tư khi đèn đỏ?','#FFFFFF','#004080','100%',2, new Array(new Array('Nên',12,1),new Array('Không nên',20,2)),'',1)
+Trao đổi với VnExpress về vấn đề này, ông Trần Quang Phượng, Phó giám đốc Sở Giao thông công chính TP HCM, cho biết: "Theo luật khi có đèn đỏ, tất cả các phương tiện phải dừng lại, trừ những nơi có biển báo và đèn cho phép chuyển hướng. Nếu thay đổi được thói quen rẽ phải khi đèn đỏ của người dân, giao thông thành phố sẽ đỡ phức tạp hơn".
+Anh Minh, công nhân một công ty sữa, cho rằng: "Được rẽ phải khi đèn đỏ cũng khá tiện đối với người có nhu cầu chuyển hướng đi vì không phải chờ đợi lâu. Tuy nhiên, trong thực tế, vì nhiều đường của thành phố khá hẹp, lại có nhiều người đi thẳng, khi dừng xe lấn sang phần đường của xe muốn rẽ phải, làm ùn tắc. Những lúc như thế thì muốn rẽ cũng không được".
+"Nên bỏ bớt luật cho rẽ phải ở một số tuyến đường quá hẹp vì nó không phát huy được tác dụng. Nếu có thể, chỉ nên áp dụng luật này ở những đường rộng; đường cắt ngang là đường một chiều hoặc có mật độ xe lưu thông mỏng", anh Tuấn, lái xe taxi, đưa ra ý kiến.
+

@@ -1,0 +1,3 @@
+Dự kiến hôm nay một loại sâu máy tính với các loại đuôi thường thấy như ".doc", ".pdf" và "zip" sẽ được kích hoạt và phá hỏng các dữ kiện trong máy tính ở nhiều nước trên thế giới.
+Trưởng nhóm nghiên cứu của Công ty an ninh máy tính F-Secure Corp của Phần Lan vừa cho biết như vậy. Loại sâu này tồn tại với các tên gọi như "CME-24", "BlackWorm" và "Mywife.E" sẽ làm vô hiệu hóa các phần mềm chống vi-rút đã lỗi thời. Do đó, người dùng máy tính nên sử dụng các phần mềm chống vi-rút phiên bản mới nhất. Ngoài ra, phải kiểm tra chế độ ngày giờ đã được cài đặt trên máy vì sâu này tấn công vào ngày 3 mỗi tháng nên nó sẽ vẫn có thể phá hỏng các dữ kiện trên máy tính cho dù không đến vào đúng ngày hôm nay theo giờ trên máy. (AP)
+

@@ -1,0 +1,8 @@
+Microsoft Word có thêm một đối thủ tiềm tàng
+Công ty phần mềm SoftMaker của Đức tuần này công bố thử nghiệm phiên bản mới nhất của chương trình xử lý văn bản TextMaker 2005, được coi là ứng dụng vượt trội so với chương trình Word.
+Textmaker tương thích nhiều ứng dụng.
+TextMaker 2005 có khả năng hoạt động trên một loạt hệ điều hành từ Linux, Windows Mobile, Qtopia đến FreeBDS và đặc biệt, phần mềm tương thích với định dạng tệp ".doc" của Microsoft Word. Do đó, người dùng có thể dễ dàng chuyển đổi tài liệu Word 6.0, 95, 97, 2000, Word XP, Word 2003 sang Macintosh.
+Ngoài ra, TextMaker hỗ trợ nhiều định dạng tệp khác nhau trong đó có HTML, RTF, Pocket Word, văn bản đơn thuần và Unicode. Bên cạnh đó, chương trình có thể tương tác với định dạng file OpenOffice, đối thủ lớn hiện nay của Microsoft Word. OpenOffice là sản phẩm mã mở miễn phí, nhưng phiên bản StarOffice do Sun Microsystems phát hành lại được bán ra với giá 49,95 USD.
+"Khách hàng chắc chắn sẽ quan tâm đến TextMaker 2005 bởi nhiều lý do", Tobias Leissner, phát ngôn viên của SoftMaker, khẳng định. "Một trong số đó là giá bán lẻ sản phẩm chỉ khoảng 49,5 USD".
+Người dùng có thể tải vản thử nghiệm TextMaker 2005 tại website của SoftMaker. Ngoài phiên bản tiếng Anh, sản phẩm còn được xây dựng với tiếng Đức, Pháp, Tây Ban Nha, Bồ Đào Nha, Nga và tiếng Trung giản lược.
+

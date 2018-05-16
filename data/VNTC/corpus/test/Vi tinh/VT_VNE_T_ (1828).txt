@@ -1,0 +1,9 @@
+XaviX: Thật và ảo 
+Một hệ thống game tương tác giữa audio và video, hứa hẹn kết hợp tưởng tượng và thực tế, đã được giới thiệu tại Hội trợ hàng điện tử dân dụng (CES) vừa diễn ra tại Las Vegas (Mỹ).
+XaviX được phát triển bởi công ty SSD tại Kusatsu, Nhật Bản.Hệ thống XaviX đầu tiên là một XaviXPORT riêng lẻ. Máy này được sử dụng với một hệ thống đầu máy riêng và kèm theo các thiết bị chơi.
+Trọng tâm của hệ thống XaviX là chip đa lớp (multiprocessor) tốc độ cao. Tuy nhiên không giống với phần lớn các hệ thống tương tác audio video, chip XaviX được đặt trong hệ thống cartridge thay cho XaviXPORT. Khi người chơi quay gậy bóng chày XaviX, công nghệ cảm ứng tia hồng ngoại infra-red trong XaviXPORT nhìn thấy chuyển động, truyền chuyển động này cho chip đa lớp để tính tốc độ, địa điểm, hướng của chuyển động và quyết định quả bóng bay thế nào. Công nghệ tương tự đã được ứng dụng vào trò chơi XaviX Tennis. Trong khi đó, trò Xavix Bowling lại sử dụng camera cảm ứng hình ảnh, cho phép người chơi ném bóng và đánh bóng bằng vợt tennis hoặc đẩy quả bóng bowling như đang chơi thể thao thật.
+Bóng Bowling XaviX.
+Mục đích của công nghệ Xavix là kéo mọi người ra khỏi ghế và lôi họ vào trò chơi. Mục tiêu của người sản xuất là muốn tạo ra cái gì đó đưa công nghệ giải trí điện tử lên một mức độ giải trí vui vẻ, lành mạnh và mang tính xã hội.
+XaviX Games chỉ là một trong những sản phẩm mà SSD đang phát triển cho hàng loạt thị trường khác nhau. Các danh mục của tương lai sẽ bao gồm sản phẩm trong các lĩnh vực gia đình, giáo dục, giải trí và đương nhiên là thêm nhiều sản phẩm game XaviX mới.
+XaviXPORT và XaviX Games hiện đã có trên các cửa hàng của Mỹ và sẽ sớm xuất hiện trên khắp thế giới với giá bán lẻ mỗi game là 49,99 USD, bao gồm một hệ thống cartridge, kèm theo thiết bị game. Giá bán lẻ bộ sản phẩm XaviXPORT là 79,99 USD.
+

@@ -1,0 +1,8 @@
+Năm mới, virus mới
+Gia đình virus chào đón đứa con đầu tiên của năm 2004: Jitux.A. Sâu này bắt đầu lây lan từ hôm qua và phát tán qua chương trình MSN Messenger của Microsoft, xong chưa gây hại gì.
+Khi xâm nhập, một file sẽ thường trú trong bộ nhớ máy tính. Năm phút một lần, nó tự động gửi tin nhắn tới MSN Messenger của bạn bè nạn nhân, yêu cầu họ download file jituxramon.exe chứa mã sâu.
+2003 là năm virus lan tràn mạnh chưa từng thấy. Dù không nguy hiểm và có thể bị loại bỏ bằng nhiều trình diệt thông thường, xong Jitux.A. báo hiệu một năm mới đầy khó khăn trong lĩnh vực an ninh mạng.
+Ngoài Jitux.A., công ty diệt virus Trend Micro cũng vừa cảnh báo một cái tên nguy hiểm hơn: PE_QUIS.A (còn được hãng Synmantec gọi là W32.HLLP.Belzy@mm). Sâu này phát tán qua Outlook dưới dạng một e-mail tiêu đề Merry Chrismas! và đính kèm screensaver có tên xmas.scr. Nó xâm nhập mọi file .exe trong thư mục My Documents và C:\progra~1\mirc folders. Một trong những trò phá phách của nó là viết đè giai điệu Jingle Bells lên các file ringtone (có đuôi .rtx).
+Khi hệ thống bị nhiễm khởi động, Windows sẽ tự chạy chương trình starup.exe và báo cho người dùng biết tình trạng của họ. Virus yêu cầu nạn nhân phải giải một bài đố vui thì nó mới tha cho họ. Các câu hỏi gồm: Santa đi trên loại động vật nào? (Tuần lộc), Tôi ghét mùa nào nhất? (Mùa đông), Tôi sống ở đâu? (Bỉ - có lẽ đây là quốc tịch của tác giả virus)&
+Khi trả lời xong, chương trình sẽ hướng dẫn người dùng truy cập một website có những thông tin hứa hẹn cách loại bỏ sâu.
+

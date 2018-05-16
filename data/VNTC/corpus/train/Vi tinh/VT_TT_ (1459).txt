@@ -1,0 +1,5 @@
+ Chuyển video thành flash
+Chọn kiểu định dạng cần chuyển qua là flash (SWF) hoặc flash stream video (FLV), sau đó nhấn vào biểu tượng Play hoặc nút Start để quá trình chuyển đổi định dạng bắt đầu. File flash tạo ra sẽ nằm chung với thư mục của đoạn video nguyên gốc. 
+Bạn có thể vào mục Settings để điều chỉnh chất lượng hình ảnh và âm thanh của file flash tạo ra. File flash tạo ra sẽ được kèm theo một file HTML làm “mồi” mà khi bạn nhắp đúp vào file HTML này là lập tức file flash sẽ được kích hoạt chơi trong trình duyệt Internet Explorer. 
+Người dùng có thể vào tải bản dùng thử tại http://www.geovid.com/ . “Video to Flash Encoder” phiên bản 5.2 hiện đã có mặt tại các cửa hàng phần mềm. 
+

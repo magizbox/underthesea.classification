@@ -1,0 +1,7 @@
+McAfee cảnh báo biến thể Lovegate mới
+Phiên bản này đã bắt đầu tấn công máy tính trên khắp thế giới, trong đó có hệ thống PC của một số doanh nghiệp thuộc danh sách 500 công ty hàng đầu thế giới (Fortune 500).
+Giống như các biến thể trước, Lovegate.ad@MM là một loại sâu phát tán e-mail số lượng lớn và lây lan cả qua mạng chia sẻ file. Nó khai thác một khiếm khuyết từng được công bố liên quan đến giao diện thực hiện lệnh từ xa RPC (remote procedure call) trong nhiều phiên bản Windows. Năm ngoái, sâu Blaster cũng đã khai thác lỗi này và phát tán khắp toàn cầu.
+Sâu Lovegate.ad@MM thả một trình cổng hậu vào hệ thống mục tiêu, đồng thời cố gắng nhân bản vào những hệ thống khác thông qua nhiều phương pháp khác nhau, trong đó có việc sử dụng công cụ SMTP của riêng nó để gửi bản sao qua mail.
+Đây là phiên bản thứ 30 của họ sâu Lovegate nhưng nó lại là một trong số ít những virus mà McAfee đánh giá vào mức nguy cơ trung bình. Biến thể này có vẻ thành công hơn trong việc xâm nhập hệ thống nạn nhân so với những người anh em trước của nó, Chris Schmugar, Giám đốc nghiên cứu virus của McAfee, cho biết.
+Công ty phần mềm an ninh Mỹ đến nay đã nhận được thông báo lây nhiễm từ một số khách hàng lớn của họ. Ở một số nơi, hàng trăm hoặc thậm chí hàng nghìn máy tính đã bị lây lan virus Lovegate.ad@MM.
+

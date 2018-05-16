@@ -1,0 +1,6 @@
+Mỹ dẫn đầu thế giới về sản lượng spam
+Hãng bảo mật Sophos hôm 26/2 vừa đưa ra danh sách bẩn, gồm 12 nước sản sinh ra nỗi khó chịu cho người dùng e-mail. Đứng hàng thứ nhất chính là cường quốc công nghệ của thế giới.
+Để đi tới kết luận này, Sophos đã phân tích hàng trăm nghìn e-mail nhận được hằng tuần, bằng phương pháp thu hút spam có tên bình mật. Với 56,7% spam xuất phát từ Mỹ, nước này bỏ xa quốc gia thứ hai là Canada (6,8%). Trong "danh sách bẩn" còn có những đại gia công nghệ như Trung Quốc, Hàn Quốc, Đức, Pháp, Anh&
+Tuy nhiên, Sophos thừa nhận thống kê này có thể không chính xác lắm. Bằng tri giác, chúng tôi thấy rất nhiều thư rác có nguồn gốc từ Nga, dù rằng họ đứng thứ 28 trong danh sách, Graham Cluley, nhà tư vấn công nghệ của Sophos, khẳng định. Giới hacker ở đây dường như đã chui vào máy tính ở nước khác, dùng nó để phát tán spam, ông giải thích.
+Cũng theo Cluley, hơn 30% thư rác được gửi từ những máy nhiễm virus. Tác nhân này biến những hệ thống trong sạch thành kẻ tội phạm. Như Mydoom, virus phát tán nhanh nhất thế giới chẳng hạn, nó tạo ra một cửa hậu tại máy tính bị nhiễm, khiến trên lý thuyết, một làn sóng spam có thể phát đi.
+

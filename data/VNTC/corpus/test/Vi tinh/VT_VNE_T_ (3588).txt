@@ -1,0 +1,8 @@
+Phlooding làm 'lụt' hệ thống xác thực mạng doanh nghiệp
+Cùng với WiPhishing và Evil Twins, một mối đe dọa mới liên quan đến những nguy cơ bảo mật trong mạng không dây nội bộ WLAN đã xuất hiện với tên gọi Phlooding, bị lợi dụng để tấn công hệ thống đăng nhập.
+Hãng bảo mật AirMagnet tại Sunnyvale (Mỹ) cho biết Phlooding bao gồm một nhóm những cuộc tấn công xảy ra đồng thời nhưng xuất phát từ nhiều vị trí khác nhau, hướng vào cấu trúc đăng nhập mạng hay cơ chế xác thực trong doanh nghiệp, với mục đích làm quá tải server xác thực trung tâm.
+Kẻ tấn công ở những vị trí khác nhau có thể "oanh tạc" vào các điểm truy cập không dây bằng lệnh log-in sử dụng phương pháp liên kết nhiều mật khẩu, làm giảm tốc độ đăng nhập và chen ngang vào hoạt động mạng. AirMagnet cho rằng những doanh nghiệp với cơ sở, văn phòng ở nhiều địa điểm khác nhau nhưng cùng chạy trên một server quản lý ID đơn nhất có thể là mục tiêu chính của kiểu tấn công này.
+Viễn cảnh về mối đe dọa Phlooding là hoàn toàn có thể xảy tương tự như cách thức tổ chức tấn công từ chối dịch vụ, ngăn cản hoạt động bên trong của một doanh nghiệp. Tuy nhiên, AirMagnet cũng cho rằng không nên quá cường điệu nguy cơ này. 
+Rich Mironov, Phó giám đốc thị trường của AirMagnet, cho biết họ đã phát hiện ra hai trường hợp tấn công kiểu này, nhưng gần đây họ mới tìm ra dấu hiệu cho thấy chúng được tiến hành dựa trên cơ chế làm "lụt" lệnh xác thực. 
+Mironov khẳng định việc sử dụng mạng Wi-Fi mà không cài tường lửa (firewall) trên thiết bị cá nhân, có lỗi cấu hình hệ thống hay để máy tính Windows ở chế độ đặc biệt nào đó là những nguyên nhân phổ biến nhất có thể gây ra Phlooding.
+

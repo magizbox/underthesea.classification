@@ -1,0 +1,8 @@
+Kiến định hướng bằng 'cung đường 60 độ'
+Kiến sử dụng các "biển báo" góc và những điểm đánh dấu bằng mùi để tìm đường về nhà, hoặc đi theo hàng. Một nghiên cứu công bố mới đây trên Nature đã tiết lộ điều đó.
+Các nhà khoa học tại Đại học Sheffield (Anh) đã tìm hiểu những vệt đánh dấu mà loài kiến pharaoh để lại trên đường đi. Họ phát hiện thấy những con kiến trinh sát sử dụng mùi thơm pheromone để đặt các "biển báo" chỉ đường, báo hiệu cho những đồng đội đi sau chúng.
+Ở bất cứ đâu các dấu vết này tỏa ra theo hình nhánh cây để dẫn lũ kiếm thám hiểm các nguồn thức ăn, một trong các góc giữa những nhánh cây đó luôn luôn ở khoảng 60 độ. Điều đó có nghĩa là nếu một con kiến lạc mất các dấu vết, nó có thể tìm đường bằng cách truy tìm lại góc hẹp này.
+Chỉ cần quay trở lại đúng góc đánh dấu, kiến ta sẽ biết đường trở về nhà. Cũng bằng việc lần theo một trong hai nhánh rẽ của góc này, con vật sẽ tới được nơi có thức ăn.
+Nghiên cứu, do Duncan Jackson thuộc Khoa Khoa học Máy tính của trường thực hiện, đã trả lời được điều bí ẩn lâu nay rằng bằng cách nào những con kiến lạc lối có thể lấy lại giác quan định hướng của chúng.
+Những giả thuyết trước kia phỏng đoán rằng các pheromone khác nhau được đặt ở các góc đường nhằm chỉ hướng cho kiến. Tuy nhiên, Jackson cho rằng việc sử dụng hình học hiệu quả hơn nhiều và đơn giản hơn.
+

@@ -1,0 +1,8 @@
+ Thêm một dịch vụ cung cấp email miễn phí 1GB
+Là một người dùng đã quá quen thuộc với Yahoo! Mail? Bạn muốn sở hữu ngay một tài khoản e-mail miễn phí có dung lượng lớn đến 1 GB và cũng không muốn phải mất nhiều thời gian để làm quen với cách khai thác nó? Vậy thì mời bạn hãy đến với dịch vụ Webmail miễn phí Email Pinoy tại địa chỉ http://mail.emailpinoy.com . 
+Đây là một dịch vụ Webmail có giao diện tương tác gần như là “anh em song sinh” với Yahoo! Mail. Để tạo mới một tài khoản người dùng, bạn hãy nhấp chuột vào nút Join Now! màu đỏ. Cách khai báo biểu mẫu đăng ký là hoàn toàn tương tự như ở Yahoo! Mail. Sau khi hoàn tất, bạn sẽ được đưa đến ngay hộp thư của mình để bắt đầu sử dụng. 
+Để sao chép nhanh sổ địa chỉ từ tài khoản Yahoo! Mail vào trong Email Pinoy bạn hãy mở hộp thư Yahoo! Mail của mình, nhấp chuột vào thẻ Addresses, nhấn nút Import/Export, di chuyển thanh cuộn xuống cuối trang, nhấp chuột vào nút Export Now nằm ngay cạnh mục Yahoo! CSV: trong vùng Export. 
+Hộp thoại File Download sẽ xuất hiện. Chọn Save, đặt tên và xác định đường dẫn lưu trữ tập tin sổ địa chỉ này, nhấn nút Save rồi chọn Close để kết thúc. 
+Kế tiếp, bạn hãy vào tài khoản Email Pinoy của mình, nhấp chuột vào thẻ Address Book, nhấp chuột vào siêu liên kết Import/Export, chọn mục Yahoo (.csv file) trong vùng Import from:, nhấn nút Browse để xác định tập tin sổ địa chỉ mà bạn đã sao lưu khi nãy, chọn Open rồi nhấn nút Import Now để hoàn tất. 
+Nếu muốn có thêm 1 Web site miễn phí từ dịch vụ của Email Pinoy, bạn hãy truy cập vào trang Web có địa chỉ http://www.pinoysite.com/cgi-bin/new.cgi để làm thủ tục đăng ký. 
+

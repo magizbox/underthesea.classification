@@ -1,0 +1,6 @@
+Mỗi ngày có gần 1 tỷ tin nhắn IM được gửi đi
+Thống kê mới của hãng nghiên cứu thị trường IDC cho thấy các ứng dụng tin nhắn nhanh (IM) đang chứng tỏ tính tiện lợi vượt trội trong nhiều công ty với mức tăng trưởng 37% và đà này sẽ ổn định ít nhất 4 năm nữa.
+Doanh thu từ các chương trình tin nhắn nhanh trong doanh nghiệp, bao gồm sản phẩm máy chủ, bảo mật và công cụ quản lý IM đã tăng gần 40% so với năm 2004. IDC ước tính lợi nhuận của thị trường này sẽ nhân đôi từ 315 triệu USD năm nay lên 736 triệu USD vào 2009.
+"Trong những năm tiếp theo, chúng tôi tin rằng công cụ liên lạc và giải trí được thanh thiếu niên ưa chuộng này sẽ phát triển mạnh và đóng vai trò như một phần mềm giao tiếp trọng yếu trong các công ty", Robert P. Mahowald, một giám đốc chương trình của IDC, nhận xét. "Hiện nay đã có khoảng 28 triệu nhân viên văn phòng trên toàn thế giới sử dụng sản phẩm IM doanh nghiệp để gửi đi gần một tỷ tin nhắn mỗi ngày".
+Những hãng đi đầu trên thị trường hệ thống tin nhắn nhanh doanh nghiệp là Microsoft với Live Communications Server, Office Communicator và IBM với Lotus Sametime, Workplace Messaging. Nhà cung cấp cuối cùng mà IDC nhắc đến là AOL với số khách hàng sử dụng công cụ AIM lớn nhất nước Mỹ, và đang ngày càng có vị thế vững chắc trong dịch vụ giao tiếp của nhiều công ty.
+

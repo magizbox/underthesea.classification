@@ -1,0 +1,38 @@
+'Chưa có hệ điều hành nào mở hơn Windows'
+Được hỏi ông nghĩ gì trong những ngày khó khăn này, Steve Ballmer, Giám đốc điều hành Microsoft, khẳng định mình cực kỳ lạc quan.
+Danh sách những nỗi đau đầu của Microsoft đang dài dằng dặc: Vụ kiện EU, Linux và mã mở, bảo mật phần mềm, giá cổ phiếu trì trệ, ngày phát hànhLonghorn mịt mờ. Bất chấp hết thảy, Ballmer vẫn tin mọi chuyện đang tiến triển tốt, và Microsoft vẫn bình tĩnh, chủ động trong kinh doanh. Vài ngày trước khi phải trả Sun gần 2 tỷ USD, ông đã ngồi lại với giới báo chí, giải thích một số vấn đề mọi người quan tâm.
+- Theo quan điểm của ông, mọi chuyện nhìn chung đang ở đâu?
+- Tôi cực kỳ lạc quan, không chỉ về Microsoft, mà còn về ảnh hưởng chung của công nghệ với xã hội. Cốc nước chưa đầy, còn rất nhiều việc thú vị cần làm. Và chúng tôi sẽ tạo ra những sản phẩm làm thay đổi thế giới, mang lại lợi ích cho cổ đông.
+- Vụ kiện EU một lần nữa làm dấy lên câu hỏi việc nên hoặc không nên tích hợp những gì vào hệ điều hành. Quan điểm của ông về vấn đề này có gì thay đổi?
+- Bản án ở Mỹ kết luận chúng tôi có thể làm những gì mình thấy phù hợp, bắt đầu từ thiết kế sản phẩm. Đi kèm đó là một số yêu cầu, chẳng hạn khâu phát hành, hay vài thay đổi nhỏ& Tại tòa án, có một ý niệm gọi là nguyên tắc lý trí (rule of reason) - nghĩa là, những gì chúng tôi làm phải mang lại lợi ích cho khách hàng nhiều hơn là làm tổn hại đối thủ cạnh tranh.
+- Vậy trong thế giới lý tưởng của ông, giới hạn nào là phù hợp với những thứ Microsoft đưa vào hệ điều hành?
+- Tôi nghĩ không nên đặt ra bất cứ giới hạn nào. Cái nên có là nguyên tắc lý trí, theo tôi hiểu là dạng bộ luật đang áp dụng tại Mỹ. Nó nói như sau: Hãy xem, nếu việc đó mang lại lợi ích cho khách hàng, lợi ích đó rõ ràng, nó lớn hơn mọi chuyện vặt khác, thì chúng ta nên ủng hộ việc đó. Chúng tôi tự hào vì bộ luật này, tuân thủ nó, sống vì nó.
+- Nhưng làm thế nào để xác định lợi ích mang lại cho khách hàng (có thể so sánh lợi ích trước mắt và lâu dài)?
+- Tòa án đã công bố cách đánh giá, và chúng tôi luôn cân nhắc điều đó khi tích hợp một tính năng mới. Trong trường hợp trình duyệt chẳng hạn, liệu việc Netscape thua lỗ có hợp lý không? Tôi cho là hợp lý. Nguyên tắc lý trí cũng cho thấy điều đó hợp lý.
+- Trong khái niệm cải tiến bằng cách tích hợp tính năng của ông, phải chăng Windows đang trở nên khép kín?
+- Chưa có hệ điều hành nào mở hơn Windows, bằng chứng là chưa có chương trình nào mà trên đó, người ta viết nhiều ứng dụng hay hỗ trợ thiết bị đến thế.
+- Đứng trên quan điểm mã mở, người ta có thể lập luận rằng&
+- Không, không! Không ai có thể nói mã mở thực sự cởi mở hơn và thúc đẩy sáng tạo của bên thứ ba. Bạn có thể nói mọi thứ về mã mở, nhưng số người sử dụng ứng dụng và giao diện trên Windows lớn hơn nhiều lần so với bất cứ sản phẩm nào từng được viết ra.
+- Vậy thử thách lớn nhất với Microsoft hiện nay là gì?
+- Vấn đề là phải giữ được sự năng nổ, theo đuổi những gì hợp lý, nhận ra những gì còn phải làm. Thẳng thắn mà nói, chúng ta đang ở trong thế giới mà sự đáp ứng các nhu cầu hiện có là quan trọng nhất.
+- Nghĩa là sao?
+- 10 năm trước, bạn sẽ thu được nhiều lợi ích hơn khi đưa ra một tính năng mới. Ý tôi là, hồi tranh chấp trình duyệt, không ai nói về vấn đề an ninh của Netscape và IE. Người ta chỉ nói Cho tôi, cho tôi, tôi cần các tính năng mới.
+Hiện nay, người ta muốn giải quyết nhiều thứ liên quan tới một tính năng sẵn có. Chúng tôi hiện đã đáp ứng các nhu cầu kiểu này trong một lĩnh vực, chính xác là 1,5, gồm máy tính để bàn và một phần máy chủ. Giờ đây, chúng tôi sẽ gắng mở rộng sang 6 hoặc 7 lĩnh vực.
+- Trong bối cảnh giá cổ phiếu của Microsoft không tăng nhiều như chỉ số Nasdaq, tại sao ông có thể lạc quan đến vậy?
+- Chúng tôi đã vượt qua giai đoạn chuyển đổi trong những năm qua. Giờ là lúc người ta có thể lạc quan. Tôi sẽ nêu ra một vài lý do.
+Thứ nhất là bước tiến của phát triển và tầm ảnh hưởng của công nghệ không hề suy giảm. Thứ hai, tôi thấy Microsoft còn rất nhiều ý tưởng trong phòng thí nghiệm. Đó sẽ là nền tảng của việc đưa ra những sản phẩm mới, điều mà tôi rất háo hức. Thứ ba, đặt EU sang một bên, chúng tôi đã qua giai đoạn kiện cáo để bước vào thời kỳ phát triển ổn định. Nguyên nhân là đã có một khung pháp lý rõ ràng tại Mỹ, và chúng tôi học được cách làm việc trong môi trường này, học cách đáp ứng những bổn phận mới.
+Ai đó sẽ hỏi tôi: Phải chăng thời hoàng kim của các bạn đã qua?. Không, chúng tôi vừa trải qua kỳ tăng trưởng và sắp bước vào thời hoàng kim. Chúng tôi sẽ không còn gặp đột biến bất thường như giai đoạn phát triển nữa.
+- Ông đã nói tới những cú đặt cược lớn, lớn nhất là Longhorn. Song dường như chúng ta đang phải đợi nó quá lâu, lâu hơn dự kiến?
+- Đúng là chúng tôi đã quyết định rằng phải có một bước tiến quan trọng. Cần có những cải tiến lớn trong các chương trình ứng dụng. Những bước tiến lớn như vậy luôn đòi hỏi thời gian. Đó là điều quan trọng nhất. Sau nữa, chúng tôi đã đưa ra nhiều bản Windows, như XP, Tablet PC (định dạng dành cho điện thoại di động), XP Service Pack 2. Đặc biệt là Service Pack 2, chúng tôi đã dành ưu tiên khá nhiều, đến mức có thể phải lấy một số tính năng từ Longhorn hoặc đẩy lùi ngày phát hành của hệ điều hành này lại. Nhìn chung, Longhorn có thể xem là một vụ nổ lớn (big bang). Nhưng giữa những vụ nổ lớn, khách hàng cũng cần một số lợi ích nào đó.
+- Service Pack 2 sẽ tập trung vào những tính năng bảo mật mới?
+- Đúng, song còn nhiều hơn ở Longhorn. Có những yếu tố rất quan trọng còn đó, cho tới khi nào Longhorn xuất hiện.
+- Chẳng hạn tính năng kiểm soát hoạt động (behavior-blocking)?
+- Vâng, một vài tính năng kiểm soát hoạt động sẽ xuất hiện trong Longhorn. Một số tính năng an ninh, thậm chí dành cho phần cứng, chỉ xuất hiện ở Longhorn.
+- Trên lĩnh vực tìm kiếm, ông từng nói: Ôi, đáng ra chúng tôi phải làm tốt hơn"...
+- Tôi không nói tốt hơn mà là sớm hơn. Trước đây, chúng tôi đã không quan tâm nghiên cứu và phát triển như những gì đáng ra mình phải làm.
+- Nguyên nhân có phải là vấn đề cơ cấu?
+- À, chúng tôi đã có rất nhiều việc phải làm. Ở thời điểm đó, trên đĩa còn rất nhiều món, và chúng tôi phải lựa chọn. Cách lựa chọn đó khá tệ, cũng như đối thủ số 1 của chúng tôi khi đó là Yahoo. Tôi hy vọng họ còn cảm thấy tệ hơn chúng tôi, bởi họ từng một thời dẫn đầu lĩnh vực tìm kiếm, và họ không đầu tư, rốt cuộc để Google vượt mặt cả hai chúng tôi.
+Tôi cho rằng Microsoft đã trải qua giai đoạn khó khăn khi phải vạch chiến lược của MSN. Khi đó, đúng ra chúng tôi phải đầu tư nhiều hơn cho MSN, song tâm trí chúng tôi lại để vào Internet băng thông rộng, và đó là sai lầm. Nếu phát hiện ra điều này trước đây, chúng tôi đã có thể cải thiện khả năng tìm kiếm sớm hơn.
+- Có quan điểm cho rằng các ông nhảy vào cuộc chơi khi nó đã trở nên nóng bỏng?
+- Đôi lúc chúng tôi đã nhập cuộc khi mọi thứ còn nguội lạnh. Phần mềm TV chẳng hạn, tin tôi đi, chúng tôi đã đầu tư rất nhiều vào ứng dụng này rất lâu trước khi có thể kiếm lợi nhuận từ nó. Khi chúng tôi bắt đầu nghiên cứu, số người để ý tới lĩnh vực này rất ít. Media Center là một ví dụ tương tự khác. Chúng tôi không thể luôn xuất phát đầu tiên, nhưng cũng không phải kẻ cất bước cuối cùng. Những gì chúng tôi có thể là làm tốt nhất mọi thứ. Xuất phát trước thì cũng hay đấy, nhưng tốt hơn hết là hãy trở thành người về đích đầu tiên.
+

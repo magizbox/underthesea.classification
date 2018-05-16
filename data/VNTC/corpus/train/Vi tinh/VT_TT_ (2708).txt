@@ -1,0 +1,7 @@
+ Google vi phạm bản quyền VoIP?
+Jerry Weinberger, giám đốc điều hành của công ty Rates Technology (RTI) cho biết rằng công ty của ông ta là công ty đầu tiên đã đầu tư và nghiên cứu thành công công nghệ cho phép gọi điện thoại qua Internet. 
+Jerry Weinberger cho biết rằng đã có khoảng 120 công ty trên thế giới đã mua bản quyền của RTI trước khi đầu tư vào dịch vụ Internet Phone, trong đó có cả các đại gia như Lucent, Cisco, IBM, Yahoo và Microsoft. Jerry Weinberger khẳng định rằng công nghệ mang tên Voice over Internet Protocol (tức VoIP) đã của RTI từ lâu nhưng không hiểu sao Google không biết đến điều này. 
+RTI đã nộp đơn kiện Google từ cách đây 2 tháng tại tòa liên bang với tội danh vi phạm bản quyền công nghệ với số tiền đòi bồi thường thiệt hại lên đến 5 triệu USD, trừ phi hai công ty có một thỏa thuận nào đó ngoài tòa. 
+Google chưa đưa ra bình luận trực tiếp gì về vụ kiện tụng này nhưng cho biết rằng công ty sẽ cố gắng thoát ra tất cả mọi vụ kiện tụng "không xứng đáng" hoặc "vặt vãnh". Không biết vụ kiện này sẽ ngã ngũ như thế nào nhưng tin tức về nó đã làm giá cổ phiếu của Google sụt mất 5,17 USD xuống còn 414,98 USD/cổ phiếu khi đóng cửa thị trường Nasdaq vào chiều hôm qua. 
+Điện thoại Internet hiện là công nghệ liên lạc thuộc dạng rẻ nhất và phát triển nhanh nhất thế giới hiện nay. Microsoft vừa kết hợp với tập đoàn viễn thông MCI để tung ra dịch vụ gọi điện thoại Internet toàn cầu giá thấp trong tháng 12, sánh vai với Skype, Yahoo và Google. 
+

@@ -1,0 +1,5 @@
+ Thời của máy tính xách tay "mạnh mẽ"
+CompAmerica giới thiệu đây là dòng máy tính xách tay đa nhân mạnh nhất thế giới hiện nay. Đi kèm là màn hình 17-inch WUXGA, sử dụng bộ vi xử lý AMD Athlon 64 X2, bộ vi xử lý đa nhân 64-bit với khả năng xử lý từ 3000+ đến 4800+ Mhz. Orca X2 cho phép người dùng lựa chọn 4 tùy chọn cấu hình cho video: Quadro FX Go 1400 (bo mạch thế hệ kế tiếp từ dòng nVidia 6600, 6800 và Radeon x800 của ATI) với 256 MB GDDR3. Ổ cứng theo tùy chọn cấu hình với chuẩn SATA-150 hay SATA-100, 8MB Buffer, 7200 RPM, dung lượng bộ nhớ lên đến 2048MB PC3200 (400Mhz) Dual Channel DDR SDRAM, cùng ổ CD-RW và DVD-RW. 
+Chất lượng âm thanh của Orca X2 cũng không chê vào đâu được với dàn âm thanh SRS WOW 8-kênh thông qua 5 loa. Kết nối không dây Wi-Fi 802.11b/g cùng Bluetooth. Hoạt động trên phiên bản hệ điều hành Windows XP, có giá khởi điểm cho cấu hình mặc định là 2499 USD. Thông tin về Orca X2 có thể tham khảo thêm tại đây . 
+Theo dự đoán, năm 2006 sẽ là năm của những "hệ thống" xách tay với các bộ vi xử lý 64-bit mạnh mẽ, tốc độ xử lý nhanh. CompAmerica hứa hẹn sẽ cho ra các thế hệ kế tiếp để cạnh tranh với địch thủ Alienware. 
+

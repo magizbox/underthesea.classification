@@ -1,0 +1,5 @@
+Ngày 28/12, các chuyên gia bảo mật đã đưa ra cảnh báo về sự xuất hiện của loại mã khai thác lỗ hổng chưa được vá lỗi trong hệ điều hành Windows.
+Theo đánh giá, lỗ hổng trên khá nghiêm trọng, ảnh hưởng tới cách thức Windows xử lý tệp tin ảnh Windows Metafile (WMF) - từng được Microsoft vá lỗi ba lần trong vòng hai năm trở lại đây. Bản sửa lỗi mới nhất cho lỗ hổng này là MS05-053, được ban hành tháng 11/2005.
+Tuy nhiên, khác với những lỗ hổng cũ, lỗ hổng mới còn ảnh hưởng tới cả hai hệ điều hành được coi là an toàn nhất hiện nay, đó là Windows XP SP2 và Windows Server 2003. Nếu như lỗ hổng cũ liên quan tới hiện tượng tràn bộ đệm, thì lỗ hổng mới vẫn chưa xác định được chính xác yếu tố ảnh hưởng.
+Microsoft cho biết sẽ tiến hành điều tra lỗ hổng trên và sẽ sớm đưa ra thông báo hướng dẫn cụ thể. Tùy theo hoàn cảnh cụ thể, Microsoft có thể ban hành miếng vá khẩn cấp hoặc sẽ đưa miếng vá vào kế hoạch nâng cấp hàng tháng.
+

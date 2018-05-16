@@ -1,0 +1,7 @@
+ Giải pháp mới giúp kết nối Internet liên tục
+"RainConnect" là giải pháp kết hợp nhiều loại kết nối từ nhiều nhà cung cấp dịch vụ Internet giúp cho việc kết nối luôn thông suốt với tốc độ ổn định và nhanh hơn. Đây là giải pháp đầu tiên do BMC triển khai tại Việt Nam. 
+Hiện nay, một doanh nghiệp nếu sử dụng cùng lúc một đường leased line và một đường ADSL thì không thể phối hợp thành một hệ thống kết nối chung. Vì vậy, khi một trong hai đường truyền bị gián đoạn thì người quản trị mạng phải chuyển đổi đường kết nối. Việc này gây ảnh hưởng không nhỏ cho doanh nghiệp, nhất là các doanh nghiệp thường xuyên giao dịch qua mạng Internet. 
+Với giải pháp "RainConnect", các đường kết nối ADSL và leased line (của nhiều nhà cung cấp như VDC, NetSoft, Saigon Postel, FPT...) sẽ được phối hợp thành một hệ thống tạo nên một đường truyền tốc độ cao và ổn định. Người quản trị không cần chuyển đổi mà hệ thống sẽ tự động chọn kết nối nào hoạt động tốt để truyền dữ liệu. Hoặc nếu tất cả các kết nối đều tốt thì các gói dữ liệu sẽ được rải đều cho tất cả các kết nối làm tốc độ nhanh hơn. 
+Một máy chủ, nếu cài đặt giải pháp "RainConnect" có thể hỗ trợ tối đa 32 kết nối. Hiện giải pháp "RainConnect" đang được chào bán với giá 6.000 USD/một máy chủ. 
+Nếu quan tâm về giải pháp này, bạn đọc có thể liên hệ với Công ty BMC tại địa chỉ: 26/55 Sư Vạn Hạnh, P.12, Q.10, TP.HCM - ĐT: 8629218. 
+

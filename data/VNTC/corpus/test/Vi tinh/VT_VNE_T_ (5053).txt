@@ -1,0 +1,7 @@
+Năm lỗi nghiêm trọng trong Java 
+Tập đoàn Sun Microsystems vừa cảnh báo thư viện Java Runtime Environment (JRE) chứa những lỗ hổng bảo mật lớn, có khả năng mở đường cho kẻ tấn công điều khiển từ xa các ứng dụng trên hệ thống.
+Sun đã công bố ba bản khuyến cáo riêng biệt, khẳng định các lỗi sẽ tạo cơ hội cho một chương trình ứng dụng nhỏ (Java applet) nào đó tăng quyền của nó. Về sau, applet nguy hiểm này có thể đọc và ghi file cũng như xử lý ứng dụng theo quyền người dùng. 
+Bản khuyến cáo đầu tiên đề cập đến lỗ hổng xuất hiện trong SDK, JRE 5.0 và các phiên bản trước đó dành cho Windows, Solaris và Linux. Bản thứ hailiên quan đến 3 lỗi khi sử dụng API của JRE. Khuyến cáo cuối cùng nhắc tới rắc rối trong Java Management Extensions (JMX).
+Cả hai tổ chức bảo mật Secunia (Đan Mạch) và FrSIRT (Pháp) đều đánh giá 5 lỗ hổng ở mức "rất nghiêm trọng".
+JRE, mã sử dụng để xử lý Java applet trên một hệ thống cục bộ, là một trong những sản phẩm phần mềm máy khách được phân phối rộng rãi nhất. Nhiều phiên bản của JRE cũng được tìm thấy trong những hệ thống như điện thoại di động.
+

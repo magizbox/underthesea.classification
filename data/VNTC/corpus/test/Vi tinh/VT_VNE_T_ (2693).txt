@@ -1,0 +1,10 @@
+Lỗi Internet Explorer (3)
+Tôi đang bị lỗi truy cập Internet sau khi gỡ bỏ chương trình hỗ trợ có tên là Proxyconn, nếu cài và nạp Proxyconn thì truy cập không tốt, nhưng bây giờ tôi không muốn sử dụng hỗ trợ nữa, vậy thì đồng nghĩa tôi sẽ không vào Web được, mong ban vi tính và các bạn kỹ thuật hướng dẫn cho cách xử lý để truy được Web bằng IE. Thành thật cảm ơn nhiều. 
+Thanh Hùng 
+Hồi âm:
+Ban nen lam theo cac buoc sau: 1.Backup lai cac driver, dac biet la cac driver cua cac loai card tu Trung Quoc san xuat. 2.Cai dat lai windows xp. 3.Khoi phuc lai driver. 4.Ban se su dung duoc binh thuong. Sau buoc thu 3 su dung duoc tron tru ngay. 
+Bui Liem
+Theo toi duoc biet Proxyconn la mot chuong trinh tang toc Internet. Thuc ra la chuong trinh nay nen' du lieu tu Internet, sau do du lieu duoc truyen toi may ban, tren may ban du lieu se duoc giai nen, nho the dung luong duong truyen giam di dang ke. Ngoai ra chuong trinh nay con su dung files Cache co san. Neu toc do duong truyen Internet cua ban tu 64Kbit/s tro len thi se khong co' su khac biet lon lam, ban khong can thiet phai su dung Proxyconn. Hon nua hieu qua cu chuong trinh nay chi mang tinh tuong doi. Ban chi viec uninstall Proxyconn, trinh duyet Internet Explore cua ban se lam viec binh thuong lai. Con Internet cham co' the la do Internet cua ban toc doc chua cao, neu ban dung Dial up, va dac biet dung Proxy Internet voi Dial up, thi thuc su la Internet se rat cham. Voi Dial up chi nen dung 1 may thoi. Than ai! 
+DiHi
+Khi đã gỡ bỏ Proxyconn bằng add/remove của windows, dịch vụ (isp)nào bạn đang sử dụng hãy cài lại chương trình đó để họ setup lại các thông số trong modem hay internet connection, vì những chi tiết ấy đã bị thay đổi bởi Proxyconn. bạn vào toolsinternet optionsprogams đánh dấu (checked) ở khung internet explore should check to see whether it is the default browserapplyOK..thì IE sẻ là măcj định cho bạn. 
+

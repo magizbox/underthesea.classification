@@ -1,0 +1,6 @@
+ Châu Âu nghiên cứu chip polyme RFID
+"Dự án này mang tên PolyApply, sẽ tập trung vào phát triển chip bằng plastic cho những ứng dụng RFID (Radio Frequency Identification)." Richard Stockdill, người phát ngôn của hãng STMicroelectronics NV (ST), nói. Hiện các nhà làm chip của Pháp và Ý đang dẫn đầu trong việc thực thi kế hoạch này. 
+Để thực hiện một trong sáu phần của kế hoạch nghiên cứu, Technological Development and Demonstration Framework Programme , Ủy ban Châu Âu đã phải chi đến 12 triệu bảng cho một nhóm làm chip gồm 20 người và một tổ chức nghiên cứu để khởi đầu đề án dự kiến kéo dài đến hết năm 2007. 
+Các công ty cộng tác bao gồm Sweden's Acreo AB, Germany's Infineon Technologies AG, Siemens AG và Koninklijke Philips Electronics NV ở Hà Lan. Nhóm cộng tác lập ra một đội gọi là " ambient intelligence " để hoạch định công việc. Mục đích là kết hợp các chức năng điện tử khác nhau như là khả năng phán đoán, tính toán và lưu trữ thông tin trong nhiều loại chất liệu giúp giao tiếp với kỹ thuật tần số thấp. 
+Trong tương lai, hệ thống điện tử sử dụng polyme sẽ đóng vai trò chủ lực trong việc thay thế công nghệ silicon vốn đã trở nên rất thông dụng trong hầu hết các thiết bị điện tử, mặc dù silicon vẫn là "trùm" trong vòng 10 năm nữa. 
+

@@ -1,0 +1,7 @@
+Thiết bị nhỏ, nguy cơ lớn
+Những sản phẩm bỏ túi như thẻ nhớ USB, iPod đang trở thành mối đe doạ về bảo mật lớn trong nhiều doanh nghiệp do họ thường chỉ tập trung vào giải quyết những nguy cơ từ bên ngoài.
+"Thật dễ dàng để mang thông tin nội bộ ra khỏi công ty hiện nay", Matt Fisher, Phó giám đốc thị trường của Centennial (Mỹ), cho biết. "Không cần phải khoác một ba lô đầy tài liệu, những ổ mini 2 GB chỉ nhỏ bằng ngón tay cái cũng có thể gây thiệt hại lâu dài và nghiêm trọng cho hoạt động cũng như danh tiếng của mỗi công ty".
+Dù vô tình hay cố ý, những thiết bị này đang trở thành phương tiện trung gian để truyền file nhạy cảm, phát tán mã nguy hiểm hay những nội dung không phù hợp trong mạng nội bộ. Theo Fisher, 80% các vụ tấn công hệ thống công nghệ thông tin xuất phát từ chính bên trong mạng nội bộ, trong khi nhà quản trị lại cơ bản chú trọng vào việc đối phó với nguy cơ từ xa.
+Centennial, hãng chuyên về phần mềm bảo mật, cho biết họ đang từng bước giải quyết tình trạng sử dụng thiết bị rời (removable) để truy cập máy tính. Công ty Mỹ này hôm qua đã ra mắt DeviceWall 3.0, giải pháp bảo mật doanh nghiệp mới, cung cấp khả năng kiểm soát và quản lý hoạt động của USB, iPod, PDA, điện thoại thông minh, ổ ghi CD và nhiều thiết bị khác.
+Sản phẩm này cũng kèm tính năng khoá kết nối Bluetooth, cổng hồng ngoại và Wi-Fi, nhằm ngăn chặn việc chuyển thông tin qua lại giữa máy tính nội bộ và thiết bị di động khi chưa được cho phép.
+

@@ -1,0 +1,6 @@
+Soạn thảo tiếng Hàn trong Yahoo (1)
+Toi co mot cau hoi nho nhu sau: toi co mot hom thu yahoo.com.khi vao phan gui thu thi chi soan thao duoc van ban tiengs anh chu khong soan thao duoc van ban tieng Han Quoc.Vay thi toi phai lam the nao? 
+Dao Manh Cuong
+Hồi âm:
+Ban phai cai dat Locale tieng Han moi go duoc tieng Han trong Yahoo Messenger. Vao Control Panel, Regional Settings, roi chon cai dat Locale tieng Han (Korean).Sau do dat Input Locale la tieng Han, de go tieng Han. Doi voi Win XP, check vao "Cai dat font Asian".
+

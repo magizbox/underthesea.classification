@@ -1,0 +1,8 @@
+Diệt muỗi bằng công nghệ Wi-Fi 
+American Biophysics (AmBio), công ty sinh học chuyên cung cấp các phương pháp diệt muỗi, đã quyết định sử dụng hệ thống máy tính và băng thông rộng không dây để trừ khử loài côn trùng hút máu.
+AmBio hiện kinh doanh sản phẩm "Mosquito Magnet", bao gồm các nam châm tỏa mùi hương giống con người, trong đó có CO2 và hơi ẩm, để đánh lừa và thu hút côn trùng. Công ty đang chuyển sang triển khai mạng bắt muỗi thông minh, hay "hệ thống phòng chống điện toán hóa". 
+Một phần mềm kiểm soát từ tính sẽ quản lý hàng rào bảo vệ, có khả năng liên lạc với mạng trung tâm qua công nghệ không dây 802.11b. Trong khi đó, những máy chủ đầu não sẽ ghi và phân tích dữ liệu được truyền từ nam châm điện toán hóa về chất lượng không khí, độ ẩm, hướng gió và chất ô nhiễm. Ví dụ, nếu trời mưa, hệ thống sẽ ngừng hoạt động để tiết kiệm năng lượng. Nếu gió thổi từ hướng bắc, nam châm phía nam sẽ tự động tắt và để muỗi bay qua.
+Tuần này, AmBio nhận được khoản tiền 15 triệu USD từ các nhà đầu tư để mở rộng phát triển sản phẩm. Công nghệ Mosquito Magnet hiện nay chiếm 65% thị trường thuốc diệt côn trùng Mỹ.
+Muỗi là loài côn trùng mang mầm bệnh như virus West Nile ở Mỹ. Sốt rét cũng được coi là một trong những căn bệnh nguy hiểm nhất ở các quốc gia đang phát triển. 90% nạn nhân của bệnh này xuất phát từ việc bị muỗi đốt.
+Năm tới, AmBio dự định thử nghiệm hệ thống tại trại tị nạn Trat Camp ở Đông Nam Thái Lan. Trại đang chứa khoảng 15.000 người, nhưng mỗi năm ở đây có khoảng 500 - 600 người chết vì sốt rét. Kế hoạch này được tài trợ bởi Liên Hợp Quốc.
+

@@ -1,0 +1,6 @@
+Ổ cứng đầy lên khi dùng Systems Restore? (1)
+Tôi thương hay găp truc trăc trong khi sư dung vi tinh va vi vây tôi cung rât thương xuyên sư dung chưc năng System Restore cua Windows XP. Thê nhưng môt vân đê la sau môi lân tôi Restore lai Windows XP thi cung la HDD bi đây thêm môt chut. Như hiên giơ HDD cua tôi gân như la bi Full rôi ma không tim đươc cai gi lam cho no bi như vây. Hinh như trươc kia tôi co nghe noi la co chương trinh nao đo co kha năng xoa sach nhưng gi rac rươi trong Windows đê cho HDD nhe hơn đươc môt chut, không hiêu co chương trinh nay không? cung như no co thê giup gi cho tôi trong trươg hơp nay không? Mong cac ban chi giao. Cam ơn nhiêu.
+Việt
+Hồi âm:
+Ban dua chuot vao bieu tuong mycomputer chon properties chon system restore chon Turn off system restore all drives khoang vai phut sau ban lai bat chuong trinh nay tro lai binh thuong. Lam nhu vay may se tu dong xoa bo cac lan restore truoc va may se chay nhanh hon, ma tot hon neu khong nghich ngom nhieu thi nen tat no di vi chuong trinh nay lam may chay cham nhat la voi may co cau hinh thap, the nghe chuc vui ve nhe.
+

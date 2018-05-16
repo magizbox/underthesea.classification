@@ -1,0 +1,9 @@
+Nguy cơ lộ thông tin cá nhân trong Windows Vista
+Những người tham gia thử nghiệm bản Beta 1 của hệ điều hành Windows mới có thể tự làm lộ những dữ liệu cá nhân như tên sử dụng, địa chỉ IP... khi kích hoạt một tính năng trong sản phẩm này.
+Theo chuyên gia bảo mật George Bakos tại trung tâm nghiên cứu thuộc trường Dartmouth (Mỹ), nguy cơ này liên quan đến công nghệ chia sẻ ngang hàng (P2P) mang tên PNRP tích hợp trong Windows Vista. 
+Công nghệ PNRP là một phần trong gói ứng dụng mạng cải tiến (Advanced Networking Pack) từng được đưa vào Windows XP SP1. Một trong những ứng dụng phổ biến của PNRP là chơi game trực tuyến. Chương trình cho phép người chơi kết nối trực tiếp với máy tính của nhau mà không cần một máy chủ trung gian, do đó có thể xây dựng cộng đồng game trực tuyến nhanh hơn và năng động hơn. 
+PNRP, được bật mặc định trong Windows Vista Beta 1, cung cấp tính năng tương tự một máy chủ bằng cách tạo một "đám mây" chứa thông tin của người dùng và trôi lơ lửng trên mạng Internet. Sau khi người dùng đăng ký dịch vụ với PNRP, thông tin của họ bị phân tán qua hệ thống mạng. Thậm chí cả khi đã tắt kết nối khỏi dịch vụ, dữ liệu vẫn tiếp tục trôi nổi trên "đám mây" cho đến khi hết hiệu lực trong bộ nhớ đệm (cache).
+"Tính năng này có thể bị kẻ tấn công lợi dụng để thu thập thông tin cá nhân, xác định tên người dùng và địa chỉ IP", Bakos khuyến cáo.
+Bakos cho rằng Microsoft đã không thông báo đầy đủ cho những người tham gia thử nghiệm bản Beta biết rằng dịch vụ đã được bật mặc định. "Nếu biết chương trình đang hoạt động, nhiều người dùng sẽ tắt nó đi. Nhiều vấn đề về bảo mật đã phát sinh và tôi muốn hãng nhanh chóng tiến hành kiểm tra", Bakos nói.
+Hai ngày qua, Microsoft chưa có câu trả lời cho thông tin này.
+

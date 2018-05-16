@@ -1,0 +1,21 @@
+'Bạo lực sẽ ngăn cản nhiều cử tri Iraq'
+Tổng thống lâm thời Iraq Ghazi Yawer cho rằng, nhiều cử tri hôm nay sẽ không tham gia cuộc bỏ phiếu lịch sử vì tình trạng bạo lực gia tăng trên toàn đất nước, chứ không phải để tẩy chay cuộc bầu cử chọn ra Quốc hội chuyển tiếp gồm 275 ghế. 
+Vì có lệnh cấm lái ôtô, nên các cử tri sẽ phải đi bộ tới các điểm bỏ phiếu và có thể sẽ phải xếp hàng dài. Từ góc độ an ninh, những hàng người nối đuôi nhau là nỗi sợ hãi lớn nhất. Các điểm bỏ phiếu sẽ mở cửa từ 7 giờ sáng (giờ địa phương).
+Bất chấp các biện pháp an ninh thắt chặt chưa từng có, các cuộc tấn công vẫn xảy ra, kể cả ở trung tâm Baghdad được bảo vệ chặt chẽ. Hai người Mỹ thiệt mạng và ít nhất 4 người bị thương trong vụ tấn công rocket nhằm vào khu sứ quán nước này, đêm qua. Không rõ các nạn nhân có phải là nhân viên sứ quán hay không. 
+Vài giờ trước vụ tấn công rocket, 3 binh sĩ và 5 thường dân Iraq thiệt mạng trong vụ đánh bom liều chết ở Khanaqin, gần biên giới với Iran. Các cuộc tấn công lẻ tẻ xảy ra ở một số điểm bỏ phiếu.
+AddVote(1000190272,0,160392378,'','Bao nhiêu phần trăm cử tri Iraq sẽ tham gia bỏ phiếu?','#FFFFFF','#800000','100%',2, new Array(new Array('Dưới 50%',0,0),new Array('Từ 50% trở lên',0,1)),'',1)
+Tiếng pháo cối và súng máy vang lên ở Baghdad trưa qua, không đầy 24 giờ trước khi bầu cử bắt đầu. 
+Binh lính Mỹ được triển khai để tăng cường an ninh, trong đó có lệnh giới nghiêm từ 7 giờ tối tới 6 giờ sáng ở hầu hết các thành phố và cấm đi lại giữa các tỉnh. Biên giới Iraq và sân bay quốc tế ở Baghdad đóng cửa. 
+Một số đảng phái Sunni kêu gọi người Iraq tẩy chay bầu cử. Theo kết quả cuộc thăm dò của Zogby International, 76% người Sunni khẳng định sẽ không đi bỏ phiếu, trong khi chỉ 9% cho biết sẽ đi thực hiện quyền công dân. 
+Người Shiite thì tỏ ra lạc quan về tình hình an ninh. "Tôi nghĩ mọi chuyện sẽ ổn thoả", Ruya al-Khalib, 27 tuổi, ở Basra, nhận định. "An ninh sẽ tốt và tôi sẽ đi bỏ phiếu. Tôi hy vọng bạn bè mình cũng làm như vậy". 
+Các diễn biến khác:
+- Chính phủ lâm thời Iraq đã kéo dài tình trạng khẩn cấp trên toàn đất nước thêm một tháng. Theo đó, nội các có quyền áp đặt lệnh giới nghiêm và hạn chế đi lại.
+- Tổng thống George W. Bush khẳng định lính Mỹ sẽ ở lại Iraq sau bầu cử để giúp chính phủ mới đào tạo lực lượng an ninh và thiết lập an ninh.
+- Lính Anh ở thành phố miền nam Basra tịch thu chất nổ và bắt một số người Iraq bị tình nghi âm mưu tiến hành chiến dịch đánh bom.
+- Thi thể 5 người Iraq bị du kích cáo buộc làm việc cho Mỹ được tìm thấy trên con phố ở Ramadi.
+Đảng Shiite sẽ bỏ phiếu kín để bầu thủ tướng Iraq(17/02/2005)
+Jaafari nhiều khả năng trở thành Thủ tướng Iraq(16/02/2005)
+Giới chính trị Iraq chạy đua lập chính phủ mới(15/02/2005)
+Các đảng Shiite, Kurd chiến thắng trong bầu cử Iraq(14/02/2005)
+'Hàng nghìn người Iraq không thể bỏ phiếu'(02/02/2005)
+

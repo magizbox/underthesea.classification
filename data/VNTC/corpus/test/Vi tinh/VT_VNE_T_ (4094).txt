@@ -1,0 +1,6 @@
+Tải phiên bản hệ điều hành máy chủ Windows mới
+Hôm qua, hãng phần mềm tại Redmond, Washington (Mỹ), đã phát hành bản nâng cấp đầu tiên Windows Server 2003 Release Candidate Zero (RC0) từ Windows Server 2003 SP1.
+Theo Microsoft, chương trình này được coi là bản preview (duyệt trước) cho công nghệ sẽ xuất hiện trong hệ điều hành máy chủ Release Candidate 2 (R2). RC0 bao gồm những đặc điểm nổi bật sẽ có trong phiên bản chính thức như quản lý truy cập, lưu trữ, khai thác ứng dụng trong và ngoài doanh nghiệp.
+R2, ra mắt vào cuối năm nay, hứa hẹn sẽ mang đến khả năng vận hành và mức độ quản lý cải tiến kiểu mới, nâng cao hiệu quả công việc của người sử dụng qua dịch vụ Windows SharePoint Services của Microsoft. Đặc biệt, phần mềm sẽ tương thích với các ứng dụng Unix. Động thái này chứng tỏ thiện chí của tập đoàn trong việc bắt tay với mã nguồn mở, từng được coi là đối thủ trực tiếp của hãng trước đây.
+Người sử dụng có thể tải Windows Server 2003 Release Candidate Zero tại website của Microsoft.
+

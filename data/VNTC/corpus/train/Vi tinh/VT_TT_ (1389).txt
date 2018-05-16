@@ -1,0 +1,7 @@
+ HP Việt Nam đưa ra giá ưu đãi dành cho Pocket PC
+Các dòng máy đều sử dụng phần mềm Windows Mobile và các phần mềm Microsoft như Outlook, Word, Excel và Internet Explorer dành cho máy tính bỏ túi, tích hợp kết nối không dây Bluetooth và WLAN 802.11b. 
+Cấu hình và giá bán của các loại máy này như sau: 
+HP iPAQ Pocket PC h6365 giá 11.900.000 đồng. Bộ nhớ SDRAM 64MB và 64MB Flash ROM.Bộ vi xử lý Texas Instrument OMAP 1510. Màn hình TFT cảm ứng với 65.536 màu với màu nền LED. Tích hợp máy ảnh (độ phân giải 640x480). Tính năng ĐTDĐ GSM/GPRS. Khe cắm SDIO. 
+iPAQ rz1710 Pocket PC giá 4.380.000 đồng.Bộ vi xử lý Samsung S3C 2410 (203 MHz).Bộ nhớ SDRAM 32MB và 48MB Flash ROM. Dung lượng bộ nhớ 10MB. iPAQ rx3417 Mobile Media Companion giá 7.480.000 đồng.Bộ vi xử lý Samsung S3C 2440 (203 MHz). Dung lượng bộ nhớ 92MB. Màn hình màu TFT cảm ứng. Tích hợp máy ảnh số 1,2 megapixels (độ phân giải 1280x960, 4x zoom). Tích hợp công nghệ mạng không dây theo chuẩn 802.11b và Bluetooth. Khe cắm SD. 
+iPAQ hx2700 seires Pocket PC giá 10.460.000 đồng. Bộ vi xử lý Intel PXA270 624 MHz. Dung lượng bộ nhớ 256MB (128MB ROM, 128MB SDRAM). Bộ nhớ trống hơn 185MB. Màn hình màu VGA cảm ứng có đèn LED nền. Khe cắm SD, CF. Bảo mật bằng nhận dạng vân tay. iPAQ hx4700 series Pocket PC giá 10.490.000 đồng. Bộ vi xử lý Intel PXA270 624 MHz. Dung lượng bộ nhớ 192MB (128MB ROM, 64MB SDRAM). Màn hình màu VGA cảm ứng có đèn LED nền. Khe cắm SD, CF. 
+

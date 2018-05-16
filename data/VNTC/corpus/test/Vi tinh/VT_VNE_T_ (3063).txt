@@ -1,0 +1,10 @@
+Cài lại Internet Explorer (3)
+Mình đang xài Internet Exployer 6.0 nhưng bị 1 số lỗi về popup nay muốn cài mới lại (chỉ cài mới Internet Exployer không cần phải boot lại máy) nhưng mình không biết phương pháp. Có ai biết xin hướng dẫn dùm. Cảm ơn nhiều.
+Ricky
+Hồi âm:
+Ricky men ! Muon cai lai Internet Explorer 6.0 hay 7.0 thi vao Web site nay download www.microsoft.com/windows/ie/default.asp.
+Thien An
+POPUP ở đây có 2 vấn đề. nếu popup do các spy-ware gây nên hay trinh duyệt IE bị khống chế bởi 1 browser khác thì bạn nên dùng adware 6 hay spy-bot để xóa những spy-ware đó nên dùng những phần mềm để hổ trợ cho IE. đối với IE 6.0 bạn nên có SP2 sẻ cho phép bạn block những popup theo như ý bạn vì mặc định của pop-up blocker chỉ để ở trung bình ( medium ) bạn vào toolpopup blocker đổi lại thành (High) . muốn chận popup đạt hiệu quả nên dùng google tool bar. nếu muốn download IE6 link http://www.microsoft.com/windows/ie/downloads/critical/ie6sp1/default.mspx. Nếu sử dụng xp bạn cho cd vào chọn repair sau khi khởi động win sẻ sửa lại IE cho bạn.
+TOM 
+Reinstall IE 6.0 from your XP CD. Cho dĩa WinXP vào ổ CD. Open Start / Run: ( copy hàng chữ dưới đây và paste ). rundll32.exe setupapi,InstallHinfSection DefaultInstall 132 c:\windows\inf\ie.inf   Nhấn ENTER hoặc bấm OK   Đổi qua Ổ Win Xp CD/I386 / IEXPLORE / Tiếp tục theo hướng dẫn.   
+

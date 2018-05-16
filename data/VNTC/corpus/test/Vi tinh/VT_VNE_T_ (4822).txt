@@ -1,0 +1,12 @@
+Tin vắn ngày 9/11
+Công ty CMS trở thành nhà phân phối chính thức của Eaton  Juniper Networks công bố giải pháp loại trừ tấn công từ chối dịch vụ Công ty giải pháp phần mềm Hòa Bình được lựa chọn cho chương trình Global Entrepreneurship Lab 2005-2006.
+Công ty CMS đã ký thỏa thuận với nhà sản xuất công nghiệp Eaton để trở thành nhà cung cấp chính thức thiết bị lưu điện (UPS) Powerware dòng sản phẩm 1 tại thị trường Việt Nam cùng dịch vụ hỗ trợ kỹ thuật có liên quan.
+Những sản phẩm UPS của Eaton được giới thiệu gồm Powerware 9155 và 9355 với công nghệ chuyển đổi kép trực tuyến có công suất từ 8kVA đến 25kVA cho hiệu suất hoạt động 91%.
+N.H. 
+Tập đoàn Juniper Networks vừa công bố giải pháp loại trừ đe doạ mạng động (Dynamic Threat Mitigation) bao gồm cả dịch vụ truyền thoại qua giao thức internet (VoIP). 
+Giải pháp này kết hợp các bộ định tuyến, hệ thống phòng chống và phát hiện xâm nhập (IDP) cùng với phần mềm hệ thống triển khai các dịch vụ (SDX) nhằm bảo vệ các dịch vụ mạng và truyền thoại dựa trên SIP (giao thức tiền phiên giao dịch  Session Inititated Protocol) trước những cuộc tấn công giao thức SIP, sâu mạng, và tấn công từ chối dịch vụ. Giải pháp Dynamic Threat Mitigation giúp chống lại các cuộc tấn công từ chối dịch vụ bằng cách cho phép các nhà cung cấp dịch vụ nhận dạng kiểu tấn công theo người dùng hay theo ứng dụng. 
+Giải pháp Loại trừ đe doạ mạng động đã có trên thị trường. Thông tin chi tiết có tại: http://www.juniper.net/solutions/broadband/
+X.K.
+Công ty Giải Pháp Phần mềm Hòa Bình (PeaceSoft Solutions) là 1 trong 40 dự án trên toàn thế giới được các sinh viên cao học trường Quản trị Sloan thuộc Viện Công nghệ Massachusetts - Mỹ (MIT) lựa chọn cho chương trình Global Entrepreneurship Lab 2005-2006. 
+Đây là một khóa thực tập mang tính toàn cầu do trường Sloan tổ chức hàng năm cho các sinh viên học năm cuối thạc sĩ quản trị kinh doanh. Chương trình sẽ lựa chọn các công ty tiêu biểu trên toàn thế giới để gửi các sinh viên cao học đến trực tiếp làm việc (không nhận lương) trong một dự án tư vấn kéo dài 4 tháng. 
+

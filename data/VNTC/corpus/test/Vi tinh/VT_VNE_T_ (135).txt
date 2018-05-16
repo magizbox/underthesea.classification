@@ -1,0 +1,6 @@
+Có thể nâng cấp từ Celeron lên Pentium 4? (1)
+Hiện tại tôi đang dùng một máy PC của Compaq presario 6000, model 6207EA, chạy chip celeron 1,7 GHZ. Tôi đã nâng cấp nhiều chức năng cho máy song còn phần quan trọng nhất thì không biết có thể không? Theo tôi biết thì cần có socket loại 478 thì có thể tương thích cho pen 4, ngoài ra lobo phải hỗ trợ tốc độ cao hơn. Vậy có thể xem chi tiết những thông tin đó ở đâu? Xin cảm ơn mọi người.
+Võ Hoài Nam
+Hồi âm:
+Celeron 1.7 thì sẽ có lõi là Pen 4 rồi. Tuy nhiên, vì máy của bạn là máy "xịn" việc nâng cấp sẽ khó hơn một chút vì ngay cả khi nếu main của bạn sử dụng socket 478 thì vẫn có khả năng bộ nguồn (power supply) không hỗ trợ tốt Pentium 4. Nhìn chung, cụ thể với truờng hợp của bạn thì an toàn nhất là không được nâng cấp lên Pen 4 có tốc độ quá 2.4Ghz (tốt nhất là thấp hơn) và chỉ nên mua loại Pentium 4 có tốc độ bus (FBS) 533Mhz hoặc 400Mhz thôi (tốt nhất là 400Mhz), nhìn chung là chip không sử dụng Hyper Threading.
+

@@ -1,0 +1,12 @@
+Tin vắn ngày 4/5
+Học viện mạng Cisco Bách Khoa khai giảng khoá đầu tiên Công ty máy tính CMS giới thiệu hệ thống CMS Gamestation HP và Nokia công bố về sáng kiến Mô hình di động.
+Ngày 11/3 tới, Học viện mạng Cisco Bách khoa của Đại học Bách khoa Hà Nội (Bachkhoa Networking Academy) khai giảng khoá học đầu tiên về chuyên viên mạng quốc tế CCNA. Đây là chương trình chính thức do công ty Cisco (Mỹ) phối hợp với trường đầu tư và xây dựng.
+Khóa đào tạo CCNA sẽ cung cấp kiến thức về thiết kế, lắp đặt, bảo trì hệ thống mạng và Internet. Sau khi hoàn tất bốn học kỳ của chương trình và thi đạt kỳ thi cuối khoá, học viên sẽ được cấp chứng chỉ của Đại học Bách khoa Hà Nội và chứng chỉ quốc tế CCNA chương trình học viên mạng Cisco Systems của Mỹ cấp.
+Thông tin chi tiết về các chương trình của Học viện mạng Bách Khoa có thể tham khảo tại www.ciscobachkhoa.com. 
+N.H.
+Công ty máy tính CMS vừa cho ra mắt hệ thống chơi game chuyên dụng là CMS Gamestation. Bộ máy này được trang bị Pentium 43,6 GHz gắn chipset Alderwood i925X của Intel; RAM 1GB (dual channel); 2 ổ cứng SATA, mỗi ổ dung lượng 120GB dùng RAID 0 nâng tổng dung lượng lên 240GB, card đồ họa NVIDIA Georce PCX 5750 128MB dùng giao tiếp PCI Express. 
+CMS Gamestation đã được chạy thử nghiệm với PC WorldBench5 và đạt 101 điểm. Đây là điểm số cao nhất từ trước đến nay trong các thử nghiệm của PCW, vượt qua cấu hình chuẩn (đạt 100 điểm dùng Athlon 64 FX-51 2,2 GHz). Máy cũng ổn định trong hầu hết các thử nghiệm về xử lý văn bản, dữ liệu, audio, video& 
+X.K.
+HP và Nokia vừa công bố một thỏa thuận là cùng cung cấp giải pháp tích hợp phục vụ xử lý các hình thức tài liệu bằng công nghệ di động. Sáng kiến Mô hình di động của hai hãng này cho phép người dùng tạo tài liệu và thu thập các dữ liệu qua các thiết bị liên lạc cầm tay, sau đó chuyển ngay lập tức tới bộ phận công nghệ thông tin của một doanh nghiệp, nơi dữ liệu có thể được lưu trữ, chia sẻ và in ấn. 
+Bằng việc kết hợp công nghệ in ấn theo yêu cầu của HP với giải pháp tự động hóa công việc giấy tờ qua các thiết bị di động và bút viết kỹ thuật số Nokia, giải pháp chung này nhằm giải quyết vấn đề hiệu quả kém và chi phí cao của quy trình xử lý tài liệu kiểu thủ công. 
+

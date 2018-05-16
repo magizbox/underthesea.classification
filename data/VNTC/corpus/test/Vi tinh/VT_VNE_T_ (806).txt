@@ -1,0 +1,12 @@
+3,5 tỷ đồng đền bù cho khách hàng của FPT
+Chiều nay, Công ty Truyền thông FPT chính thức công bố kế hoạch bồi thường cho khách hàng sau sự cố đứt tuyến cáp quang từ Việt Nam đi Hong Kong. Việc đền bù gồm 4 dạng áp dụng cho khách hàng sử dụng các dịch vụ khác nhau.
+Đại diện công ty cho biết: "Thời điểm gián đoạn dịch vụ thực tế bắt đầu từ đêm 24, rạng ngày 25/5 đến 13h ngày 26/5, tức là khoảng 1,5 ngày. Tuy nhiên, do đường truyền phục hồi chậm, chúng tôi đã tính thời gian ngưng kết nối tròn 3 ngày để làm cơ sở tính toán các khoản bồi thường".
+Cụ thể, đối với khách hàng dùng kênh thuê riêng leased line, ADSL sẽ được miễn trừ cước thuê bao 3 ngày gián đoạn dịch vụ nhân 1,5 lần, đồng thời miễn cước lưu lượng trong 3 ngày đó.
+Đối với các thuê bao dial-up trả sau, miễn trừ cước thuê bao 3 ngày gián đoạn dịch vụ nhân 1,5 lần và miễn trừ cước sử dụng trong 3 ngày đó. 
+Các khách hàng dùng Internet trả trước sẽ được tặng thêm 15 ngày sử dụng cho các tài khoản đã kích hoạt và có giá trị sử dụng trong thời gian bị gián đoạn dịch vụ.
+Khách hàng dùng dịch vụ lưu trữ web (web hosting và server hosting), miễn trừ cước thuê bao 3 ngày gián đoạn nhân 1,5 lần.
+Các khoản không tính cước trên sẽ được khấu trừ trực tiếp trên hóa đơn cước tháng 5 mà Công ty Truyền thông FPT phát hành cho khách hàng.
+"Chúng tôi đã chủ động đưa ra phương án đền bù cho tất cả khách hàng của công ty nhằm nhanh chóng chia sẻ những tổn thất của họ trong những ngày gián đoạn dịch vụ vừa qua", vị đại diện của công ty nói.
+Bộ Bưu chính viễn thông yêu cầu ứng cứu các sự cố cáp(28/05/2004)
+Chưa thể nối được tuyến cáp từ VN đi Hong Kong(26/05/2004)
+

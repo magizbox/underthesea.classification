@@ -1,0 +1,10 @@
+Làm thế nào để tăng độ phân giải màn hình LCD (3)
+Em moi mua may tinh co monitor Samsung LCD 17 inch, card do hoa Gefore 6600. Nhưng em khong tang duoc do phan giai len qua 1024:768 du man hinh muc chuan la 1280:1024. Em phai lam the nao?
+Le Toan Trung
+Hồi âm:
+Bạn cài driver cho card đồ họa GF và driver cho màn hình LCD. Driver được kèm theo trong CDROM khi bạn mua thiết bị. Theo mình biết thì card GF và màn hình SamSung luôn có CDROM chứa driver đi kèm. Nếu bạn không có thì nên tới nơi mua xin lại hoặc tìm trên Net (Ví dụ vào Google search với từ khoá 'GeFore 6600 driver' để tìm driver GF; 'Samsung LCD driver' để tìm driver Samsung...).Khi đã cài driver đầy đủ, bạn có thể tăng độ phân giải màn hình lên mức cao nhất.
+Tan Nhu
+Màn hình Samsung LCD 17" của bạn không thể tăng lên độ phân giải 1280:1024 có thể do các nguyên nhân sau: Hệ điều hành chưa nhận đúng driver của màn hình, hãy thử cài driver cho màn hình theo đĩa đi kèm, mặc dù điều này hiếm khi xảy ra. Có thể driver của card Ndivia Gefore 6600 của bạn là phiên bản cũ nên có vấn đề với màn hình LCD Samsung. Hãy tải phiên bản driver mới nhất của Ndivia (có thể tại download.com) và cài đè lên phiên bản hiện thời. Nếu các cách trên không được thì tốt nhất là reintall hệ điều hành.
+Goodluck 
+Chao ban, theo thiet ke tieu chuan thi man hinh LCD 17" se co do phan giai thuc la 1280:1024. Cac do phan giai khac thap hon deu la che do gia lap. Theo toi, ban dang gap van de voi Card VGA, vi khong dat duoc do phan giai do loi cua man hinh se the hien la man hinh khong chap nhan do phan giai do. Chuc ban thanh cong! Neu co thac mac gi ban co the lien lac voi chung toi: Cong ty TNHH Lam Phuong -19 Nguyen Binh Khiem Ha Noi. Tel: 9431717. e-mail: lamphuong@hn.vnn.vn. Chung toi la nha phan phoi phia Bac cua san pham LCD Samsung va Sony 
+

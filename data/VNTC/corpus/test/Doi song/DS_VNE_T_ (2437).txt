@@ -1,0 +1,25 @@
+Game PTV thay đổi bản chất bằng phiên bản mới
+PTV - Giành lại miền đất hứa hôm nay ra mắt phiên bản thử nghiệm Giác đấu và Công thành với việc bổ sung các chức năng giao đấu giữa các nhân vật (PvP), Công thành và Bảng tuyệt chiêu 4 dành cho các đại cao thủ.
+Công thành chiến
+Tại sân chơi mang tinh chiên lươc này, ngươi chơi không đanh nhau vơi quái vật ma chia ra công và thủ thành để gianh quyên thống trị lâu đài Bless.
+Lâu đài Bless la toa thanh năm trên hon đao phia Tây Nam cua luc đia Priston. Truyên răng từ xa xưa, hiệp sĩ huyền thoại Elliot Bless đa phiêu bạt đến hon đao nay va phat hiên ra nguôn mana vô tân. Vơi sự giúp sức cua cac thân, hiệp sĩ Bless xây dưng ở đây lãnh địa thần thoại với tầng tầng lớp lớp tường thành và tháp canh để bảo vệ cội nguồn sức mạnh của mình: dòng suối thần Mana.
+Nhiều thế kỷ trôi qua, đảo Bless vẫn chỉ là huyền thoại bởi không ai có thể đặt chân tới, cho đến một ngày, môt phap sư la xuât hiên với quyền năng đưa các hiệp sĩ đên đảo Bless. Và với sức cám dỗ quá lớn của hồ Mana vô tận, các hiệp sĩ, các Clan lao vao cuôc chiên với tham vong sơ hưu nguôn Mana. Cac chiến binh chiên đâu vi quyên lưc, vi danh vong&
+Với sự xuất hiện của Lâu đài Bless, hê thông Item mới đươc đưa ra đê hô trơ cho giác đấu, công va thu thanh. Đó là nhưng viên đa ma thuât với những công dung khac nhau như Lực thạch (Might Stone), làm tăng 20% sức sát thương, Hồi sinh thạch (Restoration) cho phép tự hồi sinh, Hồi phục thạch (Recovery) có tác dụng hôi phuc Stamina, HP va MP cho ca party, Suy thạch (Defiance Stone) làm giảm sức tấn công của các tòa tháp&
+Các cuộc công thanh diên ra trong 2 giơ vao môt ngay cô đinh trong tuân. Trong thơi gian 2 giơ đo, bên công thành phai pha vơ đươc Đại tháp trung tâm Valhalla. Clan thắng trận sẽ được quản lý lâu đài Bless 1 tuần cho đến lần công thành sau, đươc hương các quyên lơi như thu thuê, hưởng nguôn mana vô tân và các ky năng đăc biêt tư lâu đài Bless.
+Trong đơt công thanh sau, Clan đang giư lâu đai Bless se giữ vai trò thu thanh chống lại toàn thể những người công thành. Đê thu thanh, Clan nay co thê mươn linh đanh thuê, xây dưng thap canh, bô tri cung thu bắn tỉa& Nêu trong 2 giơ ma Đại thap Valhalla không bi pha vơ, Clan đo se tiếp tục năm giư Bless Castle cho đên lân công thanh sau.
+Trái lại, nếu đại tháp bị phá vỡ, Clan có đóng góp nhiều nhất trong việc công thành sẽ lên nắm quyền đế vương thành Bless.
+Giác đấu - nơi thanh toán ân oán giang hồ
+Cùng với Công thành, phần giác đấu (PvP) là chức năng mới xuất hiện trong phiên bản này mà trươc đây không hê co trong Priston Tale. Nếu như công thành chỉ diễn ra mỗi tuần một lần, thì bất cứ lúc nào người chơi cũng có thể đến lâu đài Bless để đấu tay đôi hay đấu clan, thanh toán ân oán giang hồ.
+Giác đấu khiến game trở nên thực hơn va quan trong nhât la lam thay đôi phương phap phat triên nhân vât của người chơi. Trước khi có mặt phiên bản này, người chơi phát triển nhân vật theo hướng chiến đấu hiệu quả với quái vật, tức với máy. Tuy nhiên, các cách hiệu quả đối phó với máy có thể trở nên rất thiếu hiệu quả khi chiến đấu với người.
+Bảng tuyệt chiêu số 4
+Đây la bang tuyệt chiêu (skill) phat huy tôi đa sưc manh cua nhân vât, co thê noi đây la nhưng tuyêt chiêu manh nhât hiên nay. Đê sử dụng được bang tuyêt chiêu sô 4, nhân vât co level tư 60 trơ lên va phai vươt qua đươc nhiều thư thach khó khăn.
+Trong số các tuyệt chiêu, đáng chú ý có Khổng lồ thép của Mechanician - ngươi may không lô toan thân băng thep co sưc phong thủ va tân công cao đươc Mechanician tao ra đê giup đơ minh trong cac trân chiên.
+Đại công phá của Fighter, như tên gọi, có sưc công pha kinh khung với viêc thưc hiên ba chiêu đanh uy lưc va liên tuc tâp trung lên môt điêm.
+Một tuyệt chiêu đáng chú ý của Pikeman là Biến ảnh, sư dung vơi tốc độ cưc nhanh khiên đôi thu chi co thê thây đươc nhưng bong ao do Pikeman tao ra. Tôc đô va sưc manh thê chât kêt hơp lại tao ra chiêu thưc không nhưng đep ma con manh.
+Sau khi trai qua thư thach, cac nữ cung thủ Archer se đươc phong lên Nhân mã va tư luc đo co thê sư dung đươc chiêu Phượng Tiễn. Mui tên băn ra mang theo sưc manh Mana do Archer truyên thu vao tao thanh hinh Phương hoang với sức sát thương rông.
+Sau khi đươc truyên day nhưng phep thuât thân thánh, Knight co thê sư dung chiêu thưc Thần Kiếm. Kêt hơp giưa sưc manh thê chât va phep thuât, Thần Kiếm la tô hơp kiếm liên hoan tân công đôi thu khiên đôi thu không thê chông đơ.
+Atalanta khi đã đạt tới cấp độ cao, co thê sư dung phep thuât đê tăng sưc manh trong nhưng mui lao. Băng lao với sưc manh băng gia tao tư Mana gây sat thương cao va khiến ke thu đóng băng.
+Vùng hồi sinh la môt trong nhưng phep thuât cua Priestess ở đẳng cấp cao. Chiêu thưc này tao ra môt khu vưc rông lơn giup các thanh viên trong nhom tăng kha năng hôi phuc HP va MP. Khi Priestess sư dung tuyệt chiêu này, ngươi ta thây ân hiên sau lưng cô la đôi canh thiên sư.
+Magician, với khả năng di chuyển cả trái đất và những vì sao nhờ phép thuật Hoán địa, có thể sử dụng sức mạnh tối thượng để tạo những cơn mưa thiên thạch tấn công đối thủ.
+Xem thêm chi tiết tại www.ptv.com.vn.
+

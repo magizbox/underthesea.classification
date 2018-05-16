@@ -1,0 +1,7 @@
+Không gõ được tiếng Việt trên Title Bar (1)
+Em đang lập trình với Visual basic. Em không thể nào gõ tiếng Việt trên Title Bar của form (thuộc tính Caption của form), trong câu thông báo của Msgbox, Menu Editor... Các anh chị hãy giúp em với. PC của em xài Win98...dùng Font VietKey 2000.
+Em xin cảm ơn.
+Nguyen Pham Dang Khoa
+Hồi âm:
+Mình không biết bạn đang dùng font chữ gì để nhập nội dung trong VB, vì chọn font chữ và bộ gõ để nhúng cũng rất quan trọng. Mình khuyên bạn nên dùng font chữ tahoma hoặc arial, còn bảng mã là unicode thử xem có được không.
+

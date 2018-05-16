@@ -1,0 +1,7 @@
+Chip nhớ XDR2 có tốc độ 8 GHz 
+Sản phẩm mà hãng Rambus vừa công bố nhanh hơn gấp 5 lần so với GDDR3, chip nhớ tốc độ cao được dùng trong card đồ họa.  Khả năng này cho phép tạo những hình ảnh đẹp hơn cho các trò chơi và máy tính cao cấp.
+Theo Giám đốc tiếp thị của Rambus, Rich Warmke, công nghệ XDR2 có tốc độ cao gấp 2 lần XDR, công nghệ được sử dụng để tạo chip nhớ nhanh nhất thế giới hiện nay.
+Victor Echevarria, Giám đốc tiếp thị của nhóm giải pháp nền tảng của Rambus, cho biết hiện nay các loại chip nhớ truy cập dữ liệu qua luồng đơn nhưng với XDR2, Rambus áp dụng kỹ thuật hyper-threading (công nghệ xử lý siêu phân luồng), cung cấp nhiều kênh dữ liệu hơn. Điều này làm cho tốc độ truy cập tăng thêm nhiều lần.
+Công nghệ siêu phân luồng đã được sử dụng trong các bộ vi xử lý của Intel, mang lại hiệu năng cao cho máy tính. Rambus áp dụng công nghệ này lần đầu tiên vào trong DRAM hồi tháng 4.
+Sản phẩm của Rambus đang thu hút sự quan tâm của các nhà sản xuất chip như Samsung Electronics, Toshiba và Elpida Memory. Cả 3 công ty này sản xuất RAM XDR và những sản phẩm XDR2 đầu tiên sẽ có thể được họ đưa ra vào năm 2007.
+

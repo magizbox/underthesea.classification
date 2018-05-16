@@ -1,0 +1,7 @@
+Windows AntiSpyware nâng cấp để diệt rootkit
+Phiên bản mới của chương trình chống spyware mà Microsoft đang phát hành thử nghiệmđã giải quyết được lỗi ngăn người dùng không thể cập nhật file chữ ký phần mềm nguy hiểm.
+Windows AntiSpyware 1.0.615 là phiên bản thứ 4 của chương trình từ khi chính thức xuất hiện vào tháng 1 năm nay. Steve Dodson, một chuyên gia lập trình trong nhóm AntiSpyware, cho biết: "Chúng tôi muốn giải quyết vấn đề về cơ chế tự cập nhật những spyware mới, đồng thời cũng cải tiến phương thức bản Beta này cung cấp thông tin cho người dùng về những quy trình đang chạy trên PC của họ".
+Mục tiêu của Windows AntiSpyware 1.0.615 là khắc chếrootkit, loại phần mềm nguy hiểm có khả năng kiểm soát hệ thống từ xa, hiện cửa sổ pop-up đính kèm spyware, Trojan và nhiều kiểu tấn công khác.
+Rootkit đã xuất hiện từ nhiều năm nhưng chỉ vài tháng gần đây tin tặc mới bắt đầu tận dụng chúng để phát tán virus và sâu. Dạng chương trình này khá "cứng đầu" và không dễ dò ra hay tiêu diệt. Do rootkit thay đổi nhân hệ điều hành và lợi dụng giao diện chương trình ứng dụng (API), chúng có khả năng tự cải trang như là những cảnh báo thông thường về sự xuất hiện của mã độc nào đó. Windows có nguy cơ bị ảnh hưởng bởi rootkit rất cao do hệ điều hành này được sử dụng quá rộng rãi.
+Bản 1.0.615 có thể được tải từ trang web của Microsoft. Riêng những người đang dùng bản hiện tại có thể đợi chương trình tự động nâng cấp.
+

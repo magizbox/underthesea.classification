@@ -1,0 +1,10 @@
+Turion: Vũ khí chống lại Centrino
+Dòng sản phẩm vi xử lý tiết kiệm năng lượng dùng cho máy tính xách tay có tên gọi Turion, sẽ ra mắt trong thời gian tới, được xem là câu trả của AMD trước những thách thức từ bộ chip di động Centrino do đối thủ Intel sản xuất. 
+Mặc dù không công bố chi tiết bất kỳ đặc điểm kỹ thuật nhưng AMD cho biết Turion sẽ phù hợp với các loại notebook mỏng và nhẹ, có thời gian sử dụng pin lâu nhờ khả năng tiết kiệm năng lượng. Hiện tại, máy tính xách tay trang bị bộ vi xử lý của AMD hầu hết đều có hiệu suất ngang hàng với máy tính desktop nhưng thường rất tốn pin và tỏa nhiệt khá mạnh. 
+Ví dụ, bộ vi xử lý di động Athlon 64 có công suất sinh nhiệt từ 25 đến 64 watt. Ngược lại, dòng Pentium M, đóng vai trò trung tâm trong công nghệ Centrino, chỉ sinh nhiệt với công suất 20 watt. Lượng nhiệt do bộ vi xử lý sinh ra là thước đo đánh giá sự ảnh hưởng của nhiệt độ đến hiệu suất hoạt động của hệ thống máy tính.
+Theo đánh giá của các chuyên gia về công nghệ, về cơ bản Turion sẽ cho phép AMD cạnh tranh hiệu quả hơn trên thị trường máy xách tay. Trong những năm vừa qua, Intel đã chú trọng nhiều hơn đến việc mở rộng thị trường máy xách tay hơn là máy để bàn, một phần nhờ có công nghệ Centrino. 
+Sản phẩm của chúng tôi sẽ có thể so sánh với Centrino từ hiệu suất hoạt động cũng như tuổi thọ của pin, Bahr Mahony, Giám đốc maketing sản phẩm di động của AMD, cho biết. 
+Notebook sử dụng bộ vi xử lý mới này cũng sẽ ra mắt cùng thời gian với chip Turion. AMD cũng cho biết sẽ vẫn tiếp tục sản xuất dòng chip Athlon 64.
+Khác với nhiều tên chip khác như Celeron của Intel hay Sempron của AMD, Turion không bắt nguồn từ tiếng Latinh. Turion có nghĩa là vegetative dormant organs produced by perennial aquatic plants (nguồn sinh dưỡng vô hạn được sản sinh từ thực vật quanh năm sống dưới nước). 
+Trong vài tuần tới, Intel cũng sẽ giới thiệu loại chip mới dành cho máy xách tay, có tên gọi là Sonoma để đáp lại động thái của AMD.
+

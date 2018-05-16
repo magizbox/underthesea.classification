@@ -1,0 +1,6 @@
+NEC thành công với chip 55 nanomét
+Tập đoàn điện tử Nhật Bản đã xây dựng thành công kỹ thuật sản xuất bộ vi xử lý tiên tiến bằng bản mạch có chiều rộng tương đương vài phần tỷ của một mét. Tiến bộ này giúp giảm bớt kích thước chip và chi phí sản xuất tính theo đơn vị sản phẩm, đồng thời tăng tốc độ xử lý dữ liệu.
+NEC, hãng chế tạo thiết bị bán dẫn lớn hàng thứ 8 trên thế giới, dự định bắt đầu sản xuất đại trà loại chip mới vào năm 2007.
+Tháng trước, NEC cùng Toshiba, nhà sản xuất hàng bán dẫn lớn thứ 7, đã công bố kế hoạch hợp tác phát triển những sản phẩm đột phá nhằm san sẻ những chi phí nghiên cứu và giảm bớt thời gian hoàn thiện sản phẩm để tung ra thị trường.
+Chi phí phát triển và giá thiết bị sản xuất đang tăng nhanh khi mà các công ty chế tạo chip chuyển dần sang nền bản mạch hẹp hơn. Không có nhiều nhà sản xuất microchip có khả năng một mình gánh chịu chi phí giống một số tập đoàn lớn như Intel. Hãng chế tạo chip lớn nhất thế giới tuần qua tuyên bố họ sẽ xây dựng một nhà máy sản xuất chip 45 nm trị giá hơn 3,5 tỷ USD tại Israel. Đây là địa điểm sản xuất theo công nghệ 45 nm thứ hai của hãng này sau cơ sở ở Arizona (Mỹ). 
+

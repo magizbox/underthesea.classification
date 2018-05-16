@@ -1,0 +1,13 @@
+7 biến thể Mytob trong Top 10 virus tháng 7
+Báo cáo tình hình virus 31 ngày qua của hãng bảo mật Anh Sophos cho thấy tuy Netsky.P giữ vị trí số 1, tháng 7 vẫn được coi là tháng của Mytob.
+Sản phẩm của thanh niên người Đức vừa bị kết án treo Sven Jaschan vẫn chứng tỏ tầm ảnh hưởng và nguy cơ lớn với doanh nghiệp và người dùng. Tuy nhiên, đội quânMytob hùng hậu mới là những kẻ thống trị bảng xếp hạng khi chiếm tới 7 trong số 10 virus nguy hiểm. Hơn 1/3 (37%) biến thể virus mà Sophos ghi nhận được trong tháng 6 liên quan đến sâu này.
+"Sức lây lan của Mytob thể hiện qua việc chúng tung hoành gần như toàn bộ bảng tổng sắp. Vấn đề ở đây không phải mức độ nguy hiểm, mà là tốc độ tung ra hàng loạt những biến thể na ná nhau của chúng", Carole Theriault, cố vấn bảo mật của Sophos, nhận định. "Cái tên mới duy nhất trong tháng cũng lại là một thành viên khác, Mytob.CX, chỉ chiếm 3,2% nhưng nó càng cho thấy họ hàng Mytob đang tiếp tục tạo nên một làn sóng lan tràn, reo rắc nguy hiểm cho bất cứ máy tính nào".
+Các chuyên gia của Sophos đã phân tích và cung cấp nhiều chương trình bảo vệ, chống lại hàng trăm biến thể khác nhau của Mytob, nhưng những chương trình mới tiếp tục chào đời với tốc độ chóng mặt khiến khó có hãng bảo mật nào theo kịp.
+"Dòng sâu Mytob là một trong những đội quân hiếu chiến nhất mà chúng tôi từng biết đến", Theriault tiếp tục. "Những tên tội phạm đứng đằng sau đợt tấn công này đang tung ra ngày một nhiều phần mềm nguy hiểm mới để thực hiện những âm mưu đen tối của chúng".
+Hầu hết các biến thể Mytob phát tán qua e-mail và một số tận dụng lỗ hổng phần mềm. Nhiều phiên bản được trang bị mã độc cho phép chúng liên kết với thế giới bên ngoài dù hệ thống đã cài tường lửa. Những chương trình còn lại bị những kẻ lừa đảo trực tuyến lợi dụng và hướng người dùng đến một website nào đó để tải Mytob.
+"Điều đáng mừng là dù chúng được trang bị khá nhiều mánh khoé, Mytob không phải là quá khó để đối phó", Theriault cho biết. "Doanh nghiệp hoàn toàn có thể xử lý những sâu này miễn là họ duy trì chế độ bảo vệ đa tầng, firewall, bản nâng cấp bảo mật và luôn ở chế độ tự động cập nhật phần mềm diệt virus". 
+Trong tháng qua, Sophos tổng kết được tất cả 1.380 virus mới, nâng số mã tấn công mà họ ghi nhận được tới nay lên 107.598. 
+10 virus nguy hiểm nhất tháng 7 (trong ngoặc là tỷ lệ thông báo mà Sophos nhận được):
+1. Netsky.P (13,9%)2. Mytob.AS (11,6%)3. Mytob.BE (9,3%)4. Mytob. EP (5,5%)5. Zafi.D (3,5%)6. Mytob.CX (3,2%)7. Netsky.D (3,1%)8. Mytob.CJ (2,6%)9. Mytob.CN (2,6%)10. Mytob.AT (2,3%)
+Các loại khác: 42,4%
+

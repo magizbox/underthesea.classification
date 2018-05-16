@@ -1,0 +1,6 @@
+Juniper và HanoiCTT hợp tác đào tạo an ninh mạng
+Công ty công nghệ thông tin HanoiCTT vừa trở thành đối tác đào tạo được ủy quyền của Juniper Networks tại Việt Nam. Hiện công ty sẵn sàng cung cấp các khoá học theo giáo trình chuẩn cùng phòng lab và hạ tầng công nghệ đầy đủ thiết bị theo tiêu chuẩn của hãng bảo mật. 
+Ông Hà Huy Hào, Tổng giám đốc Juniper Networks Việt Nam, cho biết: "Các đối tác đào tạo uỷ quyền của Juniper phải đạt điều kiện về cơ sở vật chất hiện đại, có kinh nghiệm trong ngành ít nhất 5 năm và giảng viên đã qua sát hạch quốc tế, đồng thời thông thạo tiếng Anh".
+Các chương trình đào tạo do HanoiCTT và Juniper cung cấp đem đến kỹ năng kiểm soát cấp độ mạng và ứng dụng. Từ đó, có thể ra quyết định bảo mật thông minh và kịp thời. Bên cạnh đó là kiến thức từ cơ bản đến nâng cao về hệ thống bảo mật sử dụng công nghệ NetScreen, chức năng tường lửa firewall và mạng riêng ảo VPN... Chứng chỉ hoàn tất khóa học do Juniper Networks cấp.
+Theo ông Nguyễn Thế Trung, Giám đốc điều hành HanoiCTT, khóa tuyển sinh đầu tiên sẽ khai giảng vào cuối tháng 12. Trước khi tham dự, học viên phải qua kỳ thi sơ tuyển đầu vào với nội dung liên quan đến các kinh nghiệm về mạng như: Ethernet, Transparent Bridging, TCP/IP Operations, IP Addressing, Routing& Mức học phí của khóa học là 640 USD cho 32 giờ học.
+

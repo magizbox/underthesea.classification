@@ -1,0 +1,12 @@
+W3C xúc tiến giao thức giọng nói trên Internet
+Tổ chức chuẩn web quốc tế hôm 3/2 công bố bộ tiêu chí mới nhất dùng cho việc thiết kế các ứng dụng hỗ trợ liên lạc bằng giọng nói trên mạng thông tin toàn cầu. Chuẩn VoiceXML 2.0 đã thăm dò ý kiến người dùng và triển khai sử dụng thành công. 
+Đây là khâu kiểm tra cuối cùng trước khi công nghệ mới được đưa vào hệ thống chuẩn của W3C.
+VoiceXML 2.0 cho phép các nhà phát triển ứng dụng web tạo ra những công cụ thoại tiếng với tính năng tổng hợp giọng nói, âm thanh số hóa, nhận dạng và thu âm tiếng nói& Chuẩn này cũng hỗ trợ việc nhận dạng các tín hiệu âm thanh được tạo ra khi bấm nút trên điện thoại. 
+Dave Raggett, nhà quản lý lĩnh vực trình duyệt giọng nói của W3C, cho biết: VoiceXML 2.0 có tiềm năng làm thay đổi phương thức phát triển các dịch vụ khách hàng và thông tin qua điện thoại. Bên cạnh đó, nó sẽ tạo thêm cơ hội cho người khiếm thị hoặc những người luôn truy cập web trong khi dùng tay và mắt vào việc khác.
+VoiceXML là một phần của Hệ thống giao diện lời nói (Speech Interface Framework) mà W3C phát triển từ năm 1999. Chương trình này kiểm soát phương thức mà ứng dụng tương tác với người sử dụng. Trong đó còn có một số tiêu chí khác như:
+- Ngôn ngữ đánh dấu tổng hợp giọng nói (Speech Synthesis Markup Language - SSML) dùng cho các lệnh bằng lời nói.
+- Tiêu chí ngữ pháp nhận dạng giọng nói (Speech Recognition Grammar Specification - SRGS) có vai trò hướng dẫn công cụ nhận dạng lời nói thông qua những ngữ pháp chuyên mô tả phản hồi của người sử dụng. 
+- Công cụ kiểm soát cuộc gọi bằng trình duyệt giọng nói (Voice Browser Call Control) hỗ trợ VoiceXML hoặc một số hệ thống thoại khác. 
+- Công cụ phiên dịch ngữ nghĩa nhận dạng lời nói (Semantic Interpretation for Speech Recognition) có chức năng xác định cú pháp và ngữ nghĩa nội dung của các cụm từ trong SRGS.
+Những thành viên của W3C đang tham gia phát triển hệ thống chuẩn thoại web này bao gồm: Canon, France Telecom, Hewlett-Packard, Hitachi, IBM, Intel, Microsoft, Motorola và Nokia. 
+

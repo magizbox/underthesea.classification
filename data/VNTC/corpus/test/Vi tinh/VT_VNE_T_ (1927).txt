@@ -1,0 +1,8 @@
+Trojan mới trên điện thoại dùng Symbian
+Hai phiên bản Gavno.A và B phát tán dưới dạng file vá lỗi để lừa người sử dụng điện thoại di động tải về. Riêng biến thể Gavno.B còn chứa cả sâu Cabir với mưu toan gửi một bản sao Trojan tới những thiết bị khác qua sóng Bluetooth.
+Aaron Davidson, Giám đốc điều hành SimWorks, hãng phát hiện 2 Trojan nói trên, cho biết: Gavno là dạng chương trình đầu tiên được thiết kế để gây gián đoạn những chức năng chính của điện thoại di động như gọi điện, nhắn tin, e-mail và danh bạ liên lạc&Điện thoại có thể bị biến thành cục chặn giấy vô giá trị.
+Davidson cho biết thêm : Gavno.A và B, có thể xuất xứ từ Nga, vẫn là những chương trình có tính chứng minh khái niệm chứ chưa phải loại phát tán lung tung vì mục đích xấu. Chúng tôi được cảnh báo nên để ý tới những dạng phần mềm này vì nguy cơ từ chúng đang trở thành hiện thực.
+Dù không phải là những phần mềm tinh vi, Gavno vẫn có thể gây ra khá nhiều rắc rối. Gavno.A có dung lượng 2 KB, xuất hiện dưới vỏ bọc là một file SIS (Symbian Installation System) có tên patch.sis. Phiên bản B, nhỏ hơn, được gắn bên trong file patch_v2.sis.
+Gavno ảnh hưởng các loại điện thoại Nokia 6600 và 7610 sử dụng hệ điều hành thiết bị di động của hãng Symbian phiên bản 7 với giao diện đồ họa Series 60. Các dòng máy Sony Ericsson P900, P910, Motorola A925, 1000 (dùng giao diện đồ họa UIQ Technology AB), Nokia 3650, Siemens SX1 (chạy Symbian phiên bản 6.x với giao diện Series 60) không bị ảnh hưởng
+Để phòng ngừa, SimWorks khuyên người dùng điện thoại cần khôi phục lại chế độ cài đặt mặc định, và tất nhiên như thế có thể phải chấp nhận mất thông tin trên máy. 
+

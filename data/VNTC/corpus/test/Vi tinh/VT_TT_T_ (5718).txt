@@ -1,0 +1,8 @@
+ Internet Explorer 7.0 Beta 2 được tung lên mạng
+Một số đồn đoán cho biết rằng có một chuyên gia thử nghiệm nào đó trong đội ngũ kỹ sư của Microsoft đã “phản bội” lại công ty của mình bằng cách tung lên mạng bản Internet Explorer 7 beta 2 hiện đang được thử nghiệm ráo riết trong vòng tuyệt mật. 
+Một số hình ảnh về Internet Explorer 7 beta 2 đang được đăng tải trên ActiveWin.com đã miêu tả chi tiết về rất nhiều tính năng của Internet Explorer 7, đặc biệt là QuickTabs, tính năng được mọi người mong đợi nhất của Internet Explorer 7. Điều kỳ lạ các file hình ảnh động (.GIF) miêu tả về mọi tính năng của bản Internet Explorer 7 beta 2 bị lọt ra ngoài hiện được đăng tải trên ActiveWin.com đều được thể hiện bằng tiếng Trung Quốc. Điều này dẫn đến nhiều đồn đoán cho rằng một chuyên gia thử nghiệm phiên bản Internet Explorer 7 bằng tiếng Hoa đã tiết lộ ra ngoài bản thử nghiệm của mình. 
+Internet Explorer 7 yêu cầu đóng lại mọi cửa sổ của trình duyệt Internet Explorer 6.0 đang bật và nó sẽ gỡ bỏ hoàn toàn mọi dấu vết của Internet Explorer 6.0 trước khi cài đặt mình vào Windows. 
+Từ lúc tung ra Internet Explorer 7 để thử nghiệm đến nay, Microsoft đã vô cùng kín kẽ về trình duyệt này, hầu như không ai biết được thêm bất kỳ chi tiết và hình ảnh nào ngoài những tiết lộ mang tính chung chung của Microsoft. 
+Hiện nay các kết nối có thể tải về Internet Explorer 7 trên 3 trang web ActiveWin.com, JCXP.net, Addict3D.org hầu như đã bị chặn đứng không rõ lý do. Nhưng một số người dùng nhanh tay đã tải về thành công Internet Explorer 7 beta 2 với dung lượng là 11 MB được nén bằng chuẩn RAR. 
+Microsoft đã công bố rằng sẽ tung Internet Explorer 7 beta 2 ra cho công chúng thử nghiệm rộng rãi vào một thời điểm nào đó trong quý 1-2006. 
+

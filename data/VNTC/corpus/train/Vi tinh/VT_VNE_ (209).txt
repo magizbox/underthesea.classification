@@ -1,0 +1,16 @@
+Chân dung spam qua các con số
+Quảng cáo không mời ngày nay có mặt ở khắp mọi nơi, từ máy tính, điện thoại di động đến tường và thậm chí cả giỏ xe máy. Thư rác trên mạng máy tính gắn liền với virus, tình trạng ăn cắp thông tin, gây nghẽn mạch, phung phí thời gian và những khoản chi phí khổng lồ của cá nhân và doanh nghiệp.
+Nghiên cứu của tập đoàn Radicati (Mỹ) cho biết, e-mail không mời thậm chí đã làm thiệt hại các công ty châu Âu 20,5 tỷ euro năm 2003 và dự báo năm 2007 sẽ là 198 tỷ USD. Trong khi đó, theo công ty Ferris Research, spam ngốn của các doanh nghiệp Mỹ 8,9 tỷ USD năm 2002. Ủy ban kinh tế quốc gia Áo ước tính tổng thiệt hại do spam quy ra tiền (tính theo đầu nhân viên trong một công ty) là 620 USD/năm. 
+Báo cáo của Ủy ban Thương mại liên bang Mỹ tháng 4/2003 cho thấy 66% thông điệp spam có tính chất lừa đảo. Lực lượng đặc vụ US.SS Mỹ cho biết ví dụ tiêu biểu nhất của tình trạng này là trò lừa 419 xuất xứ từ Nigeria, trong đó người gửi mời người nhận chia chác một món tiền lớn, chẳng hạn thừa kế, với điều kiện người nhận phải góp trước một khoản tiền. Thủ đoạn này đã lừa được hàng trăm triệu USD mỗi năm và trở thành quốc nạn của đất nước Trung Phi.
+- Trung bình mỗi năm, tổng thiệt hại của người dùng Internet trên toàn cầu do spam gây ra xấp xỉ 12,5 tỷ USD.
+- 65% người truy cập dành hơn 10 phút mỗi ngày để giết thư rác và 24% phải tốn tới 24 phút.
+- 10% số e-mail của các doanh nghiệp là spam. Trung bình mỗi nhân viên tốn 30 phút/ngày để xử lý thư rác. Giá trị tổn thất mỗi năm của một công ty có 10.000 nhân viên là 675.000 USD.
+- Thư rác làm tăng 10% chi phí của các nhà cung cấp dịch vụ Internet (ISP).
+- Con số thống kê tháng 7/2003 của nhiều công ty chống spam cho thấy thư rác chiếm hơn 55% lưu lượng e-mail so với 8% năm 2001. Năm 2003, ước tính đã có 4,9 nghìn tỷ spam được gửi đi.
+- Trong tháng 4/2003, hãng dịch vụ trực tuyến AOL đã phong tỏa 2,37 tỷ spam/ngày.
+- Tập đoàn dữ liệu quốc tế IDC ước tính hiện có khoảng 700 triệu hộp thư điện tử cá nhân đang tồn tại trên toàn cầu và đến năm 2005, con số này sẽ là 1,2 tỷ. Khoảng 31 tỷ e-mail các loại đã được gửi đi trong năm 2002 và đến 2006 tổng số sẽ vượt quá 60 tỷ.
+- Chi phí trung bình để có được một địa chỉ e-mail là 0,00032 cent (xu Mỹ) và chi phí gửi một thư là từ 0,01 đến 0,05 cent.
+- 3,5 triệu thư điện tử, với chi phí phát sinh xấp xỉ 100 USD/ triệu e-mail, có thể dẫn đến 81 giao dịch kinh doanh, đem lại tổng giá trị 1.500 USD trong tuần đầu tiên. Nói cách khác, mỗi giao dịch trị giá trung bình 19 USD. Tỷ lệ giá trị giao dịch tiếp tục tăng ở mức rất thấp: 0,0023%.
+- E-mail là công cụ vận chuyển 90% virus máy tính.
+- Năm 2003, Microsoft, trên danh nghĩa bảo vệ khách hàng, đã thực hiện hơn một chục vụ kiện tại Mỹ và Anh. Bên bị là một số công ty đã gửi cho các thượng đế của hãng phần mềm tổng số hơn 2 tỷ thư rác.
+

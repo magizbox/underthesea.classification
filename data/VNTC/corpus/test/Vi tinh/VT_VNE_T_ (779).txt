@@ -1,0 +1,6 @@
+Hỏi về phần mềm soạn nhạc Encor (1)
+Ban nao co the chi cho minh lam cach nao de co the dan trang don gian trong Encor khong? hay co cach nao de danh hai bai nhac theo chieu ngang cua kho giay da chon khong? Ban nao co the xin giup. Cam on rat nhieu. 
+quan lam
+Hồi âm:
+Neu muon in 2 trang A5 tren 1 trang A4, hien nay chỉ có 1 cách: su dung FinePrint ma thoi. Cach su dung: cai FinePrint, chon FinePrint lam Default Printer. Page setup cac file encore A5. In bang FinePrint.   Khi hien ra hop thoai FinePrint, trong tab Layout, chon 2 up. Nhan tiep vao Option = Custom Settings, chọn trong tab Paper: A4.   Chuc ban thanh công. 
+

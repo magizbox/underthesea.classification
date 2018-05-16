@@ -1,0 +1,12 @@
+Không mở được file trong Powerpoint (3)
+Chào các anh chị. Em có copy hai file dạng Powerpoint từ máy tính cũ vào đĩa mềm, nhưng trên một máy khác lại không thể mở được một file và không copy vào ổ cứng được - hiện dòng chữ "is not current in use - (cho dù cả hai máy đều cài đặt Powerpoint 97, và file kia lại mở được và copy được). Em đã xoá mất file đó trên máy cũ rồi. Rất mong các anh chị trả lời sớm giúp em vì em đang cần tài liệu đó gấp. Em xin chân thành cảm ơn.
+Đặng Thuỳ Trang
+Hồi âm:
+Co the 1 file da bi hu khi ban copy tu o cung sang dia mem, ban hay thu chay lenh scan disk va defrag tren dia mem truoc khi copy sang dia cung xem sao. Hay thu dung lenh Xcopy cua DOS copy toan bo dia mem sang dia cung, xong sua lai bang lenh scan disk va defagment. 
+Truong Tommy 
+Trường hợp của bạn vì không thể copy file vào đĩa cứng như vậy có thể đĩa mềm có vấn đề (physical damage).
+Nếu bạn đang dùng Windows 95 hay 98 thì sử dụng chương trình scandisk để sửa còn nếu đang sủ dụng Windows XP thì dùng lệnh chkdsk (click Start, run rồi typing lệnh này theo đúng systax). 80% cơ hội may mắn có thể recover file bị hư. Cả hai chương trình có sẵn trong windows Muốn biết chi tiết cách sử dụng scandisk hay chkdsk thì click start, help, rồi type "scandisk" hay "chkdsk" trong phần Search của chương trình Windows Help. Ngoài ra có thể dùng Norton Disk Doctor 
+Chú ý: Trước khi sửa chữa file nên xem lại file name của bạn có được đặt tên đúng qui định hay không ví dụ xxxx.ppt nên chú ý chỉ có một dấu chấm và đuôi là ppt. Có thể thử rename file thành "abc.ppt" rồi open lại, nếu không được thì mới dùng 2 cách trên. Ngoài ra xem lại trong thùng rác - recycle bin- của máy cũ có còn file đó không, nếu bạn chưa empty thùng rác thì bạn lucky vì nó vẫn còn trong đó. Trường hợp này bạn chỉ cần right click, xong bấm restore thì file sẽ trở về chỗ cũ. 
+Thiện Mỹ 
+Theo toi ban thu dung chuong trinh "EasyRecovery Professional" cua Ontrack (http://www.ontrack.com/easyrecoveryprofessional/) de sua lai File do. Ban nen Copy File do ra de thu. Chuc ban may man.
+

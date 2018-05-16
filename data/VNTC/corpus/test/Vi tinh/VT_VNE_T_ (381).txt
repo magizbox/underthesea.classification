@@ -1,0 +1,15 @@
+Chi phí chuyển đổi Windows sang Linux quá cao
+Đối với đa số công ty vừa và lớn, chuyển từ Windows sang dùng Linux là tốn kém, phức tạp, mất thời gian, và không mang lại lợi ích hữu hình nào. Đó là kết luận của một khảo sát mới đây, do hãng nghiên cứu Yankee Group tiến hành.
+Khảo sát sử dụng ý kiến của 1.000 chuyên gia IT trên thế giới. Nó cho thấy đa phần các tập đoàn đều thừa nhận Linux chạy tốt, ổn định, bảo mật cao, song các tính năng kỹ thuật thì chỉ bằng, chứ không hơn, Unix và Windows Server 2003. Quan trọng hơn, chi phí chuyển từ Windows sang Linux tốn gấp ba tới bốn lần so với nâng cấp Windows lên phiên bản mới, Laura DiDio, nhà phân tích của Yankee, cho biết.
+Trường hợp Linux có tổng chi phí thấp hơn Unix và Windows là ở những doanh nghiệp nhỏ, với hệ thống hoàn toàn mới, hoặc các ứng dụng được tùy biến theo nhu cầu, bà nói thêm.
+Công trình cũng dự đoán từ nay tới 2006, thị phần 94% của Windows trên máy tính để bàn cũng chẳng mấy hề hấn gì trước Linux. Một số kết luận đáng chú ý khác là:
+- Hầu hết những người chuyển sang Linux là từ Unix, chứ không phải Windows.
+- 54% số người được hỏi khẳng định vẫn dùng máy chủ Windows. Tuy nhiên, 25% định chuyển một phần sang những máy chủ khác như Linux, để tập trung vào những ứng dụng chuyên môn.
+- Khoảng 1/3 cho rằng Linux đáng tin cậy hơn Windows, 31% nói họ cảm thấy độ bảo mật của Linux tốt hơn, 29% thừa nhận không thích bị trói chặt vào môi trường Microsoft.
+- Đa số doanh nghiệp lớn (với hơn 5.000 người dùng cuối) khẳng định không dùng Linux làm hệ điều hành chính cho máy chủ trong tương lai gần, bởi nó đắt đỏ và yêu cầu nhiều hỗ trợ hơn Windows hay Unix.
+Nhật, Trung, Hàn phát triển hệ điều hành mới(05/04/2004)
+Windows hay Linux an toàn hơn?(01/04/2004)
+'Nên bắt đầu sử dụng phần mềm mã mở từ trường học'(10/03/2004)
+Linux 'dính đòn' nhiều hơn Windows(21/02/2004)
+Châu Á trở thành mảnh đất lành cho Linux(04/02/2004)
+

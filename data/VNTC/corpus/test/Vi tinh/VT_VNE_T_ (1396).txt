@@ -1,0 +1,6 @@
+Máy tính không nhận RAM (1)
+Máy tính của tôi đang sử dụng có RAM 64MB, tôi cắm thêm 1 thanh RAM 64 MB nữa nhưng máy tính không nhận thanh RAM đó (dung lượng RAM vẫn là 64MB). Tôi hỏi làm thế nào để máy tính nhận RAM.
+Trân Văn Như
+Hồi âm:
+Truong hop cua ban thuong la do 2 thanh RAM tuy co cung dung luong nhung khong cung chung loai, co the ca BUS cua chung cung khac nhau nua. Mot so mainboard de tinh se chap nhan cac thanh RAM khac chung loai, nhung phan lon mainboard se khong nhan. Ban muon nang cap RAM thi khi di mua RAM nen mang ca thanh RAM cu di de so sanh, nguoi ban cho ban se biet phai chon cho ban loai RAM nao cho phu hop, hoac ban nen mua luon mot cap RAM moi cung loai, thanh RAM cu thi ban lai cho cac cua hang thu mua linh kien cu. Than chao!
+

@@ -1,0 +1,5 @@
+ AOL hợp tác với HP và Compaq
+Các công ty này đã đồng ý ký kết thỏa thuận, Netscape sẽ được cài đặt sẵn trong tất cả PC hiệu HP và Compaq như là trình duyệt mặc định. 
+Netscape cũng sẽ hiệu chỉnh trình duyệt của mình tuơng thích với khách hàng của HP và Compaq bằng cách thêm các thẻ chuyển tiếp người dùng đến các website của HP và Compaq. 
+Netscape phiên bản 8.0 dựa trên mã nguồn của FireFox, tự động tinh chỉnh các thiết lập an toàn và bảo mật để giúp người dùng lướt web an toàn hơn. Trình duyệt cũng giúp tăng tối đa khả năng tương thích và bảo mật bằng cách chuyển đổi giữa các cỗ máy biên dịch được sử dụng bởi FireFox và Internet Explorer. Netscape 8.0 cũng hỗ trợ ngừơi dùng duyệt web dễ dàng, sử dụng các thẻ duyệt, kết hợp với RSS, cải tiến các thiết lập riêng tư, tích hợp nhiều thanh công cụ và nhiều tính năng khác. 
+

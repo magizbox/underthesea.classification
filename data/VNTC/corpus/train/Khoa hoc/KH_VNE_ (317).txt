@@ -1,0 +1,7 @@
+Tạo ra sợi nano dài tùy ý
+Các nhà khoa học Mỹ đã tạo ra những sợi dây dài nhất thế giới từ các ống nano carbon tý hon trông như những cọng rơm. Loại dây thừng này có thể dài theo ý muốn, bỏ xa kỷ lục 20 cm trước kia.
+Alan H. Windle và cộng sự tại Đại học Cambridge đã phát triển một phương pháp mới trong việc chế tạo ống nano, tương tự như việc quấn chỉ quanh một cuộn len. Sử dụng ethanol làm nguồn carbon, các nhà nghiên cứu đã cho nó phản ứng với hợp chất sắt ferrocene và thiophene (C4H4S), rồi bắn hỗn hợp này vào một lò nung có nhiệt độ hơn 1.000 độ C.
+Trong lò, hỗn hợp này hóa thành một mớ các sợi carbon rỗng, được gọi là "hơi đàn hồi". Nhóm nghiên cứu sau đó kéo các sợi ra khỏi lò bằng cách cuốn chúng lên một thanh xoay tròn.
+Trong báo cáo công bố trên Science, các nhà phát minh cho biết "quá trình cuốn sợi trực tiếp mở ra một cách thức mới trong việc sản xuất sợi, thanh hay các lớp phủ nano có tính năng ưu việt và có tiềm năng ứng dụng rộng rãi".
+Cho đến nay, các sợi này vẫn chưa thể hiện những đặc tính vượt trội so với các loại vải sợi thông thường. Tuy nhiên Windle hy vọng rằng bằng thay đổi những điều kiện tương tác, những đặc điểm như độ dài và tính dẫn điện của sợi có thể được cải thiện.
+

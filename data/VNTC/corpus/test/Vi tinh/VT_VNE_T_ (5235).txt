@@ -1,0 +1,6 @@
+Sâu khai thác lỗi Windows trong bản vá tháng 10
+Theo hãng bảo mật Phần Lan F-Secure, sâu Dasher.B, sau khi thâm nhập vào máy tính Windows 2000 và Windows XP chưa cài bàn vá MS05-051, sẽ tự động tải một rootkit có khả năng dò ký tự bàn phím (keylogger) nằm trên một máy chủ từ xa. 
+Trước khi Dasher.B ra mắt một ngày, hôm 14/12, sâu Dasher.A, được tạo dựa trên đoạn mã khai thác được tung lên mạng cách đây 2 tuần, cũng xuất hiện. Tuy nhiên, phiên bản đầu tiên không thể tiến xa do lỗi lập trình và được đặt trên một máy chủ không còn hoạt động ở Trung Quốc.
+Hai biến thể Dasher không phải là một nguy cơ lớn nhưng nó cho thấy những kẻ viết chương trình nguy hiểm vẫn đang tiếp tục sục sạo xung quanh các lỗ hổng của Windows. 
+Cuối tháng 11, Microsoft cũng thừa nhận mã khai thác lỗi MSDTC trong MS05-051 đã bắt đầu được lưu hành trên mạng nhưng khẳng định tin tặc không thể kiểm soát hệ thống từ xa.
+

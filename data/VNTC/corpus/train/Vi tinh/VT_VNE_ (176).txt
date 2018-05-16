@@ -1,0 +1,6 @@
+Hỏi về ulead cool 3D (1)
+Chao cac ban. Toi muon lam doan phim dau co chu chay. Co nguoi bao la phan men ulead cool 3D lam duoc. Xin chi giup toi lam nhu the nao de bo qua chuong trinh Pinnacle Studio 8. Cam on nhieu.
+viet ho
+Hồi âm:
+Neu ban dung Ulead 3D Cool thi ban chi viec chon File/Create animations file/video, con neu dung Ulead 3D production studio thi ban chon File/export video Overlay/ AVi la duoc. Qua ben Studio, ban chi viec chon Edit/click Folder roi mo file AVI nay. 
+

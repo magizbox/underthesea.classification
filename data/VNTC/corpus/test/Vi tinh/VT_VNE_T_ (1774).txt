@@ -1,0 +1,6 @@
+Khiếm khuyết trong FireFox mời gọi phishing
+Một lỗ thủng an ninh trong trình duyệt miễn phí của Mozilla đang đặt hàng triệu người sử dụng trước nguy cơ trở thành nạn nhân của các trò lừa trực tuyến.
+Jakob Balle, chuyên gia của hãng bảo mật Secunia (Đan Mạch) cho biết lỗi này cho phép hacker thực hiện các trò phishing bằng cách giả mạo nguồn URL hiển thị trên ô Download Dialog của trình duyệt. Vấn đề là các tên miền phụ dài và các đường dẫn (path) không được hiển thị đúng, do đó có thể bị lợi dụng để ngụy tạo những gì hiện lên trong vùng nguồn của phần Download Dialog, Balle giải thích. 
+Bản tin an ninh của Secunia cho biết khiếm khuyết tương đối nghiêm trọng này đã được xác nhận trong phiên bản Mozilla 1.7.3 cho Linux, Mozilla 1.7.5 cho Windows và Mozilla Firefox 1.0. Không loại trừ khả năng các phiên bản khác cũng bị ảnh hưởng.
+Theo Secunia, hiện tại chưa có cách khắc phục. Tuy nhiên, Mozilla tuyên bố sẽ xử lý những lỗi này trong các phiên bản sắp phát hành. Trước mắt, người dùng trình duyệt bị lỗi được khuyến cáo đừng truy nhập vào những đường link download mà nguồn gốc không rõ ràng.
+

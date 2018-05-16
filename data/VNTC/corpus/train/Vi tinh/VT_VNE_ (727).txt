@@ -1,0 +1,11 @@
+Microsoft đưa tính năng search vào bộ Office
+Đầu tuần này, đại diện của nhà sản xuất phần mềm khổng lồ Mỹ cho biết hãng đang cố gắng tích hợp công nghệ tìm kiếm vào trong toàn bộ ứng dụng văn phòng của mình.
+Microsoft đang xây dựng công nghệ tìm kiếm nhằm mục đích cạnh tranh với tính năng search số 1 của Google. Hãng hy vọng công nghệ này sẽ giúp khách hàng có thể dễ dàng tìm kiếm thông tin lưu trữ trong ổ cứng như file tài liệu, thư điện tử và dữ liệu.
+Phó giám đốc của Microsoft, Jeff Raikes, cho biết: "Các đơn vị có liên quan trong tập đoàn của chúng tôi đang phối hợp với nhau để sớm tung ra một công nghệ mới. Những tính năng tìm kiếm trong bộ Office sẽ rất hiện đại, nhằm cung cấp những thông tin cần thiết cho người dùng".
+Theo Raikes, Microsoft tích hợp tính năng tìm kiếm vào bộ Office để nâng cao tính năng cho nó chứ không phát triển theo khung thời gian cụ thể để "khiêu chiến" với Google.
+Các chuyên gia về công nghệ tìm kiếm nhận thấy lĩnh vực search trong ổ cứng sẽ là một thị trường cạnh mới của các nhà cung cấp tính năng này. Do đó, ngoài 2 đối thủ nặng ký trong "cuộc chơi" còn có nhiều nhà sản xuất phần mềm khác như Lookout Software và X1 Technologies.
+Lookout Software đã thu hút được nhiều khách hàng bằng cách tung ra chương trình bổ sung vào ứng dụng Outlook và cho phép người sử dụng tìm kiếm thông tin nhanh hơn và hiệu quả hơn.
+X1 Technologies cũng không thua kém chút nào khi thông báo sẽ trình làng một chương trình phần mềm X1 Search với giá 99USD. Sản phẩm này sẽ liệt kê rất nhanh những thông tin được lưu trong ổ cứng theo yêu cầu của người dùng, trong đó có thư điện tử và các file đi kèm.
+Trong khi đó, Google đang tích cực phát triển một công nghệ tương tự để khách hàng có thể tìm kiếm thông tin lưu trữ trong máy tính cá nhân được nhanh hơn.
+Tất cả những đấu thủ trong cuộc chiến này đều hy vọng sẽ có cơ hội "thống lĩnh" thị trường tìm kiếm trong ổ cứng.
+

@@ -1,0 +1,9 @@
+ Dùng điện thoại di động để chẩn đoán bệnh
+Công nghệ chẩn đoán này nằm dưới dạng một phần mềm đặc biệt, được cài đặt vào điện thoại di động có camera và biến chiếc điện thoại di động này trở thành một thiết bị chẩn đoán ung thư vú tinh vi và có hiệu quả rất cao. Các kết quả do nó đưa ra đều chính xác hơn nhiều so với việc mọi phụ nữ tự khám nghiệm cho mình. 
+Người phát minh ra công nghệ này - tiến sĩ Nitzan Yaniv - cho biết rằng phần mềm chẩn đoán ung thư vú thông qua điện thoại di động của ông ta có khả năng quét các mô bề mặt của vú, sau đó nó sẽ tự động gửi các kết quả khám nghiệm đến phòng xét nghiệm cho các chuyên gia y học phân tích để đưa ra các kết luận cụ thể. Trong trường hợp nghi ngờ có ung thư thì các bác sĩ sẽ yêu cầu bệnh nhân thực hiện các xét nghiệm cao hơn. 
+Công nghệ chẩn đoán này sẽ biến camera tích hợp trong điện thoại di động trở thành một thiết bị chẩn đoán hữu hiệu. Ngoài việc quét và chẩn đoán về ung thư vú, camera của điện thoại di động cũng trở thành một nhiệt kế để ghi nhận nhiệt độ ở mọi nơi trên cơ thể. 
+Công ty điều hành dịch vụ điện thoại di động Cellcom hiện đang tích hợp công nghệ chẩn đoán vào nhiều loại điện thoại di động camera của công ty bán ra. 
+Yaniv nhận định rằng ngoài việc là một thiết bị truyền thông đa năng thì từ nay về sau điện thoại di động còn đóng vai trò là một thiết bị có khả năng phản hồi sinh học, giúp cho mọi người dùng có thể chẩn đoán được khá nhiều loại bệnh tật từ đơn giản cho đến phức tạp. 
+Công nghệ tích hợp phần mềm chẩn đoán bệnh vào điện thoại di động này vẫn còn đang trong giai đoạn hoàn thiện. Khi thành công thì nó sẽ được đệ trình ra Ủy ban quản lý thực phẩm và thuốc Hoa Kỳ để xin giấy phép lưu hành trên toàn cầu. 
+Trung tâm y tế Soroka ở thành phố Beersheva hiện đang thử nghiệm công nghệ này trong việc chẩn đoán bệnh tim cũng như ung thư vú. 
+

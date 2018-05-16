@@ -1,0 +1,7 @@
+Tầm nhìn xa được đo như thế nào? 
+Tầm nhìn xa trong ngày được xác định là khoảng cách xa nhất mà tại đó người ta có thể nhìn và nhận biết bằng mắt thường một vật thể tối so với bầu trời tại đường chân trời... 
+Các thông báo về tầm nhìn xa trong ngày là các ước tính căn cứ vào các điều kiện và cột mốc tại chỗ.
+Tầm nhìn vào ban đêm là khoảng cách xa nhất mà tại đó người ta có thể thấy một nguồn sáng có cường độ vừa phải được biết trước. Để cho phi công cất cánh trên đường băng vào ban đêm, tầm nhìn có thể được đo bằng một thiết bị giống như một máy truyền tín hiệu, một tia sáng nhỏ nhắm vào một tế bào quang điện ở cách xa 75 mét.
+Kết quả đầu ra của tế bào quang điện phụ thuộc vào số lượng ánh sáng nó nhận được thông qua bầu khí quyển. Việc suy yếu, hoặc mỏng đi của tia sáng là số đo sự truyền ánh sáng của bầu khí quyển và có liên quan tới việc mắt người thường (tức mắt người phi công) có thể nhìn thấy gì.
+Nếu tia sáng không bị các điều kiện khí quyển làm mờ đi, tầm nhìn sẽ là vô giới hạn. Nếu tia sáng bị mờ đi 100%, tầm nhìn ngắn hơn 75 mét, tức khoảng cách từ nguồn sáng tới máy đo.
+

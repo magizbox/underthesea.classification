@@ -1,0 +1,6 @@
+Người sử dụng Internet trên toàn thế giới đang gửi và nhận ngày một nhiều thư điện tử. Tuy nhiên, Giám đốc điều hành Steve Ballmer của Microsoft khẳng định đa phần trong số đó là spam và thư phishing.
+"Trong năm 2005, những vụ lừa đảo trực tuyến đã tăng tới 300% so với năm trước đó. Khoảng 5% người dùng Internet đã trở thành nạn nhân", Wolfgang Schaeuble, Bộ trưởng Bộ nội vụ Đức, cảnh báo.
+Theo Schaeuble, tỷ lệ thành công trên của tội phạm mạng đủ để gây ra những thiệt hại kinh tế không thể ước tính được trên toàn cầu. Hãng bảo mật Mỹ Symantec cũng phát hiện 8 triệu trường hợp phishing năm ngoái.
+Văn phòng tội phạm BKA của Đức cho hay họ vừa cắt đứt một đường dây lừa đảo trực tuyến từ Đức sang Litva, tránh được nguy cơ mất mát hàng triệu USD trong các tài khoản ngân hàng. BKA cho biết, mạng lưới tội phạm này nắm trong tay mật khẩu và những dữ liệu nhạy cảm khác của khách hàng sau khi phát tán Trojan qua email. "Cứ 4 người Đức thì có một người không trang bị chương trình diệt virus cho máy tính và đến hơn một nửa hệ thống không có tường lửa", Schaeuble ước tính.
+Steve Ballmer cho rằng tình hình ở Mỹ còn tệ hơn thế nhưng có vẻ người sử dụng đã cảnh giác hơn. Ông thừa nhận Microsoft và các hãng phần mềm khác cần đảm bảo sản phẩm của họ được trang bị công nghệ bảo mật hiệu quả nhất để hạn chế rủi ro cho người sử dụng.
+

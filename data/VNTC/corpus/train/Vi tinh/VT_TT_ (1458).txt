@@ -1,0 +1,9 @@
+ Chat Yahoo nhiều nick thật cùng lúc
+Đó là Y! Multi Messenger 7.5.0.333 (Y!Multi). Chỉ một điểm bạn cần lưu ý là trước khi tải về cài đặt, trong máy của bạn phải cài sẵn Yahoo! Messenger 7.5.0.333 (Y!Mes) của Yahoo. Và trong quá trình cài đặt Y!Multi bạn nên cài chung đường dẫn với Y!Mes. Ví dụ bạn cài đặt Y!Mes tại C:\Program Files\Yahoo!\Messenger\ thì Y!Multi cũng phải được cài cùng vị trí này. 
+Sau khi cài xong, trên màn hình desktop sẽ hiện một biểu tượng giống hệt biểu tượng của Y!Messenger. Chỉ khác tên của nó là: Y!Multi Messenger . Và từ đây, khi nhấp chuột vào biểu tượng này bạn tha hồ đăng nhập chat cùng lúc với nhiều nick thật. 
+Download miễn phí tại: 
+http://www.softpedia.com/get/Internet/Chat/Instant-Messaging/Yahoo-Multi-Messenger.shtml 
+hoặc 
+http://download.softpedia.com/software/internet/im/Y!MultiMessenger-7.5.333.zip 
+Chúc các bạn thành công 
+

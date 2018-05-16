@@ -1,0 +1,13 @@
+Khách hàng được trả lại tiền điện thu thừa
+Tổng công ty điện lực VN vừa có công văn hỏa tốc gửi các công ty điện lực thành viên hướng dẫn cụ thể cách tínhkhấu trừtiền điện sinh hoạt đối với các hộ vượt trên 300 kWh. Nếu tiền điện tháng sau nhỏ hơn tiền hoàn trả tháng 1, khách hàng đến điện lực làm thủ tục nhận lại tiền.
+Số tiền điện khách hàng phải thanh toán tháng 2 được tính như sau: T2 (chưa tính VAT) = Tt2  (Tm1  Tc1). Trong đó, Tt2 là tiền điện theo điện năng tiêu thụ trong tháng 2, tính theo quy định cũ; Tm1 là tiền điện tháng 1 tính theo cách mới; Tc1 là tiền điện tháng 1 tính theo cách cũ. Tiền điện có thuế: T = T2 + 10%Tt2  10% (Tm1  Tc1).
+Hoá đơn tiền điện tháng 2 sẽ ghi rõ Tiền điện trả tháng 1 và Tiền thuế hoàn trả tháng 1. Trường hợp hoá đơn có giá trị âm (tiền điện tháng 2 nhỏ hơn tiền hoàn trả tháng 1), điện lực sẽ mời khách hàng làm thủ tục hoàn trả chênh lệch theo đúng quy định. Trường hợp hoá đơn có giá trị bằng 0 (tiền điện tháng 2 = tiền hoàn trả tháng 1), vẫn thực hiện in hoá đơn. 
+Khi đến thu tiền của khách hàng, nhân viên ngành điện mang theo bảng kê chi tiết diễn giải cách tính hoàn trả tiền điện và tiền thuế VAT tháng 1 để kèm theo hoá đơn tháng 2.
+Ngành điện cũng tiếp tục thực hiện giá bán điện sinh hoạt quy định trong phụ lục ban hành kèm theo quyết định trước đây của Thủ tướng, áp dụng cho cả người nước ngoài cư trú tại VN.
+EVN cho biết, khách hàng là người nước ngoài ký hợp đồng trực tiếp với ngành điện cũng sẽ được khấu trừ số tiền chênh lệch trên theo đúng các thủ tục áp dụng với người VN.
+Tiền điện thu thừa sẽ bù vào tháng sau(15/02/2005)
+Hoãn thực thi giá điện sinh hoạt mới(04/02/2005)
+Thủ tướng sẽ quyết định cuối cùng về giá điện(03/02/2005)
+EVN phải giải trình cách tính giá điện mới(02/02/2005)
+Tháng 2 sẽ có thông tư giá điện cho người nước ngoài(02/02/2005)
+

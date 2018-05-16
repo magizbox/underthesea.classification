@@ -1,0 +1,12 @@
+IBM cung cấp miễn phí các mẫu phát triển phần mềm 
+Tập trung vào việc tái sử dụng mã, IBM vừa đưa ra 4 mẫu phát triển phần mềm doanh nghiệp với mục đích giảm tải cho những người sử dụng công cụ thiết kế phần mềm Rational của hãng.
+Mã tính năng của các mẫu này có thể tích hợp trực tiếp vào công cụ thiết kế phần mềm. Các mẫu này hỗ trợ quá trình tái sử dụng và tự động hóa thiết kế ứng dụng. Ví dụ, một ứng dụng kiểm tra cân đối tài khoản trên mạng có thể được kết hợp với bất kỳ ứng dụng khác có yêu cầu chức năng "xem cân đối tài khoản".
+Angel Diaz, Giám đốc phát triển phần mềm theo yêu cầu của IBM, cho biết: "Chúng ta rất cần lập nên một bộ mã có thể tái sử dụng để tích hợp với các công cụ Rational, nâng cao hiệu suất công việc và giúp thực hiện các ứng dụng doanh nghiệp với tốc độ nhanh hơn". 
+Bốn mẫu nói trên bao gồm:
+- Business delegates: cho phép lấy được mã chuyên dụng của các công ty và kết nối mã với một dịch vụ sẽ phải dùng đến mã đó. Mẫu này có thể được dùng để thành lập một SOA. 
+- Data access object: cung cấp truy cập tự động các dữ liệu đầu cuối (back-end) và cách ly một ứng dụng của khách hàng khỏi những chi tiết về cách thức lưu trữ dữ liệu. Dữ liệu có thể được tiếp cận thông qua những kỹ thuật như cuộc gọi ODBC (kết nối cơ sở dữ liệu mở) và SQL (ngôn ngữ chất vấn có cấu trúc). Các nhà phát triển đều xác định rõ nguồn dữ liệu khi thiết kế các ứng dụng này.
+- Message facade: tạo ra một lớp ảo để thông điệp được truyền đi giữa các ứng dụng, hỗ trợ các cơ chế như SOAP (giao thức truy cập đối tượng đơn giản) hay MQ (message queueing). 
+- Session facade: để quản lý các session, như trong các hoạt động đăng nhập.
+Mặc dù 4 mẫu này đều mang tính tổng quát, IBM cũng hỗ trợ những nhà phát triển phần mềm muốn xây dựng các mẫu cụ thể bằng dịch vụKiến trúc sư phần mềm (Software Architect). Đây là một công cụ thiết kế và phát triển qua UML (ngôn ngữ mô hình hợp nhất).
+Theo Carl Zetie, nhà phân tích của hãng khảo sát Forrester, với những mẫu này, IBM đang nỗ lực tích hợp trực tiếp những thao tác tốt nhất vào các công cụ để nhà lập trình sử dụng tiện lợi hơn. Tham khảo chi tiết tại đây.
+

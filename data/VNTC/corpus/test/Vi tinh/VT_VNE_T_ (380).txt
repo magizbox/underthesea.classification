@@ -1,0 +1,7 @@
+Sử dụng điện toán mạng lưới vào lưu trữ
+Exanet, một trong những nhà cung cấp giải pháp lưu trữ hàng đầu của châu Âu, vừa tung ra một thiết bị mà họ coi là hệ thống truy cập dữ liệu mạng lưới quy mô lớn đầu tiên của ngành công nghiệp chế tạo thiết bị lưu trữ.
+Sản phẩm có tên ExaStore Grid Storage 2.0, là một thiết bị dựa vào phần mềm, sử dụng những khái niệm trong tính toán mạng lưới (grid) làm chìa khóa để mở ra một thế hệ mới của các công nghệ lưu trữ tin cậy. 
+Hệ thống này liên kết bó tất cả các nguồn tài nguyên hệ thống - các vùng RAID, máy chủ/công cụ kiểm soát, bộ nhớ đệm (cache) - thành một nguồn tài nguyên ảo thống nhất, hoạt động thông suốt trong môi trường hỗn tạp gồm NFS, CIFS và AFP, từ đó tạo thuận lợi cho việc chia sẻ dữ liệu giữa các ứng dụng và làm tăng đáng kể hiệu suất hoạt động, độ tin cậy và khả năng luân chuyển dữ liệu.
+Jamie Gruener, chuyên gia phân tích của hãng khảo sát Yankee Group, cho rằng công nghệ của Exanet phản ánh rõ ràng sự gia tăng nhu cầu sử dụng công nghệ lưu trữ mạng lưới vào các mục đích thương mại. Công nghệ này cho phép các doanh nghiệp hướng tới những hệ thống lưu trữ ổn định và có quy mô lớn hơn với mức chi phí vừa phải.
+Exanet dự định đưa ExaStore Grid Storage 2.0 vào khai thác trong lĩnh vực truyền thông kỹ thuật số, tạo hoạt ảnh video, tạo hình trong y tế, dầu khí và một số ứng dụng doanh nghiệp khác.
+

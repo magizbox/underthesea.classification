@@ -1,0 +1,5 @@
+Hải quan ứng dụng CNTT quản lý nguyên liệu nhập khẩu
+Từ tháng 6 đến tháng 9, Tổng cục Hải quan sẽ mở rộng mô hình "Ứng dụng CNTT trong quản lý loại hình nhập nguyên liệu để sản xuất hàng xuất khẩu" tại hải quan các địa phương như: TP HCM, Bình Dương, Hà Nội, Hải Phòng và Đà Nẵng.
+Theo đó, doanh nghiệp có thể chủ động chuẩn bị số liệu trước khi khai báo với hải quan và được quyền khai báo bằng nhiều phương thức khác nhau (thủ công, website, đĩa mềm chứa thông tin&), hạn chế được những sai sót về đơn vị tính. Về phía hải quan có thể giảm hơn 60% nhân lực trong việc thu thập dữ liệu ở các khâu đăng ký định mức, tờ khai, đồng thời có cơ sở dữ liệu phục vụ khâu kiểm tra sau thông quan. 
+Tổng cục Hải quan cho biết mô hình này được thí điểm tại Chi cục hải quan TP Biên Hòa, Đồng Nai.
+

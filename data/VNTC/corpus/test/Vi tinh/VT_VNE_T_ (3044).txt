@@ -1,0 +1,5 @@
+Thủ lĩnh mã mở đi vận động mở mã
+Richard Stallman, một trong những nhà tiên phong của hệ điều hành GNU/Linux và phong trào phần mềm tự do, đang có mặt tại Đài Loan trên một mặt trận mới: vận động các nhà sản xuất PC ở hòn đảo này công bố mã nguồn trình điều khiển (driver).
+Chúng tôi cần thông tin về cơ cấu hoạt động của các driver mà họ phát triển, Stallman phát biểu. Nhờ đó, các lập trình viên của GNU có thể thiết kế mã cho những hệ điều hành mã mở không được nhà cung cấp thiết bị hỗ trợ trực tiếp. Trình điều khiển là những file phần mềm nhỏ, chứa đựng thông tin mà máy tính cần dùng để nhận dạng và điều khiển phần cứng.
+Tháng trước, hai công ty chế tạo chip đồ họa Đài Loan là Via Technologies và XGI Technology đã công bố mã nguồn một số driver của họ cho cộng đồng mã mở. Stallman cho biết nỗ lực lần này của ông không liên quan đến tuyên bố của các công ty nói trên nhưng ông cũng hoan nghênh (một cách thận trọng) hành động của họ. Tôi vẫn chưa có cơ hội tìm hiểu kỹ những gì họ đã làm, Stallman nói, đồng thời từ chối tiết lộ ông đã tiếp cận những doanh nghiệp nào tại Đài Loan cũng như không có bất cứ nhận xét gì về ảnh hưởng của chuyến đi 8 ngày tới nơi này.
+

@@ -1,0 +1,12 @@
+Gỡ bỏ phần mềm Deepfreeze (4)
+Tôi cài phần mềm Deepfreeze sau đó muốn gỡ bỏ nhưng không thể làm được điều đó. Tôi đã vào Registry, Add Remove program để xoá và vào cả Service để xoá service của nó nhưng vẫn không gỡ bỏ được. Tôi đang cài WindowXP.Xin. Gỡ rối cho tôi nhé. Xin cảm ơn!
+Thu
+Hồi âm:
+Xin chi cho ban cach nay. Truoc khi go bo phan mem Deepfreeze thi truoc do ban phai dang nhap vao Deepfreeze . Sau do khoi dong lai de Deepfreeze xuat hien dau gach cheo mau do. Luc nay ban moi REMOVE duoc no. Chuc ban thanh cong!
+Dat Mai
+Mình từng quản lý phòng Net nên có tìm hiểu 1 chút về Deepfreeze Muốn gỡ bỏ Deepfreeze trước hết bạn phải là admin đăng nhập vào. Sau đó chọn chế độ Boot Thaweb rồi restart và sau khi đã khởi động xong máy tính thì chạy install lại cái bản Deepfreeze đã cài, nó sẽ hỏi là bạn muốn Uninstall hay không? Bạn chỉ cần làm các bước tiếp theo là OK.
+Nguyễn Sỹ Kiên
+Bạn tắt chế độ Enabled sau đó chạy lại file Setup của Deepfeeze , chọn lại mục Uninstall. Chúc bạn thành công.
+Nguyễn Minh Tuấn
+Ban oi, chi can cai dat lai 1 lan nua, luc ma dang cai dat no co muc chon uninstall thi ban chon vao do, lam cac buoc ke tiep the la xong. Nhung truoc tien ban phai de o che do la boot thawed nhe. Chuc ban thanh cong
+

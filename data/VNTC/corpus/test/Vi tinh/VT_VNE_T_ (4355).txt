@@ -1,0 +1,9 @@
+Microsoft phát triển hệ thống sao lưu dạng đĩa
+Tập đoàn phần mềm Mỹ vừa quyết định chuyển sang một phương pháp lưu trữ mới với chương trình bảo vệ dữ liệu trung tâm hệ thống không dùng băng từ mang tên Systems Center Data Protection Manager cho các doanh nghiệp. 
+Phần mềm này cho phép sao lưu thông tin từ máy chủ file tới server lưu trữ dưới dạng đĩa. Microsoft cho biết phần mềm sẽ giúp các công ty chuyển đổi từ hệ thống backup dựa trên băng từ, phương tiện phổ biến trong điện toán cá nhân để sao dự phòng ổ cứng hiện nay, sang hệ thống đĩa rẻ hơn và nhanh hơn. Với biện pháp này, hãng tin tưởng họ sẽ mở rộng rất nhanh và có vị trí cao trên thị trường lưu trữ.
+Backup dạng đĩa được giới chuyên môn đánh giá là sự bổ sung đầy hấp dẫn cho chuẩn sao lưu hiện tại. Hệ thống băng từ có thể sẽ kinh tế hơn nếu khối lượng thông tin lớn, nhưng thời gian sao và khôi phục lại khá lâu.
+Điểm hạn chế là phần mềm lưu trữ của Microsoft chỉ hoạt động với Windows. Hơn nữa, chương trình được thiết kế để phục hồi dữ liệu (restoring data) trong trường hợp hệ thống trục trặc, không phải để lưu thông tin (archiving data).
+Trên thị trường backup, Microsoft sẽ đối đầu trực tiếp với những công ty cung cấp sản phẩm tương tự như Symantec, EMC và Network Appliance.
+Systems Center Data Protection Manager được bán ra với giá 950 USD, chạy trên Windows Server 2003 và bảo vệ những máy chủ hoạt động với Windows Server 2003, Windows 2000 và Windows Storage Server.
+Microsoft đánh giá lưu trữ là một lĩnh vực đầy hấp dẫn và hãng cũng từng phát triển hệ điều hành Windows Storage Server 2003. Phiên bản nâng cấp R2 của hệ điều hành này sẽ được đưa vào thử nghiệm cuối năm nay.
+

@@ -1,0 +1,20 @@
+IBM phát triển Blue Gene/L mới
+Tuần qua, Big Blue bắt đầu cài đặt một siêu máy tính mới thuộc dòng máy Blue Gene/L trong khuôn khổ dự án kính thiên văn radio Lofar tại Hà Lan. Thiết bị, dự kiến sẽ hoàn tất vào năm 2005, chạy hệ điều hành Linux, với 12.000 bộ xử lý và đạt tốc độ 30 nghìn tỷ phép tính/giây.
+Lofar, viết tắt của cụm từ low frequency array (vùng tần số thấp), là dự án kính thiên văn dùng sóng radio mới của tổ chức Astron (Hà Lan). Chiếc Blue Gene/L thế hệ mới đầu tiên sau khi hoàn thành sẽ được đặt tại Phòng thí nghiệm quốc gia Lawrence Livermore. Nó được thiết kế với công suất cực đại lý thuyết lên tới 360 nghìn tỷ phép tính/giây, tức là 360 teraflop. Các bộ xử lý của nó là những phiên bản đặc biệt của dòng chip IBM Power. Mỗi chip có hai lõi xử lý: một lõi dùng để xử lý dữ liệu và một dùng cho liên lạc. Việc truyền dữ liệu qua hệ thống máy này được thực hiện qua 5 mạng khác nhau. Đối với những công việc đòi hỏi ít sự liên lạc thì cả hai lõi sẽ cùng làm việc tính toán. Trong dòng máy Blue Gene/L hiện còn có một chiếc đứng hàng thứ 73 trong danh sách các supercomputer. Máy này có 512 bộ xử lý lõi kép. 
+Theo dự kiến, Lofar sẽ bắt đầu hoạt động một phần vào năm 2006 và được triển khai toàn diện vào 2008. Thiết kế của hệ thống viễn vọng này không có các bộ phận động giống như những kính viễn thiên văn dùng ăngten radio đĩa truyền thống. Thay vào đó, nó sử dụng một tập hợp khoảng 20.000 đến 30.000 bộ cảm biến để thu thập dữ liệu từ khắp không gian. Hệ thống kiểm soát computer sẽ xử lý thông tin, do đó dàn cảm biến nói trên sẽ hoàn toàn tập trung vào một vùng trời cụ thể nào đó để công tác nghiên cứu hiệu quả hơn. 
+Những công tác nghiên cứu thuộc dự án Lofar có thể bao gồm sự hình thành vũ trụ, sao băng, sao Mộc, cấu trúc thiên hà hoặc một sơ đồ về nguồn gốc của các tia vũ trụ. 
+Hiện nay, siêu máy tính mạnh nhất thế giới là Earth Similator của hãng NEC, thiết kế năm 2002, có tốc độ 35,6 nghìn tỷ phép tính/giây. Tuy nhiên, sự cạnh tranh đang ngày càng nóng dần khi mà nhiều nơi trên khắp thế giới cũng đang nỗ lực phát triển các thiết bị hùng mạnh của riêng mình. Trong số những siêu máy tính đáng chú ý đang được cải tiến hiện nay còn có một thiết bị của Viện Công nghệ Virginia (Mỹ) tập hợp 1.100 máy Apple có bộ xử lý kép, dựa trên chip PowerPC 970 của IBM và một máy khác của Phòng thí nghiệm quốc gia Los Alamos (Mỹ), sử dụng 2.816 bộ xử lý Opteron của AMD.
+Tuần trước, hãng Linux Networx công bố đã bán cho Phòng thí nghiệm của Bộ Quốc phòng Mỹ một hệ thống sử dụng 2.132 bộ xử lý Xeon, trong đó 1.066 chiếc là dùng cho cấu trúc mở rộng 64-bit CT mà Intel mới công bố. Cấu trúc này, tương tự như Opteron của AMD, sẽ ra mắt vào tháng 6 khi Intel tung ra phiên bản Xeon mới có tên Nocona.
+Blue Gene vốn là một dự án nghiên cứu với mục tiêu tìm hiểu những thách thức công nghệ sinh học trong việc phát hiện phương thức kết hợp của protein trong những hình dạng 3 chiều phức tạp. Tuy nhiên, IBM đang nỗ lực để chuyển Blue Gene tiến gần hơn tới việc phục vụ đại chúng, tức là biến nó thành một thương phẩm mà các tổ chức có thể mua về để giải quyết những công việc như phân tích rủi ro tài chính hay lập mô hình khí tượng trái đất. 
+Top 10 siêu máy tính mạnh nhất thế giới (Tên máy, nhà sản xuất, năm hoàn thành, tốc độ tối đa đã đạt được):
+1. Earth Simulator, NEC (Nhật), 2002, 35.860 teraflop.
+2. ASCI Q, HP (Mỹ), 2002, 13.880 teraflop.
+3. Máy tự làm của Viện Công nghệ Virginia (Mỹ), 2003, 10.280 teraflop. 
+4. Tungsten, Dell (Mỹ), 2003, 9.819 teraflop.
+5. Mpp2, HP (Mỹ), 2003, 8.633 teraflop.
+6. Lightning, Linux Networx (Mỹ), 2003, 8.051 teraflop.
+7. MCR Linux, Linux Networx/Quadrics (Mỹ), 2002, 7.634 teraflop.
+8. ASCI White, IBM, 2000, 7.304 teraflop.
+9. Seaborg, IBM, 2002, 7.304 teraflop.
+10. xSeries, IBM/Quadrics, 2003, 6.586 teraflop.
+

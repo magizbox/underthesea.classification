@@ -1,0 +1,13 @@
+Tin vắn ngày 12/10
+Bộ Thương mại xây dựng mạng nội bộ eMOT 11 thí sinh đầu tiên nhận học bổng 3R của Aptech Intel giới thiệu bộ công cụ hỗ trợ lập trình các ứng dụng 64 bit.
+Bộ Thương mại đang triển khai ứng dụng công nghệ thông tin trong quản lý hành chính bằng việc xây dựng mạng nội bộ ngành gọi tắt là eMOT nhằm tạo môi trường thuận lợi và tác phong làm việc mới cho các công chức trong Bộ, đồng thời giảm thất thoát giấy tờ, hồ sơ...
+Chuyên mục dệt may trên website của Bộ cũng sẽ được nâng cấp để cập nhật đầy đủ thông tin về hạn ngạch, bao gồm cả văn bản pháp quy, thông báo giao hạn ngạch, hỏi đáp và cả thông tin về việc nhận hồ sơ. Ông Trần Thanh Hải, Phó vụ trưởng Vụ thương mại điện tử (Bộ Thương mại), cho biết: "Hiện trang web mới đáp ứng yêu cầu bước một là cung cấp thông tin. Sang năm, sẽ thực hiện bước hai là giao dịch với cộng đồng. Nghĩa là đưa các dịch vụ công như cấp các loại giấy phép xuất khẩu tự động, giấy chứng nhận xuất xứ & lên mạng. Khi đó sẽ hạn chế được tình trạng xếp hàng, thấp thỏm, tạo thuận lợi cho doanh nghiệp. Đó cũng là một mục tiêu tiến đến chính phủ điện tử mà Bộ đang triển khai".
+D.H.
+Sau một tháng triển khai chương trình 3R-Scholarship, Aptech VietNam tổ chức công bố trao học bổng cho 11 thí sinh đầu tiên trúng giải trong tháng 9. Trong đó có một số sinh viên Đại học Bách Khoa Hà Nội, Bách Khoa Đà Nẵng. 
+Đây là những thí sinh dự thi đạt điểm cao nhất và dự đoán lượng người tham gia sát nhất trên gần 1.000 bài dự thi gửi qua website www.aptech-vietnam.com. Có khoảng 500 thí sinh thuộc Hà Nội, còn lại là các khu vực khác trong cả nước.
+Câu hỏi cuộc thi chủ yếu là những kiến thức nền tảng về tin học nói chung. Cuộc so tài trong tháng 10 và 11 này, câu hỏi sẽ thay đổi theo hướng đa dạng hoá kiến thức nhằm mục đích tạo cơ hội cho nhiều người "chơi" hơn. Danh sách người trúng giải được thông báo hằng tháng trên website của Aptech VietNam. 
+N.H.
+Tập đoàn Intel vừa công bố các công cụ phần mềm mới nhằm giúp đỡ các nhà phát triển thiết kế, phân tích, và tối ưu hoá ứng dụng chạy trên các nền tảng của Intel, đồng thời hỗ trợ công nghệ bộ nhớ mở rộng 64 bit của hãng.
+Những chương trình này cho phép các nền tảng điện toán tận dụng được dung lượng bộ nhớ lớn hơn với bộ công cụ Compilers, Integrated Performance Primitives, VTune Performance Analyzers và Math Kernel Library. Chúng cũng hỗ trợ các hệ điều hành Windows và Linux và có thể chạy với các hệ thống máy chủ và máy trạm sử dụng chip Xeon và Pentium 4. 
+Intel dự định giới thiệu công nghệ này cho dòng sản phẩm chip dành cho desktop của mình khi các hệ điều hành hỗ trợ tương ứng được sử dụng rộng rãi.
+

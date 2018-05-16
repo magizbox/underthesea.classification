@@ -1,0 +1,5 @@
+ Pháp chuyển 1.500 máy Windows sang Linux
+Được giao trách nhiệm về hoạt động của các sân bay, hệ thống đường xá và cầu cảng... Bộ Giao thông Pháp đang sử dụng khoảng 60.000 máy chạm và 2.000 máy chủ chạy Windows NT. Theo nguồn tin, kế hoạch "thay Windows NT bằng Linux" thực tế đã được triển khai một cách không chính thức từ tháng 11/2003. 
+Song song cùng xu thế lựa chọn mã nguồn mở để giảm chi phí, châu Âu đang dần trở thành nơi đối đầu trực tiếp giữa Microsoft và các nhà phân phối Linux. Dự kiến, số cơ quan, tổ chức... chọn lựa Linux sẽ tiếp tục tăng khi Microsoft rút bỏ cam kết hỗ trợ bảo mật cho các hệ điều hành Windows "đời cũ". 
+Được biết, nhà sản xuất phần cứng Dell cũng vừa giới thiệu lô máy tính tích hợp Linux đầu tiên nhằm vào thị trường châu Âu. 
+

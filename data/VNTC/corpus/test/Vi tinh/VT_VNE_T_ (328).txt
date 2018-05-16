@@ -1,0 +1,82 @@
+Danh mục các định dạng file (vần T - V)
+Đây là những phần mở rộng ở cuối một tên file (đuôi file), biểu thị file đó thuộc định dạng nào. Thông tin đuôi file được hệ điều hành sử dụng để mở ra chương trình phù hợp khi bạn click vào tên file. Ví dụ: .txt là loại file chữ viết và được xử lý bằng một chương trình văn bản tương ứng.
+.TAL
+Công cụ sắp hàng Type Align của Adobe.
+.TAR
+Viết tắt của Tape Archive. Tar là một phương pháp cất giữ file của Unix mà có thể dùng trên PC. Tar lưu dữ liệu nhưng không nén chúng vì thế đôi khi file .tar được nén bằng những tiện ích khác vào tạo ra những đuôi file như .tar.gz, .tar.Z, và .tgz. Những file archive có đuôi .tar có thể được giải nén trong Unix bằng trình tar hoặc trên máy PC dùng WinZip. hay trên máy Mac có trình tar.
+.tar.gz
+Định dạng kết hợp của một file được lưu bằng tar và rồi nén lại.
+.tar.z or .tar.Z
+Định dạng kết hợp của một file được lưu bằng tar và rồi nén lại.
+.taz
+Một cách viết khác của .tar.Z.
+.TBK
+Dạng file Asymetrix Toolbook.
+.TDF
+Định nghĩa Typeface trong trình Speedo.
+.TEX
+Văn bản Tex hay LaTex.
+.TFM
+Font metrics trong Intellifont.
+.TGA
+Đồ họa TARGA.
+.tgz
+Một tên khác của .tar.z và .tar.gz.
+.THEME
+Dạng file chủ đề màn hình chủ (Desktop) của Windows 95.
+.THN
+Trình bày file theo kiểu Thumbnail.
+.TIF
+File đồ họa TIFF.
+.TIFF
+Định dạng file đồ họa TIFF.
+.TLB
+Dạng thư viện OLE Type.
+.TMP
+File tạm thời.
+.TOC
+Định dạng bảng chứa nội dung (Table Of Contents).
+.TRM
+Cài đặt thiết bị đầu cuối trong Windows.
+.TTC
+Font nén TrueType.
+.TTF
+Font TrueType.
+.TWF
+Dạng file TabWorks.
+.TX8
+Text trong MS-DOS.
+.TXT
+File text ASCII.
+.USL
+Font in ngang của máy LaserJet.
+.USP
+Font in dọc của máy LaserJet.
+.uu
+File nén Uuencode.
+.uue
+File Uuencode.
+.VBP
+File Visual Basic Project.
+.VBX
+Định dạng Visual Basic.
+.VDA
+Dạng file bitmap Targa.
+.VGR
+Trình Ventura.
+.VIFF
+File hình ảnh Khoros Visualization.
+.VLB
+Định dạng thư viện Ventura Library.
+.VOC
+Công cụ hỗ trợ tiếng Sound Blaster.
+.VP
+Định dạng chế bản Ventura Publisher.
+.VST
+File bitmap Targa.
+.VUE
+Công cụ Relational View trong dBASE.
+.VXD
+Dạng file ổ thiết bị ảo (Virtual Device Driver).
+Còn tiếp
+

@@ -1,0 +1,9 @@
+ Pháp: mua bán trên mạng rất an toàn
+Từ kết quả nghiên cứu 1 cách độc lập của nhiều chuyên gia, tổ chức này đã đưa ra kết luận là "việc cướp đoạt tiền trên mạng là gần như không thể xảy ra. Tại Pháp, chưa hề có 1 vụ ăn cắp mã số thẻ tín dụng nào xảy ra khi người mua đang thực hiện hành vi mua bán trên mạng". 
+Nhóm nghiên cứu này cũng kết luận rằng "những lo lắng trong việc này là không có căn cứ nếu việc mua bán được thực hiện trên những trang web được bảo đảm an ninh. Các trang web an toàn này có thể được nhận thấy nhờ vào địa chỉ URL của nó, nghĩa là phần đầu của nó sẽ luôn là "https" thay vì "http". 
+Doanh số mua bán trên mạng đã tăng truởng 53 % vào năm 2004 vừa qua tại Pháp. Hiện nay có khoảng hơn 10 triệu người Pháp mua hàng trên mạng. Và số tiền bình quân cho mỗi lần mua là khoảng 54 EURO/người. 
+Cũng theo báo cáo này, tỉ lệ trốn thuế trong việc buôn bán trên mạng này cũng rất thấp (chỉ khoảng 0,086 % vào năm 2002) và ngày càng giảm xuống. 
+Tuy nhiên, các trò lừa bịp vẫn tồn tại trên Internet, báo cáo cũng nhấn mạnh. Phổ biến nhất là hình thức gửi các email spam với danh nghĩa 1 công ty nổi tiếng, thường là ngân hàng, để nhận được các thông tin mật của khách hàng (số tài khoản hay số thẻ tín dụng). 
+Hình thức này được thực hiện rất tinh vi bằng cách mời người xem thư click vào 1 địa chỉ web (có 1 số đặc điểm nào đó của trang web chính thức của công ty nổi tiếng đó), rồi sau đó, đưa ra 1số yêu cầu, chẳng hạn yêu cầu xác định thông tin để cập nhật hệ thống dữ liệu... Vì thế, người sử dụng thẻ phải nhập thông tin của mình để thực hiện việc cập nhật này. Những thông tin này sau đó sẽ bị bọn lừa đảo sử dụng để ăn cắp tiền của thân chủ. 
+Bản nghiên cứu này đã kêu gọi người sử dụng Internet cẩn thận hơn với các thao tác Internet, và nhất là quan tâm đến các phần mềm diệt virus trên máy tính. 
+

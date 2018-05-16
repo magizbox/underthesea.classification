@@ -1,0 +1,6 @@
+Oracle sửa lỗi trong... bản vá lỗi 
+Hãng phần mềm cơ sở dữ liệu này vừa tung ra hai bản nâng cấp để sửa những khiếm khuyết trong bản vá lỗ hổng ra mắt gần đây. Nói cách khác, đây là "miếng vá cho bản vá cũ".
+Một lỗ hổng nghiêm trọng đã xuất hiện trong MySQL, hệ thống quản lý cơ sở dữ liệu mã mở phổ biến, cho phép kẻ tấn công kiểm soát hệ thống. Oracle tuần trước tuyên bố đã nhận dạng lỗi này và công bố miếng vá, đồng thời sửa luôn một số lỗi nhỏ tạo cơ hôi cho hacker phá vỡ hệ thống.
+Một bản vá khác liên quan đến khiếm khuyết trong chương trình nâng cấp Critical Patch Update tháng 4, vá 70 lỗi trong cơ sở dữ liệu và server ứng dụng. Oracle đã đưa ra giải pháp cho vấn đề này trong Critical Patch Update tháng 7, tuy nhiên vẫn gặp trục trặc với Oracle Database 10.1.0.3, 10.1.0.4 và Oracle Enterprise Manager. 
+Tuy nhiên, Oracle vẫn chưa thể đưa ra giải pháp cho6 lỗ hổng nghiêm trọng mà hãng bảo mật Đức Red Database Security đã khuyến cáo từ hai năm trước.
+

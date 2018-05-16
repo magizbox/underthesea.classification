@@ -1,0 +1,7 @@
+IBM tung ra thị trường siêu máy tính mới
+Từ 18/2 tới, công ty máy tính khổng lồ này sẽ bắt đầu cung cấp sản phẩm server p5-575, thành phần cơ bản giúp khách hàng xây dựng nên những hệ thống tính toán và xử lý dữ liệu siêu mạnh. 
+Server p5-575 được thiết kế bao gồm 8 bộ vi xử lý Power5 1,9GHz, bộ nhớ có thể lên đến 32 GB, được chứa trong 1 bộ khung có kích thước 8,9 x 61 x 127 cm. Server này có thể chạy hệ điều hành AIX, một phiên bản Unix do IBM phát triển hay Linux của Red Hat và Novell. Giá của một sever p5-575, bao gồm cả hệ điều hành AIX, 16 GB bộ nhớ và 1 năm bảo trì là 92.000 USD. IBM dự kiến sẽ ra mắt hệ thống này tại hội thảo và triễn lãm về Linux đang diễn ra ở Boston (Mỹ). Trước đó, nhiều thông tin chi tiết về p5-575 đã được công bố rộng rãi trong tháng 11/2004. 
+Trọng lượng của một hệ thống cluster được xây dựng từ 12 server p5-575 cùng các thiết bị vào/ra và cửa chống tiếng ồn là hơn 1,5 tấn (3.460 pound), công suất tiêu thụ lên đến 41,6 KW, tương đương với năng lượng cần thiết để thắp sáng hơn 400 bóng đèn 100 W.
+Theo dự kiến, hệ thống cluster sử dụng 8 server p5-575 sẽ bắt đầu được bán vào 18/2 tới. Một cluster tương tự nhưng sử dụng đến 128 server p5-575 sẽ có mặt trên thị trường vào 29/4. IBM cũng sẽ cung cấp switch dùng để kết nối các máy tính nhằm tạo thành hệ thống tính toán hiệu năng cao.
+Một trong những ưu thế của server do IBM chế tạo là hiệu suất xử lý và tính toán rất cao. "Big Blue" cung cấp ra thị trường rất nhiều sản phẩm, từ những server thông thường đến hệ thống máy chủ cao cấp như Blue Gene/L.
+

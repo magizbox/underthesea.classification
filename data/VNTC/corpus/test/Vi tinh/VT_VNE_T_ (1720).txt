@@ -1,0 +1,7 @@
+Hacker moi thêm lỗ hổng trong Windows Server 2003 
+Nhiều trung tâm bảo mật hôm qua thông báo một lỗ hổng trong Dịch vụ định tên Internet Windows (WINS) của Microsoft, bộ phận phổ biến trong phần mềm máy chủ Windows Server 2003 đã bị khai thác nhiều trong ngày cuối cùng của năm 2004.
+Mặc dù khiếm khuyết này đã được Microsoft vá từ giữa tháng 12/2004, Trung tâm an ninh Internet REN-ISAC của Đại học Indiana (Mỹ) vẫn phát hiện thấy có sự gia tăng đáng kể về số vụ xâm nhập nhắm vào các dịch vụ WINS (qua cổng TCP và UDP 42).
+Vá lỗi cho các hệ thống này giờ đây là quá chậm, thông báo của Trung tâm an ninh Internet thuộc Viện SAN (Mỹ), viết. Ngoài ra, các dịch vụ WINS có lẽ không vượt qua ranh giới router. Vì thế, nên phong tỏa các cổng có lỗ hổng, đề phòng quản trị viên Windows Server chưa update.
+Nếu khai thác thành công những lỗ hổng trên máy chưa vá lỗi, kẻ tấn công có thể khống chế hệ thống để cài đặt phần mềm tùy ý; xem, thay đổi hoặc xóa dữ liệu; tạo ra các user account mới với đầy đủ quyền ưu tiên.
+Bản vá lỗi WINS được cung cấp tại website của Microsoft.
+

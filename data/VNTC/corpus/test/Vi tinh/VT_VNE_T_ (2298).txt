@@ -1,0 +1,7 @@
+BitTorrent 'hồi sinh' bằng phiên bản 4.0
+Chương trình chia sẻ file nổi tiếng này vừa được tân trang bằng một giao diện sử dụng mới và hàng loạt tính năng cải tiến. Đây là bản nâng cấp lớn đầu tiên kể từ phiên bản 3.4.2 ra mắt đầu năm 2004.
+BitTorrent 4.0 có khả năng nhớ những gì người dùng thực hiện trước khi khởi động lại. Tính năng này cho phép khách hàng dễ dàng tiếp tục các tác vụ mà họ đang làm dở. Danh mục đầy đủ các phần nâng cấp có thể tham khảo tại đây. 
+BitTorrent, được phát triển bởi Bram Cohen năm 2001, tăng tốc độ truyền file bằng cách phân đoạn nội dung và các công đoạn tải từ nhiều người sử dụng dựa theo ai là bên cung cấp kết nối băng thông sẵn có cao nhất. File được xác định không phải thông qua bản thân ứng dụng mà thông qua các đường link (tracker) trên website. Những đường liên kết này kích hoạt mã để bắt đầu việc tải nội dung, thu nhận file tại nguồn khả dĩ nhất mà các đối tượng tham gia chia sẻ (peer) có thể cung cấp thay vì từ server ban đầu. Hệ thống này được thiết kế với mục đích chính là tối ưu hóa công suất download.
+Thời gian qua, Hiệp hội điện ảnh Mỹ (MPAA) đã tăng cường các hành động pháp lý đối với nhà điều hành dịch vụ BitTorrent nhằm ngăn chặn việc lạm dụng công nghệ này vào việc phát tán những nội dung ăn cắp từ đĩa DVD. Bản thân công nghệ BitTorrent, vốn có nhiều ứng dụng hợp pháp và hỗ trợ rất tốt cho việc trao đổi những file lớn, không phải là đối tượng chính của các hành động trấn áp này. 
+Download BitTorrent 4.0 tại đây.
+

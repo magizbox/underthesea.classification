@@ -1,0 +1,5 @@
+ World Wide Web tròn 15 tuổi
+Ý tưởng về mạng máy tính toàn cầu đến với Tim từ năm 1980, khi ông tìm cách phát triển một công cụ có tính năng tổ chức, kết nối và duyệt các trang trong mạng, đó là trình duyệt siêu văn bản WYSIWYG chạy trên môi trường NextStep. Lúc đó ông còn là một nhà vật lý làm việc tại Viện Vật lý hạt nhân Cern (Thụy Sĩ). 
+Mã máy tính và trình duyệt siêu văn bản mà ông nghĩ ra đã cho phép các nhà khoa học dễ dàng chia sẻ những phát hiện khoa học qua mạng máy tính. Đến năm 1991, mạng máy tính ấy chính thức được gọi là World Wide Web và đem lại trật tự cho không gian điều khiển mà lúc đó đang trong trạng thái hỗn loạn. Từ đó, web và Internet cùng hợp nhất nhau để phát triển với tốc độ chóng mặt. 
+Nếu Internet là một công trình tập thể, World Wide Web lại là một tác phẩm của riêng Tim. Ông chưa bao giờ nghĩ tới chuyện thương mại hoá sản phẩm của mình. Thay vào đó, ông đã nỗ lực biến nó thành một kênh hợp tác và tự do cung cấp thông tin. Đến nay, trình duyệt cho phép chúng ta kết nối gần như tới mọi nơi trên hành tinh này. 
+

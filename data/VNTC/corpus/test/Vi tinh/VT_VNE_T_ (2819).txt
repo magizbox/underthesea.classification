@@ -1,0 +1,11 @@
+Đăng ký hòm thư điện tử miễn phí dung lượng lớn
+Với các dịch vụ e-mail của Yahoo, Gmail, Wallamail... như hiện nay, người sử dụng đã không còn lo lắng về dung lượng của hòm thư điện tử của mình. Nhưng nếu vẫn chưa hài lòng, hãy tham khảo thêm những webmail dưới đây để lựa chọn hòm mail ưng ý.
+1. http://pc4me.us:
+Địa chỉ này cung cấp hòm mail có dung lượng "giật mình" 3 GB. Ngoài ra, dịch vụ cũng có rất nhiều ưu điểm. Thứ nhất là nó rất thích hợp cho những ai quen sử dụng Outlook Express (OE) để gửi và nhận thư vì ngoài giao diện truyền thống của các webmail, dịch vụ này còn cung cấp thêm một giao diện giống hệt với OE từ cách gửi mail đến cách đọc mail. Thứ hai, dịch vụ mail miễn phí này còn cho phép lựa chọn đăng ký nhiều tên miền khách nhau cho địa chỉ mail như: myquickmail.us, crispymail.com, notech.us, myHTTPmail.com, pc4me.us... Thứ ba, nó còn hỗ trợ POP3, IMAP và truy cập đến hộp mail thông qua WAP. Ngoài ra, cũng có nhiều tiện ích đi kèm với tài khoản mail của người sử dụng như nhắn tin đến điện thoại di động, thông báo bằng SMS đến điện thoại khi có mail mới (tuy nhiên để dùng các tiện ích này, cần phải đăng ký bằng thẻ tín dụng).
+2. www.xasamail.com
+Địa chỉ cung cấp cho một hòm thư khổng lồ 2 GB, sau khi đăng ký xong, người sử dụng sẽ có một địa chỉ dưới dạng: tên@xasamail.comvới giao diện khá đẹp. Cách thức đăng ký hòm thư nhanh chóng không quá phức tạp. Ngoài ra, nó còn hỗ trợ Anti-Spam và Anti-Virus. Tuyệt nhất là kích thước file đính kèm thư có thể lên đến 15 MB.
+3. http://www.omnilect.com
+Địa chỉ cung cấp hòm thư có giao diện tiếng Việt cùng hơn 12 ngoại ngữ khác có dung lượng 2 GB. Để đăng ký hòm thư, chỉ cần vào địa chỉ này và trong phần language, chọn ngôn ngữ Việt Nam và sau đó tiến hành đăng ký sử dụng hòm thư một cách bình thường. Ưu điểm của hòm thư này là cách thức đăng ký cực kỳ nhanh chóng và giao diện khá đơn giản. Sau khi đăng ký thành công người sử dụng có thể sở hữu một hòm thư dưới dạng tên@omnilect.com.
+Lưu ý là trong một vài trường hợp nếu login vào hộp thư mà vẫn không thấy giao diện chuyển sang tiếng Việt (trong khi phần language đã chọn Việt Nam) thì hãy thực hiện một vài thao tác sau để chuyển đổi giao diện.
+Đầu tiên là login vào hòm thư, sau đó vào phần Item Options, rồi display preferences, đến Vietnamese và nhấn submit. Giờ thì hãy quay trở lại để login vào hòm thư và xem kết quả.
+

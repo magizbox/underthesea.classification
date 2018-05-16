@@ -1,0 +1,4 @@
+ Microsoft bỏ rơi Mac IE 
+Tin tức này vốn chẳng phải là điều gây ngạc nhiên đối với những người dùng máy Mac, bởi lẽ kể từ tháng 6 năm 2003, Microsoft đã ngầm cho khách hàng hiểu rằng, họ không tiếp tục phát triển Mac IE. Microsoft đã để Mac IE 5 tồn tại suốt 3 năm nay thay vì nâng cấp lên IE 6 dành cho Windows như hiện nay. Microsoft khuyên người dùng chuyển qua dùng các trình duyệt web tân tiến hơn ví dụ như Apple’s Safari. 
+Việc không còn Mac IE có vẻ như không phải là vấn đề lớn đối với đại bộ phận khách hàng của hãng Apple, mặc dù có một số trang Web được thiết kế chỉ để chạy trên IE. Tuy vậy, không phải là không có hướng giải quyết. Các trình duyệt miễn phí và mã nguồn mở hiện nay đã rất phổ biến, ví dụ như FireFox, Safari, Opera v.v… đều có hỗ trợ cho máy Mac. 
+

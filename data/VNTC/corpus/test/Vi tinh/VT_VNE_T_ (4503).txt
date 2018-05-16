@@ -1,0 +1,5 @@
+Năm 2310 Google sẽ lập chỉ mục tìm kiếm cả thế giới
+Eric Schmidt, Giám đốc điều hành hãng dịch vụ tìm kiếm trực tuyến lớn nhất thế giới, tuyên bố rằng 3 thế kỷ nữa là đủ thời gian để họ phân loại và sắp xếp tất cả dữ liệu toàn cầu thành một kho tư liệu dễ khai thác.
+Phát biểu tại hội nghị thường niên của Hiệp hội các nhà quảng cáo Mỹ ở Phoenix, Schmidt nói: Chúng tôi đã thử làm một phép toán để xem mất bao lâu thì có thể hoàn thành nhiệm vụ đó và câu trả lời là khoảng 300 năm. Tất nhiên, đó là một quãng thời gian khá dài. 
+Vị lãnh đạo của Google ước tính rằng, trong tổng số 5 triệu terabyte (1 terabyte = 1.000 gigabyte) dữ liệu trên thế giới hiện nay, thì mới chỉ có khoảng 170 terabyte được lập chỉ mục (indexing) phục vụ cho việc tìm kiếm. Tuy nhiên, tuyên bố của Schmidt chưa nói rõ số lượng thông tin kể trên là tổng dữ liệu hiện tại hay đã bao gồm cả lượng thông tin khổng lồ sẽ phát sinh từ nay cho đến năm 2310.
+

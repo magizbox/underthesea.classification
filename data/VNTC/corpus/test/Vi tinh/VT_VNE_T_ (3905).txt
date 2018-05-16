@@ -1,0 +1,11 @@
+Khi e-mail không được kiểm soát
+Bí mật công nghệ, e-mail đả kích, ảnh  khiêu dâm, thông tin sức khoẻ và tài chính cá nhân... thường xuyên được gửi qua mạng mà không được mã hoá hay bảo vệ.
+Đây chỉ là một vài vấn đề nhỏ được nêu trong cuốn "Sự thật trần trụi: Mối đe doạ sở hữu trí tuệ xuất phát từ chính nhân viên công ty". 
+"Nạn ăn cắp mật khẩu đang là một mối lo ngại lớn hiện nay. Nhưng sau khi hoàn thành cuốn sách, tôi rút ra kết luận chúng chỉ là một triệu chứng của một căn bệnh ngày càng nặng trong các tổ chức", tác giả Dan Verton nói. "Kiểm soát thông tin không đúng cách trong nội bộ đã khiến nạn mất ID tăng nhanh".
+Hãng Reconnex tại thung lũng Silicon (Mỹ) đã hỗ trợ Verton thực hiện nghiên cứu. 50 công ty và tổ chức cũng đồng ý hợp tác và cho phép Verton tiếp cận hệ thống trong vòng 48 giờ với điều kiện ông không được nêu tên tuổi của họ.
+Tại một công ty mà Verton mô tả  là "một trong những hãng phát triển công nghệ lớn nhất nước Mỹ, chỉ trong 2 ngày theo dõi, Verton đã nhận thấy có 50 nhân viên đang tìm kiếm công việc khác, 1 người gửi tài liệu mật về sản phẩm mới cho đối thủ trực tiếp với họ.
+Tại một tổ chức chính phủ, Verton thu về hàng nghìn ảnh khiêu dâm, thư đả kích và cá cược trong suốt 48 giờ. "Một số nội dung thực sự rất kinh khủng. Hơn thế, trang web khiêu dâm còn ẩn chứa những  nguy cơspyware, proxy trên máy tính nạn nhân", Verton nói. 
+Ở trụ sở khác, một nhân viên đã trao đổi thư từ ra ngoài để thảo luận cách xâm nhập mạng lưới tổ chức chính phủ.
+Một viện tài chính cũng chấp thuận cho Verton điều tra nhưng khẳng định họ đã cài chương trình chặn web mail. Tuy nhiên, chỉ ngay trong những kết quả đầu tiên, Verton đã "tóm" được một thư điện tử tuyên bố: "Tớ vừa tìm ra cách lừa hệ thống chặn web mail rồi".
+Theo Verton, hầu hết các vụ rò rỉ dữ liệu đều liên quan đến việc nhân viên vô tình gửi đi những thông tin cá nhân nhạy cảm và không được bảo vệ qua dịch vụ Gmail hay Hotmail. "Chắc chắn sẽ sớm xuất hiện virus và sâu thu thập những e-mail này", Verton nhận định. Tình trạng lộ thông tin sở hữu trí tuệ đã làm thiệt hại khoảng 250 tỷ USD mỗi năm cho các công ty Mỹ.
+

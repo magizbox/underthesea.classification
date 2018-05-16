@@ -1,0 +1,7 @@
+ Bút kỹ thuật số “thần kỳ”
+Cây bút thần kỳ này, có thể trở thành dụng cụ của một nhà ảo thuật, được chế tạo bởi các nhà khoa học tại Trung tâm nghiên cứu khu vực châu Á của Microsoft có trụ sở tại Bắc Kinh. 
+Một camera kỹ thuật số bé xíu được gắn trong cây bút, cũng chứa mực dự trữ bình thường, cho phép người sử dụng kết hợp cả văn bản viết tay và các biểu đồ với nội dung số từ các bản báo cáo. 
+Bút "thần kỳ" chỉ là một trong các sản phẩm được trưng bày tại Hội nghị quốc tế lần thứ 10 về tầm nhìn máy tính (ICCV) kéo dài một tuần tại Bắc Kinh, khai mạc hôm nay 17-10. Gần 900 nhà khoa học trên khắp thế giới tham dự hội nghị. Theo Harry Shum, giám đốc điều hành của Trung tâm nghiên cứu khu vực châu Á của Microsoft, các nhà khoa học sẽ thảo luận các học thuyết về tầm nhìn của máy tính và công bố các ứng dụng mới nhất của nó. 
+Các thảo luận sẽ tập trung vào các vấn đề liên quan đến phân cảnh, sự tương thích, sự định cỡ, sự tự hiệu chỉnh và các thống kê... Đây là các vấn đề sống còn cho việc tạo ra các máy tính mô phỏng tầm nhìn của con người. 
+Tầm nhìn máy tính đã phát triển từ 3 thập kỷ qua và được ứng dụng rộng rãi trong nhiều lĩnh vực. Chẳng hạn các camera giám sát được dùng để theo dõi các vấn đề rắc rối có thể xảy ra… 
+

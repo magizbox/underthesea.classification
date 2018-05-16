@@ -1,0 +1,7 @@
+ Gia tăng tấn công các mạng tin nhắn
+“Ba tháng vừa qua, các hiểm họa từ mạng tin nhắn (IM) tiếp tục tăng nhanh với sự thay đổi tinh vi hơn và cường độ lây nhiễm từ các sâu IM và virus càng lan rộng” Ông Sakoda, CTO của IMLogic cho biết. 
+Bảng thông báo cũng cho biết trình tin nhắn MSN Messenger chịu nhiều cuộc tấn công nhất, hơn 14 lần so với năm trước và độ phức tạp của các cuộc tấn công cũng ngày càng tăng lên. 
+IMLogic đã thống kê số lượng các cuộc tấn công các trình tin nhắn và kết quả cho thấy MSN Messenger có mức cao nhất là 62%, tiếp theo là AIM, trình tin nhắn của AOL với 31%. Trong khi Yahoo Messenger có mức nguy hiểm thấp hơn, chỉ chiếm 7%. 
+Các cuộc tấn công bao gồm 87% từ các loại sâu, 12% từ hijack truyền tải tập tin để phát tán virus và 1% tận dụng các lỗi hệ thống. Có tất cả 713 các nguy cơ có thể gây nguy hiểm được thống kê từ mạng tin nhắn IM và mạng chia sẻ ngang hàng P2P. 
+IMLogic cũng khuyến cáo người dùng AIM và Yahoo Messenger đừng chủ quan khi hầu hết các cuộc tấn công đều nhắm vào MSN Messenger. 
+

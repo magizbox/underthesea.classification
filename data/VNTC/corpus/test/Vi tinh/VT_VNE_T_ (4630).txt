@@ -1,0 +1,8 @@
+Flock - trình duyệt hội tụ của công nghệ Web 2.0
+Ngày 21/10, Bart Decrem, cựu thành viên của Mozilla, và các đồng nghiệp đã giới thiệu browser tích hợp hầu như tất cả những tính năng ưu việt của web thế hệ mới như nhập nội dung RSS, bookmark, blog và chia sẻ ảnh.
+Flock cung cấp công cụ blogging với khả năng kéo - thả ảnh tương tự như Flickr của Yahoo, hỗ trợ podcasting, và phần mềm chia sẻ file. Ngoài ra, không như bookmark (lưu lại những trang web, đường link hay) trong các trình duyệt truyền thống, danh sách trang web được đánh dấu của Flock tích hợp với del.icio.us, dịch vụ trực tuyến cho phép người sử dụng lưu, tạo danh mục và chia sẻ với tất cả mọi người, cũng như thay đổi bookmark trên bất cứ máy tính nào.
+Tính năng RSS reader hỗ trợ khách hàng đọc thông tin trên các blog yêu thích mà không cần phải mở lần lượt từng trang cá nhân. Nhiều website và chương trình phần mềm đã cung cấp tính năng này, nhưng Flock là một trong những dịch vụ đầu tiên tổng hợp nó trong một trình duyệt.
+Browser tích hợp nhiều chương trình blogging phong phú và phổ biến, trong đó có Wordpress, Six Apart và Blogger. 
+Flock hoạt động trên Windows, Mac OS X và Linux. Decrem đang xây dựng kế hoạch hợp tác cùng Yahoo và Google để đưa hộp tìm kiếm vào trong trình duyệt.
+Tải và dùng thử Flock tại trang web của trình duyệt.
+

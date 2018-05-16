@@ -1,0 +1,8 @@
+Một loạt tính năng mới trong Firefox Candidate 1
+Tổ chức phần mềm mã mở Mozilla vừa ra mắt chương trình preview cho phiên bản tiếp theo của trình duyệt Firefox với nhiều tính năng cải tiến như khả năng chặn pop up, điều hướng và hỗ trợ các chuẩn web.
+Firefox 1.5 Release Candidate 1, được tải trên website của Mozilla, cho phép người sử dụng làm quen trước khi trình duyệt chính thức được phát hành. Mozilla cũng nhấn mạnh rằng phiên bản này được ra mắt chỉ với mục đích thử nghiệm nên sẽ không hỗ trợ người sử dụng đầu cuối. Một bản preview khác sẽ ra mắt vào 11/11 nếu họ nhận được phản hồi tích cực về Release Candidate 1. Trình duyệt hoàn thiện Firefox 1.5 sẽ có mặt cuối năm nay.
+Release Candidate 1 nâng cấp hệ thống cập nhật phần mềm, định hướng nhanh với thanh tab "Back" (trở về trang trước) và "Forward" (trở lại trang sau). Mục Options/Preferences được thiết kế lại, tăng số biểu tượng và chuyển chúng từ vị trí bên trái lên trên đầu cửa sổ.
+Bản thử nghiệm này sẽ hỗ trợ các chuẩn web SVG (Scalable Vector Graphics - ngôn ngữ đồ họa 2 chiều dựa trên XML), JavaScript 1.6 (phiên bản mới nhất của ngôn ngữ lệnh Java) và CSS (Cascading Style Sheets - chuẩn W3C trong việc tạo font, màu, khoảng trống... trong tài liệu web).
+Ngoài ra, Release Candidate 1 được trang bị thêm một số chức năng liên quan đến DHTML, ngôn ngữ mở rộng của HTML, sử dụng JavaScript và kiểu tài liệu mẫu, cho phép đính thêm những hình họa và menu động vào trang web.
+Firefox đã được nhiều người coi là sự lựa chọn tối ưu, thay thế cho trình duyệt Internet Explorer của Microsoft. Trong tháng 10, trình duyệt mã mở của Mozilla đã vượt qua ngưỡng 100 triệu lượt tải.
+

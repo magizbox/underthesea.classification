@@ -1,0 +1,6 @@
+Virus 'ông già Noel' quấy nhiễu các dịch vụ nhắn tin 
+Những kẻ viết virus đang lợi dụng hình ảnh Santa Claus để lừa người dùng hệ thống tin nhắn nhanh (IM) của America Online, Microsoft MSN và Yahoo bấm vào file chứa phần mềm nguy hiểm.
+Theo hãng bảo mật Mỹ IMLogic, sâu IM.GiftCom.All sẽ khiến người ta nghĩ rằng họ vừa nhận được một link chứa file chúc mừng Giáng sinh.
+Những ai bấm vào tệp này sẽ thấy hình ảnh một ông già tuyết mà không hề biết rằng một chương trình rootkit đã nhanh chóng thâm nhập vào hệ thống máy tính của họ. Rootkit, công cụ được thiết kế để hoạt động mà không thể bị phần mềm bảo mật dò ra và mới bắt đầu xuất hiệntrên mạng IM gần đây, sẽ giành quyền kiểm soát, hỗ trợ kẻ tấn công phân tán thông điệp tới những địa chỉ khác.
+Sâu trong mạng tin nhắn nhanh có thể lây lan với tốc độ nhanh chóng bởi chúng ém trong thông điệp có vẻ như từ một người bạn trong danh sách. "IM.GiftCom.All có mức phát tán trung bình, nhưng về khả năng gây thiệt hại cho hệ thống, chúng tỏ ra nguy hiểm hơn nhiều", IMlogic khuyến cáo.
+

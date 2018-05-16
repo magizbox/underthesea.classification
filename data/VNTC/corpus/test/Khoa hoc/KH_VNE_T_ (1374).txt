@@ -1,0 +1,16 @@
+Những phát kiến độc đáo
+Mỗi năm trên thế giới lại xuất hiện những đơn xin cấp bằng sáng chế cho các phát minh kỳ cục và lạ thường. Sau đây là một số sáng chế mới được cho là có tính thực tiễn cao và sẽ trở nên thông dụng trong tương lai không xa.
+Còi báo tai nạn
+Chúng ta từng được hứa hẹn sẽ có loại xe hơi thông minh tự động truyền cuộc gọi cấp cứu khi tai nạn xảy ra. Nay hãng sản xuất chip của Mỹ Texas Instruments đã tạo ra một thiết bị cá nhân tương ứng - có thể là điện thoại di động hoặc PDA - làm nhiệm vụ tương tự bất kể bạn đang đi xe nào.
+Một chiếc gia tốc kế gắn vào thiết bị sẽ phát hiện bất cứ chấn động nào và so sánh với dữ liệu sẵn có. Nó sẽ cho phép thiết bị phân biệt một sự kiện an toàn - như một đồ vật rơi xuống, với một tai nạn giao thông thực sự.
+Nếu sự việc thực sự nghiêm trọng, thiết bị sẽ tự động quay số khẩn cấp và gửi đi thông điệp đã được ghi sẵn. Hệ thống GPS sẽ truyền đi vị trí của nó.
+Trong tương lai, thiết bị có thể cảm nhận được hơi nóng, khói và nước để cảnh báo người chủ về những rắc rối có thể xảy ra.
+Máy tính màn hình khói
+Rất dễ để nhìn trộm màn hình máy tính của một ai đó tại nơi công cộng. Miếng chắn gắn hai bên có thể ngăn người ngồi bên cạnh, chứ không ngăn được kẻ nhìn từ đằng sau. Peter Hoe-Richardson tại Massachusetts đã nghĩ ra một cách đơn giản khiến mọi màn hình luôn trở nên kín đáo, cho dù nhìn trộm từ góc độ nào.
+Một phần mềm sẽ làm giảm sự tương phản sáng tối trong một cửa sổ chọn trước và phủ lên nội dung bằng một lớp màu khác. Chẳng hạn, một cửa sổ chữ đen trên nền trắng sẽ được phủ bằng lớp đỏ làm cho nền trắng trông đỏ sáng và chữ đen trông đỏ sẫm.
+Mặc dù vẫn đọc được ở cự ly gần nhưng chữ viết sẽ trở nên khó đọc hơn ở khoảng cách xa. Bổ sung thêm hiệu ứng đường vằn sẽ làm cho việc đọc trộm càng khó hơn. Độ mạnh của lớp phủ và kích cỡ của đường vằn sẽ được điều chỉnh tự động để phù hợp với kích cỡ cửa sổ và font chữ.
+Viết trên ống tay áo
+Trong một tương lai không xa, khi bạn thấy ai đó gõ vội vàng vào ống tay áo trong khi chờ máy bay, họ có thể đang viết một lá thư góp ý với hãng hàng không.
+Hãng điện tử Infineon Technologies của Đức cho rằng lý do chính cho loại máy tính mặc trên người không tiện dụng là bởi không có cách nào để sử dụng bàn phím. Infineon đã tìm ra giải pháp gắn một bàn phím vào ống tay áo.
+Loại vải có thể làm từ sợi thông thường. Ống tay áo sẽ được bện với những sợi cách điện mỏng cùng các miếng đệm tương ứng với nút bấm. Khi cho một dòng điện cường độ thấp chạy qua sợi, ống tay áo sẽ biến thành bàn phím. Để bảo vệ bàn phím khỏi bị hư hỏng khi giặt, toàn bộ vùng đó sẽ được bao phủ một lớp polymer cách điện. 
+

@@ -1,0 +1,10 @@
+Hỏi về files .RMJ (3)
+Các bạn gần xa làm ơn chỉ giùm chương trình nào có thể convert filesaudio .rmj và file .mpga thành MP3 được không? Cám ơn nhiều.
+Hanh Duc
+Hồi âm:
+Ban co the thu dung phan mem "FairStars Audio Converter". Chuc vui. 
+Van Hoang
+Muốn đổi mpga sang mp3 bạn chỉ cần dùng chức năng ( rename) của windows là được .rmj (real music jukebox) sang mp3 ban dùng ct nầy ,miển phí link http://www.download.com/dBpowerAmp-Music-Converter/3000-2140-10042534.html?part=dl-dBpowerAmsubj=dltag=button.
+TOM
+Tim tren google...Vao trang  www.blazemp.com  download Blaze Media Pro software.
+

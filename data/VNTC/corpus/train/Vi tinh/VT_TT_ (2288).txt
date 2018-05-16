@@ -1,0 +1,4 @@
+ Truy tìm địa chỉ lạ
+Giao diện và cách sử dụng của WhereIsIP vô cùng đơn giản. Muốn tìm xuất phát điểm của một địa chỉ IP nào đó bạn chỉ việc nhấp vào ô “IP Address”, sau đó nhấp “Next” là WhereIsIP sẽ tự động tìm kiếm và đưa ra kết quả cho bạn trong vài giây. Bạn thao tác tương tự để săn tìm nơi xuất phát của một trang web, một kết nối ICQ, một địa chỉ email. 
+Người dùng có thể vào http://www.jufsoft.com/whereisip/#download để tải về bản dùng thử có dung lượng chỉ khoảng 654 KB hoặc tìm mua ở các cửa hàng phần mềm tin học. 
+

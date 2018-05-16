@@ -1,0 +1,6 @@
+Microsoft cung cấp công cụ kết hợp .Net 
+Hãng phần mềm số một thế giới vừa công bố bản nâng cấp ILMerge, được coi "bộ công cụ quyền lực cho nhà phát triển" khi mang lại khả năng kết hợp những ngôn ngữ lập trình khác nhau.
+Theo một đại diện của Microsoft, ILMerge có thể kết nối ngôn ngữ .Net tương tự như gộp nhiều tài liệu Word thành một tệp đơn. Ví dụ, công cụ cho phép tạo một file duy nhất dù một nửa số người trong nhóm phát triển dùng Visual Basic và số còn lại sử dụng C#. Cả Visual Audio 2003 và phiên bản 2005 sắp ra mắt cũng không có khả năng lắp ráp hai ngôn ngữ khác nhau như thế.
+"Nếu bạn đang xây dựng một ứng dụng .Net phức tạp, bạn sẽ muốn tách chúng thành nhiều bộ phận riêng biệt, ví dụ như phần giao diện người dùng, phần nguyên lý thiết kế lõi... Công cụ ILMerge cho phép bạn kết hợp những phần đó thành một file thống nhất để có thể sao chép, cài đặt và sử dụng", Greg DiMichillie, chuyên gia phân tích thuộc nhóm "Directions on Microsoft", khẳng định.
+ILMerge hoạt động trên Windows 2000, Windows 2003 và XP. Hiện nay sản phẩm không thể tương thích với Mono, phiên bản mã mở cho nền phát triển .Net dựa trên Unix.
+

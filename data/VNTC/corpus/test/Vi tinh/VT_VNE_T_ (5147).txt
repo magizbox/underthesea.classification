@@ -1,0 +1,7 @@
+Đếm ngược cho một cuộc tấn công Sober mới
+Các chuyên gia bảo mật của iDefense, thuộc công ty VeriSign (Mỹ), dự đoán ngày 5/1 có thể sẽ xảy ra một đợt bùng phát sâu mới dựa trên mã của Sober.Z xuất hiện từ 22/11.
+iDefense tin rằng những kẻ viết virus đã chuẩn bị một chương trình tuyên truyền lớn bởi 5/1 là ngày thành lập đảng quốc xã cách đây 87 năm. Từ khi xuất hiện vào tháng 10/2003, dòng Sober đã sản sinh gần 30 biến thể, chủ yếu được phát tán qua nhữnge-mail vận động cho phe cựu hữu hoặc giả danh FBI và CIA.
+Nếu đúng như dự báo, người sử dụng Internet sẽ có gần một tháng để xây dựng hàng rào bảo vệ hệ thống trước dòng virus sinh sôi nảy nở với tốc độ kỷ lục của năm 2005. "Cuộc tấn công có thể gây ảnh hưởng nghiêm trọng đến giao thông mạng do các máy chủ e-mail bị ngập lụt thư rác", công ty bảo mật Mỹ cảnh báo.
+Tuy nhiên, Mikko Hypponen, Giám đốc nghiên cứu của hãng diệt virus Phần Lan, cho rằng nguy cơ này có thể được ngăn chặn do đa số những site hỗ trợ tải Sober đều nằm trên máy chủ miễn phí đặt tại Đức và Áo. "Còn rất nhiều thời gian cho các nhà cung cấp dịch vụ và hãng chống chương trình nguy hiểm chặn lại những URL chứa sâu. Nếu may mắn, tháng tới sẽ không có chuyện gì xảy ra cả", Hypponen nói.
+Phiên bản Sober mới nhất vẫn còn gây nhiều rắc rối cho người sử dụng thư điện tử. Microsoft tuần trước thừa nhận khối lượng e-mail nhiễm sâu quá lớn đã cản trở lưu thông trong dịch vụ Hotmail và MSN. 
+

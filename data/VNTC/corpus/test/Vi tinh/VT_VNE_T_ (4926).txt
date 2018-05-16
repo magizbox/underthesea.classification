@@ -1,0 +1,7 @@
+Mã khai thác mới trong Windows XP và Windows 2000
+Theo Stephen Manzuik, Giám đốc sản xuất của công ty bảo mật Mỹ eEye, đoạn mã này có thể bị sử dụng để thực hiện tấn công từ chối dịch vụ trong những hệ thống chạy trên Windows 2000 và XP SP1.
+Tuy nhiên, nguy cơ chỉ được xếp vào hàng tương đối nghiêm trọng. Ví dụ, trong trường hợp Windows 2000, kẻ tấn công phải tìm cách tiếp cận từ xa tới cổng RPC (Remote Procedure Code). Cổng này thường được đặt bên trong tường lửa nên rất khó bị hacker thâm nhập.
+"Nói chung, tỷ lệ chỉ khoảng 4, 5 trong số 10 hệ thống có thể bị nguy hiểm. Mã có thể gây trục trặc những máy này nhưng lại không thể tác động đến một số máy khác", Manzuik cho biết.
+Microsoft vẫn chưa xây dựng xong bản vá cho lỗi và khuyến cáo người sử dụng nên bật firewall cũng tải bản cập nhật phần mềm bảo mật.
+Lỗ hổng được Winny Thomas, chuyên gia của Nevis Labs (Ấn Độ), phát hiện trong quá trình xem xét bản vá tháng 10 của Microsoft. Tập đoàn phần mềm cho rằng "lỗi được công bố thiếu trách nhiệm", khiến người sử dụng có thể gặp nguy hiểm và yêu cầu các công ty lần sau "thông báo thận trọng hơn". Tuy nhiên, nhiều chuyên gia nghiên cứu chê trách Microsoft thường mất ít nhất 200 ngày để phát hành một bản sửa chữa tính từ khi họ được báo động.
+

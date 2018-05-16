@@ -1,0 +1,7 @@
+Máy tính xách tay dùng chip Yonah đầu tiên
+Hãng điện tử NEC (Nhật) vừa tiết lộ chi tiết kỹ thuật cho loại notebook hoạt động trên thiết bị xử lý lõi kép 65 nm Yonah ra mắt đầu năm tới của Intel.
+Sản phẩm mang tên LaVie RX LR900/ED gồm DDR 2 SDRAM 512 MB, chipset 945 Express, thiết bị điều hợp Wi-Fi 802.11a/b/g mang tên ProWireless 3945ABG của Intel và kết nối Bluetooth 2.0.
+Máy tính xách tay này có màn hình 14,1 inch, độ phân giải 1.400 x 1.050 và nhân đồ họa GMA 950. LR900/ED cũng sẽ được trang bị ổ cứng 100 GB, ổ đĩa quang hai lớp DVDRW/-RAM/+R, khe cắm đầu đọc thẻ SD/xD/MemoryStick, 4 cổng USB 2.0 và một bộ kết nối FireWire. Ngoài ra, hệ thống còn được tích hợp Gigabit Ethernet và modem 56 Kb/giây như thông thường.
+LR900/ED, trọng lượng 2 kg, sẽ hoạt động liên tục trong 4,1 giờ chỉ bằng một lần xạc. 
+Tuy nhiên, NEC chưa công bố thời điểm ra mắt thiết bị trong khi chip Yonah sẽ ra xuất hiện đầu năm 2006 như là một phần của nền tảng Centrino thế hệ 3. Hãng điện tử Nhật cũng không tiết lộ họ sẽ sử dụng phiên bản Yonah nào (1.66 GHz, 1.83GHz và 2GHz).
+

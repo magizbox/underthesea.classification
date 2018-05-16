@@ -1,0 +1,16 @@
+Khôi phục 96% ký tự nhờ ghi âm tiếng đánh máy
+Nguy cơ bảo mật mới mà các nhà khoa học máy tính tại trường đại học California Berkeley (UC Berkeley) khám phá cũng "đủ để một số người tránh xa bàn phím và quay trở lại với giấy và bút".
+Các chuyên gia đã ghi âm tiếng gõ bàn phím trong 10 phút, sau đó đưa đoạn âm thanh này vào một máy tính và sử dụng một thuật toán giải mã. Họ đã phục hồi tới 96% nội dung từ mật khẩu cho đến những tin nhắn bí mật cho người yêu
+"Đây là một dạng công cụ gián điệp dựa vào nguồn âm thanh và cần được các chuyên gia bảo mật xếp vào hàng báo động đỏ", Doug Tygar, nhà khoa học tại UC Berkeley, khuyến cáo. "Nếu chúng tôi có khả năng thực hiện điều này thì nhiều kẻ với mưu đồ đen tối khác cũng sẽ làm được như thế".
+Nguyên nhân khiến thủ thuật này khả thi là vì mỗi lệnh gõ (keystroke) tạo ra một âm thanh tương đối đặc trưng. Trung bình mỗi người gõ khoảng 300 ký tự/ phút, đủ để máy tính tách âm thanh của các keystroke và phân loại ký tự dựa trên nét đặc trưng của hệ thống chữ cái tiếng Anh. Ví dụ, chữ "th" sẽ xuất hiện thường xuyên hơn "tj", và từ "yet" phổ biến hơn nhiều so với "yrg".
+"Sử dụng nguyên lý này, máy tính có thể phân loại âm thanh khi mỗi phím được nhấn xuống và xây dựng quá trình phỏng đoán bước đầu với độ chính xác 60% ký tự và 20% từ", Li Zhuang, Trưởng nhóm nghiên cứu, cho biết. "Sau đó chúng tôi sử dụng chương trình sửa lỗi chính tả và ngữ pháp để sàng lọc lại kết quả, tăng độ chính xác về ký tự lên 70% và 50% về từ ngữ".
+Không dừng ở đó, việc phát đi phát lại đoạn ghi âm sẽ "luyện" cho máy tính nâng cao độ chuẩn xác. Trong thí nghiệm của UC Berkeley, 3 lần tua lại đủ để khôi phục 88% từ và 96% ký tự. Càng về sau, hệ thống khôi phục nội dung nhanh hơn, kể cả những thông tin như mật khẩu và không thuộc tiếng Anh. Chỉ sau 20 lần thử, họ có thể nhận dạng 90% mật khẩu 5 ký tự, 77% 8 ký tự và 69% password 10 ký tự.
+Tuy nhiên, hệ thống khó phân biệt phím Shift, Control, Backspace, Caps Lock hoặc khi sử dụng chuột. Nghiên cứu dựa trên kết quả trước đó của Dmitri Asonov và Rakesh Agrawal. Hai chuyên gia của hãng IBM đã khôi phục 80% nội dung nhờ "đào tạo" máy tính làm quen với tiếng gõ phím của một người đánh máy duy nhất trên cùng một bàn phím.
+Một đoạn thông tin mà các nhà khoa học UC Berkeley khôi phục được:
+Bản gốc (từ gạch chân là do người đánh máy gõ sai):
+the big money fight has drawn the support of dozens of companies in the entertainment industry as well as attorneys gnnerals in states, who fear the file sharing software will encourage illegal activity, stem the growth of small artists and lead to lost jobs and dimisheh sales tax revenue.
+Bản khôi phục trước khi sử dụng công cụ sửa lỗi chính tả (từ gạch chân là từ nhận dạng sai):
+the big money fight has drawn the shoporo od dosens of companies in the entertainment industry as well as attorneys gnnerals on states, who fear the fild shading softwate will encourage illegal acyivitt, srem the grosth of small arrists and lead to lost cobs and dimished sales tas revenue.
+Bản khôi phục sau khi sử dụng công cụ sửa lỗi chính tả:
+the big money fight has drawn the support of dozens of companies in the entertainment industry as well as attorneys generals in states, who fear the film sharing software will encourage illegal activity, stem the growth of small artists and lead to lost jobs and finished sales tax revenue.
+

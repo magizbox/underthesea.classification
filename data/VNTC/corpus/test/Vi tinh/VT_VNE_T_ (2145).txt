@@ -1,0 +1,6 @@
+Chip nhớ dung lượng 2,5 GB 
+Samsung đã bắt đầu đưa vào sản xuất hàng loạt gói chip nhớ tích hợp (Multi chip package - MCP) có dung lượng lớn nhằm đáp ứng nhu cầu sử dụng đa dạng cho dòng điện thoại 3G.
+Gói MCP này bao gồm 4 thành phần: 2 chip flash NAND dung lượng 1 GB và 2 chip Mobile DRAM dung lượng 256 MB. Bộ nhớ nói trên hoạt động ở điện áp 1,8 volt, cho phép lưu trữ cùng một lúc 4 giờ phim định dạng QVGA. Trước đó, công ty này cũng đã giới thiệu chi tiết về gói MCP có dung lượng lớn nhất từ trước đến nay với 8 chip thành phần, dung lượng 3,2 GB.
+MCP có nhiều điểm khác biệt so với loại chip nhớ đơn thông thường. Bộ nhớ này có cấu tạo từ nhiều thành phần riêng lẻ tích hợp trong 1 gói duy nhất và được sử dụng vào rất nhiều mục đích khác nhau. Sản phẩm còn giúp giảm đáng kể kích thước của thiết bị di động. 
+Samsung dự kiến tiếp tục sản xuất sản phẩm MCP có dung lượng lên đến 8 GB ngay trong năm nay. 
+

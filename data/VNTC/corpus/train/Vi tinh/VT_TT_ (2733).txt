@@ -1,0 +1,6 @@
+ Máy bay siêu nhỏ đã có thể bay lượn độc lập
+Khắc phục các hạn chế của phiên bản trước như: tầm bay bị giới hạn bởi chiều dài dây dẫn điện hay chỉ hoạt động trong không gian 2 chiều, phiên bản mới của mô hình này đã có thể bay lượn độc lập. 
+Những cải tiến được trang bị thêm cho rô-bốt bay siêu nhỏ là máy bay được gắn 2 động cơ siêu âm và siêu mỏng để điều khiển 2 cánh quạt nâng quay ngược chiều nhau, cộng với cơ chế ổn định truyền động tuyến tính (công nghệ mới) giúp rô-bốt có thể kiểm soát mọi tư thế trong lúc bay. Ngoài ra, các thiết bị khác trên rô-bốt đã được làm nhẹ hơn, chỉ bằng 1/5 so với thiết vị cũ cùng với cải tiến bản mạch đã tăng sức nâng động lực cho rô-bốt lên 30%, giúp rô-bốt không những bay lượn nhanh mà còn có khả năng kiểm soát đường bay. 
+Cùng với thành công của công nghệ liên lạc không dây Bluetooth, rô-bốt bay còn được tích hợp thêm bộ cảm biến hình ảnh để có thể truyền hình ảnh từ không trung về máy tính dưới mặt đất. 
+Rô-bốt bay siêu nhỏ có tổng trọng lượng là 12,3g và có thể hoạt động trong vòng 3 phút. 
+

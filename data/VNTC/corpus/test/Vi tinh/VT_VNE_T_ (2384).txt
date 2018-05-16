@@ -1,0 +1,9 @@
+Hacker đang kiểm soát hơn 1 triệu máy tính
+Bằng việc sử dụng phần mềm ký sinh (bot), tin tặc đang khống chế một số lượng máy tính khổng lồ, kết nối thành từng mạng (botnet) để phục vụ cho nhiều mục đích như thả thư rác, virus hay thực hiện tấn công từ chối dịch vụ (DoS).
+Các chuyên gia bảo mật ở Đại học Aachen (Đức) đã thực hiện một dự án mang tên Honeypot (Hũ mật) nhằm khiêu khích hacker thực hiện việc tấn công. Phần mềm được cài sẵn sẽ ghi lại mọi động tĩnh của hoạt động xâm nhập trái phép này, từ đó giúp khám phá ra nhiều thông tin gây bất ngờ cho không ít người. 
+Những phần mềm ký sinh được bí mật cài đặt lên máy tính của nạn nhân và kết nối những "PC ma" này thành từng mạng con với số lượng từ vài trăm đến khoảng 50.000 để thực hiện những mục đích riêng. Theo điều tra của hãng bảo mật iDefense (Mỹ), trong năm 2003, họ đã ghi nhận được một botnet có tới 120.000 máy tính kết nối với nhau. 
+Phishing cũng lợi dụng những mạng này để liên tục tung ra nhiều chiêu lừa đảo, thu thập thông tin cá nhân và phân phối spyware vào máy nạn nhân. 
+Sự bùng nổ của botnet đang là một vấn đề lớn, Ken Dunham, Giám đốc iDefense, nhận xét. Một đặc điểm chung của hầu hết botnet là khả năng lẩn trốn trong hệ thống của Windows. Hơn 80% số cuộc liên lạc giữa các máy trong botnet bị phát hiện đều thực hiện thông qua những cổng dịch vụ chung phổ biến trong Windows như RPC (Remote Procedure Call) hay NetBIOS Name Services&
+Một điều nguy hiểm nữa là mã khai thác lỗ hổng Windows hiện có mặt khắp nơi trên Internet, hacker chỉ việc copy rồi paste là có được công cụ để thực hiện việc tấn công. 
+Những máy tính bị điều khiển, nếu được kết nối với nhau bằng băng thông rộng sẽ càng nguy hiểm hơn bởi kẻ tấn công sẽ dễ dàng thực hiện được những mục đích không mấy tốt đẹp của chúng. 
+

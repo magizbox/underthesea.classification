@@ -1,0 +1,7 @@
+Nước có thật là H2O?
+Dù bạn có soi kỹ bao lâu đi nữa, một phân tử nước vẫn chỉ gồm 2 nguyên tử hydro gắn với 1 ôxy. Song, một thí nghiệm mới đây lại cho kết quả mâu thuẫn: rằng nước mất ít nhất một nửa số nguyên tử hydro - thực tế trở thành H1.5O - khi được xem dưới "camera" cực nhanh. 
+Camera này sử dụng các hạt hạ nguyên tử, được gọi là neutron, để thăm dò cấu trúc phân tử. Khi chiếu một chùm neutron vào một phân tử nước, trạng thái phát tán của neutron theo các hướng khác nhau sẽ cho ra bức tranh về phân tử này. 
+Thời gian "phơi sáng" của camera - thời gian mà các neutron cần để nảy khỏi phân tử nước - chưa đầy một femto giây, hay một phần nghìn triệu triệu của 1 giây. 
+Một thí nghiệm trước kia từng tìm thấy rằng các neuron phát tán như thể chỉ có một nguyên tử hydro rưỡi so với một nguyên tử ôxy. Kết quả ngạc nhiên này được lý giải rằng hai nguyên tử hydro đã vướng vào nhau trong giây lát. Hiện tượng vướng làm xoá mờ ranh giới giữa các nguyên tử hydro, vì thế chúng phát tán ít neutron hơn dự kiến. Khi thời gian phơi sáng tăng lên, hiện tượng mờ biến mất, và hai nguyên tử hydro độc lập hiện ra. 
+Tuy nhiên, các bức ảnh neutron chụp tại Viện Rensselaer Polytechnic mới đây đã tìm thấy rằng hai nguyên tử hydro thậm chí phơi sáng chỉ trong 0,001 femto giây. Với khoảng thời gian cực ngắn như vậy, về lý thuyết chúng ta sẽ nhìn thấy ít nguyên tử hydro hơn nếu hiện tượng "vướng" thực sự xảy ra. 
+

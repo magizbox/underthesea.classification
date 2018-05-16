@@ -1,0 +1,26 @@
+Cắm thẳng Modem vào Hub không qua máy chủ (3)
+Co quan em dung ADSL modem ZOOM X4. Cai qua 1 may chu , dung Wingate de share cho 15 may khac dung; May chu cai WINNT, may tram cai win98, Winxp. Hoi neu muon cam thang Modem vao Hub khong qua may chu lam the nao de cac may tram cung vao Internet duoc. Em da cam thang vao hub nhung den LAN tren modem khong sang. Cac anh chi chi giup. Xin cam on.
+Hong Phung Thanh
+Hồi âm:
+Thong thuong:
+- ADSL Modem/Router noi voi Hub bang cap thang
+- PC noi voi Hub bang cap thang
+- PC noi voi ADSL Modem/Router bang cap cheo
+Truong hop cua ban, co le ban dung cap dang noi PC voi Modem/Router (cap cheo) de noi Modem/Router voi Hub. Do do, den LAN tren Modem/Router khong sang (vi phai dung cap thang moi dung).
+Ban lay cap thang (cap noi PC voi Hub) de noi Modem/Router voi Hub (den LAN tren Modem/Router se sang). Sau do cau hinh cac may tram cung lop mang voi Modem/Router va gateway la dia chi cong LAN cua Modem/Router.
+Lu Cam Thanh
+Gửi bạn Hong Phung Thanh,
+Việc sử dụng modem ADSL gắn trực tiếp vào Switch lại dễ hơn cái mà bạn đã làm được là sử dụng 1 máy phục vụ (server) có cấu hình proxy rất nhiều.
+Tuy nhiên, có lẻ bạn quên mất là khi cắm modem ADSL trực tiếp bằng port RJ45 vào Switch, đòi hỏi phải sử dụng cross over cable (thường gọi là cáp chéo).
+Đó mới chỉ là bước khắc phục tình trạng hiện thời mà bạn đang gặp: đèn LAN của modem ADSL không sáng.
+Kế tiếp, bạn phải hướng cái máy muốn ra internet đến default gateway là IP của modem ADSL (thường Zoom chọn IP là 10.0.0.2 cho modem ADSL)
+Đó mới chỉ là cách xử lý cho nhu cầu của bạn: gắn trực tiếp modem ADSL vào Switch để các máy trong mạng LAN ra Internet.
+Nhưng bạn sẽ phải đối mặt với hàng loạt các vấn đề có liên quan như: 
+- Sử dụng DHCP nào để cung cấp cho máy clients trong mạng (DCHP của modem hay của server, bỏ qua điều này nếu bạn cài đặt IP tĩnh cho clients)
+- Loại bỏ proxy server nếu không sử dụng nữa.
+- Và quan trọng nhất: bạn sẽ thật khó để kiểm soát các máy trong mạng LAN truy cập/không được truy cập cái gì, firewall, diệt virus ra sao?
+Tóm lại, cần phải cân nhắc thật kỹ để chọn giải pháp phù hợp với khả năng quản lý mạng của mình, với qui mô hiện tại và mở rộng trong vài năm tiếp theo, và nhất là về tài chính của công ty bạn. Không nên mỗi lần quyết định chọn giải pháp nào, chúng ta lại xóa hết, làm lại.
+Chúc bạn đạt được kết quả tốt nhất.
+Hoang Tri Dung
+Bạn dùng 1 dây cáp chéo nối từ modem ra HUB (chú ý cắm vào cổng Up;ink nếu modem đó có cổng Uplink) Nếu ko có thì cắm vào đâu cũng được! Đặt IP của Modem cùng dải với các máy tính trong mạng LAN. Các máy trạm có cùng dải IP và Gateway là địa chỉ của Modem. Chúc thành công. 
+

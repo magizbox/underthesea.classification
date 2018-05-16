@@ -1,0 +1,5 @@
+Lưu toàn bộ trang web mình thích (1)
+Trên mạng có rất nhiều trang web hay, ví dụ như trang hướng dẫn tạo web cho riêng mình. Em muốn lưu toàn bộ trang web đó lại để lưu vào đĩa cd sau đó đem về máy (vì em truy cập ở dịch vụ) xem nhưng khi nhấn save as thì chỉ lưu được trang đầu thôi, các thư mục con và những hình ảnh thì mất tiêu không vào được. Xin hỏi có cách nào lưu toàn bộ trang web hay không? 
+Hồi âm:
+Chao bạn. Ban vao save as - ở save type as bạn chọn web archive, single file (.mht) sau đó OK. Thế là xong. 
+

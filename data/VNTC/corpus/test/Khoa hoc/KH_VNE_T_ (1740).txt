@@ -1,0 +1,6 @@
+Honda ra mắt thế hệ Asimo mới
+Asimo mới có thể đi bộ tay nắm tay với con người, sử dụng xe đẩy để chở đồ vật hay đảm nhiệm vai trò của một nhân viên lễ tân, hướng dẫn thông tin cũng như nhân viên vận chuyển. 
+Khả năng chạy của người máy cũng được cải thiện đáng kể, vận tốc đạt tới 6 cây số một giờ và có thể chạy theo vòng tròn.
+Asimo được trang bị khả năng nhận biết môi trường xung quanh nhờ các bộ cảm biến thị giác, cảm biến mặt sàn, cảm ứng sóng siêu âm và bộ thẻ IC Tele-interaction Communication do người sẽ giao tiếp với Asimo nắm giữ. Bằng việc bổ sung thêm tính năng giao tiếp thị giác vào thẻ IC nên người máy có thể xác định vị trí và sự hiện diện của một người hay một vật dễ dàng. Khi sử dụng thẻ này, Asimo có thể nhận biết được địa điểm và đặc điểm của một người tại bất kỳ điểm trong phạm vi 360 độ tính từ chỗ nó đứng. Thông qua việc sử dụng kết hợp camera quan sát đặt ở đầu và bộ cảm biến lực trên cổ tay, Asimo có thể giao và nhận đồ vật rất kịp thời chẳng hạn như khay, cốc. Nó còn có khả năng nắm tay và di chuyển rất khớp với con người.
+Honda sẽ bắt đầu vận hành thế hệ Asimo mới vào mùa xuân 2006 tại trụ sở, người máy mới cũng sẽ được cho thuê. 
+

@@ -1,0 +1,21 @@
+ Làm sạch bàn phím Để làm vệ sinh bàn phím, bạn cần các vật dụng như tuốc-nơ-vít 2 cạnh cỡ trung bình, giấy dai và không để lại xơ, chổi nhỏ lông cứng (loại thường dùng để quét sơn), máy sấy tóc, nước sạch, cồn 70 độ, nước rửa bát, mỡ bôi trơn silicon. 
+Bước 1: 
+Tắt máy tính, tháo dây bàn phím (nếu có), đặt bàn phím ở nơi thoáng mát và đủ ánh sáng để có thể dễ dàng thao tác. 
+- Đặt bàn phím trên một mặt phẳng (bàn hay mặt đất sạch sẽ đều được), dùng chổi nhỏ quét nhẹ trên bàn phím để bay hết bụi bẩn nhỏ bám trên bề mặt các phím và khe dưới các phím bấm. Chú ý nên dựng đứng bàn phím khi quét. 
+- Lấy giấy ăn thấm một chút nước (đủ ẩm là được), lau nhẹ qua bề mặt bàn phím và các phím. 
+- Để bàn phím khô từ 2 đến 3 phút. 
+Bước 2: 
+- Dùng tay thuận cầm tuốc-nơ-vít, lấy ngón tay trỏ của tay không thuận làm điểm tựa cho tuốc-nơ-vít để bẩy phím, bắt đầu từ phím Ctrl bên trái, sau đó tới phím windows logo, phím Alt... Riêng những phím lớn như Space bar, Enter, Shift, Backspace (nếu lớn), phím 0-Ins bạn nên nhấc ra cuối cùng vì nó là phím tháo ra khó nhất, rất dễ bị vỡ hay nứt. Tháo phím nhẹ nhàng, không quá thô bạo với phím nào cứng đầu, vì nó đang bị níu giữ bởi những chất bẩn bên dưới phím. 
+- Sau khi tháo xong, nên cất riêng các phím, nếu không sẽ bị thất lạc và gây phiền hà nhiều về sau khi tìm phím thay thế. 
+- Với bàn phím có dây, dùng giấy thấm chút cồn, vuốt nhẹ đoạn dây cắm để làm sạch. 
+Bước 3: 
+- Bây giờ bạn dựng đứng bàn phím lên, dùng chổi nhỏ quét nhẹ nhàng nhưng thật kỹ. 
+- Sau khi quét, dùng giấy ăn thấm một chút cồn, lau đều các khe kẽ này cho sạch và để khử mùi; thấm chút nước rửa bát lau nhẹ nhàng và đều tay để rửa sạch những vết bẩn khó tẩy (tránh để nước rửa rớt vào bên trong các phím nẩy bằng nhựa dẻo dưới bàn phím). 
+Bước 4: 
+- Trong lúc lau quét phần chính của bàn phím, đưa các phím đã tháo rời ra vào trong một chậu nước sạch, ngâm từ 5 đến 10 phút. Sau khi ngâm, dùng giấy ăn mềm có thấm cồn (hoặc nước rửa bát tùy độ bẩn bám vào phím) lau kỹ từng phím. 
+- Sau khi lau sạch các phím, tiếp tục ngâm nước chừng 5 phút, sau đó lau khô hoặc sấy với máy sấy để chế độ mát (sấy nóng sẽ gây nứt và vỡ phím). 
+Bước 5: 
+- Lấy một chút mỡ silicon bôi đều vào thành trong và ngoài các lỗ bấm chứa phím, việc bôi mỡ vào sẽ giúp phím gõ được nhạy hơn, êm hơn. 
+- Lắp lại các phím vào bàn phím theo thứ tự ngược lại với lúc tháo ra, không tì quá mạnh để tránh những tổn thương không đáng có. 
+Vậy là bạn đã hoàn thành công việc bảo trì bàn phím của chính mình mà không cần đến sự trợ giúp của các kỹ thuật viên máy tính. Giờ là lúc bạn thực hiện công việc làm sạch bàn phím và tăng thêm niềm cảm hứng làm việc. Lưu ý: Mỡ bôi trơn silicon có thể mua tại các cửa hàng đồ điện ở chợ Nhật Tảo (TPHCM) hoặc chợ Hòa Bình (Hà Nội). Nên dùng hạn chế, vì bôi nhiều sẽ có mùi chua khó chịu. 
+

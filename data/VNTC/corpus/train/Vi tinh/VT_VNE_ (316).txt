@@ -1,0 +1,4 @@
+HalfLife không chạy trong mạng
+Hiện em đang có phòng máy Internet và games sử dụng Win2k Pro và sử dụng FAT NTFS. Em tạo một User cho nó và em dùng chức năng security của FAT NTFS để ngăn không cho người dùng sử dụng cài đặt chương trình mà khách download xuống. Sau khi em setup toàn bộ rồi chuyển sang chế độ User và cấp quyền User xong rồi thì những chương trình đều chạy tốt, riêng game HalfLife nó không chịu chạy, nhưng nếu để sang chế độ Administrator thì nó chạy tốt. Em không biết làm cách nào. Xin các anh chị chỉ giúp. Chân thành cảm ơn.
+Huy Vũ
+

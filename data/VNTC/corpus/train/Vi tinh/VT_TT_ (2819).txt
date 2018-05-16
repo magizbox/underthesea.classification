@@ -1,0 +1,5 @@
+ Red Hat ban hành Fedora Core 2 
+Mặc dù Fedora có thể được tải miễn phí nhưng nó lại thiết sự hỗ trợ về lâu dài từ Red Hat và các đối tác phần cứng và phần mềm khác như IBM và Oracle. 
+Nằm trong số các đặc tính mới của Fedora Core là lõi 2.6 (mã nâng cấp cho Linux) với khả năng hoạt động tốt hơn trên hệ thống có nhiều bộ vi xử lý, và "Security-Enhanced Linux" với khả năng ngăn chặn hiệu quả các hoạt động bất hợp pháp trên hệ thống. Theo Red Hat, các tính năng này sẽ được tích hợp với RHEL 4, dự kiến vào khoảng đầu năm 2005. 
+Cấu hình tiêu chuẩn của Fedora Core 2 là: Pen 200MHz, RAM 64MB (đối với người dùng không sử dụng các tính năng đồ họa); và Pen 400MHz, RAM 256 (sử dụng các tính năng đồ họa). 
+

@@ -1,0 +1,5 @@
+Cẩn thận với spam ngày cá tháng tư
+Hãng bảo mật Barracuda vừa cảnh báo những trò lừa đảo thư rác trong mấy ngày tới. Kẻ gửi spam nhiều khả năng sẽ dùng những tiêu đề như great jokes, free jokes hay April fools để lừa người ta mở các e-mail vớ vẩn.
+Phát tán thư rác trong các dịp lễ tết là một thói quen thường thấy nhằm mời mọc khách hàng mua các loại quà tặng. Tuy nhiên, do chẳng có mồi câu thương mại nào trong ngày cá tháng tư, spam dịp này có thể mang nhiều nội dung nguy hại hơn, chẳng hạn virus.
+Ngoài những biện pháp thường ngày như khóa IP của kẻ gửi spam, kiểm tra e-mail tới từ những địa chỉ không có thực, Barracuda cũng gợi ý các công ty có thể thay đổi trình lọc của mình, thêm vào một số cụm từ lọc liên quan tới ngày 1/4.
+

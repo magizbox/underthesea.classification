@@ -1,0 +1,9 @@
+Tìm thấy protein phát triển ung thư da
+Mỹ vừa phát hiện một protein có tên là collagen VII, đóng vai trò quan trọng trong quá trình di căn của bệnh ung thư da chết người.
+Bình thường, protein collagen VII giúp cho da mau lành và khoẻ mạnh. Tuy nhiên, một khi da bị bệnh, nó sẽ hỗ trợ tế bào ung thư di căn tới các tổ chức khác trong cơ thể.
+Các nhà khoa học đến từ Đại học Stanford đã tập trung tìm hiểu collagen VII vì nó có liên quan đến chứng rối loạn da cấp gọi tắt là RDEB - căn bệnh dễ phát triển thành bệnh ung thư biểu mô tế bào vẩy. RDEB thực chất là do đột biến gene gây nên, khiến cho protein collagen VII thay đổi theo hai hướng: một là biến mất và hai là còn sót lại một mảnh.
+Người ta đã nghiên cứu mẫu da của 12 trẻ bị RDEB. Bằng các dụng cụ trong phòng thí nghiệm, họ kích hoạt các trạm phân tử chuyển hóa tế bào da thành ung thư. Quan sát cho thấy có 4 trong 12 mẫu da đã không thể chuyển thành ung thư, cho dù đã được kích thích. Chúng thuộc về những đứa trẻ bị thiếu hoàn toàn collagen VII. Còn tất cả các mẫu bệnh phẩm dễ phát triển thành ung thư thì mang mảnh collagen VII sót lại.
+Kết luận đưa ra là những đứa trẻ còn mang tàn tích của protein collagen VII sau đột biến mới dễ bị ung thư da. Chính mảnh này đã tạo điều kiện cho các tế bào ung thư da tấn công tế bào thường và di căn tới các bộ phận khác. 
+Đáng chú ý là khi nhóm nghiên cứu dùng một kháng thể để khống chế mảnh collagen VII "tác quái", da đã không bị ung thư. Thử nghiệm trên chuột cũng cho kết quả tương tự. Điều này chứng tỏ hoàn toàn có thể ngăn chặn được sự phát triển của căn bệnh ung thư da.
+Tuy nhiên, do quá trình phát triển ung thư ở người và chuột hoàn toàn khác nhau nên vẫn cần được nghiên cứu sâu hơn. trưởng nhóm nghiên cứu Paul Khavari nhấn mạnh. Mặc dù vậy, phát hiện mới cũng mở ra hy vọng về các phương pháp mới trong điều trị ung thư da.
+

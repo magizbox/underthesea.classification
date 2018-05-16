@@ -1,0 +1,8 @@
+ Ngừng phát triển Mac's Windows Media Player
+Với mục đích tập trung mọi nguồn lực có thể để phát triển Windows Vista, Microsoft thông báo họ sẽ dừng việc phát triển chương trình chơi các tập tin media của mình là Windows Media Player dành cho máy Mac. 
+Thay vào đó, phiên bản Windows Media dành cho Windows sẽ được tiếp tục được phát triển để có thể trở thành một chương trình chơi media thông dụng nhất, một phiên bản Windows Media Player mới với những tính năng gây ngạc nhiên cho người dùng, theo ngôn ngữ của Microsoft. 
+Tuy nhiên, người dùng máy Mac sẽ không bị bỏ rơi, khi mà Microsoft sẽ cho phát hành một chương trình con có thể cài vào trong Quicktime, chương trình chơi media phổ biến trên hệ máy Mac, để chương trình này có thể chơi và điều khiển dễ dàng mọi tập tin video và âm thanh theo định dạng của Microsoft. 
+Microsoft cũng cho biết, chương trình Windows Media Player dành cho máy Mac đã lâu rồi không được nâng cấp, cho nên, việc nâng cấp plug-in dành cho Quicktime sẽ cho chất lượng âm thanh và hình ảnh tốt hơn, tính tương thích cũng cao hơn. 
+Tuyên bố này của Microsoft cũng có thể dễ hiểu, bởi lẽ thị phần máy tính Apple chỉ chiếm khoảng 4%, không thể so sánh với tính phổ biến và đa dụng của các máy PCs hiện nay. Năm vừa rồi Microsoft cũng đã tuyên bố dừng hỗ trợ cho trình Mac IE (Internet Explorer). 
+Điều này chưa chứng tỏ điều gì cho sự "rạn vỡ" giữa Microsoft và Apple, bởi lẽ, mới đây, Apple và Microsoft cũng đã ký kết một hợp đồng 5 năm để phát triển bản Office thương mại dành cho hệ máy Apple. Microsoft cũng sẽ còn thu được khá nhiều tiền từ thị trường máy Mac. Phiên bản Office thương mại này sẽ có giá từ 199 USD đến 499 USD. 
+

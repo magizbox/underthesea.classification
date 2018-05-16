@@ -1,0 +1,5 @@
+HP tung ra laptop Linux đầu tiên
+Hãng HP vừa đưa ra thị trường loại máy tính xách tay dành cho doanh nghiệp Compaq nx5000 được cài sẵn SUSE Linux của Novell. Đây là dòng laptop sử dụng hệ điều hành mã nguồn mở đầu tiên trên thế giới.
+Phát ngôn viên Jeffrey Wade của HP cho biết, loại máy tính xách tay này là kết quả mới nhất của sự hợp tác giữa HP và Novell, được thiết lập trên cơ sở xây dựng thị trường cho máy tính sử dụng hệ điều hành Linux nhằm đáp ứng nhu cầu của các doanh nghiệp muốn tích hợp phần mềm mã nguồn mở vào hệ thống. 
+Máy tính xách tay Compaq nx5000 dùng hệ điều hành SUSE Linux được trang bị phần mềm văn phòng OpenOffice, hỗ trợ CD-R/RW, DVD, trình đa phương tiện, kết nối không dây và Bluetooth. Sản phẩm này được HP hỗ trợ kỹ thuật và bảo đảm dịch vụ hậu mãi toàn phần, có giá bán lẻ tại thị trường Mỹ là 1.140 USD.
+

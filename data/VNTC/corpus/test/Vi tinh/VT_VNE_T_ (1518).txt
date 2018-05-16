@@ -1,0 +1,8 @@
+Microsoft đưa ra bản vá lỗi Internet Explore 6
+Ngày hôm qua, nhà sản xuất phần mềm Mỹ đã cung cấp cho khách hàng sử dụng hệ điều hành Windows chương trình xử lý lỗi bảo mật trong trình duyệt IE 6, phát hiện tháng trước và đã bị hacker lợi dụng đế tấn công. 
+Bản vá lỗi này khắc phục sự cố xảy ra khi trình duyệt IE thực thi các thẻ "frame" và "iframe" trong HTML (Hypertext Markup Language). Kể từ khi được phát hiện cho đến nay, lỗi này đã bị các biến thể khác nhau của sâu MyDoom và Bofra khai thác nhằm tấn công máy tính của người dùng. Hãng bảo mật Secunia (Đan Mạch) và CERT (Mỹ) đều đánh giá lỗi đó là nghiêm trọng vì cho phép những kẻ tấn công có thể dễ dàng điều khiển và kiểm soát hệ thống.
+Microsoft đã bị chỉ trích khá nhiều về thái độ thiếu trách nhiệm khi xảy ra lỗi. Họ buộc phải cập nhật phiên bản nâng cấp này một cách bất thường vào ngày hôm qua thay vì cung cấp nó trong bản update hàng tháng chuẩn bị được tung ra vào ngày 7/12 tới. 
+"Chúng tôi đưa ra chương trình vá lỗi này vì nhận được thông tin về một số cuộc tấn công vào khách hàng, mặc dù phạm vi của những vụ xâm nhập trái phép này không lớn và cũng không lây lan rộng", Stephen Toulouse, chuyên gia quản lý chương trình bảo mật của Microsoft, cho biết. 
+Những phiên bản Windows XP đã cài đặt Service Pack 2 (SP2) không bị lỗi. Ảnh hưởng chỉ xảy ra ở IE 6 với SP1 được cài cùng Windows XP, Windows 200 hay Windows 98. Một vài phiên bản Windows NT Server 4.0 cũng có thể bị tác động của lỗi nói trên.
+Xem chi tiếttại đây.
+

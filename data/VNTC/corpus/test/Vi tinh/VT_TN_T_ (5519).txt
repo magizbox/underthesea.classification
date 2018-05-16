@@ -1,0 +1,14 @@
+Chắc hẳn bạn đã từng dạo bước quanh một phòng triển lãm mỹ thuật, một viện bảo tàng tranh để chiêm ngưỡng các tác phẩm được trình bày trang trọng trên tường. Với máy vi tính và những hình ảnh kỹ thuật số của riêng mình, bạn cũng có thể tạo nên một phòng trưng bày ảo dưới dạng 3D, chuyển thành một screensaver ngoạn mục.
+Rất nhiều tiện ích giúp chúng ta tạo riêng cho mình một screensaver (trình bảo vệ màn hình). Trong đó, để chuyển hình ảnh kỹ thuật số thành những bức tranh treo trong phòng trưng bày dưới dạng 3D, bạn có thể dùng My Pictures 3D.
+Chương trình có dung lượng 4,74MB, tương thích với Windows 9x trở lên. Nếu máy tính có gắn card tăng tốc đồ họa thì chương trình sẽ hoạt động mạnh hơn, tạo screensaver đẹp hơn. Miễn phí, tải về từ địa chỉ www.mypictures3d.com.
+Sau khi cài đặt chương trình, thực hiện các thao tác sau để tạo một phòng trưng bày ảo:
+- Xem một bức tranh với My Pictures 3D: Mở thư mục chứa hình ảnh trong máy tính. Bấm nút phải chuột vào hình, từ menu bấm chọn View in 3D.
+- Các quy định để tạo một Screensaver:
+Bấm Start\Programs\My Pictures 3D\Configure screen saver để gọi ra hộp My Pictures 3D.
+Thẻ Gallery: Nơi bấm chuột để chọn cách hiển thị của phòng trưng bày là Random, Yard hoặc ShowRoom. Bấm nút Select Pictures để thực hiện việc chọn hình ảnh treo trong phòng trưng bày, khung trên cùng phía bên trái là nơi chúng ta bấm chuột để chỉ đến vị trí thư mục chứa hình ảnh có trong thiết bị lưu trữ. Khi chọn xong thư mục, các hình ảnh sẽ được liệt kê ở khung Images in this folder. Bấm chuột chọn hình muốn trưng bày, bấm nút có dấu &gt; để chuyển hình đó qua khung bên phải. Muốn chuyển toàn bộ hình ảnh của thư mục thì bấm nút &gt;&gt;. Để loại bỏ một hình khỏi phòng trưng bày, bấm chuột chọn nó rồi dùng nút &lt;. Bấm OK để hoàn tất việc chọn hình.
+Thẻ Advanced: Quy định những tùy chọn cho độ phân giải hình ảnh, chất lượng của việc hiển thị. Muốn có thêm các dòng trợ giúp và câu giới thiệu về My Pictures 3D thì giữ nguyên các đánh dấu mặc định trong khung Video Option, khi đã quen dùng chương trình này thì có thể bỏ đánh dấu để màn hình được sạch hơn. Quy định tốc độ dịch chuyển trong phòng, chiều cao so với tầm nhìn của khách tham quan tại khung Walk Options.
+Thẻ Installed Gallery: Cho phép chúng ta cài thêm nhiều bộ sưu tập khác từ website hoặc từ đĩa.
+Bấm nút Preview để xem trước thành quả. Khi đã chỉnh sửa theo đúng ý thích, bấm nút OK để hoàn tất quá trình tạo phòng trưng bày mỹ thuật ảo dưới dạng một screensaver.
+Trong quá trình chiêm ngưỡng phòng trưng bày ảo, chúng ta có thể bấm phím F1 để tạm dừng việc chuyển cảnh tự động. Thay vào đó là dùng chuột để tự mình tham quan theo ý thích, nút phải chuột để tiến lại gần, nút trái là để lùi xa, dịch chuyển chuột tới lui, qua trái-phải để dạo quanh gian phòng.
+Hy vọng My Pictures 3D là một tiện ích đem lại cho bạn những phút giây thư giãn thú vị.
+

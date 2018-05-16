@@ -1,0 +1,6 @@
+In chữ có dấu trong e-mail (1)
+Kính gửi cac Anh Chi. Tôi có một máy laptop Dell Latitude PII, 96MBram đang chạy trên HDH window 98 SE. Tôi gõ email bằng VNI, Vietkey 2000-unicode trên màn hình hiển thi chữ có dấu đầy đủ nhưng khi in ra thì những chữ có dấu ớ, dấu nặng thay bằng dấu hỏi rất khó đọc (máy in Brother HL-1430 va Laser shot LBP-1120 cả 2 đều là loại mới đang thông dụng). Nhờ các anh chị chỉ giúp cách khắc phục. Chân thành cảm ơn.
+Nguyen Hung
+Hồi âm:
+Muon in duoc chu co dau, o phan printer setup ban phai chon (true type fonts) hay ( raw) mode may in brother 1430 co ho tro true type fonts, ban xem cach setup brother 1430 cho he dieu hanh 98se link: http://solutions.brother.com/Library/sol/printer/euro_98_me.html 
+

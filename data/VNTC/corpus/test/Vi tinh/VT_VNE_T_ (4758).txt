@@ -1,0 +1,6 @@
+Cisco vá lỗi được công bố tại diễn đàn Black Hat 
+Tập đoàn giải pháp mạng Mỹ đã cung cấp bản sửa cho lỗ hổng bảo mật nghiêm trọng thứ hai mà họ tìm thấy trong IOS, hệ điều hành hỗ trợ cho thiết bị định tuyến của hãng.
+Cisco cho biết trong những tình huống cụ thể, hacker có thể khai thác lỗi để kiểm soát toàn bộ thiết bị định tuyến bằng cách lừa công cụ bấm giờ hệ thống và tận dụng thành công các khiếm khuyết của gói IPv6 để chạy mã nguy hiểm. 
+Hãng này khẳng định lỗi vẫn chưa bị khai thác dù đã có một cuộc đua của hacker tại diễn đàn Black Hat hồi tháng 6 (Las Vegas, Mỹ) nhằm xâm nhập vào hệ thống. Chuyên gia phân tích Michael Lynn, người tìm ra lỗ hổng, bị kiện vì ông đã đặt hệ thống vào tình trạng nguy hiểm. Tuy nhiên, Lynn cho rằng viễn cảnh sẽ rất ảm đảm nếu một cuộc tấn công IOS diễn ra bởi hệ điều hành của Cisco được coi là "Windows XP của Internet".
+Tải bản vá lỗi tại đây.
+

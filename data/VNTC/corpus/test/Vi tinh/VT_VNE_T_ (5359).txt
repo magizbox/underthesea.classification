@@ -1,0 +1,23 @@
+Trình duyệt tương tác: Quá khứ, hiện tại và tương lai
+Khi Tim Berners-Lee giới thiệu ứng dụng web cho máy khách đầu tiên đúng ngày Giáng sinh 15 năm trước (25/12/90), ông muốn mang đến một công cụ sáng tạo, hỗ trợ mọi người tổ chức và chia sẻ thông tin một cách sinh động, ngộ nghĩnh và mới lạ.
+Trình duyệt tròn 15 tuổi
+Điều khiến Berners-Lee ngạc nhiên về sự phát triển của công nghệ browser không phải là việc một công ty duy nhất - Microsoft - lại chiếm tới 85% thị trường mà là có quá nhiều người sử dụng trình duyệt dù nó không thực sự linh động.
+Giám đốc tổ chức chuẩn World Wide Web (W3C) tự hào rằng trình duyệt đã phát triển từ một hiện tượng công nghệ mang tính hàn lâm thành công cụ đóng vai trò không thể thiếu trong cuốc sống của hàng triệu con người trên thế giới. Dù vậy, ông vẫn nghĩ rằng phần mềm hiện nay vẫn hạn chế mọi người nhập và sử dụng thông tin.
+"Chúng ta đang sống trong năm 2005 và tận mắt theo dõi sự biến đổi từng ngày của trào lưu phần nào mang tính nổi loạn vớiblog và wiki, tạo điều kiện cho mọi người có thể chỉnh sửa ngay trên trang", Berners-Lee nói. "Về phương diện nào đó, nó tương tự như ý tưởng ban đầu của tôi là muốn mọi người có thể biên tập và sáng tạo, có khả năng viết ngang bằng với đọc".
+Vị lãnh đạo của W3C khẳng định ông ủng hộ làn sóng công nghệ "tự xuất bản" như web cá nhân, RSS feed và wiki, đối ngược với hệ thống browser và site hiện được kiểm soát chặt chẽ và sở hữu chủ yếu bởi các doanh nghiệp.
+"Sẽ là sai lầm nếu cho rằng trình duyệt là một cái gì đó hoàn toàn xác định và không thay đổi. Chúng ta sẽ còn chứng kiến nhiều sự chuyển dịch lớn trong thời gian tới", Berners-Lee nhấn mạnh.
+Firefox khẳng định mình
+Việc nâng cao khả năng chủ động về nội dung của người sử dụng là đã tác động mạnh đến thế giới trình duyệt năm 2005, đặc biệt nhờ sự nổi lên của công nghệ mã mở.
+Firefox có lẽ là ví dụ điển hình nhất của xu thế đổi mới mà giới quan sát tin rằng thị trường tương lai sẽ hướng tới. Trình duyệt phát hành cuối năm 2004 bởi tổ chức mã mở Mozilla đã thu hút sự chú ý lớn trong năm nay.
+Với hơn 100 triệu lượt tải, Firefox không chỉ gây ấn tượng với người sử dụng mà còn buộc Microsoft phải thay đổi theo bằng cách cung cấp tính năng duyệt theo tab cho bản nâng cấp của Internet Explorer 6 và trình duyệt đang trong giai đoạn thử nghiệm giới hạn Internet Explorer 7 hay tập trung hơn vào vấn đề bảo mật.
+Brendan Eich, tác giả ngôn ngữ lập trình web phổ biến JavaScript, đã ghi nhận nhiều sự kiện từ những ngày đầu tiên ông soạn mã cho Netscape, "cựu vô địch" trình duyệt đã được chuyển giao cho nhà cung cấp dịch vụ Internet America Online.
+Vị giám đốc kỹ thuật tại Mozilla này tin rằng nguyên nhân mọi người có phản ứng tích cực trước Firefox là do nó không chỉ là một lựa chọn thay thế cho sản phẩm của Microsoft mà nó còn gần gũi với những đề xuất ban đầu của Berners-Lee.
+"Một sân chơi mới chưa từng xuất hiện trên bất cứ phương tiện truyền thông nào đang hình thành rõ nét hơn qua các công cụ wiki và blog. Web cũng đang trở thành phương tiện giá rẻ giúp mọi người tìm kiếm và trao đổi qua những hệ thống như eBay", Eich nhận xét.
+Eich còn cho rằng Microsoft đang cố tình làm chậm quá trình phát triển của thị trường browser với hệ điều hành Windows độc quyền và Internet Explorer mặc định trong hầu hết máy tính trên toàn thế giới. Dù vậy, hãng phần mềm khổng lồ Mỹ cũng đã bắt đầu hỗ trợ một số chuẩn mở tương tự trong sản phẩm của Mozilla.
+Một động lực khác trên thị trường trình duyệt thương mại là Safari của Apple, ra mắt tháng 1/2003, nhưng vẫn chỉ chiếm 3% thị phần. Tuy cơ sở khách hàng tương đối nhỏ, Chris Bourdon, Giám đốc sản xuất của Apple, khẳng định họ sẽ sớm giành được lượng khách hàng đông đảo hơn nhờ sử dụng những chuẩn tạo ứng dụng trình duyệt mới nâng cao khả năng tương tác và tránh cho browser không quá phụ thuộc vào hãng sản xuất.
+Thâm nhập thế giới di động
+Một trong những xu hướng lớn nhất trong ngành công nghiệp trình duyệt những năm tới là sự du nhập vào thiết bị di động, trong đó có điện thoại thông minh (smartphone).
+Microsoft đã tạo phiên bản Window Mobile riêng và Apple cũng đăng ký một số bản quyền cho công nghệ xuất hiện trong sản phẩm của hãng thiết bị cầm tay Nokia. 
+Nate Root, chuyên gia phân tích của hãng nghiên cứu Mỹ Forrester, cho rằng chiếc vương miện trong ngành công nghiệp trình duyệt có lẽ sẽ không thuộc về những người chơi mới, nhưng tương lai của một số công ty như Macromedia (thuộc Adobe) sẽ phụ thuộc vào mạng không dây.
+"Flash đã chứng tỏ tính hữu ích trong việc tải nội dung và xây dựng website. Nhưng chương trình Flash và nền Flex của Macromedia còn có thể phát huy tác dụng khi xây dựng ứng dụng tương tác phù hợp với kích thước màn hình nhỏ", Root khẳng định.
+

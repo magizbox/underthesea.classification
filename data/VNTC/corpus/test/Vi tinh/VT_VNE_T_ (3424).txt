@@ -1,0 +1,24 @@
+Intel - AMD tiếp tục cuộc đấu pháp lý 18 năm
+AMD đang tiến hành một vụ kiện chống độc quyền quy mô lớn với Intel. Họ tuyên bố hãng sản xuất chip lớn nhất thế giới đã lạm dụng vị thế của mình để ép buộc khách hàng không dùng sản phẩm AMD.
+AMD đã trình đơn kiện lên Tòa án bang Delaware (Mỹ), khẳng định rằng có tới 38 công ty trên ba châu lục, từ những hãng sản xuất máy tính lớn như Dell, Sony và Hewlett-Packard cho đến nhiều công ty xây dựng hệ thống, nhà phân phối, đại lý bán lẻ như Office Depot hay Fry bị Intel gây sức ép.
+Cáo buộc dài 48 trang cho rằng Intel đã dùng tiền và quyền lực của mình để hỗ trợ nhiều công ty trái phép nhằm giành phần thắng về doanh thu hoặc đe dọa những công ty sử dụng hoặc bán sản phẩm của AMD. 
+AMD trích dẫn lời Giám đốc điều hành Michael Capellas của nhà cung cấp máy tính Compaq rằng ông này được yêu cầu ngừng mua chip AMD, nếu không Intel sẽ không cung cấp một số bộ phận cần thiết cho server. Intel cũng đã làm tất cả những gì có thể để cản trở AMD tung ra hai sản phẩm gần đây bằng cách đe dọa những hãng đối tác như Acer, Lenovo, NEC và HP. Thậm chí, AMD cho rằng Craig Barrett, cựu Giám đốc điều hành Intel, đã đến gặp chủ tịch tập đoàn Acer và tuyên bố hãng sẽ phải chịu "hậu quả nghiêm trọng" nếu tham gia hỗ trợ việc giới thiệu chip Athlon 64.
+Tom Beermann, phát ngôn viên của Intel, khẳng định thiết bị vi xử lý của Intel hoạt động trên hệ điều hành Windows hiện nay chiếm tới 80% và đạt doanh thu 90% trên thị trường thế giới: "Intel luôn cạnh tranh lành mạnh nhưng AMD một lần nữa lại chọn cách kiện cáo thành công của Intel với những lời cáo buộc vô cớ và mang tính võ đoán". Beermann cho biết hãng vẫn chưa nhận được thông báo chính thức từ phía AMD hay tòa án Mỹ, do đó "sẽ không đưa ra bất cứ lời bình luận nào".
+Vụ kiện tụng này diễn ra ngay sau cuộc điều tra chống độc quyền đối với Intel của Ủy ban thương mại Nhật JFTC. Trong tháng 3, JFTC đã nhận thấy Intel cạnh tranh không lành mạnh tại thị trường thiết bị vi xử lý Nhật Bản. Theo JFTC, vẫn chưa có kết luận cuối cùng về vụ việc này do nhiều cản trở từ phía Intel. Công ty con của Intel tại Nhật đã chấp thuận hạn chế một số hình thức kinh doanh nhất định, nhưng tuyên bố không tán thành kết quả điều tra của JFTC. 
+Liên minh châu Âu cũng khẳng định sẽ hợp tác với giới quan chức Nhật để tiến hành cuộc thanh tra về khả năng xâm phạm luật chống độc quyền của Intel.
+Lịch sử đối đầu giữa AMD - Intel
+1968: Intel được thành lập bởi Bob Noyce và Gordon Moore. 
+1969: AMD được Jerry Sanders và nhóm nhân viên cũ của Fairchild Semiconductor sáng lập. 
+Đầu những năm 80: IBM chọn sử dụng chip x86 của Intel và hệ điều hành phần mềm DOS của Microsoft. Để tránh quá phụ thuộc vào chip của Intel, IBM yêu cầu hãng này tìm cho mình một nhà cung cấp thứ hai.
+1982: Intel và AMD ký thỏa thuận trao đổi công nghệ, biến AMD thành nhà cung cấp thứ hai. Hợp đồng này tạo cơ hội cho AMD tiếp cận công nghệ chip thế hệ hai 286 của Intel.
+1984: Intel lập kế hoạch để phát triển độc lập chip 386 thế hệ ba, mà AMD khẳng định đó chính là một phần trong kế hoạch bí mật của Intel nhằm độc quyền chip máy tính. 
+1987: AMD trình văn bản pháp lý tranh chấp chip 386.
+1991: AMD khởi tố Intel thực hiện những hành động trái pháp luật trong việc duy trì độc quyền.
+1992: Tòa án yêu cầu Intel bồi thường AMD 10 triệu USD cho mỗi mẫu sáng chế Intel sử dụng trong thiết bị xử lý 386.
+1995: AMD tiếp tục cuộc tranh chấp với Intel về thoả thuận chia sẻ một phần trong thiết kế chip x86 - cấu trúc chip cơ bản trong máy tính cá nhân ngày nay.
+1999: Giành được quyền tự phát triển chip x86, AMD tạo ra phiên bản mới của x86 - chip Athlon.
+2000: AMD kiện lên Ủy ban châu Âu rằng Intel xâm phạm nghiêm trọng luật chống cạnh tranh khi việc lạm dụng các chương trình tiếp thị. AMD tiến hành cuộc chiến này nhằm mục đích tiếp cận tài liệu trong vụ kiện chống độc quyền mà Intel phải trả cho Intergraph 225 triệu USD cho chip Itanium.
+2003: AMD tạo nên bước đột phá lớn khi giới thiệu phiên bản 64 bit của chip x86, chạy trên Windows, đánh bại Intel. Đây là lần đầu tiên hãng chip số một thế giới phải rượt đuổi sau AMD để phát triển công nghệ tương tự. AMD ra mắt dòng chip Operton cho hệ thống máy chủ siêu mạnh, dòng Athlon cho máy tính để bàn và xách tay.
+2004: JFTC thanh tra văn phòng đại diện của Intel tại Nhật. Intel tỏ ra hợp tác nhưng không tán thành kết luận JFTC rằng họ đã cạnh tranh thiếu lành mạnh qua việc hạ giá thành cho 5 nhà sản xuất máy tính Nhật là Fujitsu, Hitachi, NEC, Sony và Toshiba nếu những hãng này đồng ý không mua hoặc hạn chế mua chip của AMD và Transmeta.
+2005: AMD tiến hành cuộc chiến chống độc quyền với Intel tại tòa án bang Delaware. 
+

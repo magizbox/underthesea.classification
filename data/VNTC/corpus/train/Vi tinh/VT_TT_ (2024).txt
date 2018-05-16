@@ -1,0 +1,8 @@
+ Chạy Windows XP trên máy MAC
+13.854 USD chính là tổng số tiền thưởng dành cho nổ lực xoay sở chạy Windows XP trên máy Mac. Danh sách các cá nhân và tiền thưởng đang ngày một dài thêm. 
+Anh Colin Nederkoom, một người môi giới vận tải tại Houston, muốn nâng cao hiệu quả công việc của mình nên đã tổ chức giải thưởng trên. Anh muốn nâng cao hiệu suất và tính nhất thống trong công việc của mình, thay vì phải dùng chiếc máy laptop Apple cho một số công việc và Máy tính chạy Windows cho một số công việc khác. 
+Giải thưởng đã nhanh chóng đến tai hai hacker là Jesus Lopez, 33 tuổi và Eric Wasserman, 41 tuổi. Lopez đã biết trước và bắt đầu tiến hành nghiên cứu để phát triển một phần mềm trên hệ phần cứng của máy Mac chip Intel, cho phép chạy các ứng dụng của Windows, ngay cả hệ điều hành Windows trên nền máy Mac. Wasserman đã đăng ký sau đó và tiến hành hỗ trợ Lopez trong công việc. 
+Sau 2 ngày, bộ phần mềm mã nguồn mở được thử nghiệm thành công. Khi được hỏi về lý do khi viết bộ phần mềm này, Lopez cho biết, đơn giản ông chỉ cảm thấy rằng, cộng đồng khoa học và công nghệ sẽ được lợi ích rất nhiều từ việc làm của mình. 
+Nếu bạn là người dùng máy Mac trên nền chip Intel, có thể vào website http://onmac.net/ để biết thêm chi tiết và download chương trình về thử nghiệm. 
+Việc thử nghiệm thành công Windows XP trên máy Mac là một sự kiện ấn tượng dành cho Apple. Điều này nâng cao hiệu quả và mở rộng môi trường làm việc cho những khách hàng của máy Mac. Thế nhưng lạ một điều là Apple lại có vẻ như không ủng hộ sự việc này. 
+

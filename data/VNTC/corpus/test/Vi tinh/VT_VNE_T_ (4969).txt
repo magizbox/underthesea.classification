@@ -1,0 +1,16 @@
+Hacker chuyển hướng sang ứng dụng nghe nhìn
+Năm 2005, tội phạm mạng đã không còn quan tâm nhiều đến các hệ điều hành và hướng mục tiêu vào chương trình truyền thông, chia sẻ file và ứng dụng phần mềm...
+Viện nghiên cứu bảo mật SANS (Mỹ) cho biết phần mềm diệt virus cũng đang trở thành "đích ngắm" của hacker. 
+Kẻ tấn công quyết định thay đổi chiến thuật sau khi các nhà cung cấp dịch vụ và hệ điều hành như Microsoft bắt đầu xây dựng hàng rào mạnh chống virus, sâu và những nguy cơ bảo mật khác.
+Trong số 20 lỗi phần mềm bị hacker lợi dụng nhiều nhất 2005 để thâm nhập máy tính xuất hiện cả trình duyệt Internet Explorer, Windows Office và Outlook Express. Thậm chí, Mac OS X trở thành chương trình bị tấn công nhiều nhất trong số các hệ điều hành Unix.
+Những sản phẩm như thiết bị định tuyến và chuyển mạch điều khiển giao thông mạng cũng đang nằm trong tầm ngắm của tội phạm. "Thiết bị mạng thường được trang bị một hệ điều hành riêng và có thể được lập trình tương tự máy tính", SANS cho biết. "Không chế được thiết bị sẽ tạo cơ hội cho kẻ tấn công sở hữu một trong những nền tảng màu mỡ nhất để ăn cắp thông tin hoặc tấn công".
+Top 20 lỗi phần mềm do SANS xếp hạng:
+Những lỗ hổng lớn trong Windows
+W1. Windows Services W2. Internet Explorer W3. Windows Libraries W4. Microsoft Office và Outlook Express W5. Lỗi cấu hình Windows 
+Những lỗ hổng lớn trong ứng dụng Cross-Platform
+C1. Phần mềm BackupC2. Phần mềm diệt virusC3. Ứng dụng PHPC4. Phần mềm cơ sở dữ liệuC5. Ứng dụng chia sẻ fileC6. Phần mềm DNSC7. Media PlayerC8. Ứng dụng tin nhắn nhanh C9. Trình duyệt Mozilla và FirefoxC10. Những ứng dụng Cross-platform khác
+Những lỗ hổng lớn trong hệ thống UNIX
+U1. Lỗi cấu hình UNIX U2. Mac OS X 
+Những lỗ hổng lớn trong sản phẩm mạng
+N1. Sản phẩm Cisco IOS N2. Sản phẩm của Juniper, CheckPoint và SymantecN3. Lỗi cấu hình thiết bị của Cisco
+

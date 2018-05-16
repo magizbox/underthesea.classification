@@ -1,0 +1,8 @@
+Xóa sạch ổ cứng (2)
+Xin chao cac ban, toi co 2 o cung sau khi da lam format nhung van khong sach het phan mem. Mong cac ban chi gium cach nao de xoa sach o cung. Thanh that cam on.
+Tang The Kiet
+Hồi âm:
+Bạn thử dùng đĩa khởi động và chạy FDISK: syntax: Fdisk /mbr Chúc bạn thành công!
+Dinh Nghia
+Chào bạn. Bạn phải khởi động lại từ đĩa khởi động rồi fdisk lại ổ chứ sau đó bạn format lại ổ một lần nữa. Chúc bạn thành công. 
+

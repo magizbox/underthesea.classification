@@ -1,0 +1,17 @@
+ Kỹ thuật chụp hình từ các đoạn phim video
+TT - Thông thường khi xem các đoạn phim video có những hình ảnh rất đẹp, bạn muốn chụp các bức ảnh đó để lưu lại nhưng không thể nào chụp được các hình ảnh như mong muốn. 
+Các chương trình sau đây sẽ giúp bạn chụp lại các bức ảnh từ phim một cách dễ dàng. 
+Sử dụng phím Printscreen trên bàn phím 
+- Nhấn chuột phải vào màn hình chọn Properties. Trong hộp thoại Display Properties, bạn chọn thẻ Settings, nhấn chuột vào nút Advanced. Trong hộp thoại mới xuất hiện, bạn chọn thẻ Troubleshoot và tìm đến mục Hardware acceleration. Tại mục này bạn sẽ thấy một thanh trượt kéo dài từ None sang Full. 
+Theo mặc định nút kéo trên thanh trượt sẽ nằm ở Full, bạn hãy kéo chúng về None, sau đó nhấn OK để đóng hộp thoại này lại, nhấn tiếp OK lần nữa để thoát ra ngoài. Lúc này, bạn hãy mở đoạn phim cần chụp hình ra bằng các chương trình Windows Media Player, Herosoft, Winamp..., sau đó di chuyển thanh trượt đến đoạn phim cần trích xuất hình, nhấn phím Printscreen trên bàn phím hay dùng các chương trình chuyên dụng khác để chụp lại. 
+Nếu sử dụng nút Printscreen, bạn mở chương trình Paint trong Windows ra, nhấn Ctrl+V để dán bức hình đã chụp vào, tiếp đến vào menu File &gt; Save As, duyệt đến thư mục lưu lại bức ảnh này. 
+Sau khi đã chụp xong các bức ảnh bạn nên vào lại hộp thoại này và kéo nút trượt về vị trí Full. Nhấn OK hai lần để chấp nhận sự thay đổi này. 
+Sử dụng các chương trình chuyên dụng trích xuất hình từ phim 
++ WinDVD: mặc dù đây là chương trình xem phim trên các đĩa DVD nhưng vẫn hỗ trợ các định dạng file của VCD, SVCD. Để chụp hình, bạn nhấn nút Pause để dừng đoạn phim đó lại, tiếp đến nhấn nút Snapshot trên khung video. 
+Ngay lập tức, khung kế bên xuất hiện tấm hình bạn vừa mới trích xuất ra, sau đó bạn chỉ việc nhấn chuột vào biểu tượng hình chiếc đĩa mềm phía dưới chọn Save As, chỉ định thư mục và đặt tên file lưu lại, nhấn nút save để lưu. Thế là xong! 
++ PowerDVD: đây cũng là chương trình chơi các đĩa DVD, VCD, SVCD. Đầu tiên, bạn nhấn nút Configurations trên thanh công cụ xem phim. 
+Trong hộp thoại xuất hiện, bạn chọn thẻ Player &gt; nhấn nút Advanced. Hộp thoại Advanced Options xuất hiện, trong thẻ Snapshot phần Default Capture Mode, bạn đánh dấu kiểm vào mục Capture to file, rồi nhấn nút Browse duyệt đến thư mục chứa ảnh sau khi trích xuất. 
+Phần Captured Aspect Ratio, bạn xác lập độ phân giải cần chụp cho các bức hình như Original video source size (giữ nguyên hình ảnh gốc trong phim), Current video window video (chụp theo kích thước đang mở đoạn video), Custom size (chỉ định kích thước tùy ý - nếu chọn mục này bạn nên đánh dấu kiểm vào tùy chọn Keep aspect ratio). 
+Sau khi thiết lập xong, bạn nhấn OK hai lần để chấp nhận sự thay đổi này. Sau đó bạn quay ra ngoài cửa sổ chính của chương trình đang xem, di chuyển thanh trượt đế vị trí muốn trích xuất hình nhấn nút Capture frame. Chương trình sẽ tự động lưu lại các bức ảnh trong thư mục bạn đã chỉ định ở trên. 
++ Herosoft 2001: đối với chương trình này, bạn không cần phải thiết lập gì cả. Hãy mở đoạn phim muốn trích xuất hình ra, sau đó di chuyển thanh trượt đến vị trí cần chụp hình, nhấn nút Savepicture, sau đó đặt tên file và chỉ định thư mục lưu là xong! 
+

@@ -1,0 +1,13 @@
+Giúp WinXP chạy nhanh hơn (2)
+Xin giup giai quyet nhung loi sau tren WinXP Home co ban quyen tren may xach tay TOSHIBA A80: 
+1. Trong muc History (co the bi xoa mat ) chi con muc Today khong con cac muc: Tuan truoc, 2 tuan truoc....
+2. Cach sua chua lai Win ma khong can cai lai moi hoan toan, vi da sua bang rat nhieu cong cu huong dan tren mang nhung luc khoi dong van cham (Da su dung phan mem cong cu sua chua Registry, cong cu toi uu luc khoi dong... ). Xin chan thanh cam on!
+Pham Do Hung
+Hồi âm:
+Nếu bạn xài máy tính xách tay hiệu Toshiba A80 thì tất nhiên bạn phải có một đĩa DVD Recovery và sách hướng dẩn chạy đĩa này trong lúc có sự cố. Chỉ cần chạy đĩa này từ 6 đến 10 phút là bạn có lại tất cả như mới cài đặt.Khi bỏ đĩa Recovery vào start Laptop, nhấn giử phím C sau đó nhìn theo màn hình của họ hướng dẫn. Tình trạng bạn đã nói là do máy của bạn nhiễm virus nên máy chạy rất chậm, mặc dù bạn có dùng cách nào đi nữa cũng vẫn chậm. Chỉ có cách cài lại toàn bộ từ đầu nếu bạn không có đĩa Recovery trong tay hoặc không có software Norton Anti virus. Những driver của Toshiba Satelite A80 bạn có thể vào trang http://www.toshiba.com mà lấy nha. 
+Qui Hung
+Bạn đã thực hiện như vậy rồi mà còn chậm thì nên làm:
+- update lên sp2, khi tôi update lên thì pc chạy nhanh hơn nhiều.  
+- uninstall bỏ những program ít xài hoặc không cần thiết, có càng nhiều program thì pc chạy càng chậm. 
+-  truy quét spyware bằng spyware doctor. (có nhiều chương trình free trên internet).
+

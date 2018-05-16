@@ -1,0 +1,33 @@
+Để format mà ổ đĩa không bị ẩn (10)
+Tôi đang sử dụng WinXP, bây giờ muốn Format để cài đặt lại nhưng khi khởi động (bằng đĩa CDROM khởi động) xong các ổ đĩa đều bị ẩn (không nhìn thấy để format). Có cách nào để khắc phục mà không cần phải Fdisk lại đĩa cứng. 
+Xin chân thành cảm ơn.
+Trần Tam
+Hồi âm:
+Em nghĩ nếu anh đã dùng đĩa boot rồi mà các ổ đều bị ẩn thì chắc là các ổ anh để hệ NTFS. Anh chỉ cần cài NTFS for dos là được thôi. Trong đĩa hiện boot có phần mềm đó.
+Huu Tung
+Toi co mot vai kinh nghiem muon trao doi cung cac ban. Viec ban hoi vi sao khi khoi dong bang CDROM lai khong nhin thay cac o dia. Dieu nay co the do dinh dang o dia cua ban theo kieu NTFS. Dinh dang theo kieu nay lam cho viec khoi dong may bang CDROM, vao DOS (mot HDH khong ho tro kieu tep NTFS). Chinh vi the ban khong thay cac o dia cua minh. 
+Ban thu lam theo cach sau: ban dung khoi dong may bang dia CDROM cua DOS hay khoi dong may bang chinh dia cai dat he dieu hanh winXP. O do ban se de danh nhin ra cac o dia cua minh trong qua trinh cai dat, he thong se yeu cau ban format o dia, ban co the de dang chuyen tu he thong file NTFS sang FAT32 hoac FAT16, he thong se co nhung tuy chon rieng cho ban neu trong may cua ban co nhung tai lieu quan trong ban hay bo qua buoc format va tien hanh cai dat he dieu hanh win XP binh thuong, sau khi luu lai du lieu quan trong ban co the format thoai mai, chuyen doi kieu tep tuy y. Chuc thanh cong!
+Nguyen Anh Duc
+Anh dùng đĩa CD room khởi động lên môi trường MS-DoS thì nếu trước đây partition chứa OS của anh được định dạng theo NTFS sẽ không thể thấy trong MS_DOS được Anh có thể dùng partition magic 8.0 ( có trong cd room khởi động) để format và định dạng lại partition la FAT32 .Không cần phải Fdisk lại đĩa cứng. 
+Chúc thành công! 
+Tran Khuong
+Theo toi thi o dia cua ban dang duoc dinh dang NTFS nen khi vao dos ban khong the thay no duoc, ban phai dung pq8 va format,nho chon dinh dang Fat32 de lan sao con vao dos de dang hon. Hoac tim phan mem NTFS floppy setup de dos co the thay phan vung NTFS!
+Tran Long Thanh
+Bạn đang sử dụng WinXP, muốn Format lại để cài đặt mới nhưng mà các ổ đĩa bị ẩn là do trước kia bạn chọn File hệ thống là NTFS. Đối với loại NTFS thì khi vào DOS sẽ không nhận thấy. Vì vậy, bạn muốn format được các ổ đĩa trên thì bạn BOOT bằng CDROM và dùng chương trình Partion Magic để chuyển đổi từ NTFS sang FAT32. Rồi sau đó bạn có thể format được bình thường. Nên nhớ rằng sau này bạn cài lại WinXP thì chọn FAT32 luôn, nếu không thì bạn phải mất công thêm 1 lần nữa.
+Xin chúc bạn may mắn.
+Nguyen Hai Son
+Không phải ổ ẩn mà là XP không thấy Hard drive vì do là Ultra DMA hay Sata.
+Khi khởi động CD để cài XP phải gõ key F6 lúc WP đang load. XP sẽ bảo bạn có driver cho hard drive thì bỏ driver UDMA hay Sata vào floppy. Thì WP mới thấy Hard drive mà Format hay partiton .
+Nói tóm lại bạn phải có driver cho controller card UDMA hay SATA copy vào floppy disk thì mới install được.
+TOM
+Theo toi, ban dung WinXP home hay la winXP professional de format (vi neu ban dung xp home de format tren phan ma luc truoc ban xai la NTFS thi duong nhien la o dia se bi an), ban thu xai XP professional thu xem sao 
+Quang 
+Do luc cai dat WinXP da format dang bang NTFS nen khi khoi dong o DOS thuong thi ko the nhin thay duoc. muon nhin thay no la phai khoi dong cung voi chuong trinh DOSS NTFS cua LHT
+Chuc thanh cong!
+Nguyen XHieu
+Ổ của bạn để ở định dạng NTFS nên trong môi trường DOS sẽ không nhận diện được ổ. Bạn có thể dùng chương trình PQmagic để chuyển ổ muốn cài sang định dạng FAT32 sau đó format lại rồi cài. Khi cài lại win bạn lại có thể định dạng lại NTFS trong quá trình cài đặt. 
+Chúc thành công!
+Viet Thanh 
+Đĩa cài đăt WinXP tự bút có tính năng format ổ đĩa khi cài hệ điều hành. Bạn không cần phải fdisk.
+Có các tính năng : format using NTSF hoặc format using FAT 32.
+

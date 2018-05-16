@@ -1,0 +1,6 @@
+Intel chuẩn bị tung ra dòng chipset 915 giá rẻ
+Hãng chế tạo thiết bị xử lý lớn nhất thế giới sẽ đưa ra thị trường 2 loại chipset Grantsdale trong tháng 1/2005. Các sản phẩm 915PL và 915GL thực ra là phiên bản của loại 915P và 915G hiện hành nhưng tắt bỏ phần hỗ trợ DDR 2 SDRAM.
+2 chipset mới hỗ trợ công nghệ PCI Express và front side bus (FSB) 800 MHz. Tốc độ FSB chính là yếu tố phân biệt 915PL và 915GL với 910GL, vốn chỉ hỗ trợ DDR và có tốc độ FSB 533 MHz. 
+915PL và 915GL sẽ có giá xấp xỉ 1/3 so với 915P và 915G. Sự xuất hiện của 2 sản phẩm này là tin vui đối với các công ty sản xuất bo mạch chủ, đối tượng đang cần một sản phẩm LGA775 giá rẻ để thúc đẩy sự chấp nhận đối với giao diện xử lý mới. 
+Intel dự kiến sẽ hạ giá Grantsdale vào cuối năm nay và tiếp tục giảm nữa vào đầu quý II/2005.
+

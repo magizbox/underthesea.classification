@@ -1,0 +1,6 @@
+Internet Explorer 7 thúc đẩy sự tăng trưởng của Firefox
+Tổ chức phần mềm mã mở Mozilla tin rằng sự quan tâm của người dùng máy tính ở các doanh nghiệp đối với trình duyệt mã mở sẽ gia tăng khi mà browser mới của Microsoft (ra mắt vào năm tới) không hỗ trợ hệ điều hành Windows 2000.
+Asa Dotzler, điều phối viên dự án của Mozilla, hôm qua phát biểu: Chúng tôi rất hy vọng sẽ thúc đẩy mạnh hơn sự phổ dụng của Firefox trong các doanh nghiệp đang dùng Windows 2000. Đó thực sự là một tin mừng đối với chúng tôi vì sự ra đời của Internet Explorer 7 đồng nghĩa với việc người sử dụng phải bỏ ra nhiều tiền để nâng cấp lên Windows XP mới có thể khai thác. 
+Theo một khảo sát gần đây của hãng AssetMetrix (Mỹ), hiện nay, gần một nửa số máy tính ở nhiều doanh nghiệp vẫn sử dụng Windows 2000 và điều này mở ra cơ hội về một thị trường lớn hơn cho Mozilla tận dụng.
+Phiên bản trình duyệt Firefox 1.1, dự kiến sẽ ra mắt trong tháng này, sẽ bao gồm một loạt tính năng được thiết kế nhằm khuyến khích các doanh nghiệp chuyển sang dùng browser mã mở, trong đó có công cụ auto update (cho phép tự động cài đặt các phần mềm sửa lỗi và nâng cấp thay vì phải cài lại Firefox mỗi khi có bản mới) và chức năng khóa những cài đặt ưu tiên. 
+

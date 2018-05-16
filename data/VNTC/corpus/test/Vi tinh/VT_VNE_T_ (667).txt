@@ -1,0 +1,18 @@
+Netsky - virus số 1 của tháng 4 - liên quan gì đến Sasser ?
+Thêm một tháng nữa đối thủ của sâu Bagle lại đứng đầu bảng xếp hạng của hãng phần mềm an ninh Sophos (Anh). Hôm qua, một nhóm hacker tự xưng là người tạo ra biến thể mới nhất của NetSky lại tuyên bố cũng là tác giả của sâu Sasser đang tung hoành trên Internet mấy hôm nay,
+Về bảng xếp hạng virus tháng 4, 7 trong số 10 chương trình tấn công trong tháng là các biến thể NetSky, đáng chú ý nhất là ba phiên bản P, B và D. NetSky.P, chiếm chỉ có 2,1% tổng lượng virus tháng 3, đã nhảy lên đứng đầu Top Ten tháng 4 trong khi biến thể đứng đầu tháng 3 là NetSky.D (30,2%) đã tụt xuống chỉ còn 16,8%. Những phiên bản mới xuất hiện trong danh sách tháng này, bao gồm bản Q và T, chỉ chiếm 3%. Điều đó cho thấy những loại sâu mới không phải bao giờ cũng nguy hiểm hơn. Các phiên bản NetSky chiếm tổng số 69% tất cả các loại mã tấn công tháng 4, tăng đáng kể so với 59,8% một tháng trước đó. Nguyên nhân chủ yếu cho sự gia tăng này là việc mã của sâu bị phát tán. Chris Kraft, nhà phân tích an ninh của Sophos, cho biết: Với việc tác giả của bản virus gốc tuyên bố chia sẻ mã nguồn của nó, rất có thể nhiều hacker khác đã nhảy vào cuộc. Trong tháng 4 vừa qua, Sophos đã xác định thêm 740 virus mới nâng tổng số chương trình phá hoại mà họ xử lý lên 89.852.
+Liên quan đến sâu Sasser, nhóm lập trình viên từng xưng danh là Skynet Antivirus Team hôm qua tuyên bố họ cũng là tác giả của loại virus đang tấn công khiếm khuyết LSASS trên Windows không cần thông qua e-mail. Các chuyên gia virus quốc tế đã xác định được những bằng chứng khẳng định điều này.
+Skynet Antivirus Team được coi là nhóm chịu trách nhiệm về hơn 30 biến thể sâu phát tán e-mail số lượng lớn thuộc họ NetSky. Hiện nay, virus này đã cho ra đời biến thể AC, tức là đã hết một lượt bảng chứ cái dùng để đặt tên. Theo Joe Stewart, nhà nghiên cứu của hãng bảo mật Lurhq, lời tuyên bố nói trên của nhóm NetSky có thể đúng vì chuyên gia này đã tìm thấy những điểm tương đồng trong mã NetSky và Sasser. Ngoài ra, theo ghi nhận của hãng Trend Micro, ngay trong mã sâu NetSky.AC, tác giả của nó cũng viết một thông điệp tuyên bố rằng chính mình đã viết ra Sasser. 
+Bảng xếp hạng 10 virus nguy hiểm nhất tháng 4 (Trong ngoặc là tỷ lệ thông báo mà Sophos nhận được):
+1.W32/Netsky.P (23.2%).
+2.W32/Netsky.B (20.2%).
+3.W32/Netsky.D (16.8%).
+4.W32/Netsky.C (5.0%).
+5.W32/Netsky.Q (2.8%).
+6.W32/Sober.F (1.1%).
+7.W32/Netsky.J (0.8%).
+8.W32/Bagle.Zip (0.6%).
+9.W32/Gibe.F (0.2%).
+10.W32/Netsky.T (0.2%)
+Những virus khác: 29,1%.
+

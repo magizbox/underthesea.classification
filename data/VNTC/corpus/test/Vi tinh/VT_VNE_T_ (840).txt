@@ -1,0 +1,10 @@
+Tài liệu học và phần mềm thiết kế Web site (2)
+Tôi rất thích thiết kế một web site. Tôi đã sử dụng chương trình Front Page của MS, nhưng chương trình này thiết kế có vẻ như không chuyên nghiệp lắm. Xin hỏi:- Có phần mềm nào có thể thiết kế một website chuyên nghiệp hơn không?- Ngoài sách hướng dẫn thiết kế website bằng chương trình Fontpage thì còn các tài liệu nào khác không?
+Xin chân thành cảm ơn !
+Nguyễn Cao Thắng
+Hồi âm:
+Ngoài Front Page của MS ra còn rất nhiều phần mềm thiết kế web chuyên nghiệp và rất đẹp mắt khác như: Macromedia Flash MX 2004, hay Macromedia Dreamweaver MX 2004,v.v.. Nhưng theo tôi thì bạn nên dùng Macromedia Dreamweaver MX 2004. Nó rất hay. Ngoài ra bạn cần tìm hiểu các ngôn ngữ lạp trình web khác để hỗ trợ như : ASP,HTML, VBScript, JavaScript, SQL sarver, PHP...Tài liệu về Macromedia Dreamweaver MX 2004 bạn có thể tìm thấy rất nhiều ở các nhà sách. Ngoài ra bạn nên ghé thăm trang web: http://www.w3schools.com/ Tại trang web này bạn sẽ được học tất cả các ngôn ngữ lập trình web đấy. Chúc bạn thành công.
+tvvn
+Bạn hãy vao web www.manguon.com web cung câp đầy đủ mọi thông tin cho nhưng ai cần thiết kế web1 trang web rât hay của công ty Mắt Bão. 
+Đặng Đức Khánh
+

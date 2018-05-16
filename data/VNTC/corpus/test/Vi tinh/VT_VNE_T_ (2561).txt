@@ -1,0 +1,6 @@
+Microsoft bỏ tính năng khóa download Windows XP SP2
+Theo đúng kế hoạch đã công bố, bắt đầu từ ngày 12/4, nhà cung cấp hệ điều hành Windows sẽ chấm dứt áp dụng chức năng cho phép các tổ chức tạm thời phong tỏa việc tải bản nâng cấp Service Pack 2 (SP2). 
+Điều này đồng nghĩa với việc SP2 sẽ được tự động tải vào tất cả các máy XP nối mạng. Cho tới nay, nhiều doanh nghiệp vẫn nhận bản sửa lỗi và cập nhật từ Microsoft nhưng tạm đóng việc cài đặt SP2 cho đến khi họ hoàn tất việc kiểm tra tương thích với các ứng dụng nội bộ.
+Đã đến lúc tất cả người sử dụng nên cải bản nâng cấp này, Gary Barnett, Giám đốc nghiên cứu của hãng phân tích Ovum, tán đồng quyết định của Microsoft. Khách hàng không thể cứ phàn nàn mãi về vấn đề an ninh trong khi chính bản thân họ lại không chịu cài công cụ tăng cường bảo mật mà nhà cung cấp đã đưa ra. Thăm dò bạn đọc của VnExpress cho thấy 48% số người truy cập đã cài phiên bản hệ điều hành bổ sung này.
+Tất nhiên, doanh nghiệp nào vẫn muốn tiếp tục kéo dài thời hạn hoãn cài SP2 có thể tắt tính năng nâng cấp tự động trong Windows, mặc dù điều này cũng đồng nghĩa với việc họ sẽ bỏ lỡ việc cập nhật một số bản sửa lỗi khác.
+

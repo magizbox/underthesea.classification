@@ -1,0 +1,8 @@
+Washington Post quên gia hạn tên miền
+Đôi khi, chẳng cần hacker hay virus, một hệ thống máy tính cũng có thể tê liệt. Tờ Washington Post (Mỹ) hôm qua thừa nhận họ đã để tên miền washpost.com hết hạn. Hậu quả là nhân viên báo này trên toàn cầu không sao liên lạc được bằng hòm thư chính thức. 
+Công ty quản lý địa chỉ mạng Network Solutions hình như đã thông báo về việc tên miền của chúng tôi sắp hết hạn, Steve Coll, Chủ bút của Washington Post,thừa nhận. Song thông báo này có lẽ đã bị xếp xó. Coll nói thêm là mọi e-mail từ ngoài gửi tới tờ báo đều nhận một reply giống nhau: delivery failure.
+Về phía nhân viên toà báo, một số phóng viên nói sự cố này cho thấy họ quá lệ thuộc vào công nghệ. Vài người khác tỏ ý tiếc rẻ vì không chộp lấy cơ hội này, báo cho công ty biết sớm và biết đâu sẽ được thưởng chút gì đó.
+Phát ngôn viên Eric Grant của báo cho hay tới 5h chiều qua (giờ Mỹ), hệ thống e-mail đã được phục hồi một phần. Ông này từ chối tiết lộ ngoài thư điện tử, các hoạt động khác của báo liệu có bị ảnh hưởng không.
+Washington Post không phải là đơn vị đầu tiên nhiễm thói đãng trí. Gần đây, đại gia Microsoft cũng suýt mất tên miền hotmail.com vì căn bệnh này.
+Theo Michele Krisanda, Phó chủ tịch truyền thông của Network Solutions, mỗi ngày có khoảng 10.000 tên miền tới hạn. Nhìn chung, phí gia hạn một tên miền khoảng 100 USD. 
+

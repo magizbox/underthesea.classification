@@ -1,0 +1,8 @@
+Bố làm virus máy tính vì con?
+Hãng bảo mật Sophos vừa phát hiện 2 biến thể sâu phát tán e-mail số lượng lớn Mirsa.A và B. Chúng giả dạng là các thông điệp ủng hộ phong trào Những người cha đòi công lý (Fathers for Justice).
+Cặp virus Mirsa xuất hiện trong những file đính kèm e-mail. Biến thể A giả vờ là một bản sơ yếu lý lịch xin việc còn virus B sử dụng những dòng chủ đề như "How NOT to get Promotion" (Làm thế nào để KHÔNG được thăng tiến), "Memorandom to all staff" (Thông báo cho tất cả nhân viên), "Urgent Document" (Công văn khẩn), "Extremely Important" (Vô cùng quan trọng) hay "Private and personal" (Tài liệu riêng tư). 
+Nếu phần attachment được mở ra, virus sẽ gửi bản sao tới tất cả địa chỉ mà nó phát hiện trong Windows Address Book, lây nhiễm vào các file trên ổ cứng và thả một đoạn text vào văn bản trên máy tính (tất cả đều liên quan đến phong trào Fathers for Justice).
+Fathers for Justice là một chiến dịch đấu tranh với nhiều mục tiêu xã hội, trong đó có việc đòi quyền công bằng giữa người cha và người mẹ trong chăm sóc con cái, nhất là trường hợp ly hôn. Phong trào này khởi phát ở Anh và đã lan ra nhiều nơi khác trên thế giới với những hành động biểu tình giật gân của các thành viên như trèo lên tường của điện Buckingham (Anh) trong trang phục nhân vật Người dơi (Batman).
+Có vẻ như các ông bố đòi công lý đã chán trèo lên những nơi nổi tiếng để gây thanh thế mà bắt đầu chấp nhận cả hành động viết virus như thế này, chuyên gia Graham Cluley của Sophos bình luận. Đây chỉ là một trong rất nhiều những phiên bản virus đã và sẽ phát đi các thông điệp chính trị-xã hội.
+Số bản sao của Mirsa phát tán chưa nhiều nhưng người sử dụng máy tính vẫn được khuyến cáo nên kiểm tra nâng cấp phần mềm diệt virus.
+

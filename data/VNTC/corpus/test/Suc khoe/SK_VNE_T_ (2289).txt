@@ -1,0 +1,10 @@
+Tìm ra chất mới chống SARS
+Các nhà khoa học Hong Kong vừa tìm thấy một nhóm hợp chất mới có thể ngăn cản virus SARS phân bào. Nhóm đang thử nghiệm những chất này trên những virus khác.
+Nhóm chất mới có tên là bananins, có khả năng vô hiệu hóa helicase - một thành phần quan trọng của virus SARS trong hoạt động phân bào.
+Giáo sư Julian Tanner và cộng sự thuộc Đại học Tổng hợp Hong Kong lần đầu tiên phân tách được helicase và nhận thấy nhóm hợp chất bananins tác động lên helicase như chất ức chế, do đó khống chế hiệu quả sự sinh sôi của virus SARS.
+Nhóm chất bananins được một cộng tác viên của nhóm là tiến sĩ Andreas Kesel đang làm việc tại Đức phát triển, để phục vụ cho một loại thuốc kháng virus, chứ không đặc biệt dành cho virus SARS.
+Nhóm chất bananins hơi giống với một loại thuốc kháng virus có tên là amantadine, từng rất hiệu quả trong việc điều trị cho một số bệnh nhân nhiễm virus cúm gia cầm H5N1 ở Hong Kong vào năm 1997. Tuy nhiên, các bác sĩ cho biết từ khi H5N1 đột biến, amantadine không còn hiệu quả như trước.
+Hiện nay, nhóm nghiên cứu của Tanner đang thử nghiệm bananins trên một số bệnh do virus gây nên như viêm gan C, mụn rộp herpes và cả cúm gà. Nhóm hy vọng bắt đầu thử nghiệm bananins trên động vật trong vài tháng tới.
+Tuy nhiên, Tanner cho rằng không nên hy vọng quá rằng bananins sẽ giúp đối phó khẩn cấp khi virus SARS bất ngờ xuất hiện, vì chúng cần phải trải qua thử nghiệm trên động vật và lâm sàng. "Sẽ phải mất vài năm nữa bananins mới đi vào cuộc sống", Tanner dự đoán.
+Trong thời kỳ dịch SARS hoành hành, các bác sĩ đã thử các loại hỗn hợp thuốc khác nhau để cứu người bệnh kịp thời, song không có công thức nào đạt hiệu quả thực sự. Đến nay, nhiều bệnh nhân sống sót đang phải chịu phản ứng phụ từ cách điều trị này.
+

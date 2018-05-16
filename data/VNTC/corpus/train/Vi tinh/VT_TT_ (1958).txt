@@ -1,0 +1,7 @@
+ Blogsites “Hacker mũ xanh” 
+Website này cũng đăng tải luôn những thông tin, hình ảnh, các phát biểu, những đoạn video phỏng vấn những người đại diện, những cá nhân đã có đóng góp ít nhiều cho tổ chức Hacker Mũ xanh. Đại hội được tổ chức từ ngày 8 đến ngày 10 tháng 3 vừa qua tại chi nhánh Redmond của Microsoft ở Washington đề cập sâu đến các vấn đề như lỗi bảo mật trong các ứng dụng web, cách thức để xâm nhập vào các cơ sở dữ liệu… 
+Website này có tên "Bluehat Security Briefing", được Microsoft bắt đầu hơn một năm nay. Mục đích là có những cuộc đối thoại giữa đội ngũ về bảo mật của công ty với các cao thủ nghiên cứu bảo mật bên ngoài. Đây là một hình thức hợp tác với hacker để phát triển của Microsoft. Rất nhiều lỗi bảo mật nghiêm trọng đã được "nhóm Hacker mũ xanh này phát hiện". 
+Có thể hiểu, các thành viên của Bluehat được xem như những nhân viên được ưu đãi của Microsoft trong bước đường công ty này dần hoàn thiện các sản phẩm của mình. Và Bluehat Brief là một trong những phương tiện để các thành viên có thể trao đổi về những vấn đề bảo mật mà họ phát hiện, dưới dạng blogs thay vì trên một forum. 
+Hội thảo Bluehat lần 3 có hơn 650 thành viên tham dự. Được biết đây là một nhóm gần như là ở thế đối đầu với "Hacker mũ đen". Màu xanh được lấy từ các huy hiệu mà nhân viên của Microsoft mang khi tham gia hội thảo này. 
+Bạn đọc quan tâm có thể vào đây để tìm hiểu và theo dõi những thông tin . 
+

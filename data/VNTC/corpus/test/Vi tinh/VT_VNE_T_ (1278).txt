@@ -1,0 +1,7 @@
+Thẻ nhớ biến vân tay thành password
+Tuần tới, loại memory stick đặc biệt mang tên JumpDrive TouchGuard, do hãng Lexar Media chế tạo, sẽ được tung ra thị trường.
+JumpDrive TouchGuard sử dụng một bộ cảm ứng có khả năng đọc những thớ vân da nhỏ trên ngón tay và ra lệnh mở những dữ liệu mã hóa trên thẻ USB nếu mọi thứ đều khớp.
+Thẻ nhớ đọc vân tay JumpDrive TouchGuard của Lexar
+Thẻ đọc vân tay Micro Vault của Sony. 
+Phần mềm dùng trong thiết bị này do hãng Cogent thiết kế còn bộ phận chip quét ngón tay được Fujitsu phát triển. Trên thị trường hiện nay, Sony cũng đã bán một sản phẩm tương tự như JumpDrive TouchGuard, có tên Micro Vault. 
+

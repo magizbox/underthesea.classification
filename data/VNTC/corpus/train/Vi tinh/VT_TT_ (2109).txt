@@ -1,0 +1,6 @@
+ “Đĩa cứng đặc” Flash chuẩn bị thách thức đĩa cứng quay
+Vào cuối năm 2005, dòng thẻ nhớ Nand Flash dung lượng đạt đến 8GB đã được trang bị cho các đĩa lưu trữ di động USB hoặc các camera kỹ thuật số, nhưng quả thực về dung lượng lưu trữ thì thẻ nhớ Flash hiện vẫn chưa là gì so với các loại đĩa cứng siêu dung lượng hoặc các chuẩn đĩa DVD đời mới. 
+Tuy nhiên có rất nhiều tính năng mà đĩa cứng đặc Flash luôn tỏ ra ưu thế vượt trội trong mọi thiết bị di động mà đĩa cứng quay dù dung lượng lưu trữ có cao đến đâu cũng không thể sánh bằng. Đó là các tính năng như: cực kỳ nhỏ gọn, tiêu thụ cực ít điện năng, khả năng chống sốc tuyệt vời, cực nhanh và bền… Những tính năng này vô cùng phù hợp với các loại máy xách tay vốn dĩ không cần quá nhiều dung lượng lưu trữ như máy để bàn. 
+Các chuyên gia tính toán rằng một máy xách tay sử dụng đĩa cứng đặc Flash sẽ có thời lượng pin hoạt động dai hơn máy sử dụng đĩa cứng quay ít nhất là 30 phút khi cả 2 máy cùng được sạc đầy. 
+Chuyên gia phân tích Joe Unsworth của Gartner dự đoán rằng đến năm 2007, loại thẻ nhớ Flash 16GB sẽ hạ giá xuống chỉ còn 90 USD so với vài trăm USD ở thời điểm hiện nay và sớm muộn gì rồi loại đĩa cứng đặc Nand Flash cũng sẽ lấn sang sân của đĩa cứng ở máy xách tay và rồi cũng sẽ đến máy để bàn, và đó là tương lai không quá xa. 
+

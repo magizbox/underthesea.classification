@@ -1,0 +1,9 @@
+12 nguồn thư rác lớn nhất năm qua
+Sử dụng một mạng thăm dò toàn cầu, hãng phần mềm an ninh Anh Sophos phát hiện ra rằng, đứng đầu trong số các quốc gia phát tán nhiều e-mail quảng cáo nhất vẫn là Mỹ, chiếm tới gần một nửa tổng lượng spam trên thế giới.
+Đứng sau Mỹ là Hàn Quốc, nơi công nghệ kết nối băng rộng rất phổ biến, góp phần khiến nước này đứng vào hàng ngũ các trung tâm thư rác lớn nhất toàn cầu.
+Khi chúng tôi bắt đầu lập báo cáo tình hình các nước phát tán thư rác hàng đầu hồi háng 2, Mỹ thanh minh là luật CAN-SPAM của họ mới ra đời không lâu nên tác động chưa rõ rệt, Graham Cluley, chuyên gia công nghệ của Sophos, nói. Sau gần một năm với hàng triệu thông điệp quảng cáo không mời tiếp tục được phát đi, rõ ràng là bộ luật đó gần như chỉ làm được rất ít trong việc ngăn chặn cơn lũ spam.
+Theo Cluley, động cơ duy nhất và lớn nhất của những kẻ phát tán thư rác (spammer) giờ đây là kiếm được tiền dễ dàng và nhanh chóng. Nhiều spammer còn mở rộng quy mô làm ăn bằng cách dùng các thủ đoạn khống chế computer của người khác. Rất nhiều máy tính cá nhân đã trở thành kênh trung chuyển thông điệp quảng cáo mà chủ máy không hay biết vì đã bị khống chế từ xa. Những máy tính kiểu này được gọi bằng thuật ngữ Zombie PC (máy tính ma) và phát ra hơn 40% tổng lượng spam trên thế giới.
+Dưới đây là 12 nước gửi nhiều thư rác nhất trên thế giới năm 2004:
+1. Mỹ (42,11%)2. Hàn Quốc (13,43%)3. Trung Quốc (8,44% - gồm cả Hong Kong)4. Canada (5,71%)5. Brazil (3,34%)6. Nhật Bản (2,57%)7. Pháp (1,37%)8. Tây Ban Nha (1,18%)9. Anh (1,13%)10. Đức (1,03%)11. Đài Loan (1%)12. Mexico (0,89%)
+Các nước khác: 17,8%
+

@@ -1,0 +1,6 @@
+Mỗi giây xuất hiện một blog mới 
+Theo nghiên cứu của trang thống kê Technorati, "lãnh địa" website cá nhân đang tiếp tục phát triển mạnh với 14,4 triệu blog hiện nay, tăng 6,6 triệu so với hồi tháng 3.
+Technorati ước tính trung bình số web cá nhân sẽ tăng gấp đôi sau 5 tháng và những dịch vụ cung cấp blog miễn phí như của MSN, AOL, Blogger, LiveJournal, WordPress và Movable Type đang nở rộ. Thậm chí, moblog, nơi người dùng điện thoại camera có thể gửi ảnh và tin nhắn tự động, cũng đạt được tốc độ phát triển nhanh chóng. Nhiều chương trình như thanh công cụ Google và website chia sẻ ảnh Flickr đã có thêm phím "blog this" cho phép mọi người trực tiếp chuyển nội dung trên trang về blog của họ.
+Website cá nhân là dịch vụ miễn phí, dễ xây dựng, dễ sử dụng, được đặt làm trang chủ trên nhiều máy tính cá nhân, và là công cụ hữu hiệu cho những ai muốn chia sẻ thông tin về mình trên mạng. Blog đã được sử dụng trong các chiến dịch tuyên truyền, dự án về nghệ thuật, báo điện tử... Chúng đóng vai trò là "điểm nhấn" cho những vấn đề nóng trên báo chí và cũng là nguồn cung cấp những chủ đề mới mà báo chí chưa bao quát hết được. 
+Technorati là trang web hoạt động tương tự như một công cụ tìm kiếm, ghi nhận những gì đang diễn ra với blogsphere (lãnh địa web cá nhân) - tên gọi chung của tất cả các blog trên toàn thế giới.
+

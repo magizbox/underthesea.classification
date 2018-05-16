@@ -1,0 +1,6 @@
+USB không dây sẽ loại bỏ Bluetooth
+Tại Diễn đàn phát triển Intel ở San Francisco (Mỹ), hãng sản xuất chip số 1 thế giới tuyên bố sản phẩm USB không dây sẽ xuất hiện tại các cửa hàng vào Giáng sinh năm nay và sự đón nhận rộng rãi của thị trường đối với công nghệ mới sẽ đưa Bluetooth vào dĩ vãng.
+Giao thức USB không dây sẽ được hoàn thiện vào cuối tháng 3 này còn bộ tiêu chuẩn kiểm soát truy cập sẽ được phê chuẩn vào cuối năm. USB không dây được thiết kế để sử dụng trong khoảng cách dưới 10m và cho phép tốc độ truyền dữ liệu tối đa là 400 Mb/giây. Trong 12 tháng nữa, chúng ta sẽ thấy mặt hàng USB không dây có mặt tại các điểm bán lẻ, Kevin Kahn, một quan chức của Intel, cho biết. Trên 200 hãng chế tạo đang chuẩn bị xuất xưởng các sản phẩm USB không dây. 
+Kahn cũng đã giới thiệu một thiết bị kết nối Ethernet (dongle) tương thích với cổng USB 2.0 và có thể cho phép bất cứ một cỗ máy nào có cổng USB sử dụng được nó. Điểm mấu chốt cho sự thành công của công nghệ mới chính là độ dễ sử dụng. Trong khi đó, Bluetooth đã làm nhiều người tiêu dùng thất vọng vì khả năng tương thích. USB thì ngược lại, đã được người tiêu dùng biết rõ và nhiều nhà phân tích còn đánh giá nó là giao diện thành công nhất trên thế giới. 
+Tham khảo thêm về công nghệ USB không dây tại đây.
+

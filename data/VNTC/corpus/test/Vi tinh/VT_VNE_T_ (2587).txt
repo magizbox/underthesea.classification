@@ -1,0 +1,7 @@
+Intel chi 10.000 USD để mua một tờ tạp chí cũ
+Tờ báo mà hãng sản xuất phần cứng số 1 thế giới nhắm đến là Electronics Magazine số ra ngày 19/4/1965, lần đầu tiên công bố rộng rãi định luật Moore, nền tảng tồn tại và phát triển của hãng phần sản xuất phần cứng số một thế giới này. 
+Trong số phát hành đó, tạp chí Electronics Magazine đăng bài viết của Gordon Moore, đồng sáng lập Intel, khẳng định số lượng các thành phần phần cứng tích hợp trên một bảng vi mạch điện tử sẽ tăng lên gấp đôi sau mỗi năm. 
+Chúng tôi đã sao lưu lại bài báo đó nhưng không có trong tay phiên bản chính thức. Gordon và bảo tàng của Intel cũng đều không có ấn phẩm đó, người phát ngôn của Intel cho biết. 
+Định luật Moore là một bước ngoặt lớn trong ngành công nghệ thông tin, giải thích tại sao nhà sản xuất có thể giảm giá thành trong khi vẫn tiếp tục nâng cao hiệu suất của phần cứng. Định luật này giúp người dùng biết thời điểm nào thì nên nâng cấp thiết bị mới, tạo điều kiện giúp ngành công nghiệp sản xuất phần cứng tiếp tục có đất làm ăn. 
+Mặc dù có ý nghĩa lịch sử quan trọng như vậy nhưng vào thời điểm ra đời, bài báo đó vẫn không thực sự được coi trọng. Theo Dan Hutcheson, Giám đốc điều hành của hãng VLSI Research (Mỹ), bài viết của Moore được đăng từ trang 114 trở về sau của Electronics Magazine. Tạp chí này đã ngừng phát hành trong vài năm vừa qua.
+

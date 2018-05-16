@@ -1,0 +1,7 @@
+ GeForce 7800 GTX: card đồ họa mạnh nhất của Nvidia
+Card đồ họa này là chiếc GeForce 7800 GTX, hiện được xem là card đồ họa mạnh nhất của dòng card đồ họa GeForce lừng danh của Nvidia. 
+Sản phẩm được tái thiết kế này bao gồm khả năng dựng hình mới gọi là “cấu trúc tạo bóng”, có khả năng thể hiện độ mịn của hình ảnh cao gấp đôi so với cấu trúc đã được thiết kế trước đây. Khả năng tạo bóng màu không có viền răng cưa sẽ gia tăng chất lượng hình ảnh lên như thật, nhất là ở các video game. 
+Ujesh Desai, tổng giám đốc của GeForce tại Nvidia cho biết:”Với hơn 300 triệu transitor, card đồ họa GeForce 7800 GTX là bộ xử lý đồ họa chuyên nghiệp nhất mà chúng tôi từng sản xuất. Với cấu trúc xử lý hình ảnh mới, chúng tôi có khả năng tạo nên những card đồ họa cực mạnh chuyên dùng cho các nhà sản xuất game, tạo điều kiện cho họ có thể bay bổng đến tột cùng mọi khả năng sáng tạo”. 
+Ngoài khả năng dựng hình siêu thực, chiếc GeForce 7800 này có mức tiêu thụ điện năng chỉ bằng một nửa so với GeForce 7800 đời trước. GeForce 7800 GTX có khả năng dựng hình cực tốt trên nền Microsoft DirectX 9 Shader Model 3.0, các tính năng dựng hình dựa trên lõi floating-point sẽ cung cấp chất lượng hình ảnh khi chiếu phim ở mức cao nhất mà các card đồ họa hiện nay khó có thể sánh bằng. 
+GeForce 7800 GTX được trang bị đến 256MB bộ nhớ đồ họa và có giá đến 639USD, tức tương đương giá của một máy tính để bàn loại khá hiện nay. 
+

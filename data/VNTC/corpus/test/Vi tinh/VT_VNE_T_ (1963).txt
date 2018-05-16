@@ -1,0 +1,27 @@
+Những phần mềm kiến trúc nổi bật
+7 chương trình hỗ trợ thiết kế được giới thiệu dưới đây sẽ giúp người sử dụng thỏa mãn phần nào với những tiện ích có được trong công việc của mình.
+Poly Trans 3D translation system 4.1.2
+Poly Trans là phần mềm dịch và hiển thị những bản vẽ 3D khá chính xác. Nổi bật ở chương trình này là sự kết hợp nhuần nhuyễn khéo léo các đối tượng hình khối 3D từ những phần mềm cơ bản có kết hợp cùng những đối tượng 3D của chương trình. Poly Trans được sử dụng để chuyển đổi các đối tượng 3D cùng hoạt cảnh của bản vẽ.
+Chương trình hỗ trợ xuất bản vẽ có kết hợp các đối tượng của 3Ds max, .3Ds, ACIS SAT, Apple 3DMF, Biovision, Directx, DXF, Electric Image FACT, FilmBox, GamExchange, IGES, Lightscape, Lightwave, Maya, OpenGL C code, OpenFlight, Rarasolids, POV, Pro/Engineer, Protein Database PDB, Renderman RIB, Renderware/ActiveWorlds, Rhino-3D, SoftImage-3D and XSL, Solid Edge, SolidWorks, StereoLithography.STL, STEP, trueSpace, USGS DEM, Vistapro, Viewpoint VET, VRML 1.0+2.0, Wavefront và XGL. Có một số định dạng đặc biệt chỉ có thể xuất hoặc nhập chứ không được hỗ trợ chuyển đổi sang định dạng khác. Poly Trans hỗ trợ cho hầu hết các định dạng 3D chuyên nghiệp và cả các định dạng 2D. Dung lượng của Poly Translà237,33 K.
+Địa chỉ download: www.okino.com
+3D Home architect home design suite deluxe
+Phần mềm này cho phép người dùng tạo được một ngôi nhà từ trong ý tưởng. Hỗ trợ mạnh cho CAD, 3D Home architect home design suite deluxe cung cấp công cụ để bố trí các phòng ốc, đồ đạc trong từng phòng và thậm chí cả việc tính toán vị trí đèn trong từng phòng hay cầu thang với thời gian nhanh nhất. Ngay khi chỉ nghịch ngợm với chương trình này, người ta cũng có thể phác thảo ý tưởng về một ngôi nhà với đầy đủ nội thất. Nó giúp người dùng có thể nhìn được toàn cảnh ngôi nhà như thật từ trong ý tưởng, cũng như hỗ trợ in ra giấy. Nếu trên bản vẽ có khu vực nào tối màu, các đường nét trên đó sẽ chuyển đổi sang màu trắng để cán bộ thi công dễ xem xét. Phần mềm này có dung lượng 160,97 MB.
+Địa chỉ download: www.broderbund.com
+CAD.OCX 1.0
+Đây là một ActiveX Control được phát triển bằng Visual Basic 6.0 giúp cho người sử dụng có thể dễ dàng thực hiện những đường nét phức tạp trên các bản CAD bởi nó hỗ trợ rất nhiều kiểu định dạng như dòng thẳng (line), vòng tròn (circle), đường cong (arc), hình chữ nhật (rectangle), hình cầu 3D (sphere), hình nón 3D (cone)... CAD.OCX 1.0 (dung lượng 94,84 K) còn có thể tính toán nhanh chóng độ dài, góc và xác định trung điểm của đường thẳng hay cung tròn. Chuyển đổi góc radians sang góc độ, gửi các ký tự vào AutoCAD thông qua các hộp thoại hỏi đáp, nhập một hoặc nhiều đường thẳng text trong bản vẽ, nhập các lớp mới, tính toán độ dốc và góc giữa các đường thẳng.
+Download CAD.OCX 1.0 tại đây.
+Home Plan Pro 4.5
+Các phần mềm CAD được sử dụng để thiết kế thường tiêu tốn rất nhiều thời gian của người sử dụng để thao tác trên nó cũng như học hỏi những tính năng mà nó mang lại. Thậm chí, có những thao tác trên bản vẽ rất phức tạp. Tuy nhiên, Home Plan Pro cho phép người vẽ có thể dễ dàng nhanh chóng tạo ra những sản phẩm chất lượng cao. Những đặc tính mà phần mềm được tích hợp trong nó như tạo nhiều bản sao, nhiều lớp bản vẽ multiple, hệ đo metre hoặc hệ đo của Mỹ, hàng tá các chế độ phủ hình và hàng trăm kiểu hình vẽ minh họa khác. Chương trình này có dung lượng là 3,28 MB.
+Địa chỉ download: www.homeplanpro.com
+Abracadata Architechture Home Suite
+Sản phẩm của Abracadate (dung lượng 50 MB) hỗ trợ cho khá nhiều hệ điều hành chứ không chỉ chạy được trên hệ Windows 32 bit như những phần mềm khác.
+Người sử dụng sẽ cảm thấy rất thoải mái khi trực tiếp dùng phần mềm này để tạo cho mình một ngôi nhà như ý. Architecture là một ứng dụng CAD đặc biệt, cung cấp cho người thiết kế hầu hết những công cụ để vẽ, hiển thị công trình của mình và nó rất dễ sử dụng ngay cho cả những người trình độ thấp.
+Download Abracadata Architechture Home Suite tại đây.
+CadStd Pro
+CadStd Lite là một ứng dụng mang tính chuyên sâu về một số lĩnh vực. Phần mềm rất dễ dàng học và sử dụng, bạn có thể sử dụng để vẽ thiết kế các chi tiết cho máy móc cơ khí, thiết kế nhà ở giản đồ hoặc các bản đồ. Chương trình cho phép bạn có thể xuất sang định dạng DXF, SVG, HPGL/1 hoặc có thể sử dụng chế độ copy vào bộ nhớ đệm của Windows sau đó dán vào các ứng dụng của Office hoặc những ứng dụng khác. Với định dạng DXF, bạn có thể tái sử dụng lại những bản thiết kế của mình từ phần mềm này trên những ứng dụng khác dạng CAD. Bạn có thể sử dụng phiên bản miễn phí CadStd Lite cho công việc của mình, tất nhiên ở phiên bản này không thể có được những tính năng mạnh như CadStd Pro nhưng nó cũng cho phép bạn biết được những tính năng mà bạn cần ở phiên bản Pro trước khi quyết định có nên mua nó để sử dụng hay không.
+Phần mềm này cho phép bạn có thể nhập file ngoài từ các định dạng DXF, HPGL/1 hoặc Gedcom files.
+Địa chỉ download: www.cadstd.com
+ArchiCAD 9.0
+ArchiCAD là một sản phẩm của GraphiSoft hỗ trợ mạnh cho các bạn khi làm việc với các bản vẽ 3D trên những dòng máy tính hỗ trợ 3D để mô phỏng một hệ thống các toà nhà trong những dự án lớn. Phần mềm này hỗ trợ rất nhiều cho những định dạng mà CAD thường được sử dụng.
+Địa chỉ download: www.graphisoft.com
+

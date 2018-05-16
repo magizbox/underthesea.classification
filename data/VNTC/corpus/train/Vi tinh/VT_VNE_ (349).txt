@@ -1,0 +1,7 @@
+Xuất hiện Netsky.B 
+Chỉ một ngày sau khi Bagle.B phát tán, các công ty phần mềm diệt virus lại cảnh báo một phiên bản sâu e-mail mới đang lây lan trên Internet. Một khi xâm nhập vào máy, nó sẽ cố gắng vô hiệu hóa công cụ chống virus, ăn cắp địa chỉ e-mail và tự sao chép vào các folder trong mạng chia sẻ.
+NetSky.B, hay còn gọi là Moodown.B, phát tán qua thư điện tử và các folder dùng chung trong mạng chia sẻ file Kazaa, BearShare, LimeWire và một số mạng ngang hàng khác. Giống như phiên bản trước, virus xuất hiện trong những e-mail với khoảng 50 tiêu đề được tạo ra bất kỳ như "something for you," "hello" hay "fake". Hãng an ninh TruSecure cho biết sâu ẩn trong một file đính kèm dạng nén (zip), cũng có những cái tên rất bất định, chẳng hạn như "document" "stuff" hay "party", phổ biến nhất là những file có phần mở rộng .exe, .scr hay .pif.
+Hãng Network Associates thông báo mỗi giờ nhận được khoảng 40-50 bản sao của virus từ cả hai nguồn khách hàng và những e-mail do sâu tự tạo ra. Hầu hết những bản sao này đều có vẻ xuất xứ từ Hà Lan và một nơi nào đó cũng ở châu Âu. 
+Symantec đánh giá virus này ở mức độ trung bình vì nó chỉ phát tán chứ không có dấu hiệu thực hiện tấn công. Hãng F-srecure (Phần Lan) cho rằng sự xuất hiện bất ngờ của những thông điệp mang virus mấy ngày qua có thể là một dấu hiệu đáng báo động về một làn sóng lây lan mới những chương trình phá hoại qua thư điện tử.
+Hiện nhiều phiên bản phần mềm ngăn chặn virus đã được phát hành và khách hàng được khuyến cáo nên khẩn trương nâng cấp. 
+

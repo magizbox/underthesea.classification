@@ -1,0 +1,9 @@
+Kính thông minh giữ mát cho ngôi nhà 
+Các nhà khoa học Anh vừa phát triển thành công một loại kính chỉ cho phép ánh sáng lọt qua, còn các tia hồng ngoại thì đứng ngoài khi căn phòng bắt đầu nóng lên quá mức.
+Ở nhiệt độ phòng bình thường, loại kính này cho cả ánh sáng nhìn thấy và ánh sáng hồng ngoại (thành phần tạo sức nóng) xuyên qua. Nhưng khi nhiệt độ tăng lên 29 độ C, một hợp chất phủ ngoài lớp kính sẽ bị biến đổi hóa học, ngăn không cho ánh sáng hồng ngoại lọt vào. Hiện tượng này giúp cho căn phòng không bị đốt nóng bởi ánh sáng mặt trời khi nhiệt độ bên ngoài tăng vọt.
+Các giải pháp khác trước đây - như kính đổi màu - không đáp ứng được sự thay đổi điều kiện như vậy. Khi làm giảm lượng ánh sáng vào phòng, kính đổi màu đồng thời giữ cho phòng lạnh mãi, ngay cả khi ánh sáng ấm áp của mặt trời là cần thiết.
+Bí quyết của loại kính mới nằm ở lớp chất vanadi dioxit bọc ngoài. Thông thường, vật liệu này truyền cả ánh sáng nhìn thấy và tia hồng ngoại. Nhưng khi nhiệt độ nóng lên 70 độ C, nó bị biến dạng. Các electron trong vật liệu thay đổi vị trí sắp xếp, khi đó, vật liệu từ dạng bán dẫn trở thành một kim loại, và ngăn không cho ánh sáng hồng ngoại đi qua.
+Trong quá trình chế tạo, Ivan Parkin và Troy Manning từ Đại học Tổng hợp London đã hạ thấp ranh giới biến đổi nhiệt nói trên xuống 29 độ C, bằng cách pha vào vật liệu kim loại vonfram. 
+Nhóm nghiên cứu cũng đã tìm ra cách thức để lồng ghép khâu phủ lớp chất liệu hóa học này vào quy trình sản xuất kính bình thường, nhờ vậy làm giảm giá thành sản xuất trên quy mô lớn. Họ hy vọng kính thông minh sẽ được thương mại hóa trong vòng 3 năm tới. Các nhà nghiên cứu cũng tin rằng loại kính này sẽ làm thay đổi cách thức thiết kế những tòa nhà lớn.
+Tuy nhiên, còn một vài vấn đề nhỏ mà nhóm nghiên cứu phải vượt qua. Trước tiên là lớp vật liệu phủ không gắn lâu dài vào kính. Sau nữa, bản thân lớp vật liệu này cũng có màu vàng đậm.
+

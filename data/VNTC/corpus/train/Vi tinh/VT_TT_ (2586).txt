@@ -1,0 +1,6 @@
+ Xuất hiện trojan bảo vệ đạo đức bằng… kinh Koran
+Khi lây nhiễm được vào máy tính, con trojan có tên Yusufali-A này có khả năng quét toàn bộ các địa chỉ web được gõ vào thanh địa chỉ của trình duyệt để tìm ra được hầu hết những từ ngữ bằng tiếng Anh có liên quan đến khiêu dâm. 
+Khi phát hiện một địa chỉ web nào đó có chứa một từ khiêu dâm là con Yusufali-A sẽ ngay lập tức làm ẩn đi (Minimize) cửa sổ trình duyệt có chứa trang web đồi trụy, và bật lên một thông điệp của kinh Koran. Nếu người dùng cứ cố tình bật lên để xem tiếp thì Yusufali-A sẽ thu nhỏ trang web một lần nữa và dòng chữ “For Exit Click Here” sẽ luôn hiện lên. Kết quả là người dùng bị nhiễm Yusufali-A sẽ không thể “thưởng thức” được trang web khiêu dâm đó. 
+Nhưng tác hại của Yusufali-A nằm ở chỗ là nó không thể phân biệt đâu là trang web khiêu dâm hoặc đâu là những trang web y tế, giáo dục, hoặc trang web cho trẻ vị thành niên ... vì hễ bất kỳ trang web nào có địa chỉ chứa những từ như “teen”, “sex”, “xxx” hoặc một bộ phận “nhạy cảm” nào đó trên cơ thể người là nó sẽ “nhào vô” xử lý ngay lập tức. 
+Trojan Yusufali-A hiện có tốc độ lây lan không nhanh, công ty chống virus Abingdon của Anh khuyên người dùng nên cập nhật ngay công cụ chống virus của Abingdon là có thể diệt được con trojan … không biết là lợi hay hại này. 
+

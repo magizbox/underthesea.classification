@@ -1,0 +1,15 @@
+ 60 tỷ email mỗi ngày Người dùng Internet trên toàn thế giới gửi đi không dưới 60 tỷ email mỗi ngày, nhưng đa phần trong số này là thư rác và email lừa đảo. 
+Ông Kai-Uwe Ricke, giám đốc điều hành Deutsche Telekom cho hay tội phạm mạng đang hoạt động ngày càng mạnh và tinh vi hơn. 
+"Lưu lượng email luân chuyển trên Internet khổng lồ như thế này đồng nghĩa với việc các ngành công nghệ, chính phủ và người dùng cần phải cảnh giác cao độ và hợp tác chặt chẽ với nhau", ông nói. 
+Bộ trưởng Nội vụ Đức Wolfgang Schauble cảnh báo về xu hướng phát triển mạnh mẽ của vấn nạn phishing trong thời điểm hiện nay. 
+Giới tội phạm thường tạo ra những email hoặc website giả mạo, có hình thức y như thật để lừa người dùng cung cấp mật khẩu cùng các thông tin cá nhân nhạy cảm khác. 
+Vấn nạn phishing không chỉ đe dọa người dùng, mà nó còn gây điêu đứng cho cả khu vực ngân hàng trực tuyến và thương mại điện tử. 
+"Trong năm 2005, các vụ phishing toàn cầu đã tăng một cách chóng mặt - 300% so với năm 2004. 
+Theo ước tính, giới phisher đã lừa thành công tới... 5% người dùng Internet trên toàn thế giới". Và tất nhiên, theo ông, thiệt hại kinh tế cho chúng gây ra không hề nhỏ. 
+Cơ quan phòng chống tội phạm liên bang BKA của Đức cho hay trong tháng này, họ đã đóng cửa được một mạng lưới phishing tại Đức và Latvia, phát hiện khách hàng của một số dịch vụ ngân hàng trực tuyến có khả năng bị mất tới hàng triệu euro. 
+Trong khi kỹ thuật săn mồi của giới phisher càng ngày càng tinh vi thì người dùng hầu như rất mất cảnh giác và không sử dụng loại hình bảo vệ nào. 
+Ngay như tại Đức, cứ bốn người thì lại có một người dùng không cài phần mềm diệt virus và quá nửa không có tường lửa. 
+Tình hình có khi còn tệ hơn tại Mỹ, Giám đốc điều hành Steve Ballmer của Microsoft bình luận. 
+Tuy nhiên, có những dấu hiệu cho thấy người dùng đã bắt đầu có ý thức hơn trong việc bảo vệ chính mình trước vòng vây của bọn tội phạm mạng. 
+Theo Steve, điều quan trọng là các hãng phần mềm như Microsoft phải đảm bảo để sản phẩm của họ bảo mật một cách tối đa có thể. Tuy nhiên, siết chặt bảo mật phải là nỗ lực tổng hợp của nhiều phía, từ chính quyền, ngành công nghệ cho đến bản thân người dùng. 
+

@@ -1,0 +1,6 @@
+Nối thêm đuôi cho mật khẩu
+Nhằm giúp khách hàng chống lại nạn lừa đảo qua mạng, hãng E-Trade (Mỹ) đã cung cấp dịch vụ bảo mật 2 thành phần, bao gồm 1 bộ username và password thông thường cùng 1 thiết bị tự động thay đổi theo thời gian. 
+Phương pháp bảo mật của hãng E-Trade, hoạt động trong lĩnh vực thương mại điện tử, gồm 2 nhân tố nhằm tăng cường khả năng bảo đảm an ninh trước vấn nạn phishing và nhiều thể loại trộm cắp công nghệ cao khác. Ngoài tên đăng nhập và mật khẩu thông thường, khách hàng còn được trang bị thêm SecurID, một thiết bị an ninh nhỏ như một ổ flash hay thẻ nhớ memory stick, sử dụng thuật toán mã hóa dữ liệu RSA. Mỗi khi người dùng đăng nhập, công cụ này sẽ tự động sinh thêm 6 chữ số ngẫu nhiên nối tiếp vào mật khẩu thường dùng trước khi mã hóa chúng. Cứ sau 60 giây, 6 chữ số này lại tự động thay đổi, do đó, dù cho bọn trộm có "túm" được mật khẩu thì cũng không thể sử dụng để đột nhập vào tài khoản của nạn nhân.
+Với biện pháp mới này, việc sử dụng phần mềm gián điệp để ghi lại thao tác gõ bàn phím hay chụp trộm màn hình máy tính nhằm mục đích ăn cắp username và password mà người sử dụng không hay biết sẽ trở nên ít tác dụng hơn. 
+Tuy nhiên, chỉ những người có tài khoản trị giá từ 50.000 USD trở lên mới được sử dụng dịch vụ bảo mật mới này của E-Trade.
+

@@ -1,0 +1,6 @@
+Tham khảo khi nâng cấp máy (1)
+Lắp 1 thanh RAM 256 hơn hay lắp 2 thanh 128 ? 1 thanh RAM 512 hơn hay lắp 2 thanh 256 ? Màn hình phẳng dùng hãng nào, Samsung hay LG loại 17". Ổ đọc CD của Samsung hay LG tốt hơn. Trên thị trường mới xuất hiện các sản phẩm của hãng BenQ, chất lượng thế nào? Xin cảm ơn.
+Hoàng Hải
+Hồi âm:
+Nếu có thể thì sử dụng một thanh RAM có dung lượng lớn hơn là sử dụng nhiều thanh RAM có dung lượng nhỏ. Điều này giúp cho việc nâng cấp (lắp thêm RAM) sau này tiện lợi hơn và ít tốt kém hơn. Tuy nhiên, nếu máy của bạn hỗ trợ Dual Channel đối với RAM thì nên sử dụng 2 thanh RAM giống nhau để tận dụng tính năng này. Sản phẩm của Samsung nhìn chung tốt hơn là của LG. Về màn hình phẳng thì bạn cần chọn loại có độ phân giải cao, cho response time thấp và còn khá nhiều tiêu trí khác nữa. Nếu có thể thì nhin chung là nên tránh sử dụng các sản phẩm của LG và Acer.
+

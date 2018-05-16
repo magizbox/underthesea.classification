@@ -1,0 +1,20 @@
+Boot bằng USB (2)
+Nhờ các bạn giúp tôi cách làm sao để có thể Boot từ USB. Dùng phần mềm gì, cách sử dụng. Tôi xin cảm ơn
+Chien
+Hồi âm:
+First you need download couple utilities :
+1. HP bootable flash utility:
+http://h18007.www1.hp.com/support/files/hpcpqdt/us/download/20306.html
+2. NTFS for DOS:
+http://www.datapol.de/dpe/freeware/
+Steps to make USB thumbdrive bootable and ability read\write to NTFS partition:
+1. Format diskette using xp Select FAT as "file system" and check "create an MS-DOS Startup disk" under "format options"
+2. Connect your USB thumbdrive to USB port on your computer
+3. Using "HP USB Disk storage Tool" format your USB Drive select FAT as File system and check "create a DOS startup disk" option, "Using DOS system files located at:" the diskette created in step 1.
+4. Change your bios to boot from USB first choice then verify that you can boot from your USB drive.
+5. Using NTFS 4 DOS utility Click on "Create NTFS capable boot foloppy". Select the Drive letter correspond to your USB drive and click Next then Next on the following screen.
+6. If successfull you end-up with Emergency bootable USB drive that can read\write to NTFS partition.
+Diep Dang
+Nếu bạn muốn làm một đĩa USB cứu hộ để dùng sau này có các chức năng để tiện cho việc làm máy thì có thể dùng bộ Hirent Boot CD cho USB. Cách làm như sau: Đầu tiên bạn cho đĩa Hirent Boot CD vào (Bản mới nhất là 7.7). Sau đó chạy Mini Window 98 và copy hết tất cả các file trong ổ A vào 1 thư mục nào đó. Ví dụ thư mục USB ở đĩa D. Hay trỡ về DOS và gõ: MD D:\USB; Copy . A:\ D:\USB Xong rồi bạn download tool HP Format: http://h18007.www1.hp.com/support/files/hpcpqdt/us/download/20306.html.
+Làm tương tự như trên, Format USB chọn định dạng FAT và chọn vào mục "create a DOS startup disk", điền vào "Using DOS system files located at:" D:\USB. Xong phần này bạn Copy thư mục BootCD trên đĩa Hirent Boot ở trên vào USB. Dung lượng tổng cộng khoảng 65MB. Như vậy bạn đã có 1 đĩa USB khởi động được và có tất cả các chức năng của đĩa Hirent Boot CD. Chúc bạn may mắn. Bài hướng dẫn ở trang chủ của Hirrent Boot CD. http://thanki.tk/ bạn có thể vào tham khảo.
+

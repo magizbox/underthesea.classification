@@ -1,0 +1,7 @@
+Lỗi nghiêm trọng trong game Unreal
+Công ty bảo mật Secunia (Anh) hôm qua cảnh báo về một khiếm khuyết lớn trong phần mềm trò chơi rất phổ biến nói trên. Lỗ hổng này có thể cho phép những kẻ có ý định khai thác khống chế các PC mục tiêu.
+Theo bản tin an ninh của Secunia, những kẻ có dụng ý xấu có thể gửi hàng chùm dữ liệu lớn tới công cụ an ninh mà phần mềm Unreal sử dụng để xác thực các server game trực tuyến. Một khi công cụ bảo vệ này đã bị vô hiệu hóa bởi tình trạng tràn bộ đệm do lượng dữ liệu lớn gây ra, hacker có thể triển khai mã tấn công tùy thích trên máy mục tiêu.
+Những game bị ảnh hưởng từ lỗi này bao gồm 5 phiên bản của Unreal, tất cả đều đã được vá lỗi bằng một phần mềm bổ sung tuần trước, bên cạnh 2 trò chơi khác là Postal2 và Deus Ex.
+Khiếm khuyết nói trên được Luigi Auriemma, một nhà nghiên cứu an ninh độc lập, phát hiện. Những tìm tòi của ông này đã đóng một vai trò quan trọng trong việc làm rõ trò chơi trực tuyến cũng là một kênh nguy cơ bảo mật. Auriemma từng phát hiện một số lỗi trong phần mềm của GameSpy, một dịch vụ cung cấp game trực tuyến rất nổi tiếng.
+Cùng với sự phát triển của nhiều dịch vụ và tính năng trực tuyến, trò chơi đã trở thành mảnh đất ngày một màu mỡ cho các hoạt động phá hoại trên mạng. Một khiếm khuyết được khắc phục gần đây trong trò chơi Half-Life và cả phiên bản offline của nó đã mở cửa cho các cuộc tấn công từ chối dịch vụ. Trong khi đó, phần mềm và dịch vụ của GameSpy thì cũng đã vài lần là tâm điểm của một số báo động an ninh.
+

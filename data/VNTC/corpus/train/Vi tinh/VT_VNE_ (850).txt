@@ -1,0 +1,8 @@
+Cấu hình Win Server 2003 làm router? (2)
+Máy chủ cài Win2003 Server, mạng LAN của tôi có một modem ADSL cắm thẳng vào hub để chia sẻ đường truyền Internet. Hiện nay mạng của tôi có nhu cầu kết nối với một mạng LAN khác lớp IP, tôi dự định gắn thêm 1 card mạng vào Server để làm router, hoặc dùng một máy riêng cài Win2000 Server để làm router có được không? Xin chỉ giúp cách cấu hình hoặc giải pháp khác, tôi không có điều kiện để mua router chuyên dụng.
+Xin chân thành cảm ơn.
+Hồi âm:
+Hai cach ban de cap deu co the thuc hien duoc. Tuy nhien ban de cap chua ro ve mo hinh mang ma ban dang su dung. Theo nhu nhung gi ban trinh bay, toi hieu la server Win 2003 cua ban khong truc tiep dieu kien modem. Do do ban nen gan card mang moi vao server nay khi do ban se chia se file tren server nay de dang hon. 
+Nguyen Kim Trung
+Thân chào! Ý tưởng của bạn được đó. Cắm thêm 1 NIC, và NIC đó nối với LAN khác lớp. Sau đó có thể sử dụng 1 trong hai cách. 1. Config Router and Remote Acces servise. 2. Dùng ICS. Chúc bạn thành công.
+

@@ -1,0 +1,6 @@
+Firefox 1.0.5 không vá lỗi JavaScript
+Tổ chức phần mềm mã mở Mozilla hôm qua đã trình làng bản nâng cấp cho Firefox để sửa một số lỗ hổng nảy sinh trong vòng hai tháng qua. Tuy nhiên, họ dường như đã bỏ qualỗ hổng do hãng Secunia phát hiện trong tháng 6.
+Hãng bảo mật Đan Mạch này khẳng định hầu hết các trình duyệt, kể cả phiên bản Firefox 1.0.4, đã dính phải lỗi JavaScript cho phép hacker ăn cắp mật khẩu và thông tin cá nhân quan trọng khác.
+Bản Firefox 1.0.5 nói trên được cung cấp để tải miễn phí tại trang web chính thức của Mozilla. "Đây thực chất là sự tổng hợp các bản vá lỗi và một vài cải thiện độ ổn định", Chris Hofmann, Giám đốc kỹ thuật của Mozilla, cho biết. "Chúng tôi đang cố gắng đi trước một bước so với tin tặc và dự đoán những nguy cơ về bảo mật có thể phát sinh trong quá trình vận hành trình duyệt. Bản mới này đã sửa cả những lỗi mà khi hoạt động một mình sẽ không gây ảnh hưởng lớn, nhưng chúng có thể bị kết hợp với nhau để tạo ra một cuộc tấn công nguy hiểm. Dù vậy, những lỗ hổng này đều phải có sự tác động nhỏ từ phía người dùng mới có thể phát huy tác dụng".
+Hofmann tiết lộ bản nâng cấp tương tự cho Thunderbird và Mozilla sẽ xuất hiện vào cuối tuần này. Firefox 1.1 sẽ là phiên bản đầu tiên của trình duyệt mã mở tích hợp cơ chế tự cập nhật phần mềm, cho phép người dùng không phải tải và cài đặt lại mã nâng cấp.
+

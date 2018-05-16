@@ -1,0 +1,8 @@
+1 sản phẩm của VN lọt vào vòng chung kết Imagine Cup
+Phần mềm 3DproS của đôi BK02, do Pham Hưu Ngôn - sinh viên Đai hoc Bach Khoa TP HCM lam trương nhom, đã được chọn là 1 trong 5 sản phẩm có số phiếu bầu trực tuyến cao nhất tại phần thi Đồ họa trong khuôn khổ cuộc thi do Microsoft tổ chức trên phạm vi toàn cầu.
+3DproS được thiết kế để giúp người dùng có thể tạo các hình ảnh 3D, điều khiển 3D tùy biến và giải quyết hàng loạt vấn đề về đồ họa. Ngoài việc dùng ngôn ngữ MathScript, 3DproS còn hỗ trợ FreePascal và MinGW C++. Cấu hình tối thiểu để có thể sử dụng sản phẩm này là: Windows 98, phần mềm .NET Framework và DirectX 9, bộ vi xử lý tốc độ 500 MHz, RAM 128 MB. 
+Imagine Cup là cuộc thi thường niên do hãng phần mềm Mỹ tổ chức nhằm khuyến khích sinh viên trên khắp thế giới sử dụng những công cụ mới nhất của Microsoft để tạo ra các sản phẩm công nghệ cao có ý nghĩa thực tiễn đối với cuộc sống. Bươc sang năm thư hai, cuộc thi quy tụ hàng nghìn thí sinh đến từ hơn 70 quốc gia và lãnh thổ trên toàn cầu.
+Có 4 hạng mục thi gồm: thiêt kê phân mêm (Software design), đô hoa (Rendering), phim ngăn (Short film) va thuât toan (Algorithm). Năm nay, Imagine Cup đươc mơ rông thêm 3 hang muc ngoai phân thiêt kê. 
+Việt Nam tham dự các phần thi thiết kế, đồ họa và thuật toán. Đô hoa là vòng thi mà kết quả dựa trên số phiếu bình chọn trưc tuyên của người dùng. Cùng với đội BK02 của Việt Nam còn có 4 đội của Trung Quốc, Columbia, Bỉ và Latvia sẽ tham dự vòng chung kết tại Brazil vào tháng 7.
+Phần thi thuật toán có 5 thi sinh của Bulgaria, Trung Quốc và Pháp lot vao vong chung kêt. Trong khi thi thiêt kê phân mêm (được tổ chức tại từng quốc gia) sẽ diễn ra ở Việt Nam trong tháng 6.
+

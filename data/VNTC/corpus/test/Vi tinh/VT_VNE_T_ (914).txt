@@ -1,0 +1,6 @@
+Sửa tài liệu trong Adobe Reader 6.0 (1)
+Tôi hiện đang sử dụng chương trình Adobe Reader 6.0 để mở một số tài liệu của đồng nghiệp gửi cho tôi.Nhưng có một vấn đề bất cập là tôi không thể nào sửa được nhưng số liệu mà không chính xác.Vậy tôi mong quý báo chỉ dùm tôi cách sửa lại nhưng số liệu này càng sớm càng tốt. Xin chân thành cảm ơn. Kính thư.
+Lê Vương Mạnh
+Hồi âm:
+Để sửa nội dung của file .PDF, bạn cần phải có trình Acrobat (không phải là Acrobat Reader). Tuy nhiên, tốt nhất là bảo đồng nghiệp của bạn gửi các văn bản đó bằng định dụng soạn thảo được (như .doc - file của Word chẳng hạn). 
+

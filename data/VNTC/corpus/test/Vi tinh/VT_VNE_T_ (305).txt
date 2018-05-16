@@ -1,0 +1,7 @@
+Âm thanh MP3 nổi
+Những nhạc phẩm MP3 lâu nay vẫn bị ca thán là âm thanh hai chiều, kém chất lượng. Điều này có thể được cải thiện khi Fraunhofer Institute, một tổ chức nghiên cứu tại Đức, giới thiệu biện pháp tạo âm thanh nổi, có thể ứng dụng trong những file nhạc nhỏ xinh.
+Thông thường, âm thanh nổi được tạo ra bằng cách ghi âm trên nhiều rãnh khác nhau. Khi đó, người nghe có cảm giác âm thanh đến tai mình từ ba hay nhiều chiều. Song file nhạc sẽ phình to khi số rãnh tăng lên, khiến nó khó có thể trao đổi trực tuyến hay đưa vào các máy chơi nhạc xách tay.
+Để giải quyết, các nhà nghiên cứu tại Fraunhofer Institute đã đưa ra phương pháp lưu trữ thông tin mà không cần ghi lại lượng dữ liệu khổng lồ. Phương pháp này thêm vào quá trình giải mã dòng MP3 một lượng thông tin về đặc tính không gian của rãnh nhạc chính, xem nó tới từ đâu. Chính thông tin thêm vào tạo ra hiệu ứng âm thanh nổi.
+Fraunhofer khẳng định các file nhạc ghi âm theo công nghệ mới này sẽ chạy trơn tru trên các loại máy và phần mềm MP3 cả mới lẫn cũ. Tuy nhiên, chỉ các máy nghe xử lý được lượng thông tin thêm vào mới có thể tạo ra âm thanh nổi. Còn những máy chơi thông thường thì chỉ cho ra ra âm thanh hai chiều.
+Người nghe có thể được kiểm chứng tuyên bố của Fraunhofer từ tháng 7 này, khi những sản phẩm đầu tiên dung công nghệ âm thanh nổi mới được tung ra.
+

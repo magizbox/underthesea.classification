@@ -1,0 +1,6 @@
+ Apple mừng lễ tình nhân với MacOS X 10.4.5
+Bản cập nhật 10.4.5 có thể được tải về từ tính năng cập nhật phần mềm Software Update và được Apple khuyến cáo người dùng đang sử dụng hệ điều hành Tiger này nên nâng cấp lên bản mới nhất. 
+Bao hàm các phần vá lỗi chung cho hệ điều hành cũng như những phần vá lỗi cho các ứng dụng như Safari, Dashboard, Quicktime, Front Row … Ngoài ra, còn những cập nhật về công nghệ như: 
+Hội thảo video với iChat Biên dịch web từ Safari Xem Quicktime Streaming Media qua một tường lửa Đồng bộ hóa iDisk và Portable Home Directory Kết nối VPN đến máy chủ Cisco khi sử dụng NAT Hỗ trợ thêm nhiều model máy in Epson … 
+Người dùng có thể cập nhật qua Software Update hoặc truy cập tại đây để tải về phiên bản 10.4.5. Thông tin về phiên bản MacOS X 10.4.5 xem thêm tại Apple website . 
+

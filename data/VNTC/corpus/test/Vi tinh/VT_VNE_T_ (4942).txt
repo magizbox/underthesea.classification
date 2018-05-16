@@ -1,0 +1,7 @@
+Cách dùng PC điều khiển máy fax (1)
+Hiện tôi có 1 máy tính để bàn + modem + 1 máy fax panasonic. Làm thế nào để có thể gửi fax bằng PC hoặc điều khiển máy fax tự động quay số mà không phải đứng bên cạnh máy để tiết kiệm sức lao động. Xin cảm ơn.
+Nguyễn Trường Thịnh
+Hồi âm:
+Bạn không thể dùng PC để điều khiển máy Fax đó được. Tuy nhiên bạn có thể dùng PC để nhận và gửi Fax thông qua modem. Hạn chế là PC không thể gửi fax của các văn bản in sẵn, trừ khi bạn có máy quét. 
+Để thiết lập Fax trong PC bạn làm như sau:   Vào Control Panel - mở "Printer and Faxes" - File - Set up Faxing. Rồi làm làm theo các hướng dẫ để tạo lập Fax. Lúc này bạn có thể bắt đầu Fax trực tiếp từ Word hoặc các ứng đụng khác. Bạn cũng có thể thiết lập để máy tự động nhận fax.
+

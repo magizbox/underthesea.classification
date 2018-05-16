@@ -1,0 +1,4 @@
+Lỗi sound card 
+Main cua minh da bi chet cong PCI nen minh phai dung cong ISA de cam sound card, hieu YAMAHA OPL3-SAx (doi cu).Binh thuong van nghe duoc, nhung khi nghe nhac Online thi am thanh bi leo nheo, kho nghe lam, nhu bang tu bi roi. Va xem cac file dinh dang AVI thi am thanh cung bi nhu vay. Mong cac ban giup minh voi. Keo da kho lam roi. Cam on.
+Quoc
+

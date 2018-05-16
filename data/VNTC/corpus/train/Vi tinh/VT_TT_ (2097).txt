@@ -1,0 +1,7 @@
+ Virus hạ gục hệ thống trao đổi chứng khoán Nga
+3 thị trường chứng khoán lớn nhất của Nga đã phải đóng cửa tạm thời để khắc phục sự cố từ 16 giờ 15 phút đến 17 giờ 20 chiều ngày 2-2. 
+Larisa Gorbunova, phát ngôn viên của Hệ thống chứng khoán thương mại Nga (RTS) cho biết rằng mọi hoạt động giao dịch chứng khoán đã bị ngưng trệ trong một thời gian ngắn và công việc khắc phục sự cố diễn ra khá nhanh. 
+Hiện vẫn chưa rõ virus máy tính nào đã lập nên “kỳ tích” này nhưng một số nguồn tin từ RTS đưa ra cho biết rằng một kẻ nào đó đã tung virus thành công vào một máy tính vừa kết nối Internet vừa được kết nối vào hệ thống giao dịch chứng khoán của Nga. Dmitry Shatsky, phó chủ tịch của RTS cho biết rằng con virus này từ máy tính bị lây nhiễm đã xâm nhập vào mạng nội bộ của RTS và gây nghẽn mạch nghiêm trọng dẫn đến hiện tượng quá tải ở các bộ định tuyến trong mạng của RTS. 
+Dmitry Shatsky trấn an mọi người rằng không có bất kỳ một dữ liệu nào bị rò rỉ thông qua cuộc tấn công của virus trên, và hiện nay hàng loạt các biện pháp bảo mật mới nhất đã được tăng cường nhằm ngăn ngừa tối đa việc các virus có thể xâm nhập thành công trong tương lai. 
+Gorbunova phân bua rằng virus xâm nhập trên đã bị phát hiện ngay sau khi chui được vào mạng, máy tính bị lây nhiễm đã bị cách ly ngay lập tức và mạng máy tính phải ngưng hoạt động trong một giờ là thời gian để các chuyên gia tái khởi động cũng như quét virus toàn bộ hệ thống. RTS cho biết rằng sẽ kết hợp với cảnh sát để tiến hành một cuộc điều tra quốc tế về vụ việc này. 
+

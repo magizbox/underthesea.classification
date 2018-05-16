@@ -1,0 +1,6 @@
+Khe cắm mở rộng (1)
+Khe cắm mở rộng theo chuẩn nào được sử dụng trên các bo mạch chủ hiện nay? Chúng có điểm gì đặc biệt? Hãy tư vấn cho tôi về các thiết bị sử dụng trên loại khe cắm này. Xin chân thành cảm ơn và rất mong sớm nhận được hồi âm.
+VietDB
+Hồi âm:
+Bạn không nói rõ là muốn hỏi về khe cắm mở rộng cho thiết bị gì nên cũng khó để nói cho đúng thắc mắc. Thường cụm từ "khe cắm mở rộng" để nói đến các loại khe cắm có nhiều để có thể cắm thêm cùng thiết bị như RAM chúng ta có thể cắm thêm RAM để chạy chung với RAM đang có. Các lọai khe cắm cho các thiết bị đã tích hợp trên mainboard hoặc là gắn thêm các thiết bị khác. Phổ biến và tồn tại lâu nhất là PCI, chúng ta có thể cắm vào nhìêu thiết bị như Sound card, modem,.... Còn với những máy tính sau này, nhiều mainboard có tích hợp cả sound lẫn VGA on board nên chúng ta không cần thiết mua thêm. Tuy nhiên chúng ta cũng nên mua cả lọai mainboard có thêm các khe cắm mở rộng để gắn thêm sound card và video, vì không cần thay mainboard khi muốn gắn thêm card rời. Với VGA thì có khe AGP 6x, 8x và mới nhất là PCI express. 
+

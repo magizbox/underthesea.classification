@@ -1,0 +1,5 @@
+Skype cung cấp dịch vụ tin nhắn
+Người sử dụng phần mềm gọi điện qua Internet miễn phí này giờ đây có thể gửi những thông điệp text tới các thuê bao di động mà không bị tính phí.
+Dịch vụ do công ty Connectotel ở London (Anh) cung cấp và đang trong giai đoạn thử nghiệm beta. Để sử dụng tiện ích này, người dùng Skype phải khởi động một hội thoại kiểu chat qua cổng smsgateway của Connectotel và nhập số điện thoại theo định dạng quốc tế, tức là có đủ mã nước, mã vùng, tiếp theo là nội dung tin nhắn. Cổng sms sau đó sẽ chuyển tiếp (forward) thông điệp qua mạng di động.
+Người sử dụng Skype phải được Connectotel chấp nhận trước khi tham gia dịch vụ, hiện được cung cấp bằng các thứ tiếng Basque, Bulgaria, Croatia, Hà Lan, Anh, Faroe, Pháp, Đức, Ba Lan và Nga.
+

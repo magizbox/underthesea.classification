@@ -1,0 +1,14 @@
+Nâng cấp cấu hình máy tính G6 và Thánh Gióng
+Các nhà cung cấp PC giá ưu đãi bước vào giai đoạn kinh doanh mới bằng việc tăng cường tốc độ cho các dòng máy "bình dân". Sau hơn nửa năm tung sản phẩm ra thị trường, đại diện hai liên minh đều đánh giá chương trình của họ đã thành công.
+Theo ông Nguyễn Minh Huyên, Trưởng phòng marketing Công ty CMS, thành viên liên minh Thánh Gióng, việc ra đời PC Thánh Gióng là sự tất yếu của thị trường máy tính nói chung. "Đó là xu thế mà nhà sản xuất bắt buộc phải thiết kế ra những sản phẩm theo đúng nhu cầu của từng đối tượng khác nhau và Thánh Gióng chỉ là bước đi đầu tiên. Thống kê số lượng tiêu thụ PC Thánh Gióng CMS tính đến giữa tháng 3 là xấp xỉ 13.000 chiếc. Tôi cho rằng chương trình của chúng tôi đã thành công", ông Huyên nhận định.
+Tuy nhiên, Trưởng phòng marketing của CMS không tiết lộ gì nhiều về kế hoạch kinh doanh máy tính Thánh Gióng giai đoạn hai. "Khả năng là chúng tôi sẽ tăng cường tốc độ cho các sản phẩm T500C và T500P nhưng mức giá chắc chắn sẽ không giảm. Việc có thêm cấu hình mới là hoàn toàn có thể", ông Huyên đánh giá.
+Trong khi đó, FPT Elead, thành viên thứ hai trong liên minh Thánh Gióng, đã trình làng PC M603, một cấu hình máy tính Thánh Gióng mới và dự tính từ nay đến cuối năm, sẽ cung cấp cho thị trường khoảng 10.000 bộ.
+Nhanh chân hơn, từ trung tuần tháng tư, nhóm G6 đã tung ra thị trường loạt sản phẩm G6 đã được nâng cấp cấu hình với các mức giá vẫn giữ nguyên.
+Ông Trần Xuân Kiên, Giám đốc Công ty Trần Anh trong nhóm G6, khẳng định: "Mục đích việc nâng cấp cấu hình của chúng tôi là nhằm tăng thêm sự hấp dẫn của máy G6 đối với các sản phẩm cạnh tranh trên thị trường. Tôi cho rằng sự thay đổi này sẽ đẩy lượng tiêu thụ PC G6 tăng khoảng 20%".
+Theo ông Kiên, thời gian tới liên minh này sẽ nhắm đến các sản phẩm khác như notebook, máy chủ... "Tôi cho rằng, máy tính giá rẻ sẽ tiếp tục phát triển với thị phần tăng nhanh chóng. Người dân sẽ muốn mua PC nguyên chiếc thay vì lựa chọn linh kiện để lắp gép, tất nhiên khi đó giá máy bộ phải thật hợp lý", đại diện G6 nhận định. 
+Sự thay đổi trên các cấu hình máy tính G6:
+Máy F10 và F11: thay CPU Celeron 1,8 GHz bằng Celeron 2,0 GHz, các mức giá không đổi.
+Máy F12 và F13: thay DDRam 128 MB bằng DDRam 256 MB, giữ nguyên các mức giá.
+Máy F15A: thay màn hình 15" LCD bằng monitor 17" LCD, không đổi giá.
+Riêng cấu hình F14: nhà cung cấp quyết định đổi CPU Pentium IV 3, 0 GHz xuống Pentium IV 2,93 GHz và mức giá giảm xuống 600.000 đồng. 
+

@@ -1,0 +1,6 @@
+Windows Server 2003 SP1 có công cụ khóa cập nhật 
+Đây là tính năng phong tỏa update tương tự như ở Windows XP SP2. Nó giúp cho các doanh nghiệp có thời gian kiểm tra hệ thống của họ trước khi cập nhật rộng rãi.
+Công cụ nói trên ngăn chặn việc tải Windows Server 2003 SP1 từ dịch vụ download trực tuyến của Microsoft thông qua Automatic Update, Windows Update hay Microsoft Update. Việc ngăn chặn được thực hiện cho đến ngày 30 tháng 3 năm 2006.
+Thành phần của bộ công cụ này gồm 3 phần: file thi hành đã được xác thực bởi Micosoft (Microsoft signed executable), một script và mẫu ADM (ADM template). File thi hành tạo khóa đăng kí với những lựa chọn cho phép khóa hoặc không khóa việc tải về bản SP1 trong khi vẫn cho phép tải về các bản vá và sử lỗi khác. Đoạn script cũng làm việc tương tự như khóa đăng kí nhưng cho phép người dùng khóa hoặc không khóa trên các máy đặc biệt. Mẫu ADM làm việc với chính sách nhóm của Active Directory. Mẫu này bao gồm những thiết lập chính sách nhóm mới để khóa hoặc không khóa việc cung cấp các bản vá lỗi.
+Công cụ này có thể tải về tạiđây.
+

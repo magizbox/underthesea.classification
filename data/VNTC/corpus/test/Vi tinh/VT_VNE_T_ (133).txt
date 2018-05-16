@@ -1,0 +1,25 @@
+Bill Gates: 'Phải lạc quan khi nghĩ đến ích lợi của công nghệ'
+Ở tuổi 48, Chủ tịch tập đoàn phần mềm số 1 thế giới, người sở hữu số tài sản 46 tỷ USD vẫn chưa mất đi sức cuốn hút, thậm chí còn giàu ý tưởng và sắc sảo hơn. Ông ăn nói và ứng xử như một chính trị gia, vẫn lạc quan và khát khao về vô vàn tiềm năng trong công nghệ. 
+- Lúc còn niên thiếu, mơ ước lớn nhất của ông là gì?
+- Tôi mong mỗi một người đều có một cái máy tính. Giấc mơ ấy trong chừng mực nào đó đã trở thành hiện thực. Hiện nay trên thế giới, đã có 600 triệu người sở hữu trung bình một PC các loại.
+- Ông nghĩ sao khi một người từng bỏ học đại học giữa chừng lại lên lớp" người khác về tầm quan trọng của việc học hành đến đầu đến đũa?
+- Nếu anh có cơ hội để tham gia ngay từ đầu một sự chuyển biến nào đó, thì việc ngưng học một hai năm để xem mình có thực sự đạt được điều đó hay không, cũng là việc nên làm. Giống như tôi đã từng như vậy. Tuy nhiên, hoàn tất trọn vẹn khóa học vẫn là một điều rất quan trọng.
+- Khi đi học đại học, điều quan trọng nhất là xung quanh ta luôn có những con người thông minh hơn mình. Cảm nhận của ông về điều này thế nào?
+- Chắc chắn là tôi đã học được rất nhiều. Tôi vào lớn toán khóa 55, trong đó tất cả mọi sinh viên đều có điểm SAT là 800 và điểm AP là 5. Điều đó chắc đã đủ minh họa cho những gì anh vừa hỏi. Đó thực sự là một môi trường xuất sắc.
+- Gần đây, thư rác đã trở thành một vấn nạn gây đau đầu cho người sử dụng Internet. Theo ông xử lý vấn đề này như thế nào?
+- Cũng phải mất vài năm để phát triển, hợp tác và triển khai những công cụ phòng chống mới. Điều quan trọng là phải có sự kết hợp cả hai biện pháp kỹ thuật và pháp lý.
+- Vậy Microsoft có kế hoạch gì trong cuộc đấu tranh chống spam?
+- Chúng tôi đang xúc tiến một phần mềm có khả năng thay đổi các nguyên tắc xác thực thư điện tử có tên ID Caller. Đây là một thủ tục mà những giao dịch qua e-mail với người sử dụng đều phải trải qua. Trong trường hợp thư liên lạc là của người lạ, chương trình sẽ đảm bảo phân biệt liệu đó có phải là thư rác hay không. Chúng tôi còn phải đảm bảo một yếu tố nữa là các đơn vị cung cấp dịch vụ mail cùng quán triệt điều này và tham gia hợp tác để có được một giải pháp hoàn hảo. Nhân nói về chuyện spam, cách đây vài hôm đứa con gái tôi hớn hở chạy vào khoe: Chúng ta có nhiều tiền rồi bố ơi!. Hóa ra cái nó tìm thấy là một thông điệp spam. Tôi phải nói vui với nó là nhà mình không cần tiền nữa. 
+- Microsoft đang phát triển một công cụ tìm kiếm mới. Đâu là điểm khác biệt giữa sản phẩm của các ông và dịch vụ của Google?
+- Chúng tôi áp dụng rất nhiều phát minh mới vào việc nhận dạng ngôn ngữ tự nhiên. Hiện nay, nếu gõ một từ như chip, kết quả tìm kiếm mà bạn nhận được liên quan đến cả món khoai tây rán lẫn bộ vi xử lý máy tính. Nói chung là rất nhiều thứ nực cười. Vì thế, điều quan trọng là máy tính phải đọc được các bài báo và hiểu được ít nhiều nội dung trong đó. 
+- Việc thuê nhân công giá rẻ ở nước ngoài sẽ có tác động gì đối với thị trường lao động trong lĩnh vực công nghệ ở Mỹ?
+- Những kỹ năng hàng đầu mà các trường đại học Mỹ cung cấp luôn luôn được chào đón. Thách thức đối với Mỹ là phải tăng tỷ lệ nhân công có trình độ xuất sắc nhất thế giới với những kỹ năng này. Đã có thời công nghệ sản xuất chip nhớ của Nhật Bản là mối đe dọa kinh tế của Mỹ. Nhưng Mỹ vẫn sẽ thịnh vượng nếu đầu tư tốt vào nhân lực. Microsoft dự định vẫn sẽ duy trì hầu hết bộ phận nghiên cứu phát triển tại trụ sở ở Red Mond, Washington và chúng tôi sẽ rót 6,8 tỷ USD vào nghiên cứu phát triển.
+- Tổ chức từ thiện mang tên ông đã có ngân quỹ là 26 tỷ USD. Ông phân bổ số tiền này như thế nào?
+- Ưu tiên lớn nhất là sức khỏe của người dân trên khắp thế giới. Chúng tôi đánh giá tiêu chí này thông qua triết lý Làm thế nào để chúng ta có thể cứu được tính mạng nhiều người nhất. Hiện nay, có đến 30 căn bệnh cần những loại dược phẩm điều trị và vacxin tốt hơn để loại trừ. Chiến dịch vacxin tăng cường mà chúng tôi thực hiện đã góp phần bảo vệ cuộc sống của gần một triệu người. Ngoài phạm vi của tổ chức này, như quý vị đã biết, kể từ năm 2003, Microsoft cũng đã cam kết chi hơn 1 tỷ USD trong thời hạn 5 năm cho các chương trình thu hẹp khoảng cách số. 
+- Ông đã nói với các con mình rằng chúng sẽ chỉ nhận được một phần rất nhỏ trong số tài sản của ông rồi chứ?
+- Con gái lớn của tôi, 7 tuổi, hiểu rằng mỗi khi gia đình đi châu Phi và Ấn Độ trong các dự án từ thiện, điều đó có nghĩa chúng tôi là những người may mắn khi có đủ tiền cần thiết để góp phần cải thiện sức khỏe của những con người ở nơi đó và góp tặng tiền một cách đúng đắn. Tất cả những điều này giúp lũ trẻ hiểu được vấn đề.
+- Các con ông có thoải mái về quyết định của ông không?
+- Đợi khi nào chúng 21 tuổi, xin mời quý vị gọi điện tới hỏi chúng xem.
+- Đối với các sinh viên công nghệ thông tin, ông muốn nhắn nhủ điều gì?
+- Tôi chỉ có một thông điệp rất đơn giản: Phải luôn lạc quan khi nghĩ đến biết bao niềm vui mà một công việc trong ngành khoa học máy tính đem lại cũng như biết bao ích lợi mà những tiến bộ trong công nghệ này sẽ còn tạo ra.
+

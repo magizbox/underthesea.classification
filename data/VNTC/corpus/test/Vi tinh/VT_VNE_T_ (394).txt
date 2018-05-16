@@ -1,0 +1,9 @@
+Copy thư từ Yahoo (2)
+Hiện nay hòm thư Yahoo của tôi chật cứng, tất nhiên là tôi không muốn xoá thư, tôi muốn copy toàn bộ thư có sang hòm thư mới (hoăc tải về máy). Anh chị nào biết cách chỉ giúp tôi với! Cảm ơn rất nhiều. 
+Tôi đã làm theo cách hướng dẫn của anh Tuấn dưới đây để copy thư từ hòm thư yahoo về máy (hoặc forward sang địa chỉ mail khác) nhưng không được, tất cả cac dịch vụ đều từ chối. Ai có cách gì hay chi giúp tôi với.
+Kiều Vân
+Hồi âm:
+Bạn có thể dùng một số chương trình tải mail từ hòm thư POP3 như web2pop, Yahoo pop rồi tải các mail từ hòm thư yahoo của bạn về máy cá nhân. Để tải các phần mềm tải thư này, bạn vào trang http://www.google.com và tìm kiếm với từ khoá web2pop, yahoo pop. Đây là link tới phần mềm web2pop: http://media.fastclick.net/w/get.media?sid=5296m=5url=http%3A//www.downseek.com/download/get/%3Fid%3D17489%26url%3Dhttp%3A//www.jmasoftware.com/ftp/web2pop.exe
+Tuan
+Using Outlook ( Microsoft or Express ) Setup Yahoo POP3 mail. (Information how to setup POPP3 mail in Yahoo or Outlook ). Open Outlook.. go to Tools/Accounts/Properties/advanced. Unmark "leave a copy of messages on server." Log on to outlook mail. All mail from the server will be loaded in the outlook mail computer and the mail box at yahoo server will be empty.
+

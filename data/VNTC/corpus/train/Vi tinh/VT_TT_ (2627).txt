@@ -1,0 +1,5 @@
+ Toshiba giới thiệu bộ cảm biến CMOS 3,2 megapixel cho ĐTDĐ 
+Một số mẫu đầu tiên của bộ cảm biến hình ảnh ET8E99-AS đã được Toshiba bán ra với giá 5.000 yên/bộ tức khoảng 44 USD. Toshiba sẽ bán ra đại trà sản phẩm này vào cuối năm nay với công suất khoảng 300.000 đơn vị/tháng. 
+Ở chế độ chiếu video thì bộ cảm biến ET8E99-AS sẽ được tích hợp với bộ cảm biến 2080H×1560V để vận hành ở chế độ 15 khung hình/giây với độ phân giải toàn phần QXGA, còn nếu “ép” lại với màn hình nhỏ hơn thì có thể đạt được tối đa 30 khung hình/giây. 
+ET8E99-AS sẽ được trưng bày chi tiết tại cuộc Triển lãm công nghệ cao CEATEC JAPAN 2005 được tổ chức từ 4 đến 8-10 tới tại Nhật. 
+

@@ -1,0 +1,9 @@
+ Chuyển đổi đơn vị tính toán với Unit Converter
+Unit converter 1.0 được phát triển bởi RjH Software và cung cấp hoàn toàn miễn phí đến người dùng. Unit converter cho phép bạn dễ dàng chuyển đổi các đơn vị đo lường, kích thước với bốn chức năng chính: 
+Chuyển đổi qua lại các đơn vị thông dụng. 
+Tự động copy kết quả vào clipboard. 
+Điều khiển định dạng và độ chính xác của kết quả. 
+Danh mục và đơn vị đo lường được lưu trong một tập tin riêng biệt. 
+Unit converter 1.0.1 hoạt động trên hầu hết các phiên bản của hệ điều hành Windows 95/98/NT/2000, hỗ trợ hoán đổi 271 đơn vị đo lường trong 13 lĩnh vực khác nhau như: diện tích (mẫu Anh, hecta, mét vuông, kilomet vuông, dặm vuông ..), khoảng cách (centimet, inch, mét, dặm, feet, năm ánh sáng, fulông, sải…), năng lượng (BTU, Jun, calori, kilowatt giờ, ergon..), khối lượng (kg, gram, ounce, pound, tấn, gren …), điện năng, áp suất, bức xạ, tốc độ, thời gian … Để tham khảo đầy đủ danh sách các đơn vị đo và các lĩnh vực được hỗ trợ bởi Unit converter, bạn có thể xem tại đây hoặc download tập tin routines.ucf vào chung với thư mục cài đặt Unit converter (nếu tập tin routines.ucf của bạn đã cũ). 
+Nhỏ gọn dễ sử dụng, giao diện thân thiện và hơn nữa là hoàn toàn miễn phí. Unit converter rất hữu ích và cần thiết cho bạn. 
+

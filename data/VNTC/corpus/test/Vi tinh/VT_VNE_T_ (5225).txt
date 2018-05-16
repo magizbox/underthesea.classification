@@ -1,0 +1,7 @@
+Dịch vụ Internet di động đầu tiên có mặt tại VN
+Công ty Viễn thông Điện lực VN (EVN Telecom) vừa thử nghiệp thành công dịch vụ Internet di động. Với tốc độ đạt 156 Kbps, dịch vụ này được coi là giải pháp tối ưu dành cho những người có nhu cầu kết nối Internet trên máy tính xách tay.
+Dịch vụ băng rộng di động của EVN Telecom sử dụng công nghệ CDMA 2000-1X, tần số 450 Mhz, cho phép người sử dụng kết nối Internet trực tiếp trên máy điện thoại hoặc thông qua máy tính cá nhân với tốc độ 156 Kbps đối với mạng 1X tại bất cứ nơi nào có phủ sóng. 
+Để sử dụng dịch vụ, khách hàng cần có máy tính xách tay, card kết nối Internet và thực hiện việc kết nối qua cổng USB với điện thoại di động do EVN Telecom cung cấp thay vì phải qua đường điện thoại cố định thông thường.
+Ông EJ Kim, Chủ tịch tập đoàn Ubiquam - đơn vị cung cấp thiết bị trực tiếp cho EVN Telecom, cho biết, với dịch vụ này, các nhà kinh doanh có thể đọc báo điện tử, gửi và nhận e-mail, sử dụng điện thoại quốc tế VoIP hoặc xem báo cáo khi ngồi trên xe di chuyển với tốc độ cao, hay khi đang dạo bước trên sân golf. 
+Hiện nay, Ubiquam đang giới thiệu các sản phẩm card kết nối Internet UM300, UM100, thiết bị điện thoại di động với nhiều tính năng U100 (màn hình màu, âm thanh nổi), U200 (màn hình màu, âm thanh nổi), U105 (màn hình màu, âm thanh nổi, camera).
+

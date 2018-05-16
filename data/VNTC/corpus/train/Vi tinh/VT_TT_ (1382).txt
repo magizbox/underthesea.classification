@@ -1,0 +1,9 @@
+ Intel "phản công" AMD trên thị trường máy micro
+Tháng tới, diễn đàn phát triển Intel sẽ có những thông báo sáng sủa và đầy đủ hơn về thế hệ vi xử lý (VXL) kế tiếp của hãng trên cả 3 mặt trận, máy tính để bàn, máy tính xách tay và VXL dành cho máy chủ. 
+Intel hy vọng thế hệ vi xử lý (VXL) kế tiếp, Conroe và Merom, sẽ có hiệu suất hoạt động nhanh hơn chip AMD cùng thời 20%, nhờ những thành công trong lĩnh vực nghiên cứu và thiết kế. 
+Nhóm thiết kế Petium M đã được giao nhiệm vụ hoàn tất các thiết kế cho Merom và Conroe, với tiêu chí là tiết kiệm điện năng và hiệu suất. Merom và Conroe là hai dòng xử lý dành cho máy tính xách tay và dòng máy tính để bàn, dự kiến có mặt vào nửa sau năm nay. 
+Công nghệ Netburst, tên quen gọi của thế hệ kế tiếp của kiến trúc vi mạch, sẽ thay thế cho Pentium 4, sẽ có những thay đổi hoàn toàn để nâng cao hiệu năng hoạt động, đồng thời giảm lượng nhiệt tiêu thụ. 
+Kiến trúc vi mạch mới sẽ cho phép bộ VXL phát ra 4 lệnh cùng 1 lúc, thay vì 3 như kiến trúc hiện nay, đồng thời trang bị cache dùng chung nếu là các vi xử lý đa nhân. Các bộ vi xử lý trên nền NetBurst sẽ có ít nhất 4MB cache. Nơi đây chứa các thông tin mà vi xử lý thường dùng nhất. Như vậy, tốc độ sẽ nhanh hơn rất nhiều so với việc chứa dữ liệu trên RAM gắn ngoài. Cache dùng chung sẽ cho phép tăng lượng cache được dùng riêng cho mỗi CPU về lý thuyết, và như vậy, tốc độ xử lý các ứng dụng đơn luồng và đa luồng sẽ được nâng cao. 
+Tổng hợp các ưu thế trên hy vọng sẽ giúp Intel vượt qua AMD, ít nhất cũng là trong nửa sau năm 2006, trước khi AMD có những tiến bộ đáng kể. Hiện nay, dòng vi xử lý Athlon64 được đánh giá là dòng vi xử lý công nghiệp mạnh nhất dành cho các hệ máy Micro. 
+AMD chưa có những kế hoạch cải tiến nào dành cho bộ vi xử lý năm nay, ngoài việc họ sẽ hỗ trợ cho loại bộ nhớ DDR2, làm tăng việc giao tiếp dữ liệu giữa CPU và RAM. 
+

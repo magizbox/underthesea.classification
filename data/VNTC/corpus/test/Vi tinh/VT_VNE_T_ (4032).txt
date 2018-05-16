@@ -1,0 +1,8 @@
+Chăn bò qua mạng
+Nông dân Australia sắp sửa có thể dùng điện thoại di động hoặc máy tính nối mạng để mở cổng chuồng và theo dõi gia súc từ bất cứ đâu trên thế giới thông qua một hệ thống do Đại học New England ở bang New South Wales phát triển.
+Công nghệ này cho phép những người chăn nuôi điều khiển từ xa và giám sát sự di chuyển của vật nuôi thông qua mạng viễn thông di động hoặc web. Hệ thống thậm chí có thể hỗ trợ nông dân điều chỉnh cấp nước tưới tiêu.
+Các công cụ báo động sẽ được thiết kế ngay ở cổng trang trại và máng ăn để tự động gửi những tin nhắn điện thoại cho chủ trại nếu có những vị khách không mời mở cổng chuồng hoặc nếu lượng thức ăn, nước uống cho gia súc trong máng sắp hết.
+Dự án do Viện tương lai nông thôn Australia (IRF) phối hợp với tập đoàn viễn thông Telstra đang triển khai thử nghiệm có thể sẽ mở rộng thêm với các thiết bị cân trọng lượng được điều khiển từ xa để theo dõi sức khỏe vật nuôi. 
+Công nghệ này sẽ đặc biệt hữu ích cho những nông dân đang quản lý cùng lúc nhiều trang trại hoặc những người vừa làm việc trong thành phố vừa tăng gia chăn nuôi ở nhà. Ích lợi lớn nhất là sự tiết kiệm thời gian, nhiên liệu và nhiều chi phí khác, Brendan Doyle, phát ngôn viên IRF, phát biểu. Internet giờ đây cho phép ảo hóa mọi hoạt động từ bất cứ nơi đâu trên hành tinh và người chăn nuôi đã trở thành những nông dân điện tử.
+Tại Australia, hệ thống chăn bò trực tuyến này được điều khiển thông qua mạng di động CDMA của Telstra và sẽ chính thức đưa vào khai thác thương mại trong 12 tháng nữa.
+

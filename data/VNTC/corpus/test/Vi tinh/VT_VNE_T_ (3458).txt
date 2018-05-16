@@ -1,0 +1,8 @@
+Mỹ tuyên bố vẫn giành quyền kiểm soát Internet
+Chính phủ nước này vừa khẳng định sẽ duy trì vai trò của mình trong việc quản lý hệ thống sever có chức năng định hướng trình duyệt và chương trình e-mail lưu thông qua mạng.
+Mỹ cho rằng quyết định này nhằm đối phó với nguy cơ bảo mật ngày càng tăng và nâng tầm quan trọng của kinh doanh Internet. 
+Tập hợp 13 máy tính thuộc quyền kiểm soát của các công ty tư nhân Mỹ được coi là những máy chủ gốc, chứa danh sách thống kê các hậu tố tên miền đã được chấp thuận như .com, hay còn gọi là DNS (hệ thống tên miền). Hệ thống này quản lý vô số những địa chỉ trên mạng máy tính toàn thế giới với những tên khá dễ nhớ như www.amazon.com. 
+Chính phủ Mỹ trước đây đã đề xuất giao trách nhiệm quản lý DNS cho Tổ chức tên miền quốc tế ICANN, được thành lập năm 1998 với chức năng giám sát Internet.
+Tuy nhiên, tuyên bố ngày 30/6 vừa qua của chính phủ Mỹ đồng nghĩa với việc Washington dự định giành lại vai trò chủ chốt trong quản lý hoạt động mạng để duy trì Internet "ổn định và an toàn". Mỹ cam kết "không thực hiện những hành động có ảnh hưởng xấu tới khả năng vận hành hiệu quả của DNS và sẽ vẫn duy trì vai trò lịch sử của nó trong việc thay đổi và điều chỉnh những hồ sơ về quyền quản lý cơ bản".
+Quyết định của Mỹ được đưa ra cùng lúc với sự kiện Liên Hợp Quốc đang thảo luận về việc tạo điều kiên cho những nước nghèo có cơ hội góp tiếng nói chung trong việc quản lý Internet. Trong khi hầu hết người sử dụng không để ý đến những khác biệt khi truy cập mạng, tuyên bố này đã đặt chính quyền Bush đối ngược lại với những ai muốn giảm ảnh hưởng của Mỹ trên Internet.
+

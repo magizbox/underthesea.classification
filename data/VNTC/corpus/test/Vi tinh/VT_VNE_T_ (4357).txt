@@ -1,0 +1,7 @@
+Năm tới sẽ có chuẩn bảo mật cho ĐTDĐ
+Hiệp hội công nghiệp Trusted Computing (TCG), được hỗ trợ bởi nhiều nhà sản xuất như Motorola, Nokia và Samsung, từng xây dựng chuẩn điện toán an toàn cho máy tính, máy chủ và mạng, đang tiếp tục thực hiện bộ tiêu chí tương tự cho điện thoại.
+TCG đã thống kê một loạt những trường hợp sử dụng cụ thể nhằm đề ra những lĩnh vực, mục tiêu cần thực hiện như khóa điện thoại khi thất lạc hoặc bị mất cắp, quản lý bản cập nhật và bản vá phần mềm, hỗ trợ hệ thống thanh toán an toàn qua thiết bị di động...
+Khi có những cơ sở hạ tầng nhất định hỗ trợ, điện thoại sẽ có sức đề kháng virus và những trường hợp lạm dụng khác tốt hơn. Và nếu trở nên an toàn hơn, chúng có thể được nâng lên thành ví điện tử dùng trong quá trình giao dịch trực tuyến.
+Hiệp hội TCG khẳng định họ sẽ phát hành chuẩn bảo mật vào nửa đầu 2006, theo đó, những thiết bị hỗ trợ chuẩn sẽ bắt đầu xuất hiện vào cuối năm sau. 
+Tuy nhiên, theo Roger Kay, một chuyên gia của Endpoint Technologies (Mỹ), tổ chức cố vấn của TCG, cho biết quá trình xây dựng sẽ còn gặp nhiều khó khăn: "Về cơ bản họ mới chỉ đặt ra những nhiệm vụ và thời gian biểu cần hoàn thành, mà chưa hề xác định cụ thể các thông số".
+

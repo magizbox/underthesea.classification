@@ -1,0 +1,6 @@
+Mozilla cảnh báo về lỗi đầu tiên trong Firefox 1.5
+Tổ chức phần mềm mã mở vừa công bố một bản hướng dẫn bảo mật, thừa nhận rằng một trục trặc trong phiên bản trình duyệt mới nhất có thể gây ra hiện tượng tràn bộ đệm.
+Tuy nhiên, họ bác bỏ những nhận định rằng vấn đề này sẽ khiến ứng dụng bị thiệt hại lâu dài nếu diễn ra một cuộc tấn công từ chối dịch vụ.
+Mã khai thác lỗ hổng đầu tiên của Firefox 1.5 được công bố từ ngày 6/12, liên quan đến lỗi trong tệp history.dat (chứa thông tin về mọi trang web mà người sử dụng từng ghé thăm). Khi file này lớn hơn 10,5 MB, hệ thống sẽ bị treo và đòi hỏi khá nhiều thời gian để xóa bộ đệm history. Theo Mozilla, để khắc phục lỗi, mọi người phải xóa toàn bộ nội dung lưu trong History.
+Mike Schroefper, Phó giám đốc kỹ thuật của Mozilla, tuần trước đã không công nhận đây là một lỗ hổng bảo mật và khẳng định Firefox 1.5 rất an toàn. Tổ chức cũng cho biết họ chưa nhận được bất cứ phản ánh nào từ phía khách hàng.
+

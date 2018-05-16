@@ -1,0 +1,11 @@
+Việc gửi dữ liệu sử dụng khác nhau những màu sắc của ánh sáng, những thao tác trên tốc độ cao mạng Internet2 đang hy vọng thúc đẩy khả năng nghiên cứu kết nối kính viễn vọng trên toàn thế giới và thực hiện các tác vụ đòi hỏi băng thông rộng.
+Mạng thế hệ mới này có thể sẵn sàng đi vào hoạt động từ mùa thu năm 2007.phát biểu của Douglas Van Houweling giám đốc điều hành Internet2.
+Ông cho biết: theo dự kiến, tuần này các nhà nghiên cứu sẽ lập một kỷ lục tốc độ mới – 8,8 gigabit/giây, gần đạt tới tốc độ giới hạn lý thuyết hiện tại của mạng Internet2 là 10 Gbps, nhanh gấp hàng nghìn lần so với mạng băng rộng dành cho gia đình tiêu chuẩn hiện tại.
+Kế hoạch tuần này những nhà nghiên cứu lập tốc độ nối mạng mới - 8.8 gigabit/giây, tới gần giới hạn lý thuyết hiện tại mạng Internet2 là 10 Gbps, kết nối này hơn hàng nghìn lần kết nối ở gia đình.
+" Hiện tại chúng ta cần những ứng dụng hơn 10 gigabits" , phát biểu của van Houweling.
+Mạng Internet2 , mà đặt song song Internet bình thường trong những trường đại học, những công ty và những nhà nghiên cứu chia sẻ lượng thông tin lớn trong thời gian thực, hiện thời sử dụng những cáp sợi quang dùng chung của công ty Qwest Communications International.
+Trong mạng mới, Internet2 sẽ có những cáp riêng. Người thao tác lúc đầu có thể truyền dữ liệu sử dụng 10 sắc độ(colors), hoặc bước sóng ánh sáng qua một cáp đơn, để nối mạng 100 Gbps. Dần dần, Internet2 hy vọng truyền trên 80 bước sóng. Mạng mới này đã có người đấu thầu mà Van Houweling giấu tên.
+Tốc độ tăng gấp 10 , một phiên bản chất lượng cao về hình ảnh trong phim " Ma trận " có thể được gửi trong vài giây hơn một nửa phút trong Internet2 hiện tại và hơn hai ngày với mạng gia đình thông thường.
+Vào tháng 2, tốc độ Internet2 lắp đặt bởi một nhóm nghiên cứu trường Đại học Tokyo, Trường đại học Amsterdam và những cơ quan nghiên cứu khác. Dữ liệu đi từ Tokyo đến Seattle, Amsterdam, Chicago và quay lại Tokyo. Tốc độ vược qua mức 7.99 Gbps đã lập vào tháng 11 .
+Hơn 200 trường Đại học ở Mỹ đã triển khai Internet2.
+

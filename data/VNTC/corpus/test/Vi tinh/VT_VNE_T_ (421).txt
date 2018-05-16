@@ -1,0 +1,7 @@
+Lỗi plug-in đặt RealPlayer trước nguy cơ tấn công
+Hãng RealNetworks vừa phát hành bản nâng cấp cho một lỗ hổng trong phần mềm hỗ trợ công cụ nghe nhìn của họ. Lỗi này có thể cho phép hacker khống chế những máy tính sử dụng một số phiên bản của chương trình media thông qua tình trạng tràn bộ đệm.
+Khiếm khuyết này liên quan đến khả năng gây tràn bộ nhớ đệm trong phần mềm plug-in R3T. Những người đã tải phần mềm này và dùng RealPlayer 8, RealOne Player, RealOne Player v2 cho Windows, RealPlayer 10 Beta (chỉ có bản tiếng Anh bị) hoặc RealPlayer Enterprise thì máy tính của họ có thể bị tin tặc vô hiệu hóa và cài các loại mã tấn công vào để tung ra những hoạt động khác. Riêng RealPlayer 10 thì không bị tác động vì chương trình này đã loại bỏ phần plug-in khi cài đặt.
+Công bố trên website của mình, RealNetworks cho biết mặc dù họ chưa nhận được thông báo về bất cứ một vụ tấn công nào thông qua lỗ hổng này và tỷ lệ người sử dụng phần plug-in không cao, công ty vẫn khuyến cáo khách hàng có thái độ cảnh giác với tất cả những khiếm khuyết an ninh tương tự.
+Hiện nay, tin tặc thường chỉ tập trung tấn công Microsoft nên sản phẩm của các công ty phần mềm nối tiếng khác không mấy khi bị khai thác. Giới phân tích của các hãng an ninh cho rằng một trong những tiêu chí chủ yếu để hacker tấn công một chương trình chính là số lượng người sử dụng. 
+Những thông tin chi tiết và công cụ khắc phục lỗi hiện được cung cấp tại website hỗ trợ khách hàng của RealNetworks.
+

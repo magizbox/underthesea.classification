@@ -1,0 +1,10 @@
+Microsoft phát hành 3 chương trình vá lỗi mới
+Ngày 30/7, hãng phần mềm khổng lồ Mỹ tung ra bản sửa lỗi cho 3 lỗ hổng của Internet Explorer (IE), trong đó có 1 lỗi do Trojan Download.Ject khai thác.
+Chương trình sửa lỗi mới sẽ được cập nhật trên website an ninh của Microsoft nhằm khuyến khích tất cả người dùng Internet Explorer nâng cấp trình duyệt của mình. Về mặt kỹ thuật, lỗ hổng trong trình duyệt của hãng cho phép kẻ tấn công lọt qua ranh giới an ninh trong IE để phát tán và chạy mã nguy hiểm.
+Bản vá lỗi mới cũng "dọn" 2 khiếm khuyết liên quan đến việc xử lý hình ảnh và được các chuyên gia an ninh mạng đánh giá là nghiêm trọng.
+Giám đốc chương trình an ninh Microsoft Stephen Toulouse cho biết, ngay từ khi phát giác khiếm khuyết trong trình duyệt của họ bị khai thác vàocuối tháng 6, hãng đã tích cực phát hành phần mềm nâng cấp Internet Explorer. 
+Hiện nay, Microsoft vẫn chưa phát hiện được bất kỳ kẻ tấn công nào khác liên quan đến hai lỗ hổng này. Tuy nhiên, Toulouse khẳng định: "Chúng tôi muốn đảm bảo những khách hàng có bản nâng cấp này sẽ không còn là mục tiêu của hacker".
+Toulouse cho biết Microsoft đã nâng cấp IE trong phần mềm vá lỗi Service Pack 2 dành cho Windows XP. Theo ông, những máy tính chạy phiên bản hệ điều hành này không còn dễ dàng bị tin tặc tấn công vì Microsoft đã thay đổi cấu trúc bên trong của trình duyệt IE.
+Đầu tháng 7, Microsoft đã trình làng 1 bản vá lỗi và hứa sẽ sớm giới thiệu với người dùng một chương trình bịt lỗi toàn diện. 
+Khuyến khích người lướt web khai thác chương trình vá lỗi mới, Alfred Huger, Giám đốc trung tâm phản ứng nhanh của công ty bảo mật Symantec, nói: "Với sự phổ dụng của trình duyệt IE trong giới doanh nghiệp và người tiêu dùng, việc sử dụng các bản nâng cấp an ninh là rất cần thiết để nâng cao tính bảo mật cho khách hàng".
+

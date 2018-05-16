@@ -1,0 +1,6 @@
+Mất thông số khi cài lại Windows (1)
+Khi tôi mua một phần mềm trên mạng, họ cung cấp cho tôi một đường link để download phần mềm về. Sau khi cài đặt trên máy thì phần mềm sẽ tự động login vào Internet để đăng ký. Phần mềm sau khi kiểm tra xem tôi đã bỏ tiền mua hay chưa, xác nhận lại và tự động tải các thông số đăng ký về máy của tôi rồi tự cài đặt. Nhưng có một vấn đề là cứ mỗi lần cài lại Windows thì mọi thông tin về đăng ký đều bị mất hết và phần mềm này lại đòi phải đăng ký lại. Tôi đã thử vào Registry để tìm nhưng vẫn không tìm thấy thông tin nào về những đăng ký của tôi. Như vậy có phải các khoá trong Registry đã được ẩn đi không? hay phần mềm đã tự download về những file cần thiết để đăng ký. Mong sự giúp đỡ của các bạn để tôi có thể biết về các thông tin đăng ký của mình để lần sau khi có phải cài lại Windows thì không cần phải kết nối vào Internet nữa.Cảm ơn các bạn.
+Đỗ Hoàng Linh
+Hồi âm:
+Khong phai bat ky phan mem nao cung luu thong so dang ky cua no trong Registry. Cho du phan mem co luu trong registry thi viec tim ra chung cung rat phuc tap. Ban dang co lam nhung cong viec cua mot Cracker.
+

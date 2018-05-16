@@ -1,0 +1,11 @@
+Google tự động hóa công cụ tìm kiếm cá nhân
+Hãng dịch vụ trực tuyến khổng lồ này vừa tuyên bố sẽ sớm ra mắt phiên bản mới tự động tinh lọc sau nhiều lần tìm kiếm để kết quả tập trung và chính xác hơn.
+Theo Marissa Mayer, Giám đốc bộ phận sản phẩm web của Google, càng nhiều người sử dụng công cụ tìm kiếm và xây dựng lên thư mục lưu trữ (History), kết quả sẽ càng cô đọng hơn.
+Ví dụ, nếu ai đó gõ từ "bass", Google sẽ hiển thị kết quả là những trang mà họ đã bấm chuột vào trong quá trình tìm kiếm trước đây. Tuy nhiên, từ khóa "bass" sẽ chỉ đưa ra kết quả về nhạc cụ nếu trong History lưu kết quả liên quan đến âm nhạc.
+"Chúng tôi đang xây dựng thư mục lưu trữ kết quả người dùng", Mayer cho biết. "Khi họ lần đầu tiên đăng ký, họ có thể không có ngay kết quả cần thiết, nhưng nó sẽ được hình thành theo thời gian".
+Khách hàng cần phải có tài khoản ở Google mới có thể sử dụng dịch vụ. Nếu đã từng dùng phiên bản tìm kiếm cá nhân trước đây, họ sẽ được tự động nâng cấp lên phiên bản mới. Dịch vụ chỉ hoạt động khi khách hàng đăng nhập vào tài khoản Google.
+Người sử dụng có thể đăng xuất khỏi dịch vụ tìm kiếm cá nhân, tạm dừng hay xóa công cụ này trong trang tài khoản, hay có thể xóa bớt một số mục trong History.
+Tính năng tìm kiếm History, ra mắt hồi tháng 4, cho phép người dùng khôi phục lại các kết quả search trong quá khứ thông qua công cụ trực tuyến của Google. Đây tiếp tục là một phần trong nỗ lực cho phép khách hàng tùy biến web sau khi hãng tung ra dịch vụtrang web cá nhânhồi tháng 5.
+Phiên bản mới đang trong quá trình thử nghiệm và ngày ra mắt chính thức vẫn chưa được công bố.
+Yahoo cũng đang xúc tiến nâng cấp tính năng tùy biến cho người dùng. Trong tháng 5, hãng đã ra mắt công cụ tìm kiếm cá nhân có khả năng khôi phục lại kết kết quả search và chia sẻ thông tin với người khác.
+

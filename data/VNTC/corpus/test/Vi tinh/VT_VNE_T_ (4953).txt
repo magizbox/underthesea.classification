@@ -1,0 +1,5 @@
+JavaVietnam.org thi lập trình viên năm 2006
+Cuộc thi lần đầu được khởi xướng, nhằm khuyến khích cung cấp bài viết, tài liệu, công cụ hướng dẫn cho các sinh viên công nghệ thông tin, lập trình viên, giúp họ vận dụng kiến thức đã học vào thực tế. Tất cả những thành viên thuộc JavaVietnam.org đều có thể tham gia.
+Cuộc thi tổ chức từng quý, từng năm dưới hình thức bầu chọn cho bài viết hoặc phần trả lời, dạng source code, chương trình, hình ảnh... theo chủ đề mà Ban tổ chức đưa ra. Nội dung bài viết, phần trả lời tùy sở trường người dự thi. Cuộc thi quý đầu tiên kéo dài đến hết ngày 1/1/2006. Ban tổ chức sẽ trao giải lập trình viên xuất sắc quý, năm và một số giải thưởng khác. Tổng giá trị giải thưởng khoảng 60 triệu đồng.
+Cuộc thi do JavaVietnam.org và tạp chí Thế giới Vi tính đồng tổ chức. Bạn đọc có thể tìm thêm thông tin về cuộc thi trên trang web: www.javavietnam.org/javavn/devoftheyear/index, hoặc gửi thư theo địa chỉ: ad@javaVietnam.org.
+

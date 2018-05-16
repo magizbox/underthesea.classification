@@ -1,0 +1,5 @@
+Chuyển đổi File PDF sang Word
+Bạn có một tài liệu định dạng PDF nhưng không biết làm cách nào chuyển sang dạng Word để có thể sử dụng làm tài liệu cho riêng mình. Điều này có thể được thực hiện dễ dàng với Solid Converter PDF. 
+Đặc điểm nổi bật của Solid Converter PDF so với các phần mềm khác cùng loại là khả năng giữ nguyên được được định dạng chữ, bảng biểu và hình ảnh khi chuyển đổi. Chương trình cho phép người dùng lựa chọn các kiểu định dạng văn bản, số trang chuyển đổi và cách lưu file ở dạng .doc hay .rtf. Biểu tượng của chương trình được gắn kèm vào Microsoft Word, Acrobat Reader giúp thao tác chuyển đổi một cách dễ dàng. 
+Phiên bản mới nhất của phần mềm là Solid Converter PDF 2.2 có dung lượng 16,25 MB. Bạn có thể tải bản dùng thử tại đây. Bản dùng thử có thời hạn 15 ngày cho phép bạn chuyển đổi 10% số trang của văn bản nhưng chỉ được tối đa là 10 trang. 
+

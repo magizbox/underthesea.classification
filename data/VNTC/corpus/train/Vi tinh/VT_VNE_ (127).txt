@@ -1,0 +1,6 @@
+Hỏi về Mainboard Gigabyte 8IG1000Pro2 (1)
+Toi nghe noi mainboard 8IG1000Pro2 co cac jumpers duoc cai dat de tu dong nhan biet cac thiet bi phan cung khac. Xin cac ban cho biet dieu nay co dung khong? Neu khong, co the huong dan cach cai dat jumpers tren main nay giup toi. Xin chan thanh cam on.
+Mai Thanh Binh
+Hồi âm:
+Hầu hết các bo mạch chủ mới (dành cho Pentium 4 hoặc Athlon XP) đều không còn sử dụng jumper nữa để nhận diện thiết bị ngoại vi nữa. Main của bạn cũng vậy thôi. Tuy nhiên, bạn cần phải làm theo sách hướng dẫn để lắp đặt máy.
+

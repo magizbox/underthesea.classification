@@ -1,0 +1,5 @@
+Trò chơi 'Pharaoh's Curse'
+Pharaohs Curse là cuộc hành trình tìm vàng trong lăng mộ các vị vua Ai Cập quá cố. Với trí thông minh, khả năng suy luận logic cùng các công cụ sẵn có, bạn phải dò ra đường đi để mang của cải ra ngoài.
+Dọc đường, bạn sẽ gặp hàng loạt cửa ải, với những bức tường đá, những cánh cửa một chiều. Nếu vận dụng các công cụ trên một cách khéo léo, bạn sẽ chạy thoát. Ngược lại, lũ xác ướp hung dữ sẽ xé xác bạn. Nhìn chung, một kế hoạch hoàn hảo, cùng khả năng phán đoán nhanh nhậy sẽ là chìa khóa đi tới thành công.
+Chương trình có kích thước 3,66 Mb, có thể download tại đây.
+

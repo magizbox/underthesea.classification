@@ -1,0 +1,7 @@
+Tốc độ DRAM đạt 2 Gb/giây
+Thành tựu mà Samsung mới công bố được coi là bước đột phá về sức mạnh truyền dữ liệu của bộ nhớ đồ họa. Sản phẩm đạt mức nói trên trong thử nghiệm là một DRAM thuộc loại GDDR3 512 MB 90 nm.
+Ở tốc độ cực đại, chip nhớ đồ họa của Samsung thậm chí có thể đạt 8Gb/giây và ước tính nhanh hơn 70% so với các thiết bị truyền thống tương tự 1,2 Gb/giây.
+Sản phẩm này được thiết kế để phục vụ cho tính năng hình và hoạt ảnh trong PC, máy trạm và các thiết bị chơi game console cao cấp.
+Cùng với việc công bố thành tựu mới, Samsung cho biết đã bắt đầu sản xuất đại trà loại GDDR3 512 MB tốc độ 1,6 Gb/giây mà họ phát triển từ tháng 12/2004.
+Hãng khảo sát thị trường Mercury Research dự báo thị trường DRAM đồ họa toàn cầu sẽ tăng 43%, đạt giá trị 1,5 tỷ USD năm 2005 và vượt ngưỡng 2 tỷ USD năm 2006.
+

@@ -1,0 +1,6 @@
+Intel hướng tới vị trí số 1 trong thị trường NOR flash 
+Cùng với việc ra mắt sản phẩm StrataFlash Embedded Memory, hãng chế tạo chip lớn nhất thế giới vừa tuyên bố sẽ phấn đấu trở thành nhà cung cấp các sản phẩm bộ nhớ NOR flash số 1 trong năm nay, vượt qua đối thủ AMD.
+StrataFlash Embedded Memory, với công suất từ 64 đến 512 Mb, nhắm vào thị trường thiết bị điện tử gia dụng như TV màn hình phẳng và máy ảnh số. Sản phẩm sẽ được cung cấp trong quý này. Phiên bản 1 Gb dự kiến sẽ xuất hiện vào nửa cuối năm nay.
+Bộ nhớ flash có 2 chủng loại chính là dạng NOR và dạng NAND, lưu được dữ liệu kể cả khi mất điện. Điều này khiến chúng trở thành một bộ nhớ ghi nhiều lần (rewriteable) lý tưởng cho các thiết bị điện tử và di động. Theo hãng khảo sát iSuppli, đầu năm 2004, Intel giành 24,5% trên tổng giá trị 9,3 tỷ USD của thị trường NOR flash, kém hơn đôi chút so với AMD (25,9%), nhưng đến quý III và IV đã vượt qua đối thủ. Tại thị trường NAND flash, Samsung vẫn thống lĩnh. 
+Giới phân tích cho rằng sự thành công của Intel có nguyên nhân từ chính sách giảm giá của hãng này. Tuy nhiên, Darin Billerbeck, Phó chủ tịch Intel, khẳng định đó không phải là yếu tố chính. Ông này cho biết giá trung bình các loại bộ nhớ của Intel đã tăng trong quý IV năm ngoái khi họ bán ra những sản phẩm dung lượng cao hơn.
+

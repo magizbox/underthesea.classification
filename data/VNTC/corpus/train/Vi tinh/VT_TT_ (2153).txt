@@ -1,0 +1,5 @@
+ Sẽ có thêm dịch vụ Internet di động
+Giải pháp Internet di động này với vùng phủ sóng rộng hơn dịch vụ Wi-fi. Chỉ cần có máy xách tay hoặc PDA, người sử dụng dịch vụ có thể kết nối băng thông rộng mọi lúc, ở vùng sâu vùng xa. 
+Khi đăng ký sử dụng dịch vụ của EVNTelecom, với mọi máy tính xách tay đều có thể trang bị thêm card kết nối Internet như một PCMCIA hoặc để sử dụng dịch vụ này với các máy tính xách tay, PDA, máy tính để bàn có thể kết nối (qua cổng USB) với điện thoại di động của EVNTelecom. Với thiết bị như vậy, chỉ cần nơi nào có sóng của EVNTelecom, người sử dụng dịch vụ có thể kết nối với thế giới bất cứ lúc nào họ muốn. 
+Giải pháp băng thông rộng di động EVN Telecom có giá truy cập tương đương với dịch vụ dial-up. Người sử dụng công nghệ mới này có thể đọc báo điện tử, gửi, nhận email, sử dụng điện thoại quốc tế VoIP hoặc xem tài liệu khi ngồi trên xe di chuyển với tốc độ cao… 
+

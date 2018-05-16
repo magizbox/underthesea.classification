@@ -1,0 +1,9 @@
+Google ra mắt tính năng tìm kiếm History
+Dịch vụ mới đang được thử nghiệm cho phép khách hàng khôi phục lại các kết quả search trong quá khứ thông qua công cụ tìm kiếm online. Google hy vọng tính năng này sẽ thúc đẩy người lướt web sử dụng dịch vụ của hãng thường xuyên hơn.
+Dịch vụ My Search History có khả năng ghi lại toàn bộ các thông tin mà người dùng đã tìm kiếm trong Google theo từng ngày. Để kích hoạt dịch vụ, khách hàng cần tạo ID và mật khẩu. Những người có địa chỉ e-mail, username trong nhóm thảo luận và dịch vụ trả lời của Google được phép dùng trực tiếp các ID đã có.
+Khách hàng có thể sử dụng link ở góc phải trên trang chủ của Google để đăng nhập vào hệ thống, hoặc cho phép Google tự động nhớ ID và mật khẩu trên máy. Người sử dụng được phép xóa bất kỳ một danh sách nào nằm trong History cũng như tạm ngưng tính năng này khi cần thiết. 
+Google hy vọng công cụ này sẽ là phương tiện hữu hiệu để hãng nắm rõ hơn xu hướng nhu cầu thông tin của người dùng để kiểm định lại các hệ thống quảng cáo, nâng cao chất lượng tìm kiếm thông tin, khả năng bảo mật...
+Tuy nhiên, chuyên gia về quyền cá nhân Pam Dixon lo ngại dịch vụ này sẽ tạo cơ hội cho những kẻ phá hoại, thậm chí cả chính phủ nhúng tay vào quá trình tìm kiếm của người dùng. Nếu muốn lưu lại kết quả tìm kiếm trước đây, tốt nhất là dùng notebook, vừa riêng tư lại ít mạo hiểm, Dixon khuyến cáo.
+Trong khi đó, Google tin rằng dịch vụ hoàn toàn đảm bảo bí mật cá nhân, mặc dầu hãng cũng khuyến cáo khách hàng dùng chung máy tính với người khác không nên sử dụng dịch vụ này. 
+Tôi không cho là dịch vụ này phù hợp và quan trọng với người dùng bình thường", Charlene Li, nhà phân tích thuộc hãng nghiên cứu Forrester, nghi ngờ tính năng mới của Google sẽ được đón nhận nồng nhiệt. "Hầu hết ai cũng nghĩ họ không việc gì phải cung cấp tất cả các thông tin của mình cho Google.
+

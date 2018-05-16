@@ -1,0 +1,11 @@
+Hỏi về HDD (2)
+Máy tính tôi đang dùng là P2 cho nên không thể cài Wind XP được.Tôi muốn format ổ cứng và cài lại win me. Nhưng khi tôi format thì máy báo là ổ cứng không hỗ trợ format. Vậy làm thế nào để tôi có thể định dạng lại ổ đĩa và cài tiếp win me được. Tôi có nghe nói là dùng lệnh fdisk, vậy xin hỏi nếu dùng lệnh này thì có phải thiết lập trong BIOS thế nào, khởi động từ ổ đĩa nào, và cú pháp của lệnh này ra sao? Xin chân thành cám ơn!
+Hoang Yen
+Hồi âm:
+Trước khi gửi thắc mắc, bạn nên đọc lại các bài đã được trả lời cùng một vấn đề, bạn hãy vào đây để xem câu trả lời 1; 2; 3; v...v... 
+Nguyễn Vũ Hiến  
+Bạn không cần phải vào BIOS đểđó đểđổi lại thứ tự khởi độđộng theo thứ tự sau đâđỉa A:,2=ổ đỉđổi ổ đỉđỉa cứng,đểđỉa mềm 3/5 đảđuợc format sẳn bỏ vào ổ đỉ
+khi xong bạn khởi độđỉa mềm 3/5 đểđiều nầy nếu trên đỉđỉa nhé đôđiểu đó
+1- startrungỏ lệnh regeditok nhấp chuột editfind gỏ chử product keyfind bạn sẻ nhìn thấy bên tay phải nhớ lấy viết ghi lại đô
+cách thức format,,bỏ đỉđỉa A: khởi độđỉa cd drive, ở tại A:\ gỏ lệnh format C: nhấn enter,khi đuợY enter,khi xong format ở phần volume nên bỏ trống bằng cách nhấn enter, ví dụ nhu cd drive là E tại A:\ gỏ lệnh E:\setup nhấn enter win sẻ test thử truớc khi bỏ cd vào đểđỉa vào cd drive win sẻ tự độđây download đỉđộng cho winme nhớ chọn winme custom,link download http://www.bootdisk.com/bootdisk.htm 
+

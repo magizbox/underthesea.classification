@@ -1,0 +1,7 @@
+Pin nhiên liệu tuổi thọ 4.000 giờ ra mắt cuối năm nay
+Công ty hóa chất Hàn Quốc LG Chem, thuộc tập đoàn LG, đã hoàn tất những khâu cuối cùng trong quá trình phát triển phiên bản pin cho máy tính xách tay có tuổi thọ gấp 8 lần so với những sản phẩm cạnh tranh của Nhật và Mỹ. 
+Đây sẽ là pin nhiên liệu đầu tiên cho notebook xuất hiện trên thị trường từ trước đến nay. Sử dụng nguồn năng lượng 25W và dựa trên công nghệ DMFC, mỗi pin được thiết kế theo 2 phần: phần nền 500 USD và bình chứa nhiên liệu dung tích 200 cc tháo rời giá không quá 1 USD. Thiết bị nặng gần 1 kg, tuổi thọ 4.000 giờ, và mỗi một bình methanol đơn có khả năng cung cấp năng lượng cho máy tính xách tay trong 10 giờ liên tục. 
+Khác với mô hình của hãng Antig (Đài Loan) giới thiệu tại hội chợ công nghệ CeBIT tại Đức đầu năm nay, sản phẩm hoạt động như một nguồn năng lượng ngoài, được kết nối tới máy tính qua một bộ tiếp điện trung gian.
+Pin của LG Chem sẽ được phát hành độc lập mà không hợp tác với bất cứ nhà cung cấp notebook nào. Tập đoàn cũng dự định sản xuất pin nhiêu liệu cho điện thoại di động, máy nghe nhạc, PDA và nhiều thiết bị cầm tay khác với những phiên bản hoạt động từ 5 đến 50W.
+Nhu cầu dùng pin nhiên liệu toàn cầu sẽ đạt giá trị 600 triệu USD trong năm 2006 và tính đến 2010, doanh thu sẽ lên tới 1,9 tỷ USD. Đối thủ cạnh tranh trong lĩnh vực pin nhiên liệu với LG Chem hiện có Nokia, Toshiba, Sanyo và IBM... Tổng doanh thu của hãng hóa chất Hàn Quốc trong năm 2004 đã vượt mức 50 tỷ USD.
+

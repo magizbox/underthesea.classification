@@ -1,0 +1,10 @@
+Lỗi công nghệ nén phá vỡ nhiều ứng dụng phổ biến
+Một lỗ hổng bảo mật xuất hiện trong zlib, công nghệ nén dữ liệu được sử dụng khá rộng rãi, đã khiến nhiều chương trình phần mềm có nguy cơ bị tấn công cao.
+Theo hãng Secunia, sử dụng một file được thiết kế theo chủ ý riêng, kẻ tấn công có thể gây ra lỗi tràn bộ đệm và kiểm soát toàn bộ máy tính hay phá vỡ bất cứ ứng dụng nào sử dụng zlib. Lỗ hổng được tìm thấy trong Zlib 1.2.2 và tất cả những phiên bản trước đó.
+Chương trình zlib được dùng trong rất nhiều ứng dụng phần mềm độc quyền và mã mở để nén, giải nén dữ liệu, và nó cũng xuất hiện trong nhiều phiên bản của Linux và BDS (Mỹ). Zlib được từ điển bách khoa toàn thư trực tuyến Wikipedia mô tả như là một "chuẩn công nghệ thực tế". "Dường như tất cả mọi máy móc đều có zlib, từ thiết bị game Xbox, điện thoại di động cho đến OpenSSH, do đó mức độ ảnh hưởng tiềm ẩn của lỗi này là rất lớn", Tavis Ormandy, thành viên nhóm khảo sát bảo mật của Gentoo Linux, người khám phá ra lỗ hổng, cho biết.
+"Lợi dụng lỗ hổng để chạy mã nguy hiểm trên thiết bị hay máy tính của nạn nhân cũng không phải quá trình dễ dàng. Tuy nhiên, việc phá hỏng ứng dụng trong máy thì không phải quá khó", Ormandy khuyến cáo sau khi thử tấn công ứng dụng ảnh và trình duyệt zlib.
+Secunia xếp lỗi ở mức độ "rất nghiêm trọng" còn Trung tâm phản ứng sự cố bảo mật Pháp SIRT đánh giá lỗ hổng ở mức nguy hiểm cao nhất.
+"Lỗi ảnh hưởng đến khá nhiều ứng dụng, nhưng không thể đánh giá chính xác mức độ phổ biến", Michael Sutton, Trưởng phòng nghiên cứu của hãng bảo mật iDefense, nhận định. "Khả năng ảnh hưởng phụ thuộc vào thư viện dữ liệu trên thiết bị hoạt động như thế nào, do đó khó có thể biết trước bao nhiêu ứng dụng sử dụng zlib sẽ bị khai thác".
+Bản nâng cấp 1.2.3 đang trong quá trình thử nghiệm và sẽ sớm được tung ra để sửa lỗ hổng này. Một số bản vá lỗi cho chương trình Linux của Suse, Red Hat, Gentoo, Ubuntu, Mandriva, Debian và FreeBSD cũng đã ra mắt.
+Microsoft vẫn đang nghiên cứu vấn đề và khẳng định phiên bản Windows hiện tại không bị ảnh hưởng. Hãng cũng đang sử dụng zlib trong nhiều chương trình như Office, MSN Messenger và Internet Explorer.
+

@@ -1,0 +1,9 @@
+2 lỗi nghiêm trọng ở bản tin bảo mật Windows cuối năm
+Microsoft vừa phát hành 2 bản vá cho 4 lỗ hổng trong Internet Explorer (IE) và một lỗi của Windows 2000. Bản cập nhật trình duyệt cũng xử lý trục trặc liên quan đến chương trình rootkit cài trong đĩa CD của Sony BMG Music Entertainment. 
+Hai trong bốn lỗi IE, đề cập trong bản tin MS05-054, được đánh giá ở mức "nghiêm trọng", có thể cho phép kẻ tấn công kiểm soát toàn bộ hệ thống. Nguy cơ diễn ra ở mọi phiên bản của trình duyệt được cài trên bất cứ hệ điều hành Windows nào.
+Một lỗi xảy ra khi IE vận hành những đối tượng tài liệu nhất định. Vấn đề này xuất hiện từ tháng 5 nhưng chỉ được coi là sẽ gây ra tấn công từ chối dịch vụ. Nhưng trong tháng 11, nhiều chuyên gia đã cảnh báo rằng nó có thể tạo cơ hội cho kẻ tấn công chạy mã độc từ xa trên hệ thống. Thậm chí hãng bảo mật Secunia (Đan Mạch) đã xếp lỗ hổng ở mức nghiêm trọng cao nhất.
+Lỗi IE thứ hai tương tự như rắc rối đã được mô tả trong bản tin bảo mật tháng 7, 8 và 10. Bản vá lỗ hổng lần này gỡ bỏ những kết nối giữa IE và một số thành tố khác không phù hợp khác trong phần mềm của Microsoft.
+Lỗ hổng thứ 3 liên quan đến cách trình duyệt hiển thị bảng hội thoại khi tải file từ một trang chứa mã độc. Trục trặc cuối cùng của IE tạo điều kiện cho hacker theo dõi những website mà người sử dụng đang ghé thăm, ngay cả khi site đó đã được mã hóa bằng địa chỉ https. Tuy nhiên, điều này chỉ xảy ra khi PC kết nối Internet thông qua một loại máy chủ proxy nhất định.
+Ngoài IE, Microsoft cung cấp sửa lỗi phân quyền trong Windows 2000 khiến hacker quản lý hệ thống thông qua bản tin MS05-055.
+"Những lỗ hổng này đang bị khai thác ngày càng nhiều nhằm lừa đảo trực tuyến và khống chế PC", Oliver Friedrichs, Giám đốc cao cấp của Symantec Security Response, cho biết. "Symantec đã ghi nhận nhiều vụ khai thác lớn, do đó người dùng nên cập nhật bản vá lỗi càng sớm càng tốt".
+

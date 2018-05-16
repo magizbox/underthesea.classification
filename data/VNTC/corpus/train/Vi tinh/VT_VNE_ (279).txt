@@ -1,0 +1,8 @@
+Sử dụng VB.Net (1)
+Chao cac anh chi. Em co su dung chuong trinh visualstudio.net va muon thiet lap trang web bang ung dung ASP.net trên VB.netEm khong the tao duoc: http://localhost/Application.asp, mac du em da cai IIS 6.0. Xin chi em cach lam. Cam on cac anh chi nhieu.
+trần thiện phương
+Hồi âm:
+The nay nhe, de lam duoc em phai thuc hien may buoc sau:
+May phai cai IIS Cai bo .Net (with SDK) Roi vao mo VB.Net chang han, chon File-New-NewProject& 
+Noi thi kho hieu. Neu thuc su quan tam thi phone cho anh theo so 0913539374. 
+

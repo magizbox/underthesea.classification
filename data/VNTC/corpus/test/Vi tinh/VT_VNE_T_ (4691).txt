@@ -1,0 +1,5 @@
+Samsung phát hành mẫu chip đồ họa GDDR 4
+Hãng điện tử Hàn Quốc vừa cung cấp cho các công ty chế tạo card đồ họa mẫu sản phẩm 256 MB, có khả năng truyền dữ liệu với tốc độ 2,5 Gb/giây, tăng 0,9 Gb/giây so với những thiết bị hiện có trên thị trường. 
+Không dừng ở đó, Samsung khẳng định hãng sẽ phân phối mẫu 2,8 Gb/giây vào cuối năm nay. Tập đoàn này cho biết chip nhớ được xây dựng theo phương pháp mới Data Bus Inversion và Multi-Preamble, hỗ trợ tăng 56% tốc độ so với công nghệ hiện nay, nhưng không tiết lộ thông số chi tiết. 
+Từ khi bắt đầu giới thiệu GDDR 2 tốc độ 128 Mb/giây vào năm 2002, Samsung luôn dẫn đầu trên thị trường DRAM đồ họa. Họ sẽ không sản xuất GDDR 4 hàng loạt cho đến quý II năm tới, nhằm mục đích duy trì vị trí số một trong nửa sau 2006, giai đoạn mà các chuyên gia dự đoán sẽ bùng nổ card đồ họa cao cấp.
+

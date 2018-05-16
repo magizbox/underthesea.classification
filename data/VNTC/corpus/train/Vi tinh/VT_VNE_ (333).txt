@@ -1,0 +1,6 @@
+CDMA sẽ phát triển mạnh trong năm nay
+Công nghệ CDMA (Code Division Multiple Access) năm qua đã có những bước tiến đầy ấn tượng trên khắp thế giới. Hiện có gần 30 triệu thuê bao sử dụng dịch vụ này và dự kiến sẽ tiếp tục tăng trưởng trong năm 2004.
+Năm nay, các doanh nghiệp sẽ có xu hướng dùng điện thoại di động CDMA để truy cập Intranet công ty, lướt web trên đường đi, tổ chức hội nghị video và quản lý công việc hành chính như lập thời biểu hội họp, đặt chỗ nhà hàng, khách sạn, máy bay và phối hợp với đồng nghiệp. 
+Khả năng gửi và nhận các tín hiệu audio/video tăng lên qua mạng CDMA đã mở ra con đường phát triển cho các dịch vụ truyền thông cá nhân, bao gồm cung cấp cho người sử dụng nhiều kênh nội dung qua điện thoại di động như: tin tức, phim, TV, video âm nhạc...
+Ngoài tin tức và thông tin, một trong những lĩnh vực ứng dụng phổ thông nhất trên hệ thống CDMA2000 1X là game. Điện thoại di động sử dụng công nghệ này cũng được cải tiến hơn gồm: màn hình hiển thị độ phân giải cao (OVGA 240 x 320 pixel hoặc lớn hơn). Khả năng xử lý tốc độ dữ liệu đến 2,4 Mbps, pin có thời gian đàm thoại trên 180 phút, bộ nhớ 20 MB và kích hoạt thoại bằng quay số cùng các chức năng thông dụng khác.
+

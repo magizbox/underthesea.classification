@@ -1,0 +1,6 @@
+ Cơ sở dữ liệu của MobiFone bị lộ 
+Mạng an toàn thông tin VSEC đã phát đi cảnh báo cho biết website mobifone.com.vn của MobiFone đang có lỗ hổng nghiêm trọng. 
+Lỗ hổng này sẽ giúp các hacker kiểm soát được hệ thống cơ sở dữ liệu, sử dụng tài khoản của khách hàng để nhắn tin tự động tạo ra account để kiểm soát thông tin của số điện thoại đó. Ngoài ra, tin tặc có thể kiểm soát những thông tin quan trọng của tất cả các khách hàng như số điện thoại gọi đi, thời gian đàm thoại… 
+Ông Lê Ngọc Minh, Giám đốc VMS MobiFone, thừa nhận, hệ thống mạng của MobiFone đã có lỗ hổng và hacker đã lợi dụng lỗ hổng này để đột nhập vào hệ thống mạng. Hiện MobiFone đã phát hiện và vá lại lỗ hổng này. 
+Ngay lập tức trên trang web của MobiFone đã phát đi khuyến nghị đổi mật khẩu có nội dung như sau: “Để đảm bảo an toàn, bảo mật thông tin cho khách hàng đang sử dụng dịch vụ trên trang web của MobiFone. Công ty chúng tôi xin khuyến nghị khách hàng đã sử dụng dịch vụ trên 6 tháng hoặc có mật khẩu truy cập đơn giản cần đổi mật khẩu truy cập vào trang web www.mobifone.com.vn ”. 
+

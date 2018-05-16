@@ -1,0 +1,6 @@
+Cẩn thận với file cập nhật cho PSP
+Dân nghiền game đang kháo nhau về một file dùng để cập nhật cho PlayStation Portable (PSP) nhằm thêm nhiều tính năng mới. Tuy nhiên, Sony lại khuyến cáo file đó có thể khiến phần cứng của thiết bị chơi game cầm tay bị hỏng hóc. 
+File trên xuất hiện vào cuối tuần qua và tồn tại trên một server của Sony rồi sau đó có mặt ở một số website chuyên về game khác. Giao diện trong quá trình cài đặt trông có vẻ sẽ giúp thiết bị PSP có thêm nhiều chức năng như máy trạm e-mail, trình duyệt web, voice chat, máy tính, chuyển văn bản sang giọng nói, lịch và khả năng tương tác với phần mềm âm nhạc SonicStage. 
+"Phần mềm này không phải do Sony chính thức phát hành và không hoạt động hiệu quả. Chúng tôi khuyên người dùng không nên update vì có thể gây ra hỏng hóc cho PSP", Nanako Kato, người phát ngôn của Sony tại Nhật Bản, cho biết.
+Kato cũng xác nhận file nói trên được các kỹ sư của Sony tạo ra nhưng chứa những dữ liệu không thích hợp cho việc sử dụng vào thời điểm hiện tại. Những người dùng đã cập nhật có thể mang PSP đến các điểm bảo hành của Sony để sữa chữa và phải chịu toàn bộ chi phí.
+

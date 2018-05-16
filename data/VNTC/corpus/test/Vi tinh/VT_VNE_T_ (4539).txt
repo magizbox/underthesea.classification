@@ -1,0 +1,9 @@
+Màn hình LCD lớn nhất không dùng bộ lọc màu
+Samsung vừa phát triển màn hình TFT LCD 32 inch sử dụng phương pháp xử lý màu liên tiếp, có khả năng nhận biết mức độ đậm nhạt chính xác dựa trên thời gian ánh đỏ, xanh lá cây và xanh da trời (RGB) phát từ ánh sáng nền LED.
+Samsung TFT-LCD 32 inch.
+Tập đoàn Hàn Quốc cho biết màn hình LCD truyền thống đòi hỏi phải trang bị cả ánh sáng nền huỳnh quang lạnh CCFL và một bộ lọc để phân tách màu trắng khỏi những điểm ảnh RGB. Tuy nhiên, trong thiết kế mới nhất, các điểm ảnh (pixel) không được sắp xếp trải suốt bề mặt LCD, do đó không cần đến công cụ lọc này.
+Màn hình này chỉ tiêu thụ lượng điện 82 watt, tương đương 60% điện năng so với phiên bản LCD hiện tại, và tỷ lệ độ sáng 500 nit. Nit là đơn vị đo cường độ ánh sáng. Một nit tương đương với độ sáng của một ngọn nến tỏa đều trên một mét vuông, hay còn gọi là Candela (viết tắt là Cd). Nit thường được dùng để đo tỷ lệ ánh sáng màn hình máy tính và TV như màn hình LCD, CRT...
+Bên cạnh đó, thời gian phản hồi (response) của màn hình Samsung TFT-LCD chỉ khoảng 5 phần triệu giây, phù hợp với các ứng dụng video và đa phương tiện. Sản phẩm sẽ được phát hành rộng rãi trên thị trường vào nửa sau 2006. Giá thành vẫn chưa được chính thức công bố.
+TV plasma của Samsung.
+Tuần qua, Samsung cũng ra mắt TV plasma lớn nhất và có lẽ cũng thoại loại đắt nhất hiện nay, kích thước 80 inch, sử dụng công nghệ DNIe với tỷ lệ tương phản 2000:1 gấp 5 lần các sản phẩm cùng loại khác. Ngoài ra, TV có thể tạo kênh ảo 5.1 với chuẩn âm thanh tiên tiến 3D và dolby digital. Giá dự kiến 150.000 USD.
+

@@ -1,0 +1,14 @@
+Phương pháp đoán chiều cao trưởng thành của trẻ 
+Một phép tính đơn giản dựa trên ngày sinh và chỉ số cơ thể của trẻ em có thể đoán được chiều cao của chúng khi lớn lên, các nhà nghiên cứu tuyên bố.
+Rất nhiều trẻ em và cha mẹ chúng tò mò muốn biết chúng sẽ cao như thế nào khi trưởng thành. Một khó khăn cho việc tính mức độ trưởng thành sinh học của mỗi cá nhân là một số trẻ em thì phát triển sớm trong khi những đứa khác lại bùng phát muộn.
+Một nhóm các nhà khoa học Bỉ và Canada cho thấy họ đã vượt qua trở ngại này bằng một công thức toán học. Bằng cách cộng chiều cao hiện tại của trẻ với số cm mà đứa trẻ còn có thể phát triển, họ có thể đoán được chiều cao cuối cùng, với độ chênh lệch của con trai là 5,4 cm và con gái là 6,8 cm.
+Tuy nhiên, công cụ này chỉ có thể dự đoán hiệu quả cho những bé gái 8-16 tuổi và con trai 9-18 tuổi, và khi chỉ số cơ thể như chiều cao lúc ngồi và đứng được lấy chính xác.
+Từ lâu, mọi người vẫn lấy chiều cao trung bình của cha mẹ để đoán chiều cao trưởng thành của con. Chiều cao của con khi trưởng thành có thể chênh lệch 10 cm so với chiều cao trung bình của cha mẹ.
+Các nhà khoa học tại Đại học Saskatchewan ở Canada và Viện nghiên cứu vận động và phục hồi chức năng tại Bỉ đã sử dụng phương pháp khác, dựa trên chỉ số của chính đứa trẻ.
+Họ thử nghiệm phép tính trên 224 con trai và 120 con gái tuổi từ 8 đến 16. Bước đầu tiên, họ dự đoán mức độ trưởng thành của trẻ em. Cụ thể, đó là khoảng thời gian còn lại của trẻ để đạt tới đỉnh của chiều cao (PHV) - thời điểm trẻ em đạt 92% vóc người trưởng thành.
+Con số này có thể tính ra từ tuổi tác, giới tính, cân nặng, chiều cao khi ngồi và khi đứng. Từ đó, trẻ sẽ được xác định là phát triển sớm, trung bình hay muộn.
+Tiếp đến, tìm ra khoảng phát triển còn lại cho đến khi đạt chiều cao trưởng thành, gọi là giá trị chiều cao tích luỹ.
+Chiều cao trưởng thành được tính bằng cách cộng chiều cao của trẻ hiện tại với giá trị chiều cao tích luỹ.
+Tiến sĩ Charlotte Wright, cố vấn sức khoẻ trẻ em tại Đại học Glasgow, nhận định sẽ khó để cha mẹ đo chính xác chiều cao khi ngồi của trẻ tại nhà. Bà cũng nghi ngờ về tính hữu ích của công thức này, bởi chiều cao trưởng thành thực sự lại chênh lệch tới 5 cm so với ước tính.
+Tuy nhiên, bà cho rằng phương pháp đo này vẫn chính xác hơn là sử dụng chiều cao của cha mẹ để đoán chiều cao của con.
+

@@ -1,0 +1,8 @@
+Cách nối 2 Switch CNET (2)
+Chào các anh ! Xin cho em hỏi chút đỉnh. Em có 2 cái Switch 16 Port hiệu Cnet. Xin chỉ giùm cách nối 2 Switch này để có thể chơi cùng mạng LAN.
+Trọng Hiếu
+Hồi âm:
+Chao Trong Hieu. Ban bam cable thanh cable cheo la xong thoi. Neu ban khong biet bam cable thi ra cho ban cable mua mot soi va hai dau noi va bao ho bam cable cheo dum ve cam vao la chay thoi. Nhung ban dung quen ve dia chi IP va subnet cua chung va phai chung mot nhom hoac Domain nghe. Chuc ban thanh cong.
+Nghi Luu
+Bạn quên không cho biết model cụ thể của từng switch, tuy nhiên, bạn có thể sử dụng một cáp mạng (CAT5) cắm từ một cổng của switch thứ nhất sang cổng uplink (nếu có) của switch thứ 2. Nếu không có cổng uplink thì cắm vào cổng nào cũng được. Lưu ý là một số switch đời cũ không cho phép việc kết nối kiểu này.
+

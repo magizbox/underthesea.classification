@@ -1,0 +1,7 @@
+Hacker chuyển sang khai thác dữ liệu nạn nhân qua fax
+Những kẻ lừa đảo trực tuyếnđang tiếp tục tận dụng một thủ thuật mới qua những e-mail yêu cầu người dùng gửi fax với thông tin nhạy cảm tới nhà điều tra bảo mật giả danh.
+Trong phương pháp này, kẻ tấn công gửi một e-mail bề ngoài trông như xuất phát từ hệ thống thanh toán trực tuyến PayPal (Mỹ), với nội dung rằng ai đó đang cố cài lại mật khẩu của người nhận và yêu cầu họ tham gia cuộc điều tra.
+Hãng bảo mật Sophos cho biết e-mail sẽ hướng người dùng đến một tài liệu Word trên website, yêu cầu họ tải về, điền thông tin thẻ tín dụng và gửi tới một số fax miễn phí.
+"Thủ đoạn này xuất hiện khi người dùng bắt đầu cảnh giác hơn với vấn đề lộ thông tin cá nhân trong môi trường trực tuyến", Graham Cluley, cố vấn cao cấp của Sophos, khẳng định. "Chúng tôi đã phát hiện những hoạt động như vậy trong vài ngày gần đây. Kẻ lừa đảo hy vọng lợi dụng được tâm lý cảm thấy an toàn hơn của mọi người khi gửi fax thay vì khai báo dữ liệu trên mạng".
+Kiểu lừa đảo qua e-mail đang dần không còn nhiều hiệu quả. "Trojan và sâu sẽ trở nên phổ biến hơn vì chúng có thể rà soát thông tin lén lút mà không sợ bị phát hiện", Cluley cảnh báo.
+

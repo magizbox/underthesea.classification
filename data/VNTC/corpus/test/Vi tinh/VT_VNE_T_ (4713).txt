@@ -1,0 +1,9 @@
+Chia sẻ Internet có kiểm soát trong mạng LAN (2)
+Cơ quan tôi có khoảng 50 máy tính nối mạng winserver 2003 (có domain). Hiện nay chúng tôi đã trang bị đường dây ADSL và muốn chia sẻ Internet trong mạng nhưng với điều kiện có kiểm soát (tức là chỉ cho phép một số máy kết nối Internet trong những thời điểm quy định, ngăn chặn các web xấu...)
+Xin các bạn tư vấn nên dùng giải pháp nào? Chúng tôi đã thử wingate 5.22 nhưng hoạt động không được. Chúng tôi dùng modem ADSL GVC. Xin cám ơn.
+Lam Minh Triet
+Hồi âm:
+Ban co thê cai đăt bô phân mêm ISA cua Microsoft. No se đap ưngđươc nhu câu cua ban, vi đây la môt firewall. Chương trinh nay râtdê câu hinh. Nêu ban thât sư quan tâm thi tui săn sang hô trơban. Ban co thê liên hê vơi tôi qua đia chi nay hoăc hp0905173181. Tên tôi la Nguyên Ngoc Hoang, rât vui đưoc hô trơ ban. Chao.
+Nguyễn Ngọc Hoàng
+Cái đó thì dễ thôi. Máy chủ bạn phải có 2 card mạng, 1 cho Lan và 1 cho ADSL (link với Modem). Card cho Lan thì bạn cấu hình bình thường như trước đây, Card cho ADSL thì bạn cấu hình theo thông số của modem và của nhà cung cấp dịch vụ (VDC, FPT,..). Để chia sẻ cho các máy khác thì bạn cài ISAserver2000 và cấu hình cho nó một chút. Các máy clients trong mạng của bạn muốn vào internet thì phải đi qua proxy do ISA quản lý. Địa chỉ Proxy chính là địa chỉ của Server. Trong ISA bạn muốn cho ai đi internet thì Add user người đó vào. Trên máy clients bạn thiết lập trong Lan Settings của Internet là phải có proxy thế là xong. Khi trên máy client vào internet thì nó sẽ hỏi username - password, người dùng sẽ nhập username - password của mình đã được cung cấp trong mạng, thế là vào. Nếu còn thắc mắc thì liên hệ tôi, Nguyễn Hiền Ninh - 0914.135144 - email: ninhpdc@yahoo.com. 
+

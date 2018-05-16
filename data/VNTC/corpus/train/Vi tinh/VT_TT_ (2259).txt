@@ -1,0 +1,25 @@
+ Sử dụng Yahoo! SMS Messenger trên điện thoại di động 
+Ông Tống Viết Trung - giám đốc Viettel Mobile - cho biết: “Hiện tại, ở VN có khoảng 4 triệu khách hàng đang thường xuyên sử dụng dịch vụ Yahoo! SMS Messenger, trong đó có rất nhiều người dùng điện thoại di động. Viettel Mobile là mạng di động đầu tiên cho phép các khách hàng trao đổi hai chiều và thuận tiện với YM (các mạng di động khác chỉ cho phép khách hàng nhắn tin tới YM mà chưa cho phép nhắn theo chiều ngược lại).” 
+Để sử dụng dịch vụ này, bạn gửi tin nhắn tới 8269 với nội dung: in Yahoo!id Password. Ví dụ: soạn tin nhắn “in duchung2005 aaaaaa” gửi đến số 8269. 
+Sau khi đăng ký thành công, hệ thống 8269 sẽ gửi tới cho bạn danh sách Your Online Friend. Nếu một người bạn của bạn đang online: trên thanh trạng thái sẽ hiển thị “I’m on SMS” để thông báo rằng khách hàng đang ở trong trạng thái online trên điện thoại di động. 
+Gửi và nhận “message” từ điện thoại di động: 
+Để gửi tin nhắn đến một địa chỉ Yahoo (đang online hay offline) bạn soạn tin nhắn như sau và gửi về 8269: to Yahoo! ID hoặc “địa chỉ email”. 
+Ví dụ: để gửi “message” đến thonon2001@yahoo.com , bạn soạn tin như sau: 
+to thonon2001 Anh ve chua? 
+Gủi tin nhắn đến một địa chỉ ID đã có mã số trên danh sách Your Friend List. Ví dụ: Soạn tin nhắn như sau gửi về 8269 để gửi “message” đến một người bạn có mã số là 101. 
+to 101 Anh cho em nhe! 
+Nhận tin nhắn: Khi đã truy cập vào sử dụng dịch vụ Yahoo! SMS Messenger bạn sẽ tự động nhận được tin nhắn từ các địa chỉ Yahoo! gửi đến. 
+Muốn thoát, bạn chỉ cần soạn tin nhắn “out” và gửi tới số 8269. Nếu bạn đăng nhập mà không sử dụng dịch vụ trong một tuần, hệ thống sẽ tự động thoát ra và gửi tới cho bạn một tin nhắn mời bạn đăng nhập lại. 
+Cước phí gửi vào Yahoo 2.000đ/tin, sau đó từ Yahoo có thể gửi được 4 tin nhắn đến máy điện thoại di động. 
+Gửi và nhận mail 
++ Viettel Mobile cung cấp gói dịch vụ trả sau VPN (Virtual Private Network - mạng doanh nghiệp) dành cho các công ty, tổ chức có từ 5 thuê bao trở lên. Theo đó, khi công ty, tổ chức đăng ký sử dụng gói cước này, mức cước gọi giữa các thuê bao mạng 098 sử dụng dịch vụ VPN được tính là 109 đồng/block 6 giây (giảm 22% so với cước gọi ngoài mạng và giảm 15% so với cước gọi nội mạng). 
+Ngoài ra, chủ thanh toán gói cước VPN còn được hưởng chế độ giảm cước đặc biệt trên hóa đơn thanh toán cước hằng tháng: giảm 3% nếu vượt trên 3.000.000 đồng, giảm 5% nếu vượt trên 5.000.000 đồng và giảm 8% nếu vượt trên 10.000.000 đồng. 1. Gửi email từ điện thoại di động 098: Soạn tin nhắn: mail &lt;điachiemail&gt;noi dung —&gt; gửi về số 8000 
+Ví dụ: Gửi tin nhắn đến địa chỉ email là huu98@yahoo.com 
+Soạn tin nhắn: mail huu98@yahoo.com chao ban, hen ban chieu nay uong cafe —&gt; gửi đến 8000. Cước phí 500 đồng/tin. 
+2. Nhận email từ điện thoại di động 098 
+Người gửi: Viết nội dung mail theo hướng dẫn sau: 
++ Địa chỉ gửi: sms800@viettel.com.vn 
++ Chủ đề: nhập số điện thoại: 98xxxxxxx (chú ý: bỏ số 0 đầu tiên) 
++ Nội dung mail: viết không dấu. 
+Người nhận: Hệ thống SMS-8000 sẽ gửi thông tin báo hiệu có email, người nhận muốn nhận tin thì Forward (gửi đi) bản tin thông báo về số 8000. Nếu không muốn nhận thông tin thì không cần Forward. 
+

@@ -1,0 +1,8 @@
+Lỗi khi load file Bride.dll (1)
+Em nhờ các anh chị giúp em với. Gần đây khi khởi động window, em nhận được thông báo là: Erro loaded file c:\ window\conflic\bridge.dllEm vào trang synmatic và làm theo hướng dẫn của họ, em delete cai file brigde đó rồi. Nhưng vẫn còn thông báo đó. Mà theo như trang đó nói thì file bridge.dll là dạng file adware. Có ai giúp em làm cách gì cho nó không hiện ra cái thông báo nữa không? và làm gì để xử lý bây giờ?
+Vu thanh Cong
+Hồi âm:
+BRIDE.DLL dung la mot adware hay spyware, khi mot spyware duoc cai vao may cua ban thi ct ay se tao ra nhieu ngo ngach khac o thu muc registry hay tao ra them nhung file co dang .EXE .truoc khi theo su huong dan cua trang symantec. ban can lam nhung dieu sau day de xoa toan bo spyware do. Tai mot trong hai phan mem sau day ve cai san trong may spybot search  and destroy 1.2 link... http://www.safer-networking.org/index.php?page=download hay ct nay cung duoc ad-aware http://download.com.com/3000-2144-10045910.html?part=69274subj=dlpagetag=button, ca hai deu free va duoc cap nhat luon hang ngay. Hay chon update truoc khi khoi dong de tim tat ca nhung spyware cai trong may cua ban ke ca nhung vung tru an o registry key.
+1 - Nhap phai chuot startexploretoolsfolder optionviewchon show hiden files and folder 
+2 - Nhan ctrl+alt+delete tim file brigde.dll hoac tuong tu giong nhu vay chon end task... sau do chay mot trong 2 phan mem ke tren, neu su dung 2 chuong trinh ay va cai dat dung cach tu day ve sau ban khong phai lo ve cac spyware nua.
+

@@ -1,0 +1,6 @@
+Máy không vào được CMOS (1)
+Máy mình đang dùng là PIII slot không vào CMOS được mà chỉ hiện lên: configuration model. Làm sao để vào lại được? Xin được giúp đỡ. Cảm ơn mọi người
+mnhat
+Hồi âm:
+Ban hay thao back up battery ra va gan lai roi vo cmos. 
+

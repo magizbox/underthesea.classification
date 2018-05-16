@@ -1,0 +1,6 @@
+Gặp lỗi khi tải phần mềm (1)
+Tôi có truy cập vào một trang Web của nhà sản xuất và cần download về một phần mềm, nhưng gặp phải thông báo sau:"Directory Listing Denied This Virtual Directory does not allow contents to be listed." Vậy tôi có thể giải quyết như thế nào? 
+Kat
+Hồi âm:
+Ban hay copy mau thong bao (Directory Listing Denied This Virtual Directory does not allow contents to be listed ) va goi lai cho chu nhan cua trang web do (webmaster) de ho sua lai. Thuong la do loi cua nguoi thiet ke trang web (web designer) o phan index.html hay index.htm.
+

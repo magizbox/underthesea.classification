@@ -1,0 +1,11 @@
+Người dùng IE nên cẩn trọng
+Cuối tuần qua, các trung tâm an ninh mạng khuyến nghị người dùng nên tránh sử dụng trình duyệt Internet Explorer cho tới khi Microsoft vá được một lỗ hổng bảo mật nghiêm trọng đang bị tội phạm mạng khai thác để chiếm quyền điều khiển máy tính.
+Nguy cơ lây nhiễm là rất cao vì đoạn mã được tạo ra để khai thác lỗ hổng được đặt trên rất nhiều website phổ biến. Các chuyên gia cho biết danh sách những địa chỉ phát tán virus này có cả các trang web đấu giá, ngân hàng, công ty phân tích giá cả... và ngày một lan rộng. 
+Các trung tâm bảo mật vẫn chưa thống nhất về tên gọi của kết hợp giữa lỗi IE và sự phát tán trên web. Trong bản cảnh báo của mình, Microsoft gọi nó là download.ject, trong khi F-Secure và một số cơ quan khác đề cập đến sự cố với tên gọi Scob. Khi bị lây nhiễm, các máy chủ sẽ đưa các đoạn mã Java nguy hại vào tất cả các trang web cùng các tập tin gif và jpg được đặt trên máy rồi từ đó xâm nhập vào máy người dùng. 
+Sau khi được tải về máy tính cá nhân, đoạn mã trên sẽ lái trình duyệt về một trang web của Nga, nơi tìm cách cài một phần mềm mở cửa sau máy tính của bạn. 
+Trung tâm kiểm soát mạng (Cert) và cơ quan an ninh mạng Internet Storm Center cùng đưa ra những cảnh báo về nguy cơ kết hợp giữa những trang web phát tán virus và lỗ hổng của trình duyệt. Cert khuyến nghị: "Người dùng nên nhận thức rõ, bất kỳ trang web nào, kể cả những trang được họ tín nhiệm, cũng có thể bị ảnh hưởng, và vì vậy có nguy cơ chứa đoạn mã nguy hại này". 
+Kiểm tra máy tính của bạn
+Click phím Start rồi chọn Search.Hiển thị tất cả tập tin và thư mục.Tìm file có tên Kk32.dll avà Surf.dat.Nếu máy của bạn bị nhiễm, hãy sử dụng những phần mềm diệt virus cập nhật để loại bỏ đoạn mã. 
+Trong kết luận về nguy cơ mới, Internet Storm Center thậm chí cho rằng nếu có thể, người dùng "nên sử dụng một trình duyệt khác ngoài MS Internet Explorer cho tới khi những lỗ hổng hiện tại được vá lại".
+Giám đốc bộ phận bảo mật của Microsoft Stephen Toulouse cũng cho biết: "Chúng tôi đã gửi đi những lời cảnh báo, thông báo cho khách hàng về bản chất của vấn đề, máy tính của họ đã bị nhiễm hay chưa và cách thức ngăn chặn". Ông khuyên mọi người nên đặt thiết lập bảo mật (Internet security zone) ở mức cao và chạy các trình diệt virus mạnh.
+

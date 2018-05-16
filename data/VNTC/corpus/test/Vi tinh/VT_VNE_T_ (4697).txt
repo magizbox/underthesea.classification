@@ -1,0 +1,8 @@
+Chế độ standby tiêu tốn hàng trăm triệu USD mỗi năm
+Việc khởi động máy tính chậm chạp, giống như thời gian bật TV quá lâu trước đây, khiến nhiều nhân viên không đủ kiên nhẫn và quyết định rời công sở mà không tắt máy.
+"Mọi người nghĩ họ tiết kiệm tiền khi chuyển PC sang chế độ dự phòng (standby), nhưng trên thực tế, mỗi máy tính hoặc TV vẫn 'ngốn' tới 90% điện năng so với khi nó được bật lên hoàn toàn", phát ngôn viên của Hiệp hội Energy Saving Trust (Anh), cho biết.
+Tổ chức bảo vệ môi trường Những người bạn của Trái đất (Friends of the Earth) cũng đang kêu gọi các hãng sản xuất máy tính nhanh chóng điều chỉnh kỹ thuật và thiết kế sản phẩm sử dụng năng lượng hạn chế hơn khi thiết bị ở trạng thái standby.
+AddVote(1000224954,0,183889038,'','Khi rời cơ quan, bạn để máy tính ở chế độ nào?','#FFFFFF','#800000','100%',5, new Array(new Array('Tắt máy, trừ màn hình.',0,0),new Array('Để Standby.',0,1),new Array('Chỉ tắt màn hình.',0,2),new Array('Vẫn hoạt động.',0,3),new Array('Tắt hết.',0,4)),'',1)
+Tính riêng ở Anh, 75% nhân viên công sở nhận thức được tác hại đối với môi trường khi không tắt PC nhưng vẫn có đến 1/3 để máy qua đêm. Hậu quả là nước này đang lãng phí khoảng 214 triệu USD, chưa kể 1 triệu tấn CO2 đang bị thải ra không khí mỗi năm. 
+Tuyên truyền viên Martyn Williams nói: "Đã đến lúc chính phủ phải can thiệp, ban hành luật và xây dựng ý thức cho người dân. Các hãng sản xuất máy tính cũng cần thay đổi thiết kế và chúng ta nên tìm kiếm phương pháp để thiết kế công cụ đặc biệt, có khả năng dò ra những PC nào chưa được tắt".
+

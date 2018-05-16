@@ -1,0 +1,7 @@
+Hệ điều hành Tiger vừa ra đã thủng 
+Phiên bản OS X 10.4(gọi là Tiger) của Apple có trình duyệt Safari 2.0 cho phép cài hệ điều hành trên hệ thống mà không cần sự chấp thuận của người sử dụng. Do đó, Safari có thể xoá tệp tin, định dạng ổ cứng hoặc thay đổi cài đặt trên máy.
+Một số cách khai thác thử nghiệm điểm yếu này đã được tung lên trên mạng và các chuyên gia khuyến cáo người sử dụng không được nhấn vào bất kỳ trang hướng dẫn nào (ví dụ như trang Stephan.com). Những hệ thống Windows hay các hệ điều hành OS X phiên bản trước đều có thể mở trang web này mà không gặp khó khăn gì. 
+Khi chạy Safari và kết nối vào trang web nói trên thì những "widget" - những ứng dụng nhỏ viết bằng chuẩn Java, chạy bên trong nền Dashboard của Tiger cho các ứng dụng như tính toán hay báo giá cổ phiếu - sẽ tự động tải xuống và tự động cài đặt. Những widget này khi đã cài đặt thì rất khó gỡ ra. Phần mềm Dashboard không có mục gỡ bỏ chúng và người sử dụng sẽ phải xoá file bằng tay từ thư mục. 
+Các chuyên gia cũng khuyến cáo gỡ bỏ chức năng cài đặt Safari tự động cho đến khi Apple đưa ra bản vá lỗi. Một biện pháp thay thế là đặt thư mục chứa widget ở chế độ "read-only". 
+Ngoài ra, khi kết nối mạng người sử dụng cũng gặp phải những vấn đề về bảo mật.
+

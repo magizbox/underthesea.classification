@@ -1,0 +1,6 @@
+Điện thoại dùng pin nhiên liệu ra mắt vào tháng 3 năm tới
+Mạng điện thoại di động Nhật KDDI tháng tới sẽ trình diễn 2 mẫu điện thoại sử dụng pin nhiên liệu của Toshiba và Hitachi. Dù chúng mới chỉ ở dạng mô hình, nhà cung cấp này hy vọng sẽ chính thức phát hành sản phẩm trên thị trường vào cuối năm tài chính của hãng.
+Điện thoại của Toshiba mang tên A5509T, sử dụng công nghệ DMFC sau thân máy và đặt ở vị trí phía trên pin Lithium-ion thông thường. Pin nhiên liệu, dung tích 7 cc có khả năng nạp lại, chứa chất methanol cô đặc 99,5% và cung cấp thời gian sử dụng gấp 2,5 so với pin thường.
+Mẫu điện thoại vỏ gập W32H của Hitachi bao gồm những đặc điểm tương tự, nhưng pin này sử dụng methanol cô đặc 60% với dung tích 3 cc. Cả hai phiên bản đều có công suất điện năng 300 mW.
+KDDI sẽ giới thiệu hai điện thoại này tại triển lãm CEATEC diễn ra ngày 4/10 tại Nhật. Năm tài chính hiện tại của KDDI sẽ kết thúc vào 31/3/2006.
+

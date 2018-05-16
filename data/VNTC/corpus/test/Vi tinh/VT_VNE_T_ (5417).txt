@@ -1,0 +1,8 @@
+ĐTDĐ truyền dữ liệu 3,6 Mb/giây đầu tiên
+Tập đoàn điện tử Hàn Quốc Samsung khẳng định chiếc điện thoại di động của họ có thể tải một file nhạc MP3 dung lượng 4 MB chỉ trong 10 giây.
+Sản phẩm sử dụng giao thức mạng HSDPA (High Speed Downlink Packet Access - truy cập gói dữ liệu kết nối tín hiệu từ vệ tinh tới trạm mặt đất tốc độ cao) và được trang bị chip MSM6280 của Qualcomm.
+"Đây là chiếc điện thoại 3,6 Mb/giây đầu tiên trong ngành công nghệ dù trước đó đã có một vài mẫu sản phẩm đạt tốc độ 1,8 Mb/giây", Samsung tuyên bố. Thiết bị sẽ xuất hiện hôm nay trong hội chợ hàng điện tử gia dụng CES tại Las Vegas (Mỹ).
+"Với vai trò là hãng truyền thông luôn phát tiển những công cụ đa phương tiện cá nhân hàng đầu trên thị trường, Samsung tin tưởng HSDPA sẽ là chuẩn băng thông rộng cho thiết bị di động", Kitae Lee, Giám đốc doanh nghiệp mạng viễn thông của Samsung, khẳng định.
+Sanjay Jha, Giám đốc Qualcomm, bổ sung thêm: "Những cuộc gọi với tốc độ 3,6 Mb/giây qua điện thoại HSDPA của Samsung đánh dấu một mốc đặc biệt quan trọng trong việc triển khai và thương mại hóa công nghệ mới (3,5G) trên toàn thế giới".
+HSDPA có hứa hẹn tốc độ truyền dữ liệu nhanh gấp 7 lần so với chuẩn WCDMA (Truy cập đa phân mã rộng). 
+

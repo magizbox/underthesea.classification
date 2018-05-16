@@ -1,0 +1,8 @@
+Microsoft có thể bị phạt hơn 2 triệu USD mỗi ngày
+Ủy ban châu Âu (EU) vừa khuyến cáo rằng hãng phần mềm Mỹ sẽ phải bồi thường tới 2,4 triệu USD mỗi ngày nếu họ không chịu nhường bước cho phép đối thủ tiếp cận sâu hơn nữa vào các chương trình của họ.
+Tuy nhiên, Brad Smith, người phụ trách vấn đề pháp lý của Microsoft, tuyên bố công ty sẽ kháng lại những yêu cầu "thiếu công bằng" của EU bằng mọi giá có thể. Smith khẳng định công ty đã cố gắng tuân theo các yêu cầu nhưng EU cứ liên tục thay đổi điều khoản đã được chấp thuận trước đó.
+"Chúng tôi đã phát hành phiên bản Windows mới, chúng tôi đã bồi tường án phạt và chúng tôi đã cho phép đối thủ tiếp cận công nghệ của Microsoft nhằm thúc đẩy khả năng tương thích. Tóm lại, chúng tôi đã trả lời hơn 100 yêu cầu từ phía Ủy ban", Smith nói.
+Tháng 3/2004, hãng phần mềm lớn nhất thế giới này đã bị tuyên án lạm dụng quyền lợi, phải bồi thường với mức kỷ lục và bị yêu cầu mở rộng hệ điều hành của họ.
+Microsoft cũng bị buộc phải "phát hành tài liệu về giao diện một cách đầy đủ và chính xác, cho phép những hệ thống phi Microsoft có thể tương tác với máy tính và server chạy Windows".
+EU đã từ chối đơn kháng án hồi tháng 9 vừa qua của Microsoft và tuyên bố ngày 15/12 sẽ là hạn cuối cùng cho tập đoàn phần mềm thay đổi. Tuy nhiên, Ủy ban châu Âu cũng để ngỏ cho Microsoft thêm 5 tuần nữa. Nghĩa là, nếu đến ngày 25/1/06, hãng vẫn không cung cấp thông tin cần thiết, án phạt theo ngày sẽ được thực hiện và tính ngược từ 15/12.
+

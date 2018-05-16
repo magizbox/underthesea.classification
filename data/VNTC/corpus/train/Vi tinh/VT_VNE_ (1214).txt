@@ -1,0 +1,6 @@
+Google khóa sâu Santy
+Google vừa cung cấp một cơ cấu ngăn chặn lệnh tìm kiếm do virus Santy.A đưa ra. Trước đó, loại sâu Internet mới này đã lợi dụng dịch vụ search để phát tán, tấn công vào các máy chủ chạy phần mềm diễn đàn phpBB, làm hàng chục nghìn website tê liệt.
+Theo các công ty chống virus, dù không có khả năng quét virus cho những máy tính bị lây nhiễm, hành động của Google cũng đã ngăn chạn được sự lây lan của sâu Santy.A. Trung tâm chống virus Storm Center của Viện SANS (Mỹ) cho biết, loại sâu này được phát hiện hôm 21/12, mặc dù có thể nó đã âm thầm phát tán từ trước đó.
+Đường đi của sâu Santy.A cũng đã được xác định: một thành phần có tên là viewtopic.php cho phép các tệp lệnh nguy hiểm đi qua và chạy trên những server sử dụng phiên bản bị lỗi của phần mềm phpBB. Hãng bảo mật Secunia của Đan Mạch đã phát hiện lỗi này từ hôm 19/11. Bản cập nhật đã vá lỗi được phát hành trước đó 1 ngày.
+Sâu Santy.A là loại virus đầu tiên sử dụng một công cụ tìm kiếm phổ biến làm cơ chế phát tán. Nó cũng khẳng định lại một bài học mà giới công nghệ đã rút ra từ lâu: cần tích cực cập nhật các bản vá lỗi phần mềm và cấu hình các server chặt chẽ hơn bằng cách khóa một số chức năng không cần thiết với người dùng, như khả năng ghi đè tập tin. 
+

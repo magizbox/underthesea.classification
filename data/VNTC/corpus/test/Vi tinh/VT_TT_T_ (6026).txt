@@ -1,0 +1,4 @@
+ Lên mạng tìm giấy báo dự thi
+Thí sinh có thể tìm kiếm theo số báo danh (ví dụ: số báo danh DDKA-00002 thì chỉ cần nhập 2 bỏ các số 0 phía trước), theo họ tên (nhập có dấu tiếng Việt, sử dụng bảng mã Unicode), hoặc theo năm sinh (nhập ngày sinh theo dạng thức ngày/tháng/năm, ví dụ: sinh 20-10-1982 thì nhập 201082). Nhập xong nhấn phím Enter hay bấm vào nút “Tìm kiếm” chương trình sẽ liệt kê các kết quả và in phiếu báo dự thi (ảnh). 
+Trong khi chờ đợi giấy báo dự thi (có thể vì lý do gì đó giấy báo dự thi bị thất lạc) ngay bây giờ thí sinh có thể truy cập vào địa chỉ trên để tìm giấy báo dự thi của mình. 
+

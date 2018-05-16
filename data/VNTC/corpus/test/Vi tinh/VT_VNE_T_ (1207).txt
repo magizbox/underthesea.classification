@@ -1,0 +1,8 @@
+Chuyển PC thành máy Mac
+Phần mềm Virtual PC của Microsoft từng được giới phê bình coi là một công cụ tiện dụng để người dùng sản phẩm của Apple chạy các ứng dụng Windows. Nếu làm ngược lại thì sao? Đã có phần mềm Cherry OS.
+Cherry OS do Maui, một công ty ở Hawaii, phát triển. Đây là công cụ cho phép các máy tính dùng nền Windows có thể sử dụng được hệ điều hành Mac OS X của hãng Quả táo. Cỗ máy ảo này có đầy đủ các tính năng mạng và khả năng truy cập vào tài nguyên phần cứng của máy tính chủ, bao gồm CPU, RAM, FireWire, USB, PCI, PCMCIA bus, mạng Ethernet và modem. Hãng phát hành cho biết Cherry OS có thể hoạt động với khoảng 80% công suất của CPU máy chủ.
+Với sản phẩm này, gần 600 triệu người dùng PC sẽ có thể khai thác 
+Phân biệt máy Mac và PCcác ích lợi của Mac, Arben Kryeziu, chuyên viên thiết kế Cherry OS, nói. Một computer sử dụng tất cả các loại phần mềm là một điều thật tiện lợi. Hơn nữa, nếu chủ PC dùng phần mềm Mac để gửi nhận e-mail thì họ sẽ tránh được nhiều loại virus, Trojan và spyware tấn công Windows hiện nay.
+Cherry OS đang được cung cấp qua kênh trực tuyến với giá download là 49,95 USD (tham khảo tại http://www.cherryos.com/#), không bao gồm hệ điều hành OS X và các ứng dụng Mac. 
+Một điều đáng chú ý là vào thời điểm bài báo này được đăng lên thì địa chỉ cung cấp sản phẩm Cherry OS đã bị tê liệt. Trên website xuất hiện một thông báo nói rằng trang web đang hoặc bị quá tải về lượng truy cập hoặc đang bị kẻ nào đó hack. Nhà cung cấp viết: Xin quý khách vui lòng kiên nhẫn, chúng tôi đang tích cực khắc phục và sẽ không chịu đầu hàng.
+

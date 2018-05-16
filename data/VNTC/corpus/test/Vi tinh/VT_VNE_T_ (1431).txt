@@ -1,0 +1,6 @@
+Kết nối hai máy tính bằng cáp Ethernet (1)
+Em muốn hỏi làm cách nào để kết nối trực tiếp hai máy tính bằng Ethanet Cable. Phòng em co hai máy tính (cua em va một đứa bạn) đều không kết nối Internet, nên bọn em muốn kết nối voi nhau trực tiếp qua cônng Ethanet Cable. Kính mong được giúp đỡ. Em xin chân thành cảm ơn. 
+Trung
+Hồi âm:
+Mua 2 NIC và một sợi cáp đấu chéo la xong.
+

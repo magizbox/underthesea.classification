@@ -1,0 +1,6 @@
+Biến cả đô thị thành siêu máy tính
+Thành phố Almere ở Hà Lan sẽ là nơi sở hữu mạng máy tính, hay nói cách khác là một supercomputer ảo, lớn nhất thế giới. Dự án có tên "Almeregrid" dựa chủ yếu vào các PC gia đình kết nối với nhau qua cáp quang tốc độ cao.
+Chương trình ở Almere nhắm vào việc khai thác sức mạnh điện toán dư thừa từ khoảng 2.200 công dân có khả năng truy cập tốc độ cao qua cáp quang (khoảng 100 Mb/giây) và trên lý thuyết họ sẽ có thể chia sẻ được nhiều dữ liệu hơn.
+Ban đầu mạng máy tính này sẽ được dùng cho nghiên cứu khoa học, đặc biệt là trong những ứng dụng y tế. Sau đó, doanh nghiệp có thể khai thác cái mà các nhà điều hành dự án gọi là sự giàu có về sức mạnh tính toán. 
+Almere nằm ở phía Nam tỉnh Flevoland. Cách đây hơn 40 năm khu vực này vẫn còn nằm chìm dưới nước. Những nỗ lực bồi đắp và san lấp đã dẫn đến việc ra đời một thành phố mới toanh với hạ tầng rất tốt, trong đó có mạng lưới viễn thông liên lạc hiện đại.
+

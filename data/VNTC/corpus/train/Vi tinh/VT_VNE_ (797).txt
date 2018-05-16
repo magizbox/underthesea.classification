@@ -1,0 +1,9 @@
+Lỗi win XP (1)
+Máy tôi cài 2 HĐH 98 va XP.- 98: shutdown bình thường ( NGUỒN BỊ NGẮT )- XP (sp1): Khi turn off (shutdown) thì nguồn không ngắt mà còn xuất hiện thông báo câu : " If you now turn off ...". Tôi đã cài lại nhiều lần và có cài Win 2003 server nhưng vẫn gặp trường hợp này.Xin các bạn giải đáp giúp.(Cấu hình: CPU Celeron 700MhzRam 128, 20 GB, MB ECS Chip sis 630/730).
+Nam
+Trả lời: 
+Có 2 khả năng: 
+1.- Trong máy của bạn có chương trình Driver nào đó không tương thích với Win XP ( mở từ đĩa CD Win XP Setup để kiểm tra)
+2.- Mainboard quá cũ, đối với các đời MB sau này không có hiện tượng như vây.
+Thân chào.
+

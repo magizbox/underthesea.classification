@@ -1,0 +1,23 @@
+Những thuật ngữ vui về máy tính
+Người dùng máy tính thường xuyên chắc đã nhiều lần tự hỏi hoặc bị người khác yêu cầu giải thích các thuật ngữ liên quan đến công cụ hiện đại này. Một vài định nghĩa dưới đây có thể giúp bổ sung vào vốn từ vựng tin học của bạn.
+ALPHA - Một phần mềm được kiểm tra thử nghiệm bước đầu nhằm nhận được phản hồi của khách hàng. Trong tiếng Latin, Alpha có nghĩa là không hoạt động.
+BETA - Một phần mềm được kiểm tra thử nghiệm một lần nữa ngay trước khi được chính thức phát hành. Trong tiếng Latin, Beta nghĩa là vẫn không hoạt động.
+CHIPS (còn có nghĩa là khoai tây rán) - Loại thức ăn nhiều mỡ, ít dinh dưỡng mà người nghiện máy tính dùng để tránh phải rời bàn phím đi ăn trưa.
+COPY - Việc mà bạn phải làm trong kỳ thi ở trường bởi vì bạn đã mất quá nhiều thời gian cho máy tính và ít thời gian cho việc học.
+DEFAULT DIRECTORY - Thư mục mặc định này là nơi tất cả những file bạn cần chui qua và biến mất.
+DUMP (xổ bộ nhớ) - Nơi mà tất cả những thói quen cũ của bạn chấm dứt sau khi bạn mua một máy tính.
+ERROR MESSAGE - Những thông điệp cộc lốc mà các lập trình viên dùng để đổ lỗi cho người sử dụng khi xảy ra trục trặc do lỗi lập trình.
+EXPANSION UNIT - Căn phòng mới mà những anh thích mày mò PC xây thêm trong nhà để chứa máy tính và cả đống thiết bị ngoại vi đi kèm.
+FILE (còn có nghĩa là cái giũa) - Thứ mà một cô thư ký giờ đây có thể làm với móng tay của mình 7 tiếng rưỡi mỗi ngày vì máy tính đã có thể làm tất cả công việc của cô ta trong 30 phút.
+FLOPPY - Tình trạng dạ dày của một người dùng máy tính liên tục, ít vận động và ăn đồ làm sẵn kéo dài.
+HARDWARE - Các dụng cụ gia đình mà bạn không còn mó tay đến nữa kể từ khi có máy tính.
+HELP - Một tính năng hỗ trợ việc tạo thêm nhiều câu hỏi. Khi tính năng này được dùng đúng cách, người sử dụng sẽ được dẫn dắt qua một loạt cửa sổ Help khác và quay trở về nơi họ xuất phát mà không rút ra được một điều gì.
+INPUT/OUTPUT - Thông tin được nhập từ bàn phím dưới dạng dữ liệu dễ hiểu và được in ra qua máy in dưới dạng dữ liệu hỗn độn và các ký tự loằng ngoằng.
+INTERIM RELEASE (Phát hành tạm thời) - Nỗ lực yếu ớt của nhà cung cấp khi ăn năn về sự yếu kém của sản phẩm.
+MEMORY - Một phần của máy tính, rất giàu về tính đa dạng nhưng lại nghèo nàn về số lượng.
+MENU - Vật dụng ở nhà hàng mà người nào đã nghiến răng mua máy tính thì sẽ phải tạm từ biệt một thời gian.
+PRINTER - Thiết bị có ba bộ phận: một vỏ máy, khay đựng số giấy bị kẹt và đèn đỏ nhấp nháy.
+PROGRAMS - Những thứ mà trước kia hấp dẫn bạn trên TV, còn bây giờ thì trên máy tính.
+WINDOW - Nơi mà bạn sẽ cho cái máy tính cũ kỹ của mình bay qua sau khi vô tình xóa mất một chương trình mà bạn mất ba ngày cài đi cài lại vẫn chưa xong.
+WINDOWS 95 - Là các phần mở rộng (extension) 32 bit cộng với một tiện ích vỏ (shell) dùng cho bản vá lỗi 16 bit, chạy trên một hệ điều hành 8 bit vốn được lập mã cho một bộ vi xử lý 4 bit, do một công ty 2 bit viết và không thể trụ được dù chỉ là một chút (a bit) cạnh tranh.
+

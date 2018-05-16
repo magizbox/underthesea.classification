@@ -1,0 +1,26 @@
+Hỏi đáp về bệnh cúm A (phần 4)
+Mặc dù virus H5N1 sẽ chết khi thịt và trứng gia cầm bệnh được nấu chín, nhưng trong quá trình chế biến trước khi nấu, virus có thể truyền sang bà nội trợ hoặc những người xung quanh và gây bệnh.
+Bệnh SARS và cúm gà có gì khác nhau, hay đều là viêm đường hô hấp cấp?
+Hai bệnh trên có 2 căn nguyên khác nhau. SARS do virus corona SARS, còn cúm gà do virus H5N1 gây ra. Tỷ lệ tử vong do SARS xấp xỉ 10%, còn ở cúm gà là 30-70%. Song cả 2 bệnh nói trên đều có đường lây chính là đường hô hấp; dấu hiệu lâm sàng là viêm phổi cũng nhiều điểm giống nhau, có hình ảnh tổn thương kiểu viêm phổi điển hình trên phim X-quang.
+Đã có test phát hiện nhanh, chính xác bệnh cúm A chưa?
+Hiện đã có test nhanh phát hiện sớm virus cúm H5N1 theo nguyên lý miễn dịch sắc ký. Độ nhanh, nhạy, đặc hiệu của nó đang được các nhà sản xuất hoàn thiện thêm. Còn test nhanh phát hiện cúm A nói chung đã phổ biến trên thị trường và có tác dụng sàng lọc các bệnh nhân nghi nhiễm.
+Việc khẳng định nhiễm virus cúm A và xác định các phân type bắt buộc phải có kết quả dương tính của một trong các xét nghiệm sau:
+- Phát hiện vật liệu di truyền ARN của virus bằng phản ứng RT-PCR.
+- Phân lập được virus thông qua nuôi cấy trên hệ thống tế bào cảm nhiễm và định loại virus bằng phản ứng miễn dịch huỳnh quang hoặc ức chế ngưng kết hồng cầu.
+- Phát hiện kháng thể đặc hiệu virus bằng thử nghiệm ELISA trung hòa trên huyết thanh.
+Để xét nghiệm phát hiện virus H5N1, cần lấy bệnh phẩm gì và ai được phép lấy?
+Bệnh phẩm dùng cho xác định nhiễm H5N1 gồm: dịch hầu họng hoặc dịch phế quản; huyết thanh bệnh nhân trong giai đoạn cấp (huyết thanh 1), và giai đoạn hồi phục (huyết thanh 2, thu thập 10-15 ngày sau khi lấy huyết thanh 1). 
+Những người thu thập bệnh phẩm là: nhân viên phòng thí nghiệm đã được tập huấn về cách thu thập bệnh phẩm và phương pháp bảo hộ cá nhân; các bác sĩ lâm sàng (trong trường hợp bệnh nhân nặng cần hỗ trợ thở).
+Chu kỳ gây dịch của virus cúm là bao lâu?
+Đại dịch cúm có chu kỳ khoảng 10-15 năm. Các vụ dịch nhỏ, dịch có tính tản phát ở từng địa phương xảy ra với chu kỳ 2-3 năm, thậm chí hằng năm; đi cùng với sự biến đổi nhỏ của kháng nguyên virus cúm cũng như sự xuất hiện những nhóm người cảm nhiễm với virus mới (trẻ mới sinh, dân di cư).
+Virus cúm có thể sống và truyền bệnh ngoài môi trường bao lâu?
+Bản chất của virus cúm là lipoprotein nên có sức đề kháng yếu và dễ bị mất hoạt lực bởi bức xạ mặt trời có chứa tia tử ngoại, bởi nhiệt độ trên 56 độ C (trong vòng vài chục phút) và bởi các chất dung môi hòa tan lipid, chất khử trùng như formaldehyde, chloramin, cồn... Tuy nhiên, virus cúm thường lẫn trong dịch xuất tiết của đường hô hấp và được bao bọc trong màng nhầy của chất này nên có thể sống lâu hơn ở môi trường bên ngoài, nhất là trong mùa lạnh. Trong điều kiện này, nó có thể duy trì hoạt lực ở môi trường nhiều giờ hoặc 1-2 ngày.
+Với virus H5N1, có thể do đã thích ứng cao trên các loài chim hoang dã nên khả năng tồn tại ở môi trường có thể cao hơn: trong phân gia cầm tới hàng tháng, trong sản phẩm gia cầm bảo quản lạnh tới hàng năm. Chúng chỉ bị diệt ở 70 độ C trong 30 phút, hoặc ở môi trường axit, kiềm sau nhiều giờ.
+Vai trò truyền mầm bệnh cúm ở các sản phẩm gia cầm (trứng và thịt) như thế nào?
+Ngoài chất thải tiêu hóa và đường thở, các sản phẩm từ gia cầm ốm (như trứng, thịt) ở vùng có dịch cúm đều có vai trò truyền bệnh. Mặc dù virus cúm H5N1 sẽ bị chết sau khi nấu chín thức ăn nhưng trong quá trình giết mổ, chế biến trước đun nấu, có thể các sản phẩm từ gia cầm đã bị nhiễm virus và nó là nguy cơ truyền tác nhân gây bệnh cho người chế biến và cả những người xung quanh.
+Ở trứng gia cầm, mầm bệnh có thể truyền vào phần bên trong của trứng. Nếu vỏ trứng lại dính phân gia cầm bệnh thì khả năng lây nhiễm càng lớn.
+Theo Bộ Y tế
+(còn tiếp)
+Phần 1
+Phần 2
+

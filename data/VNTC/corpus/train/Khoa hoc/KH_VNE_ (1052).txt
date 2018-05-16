@@ -1,0 +1,10 @@
+Người Anh sợ nhện hơn khủng bố
+Một khảo sát mới đã cho thấy người dân ở xứ sở sương mù sợ những con nhện lông lá hơn là các cuộc tấn công khủng bố hay thậm chí cả cái chết.
+Những con vật bò lồm ngồm như nhện, gián và các loài côn trùng khác được đánh giá là thứ đáng sợ nhất tại quốc gia này. Tấn công khủng bố đứng thứ hai trong cuộc khảo sát trên 1.000 người Anh về điều gì làm họ sợ nhất.
+AddVote(1000175084,0,150885943,'','Bạn sợ thứ gì nhất?','#FFFFFF','#0000A0','100%',10, new Array(new Array('Côn trùng (nhện, gián...)',0,0),new Array('Khủng bố',0,1),new Array('Cái chết',0,2),new Array('Rắn',0,3),new Array('Độ cao',0,4),new Array('Khám răng',0,5),new Array('Tiêm',0,6),new Array('Phát biểu trước đám đông',0,7),new Array('Nợ nần',0,8),new Array('Đi máy bay',0,9)),'',1)
+Con vật làm người ta lạnh xương sống như rắn được xếp ở vị trí thứ 3, và độ cao là nỗi sợ thứ 4 của người dân. Cái chết chỉ được xếp thứ 5 trong danh sách 20 thứ sợ nhất của quốc gia này.
+Đi khám răng là nỗi sợ thứ 6, tiêm - thứ 7, và xuất hiện trước công chúng hay phải phát biểu trước công ty hoặc đại gia đình là nỗi sợ thứ 8. Nỗi lo nợ nần xếp thứ 9, trong khi đi máy bay là điều đáng sợ thứ 10.
+Nhận xét về kết quả khảo sát, nhà tâm lý Donna Dawson cho rằng, không có gì ngạc nhiên khi những con vật bò lồm ngồm đáng sợ hơn vụ tấn công khủng bố.
+Bà nói: "Đó là bởi nỗi sợ về những sinh vật nhỏ bò trên nhiều chân này xuất phát từ thời nguyên thuỷ, từ những ngày con người còn sống trong hang động. Chúng có thể ẩn nấp trong các góc tối và tấn công ta bất cứ lúc nào".
+Cuộc khảo sát trên 1.000 người lớn được các nhà nghiên cứu thuộc Universal Pictures UK tiến hành tại 65 điểm trên khắp nước Anh.
+

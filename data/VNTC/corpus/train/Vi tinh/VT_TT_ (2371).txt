@@ -1,0 +1,6 @@
+ Thuê bao Vina, Mobi còn 100.000 đồng/tháng
+Cụ thể cước điện thoại di động sẽ áp dụng mức block 30 giây so với trước đó là 60 giây. Đối với cước liên lạc nội vùng dịch vụ di động Vinaphone, MobiFone trả trước áp dụng mức 1.364 đồng/block. Cước gọi liên vùng VNPT quy định là 1.591 đồng/block. Cước dịch vụ trả tiền trước thuê bao ngày được áp dụng mức 2.000 đồng/ngày, cước liên lạc nội vùng áp dụng mức 909 đồng/block và 1.273 đồng/block cho các cuộc gọi liên vùng. 
+Riêng cước hòa mạng Vinaphone, MobiFone trả sau VNPT vẫn để mức dao động từ mức 181.818 - 363.636 đồng/lần. Cước thuê bao chỉ còn 90.909. Cước liên lạc nội vùng là 773 đồng/block. Cước liên lạc liên vùng 1091 đồng/block. 
+Cước dịch vụ điện thoại quốc tế IDD của VNPT áp dụng mức giá trung bình là 0,75 USD cho phút đầu, các phút sau được tính theo block 6 giây (phụ thuộc vào từng hướng gọi đi). 
+Các mức cước trên đều chưa có VAT. 
+

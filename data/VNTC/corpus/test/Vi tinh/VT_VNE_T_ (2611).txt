@@ -1,0 +1,5 @@
+Hệ thống thư tín điện tử chung cho cơ quan hành chính
+UBND TP HCM vừa quyết định, 61 quận, huyện, sở, ngành trực thuộc sẽ sử dụng hệ thống thư điện tử trên mạng chung thành phố. Theo đó, hộp thư điện tử của các đơn vị này được đặt thống nhất với cấu trúc: tên đơn vị hoặc người sử dụng@tphcm.gov.vn.
+Hộp thư trên sẽ sử dụng dưới dạng hộp thư đơn vị hành chính, dành cho sở, ban, ngành, quận, huyện...; hộp thư cá nhân, dành cho cán bộ, công chức và thư dành cho các đơn vị khác.
+Những đơn vị, cá nhân này không được tổ chức hệ thống thư tín điện tử, hộp thư cá nhân theo dạng khác trên mạng của thành phố và không được tự tổ chức mạng với địa chỉ IP và tên miền riêng.
+

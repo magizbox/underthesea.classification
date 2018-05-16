@@ -1,0 +1,10 @@
+SCO ghi điểm đầu tiên trong cuộc chiến Linux
+Công ty Mỹ EV1 Servers vừa trở thành hãng đầu tiên chịu trả tiền bản quyền Linux cho SCO. Trong khi đó, sự tranh giành bản quyền Linux đang nóng lên với hai đại gia xe hơi rơi vào tầm ngắm của chủ sở hữu Unix từ hôm qua.
+Số tiền SCO thu từ 11.000 máy chủ chạy Linux của EV1 không được tiết lộ. SCO còn nói vài công ty khác cũng đã mua bản quyền của họ. Tuy nhiên, EV1 là cái tên đầu tiên được công bố.
+Phía EV1 nói họ không thừa nhận SCO là chủ sở hữu Linux. Số tiền bản quyền chỉ để đảm bảo khách hàng của họ khỏi bị SCO kiện cáo. Tuy nhiên, lời thanh minh có lẽ sẽ không giúp EV1 tránh được sự tẩy chay của cộng đồng mã mở.
+Linux và mã mở chiếm được cảm tình của một số người bởi chúng rẻ, tự do thay đổi và ít gặp vấn đề bảo mật. Tháng 3/2003, SCO đã kiện IBM, cho rằng hãng máy tính sử dụng trái phép một phần mã Unix của SCO trong Linux. Sau IBM, đến lượt Google và hàng loạt người dùng khác bị SCO quấy rối.
+Tới hôm qua, DaimlerChrysler và Autozone đã trở thành những tập đoàn dùng Linux đầu tiên chính thức bị SCO khởi kiện. SCO lặp lại luận điệu cũ, cho rằng hai hãng xe hơi này vi phạm bản quyền của SCO qua việc dùng bản Linux có chứa mã và cấu trúc của hệ điều hành Unix.
+Dù kiện cáo ầm ĩ, tới nay, SCO vẫn không nói rõ phần nào trong Unix đã bị đánh cắp và đưa và Linux. Nhiều người dùng khẳng định nếu được báo, họ sẵn sàng loại bỏ những đoạn mã này. Sự im lặng này khiến cộng đồng mã mở tức giận, liên tục phá phách SCO. 
+Red Hat, một trong những hãng chào bán Linux nổi tiếng nhất, thậm chí kiện ngược lại SCO, vì cho rằng việc dùng Linux chả ảnh hưởng gì đến bản quyền SCO cả.
+SCO cũng vừa thông báo kết quả kinh doanh quý I tài khóa 2004 (kết thúc ngày 31/1). Hãng chịu lỗ ròng 2,25 triệu USD. Doanh số chỉ còn 11,4 triệu USD, so với 13,5 triệu USD cùng kỳ năm ngoái. Chỉ số chứng khoán NASDAQ của hãng cũng thường suy giảm trong thời gian gần đây.
+

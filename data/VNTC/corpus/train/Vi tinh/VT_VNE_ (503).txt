@@ -1,0 +1,6 @@
+Trục trặc khi dùng ADSL nhiều máy (1)
+Xin chào các bạn. Tôi hiện có phòng máy gồm 11 máy, kết nối bằng ADSl, modem hiệu Zyxel, swich hiệu linkpro. Máy của tôi có hiện tượng là lâu lâu tự nhiên disconnect. Khi tôi tắt modem và mở lại thì kết nối bình thường. Tôi không hiểu là do modem hay là do đường truyền (tôi hiện ở Tây Ninh). Cám ơn các bạn nhiều.
+Duc Trong Ha
+Hồi âm:
+Lỗi này thường là do router (hoặc máy chủ mà bạn dùng để kết nối rồi tự chia sẻ). Thường thì các router sẽ tự ngắt sau một thời gian nhất định mà đường truyền không được dùng. Bạn cần chỉnh để router tự động kết nối (auto-reconnect) khi có yêu cầu sử dụng kết nối. 
+

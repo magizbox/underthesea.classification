@@ -1,0 +1,3 @@
+ Kiểm tra da bằng… USB, sạc pin ĐTDĐ bằng… gió
+Sau đó sử dụng phần mềm đi kèm cài trên máy tính để lưu trữ các hình ảnh hoặc phân tích các thông tin về da của mình. Thiết bị này hoạt động bằng nguồn năng lượng lấy từ cổng USB của PC có hai phiên bản với khả năng phóng to 50 và 250 lần. 
+

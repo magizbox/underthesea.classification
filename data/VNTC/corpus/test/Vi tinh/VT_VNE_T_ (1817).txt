@@ -1,0 +1,13 @@
+Tin vắn ngày 13/1
+Công ty Công nghệ di động FPT (FPT Mobile) khai trương Moto House Học viện công nghệ thông tin HanoiCTT dành 180 suất học bổng cho sinh viên chuyên ngành Microsoft phát hành công cụ diệt spyware.
+Công ty Công nghệ di động FPT (FPT Mobile) vừa chính thức khai trương Moto House đầu tiên tại Việt Nam ở 66 Trần Hưng Đạo (Hà Nội). Đây là mô hình trưng bày, bán và bảo hành duy nhất điện thoại di động Motorola theo đúng tiêu chuẩn của hãng về cả thiết kế, trang trí và thiết bị bảo hành. Tại đây, khách hàng sẽ được tư vấn về các sản phẩm mới và các ứng dụng giá trị gia tăng cho sản phẩm của hãng. 
+Nhân dịp này, khách hàng mua sản phẩm tại Moto House sẽ được tặng một áo thun và bốc thăm trúng thưởng xe Wave Alpha.
+N.H.
+Chương trình học bổng duy nhất của Học viện Công nghệ thông tin HanoiCTT trong năm 2005 gồm 180 suất với tổng trị giá 500 triệu đồng sẽ dành cho sinh viên các trường đại học hoặc học sinh đã tốt nghiệp phổ thông trung học trên toàn quốc theo học các chương trình công nghệ thông tin chất lượng quốc tế.
+Các suất học bổng gồm nhiều loại như toàn phần hoặc hỗ trợ 1 phần (mức học bổng từ 10% đến 100%) cho các chương trình: chuyên viên mạng quốc tế CCNA, chuyên gia cơ sở dữ liệu Oracle và chuyên gia công nghệ phần mềm, công nghệ mạng quốc tế NIIT.
+Chương trình học bổng chào mừng ngày Sinh viên Việt Nam bắt đầu từ 9/1 đến 9/4. Học viên nhận hồ sơ dự tuyển miễn phí tại HanoiCTT từ 10/1. 
+X.K.
+Phiên bản beta của Microsoft AntiSpyware được công bố tuần trước (download tại đây), tương thích với các phiên bản Windows 2000 trở lên. Tiện ích này ra đời sau việc Microsoft mua lại hãng phần mềm chống spyware Giant giữa tháng 12/2004.
+Ngày phát hành chính thức của chương trình trên chưa được công bố và Microsoft cũng không khẳng định nó có trở thành một phần mặc định trong sản phẩm Windows, giống như một bản vá lỗi, hay sẽ được cung cấp như một phần mềm độc lập.
+Công cụ AntiSpyware được thiết kế để xử lý những phần mềm tạo ra quảng cáo pop-up hoặc các chương trình theo dõi hoạt động của người sử dụng máy tính. Giá cổ phiếu của 2 đại gia đang thống trị thị trường ứng dụng bảo mật là Symantec và McAfee đã giảm mạnh sau khi Microsoft công bố bản beta chống spyware này.
+

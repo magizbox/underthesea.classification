@@ -1,0 +1,9 @@
+Máy chỉ có 1 chọn lựa screen resolution (2)
+Chao cac ban, toi dang dung pentium II ,350 khz va dung LCD monitor. Khi toi install Window98 vao may xong thi toi vao Setting de doi Screen resolution, nhung trong do chi co mot chon lua la 600 bit thoi. Toi khong the nao chuyen duoc sang 1025x768 bit duoc. Nho cac ban chi gium toi cach chuyen sang 1024x758, nhu vay toi moi su dung duoc. Cam on rat nhieu. 
+Cong Tien LE 
+Hồi âm:
+Điều này là tất nhiên, vì Win98 vẫn chưa nhận ra card đồ hoạ (còn gọi là Card màn hình) của anh. Anh cần phải cài Driver chuẩn cho card màn hình thì sẽ có chất lượng đồ hoạ tốt nhất. Driver có thể tìm thấy trong đĩa CD đi kèm với Card màn hình, hoặc nếu ko có CD thì có thể tìm kiếm trên Internet ( vào trang www.driverguide.com , login với username : driver , password : all.
+Sau đó vào trong mục tìm kiếm, anh gõ đúng tên Card (cái này có thể sẽ phải mở thùng máy để xem) và Version của Win (VD : TNT2 Nvidia Win98). Trong các driver tìm được, anh chọn cái nào đúng nhất và download về. Sau khi download, (thường phải giải nén), anh bắt đầu cài đặt driver: vào ControlPanel --- AddNewHardware ---- Display Adapter , rồi theo hướng dẫn để cài driver cho card màn hình. nh có thể e-ail cho em nếu có gì vướng mắc: dmt1982@hn.vnn.vn. 
+Minh Tri
+Theo tôi thì Windows 98 không tìm thấy driver cho videocard trong máy, bạn nên load cái "default driver", bạn nên lên mạng download và install driver cua Windows 98 cho videocard. Chúc bạn thành công.
+

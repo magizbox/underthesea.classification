@@ -1,0 +1,6 @@
+ Mã hóa thông điệp bí mật 
+Khi kích hoạt Secret Notes hoạt động thành công là con trỏ soạn thảo thông điệp bí mật đã nằm sẵn trong giao diện. Bạn chỉ việc gõ vào những nội dung cần mã hóa hoặc dán các nội dung đã soạn thảo sẵn vào giao diện này. Secret Notes có thể lưu một lượng văn bản có dung lượng tương đương 10 trang A4 soạn thảo trong MS Word. 
+Khi nhấn vào File để “Save As” thông điệp, Secret Notes bắt buộc bạn phải nhập mật khẩu hai lần để đảm bảo độ chính xác của mật khẩu. Thông điệp bí mật sẽ có dạng đuôi file là .SNX, đảm bảo “lạ hoắc” trước mọi cặp mắt tò mò của mọi “điệp viên” đối thủ và file .SNX này chỉ có thể mở được bằng chính chương trình Secret Notes với mật khẩu chính xác. 
+Hiện Công ty Direct Logic đang bán ra bản Secret Notes v2.1 mới nhất với giá 30 USD. Người dùng có thể vào http: 
+//www.freedownloadscenter.com/Utilities/File_Encryption_Utilities/Secret_Notes_Download.html để tải về bản dùng thử hoặc tìm mua tại các cửa hàng phần mềm. 
+

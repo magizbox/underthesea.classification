@@ -1,0 +1,10 @@
+Google Desktop 2 cung cấp cơ chế bảo mật
+Google vừa nâng cấp phần mềm tìm kiếm ổ cứng PC và Internet, tích hợp thêm một số công cụ cũng như mang lại cảm nhận mới mẻ cho chương trình miễn phí lấy thông tin dựa trên thói quen lướt web của người sử dụng này.
+Không đơn thuần cung cấp kết quả tìm kiếm, Google Desktop 2 (downloadtại đây) theo dõi hành vi sử dụng web của người dùng và hiển thị thông tin tương ứng trong cửa sổ Sidebar có thể di chuyển theo trục đứng và thay đổi được kích thước.
+Sidebar được thiết kế kèm hộp tìm kiếm nhỏ và một thanh công cụ mới tương thích chương trình e-mail Outlook của Microsoft để truy cập nhanh tới e-mail. Hộp search này cũng có thể tìm các ứng dụng tương tự như Spotlight của Mac OS X và phần mềm mới trong Windows Vista.
+Desktop 2 tích hợp một module tổng hợp tất cả các thông điệp e-mail từ nhiều tài khoản khác nhau, trong đó có cả Gmail và dịch vụ của những nhà cung cấp khác. Một số module khác thông báo giá cả thị trường chứng khoán, tiêu đề tin tức, dự báo thời tiết, ảnh...
+Ngoài ra, chương trình cũng được trang bị một module có khả năng nhập RSS từ những website cài dịch vụ này trước đây khách hàng từng ghé thăm mà không cần thực hiện bất cứ thao tác nào. "Điều này rất hữu ích với người mới sử dụng. Họ đơn giản nhìn thấy hoạt động của chúng trong Sidebar mà không cần biết nhập RSS nghĩa là gì", Nikhil Bhatla, Giám đốc sản phẩm Google Desktop, cho hay.
+Google gần đây trở thành mục tiêu chỉ trích về công cụ dễ dàng tìm kiếm thông tin cá nhân của người khác. Do đó, hãng đã xoá bỏ bộ nhớ đệm trên website và tính năng này sẽ được kích hoạt tuỳ theo ý người dùng. Bhatla cũng khẳng định dữ liệu cá nhân của khách hàng sẽ không bị rò rỉ do họ hoàn toàn có thể loại bỏ chúng ra khỏi chương trình tìm kiếm. Google Desktop 2 cũng tích hợp khả năng mã hoá mục lục nhằm tránh bị xâm phạm bởi những cặp mắt tò mò.
+Phần mềm hoạt động trên Windows 2000, XP nhưng chưa hỗ trợ Mac OS X.
+Desktop 2 ra mắt dưới dạng beta là đòn xuất chiêu mới nhất của Google chống lại Microsoft và Yahoo trong cuộc chiến nhằm mở rộng sự hiện diện của mình trên máy tính cá nhân.
+

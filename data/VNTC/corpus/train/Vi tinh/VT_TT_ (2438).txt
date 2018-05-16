@@ -1,0 +1,6 @@
+ Nga: Mảnh đất màu mỡ của hacker
+Hằng trăm, thậm chí hàng nghìn chuyên gia Nga tay nghề cao, đang ngày đêm “cày xới” Internet để tìm kiếm những lỗ hổng bảo mật trong hệ thống máy tính của các công ty, đặc biệt là tại Mỹ và châu Âu. 
+Họ tạo ra những “con sâu” và virus Trojan được chuyên biệt hóa để ăn cắp thẻ tín dụng và các thông tin tài chính khác, hoặc biến những máy tính bị xâm nhập thành các máy chủ zombie (mất quyền điều khiển) để gửi thư rác qui mô lớn, hay tống tiền các công ty bằng cách đe dọa tung ra những cuộc tấn công từ chối dịch vụ. 
+Thực tế cho thấy hacker Nga là những tội phạm mạng táo tợn nhất. Năm 1995, nhà toán học kiêm chuyên gia máy tính Vladimir Levin bị bắt giữ và kết án tù 3 năm vì tội xâm nhập mạng máy tính của Ngân hàng Citibank Inc. và chuyển 10 triệu USD khỏi tài khoản của nạn nhân. 
+Hack là hành động bất hợp pháp tại Nga, giống như nhiều quốc gia khác. Tuy nhiên, sự chế tài dành cho tội phạm này hầu như không mang lại tác dụng. 
+

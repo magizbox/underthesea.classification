@@ -1,0 +1,9 @@
+ Cảnh sát để lộ cơ sở dữ liệu email trên Internet
+Sẽ không có gì quan trọng, nếu trong đó bao gồm luôn cả những thông tin của các nhân viên và khách hàng cỡ "bự" như người chỉ huy lực lượng chống khủng bố và các nhà báo nổi tiếng của Úc. 
+Cơ sở dữ liệu của gần 800 khách hàng đăng ký với cảnh sát NSW để nhận các ấn bảng media của cảnh sát đã bị "phơi bày" trên Internet. Trong đó rất nhiều nhân vật có tiếng tăm như ông Mark Jenkins, một sĩ quan cảnh sát và là chỉ huy lực lượng chống khủng bố của bang. 
+Buổi sáng hôm đó, website smh.com.au đã cảnh báo với ông Jenkins về việc bị lộ password. Tuy nhiên, ông ấy bảo rằng mình không quan tâm. 
+Trong cơ sở dữ liệu này cũng bao gồm password email của một số nhà báo nổi tiếng của The Sydney Morning Herald, The Daily Telegraph, The ABC và rất nhiều kênh thông tin đại chúng khác. 
+Trong số mật mã này, một số đơn giản chỉ là đăng ký của khách hàng để nhận được các ấn bản media của cảnh sát NSW, tuy nhiên trong số đó cũng có rất nhiều password có thể dùng để truy xuất vào hộp thư điện tử của nạn nhân. Mật mã cũng gồm rất nhiều loại, có những mật mã vô cùng phức tạp nhưng cũng có mật mã chỉ đơn giản là những cái tên. 
+Theo cảnh sát NSW, cơ sở dữ liệu trên internet dường như đã bị lấy ra tháng trước, tuy nhiên vẫn còn có thể truy xuất đến nó thông qua Google. Hiện cảnh sát NSW vẫn chưa liên lạc được với các khách hàng bị lộ mật mã lần này. 
+Cảnh sát NSW đã liên lạc với Google để có thể gỡ bỏ những thông tin trên khỏi bộ đệm của website này vì những thông tin này cũng có thể khiến các spammer có thông tin để xâm nhập vào các email của nạn nhân. 
+

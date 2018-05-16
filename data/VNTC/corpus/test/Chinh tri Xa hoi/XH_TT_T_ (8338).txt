@@ -1,0 +1,6 @@
+ Hà Nội sẽ có 3 điểm thông tin du lịch công nghệ cao
+Tại kiốt với màn hình cảm ứng, người cần tra cứu thông tin về du lịch Hà Nội chỉ cần sử dụng ngón tay chỉ vào danh mục cần tìm hiểu, trên màn hình sẽ hiện lên dữ liệu về thông tin đó. 
+Hệ thống tra cứu thông tin này có ưu điểm là hình ảnh đẹp, rõ ràng, bố cục khoa học; người sử dụng có thể dễ dàng sử dụng mà không cần sự hướng dẫn nào khác. 
+Qua hệ thống trên, khách du lịch sẽ khám phá được các điểm du lịch, khách sạn, nhà hàng, ẩm thực, lễ hội, giải trí, mua sắm, lữ hành và thông tin khác của du lịch Hà Nội một cách chi tiết, cụ thể. Phương thức tra cứu sẽ nhằm vào trí tò mò của du khác, tạo hiệu quả về thông tin du lịch. 
+Hiện nay, Sở Du lịch Hà Nội đang xây dựng phần mềm với lời giới thiệu bằng tiếng Việt, Anh và có thể phát triển thêm nhiều ngôn ngữ khác trong thời gian tới. 
+

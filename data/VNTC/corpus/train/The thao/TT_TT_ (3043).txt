@@ -1,0 +1,10 @@
+ Giải cờ tướng máy quốc gia đầu tiên tại Việt Nam
+Đây là một cuộc thi nhằm nâng cao khả năng tư duy chiến thuật, sáng tạo, khả năng nghiên cứu của sinh viên Trường ĐH Công nghệ nói riêng, sinh viên các trường ĐH nói chung và toàn thể các đối tượng quan tâm đến bộ môn cờ tướng. 
+BTC mong muốn Việt Nam sẽ có một chương trình cờ tướng có thứ hạng trong làng lập trình thế giới. 
+Điều đặc biệt là mọi người (không kể độ tuổi, bằng cấp, quốc tịch, nơi ở, giới tính) đều có thể tham gia giải, có thể kết hợp thành một nhóm, không hạn chế về số lượng. 
+Người (nhóm) tham gia sẽ viết một chương trình chơi cờ tướng chạy trên một máy tính (gọi ngắn gọn là hệ thống chơi cờ Tướng). Hệ thống chơi cờ Tướng của người tham gia sẽ đấu cờ Tướng với các hệ thống khác để xếp thứ tự và tranh các giải. Và mỗi nhóm tác giả chỉ được phép tối đa có một chương trình thi đấu. 
+Không có bất cứ giới hạn nào về phần cứng. Người tham gia có thể dùng phần cứng bất kỳ (máy PC để bàn, máy PC xách tay, máy tính lớn, máy đa nhân, máy MAC, máy có lắp thêm mạch đặc biệt, máy chuyên dụng…). Khi thi đấu,cần mang theo máy tính đến dự giải. Trong trường hợp máy tính dự giải là loại máy tính lớn không thể mang theo thì được phép điều hành máy tính từ xa . 
+Hình thức thi đấu được BTC đưa ra khá cụ thể: khi thi đấu mỗi một hệ thống chơi cờ sẽ có một người điều khiển (operator). Người điều khiển không nhất thiết phải là chính tác giả mà có thể là người ủy quyền. Hai chương trình thi đấu với nhau sẽ thông qua hai người điều khiển và một bàn cờ thật sự ở giữa. Người điều khiển sẽ điều hành hệ thống và copy nước cờ do máy đi để đi vào bàn cờ thật. 
+Hai người điều hành chơi cờ với nhau như đấu thủ thực sự nhưng thay vì tự mình suy nghĩ thì dùng máy tính hộ. Việc xác định thắng/thua và áp dụng các điều luật cờ dựa vào tình trạng thực tế trên bàn cờ (chứ không phải trên máy tính của người điều khiển). Luật chơi cờ là bộ luật Cờ Tướng do Liên đoàn Cờ Việt Nam ban hành. 
+Giải sẽ được tiến hành tại Trường ĐH Công nghệ (ĐH Quốc gia Hà Nội). Tổng thời gian giải dự kiến là khoảng 7 tháng (từ tháng 3 đến tháng 9-2006). 
+

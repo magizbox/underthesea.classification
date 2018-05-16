@@ -1,0 +1,7 @@
+Không thể loại bỏ phần mềm lạ (1)
+Máy tính mình tự nhiên bị các bệnh sau, không rõ là bệnh gì: - Internet explorer tự nhiên set homepage về res://xfpwl.dll/index.html#26512, tên trang web là Home Search, và có pop up rất khó chịu, mỗi lần bật IE là một pop up khác nhau. Mình không thể nào thay đổi home page được dù mình đã vào Regedit đổi lại một số thông tin (làm theo hướng dẫn của thành viên trong diễn đàn này sau khi đọc một số bài viết về virus trên này), mình cũng đã load các phần mềm diệt virus, diệt spyware mà không thay đổi được.Khi mình vào Control Panel, Add and Remove program, tự nhiên thấy xuất hiện các chương trình lạ như: Search Extender, Home Search Assistent.., cũng không thể remove mấy cái này, khi remove, nó báo là Unable to open http://www.looking-for.cc/uninstall/HomeSearchAssistant.html. mình có vào trang web này, làm theo chỉ dẫn của nó nhưng cũng không remove được. Laptop của mình chạy chậm hẳn đi. 
+Xin chỉ cho mình cách bỏ cái home page khó chịu này với nhé, mình không biết gì về tin học cả, chỉ biết dùng thôi. Cảm ơn các bạn.
+Nguyen Thanh Ha
+Hồi âm:
+Chào bạn Hà, Máy của bạn bị Hijack trình duyệt Internet rồi. Bạn dùng phần mềm Ad-aware để quét và gỡ bỏ nó. Hãy tải phần mềm này về theo đường link sau: http://www.lavasoftusa.com/support/download/(nhớ cập nhật danh sách mới nhất).
+

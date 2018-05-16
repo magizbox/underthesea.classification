@@ -1,0 +1,7 @@
+Thanh toán cước di động qua ATM 
+Đại diện của Phòng thanh toán cước của MobiFone cho biết, đang gấp rút tiến hành các chương trình thử nghiệm để đưa dịch vụ thanh toán cước điện thoại di động (Billing Mobile) qua máy ATM vào hoạt động trong thời gian sớm nhất.
+Như vây, với dịch vụ mới này, các thuê bao điện thoại di động của MobiFone sẽ không cần phải sử dụng tiền mặt khi thanh toán cước phí hàng tháng. Trước đó, MobiFone đã tiến hành thử nghiệm hệ thống thanh toán này tại khu vực TP HCM. Những kết quả này đã được trình lên lãnh đạo Tổng công ty Bưu chính viễn thông (VNPT) xem xét.
+Tuy nhiên, vì lý do bảo mật nên MobiFone vẫn đang tiếp tục thương thảo với ngân hàng Ngoại thương Việt Nam (Vietcombank) để thống nhất và rà soát lại toàn bộ hệ thống tính cước tự động cho khách hàng.
+Vị đại diện này cho biết, dịch vụ Billing Mobile cho phép khách hàng tra cứu số cước còn nợ và thực hiện các giao dịch thanh toán cước điện thoại di động thông qua các máy ATM của Vietcombank. Đồng thời, hệ thống cũng tự động trừ nợ tức thời trong hệ thống tính cước và mở lại dịch vụ cho khách hàng trong trường hợp khách hàng đang bị chặn dịch vụ do nợ cước.
+Hiện nay, Việt Nam có khoảng 300 chiếc ATM, chủ yếu là của các ngân hàng thương mại Nhà nước như: Vietcombank, Công thương, Nông nghiệp và phát triển nông thôn, Đầu tư và phát triển...
+

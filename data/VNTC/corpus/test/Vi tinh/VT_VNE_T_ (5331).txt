@@ -1,0 +1,7 @@
+Ông già tuyết 'tặng' thêm một virus mới
+Những ai dại dột bấm vào file đính kèm trong e-mail hứa hẹn về một món quà bất ngờ từ Santa Claus sẽ vô tình khiến hệ thống máy tính chạy trên Windows của họ gặp nguy hiểm.
+Theo hãng bảo mật Mỹ Panda, Trojan MerryX.A được phát tán qua file có hình ông già Noel. Sau khi được mở, chương trình độc hại SQLServer.exe sẽ nhanh chóng thâm nhập vào PC, truyền thông tin hệ thống tới một máy chủ từ xa, sau đó cố tải về những file chứa phần mềm nguy hiểm khác.
+Đầu tuần này, các chuyên gia an ninh mạng cũng đã ghi nhận một sâu xuất hiện trong hệ thống tin nhắn nhanh mang tên IM.GiftCom.All. Nó cài tự động vào PC và phát tán thông điệp tới mọi địa chỉ lưu trong danh sách bạn bè của người dùng.
+Giai đoạn cuối năm luôn tạo ra hàng chục cơ hội cho tác giả virus thực hiện những mánh khóe xã hội bởi mọi người sẽ không cảm thấy bất ngờ nếu nhận được thư của một người bạn lâu rồi không liên lạc hay từ phía công ty đối tác.
+Cũng thời điểm này năm ngoái, sâu Zafi đã tung hoành dưới mác "Merry Christmas" và vẫn là nỗi ám ảnh cho người dùng Internet trong suốt năm 2005.
+

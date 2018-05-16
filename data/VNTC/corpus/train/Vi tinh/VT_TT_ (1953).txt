@@ -1,0 +1,5 @@
+ Hacker dùng BBC để khai thác lỗi trong IE
+Tuy nhiên, trang mà người dùng được chuyển đến là trang giả mạo và một phần mềm keylogger sẽ được cài đặt lên máy tính người dùng thông qua lỗi bảo mật từ Internet Explorer (IE). 
+Các hacker tận dụng lỗi bảo mật mới nhất từ trình duyệt Microsoft Internet Explorer (Tuổi Trẻ Online đưa tin ngày 29-3-2006) để thực thi các đoạn mã độc làm ảnh hưởng đến máy tính của nạn nhân. Lỗi đã được Hãng bảo mật eEye Digital cung cấp bản vá lỗi tạm thời. 
+Hãng Secunia cũng khuyến cáo người dùng tắt chức năng hỗ trợ script (ActiveX) trong trình duyệt Internet Explorer. Người dùng có thể tắt chức năng này bằng cách: trên menu trình duyệt Internet Explorer, chọn Tools - Internet Options, chọn thẻ Security, sau đó chọn Custom Level để Disable ActiveX. 
+

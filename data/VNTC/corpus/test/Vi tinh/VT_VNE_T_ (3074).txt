@@ -1,0 +1,8 @@
+Pentium D - chip lõi kép cho PC của Intel
+Thiết bị Pentium D và chipset hỗ trợ trong máy tính để bàn, ra mắt ngày 24/6, là dòng lõi kép Pentium thứ hai Intel giới thiệu trong thời gian qua với giá khoảng 241-530 USD.
+Chip Pentium IV Extreme Edition đã có mặt trước đó trên thị trường vào tháng 4, và bây giờ, Intel tiếp tục phát hành dòng Pentium D 800-series với ba tốc độ 2 GHz, 3 GHz và 2,8 GHz.
+Hai loại chipset mới - 955X và 945G - hỗ trợ nhiều công nghệ tiên tiến, đáp ứng yêu cầu khách hàng, như mạng không dây, VoIP, màn hình độ phân giải cao, cải tiến bảo mật, cho phép chạy nhiều chương trình cùng lúc cũng như tận dụng sức mạnh điện toán của chip lõi kép.
+Chipset 955X được thiết kế cho những máy móc đòi hỏi hiệu suất cao như máy trạm hay hệ thống chơi game... Công nghệ hỗ trợ bộ nhớ DDR2 (Double data-rate 2) 8 GB và đồ họa PCI Express x16.
+Sự lựa chọn thứ hai là 945G, hướng vào các phần nền đa phương tiện như video và audio. Đây là mốc đánh dấu sự ra mắt của công nghệ IAMT của Intel (Intel Active Management Technology), sử dụng các bộ phận trong chip như là một thiết bị xử lý dịch vụ riêng biệt trong trường hợp mất điện hay cần xây dựng lại hệ thống. Đây là công nghệ ban đầu được tích hợp trong các sản phẩm tốc độ thấp Pentium D cũng như thiết bị xử lý hỗ trợ công nghệ siêu phân luồng của Intel.
+Hiện nay, hầu hết máy tính doanh nghiệp đều sử dụng thiết bị xử lý và chipset của Intel. Các nhà sản xuất PC như Dell, Gateway, Hewlett-Packard và Lenovo cũng đang bắt tay vào tích hợp cải tiến mới này của Intel. Cả bốn hãng đều tuyên bố sẽ cung cấp sản phẩm dựa trên chipset mới vào cuối tháng này.
+

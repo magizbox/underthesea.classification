@@ -1,0 +1,7 @@
+Server của IBM phá kỷ lục về tốc độ tính toán
+Sản phẩm mới nhất thuộc dòng Power5 64 bit của Big Blue đã chiến thắng tuyệt đối trong cuộc thi về tốc độ xử lý của các server do TPC-C, một tổ chức chuyên đánh giá khả năng máy chủ trong việc xử lý các truy vấn phức tạp và giải quyết khối lượng dữ liệu lớn. 
+eServer p5-595 của IBM có khả năng thực hiện 3.210.540 trao đổi dữ liệu trong vòng một phút. Thành tích này vượt qua 2 kỷ lục cũ: cluster chạy nhanh nhất của Hewlett-Packard Itanium sử dụng hệ điều hành Red Hat Linux với tốc độ xử lý 1,18 triệu giao dịch/phút và một server khác của IBM, Power4 sử dụng hệ điều hành AIX với tốc độ xử lý 1,03 triệu giao dịch/phút. 
+Hệ thống eServer p5-595 có thể chạy cùng một lúc 250 server ảo, giúp các máy trạm truy cập dữ liệu từ cùng một server duy nhất và quản lý được 2,56 triệu người sử dụng. 
+eServer P5 595 sử dụng hệ điều hành Unix và bộ vi xử lý Power5 tốc độ 1,9 GHz, chạy phần mềm dữ liệu IBM DB2, có 6.548 ổ đĩa cứng nằm trong 45 hệ thống lưu trữ DS4500, đi kèm với 490 hệ thống lưu trữ mở rộng DS4000. 
+Giá của hệ thống này là 16,7 triệu USD. Dự kiến, eServerP5 595 sẽ được sử dụng vào việc tổng hợp các thông tin do vệ tinh địa tĩnh gửi về để phục vụ công tác dự báo thời tiết.
+

@@ -1,0 +1,6 @@
+Camera di động điều khiển bằng Bluetooth
+Tại triễn lãm CeBIT đang điễn ra ở Hanover (Đức), Sony Ericsson đã giới thiệu ROB-1, một loại camera thông minh, có thể di chuyển như một robot tự động và được điều khiển bằng Bluetooth từ điện thoại di động, giúp việc chụp ảnh, quay phim trở nên linh hoạt hơn. 
+Người dùng có thể lái ROB-1 thông qua tín hiệu Bluetooth bằng cách sử dụng joystick, keypad hay màn hình cảm biến trên các điện thoại do Sony Ericsson sản xuất. Với cấu tạo là một hình cầu đường kính 11 cm, được gắn 3 bánh xe nhỏ, camera này có thể di chuyển một cách nhang chóng và linh hoạt trong phạm vi bán kính 50 m. Ngoài ra, ROB-1 còn có thể nâng cao hoặc hạ thấp tầm ngắm nhằm giúp người dùng có được những hình ảnh như ý. Nó cũng được trang bị đèn flash để quay phim trong bóng tối. 
+Hình ảnh sẽ được camera này truyền về điện thoại và thể hiện ra màn hình. Thiết bị này còn được tích hợp bộ nhớ để lưu giữ các bức ảnh để sau đó chuyển sang máy tính thông qua cổng USB. 
+Dự kiến, ROB-1 sẽ có mặt trên thị trường vào quý III năm nay.
+

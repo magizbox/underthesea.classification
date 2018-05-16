@@ -1,0 +1,17 @@
+Một số thắc mắc về Yahoo Messenger (4)
+Ban em cho em pass va hai nguoi cung dung chung nick nay, nhung khi em mo nick do thi hoan toan khong co ai trong danh sach Friend ca. Em co the tim thay nick cua ban be trong danh sach Friend for o Yahoo messenger bang cach nao ? em da thu voi cach View  Show Only online Friend nhung khong duoc (ctrl + F). Mong duoc su giup do.
+Nguyen Cong Quynh
+Hồi âm:
+Hiện nay có rất nhiều cách phát hiện nick ẩn. Tôi chỉ giới thiệu cách tôi thường làm và hiệu quả 100%. Đó là các bạn invite to conference. Các bạn chi việc click vào nick họ và nhấn chữ invite trên khung chat là okie. Để nhận biết: -nếu họ chấp nhận invite(Join) == online-không chấp nhận(declined)==online 
+Vo Ngoc Tai
+1. Nhân biêt co thê dung meo: a. Add vao list -- Bên kia denyb. Check vao mail...Thây icon sang. Cach nay yêu câu ID đo không uncheck "When people see my ID on Yahoo...2. Sư dung tinh năng loc chi nhân thông tin tư ngươi trong list hoăc deny tât ca nhưng ngươi trong black list. 
+DMZ
+Ban vao trong Yahoo Mail, mo thu cua nguoi ban muon biet online ra, neu thay ben canh dia chi mail gui den (dong From) co xuat hien, tuc la nguoi do dang online neu khong thay xuat hien hoac co mau toi thi nguoi do khong online. 
+Nguyen Duc Long Hung
+Tôi thường sử dụng YM để giao tiếp với ban bè, nhưng trong thời gian gần đây YM của tôi có vấn đề:- Khi ở nhà, không thể kết nối bình thường vào YM (mặc dù log-in từ nhiều nick khác nhau), sau khi log-in đuợc 3-5 phút là tự động bị bật ra (internet vẫn kết nối)!! tôi đã thử cài đặt lại YM, thậm chí cả Windows nhưng vẫn không cải thiện được gì.- Tôi đến cơ quan dùng thử thì không thấy vấn đề gì, nick của tôi trong YM vẫn ổn định. Mong mọi người chia sẻ kinh nghiệm giúp tôi. Có phải phiên bản XP của tôi bị lỗi ? Hiện tôi dùng Windows XP pro SP2 và YM phiên bản mới nhất. Cảm ơn đã quan tâm. 
+Trung Le
+May cua tôi cài Yahoo!Messenger nhung moi khi toi login thi no lai bao loi Ypager va tat Yahoo Messenger. Toi da cai lai nhieu lan nhung khong duoc. Co ban nao biet chi giup toi cach khac phuc. Cam on rat nhieu. 
+Nguyen Tuan Anh
+Hồi âm:
+Ban Trung Le + Nguyen Anh Tuan than men! Van de khong the Login vao Yahoo duoc la do loi cua may cac ban thoi. Neu muon khac phuc, truoc tien ban phai " Uninstall Yahoo Messenger. Sau do ban Restart may lai, roi moi Setup Yahoo Messenger lai. Luc do ban moi co the Login binh thuong nhu cac may khac. Mong cac ban thanh cong. 
+

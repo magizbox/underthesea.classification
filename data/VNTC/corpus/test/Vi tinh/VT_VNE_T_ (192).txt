@@ -1,0 +1,5 @@
+Máy lọc thư rác làm mất thư hợp pháp
+Một thống kê của Return Path, công ty Mỹ chuyên nghiên cứu e-mail phục vụ tiếp thị trực tuyến, cho thấy phần mềm lọc spam đang phát triển theo hướng thà giết nhầm còn hơn bỏ sót.
+Theo thống kê này, trong 6 tháng cuối năm 2003, khoảng 19% e-mail hợp pháp không bao giờ tới được Inbox của người nhận. Con số này tăng 3,7% so với cùng kỳ năm trước đó. Trong vài trường hợp, do sơ xuất mà thông điệp không được gửi đi. Nhưng thường thì chúng bị máy lọc ném vào đâu đó trong hộp chứa thư rác, vốn chẳng mấy khi được người ta kiểm tra.
+Kết quả là người ta ngày càng có khả năng không nhận được e-mail mình mong đợi. Nghiên cứu cũng chỉ ra rằng thiệp điện tử và thư thông báo (newsletter) là những đối tượng dễ bị lọc nhầm nhất.
+

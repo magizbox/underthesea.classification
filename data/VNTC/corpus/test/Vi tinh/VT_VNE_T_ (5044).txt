@@ -1,0 +1,8 @@
+Firefox 1.5 chính thức ra mắt
+Phiên bản 1.5 của trình duyệt mã mở phổ biến nhất hiện nay, với nhiều tính năng bảo mật quan trọng như chặn pop-up, spyware và virus, cuối cùng đã xuất hiện sau một thời gian dài được quảng cáo rầm rộ .
+Firefox 1.5 được trang bị nhiều chức năng được mong đợi như tự động cập nhật các bản nâng cấp, thiết kế lại menu, RSS, và lựa chọn "Safe Mode" (chế độ an toàn). Ngoài ra, khả năng điều hướng nhanh hơn cùng những cải thiện về phím back (trở về) và forward (trở đi) đã được thực hiện đúng như Mozilla từng tuyên bố. 
+Tính năng thú vị nhất theo đánh giá của nhiều người sử dụng là Firefox cho phép kéo/thả để sắp xếp lại thứ tự các thanh tab trên trình duyệt. Bên cạnh đó, công cụ chặn pop-up, nút xóa nhanh dữ liệu cá nhân (Clear Private Data) cũng được chỉnh sửa đáng kể so với bản Beta.
+Firefox 1.5 tương thích SVG, CSS 2, CSS 3, Ajax, JavaScript 1.6, DHTML và một số công nghệ trợ giúp như phần mềm đọc Beta Window-Eyes 5.5. Chương trình này sẽ đọc to tất cả những thông tin trong ứng dụng và tài liệu, hoặc hiển thị trên màn hình chữ nổi Braille, nhằm hỗ trợ người mù và thị giác kém.
+Firefox 1.5 là phiên bản nâng cấp toàn diện đầu tiên sau Firefox 1.0 một năm trước đây. Nếu muốn dùng ngôn ngữ khác tiếng Anh hay đang chạy hệ điều hành Linux và Mac, người sử dụng có thể tải về tại đây.
+Mozilla dự định giới thiệu Firefox 2.0 vào giữa 2006 và 3.0 ngay quý I/2007. Các bản nâng cấp, vá lỗi sẽ được phát hành khoảng 6 - 8 tuần/lần.
+

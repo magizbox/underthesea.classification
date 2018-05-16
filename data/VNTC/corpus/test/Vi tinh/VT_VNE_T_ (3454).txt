@@ -1,0 +1,7 @@
+Lỗi trong IE có thể phá vỡ trình duyệt
+Các chuyên gia an ninh mạng đã khám phá một lỗ hổng mới trong Internet Explorer (IE), có thể phá vỡ khả năng hoạt động của trình duyệt, đồng thời cho phép hacker cài phần mềm trên máy tính bị khống chế.
+Lỗ hổng này được hãng nghiên cứu và tư vấn bảo mật Australia SEC Consult phát hiện đầu tiên và đã cảnh báo tới Microsoft vài tuần trước đây.
+Martin Eisner, Trưởng phòng kỹ thuật của SEC Consult, cho biết khi mở các trang HTML sử dụng tính năng ActiveX, tin tặc có khả năng viết chèn lên bản đăng ký trong thiết bị xử lý máy tính. Thủ thuật này về mặt lý thuyết có thể sử dụng để cài mã nguy hiểm vào nhiều phần trong bộ nhớ máy tính và làm tràn bộ đệm.
+Microsoft ngày hôm qua đã khẳng định sự tồn tại của lỗ hổng. Hãng đánh giá lỗi ở mức "nghiêm trọng" và đang nghiên cứu giải pháp. Tuy nhiên, Microsoft chưa nhận được bất cứ thông báo nào về những vụ tấn công liên quan đến lỗ hổng.
+Các chuyên gia bảo mật hy vọng hãng phần mềm này sẽ sớm đưa ra bản vá lỗi trong vòng vài tuần tới, vì "hiện giờ nó không có biểu hiện gì nguy hiểm, nhưng chỉ 1, 2 tuần nữa chắc chắn sẽ có ai đó 'rỗi việc' và khai thác nó", Eisner khẳng định.
+

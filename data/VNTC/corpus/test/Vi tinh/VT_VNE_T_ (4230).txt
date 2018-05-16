@@ -1,0 +1,6 @@
+Cứ 6 spyware thì 1 có mục đích ăn cắp thông tin
+Nghiên cứu của hãng Aladdin Knowledge Systems (Mỹ) cho thấy tỷ lệ phần mềm được thiết kế chuyên vào mục đích thu thập dữ liệu nhận dạng cá nhân là khá lớn . Điều này khẳng định thêm xu hướng khai thác spyware trong giới tội phạm.
+Khảo sát của Aladdin Knowledge Systems xác định 15% trong số 2.000 loại spyware phổ biến có mục đích gửi thông tin cá nhân mà chúng thu thập được từ PC bị lây nhiễm bằng công cụ ghi nhận lệnh gõ bàn phím (keylogger). Bên cạnh đó là các nhiệm vụ ăn cắp tên đăng nhập, password hoặc ăn cắp địa chỉ e-mail trong danh bạ liên lạc.
+25% spyware khác được thiết kế để lấy những thông tin không phải là dữ liệu cá nhân nhưng cũng được Aladdin liệt vào loại nguy cơ trung bình vì những chương trình này thu thập dữ liệu về hệ điều hành của PC nạn nhân, tên miền, các file log, ứng dụng an ninh trên máy, địa chỉ IP và các bản nâng cấp bảo mật.
+60% số spyware còn lại chủ yếu nhặt nhạnh những thông tin có giá trị thương mại liên quan đến thói quen duyệt web của người sử dụng đầu cuối.
+

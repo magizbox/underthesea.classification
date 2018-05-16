@@ -1,0 +1,7 @@
+Tìm lời 120.000 bài hát trên thư viện Lyrics Base 
+Bộ sưu tập lời nhạc khổng lồ với  10.000 album khác nhau này cho phép người truy cập dễ dàng tìm lời bài hát nhanh chóng và tiện dụng thông qua một giao diện đơn giản.
+Chương trình sẽ liệt kê danh sách các ca sĩ và ban nhạc theo thứ tự từ A-Z. Nếu bạn muốn tìm lời bài hát của ca sĩ nào thì chỉ việc nhấp vào tên của họ trong danh sách (Select Artist), khi đó nó sẽ hiện ra tất cả các album của họ và các bài hát ở trong các album đó bên dưới (Album  Songs).
+Nhấp chuột vào lời bài hát cần tìm và nội dung sẽ được hiển thị ra bên tay phải. Đây không phải là một phần mềm độc lập vì thế để tìm được lời bài hát bạn phải có kết nối Internet. Khi đó chương trình sẽ truy cập vào kho dữ liệu lời nhạc của nhà cung cấp phần mềm này và tải lời nhạc về máy của bạn. Sau khi thấy được lời bài hát, bạn có thể lưu lại, chỉnh sửa hoặc in ra&
+Ngoài ra, chương trình còn cho phép tải các bản nhạc MP3 từ Internet về PC. Nếu bạn không tìm thấy bản nhạc yêu thích trong thư viện thì chương trình còn có thêm chức năng hỗ trợ tìm kiếm trực tiếp trên Internet.
+Chương trình có dung lượng 4,81 MB, tương thích với mọi phiên bản Windows. Download và dùng thửtại đây.
+

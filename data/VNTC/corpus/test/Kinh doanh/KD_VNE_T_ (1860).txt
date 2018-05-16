@@ -1,0 +1,6 @@
+EVN kiến nghị hiệu chỉnh giá điện theo từng tháng
+Tổng công ty Điện lực Việt Nam vừa có tờ trình gửi Bộ Công nghiệp kiến nghị được áp dụng cơ chế tự động điều chỉnh giá bán điện từ ngày 1/1/2005, với tần suất hiệu chỉnh theo tháng.
+Cơ sở hiệu chỉnh dựa trên biến động của các yếu tố đầu vào, khi hiệu số hiệu chỉnh giá bán điện đạt mức cộng trừ 1% trở lên.
+Trường hợp hệ số hiệu chỉnh giá điện dương (+), biểu giá điện sẽ tự động tăng và ngược lại khi hệ số hiệu chỉnh giá điện âm (-), biểu giá sẽ tự động giảm. Trường hợp hệ số hiệu chỉnh giá có giá trị tuyệt đối nhỏ hơn cộng trừ 1%, biểu giá sẽ giữ nguyên.
+EVN cho rằng, hệ số hiệu chỉnh giá điện này khi được đưa vào áp dụng sẽ đảm bảo giữ ổn định tình trạng sản xuất kinh doanh cũng như tài chính của doanh nghiệp sản xuất, kinh doanh điện.
+

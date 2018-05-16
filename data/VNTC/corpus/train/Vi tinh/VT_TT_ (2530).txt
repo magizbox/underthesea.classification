@@ -1,0 +1,7 @@
+ Duyệt Internet Explorer 6 theo bảng
+Vậy trước mắt chúng ta hãy cứ “tạm” dùng IE6 để lướt web theo bảng với công cụ mang tên Tabbed Explorer. 
+Đây được xem là công cụ hỗ trợ lướt web theo bảng cho Internet Explorer 6 thuộc dạng hay nhất hiện nay. Plugin này sẽ giúp cho những người trung thành với Internet Explorer 6 có điều kiện “bằng chị, bằng em” với Firefox, Opera... ở tính năng Tab độc đáo, giảm thiểu việc chiếm dụng chỗ ở thanh Taskbar. 
+Người dùng chỉ việc vào đây để tải file tabbedie.exe có dung lượng vỏn vẹn 60KB. Sau khi tải về, ta kích hoạt để file tabbedie.exe hoạt động, sau đó khởi động Internet Explorer 6 lên là lập tức trình duyệt “cổ lỗ sĩ” này sẽ có ngay tính năng lướt web theo bảng tân kỳ. 
+Khi hoạt động, Internet Explorer 6 sẽ được lồng vào giao diện của Tabbed Explorer để có tính năng chạy bảng và biểu tượng của Internet Explorer 6 sẽ không còn xuất hiện ở Taskbar nữa. Để thêm một bảng mới, người dùng chỉ việc sử dụng tổ hợp phím Ctrl+N để bật lên bao nhiêu bảng tùy thích. 
+Lưu ý rằng Plugin dành cho Internet Explorer này chỉ tương thích tốt với Windows 2000 và XP, nó hoạt động không được tốt trên các Windows 9x vì hay làm treo máy vô thời hạn. 
+

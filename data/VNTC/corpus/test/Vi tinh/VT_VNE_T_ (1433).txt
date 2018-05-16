@@ -1,0 +1,5 @@
+Một công ty VN viết phần mềm cho tập đoàn dầu khí Mỹ
+Doanh nghiệp tư nhân Vidaltek (Đà Lạt) của kỹ sư tin học Khiếu Văn Chí đã nhận "đơn đặt hàng" của công ty Fann Instrument thuộc tập đoàn dầu khí Halliburton (Mỹ) làm phần mềm chuyên dụng cho thiết bị viscometer để đo độ nhớt của chất lỏng trong khoan thăm dò và khai thác dầu khí.
+Thiết bị viscometer ra đời từ đầu thập kỷ 1960 do một nhà khoa học người Do Thái tên Fann sáng tạo nhưng chỉ ở dạng vận hành cơ khí. Gần đây, công ty Fann muốn đưa công nghệ thông tin vào công cụ của mình.
+Phần mềm được thiết kế bởi Vidaltek sẽ được cài vào viscometer để thiết bị này được điều khiển theo chương trình định sẵn, lưu trữ và phân tích số liệu thí nghiệm tự động bằng máy tính, có thể điều khiển từ xa qua Internet.
+

@@ -1,0 +1,8 @@
+Trục trặc với Auto-cad 2002 (1)
+Tôi vừa cài đặt xong phần mềm Auto-cad 2002, nhưng khi nhấp đúp chuột vào biểu tượng trên màn hình để chạy thì nhận được thông báo "Sorry, this pre-release product has expired". Mong các bạn chỉ dẫn cách khắc phục. Cảm ơn các bạn nhiều. 
+dao manh thang
+Hồi âm:
+Bản cài đặt của autocard đó là bản thử nghiệm (tiền thành phẩm) và đã hết hạn. Bạn có thể chuyển ngày tháng của máy về trước năm 2001 rồi cài lại hoặc tìm phiên bản thành phẩm của trình này. Tốt nhất là làm cách thứ 2.
+Dong Ngo
+Với Auto-Cad 2002 khi cài với WinXP đôi khi xuất hiện thông báo "Hết hạn sử dụng". Bạn hãy bỏ đĩa vào máy, trong đĩa có phần  hướng dẫn cách sửa lỗi (chạy một file trong Auto-Cad - tôi không nhớ tên). Chúc thành công. 
+

@@ -1,0 +1,8 @@
+Lỗi IOS đe dọa cơ sở hạ tầng Internet
+Lỗ hổng nghiêm trọng trong hệ điều hành Internetwork (IOS) của Cisco có thể bị khai thác để phá vỡ hay cài mã nguy hiểm từ xa trên những thiết bị sử dụng phần mềm hệ thống này.
+Khai thác thành công lỗi trong IOS có thể giúp tin tặc nạp lại thiết bị hoặc chạy mã bất kỳ", hãng giải pháp mạng của Mỹ cảnh báo. Lặp lại liên tục quá trình này sẽ gây ra tấn công từ chối dịch vụ hoặc cho phép xử lý mã tùy ý.
+IOS hoạt động trên thiết bị định tuyến và chuyển đổi của Cisco, vốn chiếm một tỷ lệ lớn trong cơ sở hạ tầng mạng Internet. Thông báo của Cisco đã khiến hãng bảo mật Symantec phải xếp lỗi này ở mức độ 2. Chúng ta sẽ chứng kiến nhiều mưu toan khai thác khi mà thông tin về lỗ hổng IOS được công bố rộng, Symantec nhận định. Tuy nhiên, cả hai đều khẳng định chưa có vụ tấn công nào xuất hiện và Cisco cũng đã nhanh chóng cung cấp phần mềm để khắc phục vấn đề.
+Lỗi chỉ ảnh hưởng các phiên bản 12.2ZH, 12.2ZL, 12.3, 12.3T, 12.4 và 12.4T của IOS, hơn nữa cũng chỉ xảy ra nếu Firewall Authentication Proxy cho FTP và bộ phận Telnet (chương trình cho phép người dùng thâm nhập vàp máy tính từ xa thông qua ghép nối TCP/IP) đang trong quá trình hoạt động. 
+Cisco đã trải qua một mùa hè tương đối nóng về bảo mật. Tại hai đại hội bảo mật là Diễn đàn Black Hat và Hội nghị Defcon diễn ra vào tháng 7 ở Las Vegas (Mỹ), chuyên gia nghiên cứu Michael Lynn đã cảnh báo về lỗi IOS và nhiều hacker kỳ cựu đã tham gia vào cuộc đua khám phá lỗ hổngở sản phẩm Cisco.
+Symantec khuyên người dùng nếu chưa thể cài phần mềm vá lỗi cần ngay lập tức gỡ bỏ Firewall Authentication Proxy và Telnet, hoặc hạn chế truy cập vào dịch vụ mạng và máy chủ.
+

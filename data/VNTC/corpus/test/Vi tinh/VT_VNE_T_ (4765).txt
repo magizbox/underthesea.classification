@@ -1,0 +1,6 @@
+Google Desktop 2 chính thức ra mắt
+Hãng dịch vụ tìm kiếm lớn nhất thế giới đã hoàn tất quá trình thử nghiệm công cụ lập  chỉ mục và search thông tin trên máy tính, đồng thời trang bị thêm một số tính năng mới như hỗ trợ JavaScript và bản đồ khu vực.
+Những cải tiến mới bao gồm chức năng tìm kiếm sơ đồ trên thanh thông tin Sidebar. Bản đồ có thể tự tùy biến dựa trên những hoạt động trực tuyến của người dùng. Ví dụ, nếu họ ghé thăm trang web của hãng điện tử gia dụng Best Buy và vào một địa chỉ cửa hàng cụ thể, chương trình sẽ ghi nhận mã vùng và hiển thị bản đồ của vị trí đó.
+Một cải tiến khác là Desktop 2 hỗ trợ ngôn ngữ lệnh JavaScript, cho phép các nhà phát triển viết chương trình hỗ trợ tương thích (plug-in) nhanh chóng và dễ dàng hơn. Hiện nay đã có hơn 100 Sidebar plug-in được tạo ra.
+Không giống phần mềm dành cho người sử dụng, bản doanh nghiệp của Google Desktop được trang bị tính năng quản lý và bảo mật, đáp ứng yêu cầu của các công ty. Hãng tìm kiếm đồng thời công bố trang web cá nhân (blog) chính thức cho những sản phẩm của Google Desktop tại http://googledesktop.blogspot.com.
+

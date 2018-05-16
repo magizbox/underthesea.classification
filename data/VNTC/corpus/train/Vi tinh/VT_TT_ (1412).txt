@@ -1,0 +1,4 @@
+ Lọc thư rác cho ĐTDĐ
+Giải pháp lọc thư rác ĐTDĐ mang tên “Intrado SMS Spam Filtering” được thiết kế nhằm hỗ trợ cho các công ty điều hành dịch vụ ĐTDĐ chống lại đại dịch tin nhắn quảng cáo được tung vô tội vạ vào mọi ĐTDĐ, mà rất nhiều tin nhắn rác rưởi trong số đó là tin nhắn có nội dung lừa đảo. Tin nhắn quảng cáo tại các nước phát triển hiện nay cũng là một vấn nạn tương tự như tệ nạn tung thư rác vào hộp thư e-mail của người lướt web. 
+Giải pháp lọc tin nhắn rác của Intrado được đánh giá là một giải pháp hết sức độc đáo, có khả năng lọc được đến trên 90% tin nhắn quảng cáo không mời mà đến nhưng hầu như không ảnh hưởng gì đến những tin nhắn mà mọi người dùng gửi cho nhau. 
+

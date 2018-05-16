@@ -1,0 +1,7 @@
+IBM phát triển kiến trúc máy tính mới
+Một kiến trúc phần cứng mới mang tên X3 được "Big Blue" ra mắt trong thời gian tới sẽ giúp tăng sức mạnh cho bộ vi xử lý Xeon của Intel. Đây cũng sẽ là nền tảng cho hệ thống server trong tương lai của công ty máy tính này. 
+Sản phẩm đầu tiên, server xSeries366 (x366), là một hệ thống gồm 4 bộ vi xử lý cao cấp Xeon MP mới có tên mã là Cranford. 
+Song song với xSeries366, IBM cũng giới thiệu XA-64e, một loại chipset mới có tên mã là Hurricane, được thiết kế dành riêng cho kiến trúc X3. Những sản phẩm mới này sẽ giúp IBM xây dựng những server mạnh hơn, có số lượng bộ vi xử lý lên đến con số 32. 
+Sử dụng công nghệ từ các mainframe và siêu máy tính dành cho doanh nghiệp, IBM cho biết kiến trúc X3 mới này được thiết kế nhằm tăng hiệu suất cho chip Xeon của Intel trên hệ thống nhiều vi xử lý. Được phát triển trong vòng 3 năm với chi phí lên đến 100 triệu USD, đây là thế hệ mới nhất của dòng sản phẩm dành cho doanh nghiệp mà IBM đã tung ra từ năm 2001. Công ty này cũng xác định sẽ sử dụng X3 làm nền tảng cho các hệ thống trong tương lai có nhiều hơn 4 bộ vi xử lý Xeon.
+xSeries366 sẽ có mặt trên thị trường trong vòng 90 ngày tới. Giá bán sẽ được IBM công bố vào dịp ra mắt.
+

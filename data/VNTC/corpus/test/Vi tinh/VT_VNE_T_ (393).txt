@@ -1,0 +1,4 @@
+Cách cấu hình ISA Server 2004 beta2
+Em rat mong duoc qui anh chi huong dan cho em cach cau hinh ISA server2004 beta2. Truoc day em da tung cau hinh ISA 2000 tren Windows 2000 roi va chay rat tot, sau do cung da cau hinh ISA 2000 tren Windows 2003 Server cung chay tot luon. Hien nay em dang thu cau hinh ISA 2004 tren Windows 2003 de hoc hoi them nhung khong thanh cong. Mac du ISA 2004 giao dien dep cac giao thuc cung co san nhieu hon ISA 2000 (HTTP, HTTPS...) nhung lam hoai khong chay. Neu co the xin qui anh goi cho em mot so tai lieu hoac huong dan cach de hoan thien hon nua.Vi vay rat mong duoc qui anh chi them va duoc hoc hoi hon nhieu tu qui anh. May em dang chay Windows Server 2003, Exchange Server 2003, Em dang du dinh cau hinh lam Mailserver, FTPserver, NATserver.
+Nguyen Huy Hoang 
+

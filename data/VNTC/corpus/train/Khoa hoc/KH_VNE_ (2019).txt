@@ -1,0 +1,6 @@
+Áo tắc kè hoa đổi màu theo môi trường
+Một nhà hoá học Mỹ đang thiết kế một bộ quần áo tắc kè hoa mà với chỉ một nút bấm có thể hiển thị đúng hình ảnh môi trường xung quanh.
+Greg Sotzing, giáo sư Đại học Connecticut, đã sáng chế ra những sợi vải polymer cromic điện tử có thể đổi màu tương ứng với điện trường. Khi dòng điện được nạp vào, những sợi vải sẽ thay đổi năng lượng của các hạt electron có trong các liên kết hoá học, khiến chúng hấp thụ ánh sáng ở dải ánh sáng khác và từ đó thay đổi màu sắc của vật liệu.
+Đến nay, Sotzing đã thay đổi sợi từ màu cam sang xanh dương và đỏ sang xanh dương. Bước tiếp theo của ông là tạo ra sợi vải thay đổi từ màu đỏ, xanh dương, xanh lá cây sang trắng. Cuối cùng, Sotzing hy vọng đan những sợi vải có màu khác nhau theo kiểu đường chéo, để khi được nối với pin, mỗi điểm nối sẽ trở thành một pixel - điểm sáng trên tv hay màn hình máy tính.
+Sợi vải này sẽ được đan thành trang phục có màu thay đổi nhờ một thiết bị kiểm soát tâm trạng của người mặc. Hoặc, bằng cách nối thiết bị kiểm soát với một camera, pixel sẽ hiển thị hình khối và màu sắc của môi trường xung quanh của người mặc, giúp họ chìm lẫn vào trong nền. 
+

@@ -1,0 +1,10 @@
+Sự đánh lừa thị giác
+Nhìn qua thì thấy hình bên chẳng có gì đặc biệt. Nhưng nếu bạn đưa một tờ giấy vẽ chúng lên nằm ngang tầm mắt và nhắm mắt lại, rồi đặt mắt ở điểm gặp nhau của các đường kéo dài của những chiếc đinh ghim, bạn sẽ thấy hình như chúng không phải vẽ trên giấy mà là cắm thẳng vào giấy.
+Nếu đưa đầu về một phía thì bạn sẽ thấy như chúng nghiêng về phía ấy vậy.
+Có thể giải thích ảo giác này bằng luật phối cảnh: khi nhìn theo phương pháp tả ở trên mà thấy đinh ghim cắm thẳng đứng cho hình chiếu của chúng trên giấy thế nào, người ta sẽ vẽ các đinh ghim trên giấy đúng như những hình chiếu ấy.
+Hoàn toàn không nên xem khả năng bị đánh lừa về thị giác của chúng ta là khuyết điểm. Nó còn có một khía cạnh rất có lợi mà ta thường quên không nghĩ tới. Vấn đề là, nếu mắt của chúng ta không chịu ảnh hưởng của bất kỳ một sự đánh lừa nào thì chắc chắn sẽ chẳng có ngành hội họa và chúng ta không còn dịp thưởng thức toàn bộ nghệ thuật tạo hình lý thú. Các họa sĩ đã sử dụng rộng rãi những khuyết điểm ấy của thị giác.
+Những sự đánh lừa về quang học (ảo thị) thì rất nhiều, dưới đây là một vài ví dụ thú vị mà bạn còn ít biết.
+Hình bên (A) vẽ những đường trên một nền kẻ hình mắt lưới sẽ cho ta những hiệu quả về ảo giác rất đặc biệt: mắt bạn nhất định không thể đồng ý rằng những chữ cái trên hình này kẻ rất ngay ngắn. 
+Bạn lại càng khó tin những đường trên hình B không phải là những đường xoắn ốc. Vậy trong những đường nhánh mà bạn cho là đường xoắn ốc ấy rồi vẽ lượn theo những đường cong bạn sẽ thấy nó chẳng lại gần mà cũng chẳng cách xa tâm. 
+Cũng vậy, bạn có thể dùng compa để chứng minh rằng trên hình C, đường thẳng AC không ngắn hơn đường AB.
+

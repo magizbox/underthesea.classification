@@ -1,0 +1,6 @@
+Thiết bị đo và cảnh báo khí methane cầm tay
+Thiết bị có tên VIELINA-ĐCT01, do Viện nghiên cứu điện tử Tin học và Tự động hóa (Bộ Công Nghiệp) nghiên cứu và chế tạo nhằm phục vụ việc khai thác hầm lò, đảm bảo an toàn cho người lao động. Thiết bị có khối lượng chưa đến 1 kg, kích thước nhỏ gọn (14,1 x 8,5 x 5,5 cm).
+VIELINA-ĐCT01 có thể đo khí methane trong dải từ 0 đến 5% theo thể tích với sai số 0,1 %. Khi nồng độ khí methane có trong lò vượt ngưỡng cho phép, lập tức thiết bị sẽ báo động (bằng đèn nháy và hệ thống âm thanh) để người sử dụng biết mà rút lui khỏi hầm lò. 
+Theo tiến sĩ Nguyễn Thế Truyện, giám đốc Trung tâm Điện tử Công nghiệp, chủ nhiệm đề tài, ưu điểm của thiết bị VIELINA-ĐCT01 là tiêu thụ năng lượng ít, có thể làm việc liên tục 18 giờ sau mỗi lần nạp đầy, và có thể phát hiện nhanh khí methane trong vòng 20 giây kể từ khi bật nguồn.
+VIELINA-ĐCT01 thế hệ thứ nhất đã được đưa vào hoạt động thử nghiệm tại công ty than Mông Dương (Quảng Ninh) từ tháng 2/2003 và nhận được sự đánh giá rất tốt từ người sử dụng. Không những vậy, thiết bị còn có khả năng cải tiến để ứng dụng đo và cảnh báo khí trong môi trường công nghiệp cũng như ứng dụng trong khai thác dầu khí.
+

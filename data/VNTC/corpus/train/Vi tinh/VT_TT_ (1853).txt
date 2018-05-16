@@ -1,0 +1,9 @@
+ Biến hình số thành bức phác họa với Sketch Master
+Đây là công cụ “phù phép” hình ảnh nhỏ gọn, có hai tác dụng chính là lồng ghép những bức ảnh số vào các khung hình cực đẹp đã được thiết kế sẵn, hoặc biến những bức ảnh số thành những nét vẽ phác họa hết sức đẹp mắt. 
+Ảnh số sau khi phác họa 
+Giao diện sử dụng của Sketch Master rất đơn giản và thân thiện. Đầu tiên bạn hãy nhắm vào thẻ “Input”, sau đó chọn “Open” để mở ra file ảnh cần lồng ghép vào khung. Nhắp vào thẻ “Frame sau đó dùng 2 nút “Previous” hoặc “Next” để lựa chọn 1 trong 99 khung hình cực đẹp đã được thiết kế sẵn trong Sketch Master. 
+Sau khi chọn xong, bức ảnh của bạn sẽ được ghép ngay vào khung. Bạn dùng chuột hoặc 2 nút “Zoom in”, “Zoom out” để chọn vị trí phù hợp nhất cho ảnh trong khung. 
+Nếu cần biến bức ảnh số của mình thành những nét vẽ thì bạn chọn thẻ “Sketch” và đánh dấu vào ô “Sketch effect” , ngay lập tức bức ảnh số sẽ biến thành một bức phác họa thần tình. Người dùng có thể chọn độ đậm nhạt của nét vẽ,… bằng 3 chức năng điều chỉnh là Precision, Line và Scale. 
+Nhấp vào nút “Add” và lặp lại quy trình trên với những bức hình khác. Khi đã xử lý xong số ảnh cần thiết, bạn nhấn vào nút “Save all” để lưu lại thành quả của mình, nhưng tốt nhất nên chọn chức năng “Make Album” để Sketch Master tạo cho bạn một album hình tự động trình diễn hấp dẫn dưới dạng một file .exe để bạn có thể chép vào thẻ nhớ để đem đi biểu diễn khắp nơi. 
+Công ty Regsoft đang bán ra công cụ hấp dẫn này với giá 28 USD. Người dùng có thể vào đây để tải về bản dùng thử với dung lượng khoảng 7MB. Hiện Sketch Master phiên bản 4.1 đã có bán tại các cửa hàng phần mềm tại TP Hồ Chí Minh. 
+

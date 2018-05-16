@@ -1,0 +1,8 @@
+ In hình khổ lớn bằng máy in nhỏ 
+Chương trình sẽ khéo léo “cắt” tấm ảnh số của bạn ra thành rất nhiều phần nhỏ bằng nhau với kích thước của mỗi phần bằng đúng khổ giấy A4. Bạn chỉ việc in ra toàn bộ những phần này, sau đó ghép lại với nhau cho chính xác như trò chơi ghép hình của trẻ em và dán lên một nơi nào đó đã chuẩn bị sẵn, bạn sẽ có một tấm ảnh “to đùng” không thua kém gì lắm so với các poster quảng cáo. 
+Sau khi chọn ngôn ngữ cho mình, thường là tiếng Anh, bạn nhấn vào “Continue” để vào các bước: 
+Nhấn vào “Browse” để tìm đến bức ảnh cần in rồi nhấn “Open” để hiện ra đường dẫn đến tấm ảnh rồi nhấn “Continue”. 
+Chọn khổ giấy của máy in -&gt; nếu tấm ảnh là khổ đứng thì chọn “Portrait”, nếu là khổ ngang thì chọn “Landscape”. 
+Ở ô “sheets”, bạn thoải mái lựa chọn số tờ mà bạn cần “The Rasterbator” cắt ra cho mình. Lưu ý số tờ càng nhiều thì tấm ảnh của bạn càng lớn và có thể đến mức khổng lồ. Nên tính toán kỹ mặt bằng dán ảnh trước khi ra lệnh cho “The Rasterbator” cắt hình. Số tờ tối đa mà “The Rasterbator” có thể cắt cho bạn là đến 1.000 tấm, đủ sức tạo nên một bảng quảng cáo kinh khủng! 
+Bản mới nhất của chương trình là “Rasterbator Standalone 1.2” có thể tải miễn phí tại http://arje.net/files/Rasterbator_Standalone_1.21.zip dưới dạng file nén ZIP có dung lượng 866 KB. Khi tải về máy xong, bạn chỉ việc bung thư mục chứa chương trình vào ổ cứng và nhấp đúp vào file Rasterbator.exe để chương trình tự động chạy, không cần cài đặt. 
+

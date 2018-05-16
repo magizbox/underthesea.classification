@@ -1,0 +1,11 @@
+ Dr. Hardware 2006: công cụ khám phá máy tính đa năng
+May mắn thay Dr. Hardware 2006 sẽ là công cụ đa năng giúp mọi người khám phá đến tận cùng về chiếc máy tính của mình. 
+Dr. Hardware 2006 là công cụ có thể trong “tích tắc” đưa ra được toàn bộ các thông số về mọi thứ phần cứng và hệ điều hành có trong máy tính ở mức độ chi tiết đến mức không thể chi tiết hơn. 
+Tính năng Overview test sẽ cung cấp toàn bộ các thông số tổng quát về nhãn hiệu và dung lượng của mọi thứ trong máy tính như: bản mạch chính, bộ nhớ, bios, đĩa cứng, card màn hình, CD hoặc DVD, card mạng, modem, phiên bản hệ điều hành, tên máy tính, người sử dụng hiện tại… 
+Tính năng Hardware test sẽ cung cấp đầy đủ mọi chi tiết về chip xử lý như công nghệ bao nhiêu nm, công nghệ phân luồng hay không phân luồng, chip 32 bit hay 64 bit, dung lượng cache cũng như số luồng của cache, và hàng chục thông số chi tiết khác. 
+Tính năng Device test sẽ đưa ra đầy đủ mọi thông số của tất cả các thiết bị như đĩa cứng, card màn hình, card mạng, modem, máy in, loa… 
+Tính năng Windows test sẽ thông báo cho người dùng không sót bất kỳ một chi tiết nào liên quan đến phiên bản Windows hiện đang chạy trên máy, bao gồm đủ các thông số về cách thiết lập hệ điều hành, cách thiết lập bảo mật, thiết lập Internet Explorer, thiết lập mạng liên quan đến Windows v.v 
+Tính năng Resource test sẽ đưa ra thông báo chi tiết về năng suất làm việc các thiết bị đang sử dụng trong máy tính hiện tại là bao nhiêu. 
+Tính năng Benchmark hết sức độc đáo sẽ đưa ra thông số Benmarch mà máy tính người dùng đang sử dụng. Nếu máy tính thuộc dạng mạnh cỡ như Pentium 4 thì tính năng Benchmark sẽ đưa ra biểu đồ so sánh thông số Benchmark của máy tính đang test với các máy tính cấu hình chuẩn cỡ như Pentium 4E-3400, Pentium 4E-2800, Athlon 64 3400+, Athon XP 3200+, Athlon XP 2000+… Nói chung là tùy theo cấu hình máy hiện có mà tính năng Benchmark của Dr. Hardware 2006 sẽ đưa ra các kiểu máy tiêu chuẩn đã từng có mặt trên thị trường thế giới vào để so sánh. 
+Phiên bản mới nhất của Dr. Hardware 2006 là 7.0.0 hỗ trợ luôn tính năng test các hệ thống Windows XP 64. Bản Dr. Hardware 2006 7.0.0 Professional được bán ra với giá là 29,95 USD và đã có mặt tại các cửa hàng bán phần mềm tin học tại Việt Nam. Người dùng có thể vào đây để tải bản ShareWare có chức năng và thời gian giới hạn về dùng thử. 
+

@@ -1,0 +1,24 @@
+Dùng virus để khắc chế virus
+Khi 2 loại virus cùng có mặt trong 1 tế bào, virus này có thể áp chế virus kia. Chẳng hạn, khi thí nghiệm với thỏ, nhà khoa học Magraxi phát hiện thấy những con đã nhiễm một loại virus herpes thì sẽ đề kháng được với loại virus herpes khác.
+Hiện tượng trên được gọi là giao hoán (tiếng Pháp là interference). Năm 1957, khi nuôi cấy virus cúm trong phôi gà, Isac và Lidenman đã nhận thấy, hiện tượng giao hoán liên quan đến một chất đặc biệt mà họ đặt tên là interferon.
+Về cấu tạo hóa học, interferon là một protein do tế bào sống sinh ra, chỉ được tổng hợp khi có mặt các chất sinh interferon (còn gọi là interferonogen). Nó là hàng rào bảo vệ đầu tiên của cơ thể chống lại virus và sự phát triển bất thường của tế bào. Nhìn chung, interferon có các hoạt tính chủ yếu là kháng virus, điều hòa miễn dịch, chống tăng sinh khối, kích thích sự biệt hóa tế bào, điều hòa sinh trưởng tế bào, giải độc và chống đột biến. Từ 7 hoạt tính này, nó đã được vận dụng vào việc bào chế các loại thuốc chữa bệnh an toàn và hiệu quả.
+Tại Hungary, người ta đã dùng interferon điều trị các bệnh nhiễm virus ở người, bệnh ung bướu. Đến năm 1987, Hoofnagle đã thành công trong việc dùng interferon điều trị viêm gan C, mở ra khả năng ứng dụng rộng rãi trong điều trị các bệnh nhiễm virus và ung thư trên phạm vi thế giới. 
+Mặc dù cùng bản chất protein như kháng thể nhưng cơ chế tác dụng của interferon lại hoàn toàn khác:
+Interferon
+Kháng thể
+Xuất hiện vài giờ sau khi nhiễm virus
+Xuất hiện chậm hơn (vài ngày) và đạt mức cao nhất sau vài tuần.
+Trẻ sơ sinh đã có 
+Nhiều tháng sau khi sinh mới có.
+Tác dụng bên trong tế bào sống.
+Ngoài tế bào sống.
+Tác dụng lên axit nucleic gián tiếp (ngăn cản sao chép).
+Tác dụng trực tiếp lên kháng nguyên.
+Không đặc hiệu (tác dụng chống mọi loại virus).
+Đặc hiệu (chỉ tác dụng với loại virus tương ứng)
+Muốn có 40 mg interferon tinh khiết, người ta phải dùng 2.000 quả trứng gà để chiết xuất. Nếu dùng công nghệ sinh học lên men nuôi cấy tế bào E.coli tái tổ hợp thì chỉ cần 1 lít môi trường nuôi cấy. Nhờ cách này, interferon đã được sản xuất với số lượng lớn, giá thành hạ để đáp ứng nhu cầu chữa bệnh.
+Ở Việt Nam đang lưu hành 6 loại thuốc interferon với các tên biệt dược như RoferonA (của hãng Roche, Thụy Sỹ), IntronA (Mỹ), Shanthaferon (Ấn Độ), La feron (Ucraina), Alpha Feron (Jedang - Hàn Quốc) và Superferon (Việt Nam).
+Interferon chữa được bệnh gì? 
+Khi chưa có kháng sinh hữu hiệu chống virus, interferon được xem là liệu pháp lý tưởng chống các bệnh do virus gây ra. Loại thuốc tiêm dạng đông khô, đóng lọ liều cao 3-5 triệu đơn vị quốc tế đang được sử dụng hiệu quả trong điều trị viêm gan siêu vi B-C mạn tính. Thuốc có tác dụng loại trừ virus gây nhiễm, chuyển đổi huyết thanh, cải thiện men gan và ngăn ngừa ung thư tiến triển.Interferon đã được sử dụng thành công để điều trị cúm, chống virus herpes trong ghép thận, điều trị ung thư xương, ung thư vú, u tủy và u lympho bào. Thuốc cũng đã được dùng cho bệnh nhân ung thư bàng quang, ung thư vú và u hắc tố, ung thư máu và cho kết quả khả quan.Với các bệnh ung thư vòm họng, phổi, não và viêm gan D mạn tính, interferon cũng cho kết quả tốt. Thuốc này cũng được dùng hỗ trợ trong điều trị bệnh AIDS.
+Trong dịch SARS vừa qua, Bộ Quốc phòng Mỹ đã thành lập 2 đơn vị nghiên cứu các dạng thuốc phòng chống, trong đó có một đơn vị sử dụng interferon. Năm 2003, Viện Vaccin Nha Trang cũng bắt đầu nghiên cứu sản xuất thuốc nhỏ mũi làm từ interferon để phòng chống bệnh cúm, các bệnh lây do virus đường hô hấp. Có thể nói, việc sử dụng interferon làm thuốc điều trị đang mở ra những hứa hẹn to lớn có giá trị khoa học và thực tiễn cao. 
+

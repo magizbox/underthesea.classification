@@ -1,0 +1,6 @@
+Sâu Sober trở lại
+Các tác giả virus lại tung ra một biến thể mới của chương trình tấn công này với tốc độ lây lan khá nhanh trên Internet. Phiên bản Sober.M có khả năng thu thập và báo cáo các địa chỉ e-mail của nạn nhân về cho tác giả.
+Kỹ thuật này được gọi là thu hoạch (harvesting). Những địa chỉ e-mail mà tác giả virus kiếm được sau đó thường được bán cho giới phát tán thư rác quảng cáo để những đối tượng này mở rộng thêm vùng phủ spam.
+Những bức thư điện tử chứa virus Sober.M sử dụng dòng chủ đề (subject) "I've got your e-mail on my account". Đây là dạng virus phát tán e-mail số lượng lớn, sử dụng file đính kèm dạng .ZIP và chỉ tấn công máy tính dùng Windows. E-mail chứa virus được gửi đi bằng tiếng Anh và tiếng Đức. Nội dung text trong thư như sau: Xin chào. Xin lỗi vì tiếng Anh của tôi không tốt. Có người đang gửi những e-mail riêng của bạn vào địa chỉ của tôi. Đây có lẽ là lỗi của nhà cung cấp dịch vụ. Nhiều lúc có tới 10 thư gửi cho bạn lại chạy vào tài khoản của tôi. Tôi đã copy tất cả những thông điệp này và nén lại (zip). Hãy đảm bảo thư của bạn không tiếp tục chui vào hộp thư của tôi nữa.
+Hãng bảo mật Sophos (Anh) cho biết đây là biến thể virus mới có số thông báo mà họ nhận được nhiều thứ năm trong 24 giờ qua, tiếp sau là Zafi và NetSky. Hầu hết các công ty cung cấp phần mềm chống virus đều đã cập nhật phiên bản mới.
+

@@ -1,0 +1,7 @@
+Trojan mới xóa sạch dữ liệu trong ĐTDĐ Symbian
+Doomboot.A., với mục tiêu tấn công là điện thoại di động Series 60 nhằm tiêu hao năng lượng và xóa toàn bộ dữ liệu trong máy, mới đây đã được hãng F-Secure phát hiện.
+Theo Anton Von Troyer, phụ trách thị trường của hãng F-Secure, một số người sử dụng thiết bị chạy trên hệ Symbian đã gặp virus này khi tải lậu game chứa phần mềm nguy hiểm về điện thoại. F-Secure ước tính sẽ có tới 30 triệu thiết bị di động có nguy cơ bị ảnh hưởng bởi Trojan. Tuy nhiên, hãng cũng khẳng định Doomboot.A chỉ trở nên thực sự nguy hiểm nếu đi kèm với sâu Commwarrior.B.
+Commwarrior.B phát tán qua thông điệp MMS và kết nối Bluetooth, hai tính năng chuẩn của điện thoại thông minh. "Sâu sẽ liên tục gửi thông điệp MMS vào máy để ngốn sạch pin trong thời gian chưa đến một giờ", Von Troyer giải thích. "Người sử dụng không thể tống khứ sâu này và ngăn tin nhắn MMS trừ khi họ định dạng (format) lại điện thoại và việc này đồng nghĩa với mất hết toàn bộ dữ liệu như ảnh, lịch làm việc, danh bạ...". 
+Hầu hết mọi người thường không để ý thiết bị của họ đã bị nhiễm, bởi không có bất cứ thông báo rõ ràng nào, trừ biểu hiện duy nhất là pin bị tiêu hao cực nhanh. Von Troyer khuyến cáo người dùng nói chung không nên vào website để tải nội dung giải trí như game, ảnh... lậu, và cần sử dụng chương trình diệt virus cho thiết bị cầm tay của mình.
+Tải phần mềm diệt Doomboot.A. tại đây.
+

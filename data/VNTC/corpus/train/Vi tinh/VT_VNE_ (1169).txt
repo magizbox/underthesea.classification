@@ -1,0 +1,9 @@
+Dự thi TTVN 2004: Khẩu lệnh cho PC
+Phần mềm điều khiển máy tính bằng giọng nói tiếng Việt - VSpeech - được Phạm Hữu Ngôn và Bành Duy Khánh, 2 thành viên chính của nhóm BK02, phát triển trong khoảng thời gian gần một năm.
+Mặc dù sản phẩm mà hai sinh viên khoa Công nghệ thông tin, Đại học Bách khoa TP HCM gửi đến cuộc thi chưa phải là phiên bản chính thức (Beta 3), Ban giám khảo vẫn đánh giá cao tính chuyên nghiệp của chương trình. Và kết quả là VSpeech được lọt vào vòng trung khảo.
+"Điểm nổi trội của VSpeech là không bị bó hẹp trong khuôn khổ của việc trợ giúp nhập văn bản mà sản phẩm còn có khả năng điều hành mọi công việc của máy tính bằng những câu lệnh tiếng Việt", Hữu Ngôn cho biết. "Ngay từ khi bắt đầu thiết kế chương trình, chúng tôi đã chọn cho mình một hướng đi riêng là liên kết với cộng đồng mã nguồn mở, kế thừa công nghệ đã có sẵn. Đây là cách duy nhất để có thể tạo ra được những sản phẩm cao cấp trong một thời gian ngắn".
+Theo Ngôn, việc xây dựng từ đầu bộ máy (engine) nhận dạng tiếng nói là một điều không tưởng đối với nhóm BK02. Thành công lớn nhất của VSpeech là đã xây dựng được hoàn chỉnh bộ từ điển phát âm tiếng Việt tương thích với các bộ máy nhận dạng giọng nói có sẵn. 
+Duy Khánh cũng tự hào: "Chỉ với dung lượng 1,5 MB, chương trình ưu việt hơn nhiều đối thủ nặng ký khác của nước ngoài bằng các tính năng phong phú". 
+Để khám phá các tính năng của phần mềm, trước tiên người điều khiển sẽ phải cùng chương trình 'luyện giọng' khoảng 3 bài. Thao tác làm quen là bắt buộc để chương trình có thể đạt được độ chính xác cao nhất khi nhận dạng tiếng nói của người dùng.
+Theo luật mã nguồn mở, VSpeech được phát hành hoàn toàn miễn phí tại địa chỉ http://vspeech.sourceforge.net. Nhóm BK02 hy vọng sẽ tìm được các đơn vị tài trợ để sản phẩm phát triển với quy mô lớn, chất lượng tốt và ổn định hơn. 
+

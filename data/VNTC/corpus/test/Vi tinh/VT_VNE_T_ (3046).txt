@@ -1,0 +1,7 @@
+Sâu tấn công dịch vụ IM của Yahoo và AOL
+Khi người dùng bấm vào đường link trong tin nhắn AOL, mã độc hại sẽ tự động cài vào máy tính. Với Yahoo, đường liên kết này dẫn đến một trang web giả nhằm mục đích ăn cắp thông tin cá nhân.
+Trong cả hai trường hợp, người sử dụng nhận được một thông điệp liên quan đến tập phim Star Wars mới nhất (Star Wars Episode III: Revenge of the Sith), mời gọi họ nhấp chuột vào đường link. 
+Tin nhắn trong AOL có dòng chữ "Hehe I found this funny movie", gây tò mò khiến cho người nhận bấm vào liên kết (chữ "this"), tải mã nguy hiểm vào máy tính. Sau đó, sâu này sẽ nối tới một máy chủ IRC (Internet Relay Chat) để tiếp tục phát tán qua các thông điệp AIM. Theo ước tính của trung tâm an ninh NetSec (Mỹ), đến sáng ngày 25/5, đã có khoảng 15.000 máy bị nhiễm.
+Riêng người dùng Yahoo sẽ nhận được một URL với liên kết nằm trong chữ "Stargame", chủ yếu hướng vào giới hâm mộ trò chơi, để dẫn đến một trang web Yahoo giả, nhằm khai thác thông tin như ID, mật khẩu... Hãng IMLogic (Mỹ) đánh giá nguy cơ này ở mức "trung bình".
+Các chuyên gia bảo mật khuyến cáo người dùng nên thận trọng mỗi khi click vào link trong tin nhắn nhanh, cho dù đó là thông điệp đến từ những người bạn trong danh sách.
+

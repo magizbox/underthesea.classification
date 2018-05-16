@@ -1,0 +1,9 @@
+Chuột robot ngửi bằng râu 
+Một loại robot sử dụng bộ râu để chạm và phân biệt những bề mặt khác nhau có thể mở ra cánh cửa mới trong công nghệ cảm biến, giúp tạo ra những thiết bị di chuyển được trong bóng tối hoặc ở chỗ chật chội, nơi mà tầm nhìn là vô dụng.
+"Nó giống như thể đi trong phòng tối với đôi tay dang rộng để bạn không bị vấp vào vật gì đó", nhà sinh học thần kinh Miriam Fend, người tham gia nghiên cứu tại Đại học Zurich, Thụy Sĩ, cho biết.
+Robot của Fend có đường kính khoảng 8 cm, trang bị hai cái râu thay nhau hoạt động. Mỗi râu được gắn với một cái màng, phủ ngoài bằng một chiếc microphone. Khi râu quét qua một vật thể nào đó, màng sẽ bị biến dạng, tạo ra một tín hiệu sau đó được khuyếch đại và ghi lại bởi một máy tính.
+Trong thí nghiệm, chuột robot khám phá một không gian có tường bao, sờ mó xung quanh để tìm các vật cản. Khi tiếp xúc với một bề mặt mềm, nó được lập trình để quay đi nhẹ nhàng. Còn nếu chạm bề mặt cứng, nó sẽ đổi hướng rất nhanh.
+Kết quả là, cứ 3 trong 4 trường hợp, nó đều cảm nhận bề mặt chính xác và quay đi đúng như theo lập trình.
+"Mặc dù các robot trước đây đã sử dụng râu để tránh vật cản, lần theo tường và phân biệt các bề mặt, nhưng công trình của Fend là công trình đầu tiên cho thấy những bề mặt khác nhau có thể được phân biệt ở những góc độ và khoảng cách tùy ý", phó giáo sư Mitra Hartmann ở đại học Northwestern nhận định.
+"Đây là một bước tiến quan trọng, vì việc phân loại các đặc điểm của vật thể phụ thuộc vào góc tiếp xúc là một vấn đề khó khăn", bà nói.
+

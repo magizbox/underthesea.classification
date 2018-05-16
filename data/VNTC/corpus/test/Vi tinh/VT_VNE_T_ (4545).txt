@@ -1,0 +1,7 @@
+Điện thoại nhận dạng dáng đi
+Các nhà khoa học Phần Lan vừa phát minh một công nghệ sinh trắc học mới, theo dõi chuyển động của chủ sở hữu thiết bị, khiến kẻ trộm khó có thể ăn cắp điện thoại di động hay máy tính xách tay.
+Thiết bị di động sẽ được lắp đặt bộ phận cảm ứng "gaitcode" (mã dáng đi), ghi nhớ mọi cử động 3 chiều của chủ nhân khi họ lần đầu tiên dùng máy, lặp lại quá trình để kiểm tra và sau đó lưu vào bộ nhớ. Nếu dáng đi thay đổi và thiết bị không thể nhận ra, nó sẽ hỏi mật khẩu và tự động khóa máy nếu nhập password không đúng.
+"So với mật khẩu thông thường và những biện pháp nhận dạng sinh trắc học truyền thống, phương pháp mới đơn giản hơn bởi nó vận hành tự động mà không cần sự can thiệp của người dùng. Độ tin cậy qua các cuộc thử nghiệm là 90%", Trung tâm nghiên cứu kỹ thuật Phần Lan VTT, đơn vị phát triển kỹ thuật trên, cho biết. Công nghệ đã được VTT đăng ký bản quyền sáng chế nhưng chưa rõ ngày phát hành.
+Ngoài ra, gaitcode cũng kết nối với hệ thống nhận dạng giọng nói và sẽ được tích hợp trong thẻ thông minh, vali, vũ khí và ổ USB.
+Công nghệ này sẽ phần nào giải quyết tình trạng hàng triệu thiết bị di động bị thất lạc hoặc mất cắp hiện nay. Theo thống kê mới đây, trung bình mỗi năm ở Anh có tới 300.000 điện thoại di động bị ăn trộm và khoảng 100.000 tại Đức và Thụy Điển.
+

@@ -1,0 +1,17 @@
+Màn hình bị lộn ngược (5)
+Tôi có màn hình bị lộn ngược hình ảnh, tôi không hiểu sao bấm vào đâu mà màn hình bị lộn ngược hết cả. Tắt đi khởi động lại cũng không được. Ai biết nguyên nhân và cách tháo gỡ xin cho tôi biết.Xin cảm ơn!
+Duc Thinh
+Hồi âm:
+Màn hình bị lộn ngược ? Hay hình bị lộn ngược? Nếu hình bị lộn ngược thường có hai chi tiết : 
+1- Bạn bấm chuột trái vào: Desktop gọi Properties vào thẻ Advanced sẽ thấy bên cạnh thẻ Color management là thẻ tên của Driver Màn hình bạn bấm vào đó sẽ xuất hiện một danh sách dài nhiều lựa chọn nó sẽ có lựa chọn trong đó có lựa chọn "Rotative" bạn bấm vào đó cho đến khi hình ảnh trên màn hình trở về bình thường.
+2-Đối với một số monitor hiện nay trên nút điều khiển của monitor Menu: có các chức năng bng kung ánh sáng theo hai chiều... và đồng thời có nút xoay khung hình.... Do không biết cụ thể Monitor và Card màn hình nên tôi chỉ nói một cách tổng quát. Thân chào ,chúc bạn khắc phục được vấn đề.
+Nguyễn Thế Anh
+Bạn nhấn tổ hợp phím Ctrl-Alt-mũi tên lên. Nếu không được, nhấn Ctrl-Alt-mũi tên xuống
+Phươngtx
+Máy của bạn dùng MAIN Chipset Intel 845 hoặc cao hơn VGA on board. Vơi VGA loại này bạn có thể xoay màn hình 90, 180, hay 270 độ. Bạn đã ấn nhầm tổ hợp phím CTRL+ATL+  nhấn lại tổ hợp phím CTRL+ATL+  để trở lại bình thường. (Bạn thử với phím hay  xem).
+Xem chi tiết: Kích chuột phải vào nền màn hình chọn Properties  Setting  Advance sau đó bạn có các thuộc tính về mà hình như cho phép xoay, tổ hợp phím tắt.
+Đoàn Văn Dương
+Bạn có thể nhấn phím tổ hợp ALT + phím mũi tên lên , hoặc CTRL + ALT + mũi tên lên nếu không được nữa bạn nhấn ALT + Shift + mũi tên lên.
+Nien
+Bạn Đức Thịnh thân mến! Mình là Mai Văn Vũ. Bạn chỉ cần nhấn kết hợp 3 phím là: Ctrl + Alt + phím mũi tên lên xuống, trái - phải (trên bàn phím). Trong trường hợp này của bạn nhấn phím mũi tên đi lên. Chúc bạn sớm tìm lại niềm vui bên chiếc máy vi tính của mình. 
+

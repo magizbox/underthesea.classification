@@ -1,0 +1,10 @@
+Công nghệ mới phá bỏ hàng rào ngôn ngữ
+Một hệ thống phiên dịch và nhận dạng ngôn ngữ sẽ có thể giúp bạn trong tương lai nói được ngôn ngữ khác một cách tức thì, nhờ những điện cực gắn trong miệng và họng.
+Công nghệ đang được các giáo sư tại Đại học Carnegie Mellon và Đại học Karlsruhe ở Đức, phát triển. Người đứng đầu, giáo sư máy tính Alex Waibel, phát biểu: "Viễn cảnh của chúng tôi là tạo ra công nghệ có thể loại bỏ hoàn toàn rào cản ngôn ngữ".
+Hệ thống bao gồm một thiết bị có thể dịch những từ không cần phát ra thành lời. Các điện cực gắn lên má và cổ họng sẽ đo dòng điện tạo ra từ cử động cơ của những từ mấp máy trong miệng và phát ra thành từ nghe được dưới ngôn ngữ khác.
+Nhưng người sử dụng không thể đi lại với đống điện cực gắn trên mặt, vì vậy các nhà khoa học cần nghiên cứu nhiều hơn để thu gọn thiết bị và xác định vị trí tốt nhất để gắn cảm ứng.
+Một thiếu bị mẫu khác bao gồm một cặp mắt chiếu những từ được dịch lên một màn hình ảo cho người đeo, tương tự như phụ đề trong các bộ phim.
+Waibel và nhóm của mình đang vượt qua rào cản ngôn ngữ không chỉ bằng những thiết bị cải tiến mà còn bằng phần mềm đổi mới.
+Trước đây, hệ thống dịch lời nói sang lời nói bị giới hạn bởi chủ đề, như đi mua sắm, khám sức khoẻ, đặt phòng khách sạn. Đó là bởi việc lập trình phần mềm là một quá trình lao động phức tạp. Nhưng bằng công nghệ mới, nhóm của Waibel đã thiết kế ra hệ thống không còn bị giới hạn bởi chủ đề.
+Hệ thống hiện thời có thể dịch tức thì tiếng Anh sang tiếng Tây Ban Nha và tiếng Đức với rất nhiều tình huống khác nhau như bài giảng, buổi phát sóng trên truyền hình, những bài phát biểu trong hội nghị. Nhóm dự định mở rộng thêm chủ đề và sẽ tích hợp thêm nhiều ngôn ngữ trong năm tới.
+

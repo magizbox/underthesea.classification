@@ -1,0 +1,6 @@
+ Khóa Skins trong Windows Media Player
+Với các Skin của chương trình, bạn dễ dàng thay đổi chúng cho đến chừng nào chán thì thôi. Nhưng nếu dùng chung máy tính với người khác mà bạn không muốn họ tùy tiện thay đổi Skin trên Windows Media Player thì tôi xin chỉ bạn một bí quyết nhỏ giúp bạn bảo vệ sự "độc quyền" của mình. 
+- Bước 1: Mở Windows Media Player ra, vào menu View &gt; Skin Chooser . Trong hộp thoại xuất hiện, bạn chọn skin mà bạn thích nhất, sau đó nhấn nút Apply để chấp nhận sự thay đổi này. (trong bài viết này tôi sử dụng skin Combat Flight Simulator 3). Sau đó thoát khỏi chương trình Windows Media Player. 
+- Bước 2: Vào trình đơn Start &gt; Run , gõ lệnh gpedit.msc . Trong cửa sổ Group Policy , khung bên trái, bạn theo đường dẫn sau: User Configuration &gt; Administrative Templates &gt; Windows Components &gt; Windows Media Player &gt; User Interface . 
+- Bước 3: Trong khung bên phải giao diện của mục User Interface , bạn nhấp chọn vào mục Set and Lock Skin, chọn Enabled . Ở mục Skin bạn gõ tên loại skin yêu thích vào (Tôi chọn Combat Flight Simulator 3.wmz). Sau khi đã thiết lập xong, nhấn OK để thoát khỏi Group Policy. Từ nay không ai có thể thay đổi skin trong Windows Media Player của bạn được nữa. 
+

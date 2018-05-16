@@ -1,0 +1,8 @@
+HP cải tiến khả năng phân quyền trong máy in
+Hewlett-Packard vừa nâng cấp phần mềm quản lý máy in và cho ra mắt trình điều khiển "tất cả trong một" tương thích với nhiều hệ thống cùng lúc, đồng thời giới thiệu dòng máy chiếu kỹ thuật số mới nhất.
+Theo Tom Codd, Giám đốc thị trường thuộc bộ phận in ấn của HP, phần mềm Web Jetadmin 8.0 được trang bị thêm khả năng tập hợp dữ liệu và phân chia quyền sử dụng đối với người dùng trong doanh nghiệp. Ví dụ, nhà quản lý có thể cài đặt để chỉ những thành viên trong phòng quảng cáo hoặc những tài liệu được tạo trên ứng dụng nhất định được quyền in màu. Điều này sẽ giúp tiết kiệm đáng kể chi phí cho công ty.
+Ngoài ra, bản nâng cấp phần mềm có khả năng thông báo tình trạng nguồn mực và tự động yêu cầu hộp mực mới khi cần. Web Jetadmin được tải miễn phí tại đây.
+Codd khẳng định Web Jetadmin 8.0 cũng hoạt động trên dòng máy chiếu mới của HP. Hệ thống xp7000 có giá thấp nhất là 1.999 USD, sử dụng công nghệ xử lý ánh sáng kỹ thuật số (DLP) của hãng Texas Instruments (Mỹ). Để kết nối máy chiếu tới mạng LAN qua cổng USB, khách hàng sẽ cần trang bị thêm một thiết bị điều hợp mạng Network Projector Manager pn1050 (299 USD).
+Cùng thời điểm, HP ra mắt phần mềm Universal Print Driver, có khả năng tương thích với bất cứ máy in màu hay đơn sắc nào của HP được sản xuất từ tháng 1/1997.
+Quản lý với phần mềm máy in luôn là vấn đề đau đầu với nhiều khách hàng của HP, bởi họ thường phải bao quát hàng tá các hệ thống in ấn khác nhau trong công ty. "Một số người sẽ muốn sử dụng những trình điều khiển chuyên biệt cho từng loại máy in để kiểm soát chặt chẽ hơn độ mờ trong máy in màu hay độ phân giải của máy in đen trắng. Tuy nhiên, những người này chỉ chiếm một tỷ lệ nhỏ trong tổng số khách hàng của HP", Codd cho biết.
+

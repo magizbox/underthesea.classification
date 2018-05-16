@@ -1,0 +1,5 @@
+ Microsoft đổi tên Windows AntiSpyware thành Windows Defender
+Khi chính thức được đổi tên thành Windows Defender, thì công cụ bảo mật “Made in Microsoft” này sẽ được thêm vào nhiều tính năng bảo mật khác như quét các rootkit (một dạng phần mềm gián điệp có tính chất của trojan, tức cao cấp hơn cả các spyware thông thường), các trình ghi nhận hoạt động bàn phím và cả virus… 
+Microsoft cho biết rằng Windows Defender sẽ được tích hợp trực tiếp vào Windows Vista. Như vậy là cho đến tận cuối năm 2006, những ai yêu thích Windows Antispyware mới có cơ hội sử dụng bản nâng cấp toàn diện cho công cụ bảo mật yêu thích của mình. 
+Microsoft sẽ tiếp tục nâng cấp cho Windows AntiSpyware trong tháng 1-2006 nhưng chưa rõ Microsoft có tung ra một bản Windows Defender riêng lẻ dành cho người dùng XP sau khi tung ra Windows Vista hay không. 
+

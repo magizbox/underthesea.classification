@@ -1,0 +1,9 @@
+Phần mềm ghi đĩa Burn4Free
+Dữ liệu thật là quý, nhưng thời gian và tiền bạc còn quý hơn. Chương trình Burn4Free cho phép bạn "đốt" dữ liệu và file âm thanh một cách đơn giản và nhanh chóng theo 4 phương thức do bạn tùy chọn.
+- Dùng một cửa sổ Windows Fly trong suốt. 
+- Dùng các folder click chuột phải hoặc các file trong một menu nhúng.
+- Dùng trình quản lý file trong (internal file manager).
+- Dùng công cụ kéo-thả (drag-and-drop) vào trong cửa sổ chính của phần mềm này.
+Với những sự lựa chọn ấy, bạn có thể "đốt" một đĩa CD chỉ bằng 2 lần click. Phần mềm sẽ cho phép bạn ghi các loại file tiếng như WAV, WMA, MP3, MP2, MP1 và OGG. Những loại ổ được hỗ trợ bao gồm: CD-R, CD-RW, DVD-R, DVD+R, DVD-RW, DVD+RW và DVD-RAM. 
+Để tải miễn phí Burn4free, bấm vào đây.
+

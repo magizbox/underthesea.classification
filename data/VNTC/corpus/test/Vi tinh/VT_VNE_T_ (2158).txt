@@ -1,0 +1,8 @@
+AMD thử nghiệm chip Athlon 64 lõi kép
+Hy vọng vượt lên trong cuộc đua hướng tới công nghệ chip đa lõi trước đối thủ Intel, AMD vừa trình làng phiên bản lõi kép của dòng vi xử lý Athlon 64 dùng cho desktop. Dự kiến, sản phẩm này sẽ có mặt trên thị trường vào nửa cuối năm nay. 
+Bộ vi xử lý lõi kép Athlon 64 sẽ hoạt động ở tốc độ 2,4 GHz với công suất tối đa chỉ có 100 W, sử dụng transitor kích thước 90 nm. Sản phẩm được sản xuất tại nhà máy mới của AMD đặt tại Dresden (Đức). 
+Chúng tôi đang trong quá trình sản xuất và sẽ đưa ra thị trường vào khoảng nửa cuối năm nay, Teresa deOnis, Giám đốc quản lý sản phẩm của AMD, cho biết. Khi đó, bộ vi xử lý loại này sẽ có mặt trên từng PC cũng như trong tay các nhà xây dựng và phát triển hệ thống.
+Bộ vi xử lý đa lõi có thể chứa 2 hoặc nhiều CPU trên cùng 1 mảnh silicon. Đây được xem là giải pháp nhằm giảm mức tiêu thụ năng lượng khi máy tính hoạt động ở tốc độ trên 3,5 GHz. Ở mức này, một CPU đơn thuần sẽ có thể ngốn hết công suất 150 W. Nếu sử dụng bộ vi xử lý lõi kép, năng lượng tiêu thụ chỉ tương đương với 1 CPU đơn khi chạy ở tốc độ 3,5 GHz trong khi hiệu quả xử lý lại tăng lên gấp đôi. 
+Đây là động thái mới nhất của AMD trong cuộc đua song mã với Intel hướng đến công nghệ đa lõi. Năm ngoái, cả 2 công ty bắt đầu tung ra thông tin về phiên bản lõi kép của dòng vi xử lý hiện tại. Đầu tháng 2, Intel cho biết sẽ ra mắt chip Pentium loại này vào quý II.
+Đối với bộ vi xử lý dành cho server, AMD cho biết phiên bản lõi kép của Opteron đã sẵn sàng cho việc sản xuất đại trà và sẽ có mặt trên thị trường vào giữa năm nay. Intel thì dự kiến bổ sung loại vi xử lý này cho dòng Pentium trong thời gian tới. Với chip Xeon, phiên bản lõi kép sẽ có mặt trên thị trường đầu năm 2006. 
+

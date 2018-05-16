@@ -1,0 +1,27 @@
+Stephen Fraser: 'iCMS nên trả lại giải thưởng'
+Trả lời phỏng vấn của VnExpress hôm nay, tác giả phần mềm CMS, cho rằng việc nhóm phát triển iCMS khẳng định tự viết 100% phần mềm đoạt giải Trí Tuệ Việt Nam 2003 đã gián tiếp khiến ông mang tiếng là kẻ ăn cắp.
+- Do đâu mà ông biết những thông tin về vụ phần mềm iCMS ở Việt Nam sao chép mã nguồn từ sách của ông? 
+- Từ 2 nguồn. Một là của người tên Duy Nguyen, gửi từ http://www.ttvn.com.vn:8080/mvnforum/mvnforum/viewthread?thread=308 và của một nhân vật xin giấu danh tính.
+- Ông và nhà xuất bản sách Apress sẽ phản ứng như thế nào tới đây đối với nhóm phát triển iCMS của Việt Nam?
+- Ở thời điểm này thì Apress chưa biết vụ việc. Hoặc có thể họ chưa liên hệ với tôi. Cá nhân tôi không tức giận về việc nhóm phát triển ở Việt Nam đã dùng mã của tôi. Tôi bực mình vì 2 điều. Thứ nhất, họ không nhắc gì đến công sức của tôi trong phần mềm đó. Thứ 2, họ đã gián tiếp biến tôi thành kẻ cắp khi tuyên bố 100% mã iCMS là do họ viết, trong khi mã của CMS.NET và iCMS là giống nhau. 
+Vì những lý do này, dù có vẻ hơi ích kỷ, tôi quyết định không cho phép họ bằng văn bản (theo yêu cầu về bản quyền) quyền sử dụng phần mềm nói trên, trừ khi họ đáp ứng 2 điều kiện: một lời xin lỗi chính thức, cái này thì tôi đã nhận được, và trả lại giải thưởng mà họ đã nhận do lời khẳng định giả dối rằng tự viết 100% iCMS. Tôi tin là họ không xứng đáng.
+Tôi cũng cảm thấy mình có quyền cân nhắc đến vấn đề tài chính do bị xâm phạm danh dự, mặc dù có thể chỉ là gián tiếp. Tuy nhiên, hiện nay tôi để việc suy nghĩ về vấn đề này cho những người phát triển iCMS và hy vọng họ cũng sẽ đồng ý rằng tôi hoàn toàn xứng đáng.
+Tôi hy vọng mọi việc sẽ không đi đến mức phải kiện các tác giả iCMS, vì tôi không muốn làm ảnh hưởng tới những ai đang dùng iCMS. Tôi không có ý định bắt ai phải trả tiền cho lỗi lầm của người khác. Tôi cho rằng nhóm phát triển iCMS sẽ hành động vì danh dự và trả lại phần thưởng để nó được trao lại cho người chiến thắng đích thực tại cuộc thi ở Việt Nam, vì thực ra đó là một sản phẩm nửa Canada nửa Việt và bên Canada thì không biết gì về nửa kia.
+- Một công ty ở Việt Nam tuyên bố họ đã mua iCMS với giá xấp xỉ 650.000 USD và có thông tin cho rằng họ đã bán lại cho một số tổ chức khác và thu về 5 triệu USD. Ông nghĩ gì về việc này?
+- Như trên tôi đã nói, hiện tại tôi chưa nghĩ đến một hành động pháp lý nào đối với công ty, mà như tôi biết thì tên là Vinacomm thì phải, trừ khi điều kiện giải thưởng phải được trả lại không được đáp ứng. Tôi hy vọng rằng nhóm phát triển iCMS sẽ bồi thường cho tôi, mặc dù tôi không coi đây là một điều kiện khi để phần mềm của tôi biến thành iCMS. Nếu không còn gì khác để nói thì có lẽ: hãy để những anh hề giúp họ cải thiện chỗ đứng trong làng công nghệ thông tin Việt Nam.
+- Trước đây đã có ai sao chép tác phẩm của ông rồi đem đi thi hoặc thương mại hóa?
+- Có nhưng không hoàn toàn giống như trường hợp này. Tôi từng biết một người khẳng định anh ta mới là người viết CMS.NET. Không may cho nhân vật này là anh ta đã quên thay đổi địa chỉ e-mail liên hệ, do đó tôi lại là người nhận được toàn bộ những câu hỏi về website phần mềm này.
+- Ông đãphát triển CMS.NET như thế nào?
+- Tôi mất 8 tháng để viết cuốn sách và phần mềm CMS.NET. Tôi làm cả 2 việc một cách độc lập. Chính xác thì tôi bắt đầu dự án này vào tháng 7/2001 khi tôi đề xuất nó dưới dạng một chủ đề sách cho Coriolis, hãng phát hành ban đầu. Về sau họ đã rút lui trước khi cuốn sách thực sự ra mắt.
+Tôi chưa bao giờ thương mại hoá CMS.NET. Mặc dù tôi cũng từng có kế hoạch bán một phiên bản mới của CMS.NET dựa trên ASP.NET version 2.0.
+- Ông có lời khuyên gì cho cộng đồng mã mở ở Việt Nam?
+- Đọc cho kỹ phần tham khảo nguồn gốc (fine print). Nếu không thấy thì phải liên hệ với tác giả gốc của mã nguồn để đảm bảo là không có dính líu đến ai. Đừng mong chờ làm giàu trên mã nguồn mở. Ngoài ra, làm mã nguồn mở tức là bạn có thể tung đi công sức mồ hôi của mình và rất dễ cho người khác ăn cắp mã, đồng thời che giấu nguồn gốc của sản phẩm, trừ khi họ mắc sai lầm và để lộ.
+Stephen R.G. Fraser đã làm việc trong lĩnh vực công nghệ thông tin 18 năm nay cho nhiều công ty tư vấn, từ những hãng lớn như EDS và Andersen Consulting (Accenture) cho tới những doanh nghiệp mới thành lập trong lĩnh vực thương mại điện tử và y tế. Kinh nghiệm của ông bao trùm tất cả các mảng ứng dụng, phát triển và quản lý web, từ đề xuất khái niệm cở sở cho tới triển khai, thực hiện. Fraser đang sống ở Thung lũng Silicon với vợ và con gái. Ông là tác giả các cuốn sách:
+- Real World APS.NET: Building a Content Management System (Apress).- Managed C++ and .NET Development (Apress).- Pro Managed C++ and .NET Version 2.0 Development (Apress) forthcoming. 
+và các website:http://www.contentmgr.com/ http://www.managedcpp.net/ 
+Các bài viết về iCMS(03/12/2004)
+iCMS thừa nhận đã qua mặt BTC TTVN 2003(07/12/2004)
+iCMS xin lỗi giới CNTT và tác giả CMS.NET(03/12/2004)
+'Không có code của tôi, iCMS không thể chạy'(02/12/2004)
+iCMS thừa nhận copy mã nguồn nước ngoài(02/12/2004)
+

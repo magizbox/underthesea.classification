@@ -1,0 +1,6 @@
+Cấu hình cho modem ADSL zoom 5X (1)
+Tôi khi tôi thực hiện cấu hình cho modem zoom X5, test lại để kiểm tra thì thấy báo FAIL ở hai dòng: ATM OAM Segmen Loop Back và ATM OAM End to End Loop Back. Mặc dù tôi đặt hai tham số vci và vpi đúng theo hướng dẫn của nhà cung cấp dịch vụ là 0/32( tôi ở Quảng Ninh). Và trên thực tế tôi vẫn có thể vào Internet được bình thường. Lỗi này thực sự tôi không hiểu vì nguyên nhân gì? Rất mong nhận được sự giúp đỡ sớm nhất của các bạn. Chân thành cảm ơn!
+Nguyen Quoc Cuong
+Hồi âm:
+"ATM OAM Segment Loop Back" và "ATM OAM End to End Loop Back" là 2 thông số kiểm tra kết nối DSL do nhà sản xuất (cụ thể là Zoom) thiết lập. Để thực hiện 2 dòng kiểm tra này, đòi hỏi nhà cung cấp dịch vụ (cụ thể là ISP ở Việt Nam mà bạn đăng ký sử dụng ADSL) cho phép các thông số kiểm tra đó "đi qua". Do đó, nếu 2 dòng này có báo Failed thì đó là do ISP không hỗ trợ kiểu kiểm tra này của nhà sản xuất thiết bị. Tuy nhiên, Modem vẫn họat động bình thường. Không có bất kỳ trở ngại nào trong việc sử dụng modem này khi 2 dòng kiểm tra đó báo Failed cả.   Modem ADSL Zoom 4X mà tôi đang sử dụng cũng có thông báo lỗi tương tự. Thân chào.
+

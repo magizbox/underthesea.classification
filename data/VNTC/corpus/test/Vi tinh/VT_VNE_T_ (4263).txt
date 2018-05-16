@@ -1,0 +1,6 @@
+Chip nhớ '10 trong 1' đầu tiên trên thế giới
+Bộ chip đa thành phần (MCP - Multi Chip Package) mà hãng Samsung mới công bố được hình thành từ hai chip nhớ dạng NAND flash 4 GB, bốn thanh RAM 512 MB và bốn chip nhớ NOR flash 256 MB, tạo nên tổng công suất xấp xỉ 11 GB.
+Việc liên kết các chip thành phần trong sản phẩm nói trên của Samsung được áp dụng dựa theo ứng dụng chuyên biệt của chúng, với mục đích chính là tăng cường hiệu suất cho điện thoại di động và các thiết bị cá nhân di động.
+Chip nhớ dạng MCP đang trở thành yếu tố then chốt trong điện thoại di động, đem lại công suất hoạt động cao và giúp thu nhỏ kích thước thiết bị. Hãng khảo sát thị trường iSuppli (Mỹ) dự báo doanh số thị trường MCP toàn cầu sẽ tăng từ 4,9 tỷ USD năm nay lên 7,6 tỷ USD năm 2008.
+Tuần trước, Samsung - nhà sản xuất DRAM lớn nhất thế giới - cũng đã công bố chip nhớ NAND flash 16 Gb đầu tiên trên thế giới, hứa hẹn tạo ra một cuộc cách mạng về lưu trữ dữ liệu.
+

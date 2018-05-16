@@ -1,0 +1,9 @@
+Ổ cứng cho notebook đạt tới 160 GB 
+Sản phẩm Momentus 5400.3 mà Seagate lập kế hoạch sản xuất sẽ là loại ổ cứng 2,5 inch đầu tiên dùng cho máy tính xách tay sử dụng công nghệ ghi trực giao (perpendicular) cho phép tăng 25% dung lượng so với các ổ cứng cùng loại hiện nay. 
+Hôm qua, Seagate cũng cho biết sẽ xuất xưởng nhiều loại ổ khác nhau. Ổ Momentus FDE với khả năng mã hoá toàn bộ không cho phép bất kỳ tập tin hay thư mục nào hiện lên sẽ được tung ra thị trường vào cuối năm nay. Còn vào mùa hè này họ sẽ bán hai loại ổ cứng 500 GB. Loại thứ nhất là series DB35 được thiết kế cho DVR và các hệ thống giải trí gia đình, có thể lưu trữ 500 giờ trình chiếu trên truyền hình, tương đương với 85 giờ chiếu HDTV và chạy đồng thời được 10 kênh. Loại thứ hai là 7200.9 với giao diện SATA có tốc độ 3 Gb/giây và cache 16 MB. 
+Cũng vào mùa hè này họ sẽ xuất xưởng ổ cứng ngoài xách tay dung lượng 120 GB với giao diện FireWire, còn ổ cứng ngoài 500 GB được thiết kế để dùng trên xe ôtô sẽ được tung ra vào cuối năm, mang số hiệu EE25. Seagate cũng đã bán ra hai sản phẩm mới là series ST1 8 GB kích thước 1 inch dành cho thiết bị cầm tay và series LD25 dành cho máy chơi game. 
+Kỹ thuật ghi trực giao sẽ thay thế phương pháp lưu trữ theo chiều dọc vẫn được dùng trong lĩnh vực ổ cứng từ trước đến nay. Cách lưu trữ theo chiều dọc là đặt các bit dữ liệu song song với bề mặt của đĩa còn phương pháp lưu trữ vuông góc là đặt các bit này theo chiều thẳng đứng và do đó cho phép nén nhiều dữ liệu hơn trên đĩa. 
+Công nghệ ghi đĩa cũ.
+Kỹ thuật ghi trực giao.
+Các quan chức của Seagate cho rằng toàn bộ ngành chế tạo ổ cứng sẽ cần đến một thời kỳ "quá độ" để bước sang công nghệ mới này. Hồi tháng 4/2005, hãng Hitachi cũng thông báo họ đang tiến hành thử nghiệm công nghệ lưu trữ vuông góc với ổTravelstar và hy vọng sẽ xuất xưởng dòng ổ cứng mới vào cuối năm nay. Toshiba và Fujitsu cũng đã lập kế hoạch sản xuất ổ cứng theo tiêu chuẩn mới. 
+

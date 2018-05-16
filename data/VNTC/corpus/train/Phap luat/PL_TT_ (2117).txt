@@ -1,0 +1,13 @@
+ Khởi tố tài xế gây tai nạn thảm khốc ở Đồng Nai
+Thời tiết Tỉ giá ngoại tệ Giá vàng Xổ số kiến thiết Chứng khoán Truyền hình 
+--> 
+function onResponseClick()
+{showDialog('http://www3.tuoitre.com.vn/Tianyon/MailTo.aspx?ArticleID=' + GetPostVariable("ArticleID", null), 350, 420)
+}Pháp Luật 
+getTimeString('2006/04/14 02:12:00'); Khởi tố tài xế gây tai nạn thảm khốc ở Đồng Nai 
+Xác định danh tánh nạn nhân thứ 6 
+TT - Ngày 13-4, nguồn tin của Tuổi Trẻ cho biết cơ quan điều tra Công an tỉnh Đồng Nai đã ra quyết định khởi tố bị can đối với Phạm Khắc Ngữ (34 tuổi, ngụ tại 497/2 Gia Tân 2, Thống Nhất, Đồng Nai) về hành vi “vi phạm các qui định về an toàn giao thông gây hậu quả nghiêm trọng”. 
+&gt;&gt; Đã xác định được tài xế lái xe gây tai nạn ở Đồng Nai &gt;&gt; Tai nạn thảm khốc tại Đồng Nai: 9 người chết, 16 người bị thương &gt;&gt; Khởi tố vụ tai nạn thảm khốc tại Đồng Nai 
+Ngữ chính là tài xế xe Ford Transit biển số 53M-7727 đã gây ra vụ tai nạn thảm khốc ngày 5-4, làm chết tám người, bị thương 22 người. Do bị thương nặng nên cơ quan điều tra cho Ngữ được tại ngoại và hiện vẫn còn điều trị tại Bệnh viện Đa khoa Đồng Nai. 
+Đến chiều hôm qua, cơ quan điều tra cũng đã xác định được danh tánh của nạn nhân thứ sáu là Tằng Thị Mỹ Diễm (sinh 1981, ngụ khu phố 2, ấp 1, xã Phú Vinh, Định Quán, Đồng Nai). Người nhà của nạn nhân cho biết chị Diễm đón xe đi TP.HCM chữa bệnh thì bị nạn. 
+

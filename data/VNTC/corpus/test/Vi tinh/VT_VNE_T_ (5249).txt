@@ -1,0 +1,7 @@
+Lỗi lặp chữ (1)
+Khi tôi gõ trong Excel thì có hiện tượng lặp chữ ví dụ như chữ "đăng" thì nó ra "đaăng" (lúc tôi đánh dấu cho chữ a thì nó thêm một chữ "a" và chữ "ă"). Thỉnh thoảng nó lại xuất hiện chứ không phải lúc nào cũng vậy. Trong Word thì tôi không gặp trường hợp đó.
+Nguyen Mai Dang
+Hồi âm:
+Trường hợp của bạn có thể được khắc phục dễ dàng như sau:
+Nhấn chuột vào Menu Tools -- Options... -- chọn thẻ Edit -- bỏ chọn Enable AutoComplete for cell values.
+

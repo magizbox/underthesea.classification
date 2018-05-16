@@ -1,0 +1,7 @@
+Chip Cell tìm đối tác đầu tiên ngoài lĩnh vực game
+Siêu chip do nhóm kỹ sư của IBM, Sony và Toshiba phát triển dành cho thiết bị game, chính thức công bố hồi tháng 2, đã vừa được chấp thuận để tích hợp trong máy tính quân sự và y tế. 
+Thiết bị xử lý Cell đáng chú ý vì nó gồm 8 lõi riêng biệt, mang lại khả năng vận hành tối đa cho máy tính. Cell cho phép PC hoạt động với xung nhịp nhanh hơn 4 GHz và có thể thực hiện 256 tỷ phép tính mỗi giây (256 Gigaflop).
+Cell sẽ được sử dụng trong tất cả các thiết bị chơi game thế hệ mới, trong đó có PlayStation 3 vào năm tới. Ngày hôm qua, IBM khẳng định sản phẩm cũng sẽ xuất hiện trong dòng PC chuyên dụng của hãng máy tính Mercury (Mỹ). 
+Mercury là hãng chuyên về ứng dụng hình ảnh và xử lý tín hiệu. Hệ thống PC của hãng thường được dùng trong quân đội để quan sát, do thám, và thu thập tín hiệu tình báo. Ngoài ra, hãng cung cấp PC cho y học để chuẩn đoán bệnh và quan sát hình ảnh, cũng như hệ thống máy tính trong sản xuất bán dẫn. Theo thỏa thuận, Mercury và IBM sẽ cùng phát triển sản phẩm với yêu cầu mạnh về xử lý đồ họa để phù hợp với chip Cell.
+Toshiba cũng dự định tích hợp sản phẩm trong TV chất lượng cao (HD), trong khi Sony tuyên bố sẽ sử dụng chip này cho dòng thiết bị gia dụng với khả năng truyền đa luồng dữ liệu số vào năm 2007.
+

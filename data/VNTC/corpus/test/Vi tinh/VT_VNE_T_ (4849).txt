@@ -1,0 +1,6 @@
+Máy tính xách tay kêu píp khi khởi động (1)
+Máy laptop của tôi đang hoạt động bình thường với WinXP, cách đây khoảng 10 ngày tự dưng khởi động phát ra tiếng bíp dài khoảng 1 phút rồi vào màn hình chọn các chế độ boot. Tôi chọn normall boot thì mới vào hệ điều hành. Vào kiểm tra device manager thì thấy không nhận card màn hình (mặc dù vẫn thấy màn hình bình thường), tôi đã install lại, nhưng khi restart vẫn bị tình trạng kêu bíp như cũ. Xin các anh chị giúp tôi về vấn đề này, rất cám ơn!
+binbin
+Hồi âm:
+Khi khởi động có tiếng bip dài như vậy là lổi của Graphic card, tuy là màn hình vẩn thấy bình thường nhưng có thể do lổi Driver, bạn thử tìm lại CD driver cho card màn hình trong laptop đó coi thế nào, nếu sau khi cài lại driver mà vẫn còn bip thì nên mang ra tiệm cho thợ coi lại. Vì Laptop là card màn hình dính liền với mainboard nên bạn không thể tự tháo ra và thay cái khác mà phải nhờ tới thợ chuyên môn. 
+

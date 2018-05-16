@@ -1,0 +1,11 @@
+Không truy cập được vào folder (1)
+Trước đây, tôi có cài đặt cấu hình giới hạn cho user khi truy cập vào 1 thư mục có tính riêng tư của tôi. Nhưng sau khi tôi cài đặt cấu hình rồi thì ngay cả bản thân tôi cũng không thể truy cập vào (tài khoản Admin). Sau đó tôi có dùng ghost và chương trình Norton Ghost va Backup của Windows nhưng đều không được. Tôi cũng đã thử gắn ổ cứng này vào 1 máy khác để cài đặt lại quyền truy cập nhưng cũng không được và trên máy đó tôi cũng không thể copy hay truy cập những dữ liệu đó được. Tôi đang sử dụng hệ điều hành Windows XP Pro. Và ổ đĩa được định dạng theo NTFS. Rất mong sự giúp đỡ của mọi người!
+Hoàng Minh Dũng
+Hồi âm:
+Bạn log on vào máy tính đó với một tài khoản có quyền admin rồi làm như sau:   
+1. Bấm chuột phải vào thư mục đó chọn "Sharing and Security" 
+2. Tab "Securtiy", chọn nút "Advanced" 
+3. tab "Owner", chọn trong danh sách "Administrators" hoặc tên account mà hiện thời bạn đang truy cập vào, chọn nút "Replace owner on subcontainers and objects" 
+4. Nhấn OK rồi đợi đến khi quá trình chuyển đổi này xong.   
+Bạn cần tìm hiểu thêm về NTFS và cách phần chia quyền v.v. trước khi thực hiện việc hạn chế truy cập.
+

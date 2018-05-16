@@ -1,0 +1,9 @@
+Virus lại mượn danh bản tin an ninh của Microsoft 
+Cuối ngày 28/7, một đợt tấn công spam mới của Trojan lại xuất hiện, giả dạng chương trình vá lỗi của Microsoft, kèm theo liên kết tải phần mềm nguy hiểm, tạo cơ hội cho kẻ tấn công tiếp cận và thâm nhập máy tính.
+Thư rác này tự nhận là Bản tin an ninh MS05-39 của Microsoft và đưa ra đường dẫn yêu cầu người dùng cài phần mềm vá lỗ hổng liên quan đến sâu Sober Zafi và Mytob.
+Thực tế, Microsoft chưa bao giờ ra mắt bản tin MS05-039, và hãng cũng chỉ cung cấp đường link tới thẳng trang tải phần mềm của mình, hơn là tự đưa ra chương trình sửa lỗi trực tiếp.
+Theo bản báo cáo mới đây của hãng tìm kiếm bảo mật WebSense, bản vá lỗi giả danh này thực chất là một biến thể của Trojan SDBot, trước đó vẫn chưa có phần mềm diệt virus nào tìm ra.
+Nguy cơ lây lan của Trojan SDBot không cao do máy chủ hỗ trợ việc tải chương trình dường như không còn hoạt động. Server này thuê host của dịch vụ Internet ThePlanet.comđã vượt quá dung lượng được phép.
+"Trường hợp cụ thể này không phải là một vấn đề lớn, tuy nhiên, đây là một sự kiện khá thú vị", hãng F-Secure cho biết. "Không có gì phải ngạc nhiên khi sẽ còn nhiều vụ như thế này xuất hiện trong thời gian tới".
+Sâu Swen, xuất hiện năm 2003, cũng đã sử dụng thủ thuật tương tự.
+

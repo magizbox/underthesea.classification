@@ -1,0 +1,5 @@
+ 90% thư điện tử đang lưu hành là thư rác
+Công ty FrontBridge đã yêu cầu các quản trị mạng thư điện tử và các công ty dịch vụ bảo an trên internet lọc lại dữ liệu của mình để cung cấp các dữ kiện cho FronBridge nhằm chống lại dòng thác thư rác hiện nay. Công ty cho biết những đợt lũ spam đã được “nắn dòng chảy” sao cho trở về nơi xuất phát của chúng. 
+Virus cũng là cũng là một đợt triều cường mới. FrontBridge cũng đã ngăn chặn được khoảng 34 triệu thư điện tử có đính kèm virus trong tháng 08/2004. 
+FrontBridge hiện có khoảng 2.200 khách hàng trên toàn cầu cùng khoảng 15.000 đơn vị máy chủ quản trị thư điện tử. 
+

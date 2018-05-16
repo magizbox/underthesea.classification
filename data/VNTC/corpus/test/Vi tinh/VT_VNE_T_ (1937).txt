@@ -1,0 +1,6 @@
+Tắt chế độ check disk (1)
+Cho em hoi: o D cua em khi khoi dong bao gio cung doi check disk, rat kho chiu, mac du em da tat het cac che do schedule roi ma van khong duoc. Co cach nao khac phuc duoc khong? 
+Nguyen Van Dung
+Hồi âm:
+Để tắt Check disk thì không khó. Nhưng theo mặc định, Windows chỉ check khi nghi ngờ đĩa bị lỗi, hoặc có sự thay lớn về các files khởi động. Vì vậy không nên Disable nó đi, thậm chí còn phải kích hoạt các chế độ tự bảo vệ đĩa khác nữa! Tôi nghĩ vấn đề của bạn khá đơn giản. Ổ đĩa của bạn bị lỗi do một nguyên nhân nào đó, ví dụ như mất điện đột xuất... Khi khởi động, Win tự check và fix nếu có lỗi. Nhưng có lẽ bạn quá "sốt ruột", nên đã nhấn một phím bất kì để thoát. Như vậy lỗi chưa được sửa, và Win lại làm khi khởi động. Vì thế, mỗi lần nó làm việc đó, bạn cứ kệ cho nó làm (nó có bắt bạn phải làm đâu!). Sau khi sửa xong, máy tự khởi động lại là ngon thôi. Còn nếu vẫn bị, phần nhiều do HDD của bạn bị hỏng. Hãy liên hệ với nơi bán hàng để được giải quyết. Chào!
+

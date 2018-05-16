@@ -1,0 +1,6 @@
+Hỏi về chip và Internet Explorer 6.0 (1)
+Cho em được hỏi cách tính tốc độ Chip Centrino so với Chip Pentium thế nào? Ví dụ như máy của em là Centrino 1,5 Ghz thì tương đương với Chip bao nhiêu của Pentium? Mọi người có thể nói giùm em 1 chút về Chip Centrino? Em còn gặp một chút vấn đề với Internet Explorer 6.0 : Khi em vào một địa chỉ mà địa chỉ đấy không có (tức là em đánh sai địa chỉ) máy không tự động tìm kiếm bằng MSN mà hiện ra dòng chữ http:///?%20ifolah.com ở thanh Addresse. Liệu có phải máy của em bị nhiễm Virus gì không? Nếu đúng thì cách sửa chữa thế nào? Em xin chân thành cám ơn. 
+Phạm Thanh An
+Hồi âm:
+Chip Centrino khác chip P4 về mặt cấu trúc và nhìn chung rất khó so sánh với nhau. Đúng ra thì Centrino là phiên bản nâng cấp của Pentium 4 Mobile với công thưc sau: Centrino = Pentium-M + Intel 855 chipset + Intel 802.11b. Điểm khác biệt lớn nhất, và cũng là điểm khiến Centrino rất mạnh là loại chip này có tới 1MB bộ nhớ thứ cấp - còn gọi là L2 Cache - (gấp đôi của Pentium 4 Mobile). Nếu so sánh thì Centrio 1.5Ghz sẽ có hiệu suất đâu đó ở giữa P4 Mobile 2.0Ghz và P4 Mobile 2.2Ghz (nếu đem so sánh với P4 dành cho máy để bàn thì rất khấp khiễng). Về chuyện IE6.0, máy của bạn như vậy là bị nhiễm spyware rồi. Hãy dùng phần mềm Spybot Search  Destroy hoặc Ad-Aware 6.0để quét.
+

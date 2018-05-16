@@ -1,0 +1,11 @@
+Nguy cơ Sober.Q tuyên truyền cho phe phát xít
+Biến thể mới nhất của sâu Sober này, xuất hiện chủ yếu bằng tiếng Đức và tiếng Anh, sẽ được các máy tính đã bị lây nhiễm Sober.P tự động tải về để tiếp tục quá trình tán phát.
+Hầu hết thông điệp nhiễm virus đều có đường link tới những trang web "sặc mùi tuyên truyền cho phe cực hữu", theo lời Vincent Gullotto, Phó giám đốc Đội phản ứng nhanh của hãng McAfee. 
+Thông điệp chủ yếu có nội dung như: "60 năm tự do: Ai sẽ ăn mừng?" ám chỉ sự kết thúc cuộc chiến tranh thế giới thứ II; "Hành động danh dự" bao gồm một liên kết tới trang web NDP - đảng cực hữu của Đức; hoặc "Trận đánh bom Dresen sẽ sớm gây hối tiếc", ý nói về cuộc tấn công của quân đồng minh vào thành phố này của Đức trong thế chiến II. Một số thông điệp khác cảnh cáo các nhóm Mafia thiểu số hay các du học sinh ngày càng tăng trong trường học của Đức.
+Sâu Sober.Q (theo cách gọi của McAfee) là biến thể thứ 16 của họ Sober bắt đầu xuất hiện trên mạng vào tháng 10/2003. Khác với những "anh em" của nó trước đó, phiên bản này không đính kèm qua e-mail mà được phân tán qua một website tự động nâng cấp biến thể sâu mới cho các máy tính đã bị nhiễm virus.
+'Sober.N được viết vì mục đích kiếm tiền'(11/05/2005)
+Sâu Sober mượn danh World Cup(04/05/2005)
+Sâu Sober trở lại(20/04/2005)
+Virus Sober trở lại(20/11/2004)
+Xuất hiện biến thể Sober.F(06/04/2004)
+

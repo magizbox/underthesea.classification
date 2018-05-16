@@ -1,0 +1,8 @@
+Cách config 2 card mạng trên Win Server 2003 (2)
+Xin cho hỏi về cách config 2 card mạng trên Win server 2003 như thế nào vậy? Phòng máy của mình có 17 máy client thôi, nhưng mình muốn gắn thêm 1 card mạng nữa để cho mạng chạy nhanh hơn 1 chút. Mong các bạn chỉ giúp mình nhé. Xin cảm ơn nhiều. 
+Duy Nam
+Hồi âm:
+Toi khong nghi la neu ban co 2 card mang tren Win Server 2003 thi se lam cho mang chay nhanh hon nhieu lam dau. Truong hop su dung 2 NIC la chi de cho multi-home network. Trong truong hop nay ta dat cho moi NIC mot dia chi IP rieng re va tat ca ca may noi mang se thay nhau nhung khong the chia xe files tu "home" nay sang "home" khac duoc.
+Bui Hung
+Ban muon gan 2 card mang de muon lam cho mang nhanh hon ????ban co nghe noi la : co 1 bat nuoc day. Sau do de them 1 bat nuoc nua o ben canh thi co the bien cai bat nuoc kia co ngon khong ???? Neu ban muon mac them 1 card mang nua de chia se mang cho may khac thi duoc. Neu chi de cho mang nhanh hon thi cai nay khong can lap them vao. Chuc vui.
+

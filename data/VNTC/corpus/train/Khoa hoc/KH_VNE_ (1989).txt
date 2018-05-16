@@ -1,0 +1,9 @@
+Máy đo hào hứng
+Các nhà khoa học Mỹ đang phát triển một "sensor cảm xúc", có thể đo và báo cho biết cuộc nói chuyện của bạn có làm người nghe phát ngán hay không.
+Thiết bị được các chuyên gia của Viện Công nghệ Massachusetts phát triển nhằm giúp những người mắc chứng tự kỷ - những người thường ít có kinh nghiệm trong việc giao tiếp với cộng đồng - cải thiện khả năng nói chuyện của mình. 
+Hệ thống bao gồm một chiếc camera gắn trên kính mắt được nối với một máy tính cầm tay, có nhiệm vụ "đọc" các phản ứng cảm xúc của người nghe. Thiết bị sử dụng phần mềm nhận dạng ảnh và phần mềm đọc cảm xúc để giải mã các bức ảnh này (thông qua các cử động của lông mày, môi mũi hay cái lắc, gật, nghiêng đầu). 
+Nếu người đeo kính có vẻ không hấp dẫn trong mắt người nghe, phần mềm sẽ kích hoạt máy tính trong tay anh ta rung lên.
+Nghiên cứu trước kia của nhóm chuyên gia đã chứng tỏ rằng thiết bị có thể phát hiện được ai đó đang đồng ý, phật ý, tập trung, suy tư, không chắc chắn hay đang chăm chú chỉ qua thước phim vài giây.
+Trong thử nghiệm với 100 đoạn phim thể hiện những trạng thái tình cảm của các diễn viên, thiết bị đã nói đúng cảm xúc người nghe đến 90% các trường hợp. Thử nghiệm với cộng đồng cho kết quả đúng là 64%. 
+Nhóm nghiên cứu chuẩn bị thực hiện các test đầu tiên cho việc sử dụng hàng ngày của những người tình nguyện, một số trong họ bị tự kỷ. 
+

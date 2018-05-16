@@ -1,0 +1,9 @@
+Thêm đường, thêm ùn tắc giao thông 
+Việc đi lại trong thành phố sẽ thông suốt nhất khi chỉ có một số giới hạn đường dẫn đến trung tâm. Phát hiện khác thường này có thể cho phép các nhà quản lý giảm thiểu nạn kẹt xe bằng cách đóng cửa một số tuyến, thay vì mở thêm đường mới. 
+Giải pháp được đưa ra bởi Neil Johnson, Douglas Ashton và Timothy Jarrett, thuộc Đại học Oxford, Anh. Các nhà nghiên cứu bắt đầu từ một mạng lưới giao thông thành phố chỉ gồm một đường vành đai, và một số đường nhánh toả ra từ trung tâm. 
+Sau đó, họ tính xem thời gian trung bình cho mỗi lộ trình thay đổi như thế nào khi số đường tăng lên. Mô hình cho thấy trong trường hợp không có ùn tắc ở trung tâm, thời gian trung bình rút ngắn lại khi số đường tăng lên. 
+Nhưng thay đổi xảy ra khi các nhà nghiên cứu sửa mô hình để kéo dài thời gian của bất kỳ tuyến nào đi qua trung tâm. Với một số ít đường, lộ trình lúc đầu sẽ nhanh dần lên khi các đường mới được bổ sung vào mạng lưới. Nhưng vượt quá một số lượng nhất định, các đường mới bổ sung lại làm chuyến đi mất thời gian thêm, thay vì rút ngắn. 
+Các nhà nghiên cứu cho biết hiệu ứng trên đã được quan sát thấy ở nhiều thành phố, nơi mà những đường tắt làm giao thông phát sinh thêm, và do đó làm tăng sự tắc nghẽn. Nhưng đây là nỗ lực đầu tiên mô hình hoá hiệu ứng này bằng toán học. 
+Việc phân tích chi phí đi kèm với giao thông trong thành phố có thể giúp giải quyết một bí ẩn lâu nay trong sinh học: tại sao một số mạng lưới tự nhiên lại tập trung hoá giống như các thành phố, trong khi các mạng lưới khác lại phân tán giống như Internet. 
+"Các sinh vật, như nấm chẳng hạn, đã tiến hoá một mạng lưới phức tạp mà ở đó có cả những kênh dẫn tập trung và phi tập trung hoá, nhằm vận chuyển chất dinh dưỡng đi khắp nơi", Johnson nói. "Giờ đây chúng ta có thể xem xét những hệ thống sinh học này về mặt "chi phí" và "lợi ích" của những mối quan hệ thay vì chỉ xem xét trong cấu trúc lý tính của chúng". 
+

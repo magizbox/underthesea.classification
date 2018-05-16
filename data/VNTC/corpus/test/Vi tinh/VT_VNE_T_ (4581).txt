@@ -1,0 +1,6 @@
+Acer thiết kế laptop kèm điện thoại VoIP
+Hãng máy tính Mỹ đã phát triển thành công một hệ thống được trang bị điện thoại tích hợp giao thức VoIP không dây có kích cỡ bằng một thẻ PC.
+Trên thực tế, chiếc điện thoại này là một thẻ Bluetooth được gắn loa, cho phép người sử dụng có thể tạo cuộc gọi qua Internet. 
+Mẫu sản phẩm được trưng bày trong Diễn đàn các nhà phát triển Intel tại Đài Bắc tuần này nhằm chứng minh khả năng của nền tảng di động mới nhất do Intel thiết kế, dựa trên thiết bị xử lý lõi kép Yonah.
+Các quan chức của hãng sản xuất chip cho biết máy tính xách tay này sẽ có mặt trên thị trường cùng thời điểm Intel công bố Yonah đầu năm tới. Acer chưa tiết lộ thông số kỹ thuật của sản phẩm.
+

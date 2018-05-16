@@ -1,0 +1,9 @@
+ Phạt tác giả virus Xrobots 10 triệu đồng Phòng Công nghệ Thông tin (Bộ Bưu chính Viễn thông) đã chuyển quyết định xử phạt hành chính với mức phạt 10 triệu đồng đối với Bùi Hải L. (hiện là học sinh lớp 12), trú tại Hải Phòng - người đã tung virus “Xrobots” lên mạng Internet để lây nhiễm qua chương trình chat Yahoo Messenger. 
+Kết quả điều tra cho thấy, khoảng 18h ngày 9-4, trên mạng Internet Việt Nam xuất hiện một chương trình virus tin học mới lan truyền rất nhanh. Qua điều tra đã xác định đây là chương trình virus tin học truyền thông qua hệ thống yahoo messenger. 
+Virus này được tung lên mạng vào khoảng 15h ngày 9-4, thông qua trang web http://xrobots.net. 
+Trong 2 ngày 9 và 10-4, virus này đã nhanh chóng lây truyền qua mạng Internet khiến khoảng 10.000 máy tính bị nhiễm. 
+Ngày 11-4, CQĐT đã phát hiện đối tượng và triệu tập Bùi Hải N. (đang là sinh viên năm thứ hai của một trường ĐH ở Hà Nội) là người viết phiên bản chương trình xRobot với mục đích tung lên mạng để học tập, nghiên cứu. 
+Bùi Hải N. khai nhận, khoảng đầu tháng 4-2006, N. đưa chương trình này cho em trai là Bùi Hải L. để copy lại chương trình, nhưng L. đã tung ngay lên mạng. 
+Sau khi sự việc xảy ra, N. đã chủ động khắc phục và xin lỗi người sử dụng Internet, còn trang web http://xrobots.net đã bị cấm cùng lúc Trung tâm An ninh mạng (BKIS) đã cung cấp chương trình diệt virus này cho số máy tính bị nhiễm virus. 
+Tại CQĐT "tác giả" cho biết việc phát tán các link có virus lần này cũng chỉ là một trong nhiều thí nghiệm từng làm. Tuy nhiên, bản thân đã không lường trước mức độ lây lan khủng khiếp của Gaixinh. "Tác giả" virus cũng khẳng định, hiện tại đã phong tỏa toàn bộ hệ thống của mình và bày tỏ nguyện vọng nhờ vào những kinh nghiệm nhất định của mình có thể giúp đỡ những nạn nhân thông qua... e-mail. 
+

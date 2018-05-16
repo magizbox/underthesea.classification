@@ -1,0 +1,10 @@
+ Microsoft phát hành Internet Explorer 7 Pre-Beta 2
+Hai cải tiến đáng kể nhất trong Internet Explorer 7 là giao diện duyệt web dạng thẻ và độ bảo mật được cải thiện khá cao. 
+Mặc dù phiên bản thử nghiệm Beta 2 chính thức chưa được công bố, nhưng Microsoft luôn đánh giá cao các phiên bản “tiền” thử nghiệm để bổ sung và hoàn thiện sản phẩm của mình. 
+Một bổ sung đáng lưu ý là sự kết hợp của Windows RSS cung cấp một cấu trúc để tải, lưu trữ và truy cập đến các tin RSS. Ví dụ như người dùng có thể đăng ký một tin trong một ứng dụng và dữ liệu của tin này sẽ sẵn sàng cho bất kỳ ứng dụng nào khác. 
+Những tính năng bảo mật như quản lý ActiveX mặc định sẽ bị khóa và bộ lọc phishing giữ cho việc lướt web an toàn hơn khi ngày càng có nhiều nguy hiểm đe dọa người dùng khi truy cập Internet. IE7 cũng sẽ khóa chặt các mã độc hại cũng như tên miền quốc tế để ngăn chặn việc tấn công với các mã hiểm độc. 
+Mặt khác, Microsoft cũng giới thiệu Internet Explorer 7 với một khung tìm kiếm sẽ cho phép người dùng có thể tìm kiếm nhanh với những truy vấn đến các công cụ tìm kiếm mà người dùng chọn lựa và một “Favorites Center” tổng hợp các liên kết đánh dấu, nhóm thẻ, lịch truy cập, và tin RSS trên một thanh đơn. 
+Tính năng phóng to thu nhỏ trang cũng được bổ sung vào IE7, khi trang được phóng lớn thì hình ảnh cũng như chữ trong trang cũng được phóng to theo. IE7 cũng có hỗ trợ khả năng rút lại kích thước trang để in ấn với một tùy chọn in cho đoạn văn bản được chọn lựa. 
+Khả năng hỗ trợ nhiều trang chủ mặc định cũng được tích hợp thông qua việc sử dụng nhiều thẻ. Ngoài những tính năng được bổ sung trước đây như cải thiện hỗ trợ CSS, PNG, XMLHTTP (ứng dụng web dựa trên AJAX, không cần đến ActiveX) để cạnh tranh với các đối thủ lớn như FireFox. 
+Internet Explorer 7 Beta 2 Preview chỉ tương thích với Windows XP Service Pack 2. Thông tin về IE7 có thể tham khảo tại đây hay tải về tại đây . 
+

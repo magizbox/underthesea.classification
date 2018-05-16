@@ -1,0 +1,7 @@
+ Dell giới thiệu ba mẫu máy tính xách tay mới tại VN
+Nổi bật trong ba sản phẩm mới là Latitude D410, với trọng lượng chưa đến 1,75 kg cùng khả năng hoạt động cả ngày chỉ với một lần sạc duy nhất khi sử dụng bộ pin cao cấp tùy chọn. Công nghệ và các cải tiến mới được tích hợp trong ba máy tính xách tay này có thể kể đến: 
+Hỗ trợ bộ xử lý Intel® Pentium® M mới có tốc độ lên tới 2,13GHz (4), tốc độ FSB 533MHz và 2MB bộ nhớ đệm L2; Bàn phím chắc chắn và kín nước đem lại cảm giác thoải mái khi sử dụng; khớp nối giữa thân máy và màn hình chắc chắn, có tuổi thọ đóng / mở là 20.000 lần (theo thử nghiệm của Dell); 
+Công nghệ bảo mật TPM (Trusted Platform Module) và đầu đọc thẻ thông minh tích hợp sẵn bảo toàn quyền truy cập vào hệ thống dữ liệu và tài nguyên mạng; 
+Những sản phẩm này được trang bị hai công nghệ bảo mật tiêu chuẩn là đầu đọc thẻ thông minh và TPM 1.1 (Trusted Platform Module). Thẻ thông minh (smart card) với sự kết hợp cả định danh bằng mật mã và vật lý là giải pháp định danh kép hiệu quả nhất về mặt kinh tế bảo toàn quyền của người dùng khi truy cập vào dữ liệu và hệ thống. 
+Thông tin cụ thể về các sản phẩm hiện có tại www.dell.com/security . Thông tin thêm về sản phẩm tại Việt Nam có thể liên hệ công ty ITECH JSC, Công ty Máy tính Lạc Việt hoặc Công ty Tecapro. 
+

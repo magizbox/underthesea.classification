@@ -1,0 +1,5 @@
+ 14 tuổi tìm ra lỗi trong Gmail
+Anthony, một lập trình viên 14 tuổi đã phát hiện ra lỗi có thể khai thác vận hành đoạn mã Javascript khi cậu bé này gởi một dòng mã javascript từ email Yahoo đến một tài khoản Gmail và thật đáng ngạc nhiên là khi mở email này ra thì Gmail cũng đồng thời vận hành nó. Theo như Anthony cho biết thì các hacker có thể lợi dụng lỗi bảo mật này để ăn cắp những tài khoản Gmail hay làm nguy hại đến các tài khoản này. 
+Sau khi thông tin được gởi lên, Google đã rất nhanh chóng thử nghiệm và sửa chữa ngay lỗi này chỉ trong vòng 24 giờ. Tuy có thể sửa chữa nhanh chóng, nhưng chúng ta có thể nghĩ đến việc một nhóm những cracker chuyên bẻ khóa và có khả năng lập trình cao kết hợp với nhau để tấn công những “gã khổng lồ” như Google và khai thác những dịch vụ email mà các “đại gia” này cung cấp thì sẽ nguy hiểm đến mức nào. 
+Thông tin về lỗi này có thể tham khảo tại blog của Anthony hay phần phản hồi của Google tại đây . 
+

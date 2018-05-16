@@ -1,0 +1,10 @@
+Mất sound card (2)
+Em hiện giờ đang có một vấn đề về PC của mình, quả thực là rất bực mình. Em bị mất sound card và em cũng đã tìm đủ mọi cách để download từ Internet về. Nhưng thật sự là không thể setup được.Em không biết phải làm sao nữa, kính mong anh chị giúp đỡ. Sound card YMS719-se. Mỗi lần download về em đều cài đặt nhưng không thành công lỗi của PC báo là "insert OPL3 SAx driver sound card for windows95". Em đang sử dụng win98. Nhiều lúc em nghĩ hay là mua một cái card sound mới. Kính mong anh chị chỉ bảo cho em. Em xin cảm ơn.
+Giang
+Máy tôi mới cài lại XP Service Pack 2 và không nghe thấy tiếng gì. Tôi đã vào Device Manager trong Win và dùng mục Troubleshooter để tham khảo cách khắc phục và được biết là máy không có sound device. Tôi chả biết phải tìm ở đâu. Các anh chị giúp tôi với. Hoặc tôi phải tải driver update ở đâu?
+Tuấn
+Hồi âm:
+Khi cài sound card bạn cần (drive opl3 ) để hoàn tất công việc cài đặt. Bạn hãy chuẩn bị 2 đĩa mềm 3/5 khi download chọn lưu trữ ở desktop bạn sẽ dễ dàng hơn. vì là zip file nên bạn phải unzip trước đã sau đó bạn sẽ có 2 folders disk 1 và disk 2 hãy copy vào 2 đĩa mềm, trong quá trình cài đặt khi được hỏi (insert disk) bạn hãy cho đĩa 2 vào DOS sẽ hoàn tất công việc cho bạn, thường file drive (OPL3 SAx) được ghi ở đĩa thứ 2. Link download: http://members.driverguide.com/driver/detail.php?driverid=3109 chọn 95v2343.exe ..login cua bạn là (drive2) pass (all).
+TOM 
+Trường hợp của bạn Tuấn, có lẽ sound card của bạn không còn tương thích với XP SP2 bạn hãy xem lại model để cập nhật drive nếu được. Khi vào device manager bạn có nhìn thấy dấu gạch chéo màu đỏ nào không? Bạn hãy vào startrun gõ lệnh dxdiag ở bảng sound 1 và sound 2. Bạn hãy test thử xem có nghe được các âm thanh của windows hay không? bạn tìm các phần startcontrol panel tìm vào các phần sound/speech/ audio device/sound và audio device nhấp chuột hardwarepropertites. Hãy chắc các phần đó "running properly" cuối cùng nên update drive.
+

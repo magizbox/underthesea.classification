@@ -1,0 +1,5 @@
+Microsoft Office 12 sẽ ra mắt trong năm 2006
+Nâng cấp khả năng quản lý quyền sử dụng, lịch trình kế hoạch khoa học, chia sẻ tài liệu và xử lý thông minh& là những thông tin mà Chủ tịch Microsoft Bill Gates tiết lộ về gói ứng dụng văn phòng này.
+Office 12 nằm trong kế hoạch nâng cấp bộ Office theo định kỳ 2 - 3 năm một lần của Microsoft. Phiên bản gần đây nhất đã có mặt trên thị trường từ cuối năm 2003. Hãng phần mềm Mỹ ban đầu dự định phát hành sản phẩm song song với hệ điều hành Longhorn. Tuy nhiên, hôm qua, tại Hội nghị các nhà phát triển tổ chức ở Las Vegas (Mỹ), Bill Gates đã khẳng định Office 12 sẽ ra mắt trước hệ điều hành Windows mới vào năm tới.
+Giới chuyên môn hy vọng Microsoft sẽ cung cấp thêm một số phần mềm server hỗ trợ làm việc theo nhóm, ví dụ như cần phải có thêm một server mới cho Excel, nhưng Microsoft từ chối đề cập đến vấn đề này. Những phần mềm server đã có sẵn trong gói ứng dụng trước đó là Project Server, Portal Server và Live Communications Server.
+

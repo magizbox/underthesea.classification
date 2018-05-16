@@ -1,0 +1,7 @@
+Hệ thống ngừa tai nạn giao thông bằng tia laser
+Hãng sản xuất ôtô hàng đầu Nhật Bản Toyota tuần trước đã giới thiệu một hệ thống mới ngừa tai nạn giao thông, dùng tia laser dò tìm người đi bộ và những vật cản trên đường. Họ cho biết đây là hệ thống đầu tiên thuộc loại này trên thế giới.
+Khi hệ thống hoạt động, một chùm laser màu xanh lục chiếu sáng đường đi phía trước xe, và kích hoạt hệ thống chuông báo động khi laser cảm nhận thấy người đi bộ hoặc có vật cản trên đường. 
+Nếu hệ thống nhận ra một chùm laser phát ra từ xe khác, người lái xe sẽ được nhắc nhở để giảm tốc độ, nhằm giảm va chạm ở những góc khuất.
+Toyota cho biết, họ sẽ giới thiệu công nghệ này tại Hội nghị thế giới lần thứ 11 về các hệ thống vận chuyển thông minh (ITS), diễn ra tại Nagoya, Nhận Bản vào ngày 18/10.
+Tuy nhiên, do hệ thống vẫn còn trong giai đoạn thử nghiệm nên Toyota chưa có kế hoạch đưa công nghệ này ra ứng dụng rộng rãi. Hãng cũng cho biết họ đã phát triển một hệ thống kiểm soát phanh xe tự động khi bộ phận định vị nhận ra xe đang đi vào khu vực trường học.
+

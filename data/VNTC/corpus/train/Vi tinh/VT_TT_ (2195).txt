@@ -1,0 +1,4 @@
+ Khối vuông kỳ ảo 
+Để kích hoạt trò chơi, bạn hãy tiến hành xả nén tập tin Rubik Cube 1.zip vừa được tải về rồi nhấp đúp chuột vào tập tin RubikCube.exe. Trước mắt bạn giờ đây là một khối vuông được đặt trong không gian ba chiều. Hãy xáo trộn các mặt của khối vuông càng nhiều lần càng tốt trước khi chơi. Sau đó, di chuyển con trỏ và nhấp chuột để xoay chiều các mặt cho đến khi giải được bài toán. Hãy ấn phím S khi bạn đã bó tay và xem chương trình tự động xoay khối. 
+Với dung lượng siêu gọn nhẹ (chỉ 135 KB), tương thích trên Windows XP, phiên bản miễn phí (freeware) được cung cấp tại địa chỉ http://www.mail2world.com/FileCabinet/netilium@mail2world.com . 
+

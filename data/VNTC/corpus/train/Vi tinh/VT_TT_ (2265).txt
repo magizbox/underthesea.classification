@@ -1,0 +1,5 @@
+ Lỗi bảo mật nguy hiểm trong Windows Media Player 
+Lỗi này xuất hiện trong cơ cấu điều hành bộ nhớ đệm của Windows Media Player, nó có thể tương tác thuận cho những file hình ảnh BMP có chứa mã độc tấn công thẳng vào máy tính và xuất hiện trong hầu như toàn bộ các phiên bản Windows Media Player từ 7.1 đến 10 và ảnh hưởng đến mọi Windows đang hoạt động hiện nay như Windows XP, Windows 2003, Windows NT và Windows 2000 SP4. 
+Eeye cho biết rằng chỉ có những phiên bản Windows bán ra tại thị trường châu Âu không có sẵn trình Windows Media Player là an toàn trước lỗi bảo mật này. 
+Microsoft thông tin bản vá của một lỗi bảo mật tương tự đã được phát hành trước đây nhưng các chuyên gia của eEye cho biết rằng bản vá bảo mật mã số KB913446 dành cho Windows XP cũng không giải quyết triệt để được lỗi bảo mật này. 
+

@@ -1,0 +1,7 @@
+Ngân hàng New Zealand 'cấm cửa' khách hàng vì spyware
+Nhiều tổ chức tài chính lớn tại quốc gia này đã phải phong tỏa khả năng truy cập vào hệ thống giao dịch trực tuyến của hàng trăm khách hàng vì phát hiện máy tính của các thượng đế này bị nhiễm các phần mềm do thám.
+Ngân hàng Westpac sau khi phát hiện 1.400 người sử dụng dịch vụ có máy tính bị nhiễm spyware đã cùng 3 tổ chức khác trong đó có Ngân hàng trung ương New Zealand thông báo cho khách hàng rằng họ sẽ không thể thực hiện bất cứ giao dịch nào cho tới khi PC được làm vệ sinh. Hiện có 1,4 triệu trên tổng số 4 triệu dân New Zealand đăng ký dùng dịch vụ ngân hàng trực tuyến.
+Loại spyware gây ra tình hình này, do một công ty Mỹ có tên Marketscore tạo ra, lây nhiễm vào PC khi người sử dụng truy nhập một số website nhất định. Hiện chưa có trường hợp lừa đảo nào được phát hiện nhưng các ngân hàng liên quan rất lo sợ về tác động của nó đối với các giao dịch bảo mật qua mạng khi khách hàng khai báo tên đăng nhập và password. 
+Paul Gregory, phát ngôn viên của Westpac, cho biết spyware nói trên giả dạng là một phần trong quy trình giao dịch bảo mật và ghi chép lại mọi thông tin khách hàng đăng nhập. Ông này nhấn mạnh đây là một phần mềm rất thông minh.
+Marketscore là công ty cung cấp những phần mềm miễn phí trên website, trong đó có một số chương trình mà họ giới thiệu là tăng tốc độ truy cập Internet nhưng trên thực tế cũng đồng thời tải các phần mềm thu thập thông tin về hoạt động trực tuyến của người sử dụng để rồi bán lại cho các công ty quảng cáo.
+

@@ -1,0 +1,15 @@
+Làm thế nào để diệt virus W32.MyTob.AM@mm (3)
+May tinh cua toi ket noi trong mang LANchay Win2000 và su dung chuong trinh chong virus Symantec NortonAntivirus Corporation9.0 cung BKAV2005 thuong xuyen cap nhat. Toi da quet virus roi và khong thay co nhung may dang hoat dong hay bi chuong trinh NortonAntivirus bao co virus W32.MyTob.AM@mm sau do dong hop thoai thi 1 luc sau lai bao tiep rat kho chiu. 
+Vay BKAV co giup toi diet virus W32.MyTob.AM@mm nay duoc khong?
+Truyen Nguyen Thanh
+Hồi âm:
+Tải Malicious Software Removal Tool KB890830 ở Microsoft Download. Phần mềm này có thể diệt được các virus sau: Bagle, Berbew, Blaster, Bropia, DoomJuice, Gaobot, Goweh, Hacker efender, Hacty, Ispro, Kelvir, Korgo, Lovgate, Mimail, Mydoom, Mytob, Nachi, Netsky, Optix, Optixpro, Purstiu, Randex, Rbot, Sasser, Sdbot, Sober, Sobig, Spybot, Wootbot, Zafi, Zindos.
+Bảy Nguyễn
+- Download FixMytob.exe: http://securityresponse.symantec.com/avcenter/FixMytob.exe 
+- Khởi động Windows vào Safe Mode (Turn off system restore nếu có) 
+- Chạy file FixMytob.exe để gỡ bỏ virus khỏi máy. Khởi động lại máy sau khi chạy xong. 
+- Update lại các chương trình diệt virus. (Nếu đã update thường xuyên thì trên máy chỉ cần cài 1 chương trình diệt virus để máy chạy nhanh hơn). 
+- Chạy windows Update để vá các lỗi của windows.
+Trần Đạt
+Ban Truyen Nguyen Thanh thân mên!Nêu đươc ban co thê tham khao tại đâyhoặc: http://www.spywareguide.com/product_show.php?id=1994
+

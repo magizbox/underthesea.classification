@@ -1,0 +1,15 @@
+ Người ta đã làm gì với iPod!?
+Rất nhiều thanh thiếu niên hiện nay khi ra đường có thể quên mang theo tiền nhưng không thể quên chiếc điện thoại di động (ĐTDĐ) và iPod. 
+Chính vì quá mức "xìtin", có thể hơn cả ĐTDĐ, nên các nhà sáng chế "ngoài luồng" ở khắp mọi nơi đã tập trung nghiên cứu và phát triển thêm cho iPod rất nhiều chức năng, mà ngay cả những kỹ sư tạo ra iPod của Apple cũng không thể tưởng tượng là iPod có thể thực hiện được những điều "phi thường" như vậy. 
+Sau đây là các tính năng độc đáo nhất do nhiều người sáng tạo và tích hợp vào các dòng máy iPod. 
+Biến iPod thành máy phát FM: hai kỹ sư mang tên Griffin và Kensington đã gắn thành công thiết bị phát tín hiệu FM mang tên iTrip vào iPod để biến nó trở thành một đài phát sóng FM cỡ nhỏ, giúp các radio FM ở gần nó có thể thu được các bài hát mà iPod đang chơi. 
+Biến iPod thành bản đồ: có người đã thực hiện thành công việc số hóa hầu hết bản đồ ở các thành phố lớn thành dạng file mà iPod hiểu được, biến iPod thành một bản đồ kỹ thuật số cầm tay độc nhất vô nhị. 
+Biến iPod thành máy ghi âm: đa số người dùng đều không hiểu tại sao Apple không trang bị cho iPod tính năng ghi âm. Hiện chỉ cần cài đặt các chương trình như Podzilla, iTalk hoặc Belkin Voice Recorder vào iPod là có thể biến iPod thành máy ghi âm ngon lành. 
+Nghe iPod bằng hệ thống loa của... xe hơi: tương tự như nguyên tắc biến iPod thành trạm phát sóng FM mini, Griffin và Kensington đã áp dụng kỹ thuật này để biến iPod thành máy phát FM mà nguồn thu là đài FM của xe hơi. Giúp người đi xe có thể thưởng thức toàn bộ các bài hát lưu trong iPod qua hệ thống loa trong xe. 
+Biến iPod thành điện thoại: một số người am tường kỹ thuật đã sử dụng các linh kiện rời của ĐTDĐ để chế tạo ra một số thiết bị mà khi gắn vào iPod sẽ biến máy nghe nhạc này thành ĐTDĐ. Người ta còn "độ" nó thành điện thoại bàn, điện thoại Internet và có luôn chức năng trả lời tự động kèm theo những bản nhạc du dương. 
+Biến iPod thành máy... đọc sách: một số kỹ sư lập trình Linux đã tìm được phương pháp cài đặt một chương trình đọc văn bản bằng tiếng Anh vào iPod và biến nó trở thành một máy đọc sách thật sự. Sau khi cài đặt thành công, chỉ cần chép vào iPod một văn bản dạng text là nó sẽ đọc thành lời mọi nội dung để chủ nhân khỏi phải... mỏi mắt. 
+Thay đổi "hệ điều hành" của iPod: chương trình iPod Wizard sẽ giúp người dùng thay đổi mọi hình ảnh, font chữ, giao diện... của iPod đến nỗi "má nó" còn nhận không ra. 
+Biến iPod thành máy... dạy nấu ăn: Hãng PodGourmet Software đã "nhét" vào iPod một phần mềm dạy nấu đến 260 món ăn, bản nâng cấp hiện nay đã lên đến gần 280 món. 
+Biến iPod thành bộ điều khiển từ xa cho tivi: phần mềm Totalremote của Griffin sẽ biến iPod thành bộ điều khiển từ xa của một số thiết bị như tivi, đầu DVD, Xbox, Roomba... 
+Biến iPod thành Walkman đời cũ: nhiều thanh niên Âu -Mỹ đang có kiểu "xìtin" rút toàn bộ "ruột" của các máy Walkman đời cũ model 1987 ra, và thế vào đó chiếc iPod hiện đại của mình. "Bé cái lầm" cho những ai không đủ "sành điệu" để nhận ra rằng những người đang nghe Walkman đó mới thật sự là "thứ dữ". 
+

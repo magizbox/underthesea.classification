@@ -1,0 +1,15 @@
+Cách burn tiếp CD (4)
+Xin hỏi làm cách nào để có thể tiếp tục burn tiếp vào CD mà mình đã burn lần trước, khi mà CD thì còn trống rất nhiều MB? Xin cảm ơn nhiều.
+mai văn thuận
+Hồi âm:
+Để có thể burn vào phần còn lại của một CD, thì ở lần burn đầu tiên, bạn không được chọn mục đóng CD (Close disc). Nếu mục này đã được chọn thì không còn cách nào để ghi thêm thông tin lên đĩa nữa, dù CD còn trống nhiều hay ít. Nếu mục này không được chọn, bọn chỉ cần cho CD đã được ghi dở vào ổ ghi, phần mềm ghi sẽ tự động biết nó cần phải làm gì để ghi vào khoảng trống còn lại. 
+Dong Ngo
+Hiện bây giờ toàn bộ các phần mền đều có tính năng ghi nhiều lần : 
+Thường khi sử dụng Nero nếu bạn đặt multision thì có thể burn tiếp ở các lần sau nhưng nhớ chọn continue. Trước khi chọn chế độ burn nhớ đưa CD vào cho xác nhận là có thể burn nhiều lần sau đó mới tiến hành Burn. 
+bt m
+Ban dang dung chuong trinh nao de burn? Thong thuong ban dang thau giua chung va muon ngung lai de sau nay thau tiep tuc, ban hay vao phan advanced de tim va chon nhung muc sau day: leave session open. CD se chua nghe duoc cho cho den khi ban thau hoan tat. Close session and cleave CD open. CD se nghe duoc nhung van cho phep ban thau tiep tuc sau nay. Neu ban chon DISC AT ONCE khi ngung thau ban se khong thau duoc sau nay mac du dung luong o dia van con nhieu.
+TOM
+Neu ban muon burn tiep CD thi ban can phai dung soft nero 6 va ban can phai co them phan Incd di kem voi no, nhung ban cung chi co the thuc hien duoc voi CD-RW thoi con voi CD-R thi ban se khong thuc hien duoc.Chuc ban giai toa duoc van de!
+Nguyen
+Ban Thuan men. De co the lam duoc theo cach ban noi, co nghia la su dung dia CD-Rom nhu mot extern Hard Disk, ban can co mot trong 2 chuong trinh dang duoc dung thong dung nhat hien nay la: InCD (dung kem voi Nero cua hang Ahead) hoac Direct CD (dung kem voi Easy CD Creator cua hang Roxio). Ban chi co the cai dat 1 trong hai chuong trinh nay tren cung 1 may vi tinh ma thoi. Khi ban dat mot CD-Rom trang vao o ghi, thi tu dong chuong trinh tren se chay va yeu cau ban format dia. Sau do ban co the thau vao dia CD-Rom nay nhung gi ban can (co the dung phuong phap drag and drop). Sau khi thau xong ban nho chon phan "dong dia CD va co the doc duoc o tat ca nhung o CD thong dung", khong duoc chon "dong dia CD va khong the ghi vao them duoc nua". Neu lan sau ban muon ghi tiep vao phan con trong cua dia CD-Rom thi ban chi can dat dia CD-Rom vao o ghi ma co chuong trinh da neu tren ho tro. Tat nhien la ban khong the dung InCD de ghi tiep vao dia CD-Rom duoc thau bang DirectCD va nguoc lai). Chuc ban thanh cong.
+

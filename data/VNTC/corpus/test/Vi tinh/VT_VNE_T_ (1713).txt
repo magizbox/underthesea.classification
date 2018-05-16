@@ -1,0 +1,6 @@
+Khôi phục file sau khi lỡ format ổ cứng (1)
+Chào các anh chị. Xin nhờ anh chị chỉ dùm cho cách khôi phục các file (excel...) trên ổ cứng NTFS mới bị format (Chưa ghi bất cứ gì). Máy dùng Win XP. Cám ơn rất nhiều.
+Sang
+Hồi âm:
+Bạn có thể dùng phần mềm tên là: Recover exel, hoặc chương trình recover my file phiên bản mới nhất, bạn có thể dowload trên mạng, nhưng tôi khuyên bạn nên ra tiệm đĩa bán cd software mua về và cài đặt, vì các phiên bản trên mạng chỉ mang tính xài thử. Bạn cứ cài đặt như một phần mềm thông thường rất dễ xử dụng. Còn nếu ổ đĩa của bạn bị mất dữ liệu hết thì có thể dùng phần mềm "GetDataBack for NTFS" và cài đặt và sử dụng cũng tương tự. Thân chào bạn.
+

@@ -1,0 +1,7 @@
+Mã mở không chỉ dừng lại ở Linux
+Trong một số tham luận trình bày tại Đại hội Linux, San Francisco (Mỹ) hôm qua, lãnh đạo các nhà cung cấp phần mềm nguồn mở hàng đầu như HP và Red Hat kêu gọi cộng đồng phát triển nên nhìn rộng hơn ra tầm cánh của Chim cánh cụt".
+Matthew Szulik, Giám đốc điều hành Red Hat, kêu gọi cộng đồng mã mở phải biết thách thức tính truyền thống, không nên bám mãi vào khuynh hướng tư duy đã bám rễ suốt 2-3 thập kỷ qua. Ông này cho rằng mã mở là câu trả lời duy nhất cho những tác động tiêu cực đối với sự thống nhất của ngành công nghệ máy tính, vốn đang làm hạn chế nghiêm trọng sự lựa chọn của người tiêu dùng.
+Szulik cũng đề nghị các hãng cung cấp sản phẩm nguồn mở mở rộng những chương trình cấp phát miễn phí, nhất là trong thời điểm hiện nay khi bản thân Linux có vẻ như đã đạt đến mức độ hoàn thiện. Điều đó cho phép một bộ phận cộng đồng mã mở hướng nỗ lực của họ sang những ứng dụng khác. 
+Linux đã đạt đến một giai đoạn gây ra sự nhàm chán, Martin Fink, Phó chủ tịch phụ trách Linux của HP, phát biểu. Theo Fink, nhiều công ty sử dụng Linux hiện nay không ý thức được rằng việc tiết kiệm chi phí chủ yếu là kết quả của sức mạnh sáng tạo từ mã mở, vốn là một khái niệm rất rộng. 
+Vị lãnh đạo của HP cho rằng đã đến lúc Linux phải rút khỏi trung tâm của mọi sự chú ý để nhường chỗ cho mã nguồn mở bước ra sân khấu. Mã mở cho phép các doanh nghiệp hạn chế chi phí hệ thống với tỷ lệ rất cao, Fink phân tích. Để duy trì được sức cạnh tranh, họ sẽ có lợi nhiều khi tận dụng những sự thay đổi nói trên.
+

@@ -1,0 +1,7 @@
+Hoãn thu phí đối với tên miền tiếng Việt
+Bộ Tài chính vừa có ý kiến nhất trí với Bộ Bưu chính Viễn thông về việc tạm thời chưa thu phí cấp thay đổi và duy trì tên miền tiếng Việt. Việc hoãn thời gian thu phí này nhằm khuyến khích các doanh nghiệp và người tiêu dùng sử tên miền tiếng Việt.
+Như vậy, ngoài tên miền bằng tiếng Việt, còn phí với các loại tên miền khác vẫn được áp dụng theo quyết định mà Bộ Tài chính ban hành ngày 13/5 và áp dụng bắt đầu từ ngày 1/6.
+Theo đó, mức thu phí cấp tên miền theo quy định mới là 450.000 đồng/lần. Đối với trường hợp muốn thay đổi tên miền, mức phí phải nộp sẽ là 250.000 đồng/lần.
+Phí duy trì tên miền theo quy định mới sẽ là 480.000 đồng/năm đối với tên miền cấp 3 và 24 triệu đồng/năm đối với tên miền cấp 2.
+Phí cấp và quản lý địa chỉ Internet được thu theo mức sử dụng vùng địa chỉ IPv4 (lớp C) và IPv6 (khối 48) với mức thu thấp nhất đối với phí cấp là 1 triệu đồng, cao nhất là 29,5 triệu đồng. Đối với phí duy trì hàng năm, mức thấp nhất là 8 triệu đồng và cao nhất là 285 triệu đồng. Ngoài ra, khi thay đổi mức sử dụng địa chỉ Internet cũng phải nộp mức thu từ 1 đến 7,5 triệu đồng/lần.
+

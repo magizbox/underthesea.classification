@@ -1,0 +1,6 @@
+Xuất hiện điện thoại Internet miễn cước
+Nhà cung cấp VoIP LibreTel của Mỹ đang xúc tiến một tiện ích dành cho gia đình, cho phép người dùng nhận các cuộc gọi không giới hạn qua Internet. Với tên gọi Port-of-Call, dịch vụ này có chức năng tương tự như số máy miễn cước có đầu 1-800 rất phổ biến trong giới doanh nghiệp. 
+Cũng giống như với các số máy có đầu 1-800, người gọi tới các thuê bao của Port-of-Call sẽ hoàn toàn không bị tính cước. Chi phí này do thuê bao trả với mức phí 6 USD/ tháng, thấp hơn rất nhiều so với thuê bao của dịch vụ 1-800 (20 cent/ phút). Tuy nhiên, người dùng Port-of-Call sẽ không được gọi ra ngoài, thậm chí tới các số điện thoại khẩn.
+Số máy 1-800 cá nhân được các nhà cung cấp dịch vụ điện thoại truyền thống đưa ra cách đây vài năm nhưng không thu hút được nhiều sự chú ý, chủ yếu là do mức phí quá cao. Tuy nhiên, Port-of-Call sử dụng giao thức truyền giọng nói qua Internet (VoIP) nên tránh được khá nhiều loại thuế và quy định nên giảm được đáng kể chi phí. Một lợi thế khác của Port-of-Call là dịch vụ được cung cấp trên bất cứ kết nối Internet tốc độ cao nào, trong khi số 1-800 truyền thống bị hạn chế ở một địa điểm duy nhất.
+Mục tiêu ban đầu của Port-of-Call là người tiêu dùng. Tuy nhiên, LibreTel hy vọng sẽ có cơ hội triển khai các dịch vụ tương tự cho các doanh nghiệp lớn.
+

@@ -1,0 +1,6 @@
+Không đọc được đĩa trên ổ CD-R/RW rời (1)
+Tôi có ổ CD-R/RW 24X10 rời cắm qua cổng USB, máy nhận được ổ nhưng khi tôi chọn ổ thì máy báo lỗi "Drive not found! Please choose another:" . Tôi không biết là có phải cài phần mềm gì không. Xin các bạn chỉ giúp. Cám ơn.
+Nguyễn Văn Đại
+Hồi âm:
+Ban Dai men. Thong thuong cac o CD-R/RW roi cam qua cong USB deu co dia Drive kem theo. Co le ban quen chua cho chay Driver truoc khi su dung (Mac du may da nhan ra o CD-R/RW nhung khong co Driver thi van khong su dung duoc). Chuc ban thanh cong.
+

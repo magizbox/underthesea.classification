@@ -1,0 +1,6 @@
+Giá chip trung bình của Intel chỉ khoảng 40 USD
+Theo hãng nghiên cứu thị trường In-Stat (Mỹ), trong khi dòng thiết bị xử lý chính x86 có thể lên tới 999 USD, trung bình mỗi sản phẩmXeon và Itanium chỉ dưới 100 USD. 
+Con số này thấp hơn nhiều so với giá thành mà hãng thiết bị xử lý số một thế giới gán cho sản phẩm. Intel đã duy trì mức giá 40 USD suốt 2 năm qua và sẽ giữ nguyên đến hết năm 2005 dù chi phí sản xuất và vật liệu có thể tăng lên.
+In-Stat cho rằng Intel có khả năng giữ giá như vậy là nhờ hãng đã chuyển sang sử dụng bảng mạch 300 mm và tiếp thu công nghệ xử lý mới, giúp họ tiết kiệm 1 tỷ USD chi phí sản xuất năm ngoái. 
+Intel sẽ ra mắt bốn chip 65 nm với sản lượng lớn vào năm tới. Hãng sản xuất đối thủ AMD cũng đang trong quá trình phát triển một thiết bị xử lý theo công nghệ 65 nm. 
+

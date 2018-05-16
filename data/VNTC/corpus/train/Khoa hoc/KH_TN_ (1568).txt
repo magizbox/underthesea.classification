@@ -1,0 +1,3 @@
+Hội Biên giới điện tử, một tổ chức người tiêu dùng tại San Francisco (Mỹ), cho biết đã phá được bí ẩn của loại mã được sử dụng rộng rãi trong các máy in Xerox vốn có thể cung cấp số hiệu máy và ngày giờ chính xác tờ giấy được in ra.
+Trước đó, Tạp chí PC World cũng đã tuyên bố phát hiện rất nhiều máy in laser màu đã cho ra các tờ giấy có chứa mật mã vốn chỉ có thể nhìn thấy dưới ánh sáng của một loại đèn đặc biệt. Ở máy Xerox, thông tin này được ẩn trong các dấu chấm vàng có bề rộng 1mm và có thể nhìn thấy qua kính hiển vi hay đèn màu xanh. Hiện vẫn chưa rõ những mật mã đó đã được dùng để truy bắt tội phạm hay chưa. Không rõ loại mật mã trên đã được sử dụng từ khi nào nhưng theo người đứng đầu cuộc nghiên cứu S.Schoen, chúng đã có ít nhất 10 năm tuổi.
+

@@ -1,0 +1,7 @@
+Phần mềm chống tải nhạc bất hợp pháp
+Nhóm nghiên cứu của Đại học Tulsa vừa đăng ký tác quyền một phần mềm được thiết kế để ngăn chặn nạn download nhạc bất hợp pháp trên Internet. Chương trình này sẽ tung ra những chú vịt mồi trên các mạng trao đổi file ngang hàng (P2P) để đánh lừa người tải nhạc. 
+Hiện nay, nhiều bài hát đã được đăng ký tác quyền vẫn xuất hiện trên các mạng P2P để người dùng tải về miễn phí. Phần mềm, do giáo sư John Hale và nghiên cứu sinh Gavin Manes xây dựng, sẽ chống lại sự vi phạm này bằng cách làm tràn ngập những mạng trao đổi file ngang hàng như Gnutella, BitTorrent và Kazaa với những nội dung thay thế nhưng trông có vẻ như hàng chính phẩm. 
+Những chú vịt mồi được chương trình thả ra trên mạng P2P sẽ ngụy trang khéo léo như những nội dung có tác quyền, khó phát hiện, dễ đặt trên mạng và tải xuống nhanh. Tuy nhiên, khi chơi, nó sẽ chỉ phát ra những tạp âm, bài hát được thu với chất lượng thấp hoặc một thông điệp khuyên người dùng nên mua bài hát một cách hợp pháp. 
+Giáo sư Hale nhận xét: Phương pháp này không ngăn cản việc sử dụng hợp pháp các mạng P2P. Nó chỉ nhằm chống lại nạn đánh cắp tác quyền một cách cực kỳ chính xác.
+Theo số liệu của ngành công nghiệp ghi âm, nạn vi phạm bản quyền trên các mạng P2P năm 2003 đã khiến các công ty sản xuất đĩa nhạc và giới ca sĩ mất khoảng 700 triệu USD. 
+

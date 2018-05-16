@@ -1,0 +1,6 @@
+Biến tài liệu Word và trang web thành cơ sở dữ liệu
+AskSam là một trong số rất ít cơ sở dữ liệu quản lý cả hai loại dữ liệu có cấu trúc và không được cấu trúc, giúp bạn dễ dàng tìm kiếm. Đặc biệt, chương trình cho phép bạn lưu trữ trọn vẹn các tài liệu theo dạng gốc, thay vì yêu cầu bạn chia nhỏ các tập tin và đặt vào những trường riêng rẽ. 
+Ngoài khả năng chỉnh sửa, biên tập các bản ghi dữ liệu như khi làm việc với một chương trình xử lý văn bản, người dùng còn được AskSam hỗ trợ đắc lực với những công cụ tìm kiếm và phục hồi rất mạnh, cùng khả năng kết nối thông tin trong các tài liệu khác nhau bằng cách tạo ra các siêu liên kết. 
+Với AskSam 5.1, bạn có thể tạo mối quan hệ giữa các thông tin bằng cách gắn một tài liệu vào một bản ghi, giống như gắn bản đính kèm trong e-mail. Phiên bản này cũng tăng cường tính năng import, cho phép bạn nhập tập tin PDF và thư từ các chương trình e-mail. Mỗi tin được nhập sẽ trở thành một bản ghi của cơ sở dữ liệu. 
+Để download bản dùng thử có dung lượng 23 MB và thời hạn 30 ngày, bạn phải đăng ký với trang web của AskSam theo đường dẫn này. 
+

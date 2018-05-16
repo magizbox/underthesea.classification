@@ -1,0 +1,5 @@
+ Thử nghiệm Yahoo Mail đời mới
+Hiện Yahoo đã tung ra thử nghiệm phiên bản Yahoo Mail đời mới nhất tại một số quốc gia phát triển và sẽ triển khai đại trà bản thử nghiệm này trên toàn thế giới trong khoảng vài tuần tới. Những người truy cập vào Yahoo Mail sẽ được Yahoo “mời” sử dụng thử bản Beta này với nhiều tính năng mới như: kéo và thả, xem trước thư ở chế độ “Preview”, tích hợp tính năng RSS… 
+Cũng tương tự như bản Yahoo Mail hiện tại, bản đời mới cũng là phiên bản miễn phí mà người dùng có thể truy cập từ bất kỳ trình duyệt web nào. Những người tham gia dùng thử sẽ được Yahoo cung cấp cho một số phiên bản khác nhau cũng như mời dùng thử nhiều giao diện khác nhau. 
+Phiên bản thử nghiệm Yahoo Mail này đã bắt đầu được tung ra dùng thử ở các trang web Yahoo Mỹ, Anh, Ireland, Đức, Pháp và Hàn Quốc. Nó tương thích hoàn hảo với Internet Explorer và Firefox ở trên 2 môi trường Windows và Mac. 
+

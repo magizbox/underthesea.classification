@@ -1,0 +1,7 @@
+Windows AntiSpyware trở thành 'Defender' 
+Công cụ bảo vệ máy tính trước phần mềm gián điệp của Microsoft đã được đổi tên thành Windows Defender, với giao diện mới và nâng cấp thêm khả năng truy tìm rootkit, chương trình dò ký tự bàn phím cũng như những nguy cơ khác.
+Ứng dụng này sẽ là một phần trong Vista, hệ điều hành tiếp theo của Windows XP ra mắt năm tới. Microsoft cũng sẽ cung cấp Windows Defender cho người sử dụng XP dưới dạng phiên bản update của Windows AntiSpyware(đưa vào thử nghiệm từ tháng 1/2005).
+Windows AntiSpyware được thiết kế để bảo vệ PC chống lại spyware và rootkit, công cụ có khả năng hoạt động mà không bị phần mềm an ninh dò ra, tiếp tay cho hacker kiểm soát toàn bộ hệ thống. Chữ ký bảo mật, được dùng để xác định chương trình nguy hiểm, cũng được phân phối qua Windows Update thay vì qua một công cụ riêng biệt của chương trình.
+Hãng phần mềm cho biết Windows Defender sẽ đến tay những nhà thử nghiệm Vista trong một bản duyệt trước (CTP) vào cuối năm nay. 
+Microsoft trước đây dự định phát hành Windows AntiSpyware Beta 2 vào 31/12/2005. Tuy nhiên, theo phát ngôn viên của tập đoàn, thời gian ra mắt bản thử nghiệm thứ hai có khả năng sẽ phải lùi lại do Windows Defender chưa phải một sản phẩm hoàn thiện.
+

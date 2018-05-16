@@ -1,0 +1,10 @@
+Phải re-install software mỗi khi muốn sử dụng (3)
+Máy computer của tôi bị một vấn đề là: có một số software sau khi install thì chạy bình thường nhưng ngày hôm sau nếu muốn dùng lại thì phải re-install lại software đó . Việc này chỉ xảy ra với một số software mà thôi (ví dụ như DVD DECRYPTER , DVD SHRINK v.v ). Còn những software khác thì không bị vấn đề này. Không biết là có cần phải set lại cái gì trong Windows không? Vì một máy computer của em tôi cùng sử dụng Windows XP giống như tôi nhung không bị tình trạng trên. Xin thành thật cám ơn các bạn giải đáp thắc mắc này. Trân trọng. 
+Son Nguyen
+Hồi âm:
+Theo toi nghi thi may tinh cua ban co the bi nhiem virus. Ban thu quet bang chuong trinh Symantec moi nhat xem.
+QDV
+Bạn đọc bài viết này để tìm cách khắc phục:http://conghung.com/forum/index.php?showtopic=2523. 
+Cong Hunghttp://conghung.com
+Hi ban Son Nguyen. Có rất nhiều lí do để dẫn đến trường hợp như mấy của bạn: có thể do virus, setting restore point, hoặc máy của bạn không có muốn bạn copy DVD (just kidding),...Nhưng theo tôi nghĩ tốt hơn hết là bạn nên re-install/format lại Windows XP2 để khỏi đêm dài lắm mộng... Good luck. 
+

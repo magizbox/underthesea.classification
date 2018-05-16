@@ -1,0 +1,7 @@
+Công cụ nhắn tin trực tuyến hỗ trợ tìm kiếm da kênh
+Phần mềm mang tên Meetro cho phép không chỉ nhắn tin tức thời với những người trong danh sách có sẵn mà còn tìm kiếm bất kỳ thành viên khác tuỳ theo mục đích giao tiếp của bạn. Có thể tải về miễn phí phiên bản beta tại địa chỉ www.meetro.com.
+Meetro nối kết các tin nhắn tức thời với một cỗ máy tìm kiếm cục bộ. Người dùng sau khi đăng nhập sẽ tìm kiếm hay đọc lướt qua các hồ sơ của những thành viên khác để tìm kiếm những người thích hợp đang ở gần hoặc cũng đang đăng nhập. Khu vực tìm kiếm có thể hẹp hoặc trong chu vi vài km.
+Meetro - tương thích với dịch vụ nhắn tin tức thời AOL, Yahoo Messenger và ICQ - được bổ sung thêm khả năng tìm kiếm người bên ngoài một danh sách bạn bè của một cá nhân. Nhiều nguồn tin cho rằng Google đang có kế hoạch sáp nhập công ty cung cấp phần mềm này.
+Giao diện Meetro.
+Meetro tìm kiếm dựa trên ba hướng: qua tín hiệu tại các điểm truy cập hotspot của mạng không dây Wi-Fi, qua địa chỉ bình thường của mỗi máy tính và qua dữ liệu GeoIP. Hiện tại, Meetro chỉ mới có thể tìm kiếm giữa người dùng trong nước Mỹ, và theo nhà phát triển, hy vọng đến năm 2006 Meetro sẽ hỗ trợ được cho mọi người trên toàn thế giới.
+

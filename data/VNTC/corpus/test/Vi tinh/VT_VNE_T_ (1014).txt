@@ -1,0 +1,7 @@
+Săn nhạc MP3 bằng Twister
+Các bạn trẻ yêu nhạc thường tìm kiếm bài hát yêu thích qua những mạng chia sẻ file ngang hàng (P2P) như eDonkey hoặc Kazza, thường không an toàn vì hay làm máy tính nhiễm virus và spyware. Để tránh những rắc rối ấy, bạn nên dùng Twister. 
+Twister là một phần mềm miễn phí chuyên tìm kiếm và tải nhạc MP3 cũng như các định dạng âm thanh khác trên Internet. Chương trình sử dụng những công cụ tìm kiếm mạnh nhất trên mạng. Vì thế, bạn chỉ cần nhập tên ca sĩ hay bài hát và nhấn nút Search, vài giây sau, những file nhạc MP3 được tìm thấy sẽ xuất hiện trên màn hình và quá trình thẩm định bắt đầu. Tất cả những tập tin có đánh dấu bằng chấm màu xanh có thể tải xuống dễ dàng với phần mềm download tích hợp. 
+Chương trình cũng cung cấp các tính năng quản lý khá mạnh, cho phép bạn chỉnh sửa, đặt lại tên và xóa các file nhạc trong playlist.. 
+Twister tương thích với tất cả phần mềm chơi nhạc chính như Windows Media Player và Winamp, chạy trên các hệ điều hành Windows 95/98/Me/NT/2000/XP.
+Phần mềm có dung lượng 1,5 MB. Bạn có thể tải tại đây.
+

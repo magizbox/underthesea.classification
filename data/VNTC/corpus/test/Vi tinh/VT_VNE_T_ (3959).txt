@@ -1,0 +1,7 @@
+'Làn sóng thứ 3' trong ứng dụng bảo mật
+Công ty Akonix (Mỹ) đã phát triển một công cụ mới nhằm bảo vệ hệ thống máy tính trước những nguy cơ xuất phát từ dịch vụ tin nhắn nhanh (IM) và công nghệ chia sẻ file ngang hàng.
+Nhà cung cấp các giải pháp bảo mật này cho biết sản phẩm Akonix L7 CM5000 là ứng dụng "tất cả trong một" đầu tiên hỗ trợ quá trình bảo mật cũng như quản lý IM và P2P.
+Được coi là sự khởi đầu của "làn sóng thứ 3" cho an ninh mạng nội bộ, Akonix tin tưởng L7 CM5000 sẽ là điểm mốc cho xu thế mới trong xây dựng cơ chế bảo vệ ngoại vi, vượt trội so với tường lửa và bảo mật e-mail.
+"Chúng tôi đã nhận thấy nhu cầu cấp bách cho phần mềm hỗ trợ IM. Hiện nay, khách hàng cần được trang bị những chương trình có khả năng bảo vệ họ một cách an toàn và hiệu quả, đồng thời vẫn có thể giảm thiểu thời gian, dung lượng, chi phí và công sức cài đặt", Francis Costello, Chủ tịch Akonix, phát biểu.
+Ứng dụng thời gian thực này được đánh giá là chương trình thế hệ mới cho quá trình diệt virus, sâu, phishing và những nội dung nguy hiểm khác. Akonix tin tưởng nhu cầu sản phẩm sẽ tăng cao tương tự như với bảo mật thư điện tử. Theo một nghiên cứu gần đây, hệ thống hỗ trợ e-mail dự tính sẽ mang lại 365 triệu USD vào cuối năm 2005 và sẽ phát triển hơn 400% trong vòng 4 năm tới.
+

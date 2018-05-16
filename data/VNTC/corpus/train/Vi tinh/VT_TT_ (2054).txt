@@ -1,0 +1,5 @@
+ Microsoft trì hoãn phát hành Offices
+Theo kế hoạch trước đây, bộ phần mềm văn phòng mới là Office 2007, sẽ có mặt rộng rãi trên thị trường vào cuối năm nay. Thế nhưng, hiện nay do sự trì hoãn phát hành Windows Vista, mà Office cũng sẽ được dời lại ngày phát hành và tháng 1 năm sau. 
+Bộ Office 2007, được hứa hẹn với những cải tiến đồ họa quan trọng, giúp giao diện người dùng trực quan, sinh động, tiện ích hơn. Bộ office cũng hỗ trợ việc chuyển đổi và làm việc với các file pdf. 
+Office 2007 sẽ làm việc với Windows Vista như là một sự kết hợp tối ưu nhất. 
+

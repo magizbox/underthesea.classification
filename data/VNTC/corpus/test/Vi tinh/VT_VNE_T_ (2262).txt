@@ -1,0 +1,6 @@
+Win XP và DOS-based program (1)
+Kính gửi các anh chị và các bạn. Tôi dùng Win XP, SP2, máy Labtop HP nx 5000, Centrino, Pentium M 4. Tôi rất hay dùng và cần dùng khá nhiều chường trình chạy trên DOS (Dos-based programs), nhưng không thể cài và chạy các chương trình đó được. Trước đây khi đang dùng SP 1, tôi vẫn dùng chúng bình thường. Có anh chị và các bạn nào biết cách chỉnh sửa để máy tính của tôi có thể dùng được các chương trình chạy trên DOS. Xin chân thành cảm ơn.
+Nguyễn Vũ Trung
+Hồi âm:
+Sau khi update sp2 cho xp đôi khi file autoexec.nt đã bị hư hay xóa (corrupted/delete) vì sự khác nhau giữa 16bit subsystem và 32bit. Bạn hãy cài lại file đó xem sao, nhấp phải chuột vào my computeropennhấp chuột c:windowsmở thư mục repaircopy 2 file ( ctrl + c) autoexec.nt và config.nt đóng thư mục repair lại, trở về mở thư mục system32 , paste (ctrl + v ) 2 file vào đó nếu được hỏi replace the old one chọn yes... khởi động lại máy giờ bạn có thể cài các ct DOS base programs. Nếu vẫn không được bạn có thể tham khảo thêm ở đâyhttp://support.microsoft.com/default.aspx?scid=kb;en-us;324767Product=winxp.
+

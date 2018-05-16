@@ -1,0 +1,15 @@
+Web mail hoạt động như trên môi trường desktop
+Microsoft và Yahoo đang tiến hành nâng cấp dịch vụ e-mail với giao diện mới và khả năng thực hiện các thao tác tương tự trên desktop nhờ công cụ lập trình Ajax đang ngày một phổ biến hiện nay.
+Bản thử nghiệm của Windows Live Mail và Yahoo Mail chỉ được phân phối dưới dạng thư mời. Yahoo và Microsoft hy vọng sẽ giới thiệu giao diện chính thức tới hàng triệu người sử dụng vào giữa 2006, trong khi dịch vụ e-mail mã mở Zimbra (cũng sử dụng công cụ Ajax) đã mặt trong nhiều doanh nghiệp.
+Được coi là những "ứng dụng Ajax", 3 dịch vụ e-mail này có thể tải trước và cập nhật thông tin trực tiếp trên trang với tốc độ rất cao. Do đó, mỗi khi người dùng mở một e-mail, nội dung thư sẽ ngay lập tức hiện ra mà không phải đợi tải xuống. Tương tự, khi xóa một thông điệp, ứng dụng sẽ cập nhật nhanh chóng và ta không còn thấy e-mail đó nữa ngay tại thời điểm xóa.
+Yahoo Mail 
+Giao diện mới của Yahoo Mail sẽ được trang bị những tính năng như trên môi trường desktop, bổ sung đầy đủ các phím nóng như có thể dùng "Ctrl" và "Shift" để chọn nhiều e-mail cùng lúc. Dù mới đang trong giai đoạn thử nghiệm, ứng dụng của Yahoo hoạt động thuyết phục, mạnh mẽ và có sắc thái riêng. Giao diện mail được chia làm 3 khung khác nhau tương tự ứng dụng desktop của Outlook Express (Microsoft) và Thunderbird (Mozilla).
+Ngoài ra, Yahoo Mail còn có tính năng tab như trong một số trình duyệt web, cho phép mọi người mở nhiều thông điệp trên cùng một cửa sổ duy nhất và chuyển đổi qua lại nhanh chóng mà không phải chờ tải lại. Bên cạnh đó, người dùng có thể khám phá toàn bộ hộp thư chỉ bằng thao tác đơn giản là sử dụng thanh cuốn hoặc nhấn phím "Page down".
+Công cụ search trong Yahoo Mail có khả năng thâm nhập cả vào file đính kèm và nội dung thông điệp, sau đó liệt kê những đoạn văn bản chứa từ khóa. 
+Windows Live Mail 
+Windows Live Mail thoạt nhìn trông giống như một phiên bản sửa đổi của Hotmail. Live Mail hỗ trợ sử dụng thao tác kéo - thả e-mail và có thể click chuột phải để chọn lệnh in, gửi tiếp thư (forward) hoặc trả lời (reply) một thông điệp mà không cần phải mở ra. 
+Live Mail chú trọng phát triển những công cụ giúp mọi người bổ sung biểu tượng thể hiện cảm xúc (emoticon) và các định dạng khác nhau cho e-mail. Đồng thời, hòm thư được tích hợp lịch, kiểm tra chính tả, công cụ chống spam và phishing.
+Zimbra 
+Bản thử nghiệm được xây dựng trên mã nguồn mở Zimbra chưa thực sự hoàn hảo. Nó có giao diện nhỏ, rắc rối và gặp một số trục trặc. Tuy nhiên, cơ chế tìm kiếm và công cụ diệt virus hoạt động rất ấn tượng. Bên cạnh đó, Zimbra tích hợp hệ thống lịch thuận tiện, người sử dụng có thể di chuột đến một ngày nhất định để để xem lịch hoạt động của họ trong ngày đó.
+Khả năng thuyết phục nhất của Zimbra là nó hoạt động như một máy chủ giao tiếp ổn định và đáng tin cậy, cho phép các công ty tích hợp cơ sở dữ liệu vào đó. Zimbra hiện không cung cấp tài khoản e-mail cá nhân mà chỉ được triển khai trong các doanh nghiệp. Một số nhà cung cấp băng thông rộng như Speakeasy cũng đang xem xét sử dụng Zimbra để thay thế những dịch vụ web mail hiện tại.
+

@@ -1,0 +1,7 @@
+Công ty FPT Phần mềm đạt chứng chỉ CMM 5
+Công ty FPT Phần mềm (FSoft) vừa trở thành công ty Việt Nam đầu tiên nhận chứng chỉ CMM 5 (Capability Maturity Model) - mức cao nhất đánh giá năng lực quy trình sản xuất trong một tổ chức phát triển phần mềm - do Viện Công nghệ phần mềm Mỹ (SEI) cấp.
+Với CMM mức 5, FSoft trở thành một tổ chức phần mềm đẳng cấp quốc tế, có đủ năng lực quản lý thay đổi về công nghệ, về quá trình và ngăn chặn lỗi trong các dự án để đáp ứng yêu cầu của khách hàng và mục tiêu kinh doanh đối với chiến lược phát triển phần mềm.
+Ông Nguyễn Lâm Phương, Phó giám đốc FSoft, cho biết CMM 5 mang lại những lợi ích cho FSoft như: năng lực quản lý tiến độ của dự án tăng 67%, chất lượng tăng 13% và năng suất lao động tăng 33%. Ông cũng tiết lộ công ty đang hướng tới chứng chỉ CMMI (Capability Maturity Model Integration) mức 5 vào năm 2006. 
+Trên thế giới hiện nay có khoảng 120 công ty phần mềm được nhận CMM 5. Tại châu Á (trừ Ấn Độ), gần 10 công ty phần mềm, trong đó có FSoft, đạt chứng chỉ cao cấp này.
+CMM là Mô hình trưởng thành về năng lực nhằm đánh giá năng lực quy trình sản xuất trong một tổ chức phát triển phần mềm. Mô hình này do Viện Công nghệ phần mềm Mỹ (Software Engineering Institute - SEI) phát triển năm 1993 dựa trên tiêu chuẩn Quản lý chất lượng tổng hợp - TQM và dành riêng cho quy trình phát triển phần mềm, trong đó đưa ra 5 mức độ trưởng thành của một tổ chức.
+

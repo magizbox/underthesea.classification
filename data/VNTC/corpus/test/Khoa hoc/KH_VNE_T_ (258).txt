@@ -1,0 +1,8 @@
+Giọt dầu chạy mãi 
+Các nhà khoa học Nhật Bản đã tạo ra một giọt dầu có thể chạy không ngừng trên đĩa. Thí nghiệm này, theo họ, sẽ truyền cảm hứng cho việc tạo ra những động cơ phân tử.
+Yutaka Sumino và cộng sự, Đại học Kyoto, tác giả của nghiên cứu cho biết đây là trường hợp đầu tiên năng lượng hóa học được chuyển trực tiếp thành năng lượng cơ học. Chuyển động không ngừng của giọt dầu được tận dụng từ lực hút và đẩy giữa các phân tử.
+Các nhà nghiên cứu đã thả giọt dầu vào nước có chứa một chất hoạt động bề mặt (đây là một tác nhân làm ướt với một đầu tích điện âm và đầu kia tích điện dương, tạo thành một lớp màng trên bề mặt đĩa). Dưới sức hút của đầu tích điện trên chất hoạt tính, giọt dầu bị kéo đi. Khi giọt dầu di chuyển vòng quanh, nó cuốn chất hoạt tính theo và tạo ra một vệt sạch trên đĩa, vệt này đẩy giọt dầu khiến nó càng chạy về phía trước.
+Các phân tử hoạt tính lơ lửng trong nước sau đó sẽ đến và khôi phục lại lớp màng này, vì thế quá trình diễn ra liên tục và giọt dầu không ngừng di chuyển. Nhóm nghiên cứu cho biết sau một vài chuyển động ngẫu nhiên ban đầu, giọt dầu bắt đầu chạy vòng quanh xung quanh đĩa.
+Trong một thí nghiệm tương tự, khi đĩa thủy tinh được thay bằng một rãnh dài, có đường kính đúng bằng đường kính giọt dầu, nhóm nghiên cứu nhận thấy giọt dầu chạy tiến rồi lại lùi. Sau khoảng 20 đến 50 chu kỳ như vậy, nó hòa tan vào chất hoạt động bề mặt và ngừng di chuyển.
+Tiến sĩ Kenichi Yoshikawam, thành viên nhóm nghiên cứu, cho rằng phát hiện này có thể giúp phát triển những thiết bị cỡ nanomét di chuyển được theo mạch máu của người, nhằm khôi phục những thương tổn trong cơ thể.
+

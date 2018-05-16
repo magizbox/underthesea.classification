@@ -1,0 +1,5 @@
+ Chuyến bay đầu tiên hỗ trợ kết nối Wi-Fi 
+Hệ thống (mang tên FlyNet) có sự hỗ trợ của vệ tinh cho phép hành khách duyệt web, gửi email thông qua công nghệ kết nối không dây Wi-Fi. Được biết FlyNet đã được cài đặt trên 5 máy bay của Lufthansa. Dự kiến, sẽ có tổng cộng 80 máy bay của hãng hàng không hàng đầu nước Đức được trang bị dịch vụ này vào cuối năm 2006. 
+Nguồn tin từ Lufthansa tiết lộ, FlyNet cho phép tốc độ download và upload tương ứng 5Mbs và 1Mbps- tương đương với tốc độ trung bình của chuẩn kết nối không dây Wi-Fi khi được triển khai trong một văn phòng nhỏ. Giá dịch vụ là 10 USD cho những chuyến bay không quá 30 phút. Trong khi đó chi phí dùng net trên chọn chuyến bay (không phụ thuộc lộ trình) là 30 USD. 
+Theo thống kê của Forrester Research, 38% hành khách thường xuyên chấp nhận trả ít nhất 25 USD cho mỗi chuyến bay để có thể truy nhập web. Công ty này cũng dự báo doanh thu từ loại hình dịch vụ "ngồi máy bay truy nhập mạng" ước đạt 2 tỷ USD vào năm 2014. 
+

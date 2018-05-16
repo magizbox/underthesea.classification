@@ -1,0 +1,6 @@
+ Intel giới thiệu nền tảng ViiV mới
+Công nghệ Intel ViiV là nền tảng mới cho gia đình của Intel được Otellini giới thiệu và chuyển giao cho các công ty giải trí hàng đầu tại Mỹ cũng như trên thế giới như AOL, DIRECTV, NBC Universal, GameTap của Turner Broadcasting, ESPN, Televisa và Eros. Công nghệ Intel ViiV dựa trên nền tảng giải trí tại gia đình sẽ giúp việc tải, lưu trữ, xem, quản lý và chia sẻ tất cả các loại của giải trí kỹ thuật số và thông tin trên màn hình của TV, PC, máy tính xách tay hoặc thiết bị hỗ trợ cầm tay thông minh (handheld). 
+Công nghệ di động Intel Centrino Duo cải tiến khá nhiều cho khả năng xử lý và dung lượng pin nhiên liệu cho máy tính xách tay. Vi xử lý được tích hợp tốt để cung cấp năng suất xử lý “trên từng watt” và thiết kế khéo léo cho các máy PC giải trí, notebook … 
+Những PC bao gồm công nghệ Intel ViiV sẽ xây dựng từ những hệ thống hoạt động dựa trên bộ vi xử lý Pentium Extreme Edition và Intel Core Duo. Những hệ thống này sẽ hiện diện với nhiều dạng tính năng, thiết kế và giá cả khác nhau. Công nghệ Intel ViiV bao gồm chip xử lý Intel 945/955/975 Express kể cả các giải pháp mạng Intel PRO/1000 PM hay Intel PRO/100 VE/VM. 
+Các bộ vi xử lý Intel Core Duo T2300, T2400, T2500, và T2600 có giá lần lượt là 241, 294, 423, 637 USD. Intel Pentium Extreme Edition 955 có giá lên đến 999 USD. Giá cả có thể tham khảo thêm tại đây . 
+

@@ -1,0 +1,6 @@
+RealPlayer 10 mở rộng định dạng hỗ trợ
+Hôm qua, RealNetworks vừa tung ra phiên bản mới nhất phần mềm nghe nhạc của mình. Nó hỗ trợ mọi định dạng file âm thanh chính trên Internet.
+Như vậy, bên cạnh RealAudio và RealVideo, RealPlayer 10 còn hỗ trợ Windows Media của Microsoft, QuickTime MPEG-4 của Apple, cũng như MP3 và Advanced Audio Coding (AAC).
+Với RealPlayer 10, khách hàng rốt cuộc đã có trong tay một sản phẩm có thể chạy tốt với máy nghe di động và chơi mọi thể loại âm nhạc miễn phí trên Internet, Richard Wolpert, người vạch chiến lược hoạt động của RealNetworks, khẳng định trong một thông cáo.
+Ngoài ra, RealPlayer 10 còn có một vài cải tiến, chẳng hạn khả năng tua tiến và lùi mà không phải ngắt, cũng như tích hợp với kho nhạc trực tuyến RealPlayer. Khách hàng có thể tải chương trình về từ đây.
+

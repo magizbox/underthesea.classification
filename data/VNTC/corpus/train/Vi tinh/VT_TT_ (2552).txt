@@ -1,0 +1,11 @@
+ Chuyển đổi file để xem phim chất lượng cao
+Để khắc phục những nhược điểm này, WinAVI ra đời giúp bạn nén lại những file video theo chuẩn của các thiết bị cầm tay, theo chuẩn nghe nhạc xem phim thời thượng trên Internet hoặc để bạn có thể chia sẻ qua lại cho nhau thông qua những đĩa DVD và Video CD. 
+Sau khi cài đặt và khởi động WinAVI Video Converter, chương trình xuất hiện với giao diện như hình trên. 
+Nếu muốn thiết lập các tính năng cơ bản cho WinAVI, bạn có thể vào Menu &gt; options (bên tay trái) để lập. 
+Sau khi đã chọn xong tính năng cơ bản, các bạn có thể bắt đầu nén phim theo chuẩn của các thiết bị mà mình sử dụng. WinAVI cho phépxuất định dạng phim bất kỳ sang chuẩn .wmv, .avi, rm hoặc chuẩn .vob của DVD. Để xem phim trên pocket PC, phim phải được nén sang chuẩn .wmv, còn nếu xem trên các máy điện thọai di động thì nên xài .avi. Trong trường hợp này tôi chọn chuẩn .wmv rồi bắt đầu tiến hành chuyển đổi file. 
+Bấm vào mục Convert to wmv , rồi chọn đường dẫn đến thư mục chứa phim mà bạn cần chuyển, rồi bấm ok . Tiếp theo, chọn đường dẫn để xuất file mà bạn đã convert. Xong bấm nút advanced để chọn khả năng chuyển đổi cho từng thiết bị. 
+Mặc định của chương trình là chọn mục WMV8 DVD Quality Encoder . Đây là chuẩn thông thường để bạn xem phim trên PC của mình. Nếu muốn xem trên Pocket PC, bạn kéo thanh trượt lên sát phía trên, sẽ thấy 2 chuẩn dành cho Color Pocket PCs. Nếu Pocket PC bạn có cấu hình thấp, nên chọn 150Kbps, nếu cấu hình cao hơn thì chọn 225Kbps để hình ảnh mịn màng hơn. Chọn xong các bạn bấm ok để bắt đầu nén phim. 
+Đối với các PC cũ, bạn nên chọn mục Real time Refurbishing the preview khi nén, để hình ảnh không bị chậm lại khi xem. Mục Shutdown the computer after all work has been done chỉ nên đánh dấu khi bạn làm ban đêm, chọn để tắt máy đề phòng khi bạn ngủ quên. 
+Cuối cùng, sau khi nén xong, bạn có thể chép nó vào Pocket PC, hay điện thoại của mình để thưởng thức mà không phải lo dung lượng quá lớn. 
+Phiên bản hiện tại là version 7.1, được bán với giá 29,95USD tại website http://www.winavi.com . Các bạn có thể tải bản dùng thử tại đây hoặc tìm mua tại các cửa hàng bán đĩa CD software. 
+

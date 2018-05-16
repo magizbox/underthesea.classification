@@ -1,0 +1,4 @@
+ Danh bạ marketing trên điện thoại di động
+Ứng dụng BizPlus bao gồm 16 danh mục: Tiếp thị trực tiếp, Tổ chức sự kiện, Đồ họa, Nghiên cứu thị trường, Tư vấn tiếp thị, Đặt chỗ quảng cáo, Kế hoạch truyền thông, Toà soạn báo, Thiết kế bao bì, Nhiếp ảnh, In ấn, Quà khuyến mãi, Quan hệ cộng đồng, Tài trợ, Đài truyền hình, Sản xuất phim quảng cáo. Ngoài việc phân chia theo lĩnh vực dịch vụ, BizPlus còn cho phép phân loại thành 3 khu vực khác nhau là: Thành Phố Hồ Chí Minh, Hà Nội và các tỉnh thành khác. 
+BizPlus là một ứng dụng miễn phí với dung lượng rất nhỏ 60kb và có thể cài đặt trên các điện thoại có hỗ trợ Java (hầu hết các loại điện thoại đang sử dụng tại Việt Nam). Ứng dụng BizPlus có thể đươc cài đặt thông qua máy tính hay trực tiếp từ di động qua địa chỉ www.tuoitre.com.vn/wap . 
+

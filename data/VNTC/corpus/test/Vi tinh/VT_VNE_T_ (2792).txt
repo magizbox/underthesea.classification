@@ -1,0 +1,10 @@
+Bảo mật video bằng kỹ thuật khóa lượng tử
+Các tệp tin giọng nói (voice) và hình video gửi qua mạng có thể được thiết kế cơ chế bảo vệ để tránh bị khai thác, xem trộm trong một vài năm tới nhờ công nghệ khóa lượng tử(quantum) mới của hãng Toshiba. 
+Toshiba đã nhận được phản ứng khá tích cực từ phía các chính phủ và tổ chức tài chính sau khi trình diễn thành công hệ thống Quantum Key Server tại phòng thí nghiệm của trường Cambridge (Anh).
+Phương pháp cài khóa cho video này hoạt động không gây sự ngắt quãng nào, đơn giản chỉ bằng việc đặt mã lượng tử (mã hóa các bit dữ liệu) vào phân tử photon ánh sáng. Đây là công nghệ mới trong cách mạng bảo mật số.
+Phương pháp mã hóa phổ biến hiện nay không hề an toàn. Người ta dùng khóa số bao gồm một dãy 0 và 1 để chuyển đổi dữ liệu mỗi khi cần cài mã tệp dữ liệu để tránh những cặp mắt tò mò. Người nhận sẽ mở bằng một bộ dãy số khác, hay còn gọi là khóa dữ liệu. 
+Bước đột phá của Toshiba cho thấy mỗi đoạn video có thể được mã hóa bằng khóa riêng biệt, đồng nghĩa với việc bẻ khóa video vốn đã khó lại càng trở nên vô hiệu trừ phi tất cả các đoạn khác cũng đã bị crack. 
+"Khóa cải tiến được thiết kế để hệ thống vẫn vận hành liên tục", Tiến sỹ Andrew Shields, trưởng nhóm phát triển của Toshiba, phát biểu. "Thông thường, khi nhận được thư và đọc nó, không có dấu hiệu nào báo cho bạn biết rằng có người đã mở bức thư đó ra rồi. Với giải pháp này, chỉ cần nhìn qua, ta có thể biết nó đã bị mở trước đó hay chưa".
+Quy luật vật lý lượng tử đảm bảo tính chất của photon sẽ thay đổi nếu ai đó chặn lại và đọc thông tin trong nó. "Tôi vẫn từng nói cơ chế này giống như kiểu thông điệp trong phim Mission Impossible (Điệp vụ bất khả thi). Nếu ai đó cố đọc một thông điệp, nó sẽ tự động phân hủy", Shields nói.
+Hệ thống tự quản lý này có thể hoạt động 24/24 giờ, liên tục 7 ngày trong tuần cũng như có thể mở rộng để mã hóa các tệp dữ liệu đòi hỏi dung lượng lớn như tài liệu nhạy cảm, hồ sơ thuế hay y học... Hệ thống cũng cung cấp liên kết tới các site riêng biệt, cho phép truyền file bảo mật qua mạng sợi quang.
+

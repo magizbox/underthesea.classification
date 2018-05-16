@@ -1,0 +1,8 @@
+Mã tấn công website MobiFone đang bị phát tán trên mạng
+Dù nhà cung cấp dịch vụ viễn thông lớn thứ hai tại Việt Nam khẳng định rằng lỗi bảo mật trên website của họ đã được vá lại, thế giới ngầm trên Internet vẫn truyền nhau đoạn mã có thể lợi dụng lỗ hổng tại www.mobifone.com.vn để tùy ý chỉnh sửa nội dung trên đó. 
+VnExpress đã tìm được một đường link giao diện của MobiFone hiện ra ở chế độ yêu cầu khách hàng đăng nhập thông tin để khôi phục password. Tuy nhiên, thay vì thông báo rằng "Số máy 090... và ngày sinh 01/01/1970 không tương thích" nếu thông tin của khách hàng nhập không đúng, thì dòng chữ này đã được thay bằng "Số máy 0 VAI VUI NE MOBILE Bao mat cao nhi anh mobile và ngày sinh -1/1/-1 không tương thích".
+Một góc giao diện website của MobiFone có phần dữ liệu (chữ màu đỏ) bị thay đổi.
+Hình phóng to phần dữ liệu đã bị hacker thay đổi trên site của MobiFone.
+Để tìm hiểu thêm, lúc 15h40 hôm nay, VnExpress đã thử thay đổi thông tin trên đường link nhận được. Kết quả là nội dung trên site cũng được thay đổi theo ý muốn. 
+Nửa giờ sau đó, lỗi này đã không còn trên site của MobiFone. Tuy nhiên, cũng có thể thấy phần nào về tình trạng bảo mật tại địa chỉ này. Những kẻ thiếu thiện chí có thể sẽ không chỉ đơn thuần là "dạo chơi" qua đây và để lại vài thông tin nhắn nhủ như vậy. Mới đây, đại diện của doanh nghiệp viễn thông này khẳng định hệ thống của MobiFone có độ an toàn và bảo mật tốt nhất hiện nay. Tuy nhiên, Mạng an toàn thông tin VSEC thì kiên quyết bảo vệ quan điểm cho rằng MobiFone nên bình tĩnh phân tích tình hình, tiến hành các biện pháp cải tiến cũng như tăng cường theo dõi hoạt động trên hệ thống, đề phòng khả năng bị lộ, mất cơ sở dữ liệu vì quyền lợi và sự riêng tư của khách hàng.
+

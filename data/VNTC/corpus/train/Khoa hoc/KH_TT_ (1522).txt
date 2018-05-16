@@ -1,0 +1,6 @@
+ Xây dựng hệ thống cảnh báo lũ quét
+TS Lã Thanh Hà, phó giám đốc Trung tâm Nghiên cứu thủy văn - tài nguyên nước, chủ nhiệm dự án, cho biết hệ thống này gồm ba bộ phận: hệ thống đo, đếm mưa thông minh (gồm phần mềm đo mưa, pin năng lượng mặt trời, bộ phận mã hóa chuyển dữ liệu), hệ thống “trạm truyền tin” và hệ thống báo động. 
+Trong đó, bộ phận quan trọng nhất là hệ thống đo mưa thông minh. Với mỗi khu vực, theo tính toán sẽ đặt ngưỡng đo mưa cho máy. Khi xảy ra mưa lớn, tập trung, nếu đặt ngưỡng có thể xảy ra lũ quét là 100mm thì khi mưa đạt đến mức 60mm, hệ thống đo mưa sẽ tự động truyền dữ liệu về các hệ thống tiếp theo để cảnh báo. 
+Và đến ngưỡng 70mm thì hệ thống báo động đặt tại khu vực dân cư sẽ rung, đổ chuông liên hồi, to dần. Khi đó người dân có đủ thời gian để chuẩn bị đối phó, vì từ ngưỡng 70mm đến ngưỡng 100mm (xảy ra lũ), các kỹ sư đã tính toán đặt thời gian là hai giờ. 
+Theo TS Lã Thanh Hà, trong quí 2 năm nay hai hệ thống đầu tiên sẽ được xây dựng tại tỉnh Yên Bái. Đến năm 2007, tiếp tục sẽ có 37 hệ thống tương tự được xây dựng thêm tại Lai Châu, Điện Biên, Hà Giang, Lào Cai và Yên Bái. Sau năm 2007, hệ thống sẽ được xây dựng khắp các tỉnh Tây nguyên, Trung bộ... 
+

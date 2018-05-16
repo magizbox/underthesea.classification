@@ -1,0 +1,8 @@
+Thảm thông minh điều khiển robot hút bụi
+Robot hút bụi có thể tự động thu dọn các chỗ bẩn, nhưng đường đi ngẫu nhiên của chúng đôi khi vẫn bỏ sót những vết bẩn không được chú ý.
+Nay nhà máy sản xuất Vorwerk ở Hamlin, Đức, đã hợp tác với Infineon ở Munich để phát triển một chiếc thảm điện tử điều khiển robot hút bụi trên mọi cm của sàn nhà, và thậm chí có thể hướng dẫn chiếc máy quay lại những nơi đã bỏ qua.
+Hệ thống sử dụng công nghệ nhận dạng tần số radio (RFID). Các miếng RFID mỏng 4 cm được gắn theo hình mạng lưới ở phía dưới thảm. Mỗi miếng được gắn anten và một microchip silic chứa số nhận dạng riêng. Robot hình tròn có đường kính 33 cm và cao 14 cm, chứa một máy đọc RFID và một bản đồ vị trí của từng miếng RFID.
+Khi robot di chuyển trên thảm, máy đọc sẽ định vị các miếng RFID. Một máy tính trong robot ghi lại số nhận dạng riêng và lưu trữ dữ liệu của mỗi miếng gắn, như ngày giờ mà thiết bị đi qua vùng đó.
+Các bộ cảm ứng hồng ngoại trên robot sẽ phát hiện chướng ngại vật tam thời, như người đứng ngang đường và cảnh báo robot chuyển hướng. Sau đó, robot sẽ quay trở lại khu vực đã bỏ qua và thực hiện nhiệm vụ của mình. Những miếng RFID sẽ được bọc nhựa để chống thấm nước và có sức chịu đựng cao, cho dù dưới sức ép nặng của phương tiện đi lại.
+Đến nay, công nghệ RFID đã được sử dụng để theo dõi vật như trong cửa hàng bán quần áo nhằm chống trộm.
+

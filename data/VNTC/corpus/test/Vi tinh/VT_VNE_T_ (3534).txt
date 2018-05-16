@@ -1,0 +1,6 @@
+Virus giả dạng đoạn phim về sự cố London
+Hãng bảo mật e-mail MessageLabs (Mỹ) cho biết chưa đầy một ngày sau vụ nổ chấn động ở thủ đô Anh, một chương trình Trojan đã được phát tán dưới dạng bản tin video quay lại vụ tấn công để đánh lừa người dùng.
+Mã nguy hiểm này xuất hiện trong file đính kèm thư điện tử với tiêu đề "Terror hits London" (London bị đánh bom khủng bố), được thiết kế y hệt bản tin không chính thức phát đi thường xuyên qua e-mail (newsletter) của kênh CNN.
+E-mail yêu cầu người nhận "tải file đính kèm để chứng kiến những cảnh quay nghiệp dư độc nhất vô nhị". Khi được mở ra, file này sẽ tự động sao thành nhiều bản trong hệ thống máy tính người dùng. Sau đó, Trojan sẽ tiếp cận danh sách server của e-mail mà máy tính đã truy cập tới, và bắt đầu lợi dụng những server này để phát tán thư rác.
+MessageLabs cho biết mức độ lây lan của virus này không rộng, cho đến nay hãng cũng chỉ mới nhận được một vài e-mail dạng này.
+

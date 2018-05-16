@@ -1,0 +1,8 @@
+Orion sẽ thay thế những công cụ tìm kiếm hiện tại
+Các chuyên gia nghiên cứu Australia đã đăng ký bản quyền một phương pháp khai thác web mới mà họ cho rằng có thể cách mạng hóa và bổ sung cho khiếm khuyết trong phần mềm của MSN, Yahoo và Google.
+Chương trình Orion được phát triển bởi Ori Allon, nghiên cứu sinh 26 tuổi tại Đại học New South Wales (UNSW). Allon giải thích rằng những công cụ như Google chỉ liệt kê các trang xuất hiện từ khóa, do đó đôi khi những site này không hề liên quan đến chủ đề cần tìm.
+Ngược lại, Orion tìm trang chứa nội dung liên quan trực tiếp đến từ khóa. "Kết quả được hiển thị ngay lập tức, cung cấp thông tin dưới dạng text 'trích dẫn', do đó người dùng không phải mở website, mặc dù họ vẫn có thể vào trang đó nếu muốn", Allon cho biết.
+Ngoài ra, công cụ cũng sẽ liệt kê cả kết quả của những từ khóa tương tự khác, nhờ vậy, khách hàng có thể thu thập thêm thông tin thích hợp mà ban đầu họ chưa nghĩ tới. Ví dụ, khi gõ "American Revolution" (Cách mạng Mỹ), Orion sẽ hiển thị kết quả bao gồm cụm từ này, đồng thời đưa ra thông tin về "American History" (lịch sử nước Mỹ), "George Washington", "American Revolutionary War", "Declaration of Independence" (Tuyên ngôn độc lập)...
+Andrew Stead, chuyên gia của hãng chuyển giao công nghệ New South Innovations thuộc trường UNSW, khẳng định Orion sẽ lấp dần khoảng trống trên thị trường mà Chủ tịch Microsoft Bill Gates đã nhắc đến: "Gates gần đây nói rằng chúng ta cần nghiên cứu phương pháp tìm kiếm vượt khỏi lối suy nghĩ hiện tại. Chúng tôi tin rằng Orion đã thực hiện được điều đó".
+Allon cho biết nhiều hãng lớn đã quan tâm và dự định triển khai Orion trong hoạt động kinh doanh.
+

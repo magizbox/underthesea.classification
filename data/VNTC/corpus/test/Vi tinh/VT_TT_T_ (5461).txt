@@ -1,0 +1,7 @@
+ Phát hành Windows CE 5.0 beta 
+Version này sẽ được giới thiệu đến người dùng vào thứ hai này và đưa lên mạng Microsoft Developer Network (MSDN) vào thứ năm. Windows CE 5.0 là version kế tiếp của Windows CE 4.2 được phát hành vào năm ngoái. 
+Phần mềm này được sử dụng trong nhiều thiết bị khác nhau như set-up box, router vô tuyến... Ngoài ra Windows CE cũng là nền tảng của phần mềm Windows Mobile được sử dụng cho Pocket PC và điện thoại thông minh. 
+Đặc điểm chính của phiên bản mới này là một môi trường phát triển thống nhất, cho phép người dùng sử dụng môi trường đồ họa với môi trường dòng lệnh trong cùng một công cụ. Ngoài ra, việc cải thiện khả năng hỗ trợ phần cứng với hơn 50 driver sẽ tiện ích hơn đối với các nhân viên thiết kế. 
+Phiên bản Windows CE 5.0 cũng tập trung vào vấn đề bảo mật và độ tin cậy với tất cả các thành phần đều được thiết lập mặc định ở chế độ bảo mật cao. Ngoài ra còn có chế độ báo cáo lỗi, cho phép công ty sản xuất thiết bị giao tiếp với khách hàng qua internet để nhận những thông báo về lỗi thiết bị của họ. 
+Để hỗ trợ cho các thiết bị đa nhiệm, Windows CE 5.0 hỗ trợ Direct 3D, mô hình lập trình và đồ hoạ dựa trên DirectX chỉ được sử dụng cho Windows ở các máy để bàn. Ứng dụng này rất hữu ích cho các thiết bị như Portable Media Centers, một phần của Windows CE dự định phát hành vào cuối năm nay. 
+

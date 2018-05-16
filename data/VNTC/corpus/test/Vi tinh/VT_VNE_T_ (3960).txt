@@ -1,0 +1,7 @@
+Adobe lại gặp lỗi tràn bộ đệm
+Một lỗ hổng bảo mật trong hệ thống các ứng dụng Acrobat và Reader của Adobe có nguy cơ bị hacker khai thác để phá sập hay đột nhập máy tính cài chương trình lỗi.
+Bằng việc cài một file PDF chứa mã độc, kẻ tấn công từ xa có thể gây trục trặc cho nhiều ứng dụng, thậm chí kiểm soát toàn bộ hệ thống. Hãng sản xuất phần mềm tại California (Mỹ) đã đưa ra lời cảnh báo ngày 16/8, đồng thời nhanh chóng nâng cấp chương trình để khắc phục vấn đề. 
+Lỗi này ảnh hưởng đến chương trình Adobe Reader trong Windows, Mac OS, Linux và Solaris, cũng như Adobe Acrobat chạy trên Windows và Mac OS. Hãng bảo mật Secunia đánh giá trường hợp này ở mức "rất nghiêm trọng".
+Lỗ hổng có thể gây tràn bộ đệm trong ứng dụng lõi của Acrobat và Reader. Đây là vấn đề bị hacker khai thác khá thường xuyên . Hiện tượng tràn bộ đệm xảy ra khi một chương trình nào đó cho phép dữ liệu viết đè lên phần cuối của bộ nhớ trung gian, hay còn gọi là bộ đệm (buffer). Máy tính cũng có khả năng gặp kiểu lỗi này nếu nhập quá dữ liệu cho phép khiến buffer quá tải.
+Tháng trước,Acrobat Reader 5.0 dành cho hệ điều hành Linux cũng đã bị tràn bộ đệm.
+

@@ -1,0 +1,7 @@
+Làm mát PC chơi game bằng kim loại lỏng 
+Công nghệ mới, vừa được hãng Sapphire Technologies công bố, chuyển bộ xử lý đồ họa qua một bơm điện từ. Chất làm mát bay hơi và rồi được cô dặc lại trong hệ thống, đem lại tỷ lệ truyền dẫn nhiệt tốt hơn 65 lần so với nước.
+Hệ thống làm mát bằng kim loại lỏng mang tên Blizzard của Saphire Technologies.
+Kim loại lỏng là chất không độc, không cháy và hoàn toàn vô hại đối với môi trường, phát ngôn viên của hãng sản xuất cho biết. Công cụ làm mát mới của chúng tôi có thiết kế nhỏ, sử dụng chỉ một khe cắm bổ sung trên PC. Khi đã nạp đầy và đóng kín, nó không cần sự can thiệp của người sử dụng, không cần nguồn dự trữ hoặc nạp lại. Tất cả nằm trên card nên không cần bổ sung thêm chỗ gá lắp.
+Những chiếc thẻ đầu tiên sử dụng kỹ thuật làm mát này mang tên Blizzard Radeon X850 XT và X850 XT Platinum Edition sẽ được phát hành vào tháng 7. Sapphire dự định sẽ sớm mở rộng công nghệ này sang nhiều loại card khác. Nhà sản xuất không cung cấp thông tin chi tiết về chất lỏng mà họ sử dụng trong khi các nhà phân tích dự đoán đó có thể là một hợp chất metal và polymer.
+Làm mát card đồ họa đang trở thành một vấn đề lớn đối với các nhà sản xuất máy tính chơi game khi mà bộ xử lý chạy ngày một nhanh và do đó tỏa nhiệt nhiều hơn. Năm 1999, công sản xuất máy tính có tên Carrera đã bán ra một loại PC chơi game làm mát bằng chất Freon (chlorofluorocarbons). Tuy nhiên, đây mới là lần đầu tiên kim loại lỏng được dùng trong một định dang PC chuẩn.
+

@@ -1,0 +1,9 @@
+Sinh viên VN giành giải tại Imagine Cup 2005
+Khả năng sáng tạo và sự nhanh trí trong việc giải quyết hàng loạt phép tính phức tạp đã giúp thí sinh Nguyễn Phương Ngọc, hiện là sinh viên Đại học Công nghệ Nanyang (Singapore), đoat giai nhât phần thi thuật toán và nhận 8.000 USD tiền thưởng. 
+OmniMusic, đội thi đến từ Nga, đất nước của những bản tình ca lãng mạn, đã giành giải quán quân với phần thi Thiết kế phần mềm và bước lên ngôi vô địch thế giới Imagine Cup 2005.
+Trình diễn tại vòng chung kết, các thành viên của OmniMusic gồm Stanislav Vonog, Nikolay Surin, Alexander Popov và Ruslan Glifanov đã quyết định chọn âm nhạc làm ngôn ngữ chung. Bằng cách biểu diễn trực tiếp trên sân khấu với một thành viên khác tại một nơi cách đó rất xa, OmniMusic đã chứng minh công nghệ của cả nhóm có khả năng liên kết các nhạc sĩ có sự khác biệt về địa lý và nền văn hoá. 
+"Thông qua kỹ thuật truyền dữ liệu từ một nơi đến nhiều nơi (multicasting) bằng giao thức Internet, sản phẩm của chúng tôi giúp các nhạc sĩ tìm kiếm và bổ trợ kỹ năng cho nhau. Họ có thể cùng nhau trình diễn trực tiếp trong một môi trường dành riêng", Stanislav Vonog, thành viên của OmniMusic, cho biết. "Các nhạc sĩ có thể kết nối nhạc cụ của mình với máy tính hoặc thiết bị di động và qua đó kết nối với các đồng nghiệp khác tại bất kỳ nơi nào trên thế giới".
+Sau cuôc thi Imagine Cup, các sinh viên OmniMusic dự định sử dụng số tiền thưởng 25.000 USD để tiếp tục nâng cấp phần mềm OmniMusic và thực hiện ước mơ thiết lập một cộng đồng âm nhạc tập thể trực tuyến.
+Về đích trong cuộc so tài công nghệ thông tin là Stefan Plizga của Đại học INSA de Lyon (Pháp) với giải pháp mạng đa văn phòng hoàn chỉnh. Đội thi đến từ Brazil thắng cuộc trong phần thiết kế Office. Đoạt giải sản xuất các bộ phim ngắn là đội tuyển của Mexico. Thắng cuộc chơi game ảo là đội Ba Lan. 
+Imagine Cup 2006 sẽ được tổ chức tại thành phố Delhi (Ấn Độ) vào mùa hè năm tới.
+

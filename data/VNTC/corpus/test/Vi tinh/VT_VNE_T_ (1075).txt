@@ -1,0 +1,8 @@
+Intel ra mắt chip 32/64 bit
+Hôm qua, hãng sản xuất chip lớn nhất thế giới Intel giới thiệu bộ vi xử lý Xeon có phần mở rộng 64 bit. Với mã hiệu Nocona, chip đầu tiên được thiết kế cho thị trường máy trạm. Các phiên bản 32/64 bit cho máy chủ sẽ được tung ra trong vòng 2 tháng tới.
+Loại chip mới, có tốc độ lên tới 3,6 GHz, có khả năng xử lý dữ liệu tốt hơn chip 32 bit nhưng phần mềm phải được tối ưu hóa để đạt được lợi ích tối đa mà phần mở rộng 64 bit bổ sung. Chip Xeon mới cũng tăng cường một số chức năng như bộ nhớ DDR2, PCI Express, một bus trước 800 MHz cùng công nghệ Extended Memory 64. Được chế tạo theo quy trình 90 nm, bộ vi xử lý này cũng sẽ tận dụng công nghệ siêu phân luồng của Intel.
+Intel cũng giới thiệu chipset mới E7525 được tối ưu hóa cho máy trạm. Với mã hiệu Tumwater, E7525 sẽ tăng khả năng truyền dẫn của kênh truyền hệ thống lên 50% so với các chipset thế hệ trước. 
+Nhiều nhà sản xuất board và máy tính đã cam kết cung cấp máy trạm dùng chip Xeon mới, trong đó có Dell, HP, Fujitsu, NEC và Optimus. 
+Nocona ra mắt gần một năm sau khi AMD công bố bộ vi xử lý 32/64 bit Opteron được sử dụng trong máy tính của những nhà sản xuất máy chủ hàng đầu Hewlett-Packard, IBM và Sun Microsystems. 
+Trong một tuyên bố đưa ra hôm thứ hai, AMD nhận xét, vẫn còn "một số lợi thế rõ rệt trên nền AMD64 mà cấu trúc của Intel không có".
+

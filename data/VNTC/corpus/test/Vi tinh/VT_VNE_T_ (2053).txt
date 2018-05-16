@@ -1,0 +1,6 @@
+Nokia hỗ trợ flash trên nền Series 60 
+Nhà sản xuất thiết bị liên lạc di động hàng đầu thế giới cuối tuần qua công bố kế hoạch tích hợp công nghệ hiển thị hình động của hãng Macromedia vào nền phần mềm của họ dành cho điện thoại thông minh.
+Trong khuôn khổ thỏa thuận này, Macromedia sẽ phát triển một số phiên bản mới của công nghệ flash di động trên nền Series 60, nhờ đó các nhà phát triển sẽ có thể xử lý nội dung và ứng dụng flash cho thiết bị di động. Nokia dự kiến sẽ hỗ trợ flash cho cả các nền phần mềm khác.
+Hai công ty cũng sẽ xúc tiến các bộ công cụ phát triển ứng dụng di động để giúp cộng đồng thiết kế sáng tạo các nội dung flash. 
+Nền Series 60 được xây dựng trên hệ điều hành Symbian và được nhiều hãng chế tạo điện thoại cấp phép, trong đó có Lenovo, LG, Nokia, Panasonic, Samsung, Sendo và Siemens.
+

@@ -1,0 +1,7 @@
+ Freescale Banks với transitor mới
+Các loại MOSFET trước đây được sản xuất từ Silic. Mặc dù các thiết bị bán dẫn làm từ Silic đang phát triển với mức độ nhanh chóng nhất là trong những năm gần đây, tuy nhiên những thiết bị bán dẫn mà đặc trưng là MOSFET làm từ GaAs lại hứa hẹn nâng cao tốc độ hoạt động nhanh gấp 20 lần so với các MOSFET truyền thống. 
+Freescale cho biết họ đã bắt đầu nghiên cứu về GaAs MOSFET cách đây 10 năm, và thế giới công nghiệp thực tế cũng đã bắt đầu nghiên cứu từ thập niên 60 của thế kỷ 20. Do rất nhiều lý do về kỹ thuật, kinh tế mà loại MOSFET này chỉ mới có ở quy mô thí nghiệm, xuất hiện trong một số các thiết bị hết sức đặc thù. 
+Lý do về kĩ thuật phổ biến nhất là không kiểm soát được cường độ dòng nhiễu hay cường độ dòng rò rỉ. Với sự phát triển của công nghệ vật liệu mới, Freescale tự tin nói rằng, họ có khả năng hạn chế tối thiểu sự rò rỉ. 
+Về giá, MOSFET làm từ GaAs đương nhiên là đắt hơn rất nhiều so với Silic. Đây cũng là một trong những khó khăn lớn nhất của Freescale trong tiến trình thương mại hóa các sản phẩm ứng dụng công nghệ trên. Tuy vậy, khó khăn này không phải là không có hướng giải quyết. 
+Cũng phải vài năm nữa, người tiêu dùng mới có thể thụ hưởng thành tựu khoa học mới này. Lúc đó, thế giới công nghệ cũng sẽ bước qua một cột mốc mới. 
+

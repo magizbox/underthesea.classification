@@ -1,0 +1,5 @@
+ Yahoo vá lỗi bảo mật xuất hiện trong Yahoo Mail
+Công ty bảo mật SEC Consult cho biết rằng lỗi bảo mật này được biết đến như một lỗi lập trình trang web. Trang web của Yahoo đã không nhận ra được lỗi bảo mật xuất hiện trong cơ cấu các thẻ mã lệnh được kết hợp với các ký tự đặc biệt, từ đó gây nên hiện tượng “hiểu lầm” có thể được các hacker lợi dụng để chiếm đoạt tài khoản người dùng. 
+Các lỗi lập trình website xuất hiện khá phổ biến hiện nay, ngay cả trang web Google và trang web chuyên dùng cho máy chơi game Xbox 360 cũng không ngoại lệ, và nay là đến lượt trang web Yahoo Mail. 
+Đại diện của Yahoo cho biết rằng công ty đã tiến hành khắc phục ngay lập tức những lỗi này ngay khi phát hiện ra và khẳng định rằng chưa có người dùng nào bị ảnh hưởng do lỗi nói trên gây ra. Nhưng trong thực tế nếu tài khoản Yahoo Mail có bị hacker cướp đoạt thì đa số người dùng cũng đều nghĩ rằng password của mình đã bị lộ vì một lý do nào đó, và không thể nào quy kết trách nhiệm cho Yahoo. 
+

@@ -1,0 +1,4 @@
+ Chat nhiều nick trong Yahoo 7.5
+Để sử dụng, bạn chỉ cần chạy chương trình, bấm nút... (nằm phía trước chữ Crack it!) tìm đến đường dẫn chứa tập tin YahooMessenger.exe trong thư mục đã cài đặt YM (đường dẫn mặc định của phiên bản 7.5.0.333 là C:\Program Files\Yahoo!\Messenger\YahooMessenger.exe) rồi nhấn nút Crack it! Khi nào nhận được dòng thông báo Yahoo! Messenger crack successfully là đã thành công. 
+Phiên bản dùng cho mọi Windows, dung lượng 5.50 KB, tải miễn phí tại: http://conghung.com/forum/index.php?act=Attach&amp;type=post&amp;id=156 . 
+

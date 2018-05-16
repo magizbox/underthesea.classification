@@ -1,0 +1,14 @@
+No To All
+Mỗi khi hộp thoại lựa chọn xuất hiện, bạn thường chỉ được chọn 1 trong 3 "Yes, No, Yes to All". Trong một số trường hợp, bạn ước ao có thêm lựa chọn thứ tư "No to all". Muốn vậy, chỉ cần nhấn giữ phím Shift trong lúc click chọn No. 
+System Information
+Windows 2000/XP có trang bị cho PC một công cụ có tên là MSINFO32 để giúp người dùng có thể tìm thấy thông tin đầy đủ về PC của mình. Để khởi động MSINFO32, bạn vào Start -&gt; Run, nhập MSINFO32 vào hộp thoại. Với công cụ này, bạn sẽ nắm rõ mọi thông tin về phần cứng, các thiết bị ngoại vi, IE và bộ Office. MSINFO32 là công cụ rất hữu ích trong việc quản lý máy tính (ảnh).
+Bỏ thông báo lỗi
+Trong quá trình duyệt web hay chạy ứng dụng, nếu thấy "ngứa mắt" với hàng loạt các thông báo lỗi hiện trên màn hình, hãy vào Start -&gt; Control Panel -&gt; System -&gt; Advanced và click chọn Error Reporting -&gt; Disable Error Reporting trước khi nhấn OK.
+Shutdown nhanh hơn
+Nếu sử dụng Win98. Vào Start -&gt; Run, nhập regedit và mở HKEY_LOCAL_MACHINE\System \CurrentControlSet\Control\Shutdown. Tạo string mới bằng cách vào Edit -&gt; New -&gt; String, đặt tên là FastReboot và khai báo giá trị là 1. Lần sau, PC của bạn sẽ shutdown nhanh như gió.
+Còn nếu dùng WinXP, vào Start -&gt; Run và nhập regedt32, thay đổi giá trị trong "WaitToKillAppTimeout" tại HKEY_CURRENT_USER\Control Panel\Desktop thành 5000 ms, cuối cùng là OK.
+Biến hóa với phím Ctrl
+Khi bạn vừa nhấn giữ phím Ctrl và double-click lên một đường dẫn trong IE, một cửa sổ mới dẫn đến link đó sẽ mở ra. Tương tự, nếu giữ Ctrl và double-click lên một thư mục, cửa sổ mới dẫn đến thư mục đó ngay lập tức xuất hiện. Và khi bạn giữ Ctrl và kéo một file đến vị trí mới, Windows sẽ copy file chứ không chỉ là di chuyển file. Rất tuyệt, đúng không?
+Sắp xếp nhanh các paragraph
+Để nhanh chóng di chuyển các đoạn paragraph trong Word, thay vì vất vả bôi đen, kéo và thả từng đoạn, bạn hãy thử đặt trỏ chuột trước paragraph cần di chuyển, và nhấn giữ Shift+Alt+(phím mũi tên lên-xuống) để nhanh chóng di chuyển paragraph đến đúng nơi. 
+

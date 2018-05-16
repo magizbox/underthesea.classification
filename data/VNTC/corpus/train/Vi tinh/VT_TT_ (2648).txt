@@ -1,0 +1,9 @@
+ Microsoft tung ra bản vá bảo mật tháng 10-2005
+Lỗi bảo mật trầm trọng nhất là lỗi được Microsoft miêu tả trong bản tin bảo mật MS05-051, cho phép kẻ tấn công chiếm đoạt hệ thống khi lừa được người dùng chui vào những trang web độc được thiết kế chuyên để tấn công, hoặc khi người dùng nhắp vào 1 file có tính năng tương tự. 
+Lỗi này nằm trong cơ chế phối hợp giao dịch dữ liệu của Microsoft (MSDTC), tương tự như lỗ hổng bảo mật nằm trong Windows 2000 đã tạo điều kiện cho virus Zotob tấn công cách đây khoảng 2 tháng. Lỗi này ảnh hưởng đến Windows XP Service Pack 1 và Windows Server 2003. 
+Ngoài ra bản vá MS05-051 cũng đã khắc phục được 3 lỗi bảo mật khác nằm trong Windows 2000 và Windows XP, nhất là lỗi nghiêm trọng nằm trong cơ chế Windows điều hành giao thức COM+. 
+Bản vá bảo mật MS05-050 đã vá lại lỗi nằm trong cơ chế DirectShow ở công cụ chơi media của Windows. Kẻ tấn công có thể lợi dụng lỗi này để chiếm đoạt hệ thống khi lừa người dùng bật lên một file chuyên dùng để khai thác lỗi. 
+Bản vá bảo mật MS05-048 đã vá lại lỗi bảo mật ảnh hưởng đến Windows và phần mềm quản lý máy chủ e-mail Exchange. Bản vá MS05-047 khắc phục được lỗi bảo mật plug-and-play nằm trong Windows 2000 và Windows XP. Bản vá MS05-049 khắc phục được lỗi bảo mật nằm trong cơ chế tương thích giữa Windows với các mạng của Novell NetWare. 
+Bản vá bảo mật MS05-045 vá lại lỗi nằm trong cơ chế quản lý kết nối mạng nằm trong Windows 2000, XP và Server 2003. Ngoài ra bản vá này còn khắc phục được lỗi nằm trong cơ chế Windows FTP, tạo điều kiện cho kẻ tấn công thay thế một file thật đang truyền bằng một file giả mạo chuyên dùng để tấn công. 
+Người dùng có thể cập nhật các bản vá lỗi này thông qua tính năng Windows Automatic Updates hoặc vào đây để tham khảo và tải về dùng. 
+

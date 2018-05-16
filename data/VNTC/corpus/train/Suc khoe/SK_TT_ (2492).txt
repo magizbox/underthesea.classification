@@ -1,0 +1,31 @@
+ Sa sút trí tuệ có điều trị được không? 
+Dưới đây xin nhắc lại một số yếu tố nguy cơ đột quỵ: 
+1. Tăng huyết áp, duy trì huyết áp tâm thu dưới 140mmHg (&lt; 160mmHg cho bệnh nhân trên 60 tuổi) và huyết áp tâm trương dưới 90mmHg. 
+2. Xơ vữa mạch, phải điều trị tăng lipid máu đúng theo khuyến cáo để làm giảm bệnh mạch vành. 
+3. Không hút thuốc lá. 
+4. Bệnh nhân đái tháo đường, duy trì đường máu ở mức 120-150mg/dl hay 6.99mmol/l. 
+5. Điều trị bệnh lý tim mạch thích hợp. 
+6. Không uống rượu. 
+7. Tránh stress. 
+8. Hoạt động thể lực thường xuyên. 
+Điều trị tích cực đột quỵ làm giảm triệu chứng suy giảm nhận thức và SSTTMM? 
+Mục tiêu cơ bản của việc điều trị đột quỵ giai đoạn cấp là nhằm hạn chế tổn thương do đột quỵ gây ra, và những biến chứng làm cho bệnh thêm trầm trọng như viêm phổi, suy hô hấp, bệnh tim mạch hoặc thuyên tắc tĩnh mạch sâu. Áp dụng các kỹ thuật chăm sóc tích cực như đơn vị đột quỵ, can thiệp phẫu thuật khi có chỉ định. Hiện nay, việc sử dụng thuốc kháng đông và kết tập tiểu cầu là những chỉ định cơ bản của thiếu máu não cấp, bên cạnh việc sử dụng các thuốc lý giải cục máu đông như rTPA… 
+Có thuốc điều trị đặc hiệu suy giảm nhận thức và SSTTMM? 
+Hiện nay chưa có thuốc điều trị đặc hiệu suy giảm nhận thức và SSTTMM, nhưng có một số thuốc đã được sử dụng điều trị chứng suy giảm nhận thức và SSTTMM. 
+Nhóm ức chế cholinestarase 
+Từ sự thiếu hụt achetylcholine được phát hiện trên bệnh nhân Alzheimer và liên quan đến triệu chứng nhận thức (cognitive symptom) và trong SSTTMM. Nhiều công trình nghiên cứu cho rằng thuốc tác dụng trên nhận thức và trí tuệ do ức chế achetylcholine và tăng hoạt động dẫn truyền của hệ cholinergic. Hiệu quả của thuốc đã thể hiện qua các thử nghiệm lâm sàng như làm tăng điểm số hoạt động trí tuệ và hành vi ứng xử không phải trí tuệ khi so sánh với nhóm chứng. Thuốc được sử dụng khoảng 10 năm trước đây, hiện nay có một số thuốc ức chế Cholinesterase có mặt trên thị trường: 
+- Tacrine là một acrinide, thuốc có nhiều tác dụng phụ có thể gây độc cho gan, thận, hiện nay không còn sử dụng nhiều. 
+- Donepezil (Aricept) là một thuốc ức chế men acetylcholinesterase để điều trị triệu chứng sa sút trí tuệ nhẹ và vừa. Thuốc này làm chậm tiến triển các triệu chứng của sa sút trí tuệ. 
+- Rivastigmine là một carbamede cơ chế tác dụng gần giống prostigmine thuốc được sử dụng nhiều ở các nước Mỹ, Canada, Pháp, Úc… 
+- Galantamine (Reminyl) là một phenentrene alkaloide, thuốc được sử dụng rộng rãi ở Mỹ và các nước Bắc Âu. 
+Trong thử nghiệm, các thuốc trên thường được sử dụng 3-6 tháng và các phương pháp đánh giá gần giống nhau. Các thử nghiệm trên một năm là rất cần thiết để đánh giá tác dụng của thuốc. 
+Thuốc chống oxy hóa và loại bỏ gốc tự do 
+Càng ngày càng có nhiều bằng chứng cho thấy lão hóa liên quan đến gốc tự do nội sinh song song với quá trình tạo ra gốc tự do và não bị tác động bởi quá trình thoái hóa Alzheimer và bệnh mạch máu não, hiện nay đã có nhiều bằng chứng hơn việc sử dụng các thuốc có thể tác dụng theo hướng này như: 
+- Vitamine E, tên chung cho nhóm tập hợp chất tocopherol và tocotrienol tự nhiên với hoạt tính sinh học, có thể ngăn chặn quá trình sản xuất hudrogen peroxide. Nó làm giảm beta-amyloid vùng hải mã. So sánh điều trị với nhóm chứng cho thấy nó cải thiện đáng kể nhận thức ở bệnh nhân sa sút trí tuệ. 
+- Duxil (almitrine + raubsine) có tác dụng trên PaO2 + và PO2 + trên mức sử dụng oxy não do tăng áp suất riêng phần của oxy trong máu động mạch (PaO2) và tăng độ bão hòa oxy động mạch (SaO2). Vì thế duxil được sử dụng trên bệnh nhân suy giảm trí nhớ và suy giảm nhận thức trên người lớn tuổi kết hợp đột quỵ. 
+- Egb 761 (tanakan) và những chất chiết xuất từ lá cây Ginkgo biloba gồm các hoạt chất chính Flavonol, glycosides, và terpene lactone. Trên nghiên cứu (invivo) ở người nhận thấy một hoạt động mạnh mẽ đối kháng với gốc tự do và sự peroxyde hóa lipid các màng tế bào. Trong thực nghiệm lâm sàng thuốc cải thiện nhận thức trên bệnh nhân nhẹ và trung bình. 
+- Piracetam là thuốc tác dụng chống thoái hóa tế bào hay còn gọi là thuốc dinh dưỡng (nootropic). Thuốc có tác dụng làm giảm nhận thức bệnh nhân sa sút trí tuệ mạch máu. Bản thân thuốc được biết đến vai trò ảnh hưởng tốt đến quá trình học khả năng trí nhớ và nói. Thuốc còn được sử dụng sớm do giai đoạn đột quỵ cấp. 
+- Hướng điều trị yếu tố dinh dưỡng thần kinh (Neurotrophic Factor): Là những nghiên cứu yếu tố dinh dưỡng thần kinh đã được nhiều nhà nghiên cứu tại các trung tâm trên thế giới đã được tiếp cận trên nhiều khía cạnh khác nhau, từ vai trò sinh bệnh học cũng như tiếp cận điều trị. Yếu tố dinh dưỡng thần kinh hiện nay được biết đến với vai trò quan trọng trong cơ chế chống thoái hóa thần kinh hay chết tế bào tho chương trình (apotosis). Thuốc được sử dụng rộng rãi trong lâm sàng hiện nay trong đó có cerebrolysin. Thuốc được sử dụng trong điều trị đột quỵ giai đoạn cấp và phục hồi chức năng. 
+Điều trị 
+Chăm sóc bệnh nhân không phải chỉ có thăm khám lâm sàng, kê toa và phát thuốc mà cần một sự nhìn nhận toàn diện về trạng thái sức khỏe, cần theo dõi tìm hiểu tập tính, vợ chồng và người thân (người tiếp cận với bệnh nhân). Bệnh nhân sa sút trí tuệ sẽ phải ở mãi mãi với căn nhà của họ, một trại dưỡng lão hoặc một cơ sở y tế... Vì thế cần có một kế hoạch thích hợp cho bệnh nhân điều trị lâu dài. 
+

@@ -1,0 +1,7 @@
+ Hai quyển sách mới của tác giả Dương Quang Thiện
+TT - Tác giả nổi tiếng chuyên về sách công nghệ thông tin Dương Quang Thiện vừa giới thiệu tập thứ hai và ba của bộ sách .NET toàn tập. 
+&gt;&gt; Tập 1: Lập trình Visual C# như thế nào? 
+Tập 2 mang tên "C# và .NET Framework" trình bày giao diện lập trình phong phú của "sàn diễn" .NET để người đọc thực tập xây dựng ứng dụng Windows và ứng dụng web. 
+Đọc hết tập này người đọc sẽ hoàn chỉnh phần kiến thức nền tảng về C# và .NET, vừa có vai trò như bước đệm, chuẩn bị cho người đọc tiến vào từng vấn đề chuyên biệt trong các tập tiếp theo. 
+Tập 3 mang tên "Lập trình giao diện người dùng theo C#" hướng dẫn người đọc đi vào ngay vấn đề quan trọng của việc phát triển ứng dụng, thiết kế và xây dựng giao diện người dùng. Trong đó chú trọng đến các nguyên lý thiết kế "khôn ngoan" để tạo ra giao diện người dùng dễ thích nghi với mọi biến động. 
+

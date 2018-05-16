@@ -1,0 +1,46 @@
+VNPT ban hành cước dịch vụ mạng riêng ảo
+Tổng công ty Bưu chính Viễn thông VN vừa ban hành 5 loại cước cho dịch vụ mạng riêng ảo MegaWAN. Theo đó, cước thuê cổng đấu nối hòa mạng dành riêng cho việc lắp đặt đường dây thuê bao mới sẽ là 600.000 đồng/lần/cổng đối với dịch vụ ADSL (2M/640K).
+Ngoài ra, việc lắp đặt với đường dây thuê bao có sẵn và đủ điều kiện kỹ thuật sẽ có mức 300.000 đồng/lần/cổng dành cho cổng ADSL (2M/640K) và 700.000 đồng/lần/cổng cho cổng SHDSL (2M/2M). Cước chuyển đổi tốc độ cổng áp dụng cho hình thức chuyển đổi từ cổng ADSL sang cổng SHDSL là 400.000 đồng/lần/cổng và không thu cước đối với việc chuyển đổi từ cổng SHDSL sang ADSL.
+MegaWAN là một trong các dịch vụ trên nền mạng thế hệ mới NGN (Next Generation Network) dành cho các doanh nghiệp ra mắt hồi tháng 11/2004. 
+Bảng cước dịch vụ kết nối mạng máy tính MegaWAN mới này áp dụng cho các loại hình: Cước thuê cổng MegaWAN; Cước thuê kênh đường lên (up-link) MegaWAN nội tỉnh; Cước thuê kênh đường lên (up-link) liên tỉnh; Cước dịch vụ MegaWAN quốc tế và cước truy nhập Internet tốc độ 2Mb/s từ mạng MegaWAN.
+Cước đấu nối hòa mạng áp dụng cho dịch vụ thuê kênh đường lên (up-link) MegaWAN nội tỉnh sẽ được áp dụng ở các mức: tốc độ kênh dưới 512 Kb/giây là 150.000 đồng/lần/kênh đường lên. Tốc độ kênh từ 512 Kb/giây đến 2 Mb/giây là 500.000 đồng/lần/kênh đường lên. 
+Riêng cước thuê kênh liên tỉnh được VNPT quy định theo ba vùng: vùng 1 bao gồm các tỉnh thuộc miền Bắc đến Quảng Bình; vùng 3 bao gồm các tỉnh từ Quảng Trị đến tỉnh Khánh Hòa, Đăk Lăk, Đăk Nông; vùng 2 là các tỉnh còn lại.
+Ngoài ra, cước đấu nối hòa mạng đối với dịch vụ MegaWAN quốc tế được quy định mức tính theo 2 vùng: vùng 1 từ Việt Nam đi các nước và vùng lãnh thổ gồm Nhật Bản, Trung Quốc, Singapore, Thái Lan, Lào, Campuchia, Malaysia, Indonesia, Philippines, Hong Kong và Đài Loan; Vùng 2 từ Việt Nam đến các nước còn lại. Cước dịch vụ MegaWAN quốc tế được áp dụng cho tốc độ đường truyền từ 64 Kb/giây đến 2.048 Kb/giây với đơn vị tính USD/tháng. Các mức cước trên chưa bao gồm VAT và đơn vị tính là USD.
+Tham khảo bảng dưới đây:
+Tốc độ kênh (Kb/giây)
+Vùng 1
+Vùng 2
+64
+828
+884
+128
+1.213
+1.294
+192
+1.495
+1.595
+256
+1.789
+1.909
+384
+2.172
+2.317
+512
+2.626
+2.801
+768
+2.800
+2.986
+896
+3.107
+3.315
+1.024
+3.722
+3.970
+1.152
+4.503
+4.803
+2.048
+5.538
+5.907
+

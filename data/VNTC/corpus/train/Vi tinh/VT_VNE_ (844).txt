@@ -1,0 +1,5 @@
+Hỏi về cách cài đặt WAP cho ĐTDĐ N7610 (1)
+Có anh chị nào biết cách cài đặt WAP cho DT N7610 or N6600 không làm ơn chỉ cho em với. ĐT của em dùng mạng Vinaphone nhưng chỉ nhận, gửi được MMS thôi, không tài nào kết nối được WAP. 
+Hồi âm:
+Bạn phải đặt proxy server cho máy ĐT trong mục Setting của kết nối GPRS trên máy của mình bằng địa chỉ: 10.1.10.13 và cổng là 8000 mới vào được.
+

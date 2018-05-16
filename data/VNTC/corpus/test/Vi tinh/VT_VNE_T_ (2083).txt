@@ -1,0 +1,9 @@
+Xem tranh qua bản nhạc
+Chỉ cần ghi lại những nốt nhạc phát ra từ loa máy tính, một sinh viên mù có thể "đọc" được bản đồ thời tiết và miêu tả bức ảnh về một con vẹt. Điều này thực hiện được là nhờ một phần mềm giúp chuyển các gam màu thành nốt nhạc.
+Victor Wong, một sinh viên mù người Hong Kong tại Đại học Cornell (New York, Mỹ) đang thực hiện một công trình nghiên cứu về sự thay đổi thời tiết ở tầng khí quyển cao. Hướng đi của anh là theo dõi những biến đổi về nhiệt độ trong không gian theo từng phút để thiết lập các mô hình toán học. Để làm được điều đó, Wong phải đọc nhiều bản đồ thời tiết màu. 
+Anh đã thử nhiều cách, kể cả nhờ một người bạn mô tả bản đồ thời tiết và in ra bằng kiểu chữ Braille để anh có thể đọc được. Cuối cùng, Wong đã nảy ra ý tưởng chuyển từng điểm ảnh màu riêng biệt thành các nốt nhạc thông qua một phần mềm. Để thực hiện ý tưởng đó, anh nhờ đến sự giúp đỡ của một chuyên gia đồ hoạ máy tính và một sinh viên chuyên ngành lập trình.
+Nguyên lý hoạt động của phần mềm khá đơn giản. Nó sẽ chuyển mỗi điểm ảnh trên hình ảnh màu thành một trong số 88 nốt nhạc piano - từ màu xanh lục đến màu đỏ trong dải màu. Người sử dụng ghi lại các nốt nhạc đó, sau đó tổng hợp lại để có được màu sắc tổng thể của hình ảnh. Wong đã sử dụng phiên bản mẫu của phần mềm này để "nhìn" bức ảnh một con vẹt.
+Wong cho biết phần mềm này vẫn đang trong giai đoạn hoàn thiện và chỉ có tác dụng khi đọc các hình ảnh kỹ thuật số.
+"Nếu tôi chọn một bức ảnh ngẫu nhiên và quét nó, sau đó sử dụng phần mềm này để "xem" thì nó vẫn có thể chuyển các gam màu sang nốt nhạc, nhưng mức độ chính xác không cao", Wong nói.
+Wong bị mù khi lên 7 nên anh vẫn có thể tưởng tượng được màu sắc. "Khi độ cao của các nốt nhạc tăng lên tôi biết rằng màu của hình ảnh đang chuyển dần sang màu đỏ, và trong đầu tôi, một mảng màu đỏ xuất hiện", anh nói. Với những người mù bẩm sinh, những người không hề có khái niệm về màu sắc, phần mềm này có vẻ không hữu ích lắm.
+

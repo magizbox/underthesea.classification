@@ -1,0 +1,22 @@
+Hỏi đáp về bệnh cúm A (phần 2)
+Virus cúm A thường xuyên thay đổi cấu trúc kháng nguyên nên dễ gây dịch nguy hiểm. Sự thay đổi lớn về kháng nguyên về mặt thường là kết quả của hiện tượng lai tạo gene giữa các phân type của virus cúm A, tạo thành dịch lớn.
+Tại sao Tổ chức Y tế Thế giới (WHO) lại cảnh báo rằng virus cúm A có thể biến đổi và trở nên hung hãn hơn?
+Virus cúm A thường xuyên thay đổi cấu trúc kháng nguyên nên dễ gây dịch nguy hiểm. Thay đổi nhỏ về kháng nguyên bề mặt (trôi dạt) sẽ gây dịch nhỏ và vừa; thay đổi lớn đột ngột (di chuyển) có thể gây ra dịch lớn. Sự thay đổi lớn này thường là kết quả của hiện tượng lai tạo gene (tái tổ hợp) giữa các phân type của virus cúm A. WHO lo ngại về sự tái tổ hợp giữa H5N1 với virus H3N2, H1N1 (gây bệnh cúm thông thường ở người), hay với virus cúm ở lợn để tạo ta type mới mãnh độc và lan truyền mạnh hơn trên người hay động vật có vú.
+Nếu H5N1 trực tiếp lây từ người sang người thì sẽ có đại dịch cúm rất nghiêm trọng?
+Đúng vậy. Điều đó chứng tỏ H5N1 đã có cấu trúc phân tử và cơ chế thích ứng để lây được từ người sang người trong khi chúng ta hoàn toàn chưa có khả năng miễn dịch chống lại sự lan tràn của nó. 
+Nguy cơ mắc bệnh cúm gà có như nhau với mọi người không?
+Về lý thuyết, nguy cơ là gần như nhau vì đây là tác nhân gây bệnh mới mà mọi người chưa có khả năng miễn dịch. Tuy nhiên trên thực tế, khả năng cảm nhiễm virus H5N1 của mỗi người có thể khác nhau do cơ địa không giống nhau. Trong các vụ dịch vừa qua, tuy cùng tiếp xúc như nhau với gia cầm ốm nhưng có người mắc bệnh, có người không. Tuy nhiên, do chưa hiểu rõ quy luật và mức độ cảm nhiễm nên mọi người đều phải cảnh giác.
+Bệnh cúm H5N1 lây truyền từ gia cầm sang người như thế nào?
+Hiện nay, kết quả phân tích mã gene của virus H5N1 gây bệnh ở người và ở gia cầm là hoàn toàn giống nhau (98,5-99,7%). Vì vậy, có thể khẳng định virus H5N1 trong dịch cúm ở người hiện nay là lây từ gia cầm. Tuy nhiên, vẫn chưa có câu trả lời xác đáng về cơ chế lây truyền. Những khả năng có thể xảy ra là:
+- Lây qua đường hô hấp bởi các giọt nhỏ dớt dãi, dịch tiết đường hô hấp và tiêu hóa của gà ốm (khi trực rtiếp chăm sóc, giết mổ, tiêu hủy) hoặc do người hít phải không khí có bụi từ phân gà, phân chim, dịch tiết khô mang virus còn sống.
+- Lây qua đường tiếp xúc, virus cúm trong bàn tay bẩn, thức ăn nước uống ô nhiễm... đi vào miệng và qua đó thâm nhập đường hô hấp. 
+Tại sao bệnh cúm A lại nặng và tỷ lệ tử vong cao?
+Bệnh cúm A thường có diễn biến nặng, nhất là ở người già, trẻ em những người bị bệnh mạn tính như tim mạch, phổi, thận, rối loạn chuyển hóa, thiểu năng miễn dịch. Nguyên nhân là virus cúm A có độc lực cao, lại có khả năng nhân lên rất mạnh trong các tế bào biểu mô của toàn bộ đường hô hấp. Nó còn có thể gây viêm phổi tiên phát hoặc biến chứng viêm phổi do bội nhiễm. Virus H5N1 xa lạ với cơ thể người nên gây tổn thương rất nhanh, phá hủy nhu mô phổi và nhiều phủ tạng, tỷ lệ tử vong cao hơn hẳn các type virus cúm A khác. 
+Làm thế nào để phân biệt một ca nghi ngờ và một ca được xác định mắc cúm gà trên người?
+Một người được coi là nghi ngờ nhiễm cúm A khi: Sốt cao liên tục, kèm ho, đau ngực, khó thở thở nông; từng tiếp xúc với gia cầm ốm hoặc bệnh nhân cúm A trước khi phát bệnh trong vòng 7 ngày; hoặc đang có mặt trong vùng dịch cúm gia cầm. Các trường hợp tử vong không rõ nguyên nhân, có tiền sử tiếp xúc dịch tễ với nguồn lây cúm gà cũng được coi là nghi nhiễm.
+Một ca bệnh được xác định mắc cúm gà ngoài các triệu chứng nêu trên còn cần thêm các xét nghiệm khẳng định sự có mặt của H5N1 trên bệnh nhân: thử nghiệm RT-PCR xác định type H5 và N1 dương tính; nuôi cấy virus trên tế bào dương tính, thử nghiệm Elisa phát hiện kháng thể kháng H5N1 dương tính...
+Người nghi ngờ mắc cúm A phải làm gì?
+Những việc cần làm là đeo khẩu trang, giữ ấm cơ thể, nhất là cổ, ngực, đầu và chân; giữ vệ sinh răng miệng, mũi họng, mắt và bàn tay. Nên ăn uống nóng, đủ chất, giàu vitamin, nhất là vitamin C. Đi khám bệnh ngay, nên đến phòng khám chuyên khoa truyền nhiễm hoặc nhi (nếu là trẻ em).
+Theo Bộ Y Tế
+(còn tiếp)
+

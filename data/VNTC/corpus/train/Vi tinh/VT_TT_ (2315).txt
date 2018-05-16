@@ -1,0 +1,8 @@
+ Live.com: web dịch vụ tùy biến 
+Live.com có thể nói là một trang web con của MSN vì nó tích hợp rất nhiều dịch vụ và nguồn tin tức lấy từ MSN, nhưng những ai đã thử dùng qua Live.com bản beta này có thể sẽ không muốn quay lại MSN lần nào nữa. 
+Cái độc đáo nhất của Live.com là tính đơn giản, dễ sử dụng và tính tùy biến giao diện độc đáo dành cho người dùng. Trong khi MSN.com là một portal web đầy đủ nhất nhưng cũng hết sức rắc rối như một đại đô thị, thì khi vào Live.com người dùng sẽ có cảm giác nhẹ nhàng, thư thái như đang đi dạo ở miền đồng quê. Chỉ khi nào nhắp vào các chuyên mục yêu thích, thì menu mở rộng sẽ bật ra rất nhiều menu con để người dùng tha hồ lựa chọn đủ mọi nguồn tin hoặc dịch vụ tham khảo. 
+Việc xây dựng nên trang web Live.com là ý tưởng tuyệt vời của dự án mang tên Windows Live Ideas. Ngoài ra Live.com cũng cung cấp cho người dùng một web e-mail miễn phí có đuôi @live.com với dung lượng hộp thư lên đến 2 GB, tương tự như Gmail của Google. 
+Người dùng nào đã có tài khoản Hotmail thì cũng đều có thể truy cập vào Hotmail của mình thông qua trang web Live.com và ngược lại. 
+Mọi người dùng cũng có thể sử dụng Live.com để thiết lập nên các trang web cá nhân của mình theo kiểu www.tênwebsite.Live.com thông qua dịch vụ Custom Domains. Khi xây dựng thành công website với đuôi Live.com, Microsoft cũng sẽ cung cấp cho người dùng đến 20 tài khoản e-mail miễn phí @tênwebsite.live.com với dung lượng mỗi tài khoản lên đến 250 MB, tương tự như Hotmail hiện nay. 
+Tất cả mọi hộp thư Live.com đều được trang bị mọi tính năng chống virus và lọc thư rác khá hữu hiệu. Hiện nay mọi dịch vụ từ MSN đều đã được kết nối với Live.com. 
+

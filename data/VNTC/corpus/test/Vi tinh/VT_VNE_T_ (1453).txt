@@ -1,0 +1,7 @@
+Microsoft thay thế miễn phí Windows lậu 
+Khách hàng của Microsoft ở Anh nếu mua phải những bản Windows XP giả mạo sẽ được thay thế bằng phần mềm hợp pháp có bản quyền mà không phải trả tiền.
+Những kẻ giả mạo ngày càng tinh vi hơn trong việc tạo ra các phiên bản Windows XP bất hợp pháp, điều đó buộc nhà sản xuất phần mềm khổng lồ này phải xây dựng một chương trình máy tính nhằm xác định đâu là sản phẩm bị giả mạo và sẽ thay thế cho những khách hàng đã mua phải chúng bằng các phiên bản do chính hãng cung cấp. Chương trình cũng sẽ kiểm tra nhằm thu thập thông tin về kẻ làm giả và kĩ thuật được sử dụng trong việc tạo ra các phiên bản "nhái" để Microsoft có biện pháp đối phó.
+Đây là giải pháp nhằm đối phó với nạn vi phạm bản quyền gây thiệt hại hàng tỉ USD mỗi năm cho Microsoft. Chương trình hiện tại mới chỉ được áp dụng tại Anh đối với những phiên bản được mua trước ngày 1/11 và phải báo cho Microsoft trước ngày 31/12.
+"Không chỉ gia tăng về số lượng, các phiên bản làm giả còn đạt đến trình độ không thể ngờ được", Alex Hilton, phụ trách việc quản lý bản quyền của Microsoft ở Anh, cho biết. 
+Với động thái mới, Microsoft hy vọng khách hàng sẽ nhận ra những khó khăn khi sử dụng phần mềm bất hợp pháp, đồng thời cảnh báo những công ty đã mua máy tính cài đặt hệ điều hành bất hợp pháp có thể không chỉ phải đối mặt với các vụ kiện cáo mà còn đứng trước nguy cơ an ninh hệ thống. 
+

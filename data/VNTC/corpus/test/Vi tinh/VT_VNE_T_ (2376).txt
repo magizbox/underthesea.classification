@@ -1,0 +1,11 @@
+Tin vắn ngày 18/3
+Đại học Lạc Hồng có thương hiệu máy tính riêng Trung tâm giao dịch chứng khoán Hà Nội sử dụng hệ thống phần mềm của FPT HP và America Online ký kết hợp tác 3 năm về quản lý dịch vụ công nghệ thông tin.
+Ông Trần Hành, Hiệu trưởng Đại học dân lập Lạc Hồng (Đồng Nai), cho biết, nhà trường đã khánh thành và đưa vào sử dụng dây chuyền lắp ráp máy vi tính thương hiệu Đại học Lạc Hồng. 
+Đây là dây chuyền tự động với công nghệ của Singapore gồm các hệ thống kiểm tra linh kiện, dây băng chuyền lắp ráp, hệ thống kiểm tra độ rung, độ ẩm... với công suất 18.000 PC năm. Từ học kỳ 2 năm học 2004-2005, sinh viên khoa Công nghệ thông tin sẽ được thực hành lắp ráp computer trực tiếp trên dây chuyền này. PC Lạc Hồng được trang bị cho các phòng, khoa, bán trả góp cho giảng viên, sinh viên với giá rẻ và cung cấp cho các dự án Internet về nông thôn của tỉnh. Sở Giáo dục và Đào tạo địa phương cũng đặt mua sản phẩm này để trang bị cho các trường phổ thông trong tỉnh.
+(Theo Thanh Niên)
+Trung tâm giao dịch chứng khoán Hà Nội vừa đưa vào sử dụng hệ thống phần mềm đấu giá cổ phiếu, đấu thầu trái phiếu do công ty Giải pháp phần mềm FPT (FSS) xây dựng. 
+FSS đã xây dựng và triển khai các giải pháp cho Trung tâm này gồm: phần mềm giao dịch cổ phiếu doanh nghiệp vừa và nhỏ với các hệ thống giao dịch, đăng ký, lưu ký và thanh toán bù trừ, giám sát và công bố thông tin thị trường, phần mềm đấu giá ASBS với hệ thống đấu giá cổ phiếu và đấu thầu trái phiếu.
+N.H.
+Tập đoàn America Online (AOL) đã thỏa thuận với HP để hãng này cung cấp các dịch vụ hỗ trợ tích hợp cho công nghệ lưu trữ và máy chủ của AOL. Trong vòng 3 năm tới, các dịch vụ mà HP cung cấp cho AOL tại Mỹ bao gồm: tăng tốc việc gom các liên hệ thành một và chuẩn hoá các quy trình cũng như dịch vụ hỗ trợ, giảm bớt lượng công việc công nghệ thông tin cho AOL bằng cách đơn giản hoá quản lý các dịch vụ hỗ trợ cũng như giúp giảm chi phí thông qua giải phóng các nguồn lực.
+HP sẽ quản trị cho hơn 15.000 máy chủ từ nhiều hãng khác nhau của AOL trong đó có 9.000 sản phẩm của HP bao gồm sever HP Integrity với bộ vi xử lý Intel Itanium 2 và HP 9000, máy chủ HP ProLiant, HP NonStop cũng như máy trạm HP.
+

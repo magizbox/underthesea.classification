@@ -1,0 +1,7 @@
+Lương trong ngành công nghệ dần được cải thiện
+Theo một nghiên cứu mới đây của Dice, nhà cung cấp dịch vụ tuyển dụng kỹ sư CNTT trực tuyến (Mỹ), mức lương trong ngành này đang tăng trở lại kể từ thời kỳ oanh liệt nhất là năm 2000.
+Dice đã tiến hành khảo sát 21.000 chuyên gia công nghệ cao và cho biết mức lương trung bình của họ tăng 2%, từ 67.900 USD (năm 2002) lên 69.400 USD (năm 2003). Thu nhập trong ngành công nghiệp phần cứng máy tính cũng tăng 4%, ở mức 57.900 USD. "Thị trường công nghệ đang thay đổi theo hướng có lợi hơn cho người lao động so với cách đây 18 tháng", Scot Melland, Chủ tịch kiêm Giám đốc điều hành Dice, nhận định. 
+Các hãng công nghệ dự định tuyển dụng nhiều trong năm nay. "Cuối quý III/2003, chúng tôi đã khảo sát 300 công ty chuyên tuyển dụng và 40% trong số họ cho biết sẽ tìm thêm nhiều nhân viên trong năm 2004. Ngược lại với cuộc thăm dò năm ngoái, 70% công ty công nghệ hạn chế tuyển lao động", ông Melland nói.
+Theo nghiên cứu của Dice, các vị trí quản trị mạng và MIS được trả lương cao nhất trong mấy năm qua (từ năm 2001), tăng tương ứng 7% và 5%. Nhà quản lý IT kiếm được nhiều tiền nhất với 104.000 USD mỗi tháng. Thứ nhì là quản trị dự án - 88.300 USD, phát triển hệ thống - 83.200 USD và kỹ sư phần mềm - 81.400 USD.
+Những hãng trả lương hậu hĩ nhất là SAP và PeopleSoft. Các kỹ sư làm việc full-time ở hai công ty này sẽ được nhận mức lương tương ứng 81.200 USD và 78.600 USD. Đối với những ai có kinh nghiệm về Unix và C/C++ thì được trả 75.200 USD và 72.400 USD.
+

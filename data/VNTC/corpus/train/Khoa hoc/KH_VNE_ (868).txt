@@ -1,0 +1,7 @@
+Có độ 0 tuyệt đối, vậy có nhiệt độ tối đa không?
+Tồn tại độ 0 tuyệt đối vì ở đó không còn năng lượng. Nhưng không có nhiệt độ tối đa, bởi vì không có giới hạn nào cho số năng lượng mà bạn có thể đưa vào bất cứ vật gì đó. 
+Độ 0 tuyệt đối, hay âm 273,15 độ C (- 459,67 độ F) về lý thuyết là nhiệt độ tại đó mọi phân tử ngừng chuyển động. Nó đại diện cho sự thiếu vắng năng lượng.
+Chúng ta có khái niệm về nhiệt độ thấp nhất bởi vì bất cứ một cơ thể nào cũng đều có một trạng thái năng lượng thấp nhất, ở đó mọi năng lượng đều đã bị vắt kiệt.
+Bạn cũng có thể nói về nhiệt độ tối đa cho một cơ thể xác định nào đó, bởi vì ở một số thời điểm nào đó nó có thể đủ nóng để vỡ ra, chảy ra hoặc rời ra và tại thời điểm đó nó không còn cùng là một cơ thể nữa. Tuy vậy, lúc nào cũng có một số vật thể hoặc chất nào đó luôn tồn tại ở bất kể nhiệt độ nào (tức là không có giới hạn trên về nhiệt độ) bởi vì ta có thể nạp thêm năng lượng cho nó bao nhiêu tuỳ thích. 
+Một nhà vũ trụ học có thể nói rằng câu hỏi này giống như câu hỏi: "Thời gian ngắn nhất là gì?" Mọi vật đã và đang bị nguội đi kể từ sau vụ nổ lớn, vì vậy 1 phần triệu giây sau vụ nổ đó, bằng cách đo tương đối mà ngành vật lý học ngày nay cho ta thấy, về mặt lý thuyết có thể là nhiệt độ nóng nhất được biết đến, nhưng một phần tỷ giây sau vụ nổ lớn đó có thể còn nóng hơn. 
+

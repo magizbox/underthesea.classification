@@ -1,0 +1,7 @@
+Sản lượng DDR2 lần đầu tiên vượt DDR
+Samsung tuần qua đã tuyên bố lượng tiêu thụ DDR2 toàn cầu đang tăng lên đáng kể. Trong tháng 7, loại chip nhớ này chiếm 40% số DRAM xuất xưởng, qua mặt dòng DDR phổ thông hiện nay.
+Hãng sản xuất RAM số một thế giới hy vọng DDR2 có thể thay thế DDR từ năm ngoái, nhưng giá thành cao đã làm chậm quá trình này. Trong thời gian chuyển tiếp, DDR, tốc độ 400 MHz (DDR-400) vẫn là thanh RAM phổ biến nhất trong máy tính. 
+Giới quan sát cho rằng thị trường bộ nhớ flash cũng một phần cản trở DDR2. Đặc biệt, camera số và thiết bị nghe nhạc MP3 phát triển mạnh đã thúc đẩy tăng trưởng thẻ nhớ flash NAND. 
+Tuy nhiên, sự phổ biến của máy tính xách tay là đòn bẩy quan trọng cho DDR2. Dù tốc độ nhanh không đáng kể so với DDR, thanh RAM thế hệ mới này tiêu thụ ít điện năng, do đó được coi là một cải tiến đáng kể cho máy tính xách tay. 
+Samsung đang lên kế hoạch sản xuất phiên bản 256 MB, 512 MB,1 GB với tốc độ 533 MHz, và chip 256 MB, 512 MB tốc độ 667 MHz. Doanh số DDR2 dự tính đạt 6,5 tỷ USD, so với 1,5 tỷ USD năm 2004, và sẽ tăng lên 18 tỷ USD trong năm tới.
+

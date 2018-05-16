@@ -1,0 +1,15 @@
+Bí quyết kéo dài tuổi thọ cho pin máy tính xách tay
+Nếu không sử dụng đúng cách, tuổi thọ pin laptop sẽ giảm và chỉ có thể chạy máy tính trong thời gian ngắn hơn so với năng lực thật của nó. Khi mua mới, người dùng cần đọc kỹ hướng dẫn sử dụng kèm theo hoặc tham khảo trên website của nhà sản xuất về cách dùng pin.
+Khi mua, toàn bộ laptop được bảo hành 3 năm nhưng pin chỉ có thời hạn một năm. Một bộ pin máy tính xách tay hiện nay trên thị trường Việt Nam giá khoảng 150 USD. Vì lẽ đó mà nhiều người luôn quan tâm chăm sóc pin như "nâng trứng, hứng hoa".
+Khi còn nguyên đai nguyên kiện, pin mới chưa được nạp điện. Tài liệu hướng dẫn của các hãng đều khuyên người dùng cấp nguồn điện để sạc pin liên tục cho đến khi đầy (có thể cần đến 12 giờ, nhận biết nhờ đèn báo hiệu) sau đó rút điện và sử dụng cho đến khi pin xả hết hoàn toàn. Việc đó cần lặp lại 3 lần liên tiếp. Nếu sau vài tháng không sử dụng pin, động tác trên cũng cần được thực hiện lại. Lưu ý là chỉ sạc lại pin khi đã sử dụng hết và đã sạc pin thì nên nạp liên tục cho đến khi pin đầy, tránh sử dụng máy khi pin chưa "no".
+Đối với pin loại Ni-MH (Niken-Metal Hydride), để tối ưu hiệu suất thì cứ vài tháng một lần, cần thực hiện việc xả hoàn toàn bằng cách sử dụng cho đến mức cạn kiệt (0%, thông thường máy sẽ tự động chuyển sang chế độ ngủ đông), rồi cấp nguồn điện để sạc đầy (100%).
+Tuy nhiên, với pin loại Li-ion (Lithium Ion) thì không nên xả hoàn toàn vì pin có thể bị ngắn mạch, làm giảm tuổi thọ của nó và thậm chí gây nguy hiểm cho người sử dụng.
+Một số loại máy tính xách tay có sẵn tiện ích refresh pin chạy ngay trong môi trường Windows rất thuận tiện. Tiện ích này sẽ nạp đầy rồi xả... mà không cần phải rút cáp nguồn. Nếu máy tính xách tay không có sẵn tiện ích này thì buộc người sử dụng phải rút cáp nguồn thủ công để máy tính xả hết, rồi cắm lại cáp nguồn...
+Nhìn chung, sạc pin là việc nạp lại năng lượng cho đồ điện tử thông qua phản ứng hóa học. Vì vậy, các yếu tố như sự thay đổi nhiệt độ, việc không sử dụng pin trong một thời gian dài, điều khiển tải và số lần sạc lại đều ảnh hưởng đến tuổi thọ của pin. 
+Hầu hết các hiệu máy đều có phần mềm để kiểm tra tình trạng pin. Chẳng hạn tiện ích Battery MaxiMiser and Power Management Features được cài mặc định trên máy tính xách tay của hãng IBM. Để sử dụng chương trình này, cần thực hiện theo các bước sau:
+Bước 1: Sau khi cài đặt, chọn biểu tượng Battery MixiMiser Gauge trên taskbar. Chọn Battery Information để hiển thị cửa sổ Battery Information.
+Bước 2: Chọn Battery Health để xem các thông tin về tình trạng của pin.
+Mục Battery Health màu xanh là tình trạng pin tốt. Nếu đỏ là cần thay pin mới.
+Việc tính toán thời gian sử dụng còn lại dựa vào công suất sử dụng hiện tại. Điều này có nghĩa là thời gian dùng pin còn lại có thể thay đổi. Ví dụ, nếu hệ thống hoạt động tối đa, năng lượng tiêu thụ sẽ nhiều thì thời gian sử dụng pin còn lại sẽ ngắn hơn.
+Nếu chọn Battery Tips, chương trình sẽ cung cấp nhiều thông tin, mẹo vặt giúp sử dụng nguồn pin tốt hơn.
+

@@ -1,0 +1,6 @@
+Làm việc tại gia - xu thế trong kỷ nguyên công nghệ?
+Với sự xuất hiện của các thiết bị viễn thông không dây, ngày càng nhiều nhân viên cho biết họ muốn làm việc từ xa tại một địa điểm nào đó thay vì cơ quan. Đây là kết quả một khảo sát vừa công bố của hãng viễn thông Anh BT.
+2/3 số người được hỏi nói họ không muốn đến cơ quan. Nơi làm việc được ưa thích nhất là bờ biển (37%). Tiếp theo là ghế đá công viên, đỉnh núi hay khu vườn sau nhà. Thậm chí, có 4% khẳng định họ khoái nhất là nằm bẹp trên giường để làm việc. 
+AddVote(1000141963,0,129058773,'','Nơi nào khiến bạn cảm thấy làm việc hiệu quả nhất?','#000000','#96CBCB','100%',4, new Array(new Array('1. Tại công sở.',0,0),new Array('2. Ở nhà.',0,1),new Array('3. Ngoài thiên nhiên.',0,2),new Array('4. Những nơi khác.',0,3)),'',1)Khảo sát này cũng chỉ ra rằng 28% công chức làm việc từ 9 đến 12 giờ một ngày. Những người này cho rằng làm việc ở nhà sẽ giúp họ cân bằng thời gian giữa gia đình và sự nghiệp. 
+Ngoài ra, 57% người tham gia khảo sát ngồi trước máy tính hơn 5 tiếng hàng ngày. Vì người ta ngày càng phải sử dụng máy tính nhiều hơn nên việc chọn một nơi phù hợp để đặt và làm việc với thiết bị này cũng là một vấn đề, Steve Andrews, phát ngôn viên của BT, giải thích. 
+

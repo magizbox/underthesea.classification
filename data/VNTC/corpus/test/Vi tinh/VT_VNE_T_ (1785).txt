@@ -1,0 +1,11 @@
+Hỏi về Mainboard ASUS P4GBL (2)
+Hien nay, toi dang co main ASUS P4BGL, qua kiem tra tren main toi thay mot khoang trong, co nhung chan tri, de cam slot AGP, va co ghi chu AGP 1 .( hien tai thi tren main khong co slot AGP ). Vao kiem tra CMOS co ho tro AGP 4x, nhung hien nay toi o Long Xuyen, An Giang. Khong biet o dau lam duoc yeu cau toi mongmuon! Xin cac ban cho toi biet. Viec cam them Slot AGP do o dau? chi phi khoang bao nhieu? Xin cam on!
+Nguyễn Hoàng Trung Tín
+Hồi âm:
+Chào bạn Tín. Mainboard Asus P4GBL là loại build in AGP nên bạn chỉ sử dụng video port có sẵn trên board. Gắn thêm AGP port giá thành sẽ mắc hơn là mua board mới có sẵn AGP slot. 
+Nếu bạn cảm thấy máy chạy chậm thì bạn chỉ cần update thêm Ram/ vì Video on board , dùng Ram chung với motherboard (nếu được khoảng 512mb thì tốt), và vào bios để tăng thêm ram cho AGP đến mức tối đa. 
+Nếu video build in không xử dụng được thì mua PCI video card xài đỡ. 
+Còn nếu bạn muốn gắn AGP video card thì nên mua motherboard mới cùng với AGP card tương thích. Có thể câu trả lời không làm bạn hài lòng nhưng đó là những biện pháp khả thi. 
+Thien My
+Thong thuong tren main board deu co san AGP slot ban chi can cam them AGP card vao la duoc, neu cmos ho tro 4x thi ban nen gan card 4x vi do tuong thich voi bang thong rong ADSL neu ban thich choi game, muon gan AGP slot ban co the nho bat cu nguoi tho sua tivi nao ho lam cung duoc het chi can dung cu han chi tren main la duoc ..ban co the xem gia ca slot va AGP card neu co nguoi than o nuoc ngoai thi nho mua gium..link main va AGP slot http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=1163901CatId=1142,  con day la link AGP card http://www.tigerdirect.com/applications/SearchTools/search.asp?keywords=agp+card. 
+

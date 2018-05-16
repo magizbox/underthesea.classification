@@ -1,0 +1,11 @@
+Vỏ phi thuyền tự 'hàn' các vết nứt
+Một loại vật liệu mới có thể giúp các tàu không gian tự động "vá" những vết nứt và các chỗ rò đang được thử nghiệm trong điều kiện mô phỏng vũ trụ ở trên trái đất.
+Loại "da" tự vá này là sản phẩm của Ian Bond và Richard Trask từ Đại học Bristol, Anh, trong dự án của Cơ quan vũ trụ châu Âu.
+Nó ra đời từ ý tưởng từ da người - loại vật liệu có khả năng tự hàn các vết đứt, nhờ máu chảy ra tiếp xúc với không khí và đóng đông lại tạo thành một vảy bảo vệ.
+Các nhà nghiên cứu đã hình thành nên một ý tưởng tương tự để bảo vệ phi thuyền. Họ chế tạo một loại vật liệu composite cán mỏng, chứa hàng trăm sợi thủy tinh rỗng có đường kính bên trong 30 micromét (phần nghìn milimét). Một nửa số sợi thủy tinh được đổ đẩy bằng vật liệu polymer epoxy hoặc nhựa thông, và nửa còn lại được đổ đầy bằng một tác nhân hóa học - có khả năng phản ứng với polymer để tạo thành một chất rất cứng và khỏe.
+Các sợi thủy tinh được thiết kế sao cho chúng có thể đứt gãy dễ dàng khi tấm composite bị hư hỏng, khiến cho hai loại hóa chất thoát ra ngoài, phản ứng với nhau tạo thành chất mới và nhanh chóng lấp đầy các vết nứt hoặc lỗ rỗng tạo ra.
+"Chúng tôi đã chứng minh mình có thể khôi phục độ bền của vật liệu theo phương pháp này và nó có thể chịu được môi trường trong vũ trụ", Bond nói.
+Nhóm nghiên cứu sau đó đã thử nghiệm thành công vật liệu tự hàn trong một buồng chân không, mô phỏng điều kiện ngoài trái đất. Họ dự kiến sẽ cải tiến vật liệu và kiểm tra nó trong những tình trạng ngặt nghèo hơn, như nhiệt độ cực cao.
+Công nghệ này có thể bảo vệ phi thuyền trước những mảnh đá trời nhỏ - những mảnh vụn đường kính chỉ vài milimét nhưng với tốc độ vài nghìn mét trên giây, chúng có thể làm hỏng một vệ tinh hoặc con tàu có người lái, và gây ra những hư hại nghiêm trọng. Một tiềm năng khác của vật liệu tự hàn là bảo vệ tàu trước những vết rò rỉ phát sinh do nhiệt độ cực cao trong quá trình tàu vi hành.
+Tuy nhiên, loại phi thuyền được trang bị lớp áo bảo vệ này sẽ chưa thể cất cánh ngay. "Ít nhất một thập kỷ nữa, công nghệ mới có thể đặt chân lên vũ trụ", Christopher Semprimoschnig, trưởng nhóm nghiên cứu cho biết.
+

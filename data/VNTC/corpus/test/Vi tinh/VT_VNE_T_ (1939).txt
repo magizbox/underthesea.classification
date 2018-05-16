@@ -1,0 +1,6 @@
+Trục trặc hệ điều hành (1)
+Chao cac anh! Toi co 1 o cung Seagate Barracuda 7200.7 Model:ST340014A. O cung nay chua du lieu de ghost may. Khi vao BIOS van nhan binh thuong va lap vao may khac van thay. Nhung khi vao MSDOS de ghost thi khong the nhan duoc. Vay mong cac anh giup do.
+Duong Chuyen
+Hồi âm:
+Nhu ban noi la o cung cua ban nhan duoc trong bios nhung khi vao dos khong nhan thi toi thay o cung cua ban bi chia bang fat la ntfs nen khi dung dia boot ma khong phai cua ntfs thi se khong nhin thay o cua ban duoc. Ban cung khong noi ro o cua ban co chay duoc o trong nen window khong nen toi cung khong biet la o cua ban con song hay chet neu nhan o trong bios nhung khong vao duoc win thi chac chan o co van de. Neu o cua ban chay duoc o trong window thi ban phai dung dia boot ntfs moi nhin thay o duoc. Chuc ban thanh cong. 
+

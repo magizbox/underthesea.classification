@@ -1,0 +1,4 @@
+PC không nhận được Bluetooth từ ĐTDĐ
+Chào các anh. Em đang sử dụng laptop samsung pen M 1,6 GHz, chạy hệ điều hành Windows XP SP2 Home Edition. Lúc trước, khi em dùng Windows SP1 thì sử dụng Bluetooth với ĐT Nokia bình thường, nhưng khi cài lên bản SP2 thì PC chỉ có thể chuyển được file sang ĐT, còn không nhận được file từ ĐT gửi sang. Em đã tắt hết firewall nhưng tình trạng vẫn thế, đem Bluetooth sang máy khác dùng SP1 thì Bluetooth và ĐT hoạt động tốt (ĐT của em là Nokia 7610). Mong hồi âm của các anh.
+Nguyễn Hà
+

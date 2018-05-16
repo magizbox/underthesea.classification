@@ -1,0 +1,6 @@
+Vai trò mới của SMS: Cảnh báo nguy hiểm
+Chính phủ Hà Lan đang thử nghiệm dịch vụ nhắn tin qua điện thoại di động tới những người nằm trong khu vực có thể xảy ra thiên tai, khủng bố, cháy nổ... Nhiều nước đã đánh giá cao dự án này và bày tỏ ý định áp dụng biện pháp tương tự
+Hệ thống Cell Broadcast sử dụng công nghệ GSM để xác định những số điện thoại đang nằm trong từng khu vực cụ thể. "Đây là biện pháp liên lạc trực tiếp và kịp thời nhất cho người dân", Frank van Beers, phát ngôn viên Bộ nội vụ Hà Lan, khẳng định. "Giả sử khi có chuyện gì đó nghiêm trọng xảy ra tại The Hague (La Haye), chúng tôi có thể kết nối với những công ty viễn thông ở đây để đảm bảo tất cả những ai trong phạm vi vài trăm mét đều nhận được thông tin. Hoặc nếu nơi nào đó rò rỉ chất độc, mọi người sẽ được khuyến cáo nên ở yên trong nhà".
+Cell Broadcast sẽ được sử dụng song song với những hệ thống cảnh báo hiện tại như còi báo động và phương tiện truyền thông (TV, đài báo)...
+Chính phủ nước này cũng đang xem xét khả năng gửi SMS bằng nhiều ngôn ngữ khác nhau để du khách nước ngoài cũng hiểu được nguy hiểm gì sắp diễn ra. Chương trình thử nghiệm hiện được triển khai tại Zoetermeer, sau đó sẽ là thủ đô Amsterdam và tỉnh Tây Nam Zeeland.
+

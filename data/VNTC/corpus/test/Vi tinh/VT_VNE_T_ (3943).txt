@@ -1,0 +1,8 @@
+Zotob.B gây lỗi máy tính nhiều hãng truyền thông lớn
+Biến thể virusZotob mới, được hãng bảo mật Trend Micro phát hiện ngày 15/8, đã ảnh hưởng đến hàng loạt hệ thống của CNN, ABC News và The News York Times.
+Kênh CNN, thay vì phát chương trình như thông lệ, đã phải đưa ra thông báo rằng những máy tính cá nhân dùng hệ điều hành Microsoft Windows 2000 của họ đã bị nhiễm sâu và liên tục phải khởi động nhiều lần.
+Tờ The News York Times cũng khẳng định họ đang phải đối mặt với sự ngưng trệ của hệ thống. "Chúng tôi không thể xác định rõ nguyên nhân. Sự việc diễn ra đầu ngày hôm nay và hy vọng nó không ảnh hưởng đến quá trình sản xuất báo giấy", Catherine Mathis, phát ngôn viên của báo, hôm qua cho biết.
+Đài ABC News cũng vừa thông báo lỗi hệ thống.
+"Chúng tôi không nhận thấy nhiều biểu hiện rõ ràng trong ngày", phát ngôn viên của Microsoft khẳng định. "Có lẽ chỉ một số lượng nhỏ khách hàng bị ảnh hưởng".
+Sâu Zotob.B khai thác lỗ hổng trong các hệ điều hành Windows 98/ME/2000/XP. Sự lây lan này cho thấy dù bản vá lỗi của Microsoft đã được phát hành hơn một tuần, người sử dụng vẫn hầu như không để tâm và chậm chạp trong việc nâng cấp.
+

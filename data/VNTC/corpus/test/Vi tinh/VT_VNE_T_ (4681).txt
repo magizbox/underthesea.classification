@@ -1,0 +1,6 @@
+Website tổng hợp các định dạng tệp tin
+Đôi khi bạn nhận được những file có đuôi rất lạ và khó hiểu. Trang Whatis sẽ cung cấp cho bạn thông tin mô tả ngắn gọn về định dạng và cách sử dụng tệp đó.
+Danh sách liệt kê phần mở rộng, hay còn gọi là hậu tố, của file theo thứ tự abc, giúp bạn có thể dễ dàng tra cứu, đồng thời chú giải đuôi tệp tin đó là viết tắt của những từ nào. Ngoài ra, trang còn cung cấp kết nối tới định nghĩa của định dạng hoặc những thông tin liên quan để người đọc có thể tìm hiểu thêm.
+Ví dụ, API xuất phát từ Application Program Interface (giao diện chương trình ứng dụng), được sử dụng trong Adobe Acrobat, đuôi EXE là từ rút gọn của Executable File (tệp tin thực thi), trong khi DLL là viết tắt của Dynamic-link library file (thư viện liên kết động)...
+Xem danh sách định dạng file tại đây.
+

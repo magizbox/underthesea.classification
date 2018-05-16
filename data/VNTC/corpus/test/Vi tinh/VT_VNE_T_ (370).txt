@@ -1,0 +1,7 @@
+Công cụ 'gác' trình duyệt Browser Hijack Blaster 
+Thật khó chịu khi browser của bạn lại tự động mở ra một địa chỉ lạ mà bạn không cài trong homepage. Để không cho những website này "ngồi" chễm trệ trong trình duyệt, phần mềm này sẽ báo động cho bạn trước khi điều đó xảy ra.
+Browser Hijack Blaster theo dõi một số bộ phận trong Internet Explorer (IE) và đảm bảo rằng không một trang web nào có thể "bắt cóc" trình duyệt của bạn hoặc thả những chương trình do thám spyware lẩn vào hệ thống.
+Nếu các đối tượng bên ngoài muốn thay đổi trang chủ mặc định (default) trên IE hay trang Search thì phần mềm này sẽ báo động cho bạn biết. 
+Chương trình cũng lưu lại một cơ sở dữ liệu những thông số phổ biến về các phần mềm do thám để có thể cung cấp chi tiết và hướng dẫn cụ thể cho việc loại bỏ những phần mềm đó.
+Để tải miễn phí Browser Hijack Blaster, bấm vào đây. 
+

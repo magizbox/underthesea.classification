@@ -1,0 +1,10 @@
+Chat để tra từ điển trong Yahoo Messenger
+Khi gặp một từ mới bằng tiếng Anh, Pháp, hoặc muốn dịch tiếng Việt sang hai ngôn ngữ trên, bạn không cần phải cài Lạc Việt hay vào bất cứ website nào, mà có thể chat trực tuyến ngay trên Yahoo Messenger (YM).
+Trước tiên, bạn add nick "vietdictionary" vào danh sách bạn bè trong YM. Từ cửa sổ chat với nick này, bạn gõ từ cần tra và bấm phím Enter để gửi đi. Vietdictionary sẽ phản hồi tức thì với câu trả lời chính xác cùng ví dụ cụ thể kèm theo.
+Vietdictionary trả lời khi bạn gõ từ "hello".
+Một đặc điểm nhỏ nhưng khá thú vị là dòng trạng thái (status) của nick vietdictionary luôn hiển thị một câu nói, thành ngữ, đặc ngữ tiếng Anh nhằm hỗ trợ và làm tăng vốn từ vựng của người sử dụng. Status này sẽ liên tục thay đổi sau 15 phút.
+Khi bắt đầu chat, nick sẽ để chế độ mặc định là từ điển Anh - Việt. Nếu muốn đổi ngược lại, bạn gõ dòng "%viet-anh" vào ô hội thoại và gửi đi. Từ lúc đó, từ điển bạn tra sẽ là Việt - Anh. 
+Chuyển chế độ từ điển như sau:
+%viet-viet : Vietnamese - Vietnamese Dictionary (Từ điển tiếng Việt)%viet-anh : Vietnamese - English Dictionary (Từ điển Việt - Anh)%anh-viet : English - Vietnamese Dictionary (Từ điển Anh - Việt)%anh-anh : English - English Dictionary (Từ điển Anh - Anh)%viet-phap : Vietnamese - French Dictionary (Từ điển Việt - Pháp)%phap-viet : French - Vietnamese Dictionary (Từ điển Pháp - Việt)%computer : Computing Dictionary (Từ điển chuyên ngành máy tính)
+Điểm hạn chế của vietdictionary là bạn sẽ chỉ tra được từ điển nếu nick này sáng (online). Tuy không hỗ trợ 24/24 giờ, vietdictionary sẽ làm hài lòng nhiều người sử dụng bởi khả năng dịch ngôn ngữ chính xác, trực tiếp trên công cụ tin nhắn nhanh phổ biến nhất tại Việt Nam.
+

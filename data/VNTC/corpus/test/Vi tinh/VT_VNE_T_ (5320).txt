@@ -1,0 +1,19 @@
+Những sản phẩm tương lai của Microsoft
+Chỉ một vài ý tưởng thú vị được nêu ra tại Brussels, thủ đô nước Bỉ, tuần trước cũng đủ để cho các vị quan chức châu Âu hiểu rằng Microsoft không chỉ có hệ điều hành.
+Đồng hồ định vị
+Whereabouts Clock.
+Những ai từng đọc truyện hoặc xem phim về cậu bé phù thủy Harry Potter có thể sẽ nhận ra ngay ý tưởng về Whereabouts Clock. Chiếc đồng hồ này thông báo cho người sử dụng biết vị trí của một ai đó. Nhà phát minh Abigail Sellen của Microsoft tin rằng sản phẩm sẽ được sử dụng rộng rãi nhất trong các gia đình.
+"Khi đi làm về, bạn sẽ muốn biết bọn trẻ vẫn đang ở trường hay chúng đã tan học rồi, chồng bạn đã rời công sở chưa... Nhu cầu muốn biết người thân trong gia đình hiện ở đâu là điều rất tự nhiên của cuộc sống", Sellen nói.
+Chiếc đồng hồ sẽ dò tín hiệu điện thoại di động của người mà bạn yêu quý, sau đó xác định xem liệu họ có ở trong những khu vực được lập trình trước như nhà, trường học, cơ quan hay không. "Thiết bị sẽ không thông báo quá cụ thể về vị trí của mọi người bởi chúng tôi không muốn can thiệp quá sâu vào đời sống cá nhân", Sellen nói thêm.
+Dù phục vụ chủ yếu trong các hộ gia đình, công nghệ này cũng sẽ thu hút sự quan tâm lớn của các ông chủ muốn xác định xem nhân viên của họ đang "đi đâu về đâu". Phiên bản hoàn thiện sẽ cần thêm 1 hoặc 2 năm nữa mới có thể ra mắt.
+Internet trong... bát
+Homenote.Andy Reinhardt, một phóng viên của báoBusiness Week, từng nhận xét: "Điều đáng ngại là chúng ta yêu công nghệ và thường ít khi băn khoăn tự hỏi về tính hữu ích của nó, liệu nó có thực sự cải thiện cuộc sống không. Đôi lúc nó chỉ làm cho mọi thứ phức tạp lên".
+Homenote, phiên bản Post-it-note (ghi chú cá nhân) thế kỷ 21 của Microsoft sẽ được đặt trước một lò vi sóng, cho phép người dùng có thể gõ thông điệp hoặc gửi e-mail. Tuy nhiên, một số tỏ ra nghi ngại rằng chẳng ai cần đến hệ thống thư điện tử trong bếp.
+Bát tương tác.Ý tưởng tiếp theo là một "chiếc bát" chứa hình ảnh và video tương tác cảm ứng. Alex Taylor, chuyên gia nghiên cứu của Microsoft, giải thích: "Điều chúng tôi hy vọng có thể làm được là hỗ trợ người sử dụng xem video và thậm chí nghe nhạc phát ra từ bát. Thiết bị xử lý và đèn chiếu sẽ nằm ở dưới đáy trong khi Bluetooth sẽ nhận dữ liệu được truyền không dây từ thiết bị di động".
+Sẽ rất tuyệt vời nếu các quán cafe được được trang bị những chiếc cốc sinh động này. Nhưng ngón tay bẩn hoặc bề mặt bị xước trong quá trình sử dụng sẽ sớm làm mất đi cảm giác thi vị đó.
+Tự động xếp hình 
+Digital Tapestry.Digital Tapestry, một ứng dụng được phát triển bởi Carsten Rother, sẽ tự động tạo ra "thảm số" hình ảnh. "Phần mềm tập hợp một loạt tấm hình, sau đó sử dụng nhận dạng quang học cắt thông minh những phần nhất định và đan chúng lại thành một bức ảnh duy nhất", Rother cho biết. "Người sử dụng thường phải mất một giờ loay hoay với phần mềm biên tập ảnh, còn chương trình này xử lý hoàn toàn tự động". 
+Ví dụ, nó xác định một số bộ phận quan trọng của khuôn mặt (mắt, mũi, môi...) và tự tạo ra phiên bản hoạt hình mới. Mọi người cũng có thể dùng để xây dựng những biểu tượng thể hiện cảm xúc (emoticon) trong tin nhắn nhanh hoặc e-mail. Ứng dụng sẽ xuất hiện vào cuối 2006 hoặc đầu 2007.
+E-mail thông minh 
+Ứng dụng cuối cùng là Snarf, công cụ giúp quản lý chương trình Outlook. Nó không phân loại e-mail theo thời gian mà dựa trên mối quan hệ của người sử dụng với người gửi. Nếu chủ hộp thư thường xuyên liên lạc với người đó, thư của họ sẽ tự động xuất hiện ở những vị trí trên cùng danh sách.
+

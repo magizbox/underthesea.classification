@@ -1,0 +1,6 @@
+Lỗi không lên màn hình khi khởi động (1)
+Tôi muốn hỏi một chút về cách sửa lỗi khi máy tính khởi động. Máy của tôi khi khởi động, ban đầu không lên màn hình. Sau khi khởi động lại mấy lần thì mới lên. Mặc dù không lên hình nhưng tôi biết máy vẫn khởi động vào win được vì loa có nhạc khởi động. Vậy máy của tôi bị lỗi gì? Và phải khắc phục như thế nào? Xin giải đáp hộ tôi. Tôi xin chân thành cảm ơn.
+Quang Dung
+Hồi âm:
+Lỗi không lên màn hình khi khởi động Bạn kiểm tra xem có đang dùng 2 thanh RAM cùng loại không : - Nếu có : Lấy bớt 1 thanh (thanh còn lại nhớ đặt ở slot 0) - Nếu không (chỉ có 1 thanh RAM trong PC của bạn) : Bạn chỉ cần giật thanh RAM ra và gắn nó vào lại. 
+

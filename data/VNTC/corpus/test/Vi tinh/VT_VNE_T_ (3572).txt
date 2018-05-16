@@ -1,0 +1,6 @@
+Bản beta Flash Player 8 của Macromedia ra mắt
+Ba tháng sau khi hứa hẹn những thay đổi lớn trong phần mềm hoạt ảnh web của họ, Macromedia hôm qua đã phát hành phiên bản thử nghiệm đầu tiên của chương trình này với tên mã là Maelstrom.
+Đây là cuộc kiểm tra quan trọng trước lần phát hành lớn tiếp theo của Flash Player 8, David Mendels, Giám đốc điều hành Macromedia, tuyên bố. Chương trình được cung cấp cho các nhà phát triển và người tiêu dùng chạy thử nhằm đảm bảo những gì được phần mềm xử lý đều hiển thị chính xác và không gặp vấn đề tương thích nào.
+Bản thử nghiệm được thiết kế cho máy tính dùng từ hệ điều hành Microsoft Windows 98 trở về sau và từ Macintosh OS X 10.1 trở đi. 
+Chương trình hiển thị hình flash đã thu hút sự quan tâm đầu tư ngày càng lớn của Macromedia khi hãng này tìm cách xây dựng nó như một nền ứng dụng dựa trên web thay vì chỉ là một công cụ tạo hoạt ảnh thuần túy. Tháng 4 năm nay, Adobe công bố kế hoạch mua lại Macromedia nhưng đến nay thương vụ này còn gặp nhiều vấn đề liên quan đến khía cạnh độc quyền mà Bộ Tư pháp Mỹ đang điều tra.
+

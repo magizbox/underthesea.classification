@@ -1,0 +1,11 @@
+Sony ngừng bán phần mềm chống sao CD
+Đúng như nhận định của giới chuyên môn, lỗi trong chương trình chống sao chép XCP mà Sony cài vào trong đĩa CD đã bị hacker lợi dụng để tấn công máy tính. Tình hình khiến hãng điện tử Nhật quyết định ngừng tung mã bản quyền số DRM này ra thị trường.
+John McKay, phát ngôn viên của Sony, chính thức thông báo họ tạm thời ngừng sản xuất các đĩa CD có chứa phần mềm XCP (Extended Copy Protection - Cơ chế chống sao chép mở rộng) nhưng không cho biết lúc nào thì hãng tiếp tục dùng đến chương trình này. 
+Các nhà phát triển XCP trước đó đã cho biết họ đang viết phần mềm chống copy mới mà không dùng đến kỹ thuật gây nhiều tranh cãi của Sony. 
+XCP được Công ty First 4 Internet (Anh) phát triển và ra mắt từ đầu năm 2005. Sản phẩm đã được áp dụng cho khoảng 20 tuyển tập nhạc phẩm, trong đó có album đồng quê Get Right with the Man của Van Zant. Phần mềm này sẽ hạn chế số lượng bản sao của mỗi đĩa CD.
+Mã bản quyền số này bắt đầu gây xôn xao trong giới chuyên môn khi Mark Russinovich, một chuyên gia về hệ điều hành Windows, tiết lộ cách dùng kỹ thuật "tấm áo choàng" rootkit để ẩn XCP trên máy tính. Rootkit có thể đón nhận nhiều chương trình khác, trong đó có cả virus khống chế máy tính từ xa.
+Sony đã phải tung ra bản vá lỗi cho XCP nhưng vẫn không chấm dứt được những lời chỉ trích mạnh mẽ, coi đây là sự kiểm soát người sử dụng với ý đồ xấu. 
+Nhiều công ty xét lại chính sách dùng CD sau sự kiện Sony(15/11/2005)
+Trojan ẩn sau phần mềm chống sao chép của Sony(11/11/2005)
+Bản vá phần mềm của Sony gây trục trặc máy tính(07/11/2005)
+

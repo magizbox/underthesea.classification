@@ -1,0 +1,8 @@
+Đĩa quang 100 GB sử dụng màng siêu phân giải
+Hãng điện tử Sharp của Nhật đã phát triển thành công đĩa quang 2 lớp cho phép mở rộng dung lượng lên tới 100 GB với độ phân giải cao.
+Sản phẩm này là bước phát triển tiếp theo sau khi Sharp ra mắt đĩa đơn lớp với màng chức năng siêu phân giải dung lượng 50 GB.
+"Chúng tôi sử dụng công nghệ tạo màng trong suốt, tích hợp trong đĩa 2 lớp ghi, nhờ đó nhân đôi dung lượng", phát ngôn viên của Sharp khẳng định. 
+Loại màng này được làm từ vật liệu ôxit kim loại có hệ số truyền ánh sáng cao, cho phép tia laser xanh xuyên qua các điểm ghi với đường kính chỉ khoảng 0,1 micromet trên bề mặt đĩa. Mỗi tia laser phủ trên hai điểm ghi cùng lúc, tuy nhiên, khi nhiệt độ tăng lên, màng chức năng sẽ giảm tỷ lệ phản xạ ánh sáng của đĩa. 
+Các nhà nghiên cứu của Sharp cũng đang tìm cách tăng thêm lớp ghi cho đĩa quang. 
+Nỗ lực mở rộng dung lượng đĩa sử dụng công nghệ màng này được nhiều nhà sản xuất quan tâm, nghiên cứu. Hãng điện tử công nghiệp Matsushita cũng đã giới thiệu mô hình đĩa 100 GB 4 tầng với công nghệ BD-Rom và đang dự định tiếp tục mở rộng dung lượng của đĩa theo định dạng chuẩn Blu-ray.
+

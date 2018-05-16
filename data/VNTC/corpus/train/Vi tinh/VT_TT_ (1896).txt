@@ -1,0 +1,6 @@
+ Lỗi bảo mật Bluetooth trong một số ĐTDĐ Sony Ericsson
+2 công ty bảo mật trên cho biết rằng có tối thiểu 4 model ĐTDĐ Sony Ericsson đã phát sinh lỗi bảo mật thông qua cổng Bluetooth, có thể tạo điều kiện cho kẻ tấn công tung ra các cuộc tấn công từ chối dịch vụ vào các kiểu ĐTDĐ này. 2 kiểu Sony Ericsson được tiết lộ có lỗi Bluetooth là K600i và T68i. 
+Thomas Kristensen, giám đốc công nghệ của Secunia cho biết rằng những hacker cao tay có thể tung mã độc vào các ĐTDĐ bị lỗi Bluetooth này trong vòng 15m, sau khi nhiễm mã độc thì hệ điều hành của những máy bị tấn công có thể sẽ bị hư hại, nhưng đa số sẽ làm treo máy. 
+Các giới chức của Sony Ericsson đã công nhận sự tồn tại của lỗi bảo mật Bluetooth nói trên nhưng cho biết rằng khả năng lợi dụng lỗi này để tấn công thành công ĐTDĐ của ai đó là cực kỳ thấp. Nếu bị tấn công thành công thì máy vẫn có thể khắc phục được đơn giản bằng cách khởi động lại điện thoại trong đa số trường hợp. Để khắc phục trước mắt, người dùng có thể chuyển chế độ Bluetooth trong máy thành “discoverable”, tức làm cho máy sẽ gần như “tàng hình” trước mọi âm mưu xâm nhập. 
+Một số virus ĐTDĐ hiện nay đã có thể xâm nhập được vào hệ điều hành Symbian đang được cài đặt trên đa số các dòng Nokia serie 60 thông qua cổng Bluetooth, nhưng các chuyên gia bảo mật vẫn tin tưởng rằng virus ĐTDĐ vẫn chưa thể bùng phát trong vòng 2 năm tới. 
+

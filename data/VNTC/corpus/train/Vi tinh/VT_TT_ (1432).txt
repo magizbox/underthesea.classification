@@ -1,0 +1,20 @@
+ Đơn giản với Auto Shutdown tự tạo
+Phương pháp đơn giản này kết hợp giữa chương trình "Scheduled Tasks" (lịch làm việc tự động của Windows) và một đoạn câu lệnh đơn giản. 
+Khởi tạo 
+Tạo và lưu tập tin shutdown.bat Đầu tiên, bạn vào trình soạn thảo Notepad của Windows và gõ vào 2 dòng lệnh sau: 
+cd\ shutdown/s 
+Sau đó bạn lưu lại tập tin này, tại ô "Save as type" bạn chọn "All Files", tên tập tin bạn gõ vào là "shutdown.bat" (bạn có thể đặt tên khác) và lưu vào thư mục "C:\Windows". (bạn có thể lưu vào nơi khác, tuy nhiên nếu không lưu vào ổ đĩa C (ổ hệ thống) bạn sẽ phải thay đổi lại đoạn câu lệnh trên: 
+cd\ C: shutdown/s 
+Tạo lịch làm việc (tự động tắt máy) 
+Đặt lịch làm việc (tắt máy tính) 
+Vào chương trình "Scheduled Tasks" của Windows: Start\Programs\Accessories\Sytem Tools\Scheduled Tasks hoặc Start\Control Panel\Scheduled Tasks . Sau đó bạn chọn "Add Scheduled Tasks". 
+Click vào nút "Next" và tiếp tục chọn tập tin để Windows lên lịch làm việt tại nút "Browse" . Tiếp theo chọn tập tin "shutdown.bat" mà bạn đã vừa tạo. Chọn lịch làm việc mà Windows sẽ thực hiện theo ý của bạn là hàng ngày (Daily), hàng tuần (Weekly)... 
+Bấm "Next" và định thời gian tắt máy tại ô "Start time" , ngày bắt đầu làm việc "Start date", tiếp tục bấm "Next" và "Finish" . 
+Thế là bạn đã hoàn tất việc lên lịch tự động tắt máy cho máy tính của mình. 
+Phương thức làm việc như sau: Khi đến giờ mà bạn đã định, lịch làm việc của Windows sẽ chạy tập tin "shutdow.bat" mà bạn đã tạo trong đó có đoạn câu lệnh tắt máy. Lúc này, trong vòng sau 30 giây windows sẽ tự đóng tất cả các chương trình đang chạy và sau đó sẽ tắt máy tính của bạn. 
+Hiệu chỉnh lịch làm việc 
+Hiệu chỉnh lịch làm việc 
+Sau này nếu bạn muốn hiệu chỉnh thời gian tắt máy hoặc xóa lịch làm việc này thì bạn cứ vào " Scheduled Tasks" click phải chuột vào lịch mà bạn đã đặt và chọn "Properties" và hiệu chỉnh lại theo ý của mình hoặc chọn "Delete" để xóa lịch làm việc. 
+Khi bạn xoá lịch làm việc nếu sau này muốn tạo lại thì bạn cứ thực hiện thao tác cài lịch làm việc cho Windows tương tự như trên. 
+Tuy nhiên, trong quá trình tự động tắt máy, các thông tin, dữ liệu bạn đang làm việc ở các chương trình bạn không lưu lại sẽ bị mất đi. Lịch làm việc này được dùng khi bạn tải nhiều dữ liệu từ internet về hoặc ghi hình một trận bóng đá... thì bạn cứ lên lịch tự động tắt máy và đi ngủ. Đến giờ, lịch làm việc sẽ tự động tắt máy cho bạn. 
+

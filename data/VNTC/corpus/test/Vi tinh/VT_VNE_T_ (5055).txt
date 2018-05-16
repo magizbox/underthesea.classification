@@ -1,0 +1,11 @@
+Tin vắn ngày 30/11
+France Telecom triển khai giải pháp WiMAX của Alvarion IBM đứng đầu thế giới về doanh thu máy chủ Juniper Network chiếm 35% thị phần tường lửa phần cứng tại VN. 
+Công ty Ikatel, thuộc France Telecom, sẽ lắp đặt hệ thống BreezeMAXTM 3500 của Alvarion (Israel) gồm hàng trăm CPE gắn chip WiMAX Intel để triển khai mạng băng rộng không dây ở thủ đô Bamako của Mali. Dự kiến, hệ thống sẽ hoạt động vào cuối năm nay.
+BreezeMAX tuân theo chuẩn WiMAX IEE 802.16-2004 ứng dụng công nghệ OFDM để truyền trong điều kiện không có đường dẫn thẳng NLOS (Non-line-of-sight). Sản phẩm này hiện có mặt tại 130 điểm lắp đặt ở hơn 30 quốc gia. 
+N.H.
+Hãng phân tích thị trường IDC vừa công bố, trong quý III năm nay, công ty IBM dẫn đầu doanh thu các dòng máy chủ, đặc biệt là server blade với 42% thị phần doanh thu, sản phẩm UNIX cũng đem về cho hãng hơn 11% so với cùng kỳ năm ngoái.
+Mới đây, tại hội thảo về giải pháp ERP cho doanh nghiệp, IBM Việt Nam đã giới thiệu đối tác mới là Công ty CFTD NET, nhà cung cấp chính thức của hãng cho dòng sản phẩm máy chủ iSeries tại Việt Nam. 
+D.H.
+Tại Hội thảo "Tối ưu hoá và bảo mật các ứng dụng mạng" do Juniper Network vừa tổ chức ở HN, bà Abby Tang, Giám đốc các giải pháp doanh nghiệp của hãng cho biếtJuniper đang chiếm 35% thị phần ở thị trường tường lửa phần cứng, 23% ở lĩnh vực giải pháp mạng riêng ảo. Các khách hàng sử dụng giải pháp của hãng gồm: Tổng công ty Bưu chính Viễn thông Việt Nam (VNPT), Bảo Việt, các ngân hàng...
+Cũng theo bà Abby Tang, một trong những nguyên nhân dẫn tới các cuộc tấn công của hacker ngày càng tăng là việc truyền tải các dữ liệu thoại qua giao thức Internet - VoIP đang được triển khai rộng rãi. Đây là một công nghệ có nhiều ưu điểm, song đi kèm là những de doạ tiềm tàng về an ninh mạng. 
+

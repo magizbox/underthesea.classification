@@ -1,0 +1,8 @@
+Anh chống nạn lừa đảo bằng phần mềm quay số 
+Cơ quan giám sát các cuộc gọi thu phí cao của Anh Icstis đã cấm 11 doanh nghiệp hoạt động và đang xem xét đóng cửa 33 hãng nữa. Đây là hành động nhằm trừng phạt các công ty có hành vi lừa đảo trên mạng bằng cách chuyển kết nối Internet quay số tới những số điện thoại cước phí cao.
+Icstis tuyên bố sẽ đóng cửa tất cả các hãng cung cấp dịch vụ quay số cước phí cao hoạt động mà không được họ cho phép. Hành động này được đưa ra sau khi nhiều người dùng khiếu nại về tình trạng hóa đơn điện thoại cao một cách bất hợp lý. Ước tính, hàng nghìn người Anh đã bị lừa đảo kiểu này, có người phải trả cước phí lên tới 2.000 bảng/tháng.
+Hiện nay, một số công ty hợp pháp của Anh chuyên cung cấp các dịch vụ như phim người lớn, kết quả thể thao hoặc tải nhạc thu phí bằng cước phí điện thoại cao thay vì thu qua thẻ tín dụng. Hầu hết các hãng này yêu cầu người dùng tải về một phần mềm (dialler) có tính năng tự động chuyển kết nối của người dùng từ nhà cung cấp dịch vụ đang sử dụng sang số máy có thu phí trong thời gian truy cập vào trang web. Những công ty lừa đảo chiếm một tỷ lệ nhỏ trong số này.
+Một số dialler xuất phát từ nước ngoài và Icstics đã gửi thông báo yêu cầu các hãng cung cấp mạng viễn thông ngừng hợp tác với các dịch vụ quay số sử dụng số điện thoại quốc tế vì tất cả số này đều bất hợp pháp.
+Anh có khoảng 30 công ty điện thoại có thể cung cấp dịch vụ thu phí cao. Khoảng 5 - 6 hãng trong số này có liên quan đến hầu hết các khiếu nại và Icstis đã chuyển sang cho cơ quan giám sát hoạt động viễn thông Ofcom xử lý. 
+Các hãng viễn thông lớn của Anh cũng tự hành động để chống dialler bất hợp pháp. Công ty BT đã chặn khoảng 1.000 số máy bị cáo buộc có liên quan đến những vụ lừa đảo kiểu này.
+

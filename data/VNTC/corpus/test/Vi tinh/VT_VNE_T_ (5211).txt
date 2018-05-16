@@ -1,0 +1,8 @@
+Xbox 360 bắt đầu bị hacker 'nhòm ngó'
+Một nhóm hacker tự xưng là Pi tuyên bố đã giải mã được một ứng dụng cho phép các tệp của đĩa DVD trên máy game thế hệ mới của Microsoft được trích ra và thể hiện dưới dạng dữ liệu thô. 
+Tuy nhiên, những hacker này thừa nhận họ chưa thể tác động gì nhiều đến các hệ thống máy Xbox 360 qua khám phá này ngoài việc tìm ra các cấu trúc hệ thống dữ liệu.
+Ứng dụng được thực hiện trên máy vi tính cá nhân, nhưng đĩa DVD của Xbox 360 lại không tương thích trên ổ đọc của máy PC. Bởi những mã dữ liệu sau khi được trích ra nói trên không thể chạy được trên máy 360 nữa, người sử dụng buộc phải tạo ra bản sao của chiếc đĩa và chép bản sao đó vào PC.
+Dù sao đi nữa, việc làm nói trên cũng đã vi phạm các quy định về bản quyền và chính các thành viên của Pi cũng đã thừa nhận điều này. Thậm chí, ngay cả việc tạo ra và truyền tải một bản sao của bất kỳ một chiếc đĩa nào đó cũng đã là hành vi trái với luật định.
+Hành động này, tuy chưa có nhiều tác động xấu đến sản phẩm máy chơi game mới của Microsoft, nhưng sẽ là bước đi đầu tiên cho các hacker tìm cách sửa đổi nội dung phần mềm giải trí trên máy.
+Theo Pi, hệ thống tệp trong Xbox 360 hầu hết đều giống như của máy Xbox trước đó: "Sau khi đã vượt qua các vành đai bảo vệ, nếu bạn biến đổi các tệp xuống dữ liệu thô, tất cả sẽ chỉ là tệp chuẩn xboxdvdfs tương tự với dòng máy cũ của Microsoft, duy chỉ có khoảng chừa trống (offset) và điểm ngắt lớp (layer breakpoint) là khác. 
+

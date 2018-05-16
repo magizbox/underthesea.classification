@@ -1,0 +1,6 @@
+Thắng lợi trong vụ kiện chống độc quyền với ICANN đã cho phép VeriSign tiếp tục quyền kiểm soát với tên miền Internet ".com" cho tới tận năm 2012.
+Kết quả trên đạt được sau nhiều cuộc chiến pháp lý gay gắt với Tổ chức quản lý tên miền quốc tế (ICANN). Vụ tranh chấp này cũng diễn ra trong bối cảnh ICANN chịu nhiều công kích từ Trung Quốc, Iran và một số quốc gia khác... đòi được kiểm soát nhiều hơn đối với hệ thống tên miền Internet.
+VeriSign sẽ nắm quyền kiểm soát đối với cơ sở dữ liệu gồm 35 triệu tên miền ".com" cho tới năm 2012. Tổ chức này cũng là chủ sở hữu của tên miền ".net" - gồm gần 6 triệu tên miền con. Được biết, VeriSign thu 6USD đối với mỗi tên miền ".com".
+Tháng 9/2003, VeriSign giới thiệu một động cơ tìm kiếm mới giúp chuyển địa chỉ trang web bị người dùng gõ sai về một trang tìm kiếm chứa quảng cáo. Ngay sau đó, ICANN yêu cầu VeriSign phải tạm đóng cửa dịch vụ này trong một tháng vì cho rằng nó gây ra sự mất ổn định cho mạng Internet.
+Tháng 2/2004, VeriSign kiện ICANN đã lạm dụng chức quyền và cạnh tranh không bình đẳng trong việc điều phối các công việc liên quan tới tên miền Internet.
+

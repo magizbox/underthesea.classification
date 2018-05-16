@@ -1,0 +1,7 @@
+Tạo ra tinh thể siêu rỗng 
+Các nhà khoa học Mỹ vừa chế tạo thành công một loại tinh thể phá kỷ lục về tính siêu rỗng, với mỗi gam vật liệu có diện tích bề mặt bên trong tương đương với 17 sân tennis. Loại tinh thể này rỗng hơn khoảng 40% so với kỷ lục cũ ghi nhận trước đây.
+Các nhà sáng chế tại Đại học Ann Arbor, bang Michigan, nhận định đặc điểm cực xốp này khiến cho vật liệu trở nên rất có ích trong vai trò bẫy các phân tử lớn, như các phân tử dược phẩm và dầu mỏ.
+Tinh thể không màu này là một dạng của Mạng lưới hữu cơ kim loại, có tên gọi MOF-177. Chúng được tạo ra bằng cách thay đổi cấu trúc của các hợp chất chứa kim loại và các phân tử hữu cơ. Không gian mênh mông bên trong các tinh thể này là kết quả của việc sử dụng phân tử hữu cơ có tên gọi 1,3,5 benzentribenzoate.
+"MOF-177 có những đặc tính rất ngoạn mục", Pierre Jacobs, một nhà hóa học tại Đại học Thiên chúa ở Leuven, Bỉ, nhận xét. Ông cho biết bước đột phá lớn nhất là các lỗ rỗng bên trong tinh thể đủ lớn để chứa được những phân tử tương đối lớn, có kích cỡ hơn 1 nanomét (1nm bằng một phần tỷ mét). Chính nhờ đặc tính này, MOF-177 có thể được dùng để tách các phân tử khác nhau ra khỏi một hợp chất nào đó, hoặc có thể đóng vai trò là "tấm xốp" trữ hydro trong các pin nhiên liệu cho động cơ xe hơi...
+Điều đáng nói nhất là MOF-177 tương đối dễ sản xuất. Các nhà nghiên cứu chỉ cần đốt nóng hỗn hợp các phân tử hữu cơ và kẽm oxit lên đến 100 độ C.
+

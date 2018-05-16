@@ -1,0 +1,6 @@
+Hỏi về phần mềm âm nhạc (1)
+Chào các bạn! Mình đang cần tìm 2 phần mền về âm nhạc.1) Phần mềm dùng scanner chuyển một bản nhạc trên giấy vào máy tính sau đó là nhận dạng bản nhạc đó. Sau khi nhận dạng được bản nhạc đó có thể chơi bản nhạc đó.2) Phần mềm này không dùng scanner mà có thể nhập bản nhạc từ bàn phím và chuột. Sau đó là có thể chơi bản nhạc đó.Nếu có bạn nào biết về các phần mềm này xin chỉ cho mình với. Mình xin chân thành cảm ơn.
+Việt Phú
+Hồi âm:
+Bạn có thể dùng Finale 2003 của hãng Coda Music Technologies. Finale có thể đáp ứng được cả hai yêu cầu trên của bạn, ngoài ra còn có thể nhập bản nhạc trực tiếp từ đàn organ qua cổng Midi. Chúc bạn thành công.
+

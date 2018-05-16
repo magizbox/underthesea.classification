@@ -1,0 +1,8 @@
+Kết nối 2 máy tính qua cổng WiFi - USB (2)
+Tớ có mua 2 cổng Wifi USB 802.11g tốc độ tối đa là 108Mbps,tớ thử cắm vào 2 máy tính để kết nối 2 máy với nhau cùng chia sẻ thông tin,cùng đấu game cùng nhau ....nhưng 2 máy ko nhận nhau....Xin các bạn chỉ giùm...
+nguyen ngoc hieu
+Hồi âm:
+Nếu muốn kết nối hai máy với nhau, trước hết bạn phải thiết lập hai máy Workgroup cùng một tên. Thí dụ là WORKGROUP hay HOMEPC, cả hai máy phải share ngang hang với nhau qua ổ đĩa C để có thể nhận dạng data chung một System. Bạn nhấn phải chuột vào My Computer chọn Properties, click Computer name chọn Change, tại hang Workgroup tùy bạn cho tên gì ( hai PC cùng một tên này) sau đó nhấn Ok. Nhấn đúp My Computer click phải chuột vào C: chọn Share this folder on the Network xong chọn Apply và Ok. Sau khi Network chạy xong, logo Hard disk C phải có dấu bàn tay. Bạn nhấn open My Network Places trên màn hình , nếu thấy tên của PC kia trong Local Network này là ok. Nên nhớ là máy kia cũng làm giống như vậy. 
+Qui Hung
+Bạn không thể nào kết nối trực tiếp 2 máy dùng wifi như là 2 máy dùng card mạng LAN được. Đối với wifi bắt buộc bạn phải có 1 thiết bị là wireless router để nối các máy dùng wifi này lại. Hơn nữa vì đây là mạng không dây nên bạn cũng phải chú ý khỏang cách giữa các máy, vật cản như tường,... hay là có các thiết bị dùng sóng khác như điện thọai không dây cordless, lò viba. Bạn nên thử các vị trí các hướng để tìm ra nơi để wireless router và máy tốt nhất. 
+

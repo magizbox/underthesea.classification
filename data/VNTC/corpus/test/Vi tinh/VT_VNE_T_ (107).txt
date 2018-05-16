@@ -1,0 +1,10 @@
+Microsoft liệu có đứng sau lưng SCO?
+"Không lửa sao có khói", cộng đồng mã mở lâu nay vẫn vin vào đó, cáo buộc Microsoft bí mật tài trợ SCO đánh phá Linux. Hôm 3/3, nỗi hoài nghi lại dấy lên với một tài liệu khẳng định SCO nhận khoảng 82 đến 106 triệu USD từ công ty của Bill Gates.
+Tài liệu có tên Halloween X, được Eric Raymond, Chủ tịch tổ chức Open Source Initiative, tung ra hôm 3/3. Nó dựa trên một e-mail nội bộ giữa Phó chủ tịch SCO Chris Sontag và Mike Anderer, Giám đốc điều hành hãng tư vấn S2, đối tác của SCO. Trong lá thư đề ngày 12/10/2003, Anderer đinh ninh rằng Microsoft sẽ đầu tư cho SCO qua các phương thức khác nhau. Microsoft sẽ chi cho chúng ta 82 triệu USD, gồm cả vụ BayStar. Ông này còn nói thêm với Sontag là Microsoft sẵn sàng rót thêm khi cần. Chỉ sau đó vài hôm, SCO công bố quỹ đầu tư BayStar Capital vừa cung cấp cho họ 50 triệu USD. Ngay thời điểm ấy, nhiều người đã nghi ngờ BayStar, dù họ chính thức phủ nhận quan hệ với Microsoft.
+Về phía SCO, hôm qua, người phát ngôn của hãng là Blake Stowell thừa nhận tính xác thực của đoạn e-mail, nhưng giải thích Anderer đã nhận thông tin sai, và cách Eric Raymond biên dịch lá thư đã làm trầm trọng thêm vấn đề. Chúng tôi cho rằng nội dung e-mail chỉ là sự nhầm lẫn của một đối tác bên ngoài. Trái với dự đoán của Raymond, Microsoft chẳng can hệ gì với việc đầu tư của BayStar cả, Stowell khẳng định. Ông từ chối cung cấp bản gốc e-mail. 
+Microsoft, vốn đã trả SCO hơn 10 triệu USD bản quyền Unix năm ngoái, hiện chưa đưa ra bình luận gì. Còn tác giả của bằng chứng, Anderer, thì không sao liên lạc được.
+SCO ghi điểm đầu tiên trong cuộc chiến Linux(04/03/2004)
+73% cộng đồng mã mở phản đối SCO(03/03/2004)
+SCO treo giải 250.000 USD bắt tác giả virus Mydoom(28/01/2004)
+SCO sờ gáy Google về bản quyền Linux(12/01/2004)
+

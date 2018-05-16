@@ -1,0 +1,6 @@
+ VN có thêm một nhà cung cấp dịch vụ điện thoại IP
+Theo đó, từ nay người sử dụng có thể quay số 175, tương tự như dịch vụ 171 hoặc 178, để có thể gọi đi các tỉnh hoặc quốc tế với giá tiết kiệm hơn. 
+Bảng giá cước của công ty, cước dịch vụ 175 liên tỉnh được chia làm 3 vùng với hai loại cước: giá thường và giá tiết kiệm. Vùng 1 giá bình thường là 727 đồng/phút, giá tiết kiệm là 509 đồng/phút. Vùng 2, giá cước lần lượt là 1.227 đồng/phút và 859 đồng/phút. Và vùng 3 là 1.636 đồng/phút và 1.145 đồng/phút. Giá cước thường áp dụng cho các cuộc gọi liên tỉnh từ 7 giờ đến 23 giờ các ngày từ thứ 2 đến thứ 7. Giá tiết kiệm được áp dụng cho các cuộc gọi từ 23 giờ đến 7 giờ các ngày từ thứ 2 đến chủ nhật và các ngày lễ tết. 
+Ngoài ra, cước dịch vụ điện thoại quốc tế thông qua dịch vụ 175 giá thường được tính theo mức cước chung cho tất cả các nước là 0,63 USD/phút đầu và 0,063 USD/6 giây tiếp theo và giá tiết kiệm là 0,52 USD/phút đầu và 0,052 USD/6 giây tiếp theo. 
+Như vậy, hiện nay, cả nước đã có 5 nhà cung cấp dịch vụ điện thoại VOIP, gồm: Tổng công ty Bưu chính Viễn thông, Công ty Điện tử Viễn thông Quân đội (VIETEL), Công ty Viễn thông Điện lực (ETC), Công ty Cổ phần Viễn thông Sài Gòn và Vishipel. 
+

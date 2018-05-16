@@ -1,0 +1,10 @@
+Biến phân bò thành điện
+Các nhà khoa học đã tìm ra cách phát điện từ những vật liệu thiên nhiên rẻ và phong phú - phân và dịch dạ dày bò. 
+Dạ cỏ của bò là một cái bao chứa đầy vi khuẩn - nơi thức ăn được chứa tạm thời và nhào trộn cho đến khi nó có thể được tiêu hoá hoàn toàn. Thứ dịch lên men trong đó được gọi là dịch dạ cỏ. 
+Nhóm nghiên cứu Mỹ chiết rút dịch dạ cỏ từ một con bò còn sống. Tiếp đó họ tạo ra một quả pin bằng cách rót thứ dịch này vào một trong hai hộp kính, mỗi hộp có kích cỡ bằng chai nước giải khát 2 lít. Hộp còn lại đổ đầy ferricyanide - một hoá chất cần thiết để hoàn chất chu trình phát điện. 
+Hai hộp kính được đặt cách ly nhau bởi một vật liệu đặc biệt cho phép các proton di chuyển từ hộp cực âm sang hộp cực dương. Sự chuyển dịch của các proton, cũng như các electron dọc theo dây dẫn nối hai hộp, tạo ra dòng diện. 
+Điện thế sinh ra đạt cực đại là 600 milivolt - khoảng một nửa mức cần thiết để chạy một quả pin AA Sau 4 ngày nó rút xuống còn 200 milivolt, song các nhà nghiên cứu đã đưa điện thế cao trở lại chỉ bằng cách bổ sung thêm các cellulose. 
+"Mặc dù điện thế sinh ra rất nhỏ, nhưng kết quả cũng cho thấy kỹ thuật này có thể tạo ra điện từ chất thải bò", đồng tác giả của nghiên cứu, Ann Christy từ Đại học bang Ohio, cho biết. 
+Christy và cộng sự cũng tạo ra các quả pin tương tự nhưng bằng nguyên liệu phân bò chứ không phải dịch dạ cỏ. Điện thế tạo ra từ 300 đến 400 milivolt. "Chúng tôi đã chạy một vài thử nghiệm hơn 30 ngày mà không hề làm giảm sản lượng điện", Christy nói. "Cả hai nghiên cứu đều cho thấy chất thải bò là một nguồn điện năng hứa hẹn. Nó rẻ và phong phú, và một ngày nào đó có thể trở thành nguồn năng lượng tái tạo hữu ích cho các nước đang phát triển". 
+Đây không phải là lần đầu tiên các nhà khoa học sử dụng chất thải hoặc vi khuẩn để phát điện. Một nhóm khoa học khác cũng đã tìm thấy một loài vi khuẩn có khả năng ăn chất thải độc hại và đồng thời phát điện. Một nhóm nghiên cứu lại sử dụng nước tiểu của người để cho ra lượng điện năng tương đương với một quả pin AA. Họ hy vọng sử dụng kỹ thuật này để nạp điện cho các thiết bị kiểm tra nhỏ trong y tế. 
+

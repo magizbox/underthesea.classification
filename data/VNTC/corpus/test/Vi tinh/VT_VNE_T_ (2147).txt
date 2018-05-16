@@ -1,0 +1,6 @@
+Microsoft đền tiền vì bắt nhầm spyware
+10.000 euro là số tiền mà hãng phần mềm khổng lồ Mỹ phải bồi thường cho một công ty ở Hà Lan sau khi công cụ Windows AntiSpyware phong tỏa website thư mục của hãng này do nghi chứa phần mềm nguy hại.
+Startpagina.nl của hãng Ilse Media, một trong những cổng thông tin phổ biến nhất ở Hà Lan, bị xác định là chứa nguy cơ cướp trình duyệt (browser hijack) và công cụ Windows AntiSpyware đã buộc những người muốn đặt địa chỉ này làm homepage phải thay đổi sang trang MSN.com. Tất nhiên Ilse Media không thể chấp nhận điều này vì bản thân họ là một đối thủ cạnh tranh khốc liệt với MSN tại thị trường Hà Lan. 
+Microsoft ra tuyên bố xin lỗi và cho biết đã khắc phục thiếu sót trên trong Windows AntiSpyware, một phần mềm miễn phí mà họ đang phát hành thử nghiệm beta và vừa mới nâng cấp tuần trước.
+Giới quan sát cho rằng sự vụ này có thể sẽ làm dấy lên một làn sóng kiện cáo của những công ty web nhỏ và các nhà cung cấp phần mềm dạng spyware chống lại Microsoft với lý do bị phong tỏa một cách không hợp pháp bởi phần mềm an ninh của hãng này.
+

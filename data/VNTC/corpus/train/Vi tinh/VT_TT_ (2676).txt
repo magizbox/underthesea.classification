@@ -1,0 +1,5 @@
+ Phần mềm đầu tiên giúp người Nhật học tiếng Việt
+Với 34 bài học, 77 bài hội giảng các ngữ cảnh thông dụng, 44 bài ngữ pháp và hơn 100 bài tập dưới dạng trò chơi, Viet4J rất thích hợp với những người Nhật bắt đầu học tiếng Việt. 
+Ngoài ra, phần mềm còn được thiết kế với giao diện hoàn toàn bằng tiếng Nhật, đồ họa 3 chiều và âm thanh sống động tạo cảm giác thân thiện với người học. 
+Viet4J là sản phẩm tiếp theo JaViDic - phần mềm từ điển Nhật - Việt chuyên nghiệp nhất. Sản phẩm này đã lọt vào chung khảo "Trí tuệ Việt Nam 2003". 
+

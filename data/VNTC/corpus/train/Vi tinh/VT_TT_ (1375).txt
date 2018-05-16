@@ -1,0 +1,15 @@
+ USB Flashdrive nhận dạng vân tay
+Chỉ chủ nhân thật sự của chiếc USB Flashdrive này mới có thể đọc được nội dung và khai thác các ứng dụng kèm theo trên đĩa mà thôi. 
+USB Flashdrive A-DATA (ảnh 1) nhận dạng vân tay (Fingerprint Disk - FP1) hiện đã có bán tại các cửa hàng linh kiện máy tính khu Bùi Thị Xuân - Tôn Thất Tùng - Nguyễn Thị Minh Khai, Q.1, TP.HCM. Giá tham khảo: 33 USD (loại 256 MB) và 44 USD (loại 512 MB). 
+Ảnh 2 USB Flashdrive FP1 tương thích với hệ điều hành Windows 2000 SP4 trở lên và Windows XP (không cần cài driver). 
+Khi lần đầu tiên bạn cắm ổ USB này vào máy tính sẽ xuất hiện một cửa sổ có hình hai bàn tay. 
+Bạn có thể chọn đăng ký một số ngón tay trên hai bàn tay của mình. Ví dụ để đăng ký ngón giữa của bàn tay phải, bạn nhấn chuột vào ngón giữa bàn tay phải trên hình. Sau đó nhấn Next (ảnh 2). 
+Kế đến bạn để ngón giữa vào phần mũi tên trên USB và kéo một đường thẳng theo hướng mũi tên chỉ xuống. Bạn thực hiện việc này ít nhất ba lần để chương trình ghi nhớ lại dấu vân tay của bạn. Bao giờ chương trình báo OK là việc đăng ký đã thành công. Bạn nhấn Finish để kết thúc. 
+Ảnh 3 Ngoài ra để chắc ăn, chương trình còn yêu cầu bạn khai báo mật khẩu bảo vệ. Những lần sau, khi bạn cắm USB Flashdrive vào máy tính, bạn sẽ được yêu cầu nhập vào mật khẩu hay quét dấu vân tay của bạn. Bạn muốn sử dụng cách thức nào để mở ổ đĩa của mình cũng được. Nếu chưa được chứng thực bằng mật khẩu hay bằng vân tay thì nội dung ổ USB Flashdrive của bạn hoàn toàn “vô hình” trước mọi người (ảnh 3). 
+Sau khi đăng nhập xong, cửa sổ điều khiển của FP1 xuất hiện như sau: 
+- IE AutoLogin: Tiện ích này sẽ giúp bạn tự động điền username và password vào các trang web yêu cầu nhập mật khẩu. Bạn không cần phải nhớ từng mật khẩu ứng với từng trang web nữa mà chương trình sẽ ghi nhớ giùm bạn. Trước tiên bạn dùng Internet Explorer mở trang web cần ghi nhớ mật khẩu (chẳng hạn trang http://mail.yahoo.com ), điền vào Yahoo ID và Password của bạn. Sau đó gọi cửa sổ chương trình từ khay hệ thống, chọn IE AutoLogin &gt; Save ID and Password. Lần sau khi truy cập vào trang này, chương trình sẽ tự điền ID và password cho bạn, rất tiện lợi. 
+- My Favorites: Bạn có thể đồng bộ Favorites trên máy tính với Favorites của Flashdrive, sau đó luôn đem theo các địa chỉ yêu thích này bên mình. 
+- FlashMail: Một tiện ích checkmail POP3 đơn giản, giúp bạn checkmail mọi lúc mọi nơi. Bạn có thể khai báo để quản lý e-mail của nhiều hộp thư, và đặc biệt là các e-mail tải về đều được lưu trên Flashdrive của bạn chứ không phải trên ổ cứng máy tính. Điều này rất hữu ích, giúp bảo vệ e-mail của bạn trước những cặp mắt tò mò của những người sử dụng chung máy tính. 
+- User Settings: Mục này cho phép bạn thay đổi mật khẩu hay dấu vân tay bảo vệ. 
+- Explorer it: Mở cửa sổ Windows Explorer để “thám hiểm” nội dung bên trong ổ Flashdrive của bạn. 
+

@@ -1,0 +1,9 @@
+Máy hay bị tắt đột ngột (2)
+May nha minh rat hay bi tat dotngoojtt (chung 1h-1h30' sau khi khoi dong may). Minh da khac phuc loi mat nguon he thong, thay pinCMOS, quat chip nhung may cung chang kha kham gi ca ma benh cu van cu hoanh hanh mai.
+Thinh thoang minh van download nhung chuong trinh o tren mang ve nen co kha nang bi nhiem virus Blaster khong? May nha minh da cai chuong trinh BKAV 486 truoc khi may hay bi shutdown.Vay dung BKAV 486 de diet virut Blaster co duoc khong? Minh da cho chay BKAV 486 nhung hien tuong tren van xay ra thuong xuyen. May cai Win98. Minh cung xin noi them la may nha minh thuoc loai co lo lam roi: RAM 32, o cung 4,7GB; chip celeron. Rat mong duoc su giup do cua tat ca cac ban. Xin chan thanh cam on!
+Le Duc Anh
+Hồi âm:
+RAM của bạn bị hỏng hoặc có chất lượng kém. Nhìn chung máy cũ như vậy thì sẽ có nhiều vấn đề lắm. Nhìn chung Blaster không ảnh hưởng tới Win98 (cũng như ME và 95), mà chỉ ảnh hưởng tới Win2k và XP thôi.
+Dong Ngo
+Truoc tien ban nen xem xet xem van de nam o Phan mem hay Phan cung. Ban khong noi ro la truoc day may cua ban co bi tinh trang nay hay khong? Neu co the ban nen format va cai lai toan bo Windows xem co giai quyet van de nay duoc khong? Neu van xay ra tinh trang nhu the ro rang may cua ban co nhung thanh phan khong tuong thich nhau, hoac phan cung co loi. Viec xac nhan ra thanh phan co loi nao rat kho doi hoi ban phai o nhieu kinh nghiem va doi luc rat kho chung minh cho nha bao hanh vi loi chi xuat hien khi cung da chay duoc mot thoi gian trong khi do bao hanh chi test chung chua den 30s.
+

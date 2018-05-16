@@ -1,0 +1,10 @@
+Cuộc đua dịch vụ tìm kiếm nhảy sang điện thoại
+Hai đấu thủ chính Google và Yahoo bắt đầu mạnh tay hơn trên sàn đấu thiết bị liên lạc di động cá nhân với việc triển khai các công cụ hỗ trợ chuyển dịch vụ từ nền web sang điện thoại.
+Hôm qua, Google phát hành bản thử nghiệm beta của công cụ Google Local (download miễn phí) dành cho điện thoại hỗ trợ Java, kết hợp các tính năng như bản đồ tương tác, chỉ đường, xem hình ảnh từ vệ tinh để tìm địa chỉ tại Mỹ. Tiện ích này sẽ sớm được mở rộng cho cả các máy Blackberry và Palm. Deep Nishar, Giám đốc phụ trách các sản phẩm di động của Google, cho biết công ty này đang tìm cách tăng cường khả năng xác định vị trí của khách hàng nhằm cải thiện hơn nữa hiệu quả quảng cáo của các doanh nghiệp nằm gần kề.
+Trong khi đó, Yahoo lại đi theo một hướng phát triển khác trong thị trường di động với kế hoạch phát hành một loại điện thoại gọi là Yahoo! Mobile vào đầu năm tới. Thông qua việc liên kết với công ty viễn thông SBC (Mỹ), sản phẩm Yahoo! Mobile sẽ kết hợp các dịch vụ trên điện thoại vào tài khoản trực tuyến của khách hàng hiện tại, trong đó có danh bạ liên lạc và những thiết lập cá nhân. Thiết bị này sẽ do Nokia sản xuất và dự kiến sẽ có cả tiện ích nghe nhạc MP3, máy ảnh 1,3 megapixel kèm thẻ nhớ. Giá có thể từ 200 USD đến 300 USD.
+Công cụ tìm ảnh với phần mềm nhận dạng khuôn mặt(20/01)
+Dịch vụ bản đồ trực tuyến 'soi' mọi ngóc ngách của đời sống(16/01)
+Châu Âu muốn 'so tài' với công nghệ của Google(13/01)
+Google mở dịch vụ tìm nhạc(16/12/2005)
+Alexa 'mở cửa' danh mục tìm kiếm(14/12/2005)
+

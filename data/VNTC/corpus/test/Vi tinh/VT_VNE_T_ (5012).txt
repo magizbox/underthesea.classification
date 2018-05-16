@@ -1,0 +1,9 @@
+Địa chỉ tên miền với hậu tố tùy chọn
+Một công ty công nghệ Hà Lan đã thổi luồng gió mới vào chiến dịch xóa bỏ những hậu tố Internet hiện nay như .com và thay vào đó là tên nước, tên công ty hoặc bất kỳ một từ thú vị nào.
+Một hệ thống như thế cho phép các quốc gia, công ty và cá nhân sở hữu địa chỉ chứa tên riêng nhằm tạo sự linh hoạt và độc lập về ngôn ngữ, ký tự. "Mục tiêu của dự án là cung cấp tên miền bằng bất cứ bộ chữ cái nào", Erik Seeboldt, Giám đốc điều hành hãng UnifiedRoot tại Amsterdam, khẳng định.
+UnifiedRoot xây dựng bộ hậu tố không giới hạn, khác hoàn toàn với danh sách hạn hẹp hiện tại. "Chúng tôi đã nhận được hàng nghìn đăng ký mỗi ngày", Seeboldt cho biết sau khi công ty khai trương hoạt động với 13 máy chủ gốc hệ thống tên miền Internet được lắp đặt tại 4 châu lục.
+UnifiedRoot đã ký hợp đồng với hầu hết các nhà cung cấp dịch vụ Internet ở Thổ Nhĩ Kỳ. Sân bay Schiphol của Hà Lan cũng là một trong những khách hàng sớm nhất. Giá đăng ký một hậu tố là 1.000 USD cộng phí thuê bao hàng năm 240 USD. Các công ty sau đó có thể tự sáng tạo những địa chỉ website khác tùy chọn dựa tên tên miền cấp cao nhất (top lever domain - TLD), ví dụ như flights.schiphol hay parking.schiphol...
+Nhiều người chỉ trích rằng những công ty như UnifiedRoot sẽ gây ra sự nhập nhằng trong quản lý lưu thông web. Hệ thống địa chỉ hiện nay chỉ được nhận dạng bởi một số máy tính nhất định, dưới sự quản lý của Tổ chức tên miền quốc tế (ICANN). ICANN cũng có thể quyết định những máy chủ gốc này được phép nhận biết tên miền cấp cao nhất nào.
+"Những ai cho rằng họ có thể bổ sung tên miền cấp cao nhất hay hậu tố mới thực chất cũng chỉ là kẻ vi phạm bản quyền", Paul Vixie, thành viên hội đồng của ICANN, nói.
+Tại Hội nghị thượng đỉnh xã hội thông tin WSIS 2005 (16 - 18/11) ở Tunisia, nhiều nước bày tỏ mong muốn tước quyền điều hành của ICANN nhưng phía Mỹ từ chối nhượng bộ.
+

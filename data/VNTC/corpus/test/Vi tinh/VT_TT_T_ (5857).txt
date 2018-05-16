@@ -1,0 +1,7 @@
+ Xuất hiện mã độc khai thác lỗi của Firefox 1.5
+Lỗi bảo mật này có thể tạo điều kiện cho hacker thực hiện các cuộc tấn công bằng kỹ thuật từ chối dịch vụ vào hệ thống. 
+Chương trình mã độc khai thác lỗi này sẽ tấn công vào một lỗi bảo mật của Firefox 1.5 khi trình duyệt này chạy trên môi trường Windows XP Service Pack 2. Lỗi bảo mật này được xác định là nằm trong file history.dat của Firefox 1.5, file này chứa toàn bộ thông tin về mọi trang web mà người dùng đã từng ghé thăm khi sử dụng Firefox 1.5. 
+Internet Storm Center cho biết lỗi bảo mật này có thể làm cho Firefox 1.5 bị sập ngay lập tức nếu người dùng vô tình chui vào một trang web độc nào đó có chứa mã độc tấn công. Để khắc phục thì người dùng phải xóa đi file history.dat thì Firefox mới có thể khởi động lại được. 
+Ngoài ra Firefox 1.5 cũng phát sinh một lỗi nhỏ khác là đôi khi nó hoàn toàn không phản ứng gì với các cú nhắp chuột của người dùng, tức nó đã bị treo toàn bộ và gây ra hiện tượng tràn bộ nhớ đệm. Các lỗi này có thể bị hacker lợi dụng để tung ra các cuộc tấn công từ chối dịch vụ. 
+Mike Schroepfer, phó chủ tịch phụ trách kỹ thuật của Mozilla không công nhận đây là một lỗi bảo mật thực sự vì qua thử nghiệm cho thấy Firefox 1.5 vẫn tỏ ra an toàn. Các trục trặc gây nên lỗi treo trình duyệt là dạng lỗi phổ thông mà bất kỳ ứng dụng nào cũng có thể gặp phải khi chạy trên môi trường Windows. Mozilla cũng cho biết rằng chưa nhận được báo cáo nào phản ảnh rằng người dùng đã bị thiệt hại do lỗi nói trên gây ra. 
+

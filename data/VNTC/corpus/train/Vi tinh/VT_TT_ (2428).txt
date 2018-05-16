@@ -1,0 +1,9 @@
+ Virus núp dưới bộ phim Harry Potter
+Bộ phim Harry Potter đang bị virus lợi dụng để phát tán virus 
+TTO - Biến thể virus máy tính Netsky.P đang lợi dụng những người ưa thích tác phẩm nổi tiếng Harry Potter để phát tán mạnh trên mạng. 
+Theo hãng phần mềm bảo mật Sophos, virus này giả dạng cung cấp các file về Harry Potter, ảnh khiêu gợi của Britney Spears và các file MP3 Eminem để đánh lừa người trẻ tuổi dùng tải về. 
+Graham Cluley, tư vấn công nghệ cấp cao của Sophos cho biết: "Netsky-P nhắm vào các đối tượng người sử dụng trẻ tuổi hâm mộ hình tượng Harry Potter. Công ty khuyến cao các bậc cha mẹ nên cảnh báo với con em mình về nguy cơ của các cuộc tấn công virus”. 
+Giống như các biến thể khác, Netsky.P phát tán qua e-mail và các dịch vụ chia sẻ file. Nó chỉ nhiễm vào các máy tính chạy Windows khi người dùng kích chuột vào file nguy hiểm trên. Trong 7 ngày qua đã có 45.000 "đoạn mã nguy hiểm" lưu thông qua mạng có dính dáng tới loại virus nguy hiểm này. Thông tin chi tiết về cách diệt Netsky.P, người dùng có thể tham khảo tại đây . 
+Netsky.P núp dưới các file sau: Harry Potter 1-6 book.txt.exe Harry Potter 5.mpg.exe Harry Potter all e.book.doc.exe Harry Potter e book.doc.exe Harry Potter game.exe Harry Potter.doc.exe Cùng ngày, các chuyên gia cũng cảnh báo người dùng rằng hacker đã dùng mã của Mydoom để tạo ra một loại sâu Internet mới mang tên Plexus.A. Đây là một loại virus khá nguy hiểm có khả năng lây lan qua 3 con đường: e-mail, mạng chia sẻ tệp tin và lỗ hổng LSASS, RPC DCOM (trong Microsoft Windows). Giống như Netsky, Plexus.A cũng chỉ tấn công người dùng Windows. 
+Khi lây nhiễm vào máy tính, virus sao chép vào registry của Windows dưới cái tên upu.exe và tự kích hoạt mỗi khi máy tính khởi động. Nó cũng thu thập các địa chỉ e-mail để gửi các bản sao. Nó cũng đồng thời quét Internet để phát hiện PC mang những khiếm khuyết nói trên, mở cửa sau tại cổng 1250 để cho phép hacker từ xa kiểm soát máy tính của nạn nhân. 
+

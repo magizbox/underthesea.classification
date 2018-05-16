@@ -1,0 +1,11 @@
+Xây dựng bản đồ phân bố gió thế giới
+Lần đầu tiên, các nhà khoa học đã xây dựng được một bản đồ mới cho toàn trái đất, tiết lộ những địa điểm có đủ sức gió để xây dựng các nhà máy điện. Họ cũng tìm thấy rằng sức gió có thể cung cấp điện năng nhiều hơn 40 lần so với nhu cầu của toàn thế giới.
+Để có được bản đồ này, các nhà khoa học đã kết hợp dữ liệu về tốc độ gió từ hơn 8.000 điểm trên hành tinh - gồm 7.500 trạm mặt đất và 500 trạm trên khinh khí cầu. Họ đo tốc độ gió ở độ cao 80 mét so với mặt đất, tương ứng với độ cao của một cánh quạt trong tuabin gió hiện đại. 
+Tại các trạm mặt đất, tốc độ gió chỉ được đo ở độ cao 10 mét, song từ đây các nhà nghiên cứu đã phát triển một phương pháp để suy luận ra tốc độ gió ở những chiều cao lớn hơn.
+Họ phát hiện thấy 13% trong số 8.000 điểm có tốc độ gió vượt cấp 3 quanh năm. Cấp 3 tương ứng với 6,9 mét/giây, được xem là đủ mạnh để có thể khả thi về mặt kinh tế.
+"Điều này khá ấn tượng", Cristina Archer, thuộc Đại học Stanford và cộng sự trong nghiên cứu, nhận định. "Nếu bạn chọn ngẫu nhiên 10 điểm trên trái đất, điều đó có nghĩa là 1 thậm chí 2 trong số đó là phù hợp để xây nhà máy phát điện bằng sức gió".
+Nếu được khai thác, 3 khu vực với tốc độ gió lớn hơn hoặc bằng cấp 3 này có thể cung cấp 72 terawatt điện, đủ để phát sáng 1,2 nghìn tỷ bóng đèn 60 watt hoặc 48 tỷ lò nướng bánh. "Chúng ta quả là ngốc nghếch nếu không sử dụng nó", Archer nói.
+Cũng theo Archer, khoảng 2,5 triệu tuabin gió - khai thác khoảng 20% tiềm năng trên cơ sở bản đồ này - là đủ để phát điện cho nhu cầu của toàn thế giới.
+Tuy nhiên, gió không thổi ổn định và người ta không thể điều chỉnh nó cho phù hợp với nhu cầu. Archer hy vọng một ngày nào đó phần lớn sản lượng điện của chúng ta được lấy từ các nguồn năng lượng xanh, giống như sức gió, với những phần còn thiếu sẽ được bù đắp từ các nguồn năng lượng truyền thống và dễ kiếm hơn như đốt nhiên liệu hóa thạch.
+Bản đồ mới này được xem như một bước tiến hướng tới mục tiêu đó. Nó công bố các địa điểm mà những nhà máy điện có thể có hiệu quả nhất, hầu hết nằm gần với bờ biển.
+

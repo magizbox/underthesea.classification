@@ -1,0 +1,4 @@
+ Sẽ kết nối nhắn tin giữa S-Fone với các mạng sau ngày 15-4
+Ông Hùng cho biết VNPT đã giao cho Công ty Thông tin di động tiến hành việc kết nối nói trên nhưng do có trục trặc trong thiết bị chuyển đổi giữa mạng CDMA của S-Fone và mạng GSM của MobiFone nên thời gian kết nối bị chậm lại. VNPT đã chỉ đạo Công ty Thông tin di động giải quyết dứt điểm trục trặc này trước ngày 15-4 để có thể tiến hành kết nối nhắn tin giữa hai mạng. 
+Trước đó, Bộ Bưu chính - viễn thông cũng đã có công văn yêu cầu VNPT thực hiện hoàn tất việc kết nối thử nghiệm dịch vụ nhắn tin giữa các mạng di động của VNPT với S-Fone trước ngày 25-4. Bộ cũng yêu cầu trong trường hợp kết nối không thực hiện được, VNPT và Saigon Postel phải báo cáo với bộ nguyên nhân và hướng giải quyết. 
+

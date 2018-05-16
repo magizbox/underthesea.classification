@@ -1,0 +1,12 @@
+Dự báo dòng chảy núi lửa bằng mô hình
+Một ngày nào đó, con người có thể dễ dàng né tránh những vũ khí giết người của núi lửa - các dòng dung nham cuồn cuộn nóng bỏng và những dòng bùn đá.
+Các nhà địa chất và toán học đang làm việc cùng nhau để tạo ra những mô hình máy tính đặc biệt có thể dự báo vị trí xuất hiện của những dòng lũ đá bọt tốc độ cao, khá lâu trước khi chúng kịp chôn vùi các làng mạc, thành phố. 
+Họ kết hợp dữ liệu đo vẽ địa hình lấy từ những núi lửa có thực, cùng với các dữ liệu thí nghiệm về dòng chảy của vật liệu bở rời xuống sườn dốc, từ đó giúp mô hình tái tạo chính xác được trọng lực và các thác dung nham.
+"Giả sử có một ngôi làng nằm gần một núi lửa, có khả năng ngôi làng đó sẽ bị vùi trong bùn hay không", nhà núi lửa học Michael Sheridan từ Đại học Buffalo, nơi mô hình thác núi lửa TITAN2D được phát triển, nêu ra một đề bài. 
+Năm 1985, một dòng lũ bùn khổng lồ tràn xuống từ núi lửa Nevado Del Ruiz ở bắc Columbia. Người dân không biết phải chạy đi đâu mới an toàn, và 23.000 người đã thiệt mạng. 
+Bằng việc chạy mô hình TITAN2D trên những núi lửa khác nhau ở khắp thế giới, các nhà địa chất đã xác định được những vùng an toàn hơn trên sườn núi, nơi người dân có thể theo đó thoát thân nếu một dòng nham thạch hoặc lũ bùn đá chảy xuống. 
+"Nhiều cư dân trong các vùng nguy hiểm chỉ có nửa tiếng báo động. Nếu biết được chỗ cần chạy, họ có thể sống sót", Sheridan nói. 
+"Tôi rất tin tưởng vào những mô hình này", Richard Iverson chuyên gia nghiên cứu núi lửa St. Helens ở Đài quan sát núi lửa Cascades, thuộc Cơ quan khảo sát địa chất Mỹ, cho biết. "Đã có hàng loạt các mô hình giống như TITAN2D, nhiều cái trong số đó hứa hẹn sẽ cứu sống được con người trong tương lai".
+"Ngày nay, chúng ta mới chỉ áp dụng chúng để báo động, không phải là dự báo. Công việc đó dễ làm hơn nhiều, tất nhiên vì bạn đã biết kết quả. Một khi đã có mô hình tốt, bí quyết để dự đoán độ nguy hiểm của dòng dung nham sẽ chỉ là xác định độ lớn của phần núi lửa vỡ ra". 
+Một đặc điểm quan trọng của TITAN2D là nó không cần phải chạy trên siêu máy tính, mà có thể hoạt động trên các PC và laptop thường.
+

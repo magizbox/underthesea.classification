@@ -1,0 +1,4 @@
+ Mua quyền sử dụng dài hạn hạ tầng viễn thông
+Theo đó, TP.HCM sẽ mua quyền sử dụng các cổng kết nối đến các sở, ngành và đơn vị trong toàn TP với băng thông đến 100 Mbps/cổng. Với hạ tầng mạng này sẽ giúp việc truyền dữ liệu, tích hợp dữ liệu... được dễ dàng do đường truyền thông thoáng, băng thông rộng và tốc độ truyền cao. 
+Theo Ban quản lý các dự án công nghệ thông tin TP.HCM, ngân sách TP sẽ chi 68 tỉ đồng để thực hiện dự án nói trên (trong đó 28 tỉ đầu tư cho trang thiết bị đầu cuối; 40 tỉ đầu tư hạ tầng truyền dẫn). 
+

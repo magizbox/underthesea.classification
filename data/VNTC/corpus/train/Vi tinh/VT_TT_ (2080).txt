@@ -1,0 +1,5 @@
+ Máy in cũng phát sinh lỗi bảo mật!
+Lỗi bảo mật nằm trong phần mềm công cụ này sẽ cho phép kẻ tấn công đọc được các tài liệu trong quá trình chuyển đến máy in, nhất là các máy in trong mạng, ngoài ra còn cho phép kẻ tấn công chui vào các hệ thống máy chạy Windows. 
+Lỗi bảo mật này do chuyên gia bảo mật Richard Horsman phát hiện và công bố trên website Sec-1.com, nhưng may mắn rằng Horsman vẫn chưa công bố các chi tiết về lỗi bảo mật trên. 
+Các giới chức của HP cũng đã thừa nhận sự tồn tại của lỗi bảo mật này và khuyến cáo chủ nhân của các máy Color LaserJet 2500 và Color LaserJet 4600 nên cập nhật ngay phiên bản mới nhất của phần mềm tiện tích dành cho 2 máy in trên tại website của HP . 
+

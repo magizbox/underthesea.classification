@@ -1,0 +1,4 @@
+Ngày 25/4, Intel Việt Nam đã tổ chức họp báo giới thiệu công nghệ mới nhất của hãng Intel ứng dụng cho bộ vi xử lý - Intel&reg; Core. Máy tính tích hợp bộ vi xử lý áp dụng công nghệ mới này sẽ làm tăng tốc độ xử lý của máy nhưng không làm tiêu hao nhiều năng lượng.
+Intel&reg; Core ra đời nhằm đáp ứng nhu cầu của người tiêu dùng đó là cần tốc độ xử lý tăng nhưng đồng thời phải tiết kiệm năng lượng. So với các kiến trúc đã được áp dụng trước đây cho các bộ vi xử lý như Pentium II, III, IV... thì kiến trúc Core có nhiều tính năng vượt trội hơn như hỗ trợ nhiều hơn về media số; chế độ chia sẻ bộ nhớ (share cache) - tránh nghẽn khi xử lý các tác vụ; tiết kiệm được rất nhiều năng lượng...
+Theo dự kiến đến quý III năm 2006, kiến trúc mới này sẽ được đưa ra thị trường. Các loại máy tính để bàn, máy xách tay, máy chủ và cả mobile sẽ được tích hợp công nghệ mới này.
+

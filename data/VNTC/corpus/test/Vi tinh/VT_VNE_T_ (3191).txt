@@ -1,0 +1,9 @@
+HP tăng cường các giải pháp 'Thích ứng doanh nghiệp'
+Tại diễn đàn Doanh Nghiệp HP ENSA@WORK (Enterprise Solutions At Work) tổ chức ở Đan Mạch ngày 3/6, HP chính thức công bố các cải tiến mới dành cho khách hàng khối doanh nghiệp, bao gồm hệ thống máy chủ Integrity NonStop và phần mềm quản trị hạ tầng hợp nhất.
+Máy chủ HP Integrity NonStop là thương phẩm đầu tiên có thể mở rộng lên tới hơn 4.080 bộ vi xử lý Intel Itanium 2. Máy chủ mới có độ tin cậy cao hơn 100 lần so với các hệ thống trước với chi phí giảm đến một nửa. Máy này cho phép đảm bảo tính liên tục theo thời gian, vốn là yếu tố rất quan trọng đối với một số ngành như sức khoẻ, dịch vụ tài chính, chính phủ, giao thông, truyền thông, bán lẻ và sản xuất.
+Phần mềm HP Systems Insight Manager 5.0 (HP SIM 5.0) là nền tảng hợp nhất đầu tiên của ngành điện toán, tích hợp khả năng quản trị các hạ tầng máy chủ và máy lưu trữ, cho phép khách hàng giảm chi phí và tính phức tạp của việc bảo trì hệ thống CNTT, giải phóng các nguồn lực để tập trung cải tiến.
+HP SIM 5.0 cho phép kiểm soát lỗi, báo cáo tổng hợp và quản trị cấu hình cho các máy HP Proliant, HP Integrity và các hệ thống HP 9000, và bây giờ là HP StorageWorks XP, EVA cũng như các dòng MSA của loạt máy lưu trữ. Các hệ thống HP Integrity NonStop cũng có thể được quản trị bằng SIM. 
+Được xây dựng dựa trên các chuẩn ngành mới nhất và phần mềm ứng dụng nguồn mở từ JBoss, HP SIM 5.0 cho phép quản trị các máy chủ và hệ thống lưu trữ không thuộc hãng HP và đảm bảo khả năng tương tác với các nền tảng quản trị doanh nghiệp như HP OpenView Operations, HP OpenView Network Node Manager và các công cụ của nhà cung cấp khác. 
+HP SIM 5.0 tích hợp một loạt lựa chọn thêm bao gồm HP ProLiant Essentials, HP Integrity Essentials, HP Storage Essentials và nhiều tính năng mở rộng. 
+Tham khảo thêm tại www.hp.com/go/ensa2005.
+

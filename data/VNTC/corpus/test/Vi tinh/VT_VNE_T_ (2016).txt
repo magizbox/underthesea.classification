@@ -1,0 +1,7 @@
+HP công bố bước đột phá về điện toán phân tử
+Trên tạp chí vật lý ứng dụng Journal of Applied Physics, đơn vị nghiên cứu lượng tử của HP cho biết thiết bị siêu nhỏ với chiều ngang tính bằng nanomét của họ có thể thực hiện một trong những chức năng logic quan trọng trong điện toán.
+HP đã thiết kế cái gọi là chốt giao điểm (crossbar latch) với một dây dẫn đơn được cắt ngang bởi 2 dây khác tại những điểm giao cắt nhỏ bằng đơn vị phân tử. Khi áp dụng một chuỗi xung điện, chốt này có thể thực hiện lệnh KHÔNG (NOT), một trong 3 phép toán cơ bản tạo nên logic cơ sở của một mạch điện máy tính, bên cạnh lệnh VÀ (AND) và HOẶC (OR).
+Theo Stan Williams, Giám đốc bộ phận nghiên cứu lượng tử của HP, khóa nói trên đem lại một yếu tố rất quan trọng cho việc xây dựng các máy tính sử dụng thiết bị nano với ưu thế rẻ tiền và dễ thiết lập. Chúng tôi đang tái phát minh máy tính theo quy mô phân tử, William phát biểu.
+Công nghệ mới của HP có thể được khai thác để bổ sung và thậm chí thay thế transistor vì loại thiết bị bán dẫn này được dự báo sẽ đi đến giới hạn vật lý trong vài năm tới, điều sẽ cản trở việc thu nhỏ chúng hơn nữa. Các chuyên gia của HP cho biết công nghệ của họ có thể dẫn đến việc máy tính trở nên mạnh hơn gấp hàng nghìn lần so với hiện nay.
+Hiện HP đang cố gắng tìm cách triển khai sản xuất đại trà và thương mại hóa công nghệ mới.
+

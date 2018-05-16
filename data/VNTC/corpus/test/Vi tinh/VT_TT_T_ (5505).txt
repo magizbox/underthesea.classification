@@ -1,0 +1,7 @@
+ Khoác áo mới cho chiếc đồng hồ ở khay hệ thống
+Có lẽ tên của phần mềm đã nói lên được phần nào chức năng của nó: với hàng trăm mẫu có sẵn, chương trình sẽ giúp bạn khoác lên chiếc đồng hộ mỗi ngày một “bộ áo” mới toanh. 
+Sau khi chạy chương trình, bạn nhấn chuột phải lên biểu tượng nơi đặt chiếc đồng hồ quen thuộc, chọn Main Dialog. Một hộp thoại xuất hiện. 
+Trong hộp thoại này, ở khung bên trái bạn chọn Options để xác lập các thông số (tại khung bên phải) như: hiển thị giây (Show seconds), dùng định dạng 12h (Use 12 hour format), hiển thị ngày (Show date), làm cho dấu phân cách nhấp nháy (Blinking time separator)… 
+Kế đến nhấp chuột vào mục Select Skin trong khung bên trái. Khung bên phải sẽ liệt kê các mẫu skin có sẵn của chương trình. Bạn chỉ việc nhấp chọn một skin trong danh sách và theo dõi sự thay đổi của nó ở khay hệ thống. Đánh dấu chọn Use transparent background nếu muốn dùng nền trong suốt. Khi đã chọn vừa ý với một mẫu skin nào, bạn nhấn OK để áp dụng mẫu đó. 
+Clock Tray Skins 2.6 là phần mềm thương mại của hãng Drive Software Company, giá 19,95 USD, tải bản dùng thử tại website http://www.drive-software.com (dung lượng 888 KB). 
+

@@ -1,0 +1,5 @@
+ Tạo ảnh toàn cảnh bằng Photo Fit
+Vậy làm thế nào để có được một bức ảnh toàn cảnh của một căn nhà hay một cảnh quan nào đó mà chất lượng hình ảnh vẫn rõ nét như ảnh cận cảnh? Với Photo Fit, bạn có thể làm điều này rất dễ dàng chỉ với thao tác nhấp chuột. 
+Chương trình này cho phép bạn chụp riêng rẽ từng ảnh ở cự ly gần của một khung cảnh nào đó, sau đó chỉ việc dùng chương trình này để ghép chúng lại với nhau thành một hình ảnh đồng nhất. Bạn có thể chụp các bức ảnh này chồng lên nhau một phần (hai tấm ảnh liền kề có phần chung), chương trình sẽ tự động nhận dạng các điểm chung giữa hai bức ảnh và loại bỏ phần trùng đó để làm bức ảnh của bạn trông thật tự nhiên. 
+Chương trình có dung lượng 11,3 MB, tương thích với mọi Windows, tái bản miễn phí tại: http://www.tpfit.com/downloads/pfitf1300.zip . 
+

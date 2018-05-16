@@ -1,0 +1,6 @@
+Đào tạo cấp độ 2 quản trị cơ sở dữ liệu tại Việt Nam 
+Trong tháng này, Trung tâm Tin học Đại học Khoa học tự nhiên TP HCM sẽ chính thức đào tạo OCP, chứng chỉ kế tiếp trong chương trình đào tạo chuyên viên quản trị cơ sở dữ liệu Oracle (Database Administrator - DBA). Khóa học sẽ kéo dài trong 5 tháng với 2 môn Fundamentals II và Performance Tuning. 
+Với mức phí là 3,6 triệu đồng, học viên sẽ được ôn luyện và thi thử trước khi dự tuyển chính thức thông qua Trung tâm khảo thí quốc tế Prometric. 
+Khóa học này sẽ cung cấp kiến thức về cấu hình, cách cài đặt và quản trị cơ sở dữ liệu Oracle trong môi trường mạng, các phương pháp sao lưu dự phòng và phục hồi dữ liệu, tạo lập, cài đặt và hiệu chỉnh các thông số database để tối ưu hóa tốc độ hoạt động của cơ sở dữ liệu và thực thi các câu lệnh SQL...Tuy nhiên, để đến được với OCP, học viên phải đạt chứng chỉ OCA hoặc có kiến thức tương đương. Chương trình cũng khuyến khích sinh viên bằng cách giảm 20%-30% học phí cho đối tượng này. 
+"Chương trình phát triển nguồn nhân lực WDP (Workforce Development Program)" do Oracle khởi xướng nhằm đào tạo các chuyên gia về cơ sở dữ liệu và phát triển ứng dụng Oracle. Chuyên ngành về quản trị cơ sở dữ liệu (Oracle Database Administrator) được chia ra làm 3 cấp độ: OCA, OCP và OCM. Khóa học OCA đã kết thúc sau 7 tháng đào tạo.
+

@@ -1,0 +1,8 @@
+Mã mở hóa công cụ phân tích hơi thở
+Cảnh sát bang Florida (Mỹ) sẽ không thể sử dụng thiết bị đo nồng độ cồn trong hơi thở (làm bằng chứng tại phiên tòa để chống lại những lái xe uống rượu), trừ khi những cấu trúc bên trong hệ thống được công khai.
+Cuộc họp nhóm giữa các thẩm phán tại hạt Sarasota thuộc bang này kết luận rằng luật sư bào chữa phải có quyền tiếp cận mã nguồn của công cụ Intoxilyzer 5000 - máy tính RAM 168 KB - do công ty CMI sản xuất.
+"Trừ khi họ biết máy hoạt động thế nào, Intoxilyzer 5000 sẽ chẳng có vai trò gì ngoài việc là một 'hệ thống bí ẩn' được sử dụng để buộc tội ai đó", các quan tòa phán.
+Sự việc này sẽ có tác động lớn đến kết quả phán quyết của hàng trăm lái xe bị gán tội điều khiển phương tiện khi đang say rượu ở bang. Gần đây, tòa án Florida đã chia làm nhiều phe bởi một số thẩm phán cho rằng thông tin về cơ chế hoạt động của máy cần được giữ kín.
+Bang này không yêu cầu phải công bố rộng rãi mã nguồn, mà cho phép chuyên gia bên bị có quyền tiếp cận, phân tích và kiểm chứng một cách bí mật, để tìm sai sót và những phần đã được chỉnh sửa trong máy nhằm bảo vệ thân chủ.
+Năm 1998, cũng ở bang này, các luật sư bào phát hiện ra cảnh sát đã chỉnh sửa hệ thống của thiết bị kiểm tra hơi thở nhằm đưa ra kết quả không chính xác, do đó không được coi là bằng chứng tại tòa.
+

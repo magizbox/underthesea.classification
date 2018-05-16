@@ -1,0 +1,6 @@
+ Dùng flash làm wallpaper
+Cách sử dụng Flash Wallpaper rất đơn giản. Sau khi chạy chương trình, tại thẻ Wallpaper, bạn bắt buộc phải thực hiện các thao tác chọn file flash muốn làm wallpaper (trong ô Flash Movie file path), đặt tên cho wallpaper này (trong ô Wallpaper name). Các tùy chọn còn lại, bạn có thể thiết lập theo ý mình. 
+Sau đó, bạn chuyển qua thẻ Installer, khai báo thư mục chứa file cài đặt wallpaper tại ô Specify a file path for your wallpaper. Sau đó, bạn nhấn nút Build Now! để tiến hành tạo file cài đặt. Thực hiện file cài đặt này sẽ thiết lập wallpaper là file flash đã chọn. 
+Trong quá trình sử dụng máy tính, bạn có thể điều khiển file flash như ngưng chơi file flash, ngưng phát nhạc… bằng cách nhấn chuột phải trên vùng flash làm wallpaper và thao tác với menu ngữ cảnh. 
+Flash Wallpaper có dung lượng 1.864 KB, hoàn toàn miễn phí, tương thích với mọi Windows, tải tại http://www.tenmiles.com/flashwallpaper/download.php . 
+

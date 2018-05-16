@@ -1,0 +1,6 @@
+Làm Winamp sinh động hơn với vũ nữ 3D 
+Hầu hết người dùng máy vi tính đều quen thuộc trình chơi nhạc Winamp với tính năng quản lý mạnh và độ tuỳ biến cao. Hiệu ứng thị giác của nó cũng rất bắt mắt, với sự đóng góp của nhiều hãng thứ ba. Đáng kể nhất phải nói đến các plug-in vũ công 3D của hãng Tangent.
+Hiện Winamp có 2 plug-in Chistmas Dancer và Valentine Dancer với định dạng exe có dung lượng mỗi file xấp xỉ 3 MB. Sau khi tải về, bạn chỉ cần chạy file và xác định thư mục đích là Winamp. Sau đó, mở Winamp và vào menu OptionsVisualiztionsConfigure Visualizations, hoặc truy cập qua phím nóng Alt+K rồi chọn hiệu ứng mong muốn.
+Khi nữ vũ công xinh đẹp của bạn xuất hiện và bắt đầu khiêu vũ theo tiết tấu của nhạc, bạn có thể thực hiện rất nhiều thay đổi chỉ qua một cú gõ phím như thay trang phục cho vũ công, đổi góc quay camera, thay đổi độ phân giải màn hình... 
+Cả hai plug-in đều hoàn toàn miễn phí. Bạn có thể tải Chistmas Dancer ở đây và Valentine Dancer ở đây.
+

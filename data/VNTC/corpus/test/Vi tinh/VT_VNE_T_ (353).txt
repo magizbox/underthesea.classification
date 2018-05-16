@@ -1,0 +1,7 @@
+Dell phát hiện lỗi trong máy chủ
+Hãng chế tạo máy tính hàng đầu thế giới cho biết loạt server PowerEdge 1650, sản xuất trong thời gian từ 1/1 đến 6/5/2003, bị một khuyết tật ở phần cảm điện trên công cụ chuyển đổi (converter) DC-DC của mainboard. 
+Lỗi này có thể khiến hệ thống bị hun nóng, phát ra khói và ngừng hoạt động.
+Phát ngôn viên của Dell tại Australia cho biết họ đã khuyến cáo tất cả khách hàng có thiết bị này hãy liên hệ với hãng để thay thế mainboard sau đó mới có thể tiếp tục sử dụng hệ thống như thường.
+Trong khi đó, một thông báo trên mạng tin Full-Disclosure, khẳng định rằng khuyết điểm này còn xuất hiện cả ở loạt máy chủ 1600.
+Dell PowerEdge 1650 là một loại máy chủ cài trên giá, phục vụ trong các trung tâm dữ liệu. Nó được tung ra thị trường lần đầu tiên vào tháng 2/2002 với một bảng mạch chủ cũng do Dell sản xuất. 
+

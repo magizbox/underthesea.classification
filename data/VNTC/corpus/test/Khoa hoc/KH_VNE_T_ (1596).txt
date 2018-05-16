@@ -1,0 +1,6 @@
+Hệ thống quan trắc tự động mực nước dưới đất
+Khoa Khoa học ứng dụng thuộc ĐH Bách khoa TP HCM đã chế tạo hệ thống quan trắc mực nước dưới đất có các chức năng ghi nhận tự động, lưu trữ và truyền dữ liệu về máy tính trực tiếp hay gián tiếp thông qua mạng điện thoại hữu tuyến.
+Ngoài ra, nhóm nghiên cứu cũng thực hiện các thí nghiệm đánh giá độ ổn định, độ tuyến tính, ảnh hưởng của môi trường lên hệ thống đo và thí nghiệm quan trắc mực nước tại trạm Tân Sơn Nhất thuộc Sở Tài nguyên và Môi trường TP HCM.
+Thiết bị đo mức nước hoạt động dựa trên nguyên lý đo áp suất của nước tại một điểm cố định, quan hệ giữa áp suất nước và độ sâu tại điểm đo là tuyến tính và phụ thuộc vào khối lượng riêng của nước. Phần tử cảm biến áp suất trong đầu đo là loại cảm biến piezoresistive có độ nhạy và ổn định rất cao. 
+Tín hiệu điện áp ra của cảm biến rất nhỏ nên được khuyếch đại ngay khi ra khỏi cảm biến. Thiết bị lưu trữ và truyền dữ liệu là loại Data Logger-LAM, là hệ thống một kênh, có khả năng lưu trữ được 4050 dữ liệu, thời gian lấy mẫu có thể thay đổi được bất kỳ. Thiết bị kết nối với máy tính qua giao tiếp RS232 theo hai phương thức: trực tiếp qua cổng nối tiếp hay gián tiếp qua modem và mạng điện thoại hữu tuyến.
+

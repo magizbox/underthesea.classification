@@ -1,0 +1,6 @@
+Intel bắt đầu sản xuất wafer 300 mm tại Ireland
+Hôm nay, cơ sở sản xuất wafer số lượng lớn nhất của tập đoàn chip chính thức đi vào hoạt động. Nhà máy trị giá 2 tỷ USD mới này, mang tên Fab 24, sẽ chế tạo wafer 300 mm dựa trên công nghệ xử lý 90 nanomet hàng đầu của Intel. 
+Fab 24 là cơ sở thứ 4 của Intel sản xuất wafer 300 mm, cho phép chế tạo lượng chip trên mỗi wafer nhiều hơn 2,5 lần. Sự kết hợp giữa hiệu suất về vốn có được từ công nghệ 300 mm và năng lực lao động hiệu quả đã biến Fab 24 thành một trong những nhà máy sản xuất tốt nhất của tập đoàn Intel trên thế giới, Craig Barret, Tổng giám đốc điều hành, phát biểu. 
+Những wafer 300 mm lớn hơn này cho phép giảm chi phí sản xuất. Bên cạnh đó, công nghệ mới sẽ sử dụng ít hơn 40% năng lượng và nước để sản xuất chip so với các công nghệ cũ. Đây cũng là cơ sở đầu tiên trong ngành sử dụng công nghệ silicon kéo căng để tăng tốc độ của các bóng bán dẫn. 
+Intel đã sản xuất chip bán dẫn ở Ireland từ năm 1990. Các nhà máy chế tạo wafer 300 mm khác được đặt ở Hillsboro, Oregon (D1C và D1D) và Rio Rancho, New Mexico (Fab 11X).
+

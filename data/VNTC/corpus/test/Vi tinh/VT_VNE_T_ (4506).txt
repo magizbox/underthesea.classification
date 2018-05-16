@@ -1,0 +1,12 @@
+Điện thoại thông minh đầu tiên dùng nền Symbian 9.1
+Sony Ericsson vừa giới thiệu máy P990 hoạt động với hệ điều hành mới nhất của Nokia và nền tảng UIQ 3. Tích hợp kết nối Wi-Fi, sản phẩm mang lại khả năng tương tác giữa các thiết bị trong cùng một phạm vi phủ sóng.
+P990 QWERTY.
+P990 được trang bị màn hình cảm ứng 262.000 màu, 240 x 320 pixel, bàn phím QWERTY, WLAN, Bluetooth, camera 2 megapixel, thiết bị ghi hình, nghe nhạc, bộ thu sóng FM với RDS, bộ nhớ 64 MB và khe cắm thẻ nhớ lên tới 4 GB. Về tính năng văn phòng, P990 được cài đặt các phần mềm xử lý văn bản, bao gồm Microsoft Word, Excel, Powerpoint và Adobe PDF. Sản phẩm có kích thước 114 x 57 x 25, trọng lượng 155g. Giá cả chính thức vẫn chưa được công bố.
+Sony Ericsson không tiết lộ P990 là sản phẩm tiếp theo thuộc dòng P800, P900 hay P910. Thiết bị dựa trên nền Java 3 (JP-3) và là chiếc điện thoại thứ 20 của hãng hỗ trợ Mobile Java 3D.
+"Ưu thế và khả năng kỹ thuật của P990 sẽ còn được nâng cao hơn nhờ ứng dụng của cộng động các nhà phát triển", Jan Wreby, Phó giám đốc điều hành của Sony Ericsson, cho biết. "Nhu cầu cho những chương trình của bên thứ 3 trên P800, P900, P910, 3 phiên bản được đánh giá là cao cấp và hữu ích nhất trên thị trường điện thoại thông minh, là rất lớn, do đó, chúng tôi sẽ tiếp tục duy trì và phát huy thế mạnh này".
+P990i.
+Sản phẩm sẽ có mặt trên thị trường vào quý I/2006 với các phiên bản:
+- P990i: UMTS (2100MHz), GPRS 900/1800/1900 tại châu Âu, châu Á - Thái Bình Dương, Trung Đông và châu Phi.
+- P990c: UMTS (2100MHz), GPRS 900/1800/1900 tại Trung Quốc.
+- P990: với bốn kiểu bàn phím QWERTY, QWERTZ, AZERTY và bàn phím tiếng Nga.
+

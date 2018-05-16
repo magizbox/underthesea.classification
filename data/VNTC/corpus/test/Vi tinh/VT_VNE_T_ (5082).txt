@@ -1,0 +1,6 @@
+Gmail được trang bị tính năng quét virus
+Hãng dịch vụ tìm kiếm Google vừa tuyên bố hộp thư hơn 2 GB của họ đã được trang bị hệ thống dò tìm và xóa chương trình nguy hiểm chứa trong file đính kèm, đặc biệt những tệp tin thi hành (executable).
+Gmail sẽ tự động quét tất cả các tệp attachment mà người sử dụng nhận được hay gửi đi. Nó sẽ lập tức xóa virus trong tệp bị nhiễm, hỗ trợ mọi người truy cập thông tin an toàn, đồng thời ngăn họ gửi thông điệp chứa mã độc.
+Trước đây, Google bảo vệ người sử dụng Gmail bằng cách chặn tất cả những file đính kèm có dấu hiệu của virus.
+Công ty phát hành Gmail bắt đầu từ tháng 4/2004 và hiện vẫn trong quá trình thử nghiệm. Để mở tài khoản mới, mọi người phải gửi một tin nhắn SMS tới Google hoặc được mời qua e-mail bởi một người sử dụng Gmail khác.
+

@@ -1,0 +1,8 @@
+- Trước hết chọn một file ảnh có chất liệu giống vân đá (hình 1).- Bấm chọn công cụ Horizontal Type Mask Tool để nhập văn bản bạn cần làm.- Bấm Ctrl + J để copy phần vùng chọn văn bản mà bạn mới nhập tạo thành một lớp mới.
+- Chọn Layer - Layer Style - Inner Shadow với các thông số sau:Blend Mode: MultiplyOpacity: 100%Angle: 145Distance: 5pxChoke: 0%Size: 5px 9.
+hình 2
+- Chọn Image - Adjustment - Levels với các thông số sau:Channel: RGBInput Levels: 0; 0,55; 255Output Levels: 0; 220
+hình 3
+- Bấm OK, ta được kết quả như hình 4.
+hình 4
+

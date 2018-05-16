@@ -1,0 +1,6 @@
+Máy nối mạng game nhiều lúc bị đẩy ra ngoài (1)
+Hiện nay tôi quản lý phòng internet, game. Trong lúc nối mạng game, chương trình đang chạy hay bị đẩy ra ngoài lúc thì la máy create, đôi khi la máy join và trở lại màn hình Windows. Tất nhiên nếu máy create bị đẩy thì các máy khác cũng bị dừng lại. Điều này làm tôi hết sức băn khoăn và không hiểu được nguyên do. Mong các bạn hướng dẫn chi tiết giúp càng sớm càng tốt. Xin cảm ơn. 
+Vu Huong
+Hồi âm:
+Bạn cần nói rõ máy chạy hệ điều hành gì, game gì, và quan trọng nhất "đẩy ra ngoài" nghĩa là thế nào. Nếu ý bạn "đẩy ra ngoài" nghĩa chương trình game đó dừng lại hoặc tự động ngắt (như là khi bạn tắt trình đó đi) thì không liên quan gì đến mạng cả, bạn cần cài lại trình điều khiển giành cho: soundcard, Video card,  NIC; cài lại phần mềm giành cho chipset, DirectX mới nhất (hiện thời là 9.0b) , cập nhập game với bản vá lỗi mới nhất (patch).  Nếu "đẩy ra ngoài" nghĩa là bị ngắt ra khỏi mạng (mặc dù game vẫn chạy) thì lưu ý: Nếu bạn sử dụng Windows 9x/Me/XP Home: các hệ điều hành này chỉ cho phép không quá 5 máy kết nối vào cùng một lúc, nếu số người chơi là  từ 5 trở nên, tốt nhất bạn không nên tạo game (create) ở trên máy chạy một trong số các hệ điều hành này. 
+

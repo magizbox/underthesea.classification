@@ -1,0 +1,6 @@
+Oracle Database 10g lập kỷ lục thế giới về hiệu suất 
+Chạy trên hệ thống máy chủ Integrity Superdome của HP, Oracle Database 10g đạt 49.108 lệnh một giờ với hệ thống lưu trữ có dung lượng 10.000 GB (49.108 QphH@10000GB), đạt hiệu suất giá là 118 USD một lệnh/giờ với hệ thống 10 terabyte dữ liệu. 
+Kết quả mà hệ thống đơn này tạo ra mang lại tỷ lệ hiệu suất trên bộ vi xử lý cao hơn trong khi chi phí thấp hơn một nửa so với các kết quả của hệ thống cluster (song hành) tốt nhất mà IBM và NCR Teradata mang lại. Oracle và HP giờ đây đã giành được những kết quả TCP-H trên hệ thống non-cluster (không chạy song hành) kỷ lục thế giới với các hệ thống có dung lượng lưu trữ từ 3 tới 10 terabyte.
+Ngoài ra, hai hãng này cũng giữ cả hai kỷ lục về hiệu suất TCP-C trên hệ thống song hành và hệ thống đơn với các kết quả thử nghiệm duy nhất từ trước tới nay vượt qua ngưỡng 1 triệu giao dịch một phút. 
+Các công ty với những dự án kho dữ liệu khổng lồ luôn tìm kiếm các giải pháp nhanh và tốt hơn nhằm quản lý và tận dụng khối lượng dữ liệu khổng lồ của mình, ông Richard Sarwal, Phó chủ tịch phụ trách về hiệu suất hoạt động của hệ thống máy chủ của Oracle, nhận định. Oracle Database 10g kết hợp với hệ thống máy chủ HP Integrity cho phép các công ty đạt được hiệu suất hoạt động cao với mức giá thấp hơn nhiều so với những sản phẩm cạnh tranh khác.
+

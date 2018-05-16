@@ -1,0 +1,15 @@
+- Mở file ảnh muốn tạo sự chuyển động (hình 1)
+- Chọn công cụ Polygonal Lasso Tool vẽ chọn xung quanh đối tượng
+- Chọn Layer - New - Layer Via Copy để tạo ra bản sao của đối tượng
+- Nhấn Ctrl + T, kéo handle ở góc cho nhỏ một chút và quay đối tượng một góc nhỏ để tạo sự thay đổi trong lúc chuyển động (hình 2)
+- Tương tự, trong bảng Layers tạo tiếp ba bản sao mới và lần lượt làm theo bước trên (kéo nhỏ và quay đối tượng một chút) để sắp xếp thành một chuỗi chuyển động liên tục (hình 3, 4)
+- Trong bảng Layers, chọn Layer 1 copy rồi giảm giá trị Opacity của layer này còn 80%
+- Tương tự, các Layer 1 copy 2, Layer 1 copy 3, Layer 1 copy 4 giảm Opacity xuống 60%, 40%, 20% (hình 5)
+- Trong bảng Layers, chọn Layer 1 copy
+- Chọn Filter - Blur - Radial Blur, với thông số:
+Amount : 8
+Chọn Blur Method : Spin
+Chọn Quality : Good (hình 6, 7)
+- Tương tự, lặp lại bước trên với các Layer 1 copy 2, Layer 1 copy 3, Layer 1 copy 4
+- Ta được kết quả như hình 8.
+

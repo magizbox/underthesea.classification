@@ -1,0 +1,15 @@
+ Hỗ trợ làm đồ án, thuyết minh trong MS-Word
+Trong MS-Word có phần hỗ trợ chèn hình vào văn bản mà khi chép mang đi máy khác bạn có thể thoải mái chép phần chữ riêng, phần hình riêng vào đĩa mềm chứ không cần phải nén tập tin, dùng flash disk hay chép vào CD... 
+Khi số trang của bạn quá nhiều, MS-Word có chức năng hỗ trợ làm mục lục nhanh và khi bạn có chỉnh sửa trên văn bản thì sẽ có chức năng tự cập nhật số trang cho phù hợp, bạn không phải mất nhiều thời gian để làm công việc này. Đồng thời khi kiểm duyệt văn bản ta muốn đến phần nào đó trong văn bản cũng nhanh hơn. 
+Chèn hình 
+1. 
+Thay vì ấn vào nút "Insert" thì chọn "Link to File" Vào Insert\Picture\From File... 
+2. Khi hộp thoại hiện lên, ta chọn hình cần chèn, thay vì ấn vào nút "Insert" thì chọn "Link to File", Với chức năng này, ta chỉ chèn đường dẫn đến tập tin hình ảnh chứ không chèn trực tiếp hình vào văn bản. Khi chép ra ngoài có thể chép tập tin Word riêng và tập tin hình ảnh riêng. 
+3. Sau đó, bạn chỉ cần chép trở lại tất cả vào một thư mục thì hình ảnh sẽ tự động được chèn vào văn bản, không ảnh hưởng nhiều đến dung lượng của tập tin, đồng thời khi bạn soạn thảo văn bản cũng sẽ nhanh hơn. 
+Làm mục lục 
+Chọn Styles cho các đề mục 
+1. Đầu tiên, Ta phải tạo một "Style" chuẩn như sau: Vào Format\Styles and Formatting. Sau đó, ta định các Style (Normal, Heading, Body text..) theo ý của mình như: font chữ, khoảng cách dòng ... và quy ước trước: Phần I, II, III... là Heading 1, Chương 1, 2, 3.. là Heading 2, Mục I, II, III ... là Heading 3... 
+2. Sau đó, ta quay trở lại văn bản, để con trỏ chuột tại các phần tương ứng (Phần, chương,...) chọn các Styles tương ứng (Phần này có thể lúc vừa đánh máy ta vừa chọn, hoặc sau khi hoàn tất văn bản ta thực hiện cũng được) 
+Chọn Tab: Table of Contents. 3. Khi cần làm mục lục, ta tiến hành như sau: Vào Insert\Reference\Index and Tables... Hộp thoại sẽ hiện lên, bạn chọn Tab: Table of Contents. Trên Tab này có rất nhiều tùy chọn: Hiển thị số trang (Show page numbers), Canh phải số trang (Right align page numbers), kiểu phân cách (Tab leader), mức độ hiển thị (Show levels),... 
+Ta ấn nút OK để hoàn tất. Lúc này, MS-Word sẽ căn cứ Styles bạn đã định cho các phần trước đó mà cho ra một bản mục lục chính xác và đẹp mắt. Sau này khi cần kiểm tra, chỉnh sửa một phần nào đó của văn bản, bạn chỉ cần click vào mục lục, dấu nháy sẽ di chuyển đến đó. 
+

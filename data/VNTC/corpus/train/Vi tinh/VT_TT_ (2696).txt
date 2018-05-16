@@ -1,0 +1,6 @@
+ IP của các mail server VN 4 lần nằm trong danh sách đen về thư “rác”
+&gt;&gt; Thư rác “made in VN”: SOS! 
+Điều này đồng nghĩa với việc các thư điện tử gửi đi từ VN không tới được các địa chỉ mạng của những thành viên thuộc hai tổ chức trên. 
+Để khắc phục, VDC đã liên hệ với Spamhaus và Sorbs để được loại bỏ khỏi “danh sách đen”. Sorbs đã đề nghị VDC phải trả 50 USD cho một lần gỡ bỏ nhưng sau đó VDC đã thương lượng để không phải trả khoản phí này, còn Spamhaus yêu cầu VDC phải xử lý những trường hợp gửi thư “rác” trước khi Spamhaus gỡ bỏ khỏi “danh sách đen”. 
+Phí phải trả cho mỗi lần yêu cầu gỡ bỏ IP của VN khỏi “danh sách đen” không lớn nhưng quan trọng hơn là việc VN bị mất uy tín trong cộng đồng Internet thế giới. 
+

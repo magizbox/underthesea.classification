@@ -1,0 +1,7 @@
+Windows cho từng lĩnh vực chuyên biệt 
+Hãng phần mềm Mỹ Microsoft vừa công bố phiên bản Windows XP đầu tiên mang tên WEPOS (Windows Embedded for Point of Service), cung cấp ứng dụng cho ngành công nghiệp dịch vụ và bán lẻ.
+Theo Microsoft, sản phẩm tập trung vào các ứng dụng hệ thống mua bán, ki-ốt lưu thông tin, hệ thống thanh toán tự phục vụ, bơm gas... 
+So với những phiên bản hiện tại và trước đó của Windows, hệ điều hành mới có thêm nhiều tiện ích, như hỗ trợ plug-and-play (cắm và hoạt động), dùng trong những thiết bị chuẩn Unified POS 1.8. Unified POS cho phép cài thêm thiết bị mới một cách tương đối đơn giản, chẳng hạn như thao tác cắm chuột USB vào PC, nhờ đó có thể nâng cấp nhanh mà không mất nhiều thời gian. Trong khi đó, hệ thống bán lẻ điển hình hiện nay chỉ hỗ trợ đối tượng nhất định, và việc tích hợp thiết bị mới thường phải mất đến vài tuần. 
+WEPOS được phát triển bắt đầu từ năm 2004, dựa trên Windows XP Embedded với Service Pack 2, hướng vào các đại lý bán lẻ lớn và trung bình. Phần mềm sẽ được xuất xưởng trong ngày hôm nay với 8 phiên bản ngôn ngữ: Anh, Pháp, Đức, Italy, Tây Ban Nha, Nhật, tiếng Trung giản lược và tiếng Trung truyền thống.
+Thị trường bán lẻ và dịch vụ đã đem lại hàng tỷ USD cho công nghệ thông tin, và hệ điều hành của Microsoft luôn thống trị trong lĩnh vực này. Theo báo cáo của IHL (Mỹ) trong tháng 4, có tới 71% hệ thống dịch vụ tại Bắc Mỹ dùng hệ điều hành Windows, trong khi ở châu Âu là 56%. 
+

@@ -1,0 +1,8 @@
+Lắp 4 loa cho một amply (2)
+Chao cac ban. Hien toi dang co hai doi loa (4 chiec hoan toan giong nhau) dien tro 4 Ohm. Trong khi Amply cua toi chi tuong thich voi loa 8 Ohm. Vay toi co the dau noi tiep 2 loa mot vao moi nhanh cua Amply duoc khong? Rat mong su huong dan cua cac ban. Rat xin loi khong hieu tai sao lai khong go duoc tieng Viet.
+HOAI AN
+Hồi âm:
+Bạn không nên đấu thẳng loa 4 ohm vào amplifier có công suất (output) 8 ohm, cũng không nên 2 loa vào 1 nhánh của amp âm thanh có thể sẽ bị rè hoặc loa sẽ bị hư sau 1 thời gian, bạn cần 1 switcher để chuyển đổi từ 8 ohm thành 6 ohm hoặc 4 ohm và cách đấu chéo ( parallel) bạn có thể kết nối từ 4 đến 10 loa. Bạn có thể xem cách kết nối có kèm hình ảnh http://www.audioplex.com/manuals/2051.pdfvì là file pdf nên bạn cần acrobat reader để xem link download AR 7.0 http://www.adobe.com/products/acrobat/readermain.html. Nếu muốn gõ kiểu chữ VN trên máy của bạn thi bạn cần bộ gõ Unikey hay Việt key.
+TOM 
+Đúng rồi, bạn cứ đấu nối tiếp 2 loa với nhau cho một nhánh. Chỉ cần chú ý chút xíu là nên để ý đến các đầu vào của loa, đầu "dương" của loa này đấu với "âm" của loa kia. Thân ái. 
+

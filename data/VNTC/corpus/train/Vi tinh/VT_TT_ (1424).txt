@@ -1,0 +1,7 @@
+ Resume Builder v3.20: Giúp bạn viết lý lịch xin việc
+Chương trình giúp bạn tiết kiệm được rất nhiều thời gian để bạn tạo ra những bản lý lịch chuyên nghiệp và ấn tượng cho riêng mình chỉ trong vòng 15 phút. Với các công cụ có sẵn, bạn sẽ trình bày những kỹ năng, kinh nghiệm làm việc một cách rõ ràng và “lôi cuốn”. 
+Trong quá trình xin việc, một bản lý lịch rõ ràng và được trình bày tốt là 1 trong những yếu tố thành công. Chương trình sẽ thiết kế cấu trúc cho lý lịch của bạn bằng cách chia thành nhiều phần khác nhau: Thông tin cá nhân, Quá trình học tập, Quá trình làm việc, Kỹ năng làm việc, Khen thưởng, … 
+Với hơn 50 mẫu và kiểu có sẵn, bạn sẽ tạo được một bản lý lịch được thiết kế một cách chuyên nghiệp. Ngoài ra với những ví dụ có sẵn bằng tiếng Anh, Pháp, Đức sẽ là những “mẹo” nhỏ cho bạn khi xin việc. 
+Ngoài những tính năng trên, Resume Builder được tích hợp với Microsoft Office nên có thể tạo được bản Lý lịch theo định dạng file Word. Bạn cũng có thể xuất ra theo định dạng HTML để đưa vào trang web cá nhân của mình. 
+Chương trình có dung lượng (12MB) và được bán với giá 24,95 USD. Bạn có thể tải về tại đây . 
+

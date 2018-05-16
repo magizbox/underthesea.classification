@@ -1,0 +1,10 @@
+Toshiba giới thiệu pin nhiên liệu mini
+Hôm qua, hãng sản xuất thiết bị điện tử khổng lồ Nhật Bản Toshiba tuyên bố đã chế tạo thành công loại pin nhiên liệu có kích thước bằng ngón tay cái sử dụng methanol. Phụ kiện này có thể cung cấp điện năng trong 20 giờ liên tục cho những thiết bị như máy nghe nhạc kỹ thuật số. 
+Pin nhiên liệu được xem là nguồn năng lượng của tương lai vì nó tạo ra điện bằng cách chuyển đổi hydro và ôxi thành nước. Toshiba hy vọng vào năm 2005, pin nhiên liệu có thể được sử dụng trong các thiết bị điện tử cầm tay thay vì pin lithium-ion.
+Thông số kỹ thuật
+Công suất: 100 milliwatts Kích thước: 22 x 56 x 45 mm Tổng trọng lượng: 8,5 g (gồm cả 2 cc nhiên liệu methanol)Bình chứa nhiên liệu: 2cc. 
+Hiện nay, nhiều công ty khác cũng đang tích cực phát triển công nghệ thay thế pin thông thường. Trở ngại chính là vấn đề kích thước và giá cả: loại pin mới cần phải nhỏ và không quá đắt.
+Mẫu pin có Toshiba phát triển có kích thước 22 x 45 mm và cân nặng 8,5 gram. Nó hoạt động bằng cách trộn methanol với không khí và nước để tạo ra 100 milliwatts, đủ cung cấp cho một máy chơi nhạc MP3 hoạt động trong 20 giờ sau mỗi lần nạp methanol.
+Năm ngoái, Toshiba cũng đã trình làng mẫu pin nhiên liệu được thiết kế cho máy tính xách tay trong tương lai, trong khi hãng đối thủ NEC đưa ra loại máy tính xách tay dùng pin nhiên liệu gắn trong. 
+Toshiba hy vọng có thể đưa ra thị trường loại pin nhiên liệu tí hon này vào năm 2005.
+

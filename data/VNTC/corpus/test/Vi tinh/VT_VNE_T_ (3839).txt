@@ -1,0 +1,7 @@
+Pin hữu cơ công suất cao không gây hại môi trường
+Hãng điện tử Nhật Bản NEC cho biết họ đang phát triển loại pin hữu cơ công suất lớn ORB, có khả năng bảo vệ các thiết bị công nghệ, máy tính để bàn... không bị mất dữ liệu khi có trục trặc điện.
+Mẫu pin hữu cơ công suất lớn ORB của NEC.
+ORB bao gồm hợp chất cao phân tử polymer hữu cơ, không chứa kim loại nặng độc hại như chì và catmi. Công nghệ này cũng được kiểm định và xác nhận là không gây cháy nổ. Pin có kích thước mỏng 55 x 43 x 4 mm, có thể sản sinh 35 watt, và không gây hại môi trường. Lắp 4 pin cùng loại sẽ mang lại khả năng vận hành một máy tính để bàn 140 watt.
+80% dung tích ORB có thể được xạc chỉ trong vòng 1 phút, do đó rất phù hợp cho các ứng dụng không dây đòi hỏi quá trình nạp năng lượng nhanh chóng. Công suất ORB cao hơn pin lithium ion cùng kích cỡ nhưng thời gian hoạt động ngắn hơn. Sản phẩm cũng không thể duy trì sự vận hành của PC trong vòng một giờ như UPS (bộ lưu điện). Tuy nhiên, thể tích nhỏ và giá thấp là hai lợi thế quan trọng để ORB trở thành tính năng chuẩn tích hợp trong máy tính để bàn, loại bỏ hạn chế về sự cồng kềnh và đắt đỏ của UPS.
+Pin hữu cơ là công nghệ mới sử dụng phản ứng điện hoá học của các chất hữu cơ được NEC giới thiệu từ năm 2001. Hãng điện tử này tin tưởng rằng sản phẩm sẽ rất hữu ích và đóng vai trò như là nguồn năng lượng thay thế quan trọng trong những tình trạng khẩn cấp, không chỉ cho máy tính doanh nghiệp và sản phẩm công nghệ, mà còn trong thiết bị điện tử gia dụng.
+

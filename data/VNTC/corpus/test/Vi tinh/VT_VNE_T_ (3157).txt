@@ -1,0 +1,8 @@
+IRam tăng 60 lần tốc độ khởi động PC 
+Hãng sản xuất phần cứng Gigabyte Technology (Đài Loan) đã khám phá ra một phương pháp mới giúp giảm tối thiểu thời gian khởi động PC dùng hệ điều hành Windows XP của Microsoft.
+Thẻ IRam tích hợp 4 rãnh DDR DRAM được thiết kế để sử dụng như một ổ cứng cho PC. Do IRam dùng DRAM để lưu thông tin, dữ liệu có thể được khôi phục dễ dàng và nhanh gấp 60 lần so với ổ cứng thông thường.
+IRam có dung lượng 4 GB, và không như bộ nhớ DRAM trong máy, IRam không làm mất dữ liệu khi tắt máy tính, miễn là PC vẫn cắm với ổ điện, nguồn năng lượng nhỏ trong máy sẽ tiếp tục hoạt động, đủ để đảm bảo duy trì hoạt động của nó.
+Gigabyte cho biết IRam ban đầu được thiết kế cho video và các ứng dụng trong chỉnh sửa luôn đòi hỏi sự tiếp cận nhanh nhất tới những file lớn, nhưng hãng sớm nhận ra những lợi ích tiềm tàng khác của IRam và phát triển sản phẩm theo hướng mới.
+Giờ đây, những người luôn cảm thấy sốt ruột mỗi khi bật máy tính có thể cài Windows trên IRam và sử dụng như một ổ cứng để khởi động hệ thống nhanh hơn, chỉ trong vài giây, chứ không phải một phút hoặc hơn như trước. IRam sẽ đặc biệt hữu ích với người chơi game cần hạn chế thời gian tiếp cận dữ liệu lưu trong bộ nhớ.
+IRam sẽ chính thức ra mắt trong tháng 7 với giá dự kiến khoảng 60 USD không kèm DRAM.
+

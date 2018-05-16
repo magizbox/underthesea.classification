@@ -1,0 +1,8 @@
+Linux tiếp tục khẳng định độ an toàn
+Một nghiên cứu của tổ chức đánh giá an ninh CNTT phi lợi nhuận Honeynet Project cho thấy trung bình 3 tháng các hệ thống Chim cánh cụtmới rơi vào tình trạng bị tấn công, lâu hơn so với thời gian 72 tiếng mà các cuộc khảo sát năm 2001 và 2002 ghi nhận.
+Kết quả điều tra năm 2004 được công bố sau khi nhóm nghiên cứu thiết lập 19 bẫy (honeyspot) Linux và 4 bẫy Solaris ở 8 nước khác nhau. Bẫy ở đây là những máy tính kết nối Internet chưa cài bản vá lỗi nhằm thu hút sự chú ý và tấn công của hacker.
+Cài đặt mặc định của các phiên bản Linux ngày càng vững chắc, khiến cho việc khống chế máy tính khó khăn hơn, báo cáo của Honeynet Project viết. Cấu hình mặc định của các phiên bản mới an toàn hơn với số dịch vụ được bật (enable) tự động giảm bớt, phân tách các dịch vụ được ưu tiên như OpenSSH, tường lửa đặt trên máy chủ sàng lọc kết nối nội bộ, các công cụ phát hiện đe dọa thông dụng và những cơ chế an ninh khác.
+Trong các cuộc kiểm tra nói trên, chỉ có 4 máy Linux bị tấn công và khống chế (3 trong số này chạy Red Hat 7.3 và một dùng Red Hat 9). Hai trong số này bị xâm nhập bằng hình thức tấn công bẻ password chứ không phải lợi dụng lỗi hệ thống.
+Người sử dụng Solaris cũng có tin không vui khi 3 trong số 4 máy được Honeynet Project thử nghiệm với Solaris 8 và 9 đã bị tấn công trong phạm vi 3 tuần. Tuy nhiên, chiếc còn lại đã tồn tại trên mạng suốt 6 tháng bình yên.
+Trong cuộc thử nghiệm năm ngoái do Symantec thực hiện, khi được đặt trong tình trạng bẫy nhử tương tự, các hệ thống Windows chưa nâng cấp chỉ an toàn được trong vài tiếng, một số máy bị khống chế ngay sau vài phút.
+

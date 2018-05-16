@@ -1,0 +1,6 @@
+Người dùng Gmail sẽ có thể mở thư qua Outlook
+Google hôm qua tuyên bố sắp sửa cho phép khách hàng đang khai thác hệ thống thư điện tử miễn phí thử nghiệm của họ mở account dạng POP3 trong ứng dụng gửi nhận e-mail của Microsoft và thậm chí là cả các thiết bị như điện thoại di động.
+Không chỉ có Oultlook, trong 2 tuần nữa, tất cả người sử dụng Gmail sẽ có thể download một bản sao những thông điệp qua trình gửi thư Eudora hoặc những thiết bị hỗ trợ POP3, và có thể xem nội dung thư ở chế độ ngoại tuyến (offline). Google còn cung cấp dịch vụ chuyển tiếp thư (forward) tự động miễn phí để người sử dụng có thể chuyển những thông điệp nhận được tới một hòm thư tùy chọn của khách hàng.
+Nhà cung cấp dịch vụ Gmail tuyên bố không có ý định thu bất kỳ khoản phí nào đối với những tiện ích trên. 
+Hiện nay, người truy cập Internet có thể sử dụng các tài khoản mail POP3 miễn phí thông qua Yahoo Mail nhưng việc chuyển tiếp thông điệp chỉ được áp dụng đối với ai dùng tài khoản trả tiền.
+

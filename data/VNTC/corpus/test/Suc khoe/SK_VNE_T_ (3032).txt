@@ -1,0 +1,7 @@
+Xét nghiệm máu tự động ở Singapore
+Các hệ thống kiểm tra máu hoàn toàn tự động sẽ sớm được đưa vào ứng dụng ở hai bệnh viện công lớn nhất Singapore hiện nay. Mục tiêu là nhằm cắt giảm thời gian chờ đợi và tiết kiệm chi phí cho người bệnh. 
+Trong trường hợp khẩn cấp, có được kết quả thử máu chỉ trong 60 phút thay vì 90 phút như trước đây "có thể coi là một ranh giới giữa sự sống và cái chết", giáo sư Sunil Sethi, Bệnh viện Đại học Quốc gia (NUH) cho biết. Dự kiến hệ thống xử lý huyết mới sẽ bắt đầu hoạt động từ nay đến cuối năm. 
+Mỗi ngày, NUH và Bệnh viện Tan Tock Seng (TTSH) trung bình phải xử lý 4.500 mẫu máu. Khoảng 40% số này thuộc về các trường hợp khẩn cấp. Giờ đây, thay vì phải thực hiện hàng tá xét nghiệm, các chuyên gia xét nghiệm chỉ việc có mặt trong khâu quan trọng nhất. Những thao tác còn lại do các cánh tay robot và băng chuyền đảm nhiệm.
+Hệ thống kiểm tra máu tự động sẽ thực hiện cả bốn danh mục xét nghiệm máu cùng một lúc, đó là kiểm tra số lượng, phát hiện cục máu đông, bệnh truyền nhiễm, và các hóa chất như muối, đường hoặc cholesterol. Trong khi ở phần lớn các phòng thí nghiệm khác trên lãnh thổ, nhiều loại máy móc khác nhau phải thay nhau xử lý. Một điều quan trọng khác là việc hạn chế tiếp xúc với mẫu máu sẽ giảm thiểu tối đa nguy cơ lây nhiễm của nhân viên.
+Hệ thống test máu tự động của TTSH do một công ty của Mỹ có tên là Beckman Coulter thiết kế, còn NUH thì bắt tay với công ty đa quốc gia của Đức Bayer Healthcare Diagnostics.
+

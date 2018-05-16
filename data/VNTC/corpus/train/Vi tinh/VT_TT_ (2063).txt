@@ -1,0 +1,5 @@
+ Yahoo nâng cấp Yahoo Messenger Voice!
+Những chức năng mới đáng kể trong phiên bản mới này là tính năng thông báo cuộc gọi đến và gọi đi cùng những tính năng chủ yếu để phục vụ cho việc hội thoại VoIP từ Yahoo Messenger trong menu Actions. Nhưng dường như Yahoo đang đi vào bước sai lầm của AOL với trình AIM khi tích hợp các banner quảng cáo vào trình IM của mình. 
+Hiện tại, Yahoo cùng lúc cung cấp song song 2 phiên bản Yahoo Messenger cho người dùng, bản Yahoo Messenger Voice! 7.5.0.x vẫn đang trong giai đoạn thử nghiệm kết hợp nhiều tính năng hỗ trợ hội thoại Internet (VoIP) còn phiên bản Yahoo Messenger 7.0.2.x dành cho người dùng chủ yếu để tán gẫu qua dạng text. 
+Các đối thủ khác như GoogleTalk với chiêu bài “kết nối” đến tất cả những trình tin nhắn khác hay Windows Messenger Live đẹp đẽ thu hút người dùng thì nay Yahoo cũng ngắm nghía đến một “cường địch” khác là Skype trong thị phần VoIP màu mỡ. Giá gọi từ Yahoo Messenger khá rẻ, tuy nhiên theo nhận xét của người dùng thì Skype vẫn là vô địch trong thời gian này. 
+

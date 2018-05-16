@@ -1,0 +1,7 @@
+Thêm một dòng laptop dùng nhận dạng cảm ứng
+Công nghệ sinh trắc họctiếp tục quá trình ứng dụng rộng rãi trong các thiết bị điện toán cá nhân với việc Hewlett-Packard (HP) tuyên bố xuất xưởng dòng máy tính xách tay mới có bộ phận đọc vân tay.
+Notebook nx6125 bao gồm một bộ cảm ứng của AuthenTec - hãng được HP đánh giá là nhà sản xuất lớn nhất có thể cung cấp thiết bị sinh trắc học chuẩn. Laptop mới chủ yếu hướng vào thị trường doanh nghiệp và được bán ra với giá 1.000 USD trở lên.
+Công nghệ sinh trắc học an toàn hơn và thuận tiện hơn so với mật khẩu vốn luôn dễ quên và dễ bị ăn cắp. Nhưng chỉ mới gần đây, công nghệ này mới được cải tiến độ chính xác và có đủ độ tin cậy để tích hợp rộng rãi trong sản phẩm tiêu dùng.
+Máy tính với khả năng bảo mật sinh trắc học sẽ thúc đẩy nhiều trang web áp dụng chế độ xác thực hai lần, đòi hỏi kiểm tra ID sinh trắc học sau khi đã nhập mật khẩu thông thường. 
+Phương pháp bảo mật hai lần này đã phổ biến ở nhiều nước châu Âu, nhưng đơn thuần chỉ là yêu cầu người dùng sử dụng hai dạng mật khẩu khác nhau, chứ không phải ID sinh trắc học.
+

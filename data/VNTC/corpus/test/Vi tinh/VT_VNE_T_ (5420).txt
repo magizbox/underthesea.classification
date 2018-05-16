@@ -1,0 +1,7 @@
+Công nghệ Live của AMD thách thức Viiv của Intel
+Hãng sản xuất thiết bị xử lý có trụ sở tại California (Mỹ) chuẩn bị giới thiệu thương hiệu mới, với chiến lược phát triển công nghệ tương tự Viiv của đối thủ khổng lồ, tại Triển lãm điện tử tiêu dùng CES 2006.
+Máy tính Live được xây dựng với những tính năng riêng nhằm phục vụ giải trí gia đình, ví dụ như được trang bị khả năng âm thanh vòm 7.1. AMD sẽ thử nghiệm sự tương thích của Live PC với một số sản phẩm khác. Tại CES 2006, công ty STMicroelectronics cũng sẽ công bố một thiết bị chuyển đổi tính hiệu (set-top box) cho máy tính Live.
+AMD chỉ tập trung vào kinh doanh một thành phần duy nhất - thiết bị xử lý - trong máy Live PC. Ngược lại, với Viiv, các hãng sản xuất máy tính phải sử dụng bộ vi xử lý, chipset và các thành tố mạng khác của Intel. Hệ thống cũng chỉ hoạt động trên phần mềm do chính Intel tạo ra.
+Live PC sẽ xuất hiện khoảng giữa năm 2006 còn Viiv PC chuẩn bị ra mắt ngay trong quý I này.
+Cho đến nay, những cố gắng đưa hệ thống PC vào phòng khách vẫn gặp nhiều trắc trở. "Máy tính TV" EPC trước đó của Intel được tiêu thụ rất chậm chạp. Những phiên bản nâng cấp sau đó nhỏ gọn hơn nhưng vẫn không thu hút được nhiều người tiêu dùng.
+

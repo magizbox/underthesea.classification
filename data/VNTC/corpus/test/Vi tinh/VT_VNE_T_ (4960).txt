@@ -1,0 +1,7 @@
+Dùng siêu máy tính lưới nghiên cứu AIDS 
+Mạng World Community Grid (WCG) của hãng IBM, thuộc 10 supercomputer mạnh nhất thế giới, sẽ hoạt động tại viện nghiên cứu Scripps (Mỹ) nhằm xây dựng những công cụ điều trị mới hỗ trợ quá trình chữa căn bệnh thế kỷ.
+IBM cho biết siêu máy tính ảo sẽ thử nghiệm hàng nghìn biến thể của virus HIV với hàng trăm nghìn hợp chất hóa học khác nhau. Điều này sẽ giúp các nhà nghiên cứu hình thành phương pháp trị liệu hiệu quả nhằm ngăn ngừa những phản ứng kháng thuốc.
+Robin Willner, một phó giám đốc của IBM, cho biết: "HIV có thể được hạn chế khi mọi người uống thuốc ngừa virus lây lan trong cơ thể. Tuy nhiên, điều đáng ngại là virus biến đổi rất nhanh".
+Dự án World Community Grid thu hút khoảng 100.000 người sẵn sàng cống hiến thời gian nhàn rỗi (idle) của 170.000 máy tính trên toàn thế giới. WCG mời các tình nguyện viên tải phần mềm Rosetta, được thiết kế để chạy khi PC đang trong chế độ idle. Siêu máy tính ảo giải quyết những vấn đề kỹ thuật và tạo dựng cơ sở dữ liệu công khai cho nghiên cứu khoa học.
+IBM cũng đóng góp phần cứng, phần mềm, dịch vụ hỗ trợ kỹ thuật và đội ngũ chuyên gia giỏi cho WCG.
+

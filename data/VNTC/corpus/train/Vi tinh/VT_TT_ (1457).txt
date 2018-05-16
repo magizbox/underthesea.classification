@@ -1,0 +1,6 @@
+ Công cụ dịch đa ngữ online độc đáo
+Để dịch một đoạn văn bản nào đó, đầu tiên bạn chọn ngôn ngữ nhập và ngôn ngữ xuất từ hai ô có tên các quốc gia ở góc trên cùng bên phải giao diện &gt; chọn chế độ dịch bằng văn bản bằng cách nhấp vào biểu tượng Notepad bên trái ô chọn ngôn ngữ &gt; nhấn “Open” để mở ra văn bản cần dịch &gt; copy đoạn văn bản cần dịch để dán vào giao diện văn bản phía trên &gt; nhấn vào nút Translate để thực hiện quá trình dịch &gt; văn bản được dịch xong sẽ tự động hiện ra ở giao diện văn bản bên dưới. 
+Chú ý rằng Web Translator chỉ mở được các văn bản được soạn thảo ở chế độ TXT hoặc RTF. 
+Độc đáo nhất của Web Translator là dịch toàn bộ nội dung trang web sang ngôn ngữ khác, đặc biệt hiệu quả ở những cơ cấu web lớn cỡ như Yahoo, Google, MSN… có hỗ trợ đa ngôn ngữ ở cùng một nội dung. Để sử dụng tính năng này, bạn phải đổi từ chế độ dịch văn bản sang chế độ dịch trang web bằng cách nhấn vào biểu tượng Internet Explorer bên trái ô chọn ngôn ngữ. 
+Người dùng có thể vào địa chỉ http://www.qwerks.com/download/6489/webtranslator.exe để tải bản dùng thử có dung lượng 1,2 MB. Hiện Web Translator đã có mặt tại các cửa hàng phần mềm. 
+

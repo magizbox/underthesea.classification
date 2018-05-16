@@ -1,0 +1,8 @@
+Bản vá lỗi Windows mới vẫn thủng 
+Hãng phần mềm chống virus GeCad Net (Rumania) vừa đưa ra cảnh báo về một khiếm khuyết xuất hiện trong bản vá lỗiMS05-001mà Microsoft tung ra đầu tháng này để bịt lỗ hổng an ninh xung quanh tính năng HTML Help ActiveX.
+GeCad cho biết bản vá lỗi trên đã bỏ qua ít nhất một hướng tấn công mà có thể cho phép hacker tiếp tục lợi dụng sai sót trong HTML Help ActiveX để thâm nhập hệ thống và chạy các phần mềm nguy hiểm như spyware... 
+Microsoft đã bắt đầu khắc phục sai sót nói trên nhưng phủ nhận bản vá lỗi mà họ tung ra trước đây có khiếm khuyết và cho rằng đây là một lỗi mới được phát hiện.
+GeCad quyết định không công bố chi tiết kỹ thuật về phương thức để tấn công vào hệ thống thông qua lỗ hổng này vì lý do an ninh. Trước đây, bản thân Microsoft cũng từng nhiều lần từ chối cung cấp thông tin cho các nhà nghiên cứu bảo mật và âm thầm khắc phục các khiếm khuyết xảy ra. 
+GeCad cho biết máy tính cài Windows XP Service Pack 1 hay Windows 2000 Service Pack 4 cùng với những bản vá lỗi hiện tại có nguy cơ bị tấn công. Tuy nhiên, việc update phiên bản Windows XP Service Pack 2 lại có vẻ giúp giải quyết được vấn đề mới nhất này. 
+Trong năm 2003, Microsoft đã mua lại bộ phận phát triển phần mềm chống virus của GeCad nhưng công ty này vẫn tiếp tục hoạt động dưới hình thức nghiên cứu và tư vấn về bảo mật. Microsoft dự kiến sẽ chính thức ra mắt phần mềm chống virus của riêng họ vào cuối năm nay. 
+

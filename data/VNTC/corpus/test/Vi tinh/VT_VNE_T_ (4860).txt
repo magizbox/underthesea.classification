@@ -1,0 +1,21 @@
+Kiểm tra offline, tỷ giá, đố vui... với Yahoo Messenger
+Người sử dụng hệ thống tin nhắn nhanh của Yahoo đôi khi đặt nick ở chế độ giấu mặt (Invisible). Khi thấy biểu tượng bạn bè không sáng, bạn nên "làm quen" với ymsgbuddy để kiểm tra xem người đó đang ở trên mạng hay không.
+Bạn chỉ cần thực hiện khâu đơn giản là add nick "ymsgbuddy" (viết tắt của Yahoo Messenger Buddy) và gõ lệnh /? vào cửa sổ chat. Bạn sẽ nhận được danh sách những chức năng của ymsgbuddy:
+/s X: Kiểm tra xem nick X đang online, offline hay nick này chưa hề được đăng ký.
+/wc X: Kiểm tra xem webcam của X đang hoạt động hay không.
+/hsc DDMM: Xem tử vi theo ngày. Thay DD = ngày sinh (2 số) và MM = tháng sinh (2 số). Ví dụ: /hsc 1411
+/ant: Câu hỏi tương phản. Chức năng này rất có ích cho những ai đang chuẩn bị thi GRE. Ví dụ, khi bạn gửi lệnh /ant, ymsgbuddy sẽ phản hồi bằng một câu trắc nghiệm kèm hướng dẫn xem đáp án. 
+Ymsgbuddy cung cấp câu trắc nghiệm tương phản.
+/quiz: Những câu hỏi nhỏ về ngữ pháp, logic... để tăng cường kiến thức.
+/ev X: Tra từ điển Anh - Việt (tính năng này hạn chế so với nick Vietdictionary do không tra được những loại từ điển khác).
+Tra nghĩa từ "buddy" bằng lệnh /ev.
+/w city: Xem dự báo thời tiết một số thành phố trong ngày hôm nay.
+/city: Danh sách tất cả những thành phố có dự báo thời tiết trong Yahoo.
+/c X mã 1 mã 2: Chuyển đổi tỷ giá tiền tệ (xem ví dụ minh họa):
+Gõ lệnh /c 1 USD VND để đổi 1 USD sang tiền Việt.
+/cc: Chuyển đổi nhanh. Ymsgbuddy sẽ liệt kê những tỷ giá của những loại tiền tệ phổ biến so với đồng Việt Nam.
+/sl DDMMYYYY: Đổi từ lịch Dương sang lịch Âm./ls DDMMYYYY: Đổi từ lịch Âm sang lịch Dương.
+Đổi từ ngày 14/11 sang ngày âm.
+Lưu ý:
+Nếu không add được ymsgbuddy hoặc thấy "người bạn" này phản hồi chậm (do quá tải), bạn nên thay bằng "ymsgbuddy1". Dòng trạng thái (status) của ymsgbuddy mỗi ngày là đường link dẫn tới một website thú vị.
+

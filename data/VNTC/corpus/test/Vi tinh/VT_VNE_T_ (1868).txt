@@ -1,0 +1,6 @@
+Hỏi về VoIP (1)
+Chào các bạn, xin cho mình hỏi về sơ đồ và nguyên lý hoạt động tích hợp giữa 2 loại hình thoại analog và thoại IP. Cảm ơn nhiều.
+Nguyễn Thành
+Hồi âm:
+VoIP=voice over internet protocol. Khi ban su dung dien thoai tu diem a toi b, tieng noi (voice data) duoc chuyen tiep bang ky thuat analog thong qua cac cong ty dien thoai duong nhien ban phai tra tien cho cac cuoc dien dam, khi ban su dung VoIP ban can den modem khi ban goi di modem se chuyen tieng noi analog sang digital cac tap tin ( packects ) chuyen di bang cong thuc IP ( internet protocol) tren cac duong giay dien thoai va modem noi nguoi nhan lam cong viec nguoc lai chuyen digital sang analog cho nguoi nghe. Tien dung la ban khong phai tra tien cho cac cuoc dien dam vien lien. Ban chi can dang ky voi cac cong ty VoIP chang han nhu vonage ho se cung cap cho ban cac thiet bi cai dat, le phi hang thang tu 15 den 30 usd, co 4 phuong phap goi la computer- to-computer ,computer-to-telephone, telephone-to-computer, telephone-to-telephone. SKYPE la mot phan mem mien phi dang duoc ua chuong tai VN. 
+

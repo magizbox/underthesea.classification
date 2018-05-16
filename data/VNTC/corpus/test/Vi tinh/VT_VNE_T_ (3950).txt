@@ -1,0 +1,8 @@
+Phần mềm nén file MP3 Converter
+Nếu bạn muốn một công cụ đơn giản, dễ sử dụng nhưng vẫn hiệu quả và miễn phí khi chuyển đổi file MP3 với nhiều lựa chọn khác nhau, phiên bản MP3 Converter 1.4 sẽ khiến bạn hài lòng.
+Phần mềm này sẽ hữu ích khi bạn muốn giảm kích thước file để có thể gửi tới bạn bè dễ dàng và nhanh chóng hơn, hoặc cần lưu những chương trình thu từ TV với định dạng nhỏ gọn và thuận tiện
+Bước đầu tiên là mở file với công cụ hỗ trợ Nullsoft Disk Writer. Sau đó, bạn có thể sử dụng MP3 Converter đã mã hoá lại file WAV thành một file MP3 theo những tiêu chuẩn mới tuỳ chọn.
+MP3 Converter hỗ trợ chuyển định dạng file RAW và WAV, điều chỉnh tần số IO, tốc độ lấy mẫu (30 KHz - 320 KHz), quản lý quyền ưu tiên CPU và các chế độ chuyển đổi khác nhau (mono, stereo, joint stereo). 
+Chương trình tương thích Windows 98/ME/2000 và XP. Kích thước tải về là 1,62 MB. 
+Tải MP3 Converter miễn phí tại đây.
+

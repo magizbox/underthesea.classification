@@ -1,0 +1,21 @@
+Học bổng công nghệ thông tin toàn phần tại Mỹ 
+Khoa công nghệ thông tin, ĐH New Orleans, Mỹ vừa thông báo cấp một suất học bổng sau đại học (thạc sĩ, tiến sĩ) chuyên ngành công nghệ thông tin. Học bổng bao gồm tòan bộ học phí và một khỏan chi phí sinh hoạt là 1.000 USD/tháng.
+Điều kiện:
+- Có bằng cử nhân loại khá/giỏi các ngành công nghệ thông tin, toán - tin 
+- Thành thạo: Java, ASP .Net, ArcGIS, ArcPad, ArcSDE, Oracle Spatial
+- Biết GIS application development cycle, FME, MS Visio and ErWin là một lợi thế
+- Thành thạo tiếng Anh, điểm TOEFL từ 600 trở lên 
+- Có điểm GRE
+Thông tin về ngành học, xin truy cập:
+http://www.cs.uno.edu/Academic/BS/index.html
+Ứng viên quan tâm, gửi hồ sơ bằng email về: 
+fareed@cs.uno.edu
+UNIVERSITY of NEW ORLEANS
+DEPARTMENT OF COMPUTER SCIENCE
+311 Mathematics Bldg. 
+Lakefront Campus 
+2000 Lakeshore Drive 
+New Orleans, Louisiana 70148
+Tel: 504.280.6594 
+Fax: 504.280.7228
+

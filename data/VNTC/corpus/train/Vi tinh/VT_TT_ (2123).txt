@@ -1,0 +1,5 @@
+ Bộ làm mát bằng chất lỏng cho Xbox 360
+Bên trong Xbox 360, cả GPU hay CPU là nguyên do của hầu hết các lỗi trục trặc phần cứng vì vấn đề nhiệt độ quá tải. Các quạt làm mát của Xbox 360 chỉ tập trung vào IBM PowerPC CPU. Điều này có nghĩa rằng PowerPC khi hoạt động có nhiệt độ rất nóng và cần được làm mát hoặc GPU không được giảm nhiệt đủ. Mặc dù Microsoft đã cải tiến bộ giảm nhiệt nhưng tình hình vẫn không cải thiện được gì nhiều. Hơn nữa, để làm cho hệ thống hoạt động “im hơi lặng tiếng”, Microsoft đã cho các quạt hoạt động chậm đi. 
+CoolIT Systems đã thiết kế ra một trang thiết bị mới cho Xbox 360, giúp người dùng an tâm về vấn đề nhiệt độ khi sử dụng Xbox 360. Bộ làm mát này sẽ chuyển đổi làm mát bằng không khí sang chất lỏng với công nghệ MTEC. 
+Được giới thiệu như là thiết bị làm mát bằng chất lỏng đầu tiên cho Xbox 360 ở CES (Consumer Electronics Show) vào hôm nay (4/1) tại Las Vegas, CoolIT đưa ra bảng so sánh giữa thiết bị làm mát của mình và bộ phận làm mát có sẵn trong Xbox 360 của Microsoft. 
+

@@ -1,0 +1,6 @@
+Khắc phục lỗi trong Windows 98 (1)
+Máy mình dùng windows 98 se. Gần đây khi khởi động cứ hiện lên một cửa sổ nhỏ thông báo thiếu một file nào đó (cụ thể là file : msnp32.dll ) mà mình không thấy ảnh hưởng gì đến quá trình làm việc của máy (Khi nhấn vào OK để xác nhận thì máy lại khởi động vào hoạt động bình thường). Vì vậy mong các bạn chỉ giúp cách nào có thể xoá đi được cái thông báo khó chịu đó. Xin cám ơn nhiều.
+Hạnh
+Hồi âm:
+Ban da uninstall/ hoac la xoa di 1 phan cung nao do; nhung qua trinh uninstall chua hoan tat ma ban da tat ngang (closed the uninstall window when it was in the process) hoac la do computer bi treo roi ban tat may. Co 3 cach de khac phuc: 1. Ban install/uninstall lai cai hardware do. 2. Dieu chinh (edit) la config/service: khong cho khoi dong (startup) cai dich vu (service) ma hay bao loi nua. 3. Cai lai Window 98 SE (nho "upgrade" - khi chon nang cap thi tat ca cac du lieu, chuong trinh tren may khong bi xoa, tru file windows he thong thoi).
+

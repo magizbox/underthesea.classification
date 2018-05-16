@@ -1,0 +1,4 @@
+ Tìm vị trí đặt máy ATM qua ĐTDĐ
+Với giao diện tiếng Việt nên cách sử dụng ATMInfor rất đơn giản và dễ dàng. Bạn chỉ cần bấm chọn tên ngân hàng rồi chọn địa điểm cần tìm máy ATM là xong. 
+Phiên bản mới nhất của ATMInfor là 1.2, được cập nhật đầu tháng 1-2006. Bạn có thể tải về cài đặt và sử dụng miễn phí ATMInfor từ wapsite sau đây: http://wap.dasisco.com . Nếu download và cài đặt qua máy tính, bạn tải ATMInfor 1.2 về từ website sau đây: http://lukhach.dasisco.com/apps/ATMInfor.rar . Sau khi tải về, bạn giải nén file “ATMInfor.rar” để được hai file: “ .jad” và “ .jar”. Tiếp theo, file “ .jad” thì bạn cài đặt cho mobile và Pocket PC, file “ .prc” cài đặt cho máy Palm. 
+

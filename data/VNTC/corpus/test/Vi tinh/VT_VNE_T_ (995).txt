@@ -1,0 +1,7 @@
+Linux tăng ảnh hưởng trên thị trường máy chủ
+Theo dự báo của công ty nghiên cứu IDC, hệ điều hành nguồn mở sẽ có mặt trong 29% số máy chủ được xuất xưởng trên toàn cầu vào năm 2008, tăng từ 12% so với năm 2003.
+Server dùng Linux sẽ đạt 9,7 tỷ USD trong tổng số 60,8 tỷ USD doanh thu máy chủ trên toàn thế giới. Trong khi đó, máy chủ chạy hệ điều hành Windows sẽ chiếm 22,7 tỷ USD doanh số. 
+IDC nhận định phần mềm nguồn mở ngày một bành trướng hơn trên thị trường máy chủ. Mới đây, Sun tuyên bố phát triển một phiên bản mới của hệ điều hành Solaris OS nhằm tăng sức cạnh tranh với Linux. Còn hệ điều hành của Microsoft sẽ chiếm 60% số lượng máy chủ xuất xưởng trên thế giới vào năm 2008, giảm nhẹ so với 63% trong năm 2003.
+Theo công ty nghiên cứu, thị trường máy chủ toàn cầu sẽ tăng 3,8% trong vòng 5 năm tới, từ 53 tỷ USD năm nay lên 60,8 tỷ USD vào 2008. Phát triển mạnh nhất là ở Trung và Đông Âu, châu Á - Thái Bình Dương, dự kiến mỗi năm tăng trên 6,5% từ nay đến 2008.
+Riêng dòng máy chủ mỏng cũng sẽ tăng mạnh và đạt 9 tỷ USD doanh thu vào năm 2008, chiếm 29% thị trường máy chủ, so với tỷ lệ 4% trong năm ngoái.
+

@@ -1,0 +1,44 @@
+5 công cụ tìm kiếm miễn phí cho desktop
+Khi kho kiến thức trên Internet và trong máy tính của bạn ngày càng đầy lên thì việc tìm kiếm một file cụ thể là rất vất vả. Cách thức giải quyết điều này hiện nay chính là sự tích hợp giữa tìm kiếm trên nền desktop và Internet. 
+Blinkx 3.01
+Phần mềm này có thiết kế gọn gàng, cách thức tìm kiếm online đơn giản. Blinkx tương thích tốt với Firefox, Internet Explorer và Word với các nút rất nhỏ trên thanh công cụ. Có một biểu tượng trên Windows Taskbar để người dùng kích hoạt toàn bộ ứng dụng. Blinkx hỗ trợ: 
+- Hệ điều hành: Windows 2000 và XP; Mac OS X 10.2 và 10.3.- Browser: Internet Explorer, Mozilla, Firefox. - E-mail/Contact: Outlook, Outlook Express, Eudora, Lotus Notes.
+Giao diện của phần mềm Blinkx 3.01.
+Ưu điểm: Blinkx hiệu quả cho tìm kiếm trên Desktop hơn là Internet. Trong cửa sổ kết quả tìm kiếm, bạn có thể sắp xếp file theo loại (type), ngày (date), chủ đề/tên file (subject/file name) hay nguồn gửi đến và đi (to/from) cho e-mail. 
+- Trong Smart Folders, Blinkx có thể sắp xếp dữ liệu bằng cách tìm theo loại thông tin trong một file cụ thể. Sau đó Blinkx scan những thông tin liên quan và tự động thêm vào folder này. 
+- Với Visualizer, Blinkx thể hiện các kết quả tìm kiếm được kết nối với nhau bằng đồ hoạ hoạt hình rất sinh động. 
+- Cluster, một đặc điểm đầy triển vọng của Blinkx, cho phép bạn click vào những đường dẫn online liên quan đến chủ đề bạn tìm. Ví dụ như bạn tìm Angelina Jolie thì cửa sổ hiện ra cả thông tin liên quan về cuộc tình tay ba của Brad Pitt/Jennifer Aniston chẳng hạn.
+Tuy nhiên, Blinkx chỉ tìm được thông tin sát với từ khoá chứ không tìm được thông tin có tính cụ thể. Chức năng tìm kiếm online còn yếu. Download tại đây.
+Copernic Desktop Search 1.5 (CDS)
+Phần mềm này có giao diện chương trình riêng, đồng thời xuất hiện được trên Windows Taskbar. Copernic Desktop Search 1.5 (CDS) hỗ trợ: 
+- Hệ điều hành: Windows 98/Me/NT/2000/XP (để kiểm soát file trong thời gian sử dụng thực tế: Windows XP/2000/NT). - Browser: Internet Explorer, Mozilla, Firefox, Netscape 6 hoặc mới hơn. -E-mail/Contact: Outlook, Outlook Express, Eudora, Windows Address Book, Thunderbird.
+Giao diện của Copernic Destop Search 1.0.
+Ưu điểm: 
+- Ngoài các loại file thông thường, CDS còn tìm được loại file hỗ trợ thêm như file nén RAR hay file nhạc OGG, rất hữu dụng cho những ai muốn tìm kiếm file ngoài Microsoft Office. CDS cũng tìm ra Web history, các bookmark và e-mail.
+- Kết quả tìm kiếm được thể hiện ngắn gọn và có cả chức năng Windows Explorer trong giao diện của CDS, giúp bạn có thể xoá, copy, in ấn file ngay trong chương trình này. E-mail có thể được sắp xếp theo date, sender hay subject và bạn có thể bấm chuột phải để gửi hay chuyển tiếp thư. 
+Tuy nhiên, khi tìm kiếm online thì kết quả đầu tiên lại là những nhà tài trợ, mặc dù kết quả tìm kiếm hiện ra sau đó cũng khá hữu dụng. Browser thì hơi chậm hơn so với Firefox và IE. Download tại đây.
+Google Desktop 1.0
+Phần mềm này hơi tiết kiệm chỗ với cửa sổ nhỏ và tự động khoá trong Taskbar. Kết quả tìm kiếm trông giống như kết quả hiện trên trang web. Google Desktop 1.0 hỗ trợ: 
+- Hệ điều hành: Windows 2000 SP3+, Windows XP. - Browser: Internet Explorer, Netscape, Mozilla, Firefox. - E-mail/Contact: Outlook, Outlook Express, Thunderbird, Netscape Mail.
+Ưu điểm: 
+- Công nghệ tìm kiếm của Google Desktop 1.0 rất nhanh và toàn diện, cực kỳ chính xác với nội dung cần tìm. Các file video và đồ hoạ đều có thumbnail, rất hữu dụng. 
+- Chức năng tìm kiếm history của browser là một lợi thế khi bạn dùng web liên tục, giúp bạn có thể trở lại tìm kiếm thông tin ở trang đầu tiên bạn mở ra. 
+Tuy nhiên, Google Desktop 1.0 chỉ có thể tìm kiếm trong vài loại file tiêu chuẩn như Word, Excel và PDF. Google để chung các file vào một chỗ và không có khả năng quản lý file nên hơi bất tiện. Download tại đây.
+MSN Toolbar Suite 
+Phần mềm này tích hợp một thanh công cụ dài vào Windows Explorer và Internet Explorer, có thêm "trang vàng" và "trang trắng" như kiểu từ điển bách khoa toàn thư. Phần mềm hỗ trợ cho: 
+- Hệ điều hành: Windows 2000/XP. - Browser: Internet Explorer. - E-mail/Contact: Outlook, Outlook Express.
+Giao diện của MSN Toolbar Suite.
+Ưu điểm: 
+- Kết quả tìm kiếm trên Desktop của phần mềm này thuộc loại tốt nhất. Bạn có thể quản lý file như xoá, di chuyển file, gửi e-mail và sắp xếp file theo rất nhiều tiêu chí. 
+- Phần mềm tích hợp tốt với các chương trình của Microsoft Office như Outlook. Những người dùng Outlook trong môi trường kinh doanh sẽ thấy cực kỳ hữu dụng với chức năng tìm kiếm các cuộc họp, các nhiệm vụ và ghi chú bằng MSN. 
+- Nếu bạn dùng Office thì MSN Toolbar là một sự lựa chọn tuyệt vời với kết quả rất chính xác. 
+Tuy nhiên MSN lại cho hiện lên khá nhiều site mua sắm hơn những công cụ khác và kết quả tìm kiếm trên web không tốt bằng Google, Copernic, và Yahoo. Download tại đây.
+Yahoo Desktop 
+Giao diện của phần mềm rất gọn gàng và hiệu quả. Cửa sổ tìm kiếm có thể đặt trong Taskbar hoặc kích hoạt bằng tay. Chương trình tích hợp rất tốt với Outlook và Outlook Express bằng một thanh công cụ nhỏ. Phần mềm hỗ trợ cho: 
+- Hệ điều hành: Windows 2000 SP3+, Windows XP. - Browser: Internet Explorer, Mozilla, Firefox. - E-mail/Contact: Outlook, Outlook Express, Yahoo Address Book.
+Giao diện của phần mềm Yahoo Destop.
+Ưu điểm: 
+- Với phần mềm này bạn có thể ghi chú về e-mail, các tập tin đính kèm, contact và cả đăng nhập vào Yahoo Messenger bên cạnh những file thông thường; quản lý file trước khi xem, gửi e-mail hay in và xoá file. Yahoo Desktop có khả năng sắp xếp kết quả tìm kiếm rất tuyệt vời: ngoài cách sắp xếp theo ngày hay kích thước file, bạn có thể chọn những cột khác như "tên công ty", "tên công việc" (với định hướng ưu tiên các contact). 
+- Kết quả tìm kiếm của phần mềm thuộc vào hàng tốt nhất. Yahoo Desktop có thể giảm thiểu các site quảng cáo và tập trung vào tìm kiếm thông tin thuần tuý. 
+Download tại đây.
+

@@ -1,0 +1,8 @@
+Dùng ADSL không truy cập được một số site (2)
+Tôi dùng ADSL, nhưng không hiểu sao chỉ vào được một số trang nhất định: fpt.vn, ibm.com, gameinformer.com ... còn lại tất cả các trang thông dụng đều không vào được (google, yahoo, vnn.vn, .....). Nếu vào bằng modem 56k thì bình thường, thử cả 4 máy xách tay mới đều xảy ra cùng một hiện tượng.Máy dùng WinXP SP2, đã tắt hết Firewall. Xin cảm ơn!
+Nguyễn Thái Hoàng
+Hồi âm:
+Chuyên nay đơn gian, co thê la do ISP (hang cho thuê dich vu). Ban hãy gọi sô điên thoai hô trợ ki thuât đươc cung câp khi lăp đăt dich vu, se đươc giai đap cung co thê la do modem ADSL.
+Duong Tu
+Bạn đang dùng IE ở công ty hay ở nhà bạn. Nếu bạn dùng ở công ty có thể là người quản trị của bạn cấm vào nhưng trang đấy. Nếu bạn dùng ở nhà thì nên liên hệ với nhà cung cấp dịch vụ Internet Viettel 2555888 còn FPT là 7601060. Chúc bạn thành công.
+

@@ -1,0 +1,10 @@
+Mô phỏng động đất để kiểm tra vật liệu xây dựng 
+Lần đầu tiên trên thế giới, các nhà khoa học đã tạo ra những rung lắc nhân tạo để kiểm tra độ bền của các loại vật liệu xây dựng thông thường và những cơ sở hạ tầng quan trọng như đường ống gas trước tác động phá huỷ của động đất. 
+Các nhà nghiên cứu tại 4 phòng thí nghiệm trên khắp nước Mỹ hy vọng phát hiện của họ sẽ giúp các kỹ sư tạo ra những đường dây điện, cáp viễn thông, ống dẫn nước và dẫn dầu bền vững hơn. 
+Động đất "có thể khiến cho những đường ống dân sinh quan trọng bị oằn lại hoặc đứt gãy giống như các xếp nếp của đàn accordeon", Harry Stewart, Giám đốc phòng thí nghiệm Đại học Cornell, nói. 
+Phòng thí nghiệm này đã cho phép các nhà khoa học sử dụng sức ép thuỷ lực và một bức tường bê tông cao 6 mét để tạo ra các lực gây biến dạng mà những trận động đất mạnh nhất có thể tạo ra. 
+Các thử nghiệm tương tự diễn ra hôm qua tại Đại học Illinois ở Urbana-Champaign, Đại học bang Oregon và Đại học California ở San Diego. 
+Ở Cornell, nhóm nghiên cứu mô phỏng ảnh hưởng của một trận động đất lên một đường ống làm bằng polyethylene dài 18 mét, đường kính 15 cm - loại ống điển hình dùng để dẫn khí tự nhiên. Ống này được chôn trong một cái máng chứa 12,5 tấn cát. Áp lực nước lên tới 11,3 tấn được đặt lên hai đầu ống, khiến cho nó oằn đi hàng mét. Đường ống oằn đi nhanh hơn so với dự đoán, và lệch tâm. "Đó là lý do vì sao chúng tôi cần thực hiện nghiên cứu này", Stewart nói. 
+Cornell thuộc số 15 trường đại học tham gia vào Mạng lưới Mô phỏng Cơ Động đất của Trung tâm Khoa học quốc gia Mỹ. Mạng lưới này liên kết các phòng thí nghiệm thông qua Internet, cho phép các nhà nghiên cứu chia sẻ dữ liệu thí nghiệm đã diễn ra. 
+Mạng lưới sẽ cho phép các kỹ sư mở rộng những giới hạn thiết kế, tạo ra các toà nhà chống động đất an toàn hơn. 
+

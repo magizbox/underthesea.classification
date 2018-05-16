@@ -1,0 +1,7 @@
+ Microsoft đẩy mạnh VoIP
+VoIP được dự đoán là mạng tiếng nói của tương lai, thay thế cho các tổng đài quay số hiện nay. Năm 2005 cũng được dự đoán sẽ là năm bùng nổ các dịch vụ VoIP, tuy vậy mãi tới cuối năm vẫn chưa co dấu hiệu gì cho thấy một sự chuyển biến đáng kể ngoại trừ việc Google đưa dịch vụ Voice Chat vào chương trình tin nhắn trực tuyến của mình. 
+Microsoft trong một nỗ lực đưa MSN Messenger thành một chương trình tin nhắn trực tuyến được nhiều người sử dụng nhất, đã công bố hợp tác phát triển các dịch vụ VoIP với các đối tác Nhật là SoftBank BB và Japan Telecom. Mục tiêu là phát triển dịch vụ thông tin bao gồm điện thoại Internet, thư điện tử, kết nối Internet, tin nhắn trực tuyến và nhiều dịch vụ khác. Dự kiến sẽ bắt đầu khai thác thử nghiệm vào mùa xuân năm 2006. 
+Một trong các dịch vụ đáng quan tâm nhất có thể kể đến là Solution for Enhanced VoIP của Microsoft, dịch vụ VoIP băng thông rộng của SoftBank BB, và các dịch vụ về quản trị cơ sở hạ tầng mạng của Japan Telecom. Công ty Japan Telecom sẽ đóng vai trò giám sát toàn bộ dự án cũng như toàn bộ hạ tầng khai thác. 
+Đây không phải là đối tác duy nhất của Microsoft trong lĩnh vực VoIP. Tháng 9, Microsoft cũng có một hợp đồng tương tự với Qwest Communications. Tháng 12, Microsoft cho biết rằng chương trình MSN Messenger thế hệ kế tiếp sẽ có chức năng VoIP trong một hợp đồng với MCI. 
+Dịch vụ Solution for Enhanced VoIP của Microsoft cũng sẽ có mặt trong Exchange Server 2003, Office Live Communications Server 2005 and Windows SharePoint Services. 
+

@@ -1,0 +1,22 @@
+Bí ẩn con số
+Bạn sinh ngày nào? Hãy cộng số ngày và số tháng sinh của bạn lại với nhau. Tiếp tục cộng cho đến khi chỉ còn một con số đơn. Tra con số này theo những tiên đoán dưới đây, nhiều bất ngờ thú vị đang chờ bạn.
+Ví dụ: Bạn sinh ngày 9 tháng 12. Lấy 9 + 12 = 21. Tiếp tục 2 + 1 = 3. 3 là số của bạn.
+Số 1: Cần nghỉ ngơi
+Mục tiêu mà bạn đang theo đuổi khiến bạn luôn cảm thấy bận rộn, mệt mỏi, nên thực sự mong muốn có ngày nghỉ để vui thú cùng bạn bè, gia đình. Hãy giảm nhịp độ công việc và để cảm xúc giúp bạn nhận ra những điều kỳ diệu mà lúc bận rộn bạn không để ý. Vẻ đẹp của bầu trời ban đêm hay những âm thanh vui vẻ khiến cho ngày nghỉ của bạn tuyệt diệu hơn.
+Số 2: Tìm tương trợ
+Bạn mong muốn một sự hỗ trợ không điều kiện và đáng tin cậy. Điều này sẽ đến từ những người mà bạn ít quan tâm hay nhắc đến trong công việc. Bạn cũng cần sắp xếp những kỷ niệm đã qua, quên đi những giấc mơ không vui. Thời gian này, bạn chỉ nên quan tâm đến lợi ích vật chất và tình bạn. Bạn sẽ phải chịu nhiều chi phối từ nhịp hối thúc thời gian.
+Số 3: Thích thông tin
+Bạn rất đa năng và thực tế. Bạn bè, gia đình tin vào bạn vì bạn luôn nhớ đến những gì cần thiết hay đáng yêu mà họ hay quên. Mục tiêu của bạn là cập nhật và giữ liên hệ với người khác. Chia sẻ thông tin với người khác có lẽ là công việc tốt nhất đối với bạn bây giờ. Bên cạnh sự chuẩn bị năng lực ứng phó với khó khăn, bạn nên quan tâm nhiều đến tiến bộ của công nghệ tin học.
+Số 4: Phải tự tin
+Bạn mong muốn tìm ra khoảng lắng đọng trong những ngày bận rộn cuối năm? Hãy gạt sang một bên công việc bận rộn thường ngày cùng những hứa hẹn thăng tiến, để hòa vào và trở thành trung tâm của các cuộc vui với bạn bè, người thân bằng khả năng vốn có của mình. Một khi bỏ đi được nỗi lo lắng về vẻ ngoài của mình, bạn sẽ là người khó quên trong mắt mọi người.
+Số 5: Tự kiêu hãnh
+Bạn luôn ý thức mình là người tổ chức những suy nghĩ, năng lực của người khác. Ngày nghỉ của bạn cũng dính líu đến đồng nghiệp hay nhóm cộng tác. Có những lúc, bạn quên đi bản thân mình nhưng không phải lúc này. Bạn yêu thích cảm giác không thể thay thế. Đừng để những lời nói ngọt ru trái tim hay tỏ ra quá khác người trong mối quan hệ.
+Số 6: Sống tình cảm
+Sự thân mật là điều bạn cảm thấy không thể thiếu. Bạn yêu tiếng thở dài của người yêu hơn là sự náo động của đám đông. Vì thế, bạn thích đến nơi hẹn hò hơn là đi mua sắm hay nghỉ mát cùng bạn bè. Bạn và người yêu đang cố gắng xóa đi khoảng cách trong cuộc sống. Cố gắng dành ra khoảng thời gian riêng cho hai người để đánh giá sự phù hợp với nhau trong tương lai.
+Số 7: Người vượt lên
+Tính cạnh tranh, quyết đoán là điểm mạnh của bạn. Khát vọng đứng hàng đầu đang thử thách sự tự tin. Mọi người đang xem bạn như một người đặc biệt, vì thế không cần tốn tiền để mua lấy sự kính trọng hay tình cảm. Nhận biết được những người yêu thương bạn là hạnh phúc của bạn. Thời gian này, đừng ép buộc bản thân để cố gắng chứng tỏ sự đúng - sai, tính logic trong mối quan hệ.
+Số 8: Sống gương mẫu
+Thời gian này nên dành tình cảm và cả tiền bạc cho sự nghiệp hay tổ chức bạn đang tin tưởng. Khi mở rộng trái tim và sống hướng thiện, bạn sẽ làm tấm gương cho bạn bè, đồng nghiệp noi theo. Bạn thích quan tâm đến ước mơ của người khác. Chính bạn tạo ra sự khác biệt tích cực trong cuộc sống bằng kế hoạch cụ thể, quản lý chặt chẽ và tinh thần ham học hỏi.
+Số 9: Soi nội tâm
+Bạn đang muốn tìm điểm dừng chân sau những thăng trầm? Nên hướng đến du lịch hay thể thao để có được sự tự do trong vận động, suy nghĩ. Đi dã ngoại vùng núi, đồng quê sẽ có lợi cho bạn khi tạo ra sự liên kết giữa tâm hồn, thể xác và trí tuệ. Trong yên tĩnh, vắng vẻ, nỗi đau hay sự đe doạ của những đổi thay bất ngờ sẽ được xoa dịu.
+

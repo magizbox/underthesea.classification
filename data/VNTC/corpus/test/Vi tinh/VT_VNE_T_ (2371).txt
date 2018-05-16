@@ -1,0 +1,5 @@
+Intel dự kiến giảm giá Pentium M
+Theo một số công ty chế tạo máy tính xách tay Đài Loan, hãng sản xuất thiết bị vi xử lý số 1 thế giới đang có kế hoạch giảm 33,6% giá chip di động để đối phó với việc đối thủ AMD tung ra dòng Turion 64. 
+Việc giảm giá sẽ áp dụng đối với toàn bộ các sản phẩm trung và cao cấp của dòng Pentium M, từ model 770 mới tung ra gần đây cho tới loại 735. Động lực cho kế hoạch này là việc Intel sẽ tung ra sản phẩm Pentium M 780 tốc độ 2,2 GHz vào quý III năm nay. Intel thường giảm giá các thành viên cũ của một họ chip mỗi khi tung ra phiên bản mới. Theo trang tin công nghệ DigiTimes (Đài Loan), việc trình làng Pentium M 780 và hạ giá chip cũ sẽ được thực hiện vào ngày 24/7. Giá chip Pentium M của Intel hiện từ 209 USD đến 423 USD.
+Trong khi đó, chip Turion 64 của AMD đã được tung ra thị trường và các loại máy xách tay sử dụng sản phẩm này sẽ xuất hiện trong những tháng tới. AMD ra mắt loại vi xử lý này tháng Giêng năm nay và đến tuần trước thì chính thức phát hành 7 model với giá từ 189 USD đến 354 USD. 
+

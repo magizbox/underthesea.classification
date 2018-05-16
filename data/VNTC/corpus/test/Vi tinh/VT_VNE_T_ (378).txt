@@ -1,0 +1,6 @@
+Sharp xuất xưởng PDA dùng Linux
+Sản phẩm được coi là có thể thay thế máy tính xách tay sử dụng hệ điều hành Linux vừa được hãng điện tử Nhật Bản tung ra thị trường. Zaurus SL-6000 có giá bán 699 USD và nhắm vào khách hàng là doanh nghiệp. 
+Deanna Davis, phát ngôn viên của Sharp, cho biết: "Sản phẩm được thiết kế để có thể trở thành một phần không thể thiếu đối với bất cứ doanh nhân nào". SL-6000 dùng chip XScale 400 MHz của Intel, SDRAM 64 MB và bộ nhớ flash 64 MB cùng pin lithium có thể xạc lại. Model được trang bị màn hình VGA 4 inch với độ phân giải 640x480, gấp 4 lần so với màn hình PDA thông thường. Đồng thời, loa và microphone tích hợp trong thiết bị này cho phép người dùng có thể ghi và nghe lại các cuộc đàm thoại.
+SL-6000 cũng hỗ trợ mạng Wi-Fi 802.11b và có các khe cắm CompactFlash và Secure Digital/MultiMediaCard. Thiết bị còn có một bàn phím tiếng Anh tiêu chuẩn được bảo vệ bằng bảng điều khiển trượt. M
+Sản phẩm hỗ trợ cả Java và ứng dụng máy chủ WebSphere của IBM. Hai hãng này đang hợp tác để bán SL-6000 thông qua các kênh bán hàng riêng của mỗi bên.
+

@@ -1,0 +1,12 @@
+ Tết Nguyên Đán: Cảnh giác với tội phạm công nghệ cao!
+Theo thống kê của nhiều người giữ nhiệm vụ bảo vệ hệ thống thông tin ở một số cơ quan nhạy cảm tại VN, số vụ tấn công, xâm nhập của hacker trong các dịp tết dương lịch, Noel đều tăng 35 - 50%. Con số chắc chắn sẽ còn cao hơn trong dịp Tết Nguyên đán. 
+“Thứ nhất, vào dịp cuối năm, các hacker có trình độ cao thường có thời gian rỗi để “tìm tòi” trong các hệ thống mà họ quan tâm” - chuyên gia Đỗ Ngọc Duy Trác, giám đốc mạng an toàn thông tin VSEC ( http://www.security.com.vn ), nhận định. 
+Như một điều hiển nhiên, vào cuối năm, nhất là giáp tết, tần suất truy xuất, mua bán trao đổi qua mạng sẽ tăng vọt nên các hacker sẽ “trục lợi” được nhiều nhất khi tấn công thành công vào các hệ thống. Sẽ có rất nhiều đơn hàng mua bán qua mạng thông qua các hệ thống như Amazon… Đây là “cơ hội vàng” cho dân “Ship hàng chùa” hay những kẻ làm giả thẻ thanh toán tự động… 
+Ông Trác đưa ra một vài phân tích thêm: tết cũng là thời điểm mà lực lượng nhân sự vận hành, bảo vệ và giám sát hệ thống mỏng và mất tập trung nhất nên sẽ là thời điểm tốt nhất để hacker tấn công. Ngoài ra, còn một vấn đề liên quan đến “tập tính” làm việc của các nhà quản trị hệ thống, đó là “nới lỏng” các biện pháp bảo vệ để có thể truy xuất vào hệ thống từ xa (quê nhà). 
+Một ví dụ điển hình trên thế giới là cuộc tấn công thành công của Kevin Mitnick vào hệ thống của Sun Microsystem do chuyên gia Shimomura bảo vệ vào dịp Noel (24-12-1994). 
+Với các nguy cơ trên, vào dịp cuối năm những cá nhân và tổ chức có trách nhiệm bảo vệ hệ thống nên: 
+- Backup các dữ liệu, xây dựng kế hoạch phản ứng nhanh và khôi phục hệ thống sau sự cố. 
+- Bố trí người trực hệ thống đầy đủ và nghiêm túc. 
+- Áp dụng các biện pháp đầy đủ để có thể vận hành hệ thống từ xa một cách an toàn. 
+- Thiết lập và duy trì các kênh liên lạc với các chuyên gia để có khả năng xử lý sự cố nhanh và chính xác nhất. 
+

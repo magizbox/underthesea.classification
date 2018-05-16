@@ -1,0 +1,6 @@
+ WinDVD chơi được cả Blu-ray lẫn HD DVD
+Hiện nay cuộc chiến về chuẩn định dạng của các loại đĩa DVD đời mới vẫn chưa có hồi kết. Sony đại diện cho định dạng Blu-ray DVD vẫn quyết liệt “ăn thua đủ” với liên doanh gồm Nec, Toshiba và Sanyo ủng hộ nhiệt thành cho HD DVD. Đã có nhiều lời đề nghị hợp nhất 2 chuẩn định dạng này thành một thể thống nhất nhưng các cuộc thương thuyết đều đã đi vào bế tắc. Các bên đều đã tung ra các đầu đọc –ghi cho định dạng đĩa của riêng mình cùng với các phần mềm tương thích kèm theo. 
+Nắm bắt được xu thế của cuộc chiến chưa có hồi kết này, công cụ chơi media WinDVD của Intervideo chắn chắn sẽ là “ngư ông đắc lợi” khi có khả năng đọc và ghi tốt cả hai chuẩn Blu-ray DVD và HD DVD. Ngoài ra công cụ WinDVD đời mới cũng có khả năng chuyển đổi định dạng file để dữ liệu của định dạng DVD này có thể được hoán chuyển phù hợp để ghi lên đĩa của định dạng DVD kia. 
+Công cụ WinDVD của InterVideo lần này là một phần của bộ công cụ đời mới mang tên InterVideo MediaOne được tích hợp rất nhiều công cụ chuyên về media rất tiện dụng. Người dùng có thể vào trang web của InterVideo để tham khảo thêm về bộ tiện ích MediaOne. 
+InterVideo chưa đưa ra bình luận gì về sản phẩm đột phá của mình, nhưng chắc chắn người dùng sẽ nhiệt liệt hoan nghênh dạng sản phẩm đầy sáng tạo và tiện dụng này. 
+

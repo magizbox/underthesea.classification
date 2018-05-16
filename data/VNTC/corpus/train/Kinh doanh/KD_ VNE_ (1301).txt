@@ -1,0 +1,6 @@
+Mưa làm hỏng mạng ATM
+Toàn bộ hệ thống đường truyền xử lý thông tin dữ liệu của Techcombank đến các máy rút tiền tự động ở Hà Nội bắt đầu bị đứt mạch từ chiều 4/8, khiến hàng ngàn khách hàng xài thẻ F@stAccess không thể thực hiện giao dịch. 
+Theo Tuổi Trẻ, cơn mưa lớn chiều 4/8 đã xé đứt đường truyền trung tâm khiến cả hệ thống đường truyền chi nhánh đến máy ATM (mượn của Vietcombank) bị tê liệt. Để rút được tiền, khách hàng phải trực tiếp đến tận chi nhánh, trung tâm giao dịch của Techcombank để làm thủ tục.
+Trao đổi với VnExpress sáng nay, đại diện Ngân hàng Kỹ thương Việt Nam (Techcombank) xác nhận thông tin này và cho biết, đến cuối chiều qua đã khắc phục được sự cố đường truyền xử lý thông tin dữ liệu đến các máy rút tiền tự động ở Hà Nội. Hiện các chủ thẻ F@stAccess đã thực hiện được giao dịch rút tiền và thanh toán bình thường trên hệ thống máy ATM và các điểm thanh toán của Techcombank cũng như Vietcombank.
+Techcombank là ngân hàng cổ phần đầu tiên tại Việt Nam thực hiện việc phát hành thẻ thông qua sự liên kết hợp tác với Vietcombank, cho phép chủ thẻ của Techcombank có thể dễ dàng sử dụng thẻ để rút tiền và thanh toán tại hệ thống chấp nhận thẻ của Vietcombank và ngược lại. Tính đến nay, Techcombank đã phát hành được gần 10.000 thẻ F@stAccess-Connect 24, có trên 200 máy ATM và hàng nghìn điểm chấp nhận thẻ trên toàn quốc.
+

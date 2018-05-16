@@ -1,0 +1,4 @@
+ Thêm một trung tâm đào tạo an toàn thông tin tại TP.HCM
+Trung tâm đào tạo VietShield-Misoft sẽ cung cấp các khóa học chuyên ngành của các công ty và tổ chức bảo mật uy tín hiện nay như FoundStone, CheckPoint, Entrust, ISC2. Sắp tới, khóa học về bảo mật Foundstone Ultimate Hacking sẽ được tổ chức vào ngày 8-5 đến 12-5-2006 tại địa điểm mới của trung tâm ở TP. HCM. 
+Trung tâm VietShield-Misoft cũng sẽ tổ chức các khóa học thiết kế đặc biệt tập trung sâu về chuyên ngành an toàn thông tin như bảo mật mạng không dây, bảo mật giao thức VOIP, bảo mật ứng dụng Web, PKI infrastructure, ISO 17799. Trung tâm dự định sẽ tiến đến tổ chức khóa học CISSP bootcamp đầu tiên ở Việt Nam vào cuối năm 2006. 
+

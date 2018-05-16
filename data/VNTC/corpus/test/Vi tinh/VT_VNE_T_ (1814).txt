@@ -1,0 +1,6 @@
+Intel, VASC và CMS cung cấp game online 
+Chiều nay tại Hà Nội, 3 doanh nghiệp đã cùng ký biên bản ghi nhớ hợp tác và khai trương dịch vụ trò chơi điện tử trực tuyến mang tên Thế giới diệu kỳ. 
+Theo thỏa thuận này, VASC sẽ sử dụng các hệ thống máy chủ do công ty CMS sản xuất, gắn bộ vi xử lý Intel Xeon và Intel Xeon EM64T để phục vụ Thế giới diệu kỳ. "Chúng tôi dự kiến sẽ tổ chức các cuộc thi đấu game, chương trình khuyến khích đăng ký thành viên của dịch vụ cũng như các hoạt động kinh doanh và khuyến mại khác", ông Thân Trọng Phúc, Giám đốc Intel Việt Nam, nói.
+Hiện tại VASC đang đặt mua các trò chơi trực tuyến có bản quyền của nước ngoài. Ông Nguyễn Anh Tuấn, Giám đốc công ty, cho biết: "Chúng tôi cũng đặt mục tiêu xây dựng cổng giao tiếp trò chơi điện tử (game portal) dành cho cộng đồng người chơi game tại Việt Nam". 
+Theo ông Tuấn, từ khi bắt đầu triển khai thí điểm vào đầu tháng 12/2004, dịch vụ Thế giới diệu kỳ đã thu hút được hơn 30.000 người chơi trên cả nước với lượng game thủ tham gia thi đấu ở thời điểm bất kỳ là hơn 1.000 người. 
+

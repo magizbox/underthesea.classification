@@ -1,0 +1,11 @@
+Đắng và ngọt cùng chung 'một nhà'
+Khả năng phân biệt vị ngọt và đắng có thể cùng do một loại tế bào gai vị giác đảm nhận. Sự khác biệt nằm ở loại hóa chất do tế bào này tiết ra.
+Các tế bào trên lưỡi có khả năng cảm nhận 4 vị cơ bản là ngọt, mặn, chua và đắng, cộng với muối của một số axit. Tuy nhiên, lâu nay các nhà khoa học chưa hiểu được cơ chế mà những tế bào này chuyển đổi sự kích thích thành mùi vị.
+Các nhà khoa học đến từ Đại học Ohio State (Mỹ) mới đây phát hiện ra chìa khóa của vấn đề chính là các tín hiệu hóa học.
+Nghiên cứu trên chuột cho thấy, có hai "hiệu lệnh" hóa học đặc biệt, một dành cho vị ngọt và một cho vị đắng, tiết ra từ cùng một gai nằm ở gốc lưỡi. Hóa chất "thông báo" vị đắng gọi là CCK đã được biết đến từ vài năm nay, song đây là lần đầu tiên người ta phát hiện ra hóa chất thông báo vị ngọt là neuropeptide Y (NPY) cũng nằm chung ở các gai vị giác trên lưỡi.
+Gai vị giác là một chùm gồm 50 tới 100 tế bào, trong đó có một số tế bào được kết nối với dây thần kinh nối để gửi tín hiệu vị về não. Do đó, nhóm nghiên cứu cho rằng những tế bào không nối với dây thần kinh phải có một cách riêng nào đó để gửi thông điệp. Lời giải chính là các hóa chất "sứ giả" CCK và NPY. CCK có thể "bảo" những tế bào "hàng xóm" nối với dây thần kinh rằng có vị đắng trên lưỡi, còn NPY thì báo có vị ngọt - tiến sĩ Scott Herness cho biết. 
+Trong nghiên cứu, người ta đã phân lập các tế bào gai vị giác từ lưỡi của chuột và gắn vào chúng các điện cực siêu nhỏ. Sau đó, họ so sánh tín hiệu điện thu được khi NPY và CCK hoạt động. Kết quả cho thấy, NPY kích hoạt loại tín hiệu hoàn toàn khác với CCK, chứng tỏ chúng kích thích những phản ứng vị giác hoàn toàn khác.
+"Thật ngạc nhiên khi NPY có phản ứng đối lập với CCK và điều này đảm bảo rằng bộ não nhận được tín hiệu rõ ràng của từng vị trên lưỡi", Herness kết luận.
+Ngoài ra, khi nhuộm màu các tế bào gai vị giác để xem chúng chứa NPY hay CCK, người ta nhận thấy một số tế bào chứa cả hai. Khi đó, "những tế bào này có thể giải phóng cả hai peptide trên khi trên lưỡi có vị ngọt hoặc đắng". Nếu đó là đắng thì CCK sẽ "cảm nhận" vị đắng, đồng thời kiềm chế vị ngọt, do đó chỉ có "thông điệp đắng" tới được não.
+Trong tương lai, nhóm nghiên cứu dự kiến sẽ tìm hiểu ảnh hưởng của từng vị lên các tế bào vị giác cá biệt.
+

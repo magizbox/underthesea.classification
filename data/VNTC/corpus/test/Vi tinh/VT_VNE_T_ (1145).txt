@@ -1,0 +1,9 @@
+Diễn đàn ISV của Oracle PartnerNetwork tới châu Á - TBD
+Số các nhà cung cấp phần mềm độc lập trong Oracle PartnerNetwork tại khu vực này đã tăng 25% so với 2003. Trong năm ngoái, rất nhiều ISV mới đã khai thác các nguồn tài nguyên mà Oracle cung cấp cho các nhà cung cấp ứng dụng vốn đang dựa vào công nghệ và ứng dụng của họ. 
+Hiện tại, có hơn 6.000 ISV trong cộng động đối tác toàn cầu của Oracle, trong đó có khoảng 500 ISV ở châu Á - Thái Bình Dương. Cũng có hơn 200.000 các nhà phát triển ISV tự đăng ký trong cộng đồng Mạng lưới sử dụng công nghệ của Oracle trên toàn cầu.
+Oracle PartnerNetwork sẽ tổ chức một loạt diễn đàn dành cho các ISV tại châu Á - Thái Bình Dương, bắt đầu từ tháng 8. Được tạo ra để phục vụ nhu cầu của cả các đối tác ISV cũ và mới, diễn đàn này sẽ mang lại cho các thành viên tham gia một cái nhìn sâu mang tính công nghiệp về cách Oracle có thể giúp họ tư bản hóa với các xu hướng hiện tại - bao gồm cả đường tới điện toán mạng khung grid computing và phát triển trên nền tảng Linux. 
+Ngoài ra, Oracle đang nỗ lực phát triển mạng lưới ISV của mình tại châu Á - Thái Bình Dương lên 50% trong tài khóa 2005 để nắm bắt cơ hội kinh doanh trong các ngành công nghiệp lớn, các doanh nghiệp có quy mô nhỏ hơn và những nhu cầu to lớn của khách hàng về ứng dụng trên nền tảng Linux.
+Các ISV sẽ có cơ hội kết hợp với Oracle và nhiều đối tác khác, bao gồm các nhà tích hợp hệ thống, nhà bán lẻ giá trị gia tăng, nhà phân phối giá trị gia tăng và các nhà cung cấp nền tảng phần cứng, để mở rộng và đưa ra những giải pháp công nghiệp chuyên ngành mang tính kết nối đầu cuối. 
+Ngoài diễn đàn cho các ISV, Oracle sẽ tổ chức một loạt hoạt động trao giấy phép công nghệ cho đối tác như Ngày dành cho các nhà phát triển, Ngày dành cho công nghệ và Diễn đàn công nghệ của Oracle.
+Thông tin thêm về diễn đàn ISV và việc đăng ký miễn phí có thể được tìm thấy tại www.oracle.com/events/isvforum
+

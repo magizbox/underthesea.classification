@@ -1,0 +1,7 @@
+Người dùng Internet bối rối vì thư gian lận
+Theo kết quả khảo sát gần đây do công ty chống thư rác MailFrontier thực hiện, tệ nạn gian lận qua e-mail (phishing) ngày càng trở nên nguy hiểm. Gần 1/3 người dùng Internet không thể phân biệt được giữa thư thật và thư giả.
+MailFrontier cho biết thư hợp pháp của các công ty như eBay và PayPall thì lại bị nghi ngờ là e-mail gian lận. Đặc biệt, hơn 50% người truy cập Internet nhầm tưởng thông điệp của Uỷ ban thương mại liên bang Mỹ là phishing. Do đó, hoạt động giao dịch giữa người tiêu dùng và các công ty sẽ bị tác động mạnh.
+Ví dụ, một loại e-mail giả mạo thông báo của PayPal yêu cầu nâng cấp thông tin thẻ tín dụng đã đánh lừa và moi tiền trong tài khoản của 31% khách hàng. Trong khi đó, một thông điệp "xịn" của địa chỉ mua bán trực tuyến này, không đòi hỏi thông tin cá nhân, lại bị 20% người dùng đánh giá là thư lừa đảo.
+Một lý do khiến các thông điệp gian lận giống với e-mail hợp lệ có thể đánh lừa người dùng là những kẻ đứng sau các vụ lừa đảo này ngày càng điêu luyện. Bonaparte, Tổng giám đốc điều hành của MailFrontier, cho biết: "Mỗi thủ đoạn lừa bịp mới của chúng lại tinh vi hơn và lừa được nhiều người hơn".
+Dave Jevens, Chủ tịch Hiệp hội chống phishing (APWG), cho biết ông không còn ngạc nhiên với con số này vì chính ông cũng phải đau đầu với nạn lừa đảo đang rất phổ biến.
+

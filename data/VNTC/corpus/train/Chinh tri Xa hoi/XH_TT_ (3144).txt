@@ -1,0 +1,6 @@
+ Thiết bị tiết kiệm điện: thực hư ra sao?
+TS năng lượng điện Nguyễn Bách Phúc (Viện Điện - điện tử - tin học TP.HCM - ảnh): - Bộ tiết kiệm này là một dạng tụ điện, chủ yếu áp dụng cho khách hàng có công suất tiêu thụ điện năng lớn có trạm biến thế từ 22kV-380kV như nhà máy, cơ sở sản xuất... 
+Ở các trạm này, công ty điện lực thường bố trí đồng hồ để đo cos (tỉ số giữa công suất sử dụng và công suất truyền tải điện). Khi dùng tụ điện kết nối vào trạm biến thế, tụ điện sẽ phát ra một phần công suất phản kháng có tác dụng nâng cao hệ số cos , cách này sẽ tiết kiệm cho việc truyền tải điện. 
+Tuy nhiên đối với các hộ gia đình, ngành điện lực đã loại bỏ yếu tố truyền tải ra khỏi phần tính tiền điện mà chỉ thu tiền theo điện năng tiêu thụ (kWh). Nên nếu mua thiết bị tụ điện nói trên, anh chỉ giúp tiết kiệm cho việc truyền tải điện chứ thực tế không giảm năng suất tiêu thụ điện. 
+Có thể nói người bạn của anh Sơn đã đúng, bộ tiết kiệm mà anh mua không giúp được gì cho việc giảm tiêu thụ điện năng trong gia đình. 
+

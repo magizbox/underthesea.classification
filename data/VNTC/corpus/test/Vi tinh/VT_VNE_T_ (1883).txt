@@ -1,0 +1,9 @@
+Intel ra mắt chip Centrino mới
+Tốc độ của bộ vi xử lý lên đến 2,13 GHz, front-side bus 553 MHz, xử lý đồ họa mạnh hơn, hỗ trợ tốt mạng không dây Wi-Fi và khả năng bảo mật cao... là những tính năng mới của gói chip mang tên mã Sonoma, vừa được Intel chính thức ra mắt ngày hôm qua. 
+Sonoma chứa bộ vi xử lý Pentium M, card mạng không dây và chipset 915 Express, phiên bản mới nhất của Intel (còn được biết đến với tên gọi là Alviso) cùng chipset PCI Express, hỗ trợ mạnh cho các ứng dụng đồ họa. Tính năng xử lý hình ảnh, âm thanh cao cấp có thể giúp Intel lôi kéo thêm nhiều người dùng đến với gia đình Centrino. Công nghệ không dây sử dụng trong gói chip này cho phép kết nối mạng LAN Wi-Fi qua chuẩn 802.11a/b/g. Centrino còn được tích hợp kỹ thuậtExecute Disable Bit, tạo ra một bức tường bảo vệ vững chắc chống lại sự tấn công của virus.
+Trong lần ra mắt này, Intel giới thiệu 7 phiên bản khác nhau của Centrino, từ serie 770 hoạt động ở tốc độ 2,13 GHz đến một phiên bản siêu tiết kiệm điện năng với công suất chỉ có 5 watt. 
+"Những tính năng mới sẽ mang các ứng dụng dành riêng cho desktop sang laptop, Barbara Grimes, người phát ngôn của Intel, tuyên bố. 
+Kể từ khi ra đời đến nay, Centrino đã có chỗ đứng vững chắc trong cộng đồng các nhà sản xuất máy tính, trở thành dòng sản phẩm mạnh nhất của Intel. 85% số laptop bán ra trên thế giới hiện nay sử dụng bộ vi xử lý của Intel, trong đó phần lớn là Centrino. 
+Intel từng dự định sớm đưa Sonoma ra thị trường trong năm 2004 nhưng phải hoãn lại vì một số khó khăn trong sản xuất cũng như chờ đợi các nhà chế tạo PC ra mắt sản phẩm sử dụng bộ vi xử lý mới này. 
+Việc Intel tung ra phiên bản mới của Centrino có thể xem là hành động đáp trả dành cho đối thủ AMD. Cách đây 2 tuần, hãng sản xuất vi xử lý lớn thứ 2 thế giới này đã ra mắt chip di động Turion 64 bit với nhiều công nghệ và tính năng hiện đại. 
+

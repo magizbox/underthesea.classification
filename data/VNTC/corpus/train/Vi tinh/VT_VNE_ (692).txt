@@ -1,0 +1,6 @@
+Máy treo sau 10-30 phút (1)
+Tôi có 1 máy PIII 733 40G, 256Mb Ram, cài XP Pro SP1, nối mạng. Gần đây máy hay bị treo, dù chỉ mở trang báo, hoặc nghe nhạc winamp. Thường sau khi sử dụng 10-: 30 phút thì chuột "đơ", và không sử dụng được bất kỳ nút, tổ hợp nào trên bàn phím. Ấn nút reset lại máy thì lại chạy được. Đã quét vius bằng BKAV, chạySpybot  Destroys, cài lại Win XP trên ổ C, hiện tượng vẫn thế.Mong các chuyên gia hướng dẫn cho biết nguyên nhân và cách giải quyết. Chân thành cảm ơn. 
+Lê Vĩnh
+Hồi âm:
+Máy của bạn rất có khả năng phần cứng có vấn đề, đặc biệt là RAM. Nếu bạn sử dụng nhiều thanh RAM khác nhau thì cần đảm bảo các thanh này giống nhau (về chủng loại và tốc độ) đồng phải là ở trong tình trạng hoạt động tốt. Ngoài ra vì máy đã khá cũ, các bộ phận khác (như bo mạch chủ, CPU) cũng có thể đã không còn hoạt động tốt nữa. 
+

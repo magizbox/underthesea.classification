@@ -1,0 +1,3 @@
+Nhiều phần mềm miễn phí giúp chúng ta chuyển định dạng file Word sang PDF. Trong đó, có một phần mềm dung lượng không lớn (1,05 MB), không phải trả phí, tương thích từ Windows 98 trở lên, cho phép chuyển đổi nhiều định dạng file của bộ Office như Word, Excel, PowerPoint, Publicsher... sang định dạng PDF một cách nhẹ nhàng, nhanh chóng. Đó là CutePDF Writer, tải về từ địa chỉ www.cutepdf.com.
+Cách sử dụng rất đơn giản. Sau khi cài đặt xong, mở một file thuộc bộ Office muốn chuyển định dạng. Bấm File -&gt; Print. Trong phần chọn tên cho máy in (name) bấm chuột chọn CutePDF Write. Bấm OK. Hộp Save As xuất hiện, yêu cầu chúng ta đặt tên và chỉ vị trí lưu. Bấm Save là xong. Hãy yên tâm vì file gốc vẫn còn nguyên vẹn.
+

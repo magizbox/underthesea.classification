@@ -1,0 +1,7 @@
+AMD quyết đua với Intel về thiết bị xử lý lõi kép 64 bit
+Hãng chế tạo chip lớn thứ 2 thế giới vừa chính thức phát hành bộ vi xử lý lõi kép Opteron và Athlon 64 bit dòng 8xx cho server 4 và 8 rãnh, cùng các chip lõi kép cho máy tính để bàn và notebook. 
+Theo đại diện của AMD, chip mới có tốc độ nhanh hơn  90% so với các sản phẩm lõi đơn cùng loại. Dòng 2xx, dùng cho rãnh đôi, sẽ ra mắt vào tháng 5 và dòng 1xx rãnh đơn sẽ xuất hiện một thời gian ngắn sau đó. 
+Ba dòng sản phẩm trên có tốc độ lần lượt là 1,8 , 2,0 và 2,2 GHz, mang tên x65, x70 và x75. AMD không tiết lộ kế hoạch phát triển các mẫu đa lõi thuộc dòng Mobile Athlon.
+Tương tự như bộ xử lý lõi kép do Intel ra mắt tuần trước, mỗi sản phẩm của AMD được tích hợp cache riêng biệt, giảm độ phức tạp và hao tổn trong quá trình sử dụng.
+"Cuộc đua giữa Intel và ADM báo hiệu thị trường bộ xử lý lõi kép đang dần nở rộ", một báo cáo của Forbes viết. "Intel chưa chính thức ra mắt bộ xử lý lõi kép. Đây chính là động lực giúp AMD chiếm lĩnh thị trường quan trọng này".
+

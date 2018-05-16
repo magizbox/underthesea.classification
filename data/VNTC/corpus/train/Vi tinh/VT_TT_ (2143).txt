@@ -1,0 +1,7 @@
+ Microsoft sắp tung ra dịch vụ bảo mật OneCare Live
+OneCare Live đã được Microsoft công bố từ hồi tháng 5-2005, nó là một dịch vụ bảo mật trực tuyến bao gồm các ứng dụng như tường lửa, quét virus, sao lưu và phục hồi dữ liệu… OneCare Live bản beta đã được đưa ra cho mọi người dùng thử miễn phí từ hồi tháng 11-2005. 
+Microsoft vừa công bố giá chính thức thuê bao dịch vụ này là 49,95 USD/năm, cấp phép cho người dùng chung đến tối đa là 3 máy. Từ ngày 1-4 đến 30-4, Microsoft bắt đầu bán ra dịch vụ này ở dạng bản thử nghiệm beta với giá là 19,95 USD, và nghiễm nhiên những ai mua dịch vụ ở dạng beta đều được nâng cấp lên miễn phí thành bản chính thức vào thời điểm dịch vụ được tung ra chính thức. 
+Microsoft cho biết OneCare Live không bao gồm ứng dụng Windows AntiSpyware hoặc bản nâng cấp của nó là Windows Defender, nhưng khi người dùng cài đặt xong OneCare Live thì Windows Defender sẽ lập tức được tích hợp vào các thanh trạng thái của OneCare Live. 
+Như vậy Microsoft đã chính thức bước vào cuộc chiến tranh giành thị phần ở thị trường các sản phẩm bảo mật, nơi mà các đại gia như Symantec, Trend Micro, McAfee… đang làm mưa là gió lâu nay. 
+Người dùng có thể vào đây để tải về dùng thử bản beta miễn phí của OneCare Live. Lưu ý: quá trình cài đặt OneCare Live là hoàn toàn trực tuyến. 
+

@@ -1,0 +1,9 @@
+Microsoft cập nhật Windows Vista
+Hãng phần mềm này hôm qua đã giới thiệu thêm một bản duyệt trước cho hệ điều hành mới, bổ sung nhiều tính năng bảo mật cũng như nâng cao khả năng vận hành và cải tiến giao diện người dùng.
+Đây là bản duyệt trước công nghệ (Community Technology Preview - CTP) của Windows Vista, ra mắt lần thứ 3 nhằm giúp Microsoft nhận phản hồi về hệ điều hành nhanh hơn so với việc chỉ áp dụng chương trình thử nghiệm như trước.
+Windows Vista CTP 3 được trang bị Windows Defender, bản nâng cấp của Windows AntiSpyware, hỗ trợ khách hàng chống spyware, rootkit và những nguy cơ khác.
+Bộ phận mang tên BitLocker Drive Encryption có nhiệm vụ bảo vệ dữ liệu trên máy tính khi nó bị mất hoặc bị đánh cắp. Tính năng mã hóa này sẽ hoạt động với chip TPM (Trusted Platform Module) chứa khóa mã, mật khẩu và chứng chỉ số.
+Hệ thống cũng sẽ kiểm duyệt gắt gao hơn đối với thiết bị lưu trữ rời như ổ USB hay ổ cứng ngoài, nhằm tránh xảy ra tình trạng dữ liệu nhạy cảm và tài sản trí tuệ bị khống chế hoặc rò rỉ.
+Các bậc phụ huynh cũng có thể cài đặt một số thiết lập như giới hạn thời gian dùng, chặn website và nhật ký sử dụng máy tính...
+CTP 3 còn bao gồm bản nâng cấp cho Windows Media Player và Windows Media Center. Microsoft sẽ chia sẻ thông tin chi tiết về Vista trong triển lãm công nghệ CES tại Las Vegas (Mỹ) tháng tới.
+

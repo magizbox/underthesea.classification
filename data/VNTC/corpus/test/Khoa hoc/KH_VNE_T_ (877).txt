@@ -1,0 +1,13 @@
+Máy tính trò chuyện trong vũ trụ
+Chiếc máy tính này vận hành bằng giọng nói, có thể kết nối những thủ tục phức tạp và nhận ra yêu cầu từ các nhà du hành. Sản phẩm đang được các nhà khoa học tại Trung tâm nghiên cứu Ames của NASA thử nghiệm. 
+Được gọi là Clarissa, hệ thống không cần tay người điều khiển này có thể sẽ là trợ thủ rất đắc lực trong tình trạng trọng lượng yếu trên vũ trụ, nơi mà các phi hành gia lúc nào cũng cần cả hai tay để thực hiện không chỉ 12.000 thử nghiệm và thao tác, mà đơn giản còn là để giữ các đồ vật trong thí nghiệm không trôi đi chỗ khác. 
+"Mọi thứ trở nên phức tạp hơn nhiều trong tình trạng trọng lực yếu", Beth Ann Hockey, trưởng dự án cho biết. 
+Thử nghiệm nước là một ví dụ điển hình. Các nhà du hành trên Trạm Vũ trụ Quốc tế phải thường xuyên kiểm tra nước uống của họ (được tái sinh hoặc thu thập từ nước ngưng tụ ở hai phía của trạm). Để phân tích được nó, người ta phải dùng tay nắm túi, vòi và các màng lọc trong khi vẫn phải nạp dữ liệu vào máy tính bằng tay và cuộn qua hàng loạt thao tác thủ công được vi tính hoá. 
+Nhưng với Clarissa, nhà du hành không bao giờ phải chạm tay vào máy tính nữa. Thay vào đó anh ta sẽ nhắc nhở Clarissa, luôn ở trong trạng thái bật, bằng các lệnh nào đó, chẳng hạn "tải quy trình thử nghiệm nước". 
+Phần mềm nhận dạng giọng nói sẽ giúp phân biệt lệnh từ cuộc trò chuyện bên ngoài và khởi động quy trình. 
+Một khi quy trình đã được tải xuống, Clarissa sẽ thông báo cho nhà du hành qua mỗi bước. Nhà du hành có thể ngắt hoạt động của hệ thống để nhảy cách sang bước tiếp theo bằng câu "tiếp", hoặc sửa sai hệ thống bằng câu "Không, đi tiếp tới bước 52". 
+Khi Clarissa đọc các bước của quy trình, nó sử dụng ngôn ngữ tự nhiên hơn so với khi đọc nguyên văn từng chữ của cách làm thủ công. Trong một số trường hợp, nó chỉ đọc thông tin quan trọng của quy trình. 
+Sẽ là một bước tiến lớn nếu có thể tự động chuyển các văn bản thành kiểu giọng nói, Liberman nói, song theo thành viên nhóm nghiên cứu Manny Rayner, các văn bản hiện tại phải được viết lại bằng tay. 
+Các thử nghiệm cho thấy bài test của hệ thống đạt chính xác 95% trên cả hai phương diện là: Biết mình đang được chỉ dẫn bởi một nhà du hành, và hiểu được lệnh. 
+Hockey cho biết, cô đang thảo luận với NASA về khả năng bổ sung cho Clarissa một hệ thống quy trình thị giác đã có kế hoạch phát triển. 
+

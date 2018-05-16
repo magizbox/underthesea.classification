@@ -1,0 +1,8 @@
+Hệ thống chống xem nội dung sex trong văn phòng
+Hãng Guardware (Anh) vừa phát hành phiên bản mới của công cụ phong tỏa truy cập nội dung khiêu dâm mà họ khẳng định là có khả năng ngăn chặn hiệu quả hơn việc nhân viên văn phòng xem những hình ảnh mát mẻ từ nhiều nguồn trên máy tính.
+Khác với hầu hết công cụ lọc nội dung trên browser thông thường, bộ sản phẩm gồm iShield, iShield Plus và ScreenShield Enterprise của Guardware không dựa vào việc phong tỏa URL mà thay vào đó sử dụng một công cụ phát hiện hình ảnh để thực hiện công việc sàng lọc.
+Phần mềm này ngăn chặn cả những hình ảnh có nguồn gốc không phải từ duyệt web, chẳng hạn những nội dung khiêu dâm nhúng trong thư điện tử hoặc gửi qua file đính kèm, trên đĩa CD, DVD và các công cụ lưu trữ di động khác.
+Guardware khẳng định sản phẩm của họ được thiết kế để áp dụng trong các công ty nên độ nhạy trong quá trình lọc có thể được điều chỉnh xuống tận cấp độ từng phòng ban. Công cụ này còn có thể quyết định phong tỏa một hình ảnh hoặc toàn bộ màn hình, tùy theo nội dung.
+Sự phổ biến ngày càng tăng của các trình duỵệt web mới đã khiến Guardware quyết định thiết kế để iShield, iShield Plus và ScreenShield Enterprise hỗ trợ cả Firefox, Mozilla và Netscape. Hiện tại, việc lọc nội dung sex còn được hỗ trợ rất hạn chế ở các trình duyệt ngoài Internet Explorer. 
+Xem thêm thông tin và giá bộ sản phẩm của Guardware tại đây.
+

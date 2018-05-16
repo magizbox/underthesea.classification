@@ -1,0 +1,8 @@
+Lưu 5 MB dữ liệu trong móng tay
+Thành công của các nhà khoa học Nhật Bản dựa vào công nghệ khắc axít (etching) tia laser với bộ nhớ quang 3 chiều. Tiềm năng ứng dụng của kỹ thuật này là lĩnh vực sinh trắc học, cho phép móng tay người mang dữ liệu mã hóa để tránh ăn cắp, thất lạc hoặc làm giả. 
+Dữ liệu được ghi theo 3 lớp với các xung nhịp laser vô cùng ngắn, chỉ kéo dài trong 1/10 36 của 1 giây. Điều này tạo ra những vụ nổ cực nhỏ trong cấu trúc móng tay và sức ép tạo ra sẽ được ghi nhận bằng một công cụ huỳnh quang fluorescence. Dữ liệu sẽ tồn tại được 6 tháng, bằng khoảng thời gian móng tay mọc từ gốc cho đến đầu đốt tay. Sau đó, thông tin cần phải được viết lại.
+Mật độ ghi theo công nghệ này có thể đạt 2 GB/cm3. Nhóm nghiên cứu đang tiếp tục phát triển đầu đọc móng tay thực thụ.
+Với phát minh này, các nhân viên bưu điện có thể vận chuyển 12,5 MB dữ liệu một cách an toàn bằng cách sử dụng chính những chiếc móng tay và móng chân của họ. Ngành sản xuất thiết bị lưu trữ bằng công nghệ flash cũng đang cân nhắc đến khả năng ứng dụng của kỹ thuật rất mới mẻ và cực kỳ rẻ tiền này.
+Trước mắt, còn một vấn đề mà nhóm nghiên cứu Nhật Bản phải tìm hiểu: sơn móng tay có làm hỏng dữ liệu hoặc khiến đầu đọc nhầm lẫn hay không?
+Thông tin chi tiết về nghiên cứu này được đăng tại đây.
+

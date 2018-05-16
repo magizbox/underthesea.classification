@@ -1,0 +1,7 @@
+Trung tâm thông tin quốc gia khai trương thư viện điện tử
+Sau 8 tháng triển khai trên nền tảng phần mềm thư viện LIBOL của Công ty Tinh Vân, hệ thống e-library của Trung tâm đã hoạt động ổn định với cơ sở dữ liệu đồ sộ trong khoa học tự nhiên, từ truyền thống đến các ngành mới.
+Triển khai thư viện điện tử là một trong những chương trình nhằm tăng cường năng lực của Trung tâm - nơi đề xuất và định hướng các chuẩn nghiệp vụ ngành đối với hệ thống thư viện trên toàn quốc. 
+Tư liệu của Trung tâm tồn tại ở nhiều dạng khác nhau như ấn phẩm, vi phim, băng hình, đĩa từ, đĩa quang và các nguồn thông tin số hoá khác. Tại lễ khai trương diễn ra hôm 17/12 ở Hà Nội, ông Tạ Bá Hưng, Giám đốc Trung tâm thông tin khoa học và công nghệ quốc gia, chia sẻ: "Việc áp dụng công nghệ thông tin là nhu cầu cấp thiết và thường xuyên của trung tâm. Tuy nhiên, sau khi chạy thử một số phần mềm quản lý thư viện, kể cả những phần mềm đơn lẻ trong nước lẫn của nước ngoài, các yêu cầu thực tế đặt ra như khả năng chia sẻ thông tin trên môi trường mạng, khả năng tuỳ biến... vẫn chưa được đáp ứng".
+Theo ông Hưng, phần mềm thư viện LIBOL là sản phẩm trong nước đã giải quyết được những bài toán phức tạp nhất, đáp ứng các tiêu chuẩn quốc tế bằng công nghệ và tuân thủ đầy đủ các yêu cầu đặc thù của ngành cũng như những yêu cầu phát sinh của Trung tâm như biên mục tài liệu, tra cứu, quản lý bạn đọc, quản lý mượn trả, xuất hợp đồng, khiếu nại...
+Thư viện điện tử củaTrung tâm Thông tin khoa học và công nghệ quốc gia nằm trên website của Trung tâm tại địa chỉ: http://www.vista.gov.vn/ 
+

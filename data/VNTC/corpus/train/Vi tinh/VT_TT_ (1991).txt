@@ -1,0 +1,5 @@
+ Microsoft và FPT thỏa thuận hợp tác
+Theo thỏa thuận, Microsoft và FPT sẽ hợp tác trong 6 vấn đề gồm: mảng dự án chuyển đổi và tái phát triển ứng dụng từ Lotus Notes sang công nghệ Microsoft trong khu vực Đông Nam Á; các giải pháp cho chính phủ và các bộ, ngành tại Việt Nam; mô hình tối ưu triển khai cơ sở hạ tầng trên nền công nghệ Microsoft trong khu vực. 
+Mảng dự án phát triển phần mềm ứng dụng cho công nghệ thông tin di động và thiết bị nhúng; hỗ trợ triển khai chương trình giảng dạy cho Trường ĐH tư thục FPT và các hoạt động đào tạo, thi chứng chỉ Microsoft tại Việt Nam; triển khai các giải pháp của Microsoft cho mảng doanh nghiệp tại Việt Nam và trong khu vực. 
+Sự hợp tác nói trên giữa Microsoft và FPT đánh dấu bước quan trọng trong hợp tác toàn diện giữa hai bên nhằm phát triển ứng dụng công nghệ thông tin tại khu vực châu Á - Thái Bình Dương. 
+

@@ -1,0 +1,9 @@
+Chi phí chống virus: người dùng PC 'lãnh đủ'
+Bên cạnh lý do tăng giá vì phải đối phó với nhiều loại nguy cơ mới nguy hiểm hơn, các nhà cung cấp phần mềm bảo vệ máy tính còn có nhiều cách để "moi" tiền khách hàng.
+Symantec và McAfee, hai nhà cung cấp dịch vụ chống virus hàng đầu hiện nay, đang hy vọng tiếp tục nâng chi phí mà khách hàng phải trả cho việc bảo vệ máy PC trước sự phá hoại của lũ virus.
+Symatec đã tăng giá bán sản phẩm của mình thêm 20 USD. Khách hàng sử dụng Norton Antivirus và Norton System Works còn phải trả thêm một khoản phí hàng năm cho công việc phát hiện và cập nhật virus mới là 5 USD, tăng 33% so với năm vừa rồi, đúng bằng tỉ lệ tăng của năm trước đó. 
+McAfee cũng bán sản phẩm Internet Security Suite với mức giá 70 USD và thu thêm 20 USD cho việc cập nhật mỗi năm.
+Nếu khách hàng đang sử dụng phiên bản cũ, chi phí cho việc nâng cấp sẽ tương đối cao, gần bằng chi phí mua phần mềm mới. Với cách làm này, các nhà cung cấp luôn muốn khách hàng của mình mua sản phẩm mới thay vì cập nhật, như thế họ sẽ thu được nhiều tiền hơn. 
+Những người sử dụng PC cũng không vừa. Theo McAfee, 80% khách hàng chấp nhận sử dụng tính năng update. Để đối phó, các nhà cung cấp dịch vụ lại có một chiêu khác. Họ bán các phần mềm với giá vừa phải nhưng chỉ chứa những ứng dụng cơ bản, một khi khách hàng muốn có thêm các tính năng như firewall hay chống spam, họ lại phải "thò tay vào túi" để có được những gói phần mềm cập nhật. Giá của những tính năng bổ sung này tất nhiên cũng chẳng rẻ nhưng gần như khách hàng không còn sự lựa chọn nào khác.
+Người dùng máy tính nhận được một tín hiệu vui: Microsoft đã mua lại công nghệ chống virus của một công ty ở Romania có tên là GeCad Software SRL, đang tiếp tục phát triển chúng và dự định sẽ đưa ra thị trường. Sự góp mặt của đại gia này trong lĩnh vực chống virus chắc chắn buộc các hãng khác phải giảm giá để cạnh tranh và tồn tại. 
+

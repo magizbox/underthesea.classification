@@ -1,0 +1,7 @@
+ Lướt web... tàng hình 
+Ngoài việc giúp cư dân Net “tàng hình” trong thế giới trực tuyến, IB còn cung cấp những công cụ rất độc đáo về tự động làm vệ sinh cho trình duyệt máy tính ngay trong lúc bạn đang lướt web, ngăn chặn sự tấn công của thư rác và các loại cửa sổ quảng cáo dưới dạng popup. 
+Để kích hoạt và bắt đầu sử dụng chế độ lướt web tàng hình, bạn hãy nhấp chuột vào thẻ Anominity, đánh dấu kiểm trước tùy chọn Enable Invisible Browsing, nhấn nút Update Proxy List Now rồi chọn OK để tiếp tục. 
+Hãy nhấp chuột vào nút có hình mũi tên hướng xuống để chọn cho mình một địa chỉ proxy mong muốn. Ngay lập tức, mọi thông tin hữu ích về proxy này sẽ được hiển thị trong vùng Already Tested Proxies bao gồm Proxy IP and Port (địa chỉ IP và cổng của proxy hiện hành), Country (tên quốc gia), Response Time (thời gian phản hồi) và Download Speed (tốc độ tải về). 
+Hãy thử thật nhiều địa chỉ proxy trong danh sách này để chọn cho mình một địa chỉ lý tưởng nhất. Cuối cùng, bạn hãy nhấn nút Save Settings để lưu lại mọi thiết lập về proxy hiện hữu. 
+Dung lượng 0,97 MB, tương thích trên các hệ điều hành Windows như 9x/Me/NT/2000/XP, phiên bản miễn phí của IB được cung cấp tại địa chỉ http:// www.amplusnet.com/products/invisiblebrowsing/download.htm . 
+

@@ -1,0 +1,9 @@
+Không dùng được bàn phím (2)
+Máy tính của tôi thuộc dòng PII, IBM. khi khởi động thì trên màn hình khởi động hiện lỗi 302 keyboard error, sau đó có một tiếng píp dài và hiện lên lỗi 162 và 62 với dòng chữ đã xảy ra thay đổi cấu hình, sau đó vào màn hình SETUP (giống như ta ấn nút Del khi khởi động nhưng tôi không ấn) và bàn phím không dùng được mặc dù lúc khởi động đèn trên bàn phím có loé lên rồi tắt ngay. Tôi không thể vào Windows được. Các bạn cho biết là làm cách nào. Cám ơn nhiều!
+Chu Minh Thuỳ
+Hồi âm:
+Mot tieng beep dai co le BIOS cua may thuoc loai AMI beep code, ban nen xem lai thanh RAM , co the phai thay. 302 error la keyboard da bi khoa ( clocked ) vi vay ban khong nhan duoc F1 hay DEL key de vao BIOS setup..ban nen xem lai pin CMOS mo ra lau chui va gan lai thu neu khong thi phai thay pin moi. thong thuong pin CMOS sai khoang 5 nam , nen thay pin moi.
+TOM 
+
+Thật đau đầu khi máy của chúng ta cứ mắc phải những lỗi như vậy. Máy của bạn khi khởi động lên không nhận thiết bị bàn phím vậy bạn thử làm như sau nhé, có thể là do dây dẫn của bạn phím bị hư, bạn đa thử bàn phím khác chưa ? hoặc bàn phím của bạn đã cũ, và hơn nữa theo những người dùng máy như chúng tôi thì cái dòng anh PII như bạn nói là rất củ chuối đó, bạn thử mọi cách đi. Lỗi 302 keyboard error có thể là do Win trong quá trình bạn cài bị lỗi vè phần nhận tín hiệu của các thiết bị đấy, bạn cài lại Win thử coi ( đó là biện pháp cuối cùng nếu một trong các cách đơn giản khác bạn không làm cho nó hoạt động được). Trước đây bạn tôi cũng có máy PII như của bạn đang dùng cứ mỗi lần khởi động lên được 1 lúc thì bạn phím bị treo không sử dụng được (Mặc dù đèn bàn phím và đèn ổ cứng có báo là nhận) nhưng khi xem xét lại thì do cáp cắm của cái bàn phím đó một phần đã bị hư rồi bạn à. Bạn hãy tìm mọi cách đi bàn phím không hoạt động được không phải do máy hỏng hóc gì đâu nha. Chúc bạn luôn măy mắn.
+

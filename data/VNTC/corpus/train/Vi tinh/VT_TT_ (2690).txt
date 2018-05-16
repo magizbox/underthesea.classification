@@ -1,0 +1,4 @@
+ Biến laptop thành điện thoại di động
+Với hỗ trợ RUIM (tương tự sim, trong hệ di động GSM), bạn có thể truyền các thông tin (được lưu trữ trên chip RUIM) từ thiết bị này sang thiết bị khác. 
+Sản phẩm cho phép người sử dụng truy cập được vào mạng CDMA, bao gồm mạng CDMA 2000 1X tốc độ cao, và IS-95A. Ngoài ra CDMA 1x còn có chức năng nghe gọi như một chiếc điện thoại di động thông thường, người sử dụng chỉ cần cắm tai nghe vào là có thể "Alô" thoải mái không sợ hết pin. 
+

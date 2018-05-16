@@ -1,0 +1,8 @@
+Yahoo thử nghiệm công cụ tìm kiếm file âm thanh 
+Người sử dụng có khả năng tìm kiếm 50 triệu bài hát và tệp âm thanh miễn phí qua Internet nhờ công cụ mới của hãng dịch vụ trực tuyến lớn nhất thế giới.
+Hãng bắt đầu thử nghiệm dịch vụYahoo Audiotừ ngày 2/8. Người dùng chỉ cần gõ những từ hoặc cụm từ liên quan đến bài hát và Yahoo sẽ liệt kê một danh sách các file âm thanh, cho phép khách hàng nghe trực tuyến trên trang.
+Công cụ tìm kiếm âm nhạc này hoạt động dựa trên khả năng đọc nội dung được nhúng trong tệp âm thanh, còn được gọi là metadata, để phân loại kết quả tìm kiếm.
+Nếu một bài hát nào đó được lấy về từ trang web yêu cầu phải trả tiền, ví dụ iTunes hoặc Napster, Yahoo Audio sẽ liên kết tới trang đó để người dùng thực hiện việc mua nhạc. 
+Yahoo Audio cũng bao gồm dịch vụpodcast, cung cấp các đoạn ghi âm cho phép người dùng xem trên máy tính hoặc thiết bị số cá nhân như iPod của Apple.
+Dịch vụ này cũng dẫn người dùng đến trang tin tức, ảnh và website của các nghệ sỹ cũng như nhiều thông tin liên quan đến sự nghiệp của họ.
+

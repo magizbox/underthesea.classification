@@ -1,0 +1,7 @@
+Virus Wurmark tiếp tục các tác phẩm kinh dị
+Hãng bảo mật Anh Sophos cảnh báo phiên bản mới phát tán qua e-mail, hiển thị hình ảnh một con đười ươi bạch tạng với nụ cười cực kỳ quyến rũ. Virus nằm trong file đính kèm dạng .zip và có thể ăn cắp thông tin người sử dụng. 
+Hình ảnh đười ươi do virus Wurmark.K tạo ra.
+Nếu phần attachment trong e-mail được mở ra, Wurmark.K sẽ thực thi một số file bên trong có tên như Sexy_02.scr, Admirer_005.scr, Photo_01.pif, Lover_01.scr và Just_For_You.pif. Cùng với quá trình hiển thị hình ảnh đười ươi, virus sẽ cài đặt một sâu mạng có tên Rbot.ABK và một Trojan cổng hậu. Sâu Rbot.ABK cho phép hacker xâm nhập máy tính nạn nhân để khai thác thông tin hoặc cài đặt mã tấn công tùy thích. 
+Cái giá cho việc thưởng thức nụ cười của con khỉ đột sẽ là việc người sử dụng máy tính chuyển giao vào tay tin tặc những thông tin giúp chúng khống chế PC từ xa, Graham Cluley, cố vấn công nghệ của Sophos, phát biểu. Chuyên gia này cho rằng Wurmark.K và Rbot.ABK là những bằng chứng cho thấy xu hướng ngày càng gia tăng các phần mềm do thám trên những hệ thống kém bảo vệ, cả ở gia đình và doanh nghiệp.
+Phiên bản Wurmark.F trước đây sử dụng hình ảnh mặt một người đàn ông cũngcực kỳ dị hợm.
+

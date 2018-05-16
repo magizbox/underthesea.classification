@@ -1,0 +1,12 @@
+ Windows Vista, vẫn là một “hồi còi dài” của Microsoft…
+Một số tính năng đáng chú ý của Windows Vista được giới thiệu có thể kể đến như khả năng cho hình ảnh 3 chiều của cửa sổ chương trình, khả năng làm việc cộng tác trong môi trường không dây, khả năng chia sẻ tập tin trực tuyến và công cụ nhận dạng chữ viết được tích hợp. 
+Đối với các nhà quản trị công nghệ thông tin, Vista ấn tượng với khả năng tạo ảnh đĩa, giúp cho việc cài đặt Windows Vista được dễ dàng và nhanh chóng trong môi trường mạng. 
+Được quan tâm nhiều nhất là khả năng bảo mật. Windows Vista tự động cảnh báo người dùng về những trang web lừa đảo hay những website có chứa các đoạn mã độc. 
+Nghe thì có vẻ rất lý thú, tuy nhiên tất cả vẫn còn phải chờ sự chào đời thật sự của Windows Vista để minh chứng. 
+Những thử thách 
+Đối với phần đông các nhà phân tích, việc Microsoft nhấn mạnh vào khả năng bảo mật của Windows Vista là điều không có gì đáng phải ngạc nhiên. Microsoft có những phần mềm được sử dụng rộng rãi trong cộng đồng công nghệ thông tin và người tiêu dùng. Đó là một trong những nguyên nhân khiến phần mềm của Microsoft nổi tiếng có độ bảo mật kém. 
+Tuy đã có rất nhiều cải tiến, tuy nhiên Windows Vista vẫn còn nhiều vấn đề cần giải quyết về bảo mật. Như trong một cảnh báo gần đây, cách mà Vista quản lý các tập tin meta có thể dẫn đến những rò rỉ về thông tin cá nhân của người dùng. 
+Microsoft đã phát hành một công cụ để xóa các tập tin meta được tạo ra bởi Windows, tuy nhiên, điều này chưa làm vừa lòng các chuyên gia bảo mật. 
+Phiên bản mở rộng có đầy đủ các tính năng sẽ được đưa ra thử trong lần cập nhật kế tiếp của Community Technical Preview, theo như dự kiến là vào cuối tháng ba. 
+Phiên bản hiện đang thử nghiệm hiện tại nổi cộm với các vấn đề về tương thích phần cứng, một số lỗi nhỏ trong giao diện người dùng và việc hoạt động chậm chạp trong các cấu hình máy hơi yếu. 
+

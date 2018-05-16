@@ -1,0 +1,6 @@
+Châu Âu dùng grid tạo siêu máy tính
+4 viện nghiên cứu tại khu vực này vừa kết nối thành công các supercomputer của họ với nhau để tạo ra cỗ máy điện toán mạnh hàng thứ 4 trên thế giới mà không cần bỏ tiền để xây dựng như thông thường.
+Bằng cách liên kết thông qua một mạng cao tốc và phần mềm thông minh, 4 chiếc siêu máy tính đơn lẻ có thể hoạt động như một. Theo Victor Allesandrini, Giám đốc Viện IDRIS (Pháp), hệ thống được tạo ra từ sự kết hợp này - được gọi là megacomputer - sẽ cho phép các nhà khoa học tại 4 viện nghiên cứu tham gia dự án thực hiện những nghiên cứu mà bình thường không thực hiện được với một máy. 
+Allesandrini cho biết mạng lưới 4 cỗ máy nói trên sẽ sẵn sàng hoạt động vào đầu năm tới. Bên cạnh Viện IDRIS của Pháp, các cơ quan nghiên cứu tham gia dự án siêu điện toán lưới nói trên bao gồm Trung tâm nghiên cứu Juelich và Viện vật lý plasma Max-Planck của Đức cùng với Viện liên hợp Consorzio của Italy.
+Vào giữa năm tới, hệ thống sẽ có thêm sự tham gia của hai viện EPCC và ECMWF (Anh), CSC (Phần Lan) và SARA (Hà Lan). Nếu sức mạnh của mạng máy grid này được coi là một cỗ máy đơn nhất thì nó sẽ chỉ xếp sau các siêu máy tính Blue Gene/L, Columbia và Earth Simulator.
+

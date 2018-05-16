@@ -1,0 +1,7 @@
+Sắp có dịch vụ VSAT băng rộng
+Công ty Viễn thông quốc tế (VTI) dự kiến sẽ triển khai dịch vụ VSAT băng rộng vào tháng 1/2005 với mức cước thuê và bảo dưỡng khoảng 300.000 đồng/trạm/tháng.
+Dịch vụ VSAT băng rộng đa dạng tích hợp trên một mạng, một thiết bị đầu cuối với tốc độ truy cập cao, trạm đầu cuối nhỏ gọn, nguồn tiêu thụ ít... sẽ đáp ứng được những thuê bao truy cập Internet sử dụng tải lớn 2Mbps/512Kbps, tải trung bình 1Mbps/256Kbps, và tải nhỏ 256Kbps/128Kbps thay vì mức 128 Kbps/64Kbps như hiện nay.
+Ngoài ra dịch vụ VSAT băng rộng còn góp phần hỗ trợ việc triển khai mục tiêu đưa điện thoại về 100% xã, đưa Internet về vùng sâu của Tổng công ty bưu chính Việt Nam (VNPT) với các dịch vụ hiện đại dựa trên nền IP bổ sung, thay thế các mạng nội địa để đáp ứng kịp thời việc cung cấp dịch vụ cho mọi đối tượng khách hàng.
+Hiện Việt Nam có hai mạng VSAT đang hoạt động là VSAT SCPC/DAMA và VSAT TDM/TDMA do VTI vận hành khai thác. Hai mạng trên đang cung cấp chủ yếu các dịch vụ thoại, fax, truyền số liệu tốc độ thấp, các dịch vụ truy cập mạng Internet, thiết lập mạng dùng riêng với tốc độ upload đạt 63 Kbps, download tối đa là 128 Kbps. 
+Để đáp ứng nhu cầu sử dụng ngày càng cao của khách hàng với các dịch vụ như: truy cập Internet băng rộng, kênh thuê riêng/mạng riêng ảo, thoại trên nền IP, kết nối mạng nội bộ, truyền hình hội nghị, truyền hình theo yêu cầu từ xa ... thì năng lực của hai mạng VSAT băng rộng là giải pháp mà VTI sẽ triển khai thực hiện.
+

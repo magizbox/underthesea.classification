@@ -1,0 +1,6 @@
+Tách nhạc trong DVD ra khỏi phần hình ảnh (1)
+Tôi có một số dĩa nhac DVD rất hay, nay tôi muốn tách phần nhạc và lời ra khỏi phần hình ảnh để thâu vô dĩa CD dưới dạng Wave, vậy tôi cần phải có sorfware gì và làm thế nào để xử dụng. Mong các bạn hướng dẫn. Cám ơn.
+Trần Minh
+Hồi âm:
+Ban dung Software DVD Audio Ripper MP3 la co the chuyen nhac tu DVD qua MP3.. Sau do dung cac Burn Program nhu NERO de chuyen sang WAWE.
+

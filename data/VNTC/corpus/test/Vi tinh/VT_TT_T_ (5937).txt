@@ -1,0 +1,5 @@
+ Microsoft làm cách mạng với Office 12
+Thay đổi quan trọng chính của Office 12 là giao diện được thay đổi hoàn toàn và dựa trên nền tảng công việc phải làm (task oriented). Việc định dạng một văn bản, thay vì phải trải qua hai hoặc ba lần nhấp chuột, giờ đây có thể được đơn giản hóa bằng một lần nhấp chuột duy nhất. Các thanh công cụ sẽ được đơn giản hóa hơn nữa với giao diện tương đối đẹp mắt (và hiển nhiên đòi hỏi cấu hình máy phải cao hơn). Ngoài ra, giao diện của Word, Excel, Access hay Power Point đều có chung một cách bố trí. 
+Dưới mỗi cửa sổ đều có thanh trượt (slider bar) giúp cho việc phóng to và thu nhỏ dễ dàng hơn. Đồng thời người sử dụng có thể theo dõi nhiều văn bản khác nhau dễ dàng hơn với việc sắp xếp các văn bản theo kiểu xếp tầng (tính năng này cũng được áp dụng cho Internet Explorer 7). 
+Dự kiến trình làng vào nửa cuối năm 2006, các chuyên gia nhận xét Office 12 là sản phẩm “câu khách” của Microsoft, giúp “cây đinh của tập đoàn” Windows Vista được chú ý nhiều hơn nữa và sẽ được phổ biến rộng rãi hơn. 
+

@@ -1,0 +1,8 @@
+Ngừng dịch vụ e-mail các PC gửi thư rác
+Những người dùng cho phép máy tính nhiễm virus của họ gửi spam có thể sẽ bị cấm gửi và nhận thư điện tử. Đề xuất này do 6 nhà cung cấp dịch vụ e-mail lớn nhất thế giới đưa ra hôm qua. 
+Hiện nay, spam chiếm tới 83% lưu lượng e-mail. Các nhà cung cấp dịch vụ Internet cho biết những bức thư không mời mà đến này gây thiệt hại hàng tỷ USD mỗi năm vì làm tốn băng thông, giảm doanh số quảng cáo hợp pháp và các dịch vụ bổ sung. 
+6 đại gia trong lĩnh vực cung cấp dịch vụ thư điện tử tham gia sáng kiến gồm có: America Online, Yahoo, EarthLink, Microsoft, Comcast và BT Group.
+Hầu hết các khuyến nghị do nhóm đưa ra đều nhằm tìm cách lấp đầy lỗ hổng mà những kẻ gửi thư rác lợi dụng để giấu diếm hành tung. Theo đó, các công ty Internet cần đảm bảo thiết bị của họ đủ an toàn để spam không thể ký sinh. Các lỗ hổng bảo mật trong các dạng e-mail trên web và dịch vụ lái tên miền được sử dụng trong kiểm soát quảng cáo trực tuyến cũng cần được bịt lại.
+Mặc dù vậy, nhóm cũng đề nghị, cần quy trách nhiệm cho người tiêu dùng nếu máy tính của họ bị spammer khai thác. Trong năm ngoái, hàng loạt virus đã cho phép những kẻ gửi thư rác chiếm quyền điều khiển PC của nạn nhân rồi từ đó gửi đi các thư quảng cáo cho những địa chỉ liên lạc có trong hộp thư. Sắp tới, có thể những nhà cung cấp dịch vụ Internet sẽ cắt những máy tính bị lây nhiễm khỏi hệ thống cho tới khi chúng được "vệ sinh" sạch sẽ.
+Số lượng e-mail gửi đi có thể sẽ bị giới hạn còn 100 thư mỗi giờ hoặc 500 bức mỗi ngày, nhằm ngăn chặn spammer lái hàng triệu thư điện tử qua máy tính của người dùng. 
+

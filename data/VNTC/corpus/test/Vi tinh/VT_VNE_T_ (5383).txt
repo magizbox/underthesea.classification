@@ -1,0 +1,6 @@
+Điện thoại camera giúp nhận dạng người quen
+Không chỉ cho biết người sử dụng đang ở đâu, lúc mấy giờ và ai đang đi với họ, thiết bị còn hỗ trợ sắp xếp album ảnh số bằng cách tự động xác định và phân loại những người xuất hiện trong tấm ảnh.
+Ý tưởng này đang được chuyên gia Marc Davis thuộc viện nghiên cứu Berkeley của Yahoo ở California (Mỹ) phát triển. Một máy chủ trung tâm sẽ nhận những thông tin chi tiết được gửi đến từ điện thoại mỗi khi bức ảnh được chụp, như chi tiết về những ăngten điện thoại gần nhất, tín hiệu cuộc gọi và thời gian chụp..
+Hệ thống cũng tìm kiếm những chiếc điện thoại Bluetooth khác đang hoạt động trong tầm phủ sóng, kết hợp nó với thông tin về thời gian và địa điểm, nhằm tạo nên một danh sách về những người xuất hiện trong ảnh. Sử dụng thuật toán nhận dạng khuôn mặt, điện thoại sẽ biết được đó có phải người quen hay không.
+Phần mềm nhận dạng khuôn mặt tự nó đã có khả năng xác định với độ chính xác 43% từ những bức ảnh chụp bằng điện thoại camera. Nhưng trong thử nghiệm của nhóm phát triển do Davis đứng đầu, khi kết hợp với chi tiết về khu vực, thời gian..., độ chính xác tăng lên tới 60%. Thông tin về hoàn cảnh chụp ảnh cũng có thể được kết hợp cùng phần mềm nhận dạng hình ảnh để nhận biết những địa điểm quen thuộc trong tấm ảnh.
+

@@ -1,0 +1,8 @@
+ Nhận dạng giọng nói hỗ trợ giao dịch qua điện thoại Ứng dụng xác thực giọng nói chiếm nhiều ưu thế hơn những công nghệ sinh trắc học khác.
+Nó không đòi hỏi phần cứng để quét hình ảnh như nhận dạng vân tay hoặc tròng mắt và có thể hoạt động từ xa. 
+Đa số những phần mềm nhận dạng giọng nói tại các ngân hàng hiện nay hoạt động theo phương thức: nếu bất cứ ai đọc đúng mã PIN và số tài khoản, họ sẽ được phép truy cập vào hệ thống. 
+Tuy nhiên, biện pháp này không an toàn do tình trạng mất cắp hoặc quên số PIN ngày càng tăng. 
+Vance Harris, Giám đốc điều hành công ty bảo mật sinh trắc học Surrey (Anh), cho biết công nghệ Voice Vault của họ chỉ yêu cầu người sử dụng nhớ một lượng nhỏ thông tin như tên, ngày sinh và mật khẩu thông thường. Thay vào đó, hệ thống chủ yếu dựa vào chính giọng nói của mỗi cá nhân để xác thực. 
+Đầu tiên, mọi người "đăng ký" giọng nói và Voice Vault sẽ lưu lại dưới dạng biểu đồ. Mỗi khi có người muốn truy cập tài khoản qua điện thoại, hệ thống của Surrey không chỉ kiểm tra mật khẩu mà còn đối chiếu xem mô hình sóng âm có phù hợp với dữ liệu trong tài khoản không. 
+Theo Harris, trong tương lai, mọi người chỉ cần gọi điện tới ngân hàng và đơn giản hỏi: "Tôi muốn đăng nhập tài khoản". Khi đó, chương trình sẽ lập tức biết họ là ai và họ không cần phải nêu tên hay đọc bất cứ thông tin gì khác. Surrey hiện đã thu hút được một số ngân hàng lớn ở châu Âu và dự định triển khai hệ thống vào tháng 12 tới. 
+

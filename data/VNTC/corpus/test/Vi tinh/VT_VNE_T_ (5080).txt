@@ -1,0 +1,12 @@
+Intel đối mặt với tình trạng khan hiếm chip
+Trong nhiều tháng qua, hãng sản xuất thiết bị xử lý đã phải xoay sở với việc thiếu chipset cho máy tính xách tay trên thị trường. Cho đến thời điểm này, tình hình vẫn chưa có nhiều thay đổi.
+Vấn đề này bắt đầu diễn ra từ mùa hè vừa qua. Khi đó, Intel tuyên bố chuyển trọng tâm sản xuất sang dòng sản phẩm cho desktop chất lượng cao. Giới quan sát cho rằng hãng đang dần rút khỏi thị trường chipset cấp thấp.
+Andy Bryant, Giám đốc tài chính của Intel, khẳng định công ty đã "bán hết" chipset cho máy tính xách tay từ tháng 9 và sự thiếu hụt này sẽ tiếp tục kéo dài "một khoảng thời gian tương đối nữa trong nửa đầu 2006", đúng vào thời điểm Intel phát hành chipset 945M, một thành phần then chốt của Napa, nền tảng Centrino thế hệ 3
+Intel cũng lên kế hoạch ra mắt Broadwater cho máy để bàn thế hệ mới vào quý II/2006.
+Chipset của Intel được thiết kế trên tấm kim loại 200 mm. Tập đoàn hy vọng sẽ sản xuất trên bộ 300 mm vào quý II/2006. Năm tới, hãng dự định cung cấp chipset trong gói platform thay vì bán từng chip riêng rẽ.
+Hãng nghiên cứu thị trường iSuppli (Mỹ) cũng vừa công bố bảng xếp hạng 25 công ty bán dẫn hàng đầu thế giới về doanh thu. Intel vẫn duy trì ngôi vị đầu bảng và nới rộng khoảng cách xa so với các đối thủ.
+Tuy nhiên, tốc độ tăng trưởng của Intel chỉ xếp thứ tư với 14,4%. Ba công ty đạt mức phát triển "thần kỳ" là IBM 30% (hạng 18), Hynix 18,5% (12) và Nvidia 22,5%, đứng ở vị trí 24, trên ATI (25).
+Intel đã thu về 35,8 tỷ USD, tăng 4,5 tỷ so với một năm trước đây. Ngược lại, Samsung chỉ đạt 8,5% với lợi nhuận 17,1 tỷ USD nhưng vẫn giành ngôi á quân. Đây là một bước lùi vì năm ngoái hãng điện tử Hàn Quốc đã thâu tóm một phần đáng kể thị trường của Intel.
+AMD cũng phát triển mạnh trong gần 12 tháng qua với tốc độ 11,8%, đạt doanh thu 5,7 tỷ USD và đứng thứ 9.
+Xem bảng xếp hạng chi tiếttại đây.
+

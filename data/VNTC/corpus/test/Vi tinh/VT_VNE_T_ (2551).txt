@@ -1,0 +1,8 @@
+Đào tạo miễn phí kiểm soát chất lượng phần mềm 
+Khóa học về công cụ kiểm soát chất lượng phần mềm do HanoiCTT và VietRose.org tổ chức nhằm trang bị kiến thức, tăng cường việc trao đổi giữa những người thiết kế phần mềm chuyên nghiệp thuộc công ty, tổ chức sản xuất phần mềm.
+Chương trình đào tạo bắt đầu sáng nay tại Học viện công nghệ thông tin HanoiCTT với nội dung chính gồm: Kiến thức về các công cụ kiểm soát chất lượng, thành phần của một quy trình phát triển phần mềm theo hướng chuyên nghiệp, công nghiệp, trao đổi các kinh nghiệm thực tế về áp dụng các phương pháp, công cụ này tại các đơn vị đã có thời gian sử dụng với các đơn vị chưa áp dụng.
+Có khoảng 50 học viên tham gia khóa học là những trưởng nhóm phần mềm, quản trị viên dự án, kiểm soát chất lượng từ các đơn vị sản xuất phần mềm chuyên nghiệp.
+Ông Bùi Trường Sơn, đại diện VietRose - diễn đàn của các chuyên gia thiết kế phần mềm VN - cho biết: "Sự kiện này là hoạt động có tính liên tục và sẽ ngày càng mở rộng. Nó có ý nghĩa thiết thực khi vấn đề thiếu nguồn nhân lực công nghệ thông tin đang trở nên cấp bách".
+Cũng trong tháng 4 này, HanoiCTT và VietRose.org sẽ triển khai chương trình đào tạo toàn diện về thiết kế kiến trúc phần mềm dành cho học viên có trên 2 năm kinh nghiệm trong lĩnh vực này.
+Khóa học có 40 giờ lên lớp bao gồm cả phần lý thuyết và thực hành. Nội dung chương trình được thiết kế biên soạn dựa trên phương pháp phân tích, thiết kế phần mềm hướng đối tượng (OOAD) sử dụng công cụ của IBM Rational do các chuyên gia công nghệ thông tin của VietRose.org đảm nhiệm.
+

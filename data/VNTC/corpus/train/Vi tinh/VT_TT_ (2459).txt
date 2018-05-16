@@ -1,0 +1,7 @@
+ Laptop = 2000 USD phần cứng + 1 triệu USD dữ liệu
+Symantec cho biết rằng 78% số người dùng máy xách tay tại châu Âu, Trung Đông và châu Phi thừa nhận rằng hầu hết mọi dữ liệu về tình hình tài chính, tải sản, đầu tư và mọi thông tin nhạy cảm của bản thân và gia đình… đều được chứa “tuốt tuồn tuột” trong chiếc máy xách tay mà họ thường đem theo mình. 
+Giá trị thương mại của các thông tin này đã đạt đến trên 1 triệu USD. Một số người tham gia cuộc nghiên cứu cho rằng giá trị thông tin trong máy xách tay của họ có thể lên đến trên 5 triệu USD. 
+Cuộc nghiên cứu đã chỉ ra “tệ nạn” rằng có đến 42% số công ty đã tự động sao lưu mọi e-mail của nhân viên vào các máy xách tay của công ty, 45% số các công ty thường cho mọi dữ liệu sao lưu đi “lang thang” ngoài đường ở nhiều máy xách tay của các nhân viên cao cấp. 
+80% số nhân viên các công ty đều “ngây thơ” cho rằng mọi e-mail và dữ liệu cá nhân của mình đều được cấp trên bảo toàn cẩn mật, nhưng thực chất những người có trách nhiệm bảo quản thông tin cá nhân và tài chính cũng những người khác cũng tỏ ra bất cẩn thường xuyên. 
+Lindsey Armstrong, phó chủ tịch của Symantec cho biết rằng có rất ít công ty có các biện pháp bảo quản máy xách tay theo kiểu “kỷ luật quân sự” và đa số mọi người đều chỉ quan tâm đến giá trị phần cứng của chiếc máy xách tay mà mình mang theo chứ ít ý thức về giá trị “kinh hoàng” của mọi dữ liệu nhạy cảm chứa trong đó. 
+

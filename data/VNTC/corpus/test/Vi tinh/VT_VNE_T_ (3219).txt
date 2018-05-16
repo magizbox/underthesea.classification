@@ -1,0 +1,6 @@
+Lỗi màn hình khi shutdown (1)
+Màn hình của tôi, khoảng tuần nay, khi tắt máy là hiện lên màn hình co 1 màu trắng, chuyển qua đỏ, xanh đậm, xanh nhạt....Trên nền màu đó có dòng chữ: FACTORY BURN - IN. Và dòng ở dưới lại có dòng số như sau: 31KHz 60KHz; dòng số này thay đổi theo màu nền và có khi là 48 - 72.; còn ở dưới có thêm số dếm thời gian như sau; 01:01:06. số chỉ về giây và phút sẽ thay đổi theo thời gian. Tôi sợ hư máy, vì thế chỉ sau thời gian ngắn là tắt diện nguồn luôn. Xin quý vị hướng dẫn cách khắc phục. Hiện máy đang dùng Win XP sp 1. Tôi tưởng do lỗi của hệ điều hành nên đã cài lại rồi nhưng vẫn bị như thường. Chân thành cám ơn quý vị. Chúc sức khoẻ luôn dồi dào cho quý vị.
+Nguyen Cong Hoang
+Hồi âm:
+Lôi nay thương la do tân sô quet cua man hinh. Hay thư đăt lai tân sô quet cua man hinh. Bât chuôt phai vao man hinh nên chon properties-settings- advanced-monitor-chinh screen rate tăng lên. Hoăc trong menu điêu khiên cua cac chương trinh driver cua card man hinh - điêu chinh vê gia tri thich hơp. 
+

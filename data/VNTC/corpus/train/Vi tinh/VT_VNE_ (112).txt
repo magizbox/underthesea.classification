@@ -1,0 +1,25 @@
+Làm đoạn film như trên truyền hình (1)
+Tôi thấy trên truyền hình trước khi vào chương trình thời sự hoăc một vài chương trình khác thường có đoạn phim ghép nhiều hình đan xen nhau kèm theo nhạc hiệu. Tôi muốn làm được như vậy thì phải cần những thiết bị nào và sử dụng chương trình nào để làm được. Rất mong các bạn chỉ giúp. Tôi xin chân thành cảm ơn.
+Phạm Tân
+Hồi âm:
+Thiet bi can co: 
+1-System: 
+-CPU speed : 2Ghz/400/800 FSB and up 
+-RAM: 512 DDR 2700 333Mhz/400 and up 
+-Graphics Card : 64 MB and Up -FireWire/IEE1394 Card hoac Analog Video Capture Card 
+-1 Digital Camcorder 
+-1 Digital Camera 
+-Windows 2000/XP recommemded -DVD/CD-RW 
+2-Software: 
+-Pinnacle Studio SE 8 hoac 9 
+-Hollywood FX Plus/ Pro 
+-Easy editor 
+-Pinnacle Titledeko/for studio và Adobe Premiere 
+-Adobe Photoshop/ và Image ready... 
+-Mot bo suu tap manh ve hinh anh/ background, animator 
+-Ulead 3D Cool production 3.5 
+-Can nhieu trinh xu ly doan phim 
+-Mot bo suu tap ve nhac MIDI/MP3/CDA. 
+Ngoai ra, ban can co kien thuc ve xu ly phim anh, do hoa... va la nguoi co nang khieu ve xay dung phim. Chuc ban thanh cong. 
+Duc Truong
+

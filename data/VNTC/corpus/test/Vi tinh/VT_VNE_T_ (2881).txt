@@ -1,0 +1,6 @@
+Mozilla sớm có bản vá lỗi Firefox 1.0.4
+Chiều qua, 11/06, tổ chức phần mềm nguồn mở này đã công bố phiên bản nâng cấp tạm thời cho hai lỗi bảo mật của Firefox xảy ra vào cuối tuần trước.
+Phiên bản cho Windows, Mac và Linux của Firefox 1.0.4 có thể được tải từ máy chủ Firefox FTP.
+Tương tự ba lần nâng cấp trước cùng phát hành trong năm nay, 1.0.4 không có bất cứ cải tiến gì mà chỉ là bản vá lỗi bảo mật liên quan đến mã script tạo điều kiện cho những kẻ tấn công kiểm soát máy tính chạy Firefox. 
+Phiên bản mới ra mắt chưa đầy một tuần sau khi lỗi trình duyệt được phát hiện. Điều này dập tắt ý kiến cho rằng ứng dụng nguồn mở như Firefox thường không được sửa chữa nhanh chóng như những phiên bản đã được đăng ký bản quyền. Tuy nhiên đây chỉ là phiên bản tạm thời, bản Firefox 1.0.4 sẽ chính thức có mặt vào cuối tuần này.
+

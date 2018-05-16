@@ -1,0 +1,8 @@
+Kỹ thuật test nhanh hóa chất tại hiện trường vụ án
+Một kỹ thuật mới có thể dựng lại các hóa chất như ma túy hay thuốc nổ vương trên hiện trường sẽ cho phép các chuyên gia pháp y đưa ra câu trả lời với cảnh sát chỉ trong vài phút, mà không cần đưa mẫu đến phòng thí nghiệm. 
+Kỹ thuật test mới, do Graham Cooks và cộng sự tại Đại học Purdue, West Lafayette, Indiana (Mỹ), phát triển. Theo đó, người ta sẽ phun một tia nước tích điện cực nhỏ vào một bề mặt và thu thập các phân tử ion hóa bị bắn ra. Phần thu được sau đó được đổ trực tiếp vào một quang phổ kế lớn, thiết bị này sẽ xác định các phân tử ion hóa dựa trên tỷ lệ giữa kích cỡ và điện tích của chúng.
+"Lợi thế lớn là bạn có thể lấy mẫu nhiều hoặc ít chỉ với sự chuẩn bị rất nhỏ", Jim Carter, Giám đốc bộ phận nghiên cứu của Công ty Mass Spec Analytical Ltd, tại Anh, nơi thực hiện các phân tích pháp y, cho biết.
+Nhờ ưu điểm có thể phân tích ngay tại chỗ, kỹ thuật mới có tiềm năng ứng dụng rất lớn. Chẳng hạn, nó có thể quét qua các túi hành lý ở sân bay để kiểm tra dấu vết các chất nổ, hoặc kiểm nghiệm chất lượng thuốc. Một ngày nào đó, nó cũng có thể được dùng trong phân tích hóa chất trên da hoặc quần áo của người mà người đó không hề biết.
+Các giọt nước có đường kính chỉ vài micromét, bay với tốc độ khoảng 350 mét/giây. Vì quá nhỏ, nên chúng không gây hư hại gì với các bề mặt. "Giống như một đám hơi từ một bình phun sương, bạn hầu như chẳng cảm thấy gì cả", Cooks nói.
+Trong các phương pháp quang phổ kế truyền thống, người ta sẽ lấy một tấm gạc và cho bay hơi chất thấm trên đó ở nhiệt độ hơn 250 độ C. Một cách khác, họ hòa tan các chất ô nhiễm từ tấm gạc vào dung dịch và dùng một điện trường để trích ra một dòng các giọt nước tích điện tý hon.
+

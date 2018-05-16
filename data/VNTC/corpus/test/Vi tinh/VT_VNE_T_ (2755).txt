@@ -1,0 +1,8 @@
+Phương cách sử dụng một máy in mạng
+Có thể nhiều người chưa hình dung được việc cài đặt máy in từ mạng. Bài viết này sẽ cung cấp cái nhìn tổng quát khi sử dụng máy in chung trong một mạng LAN từ tài khoản cá nhân.
+Lấy ví dụ Windows XP, từ menu Start Printers and Faxes. Sau đó chọn vào Add a Printer. Sau đó, nhấn Next. Tiếp theo cần lưu ý đánh dấu chọn vào A network Printer... Nhấn next để tiếp tục.
+Thông thường, máy in nếu như để trong một thư mục share thì chọn tiếp vào Find a printer in the directory... nhấn next để tiếp tục.
+Lúc này, thủ thuật đã hoàn tất 50%. Hãy bấm vào nút Find Now, nếu muốn chọn chính xác máy in cần chia sẻ. Sau đó, nhấn vào ok để hoàn tất.
+Bước tiếp theo, cần chọn Yes nếu muốn set đó là máy in mặc định, ngược lại là No. Nhấn Finish để hoàn tất. Sau này, nếu có máy in dự phòng khi máy in chính bị hỏng, người sử dụng có thể thiết lập lại tương tự như trên. Nếu như muốn delete printer để thêm một máy in mới, một cách tương tự chọn delete printer. Nhấn OK hoàn tất.
+(theo Tin Học  Đời Sống)
+

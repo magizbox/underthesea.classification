@@ -1,0 +1,6 @@
+Tra thành ngữ bằng điện thoại di động
+Hai học sinh Singapore đã sáng tạo ra một chương trình cài trong điện thoại có thể giúp người sử dụng tra các thành ngữ bằng tiếng Trung Quốc thuộc các chủ đề khác nhau. Sản phẩm này có thể giúp học sinh giải quyết các bài luận Trung Quốc hóc búa.
+Chương trình dành cho điện thoại di động đã giành được giải thưởng trong cuộc thi do Trung tâm Java Wireless Competency tổ chức. Trung tâm là sự hợp tác giữa Infocomm Development Authority tại Singapore, Sun Microsystems và viện nghiên cứu thuộc Đại học Quốc gia Singapore.
+Học sinh đưa vào 1 hoặc 2 từ khoá, bằng tiếng Anh hoặc Trung Quốc, thuộc chủ đề của câu thành ngữ. Chiếc máy sẽ cho ra mỗi câu tục ngữ kèm theo giải thích và ví dụ sử dụng.
+Nhiều sinh viên nhận xét sáng kiến này sẽ giúp đỡ rất nhiều trong việc viết văn. "Nhiều khi câu tục ngữ ở trong đầu nhưng tôi không thể nào viết ra chính xác", Melody Tang 15 tuổi phát biểu.
+

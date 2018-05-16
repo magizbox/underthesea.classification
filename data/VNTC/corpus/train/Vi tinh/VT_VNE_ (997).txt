@@ -1,0 +1,6 @@
+Lỗi về Window Media Player (1)
+Tôi đang dùng WINXP nhưng biết vì sao khi click vào Window Media Player thi cứ báo lỗi là "An internal Application is corrupt"Làm ơn giúp tôi khắc phục lỗi này.
+Phan Khắc Lê Khoa
+Hồi âm:
+Cách đơn giản nhất là bạn download windows media player phiên bản mới nhất 10 final trên trang của microsoft về cài đè lên là giải quyết ổn thỏa. Chúc thành công.
+

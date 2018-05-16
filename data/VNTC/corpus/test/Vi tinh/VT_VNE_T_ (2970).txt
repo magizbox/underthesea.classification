@@ -1,0 +1,6 @@
+Juniper Networks giới thiệu mạng Infranet doanh nghiệp
+Enterprise Infranet là mô hình kiến trúc cho bảo mật và triển khai các ứng dụng, dịch vụ khác nhau trong hệ thống mạng doanh nghiệp. Cấu trúc này tạo ra một cơ sở hạ tầng dựa trên nền IP, giúp giải quyết những thách thức lớn mà các nhà quản trị mạng đang phải đối mặt. 
+Theo ông Hà Huy Hào, Tổng giám đốc Juniper Networks Việt Nam, Enterprise Infranet kết hợp sự thông minh của mạng, ứng dụng và điểm cuối (endpoint) để cung cấp khả năng điều khiển cần thiết hỗ trợ cho những ứng dụng mạng có nhu cầu ngày càng lớn hiện nay. Nó có khả năng quản trị việc sử dụng mạng, giảm bớt những mối đe dọa mà không yêu cầu nâng cấp về kỹ thuật. 
+Phương pháp của Enterprise Infranet là tạo ra một lớp dịch vụ trên hệ thống mạng sẵn có. Lớp dịch vụ này sử dụng chính sách kết hợp sự thông minh của các lớp điểm cuối, ứng dụng và mạng nhằm tạo ra những cấp độ kiểm soát tập trung ở 3 khu vực chính là quản lý triển khai, quản lý sử dụng và kiểm soát những mối đe dọa.
+Mạng Enterprise Infranet sử dụng những giao thức chuẩn và các Hệ giao tiếp lập trình ứng dụng (APIs) mở nên không đòi hỏi phải nâng cấp lớn cơ sở hạ tầng. 
+

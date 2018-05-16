@@ -1,0 +1,5 @@
+SCO sờ gáy Google về bản quyền Linux
+Sau khi làm tình làm tội IBM, hôm qua, SCO bắt đầu chĩa mũi dùi sang hãng tìm kiếm số một thế giới. Giới chức SCO cho biết họ đã có một cuộc nói chuyện nhỏ với Google về các thỏa thuận bản quyền.
+Google từ lâu đã khai thác công nghệ Linux để vận hành cỗ máy tìm kiếm. SCO thì khăng khăng nhiều phần Linux sao chép từ hệ điều hành Unix của họ. Do đó, nếu Google sử dụng 10.000 máy chủ Linux có sở hữu trí tuệ của chúng tôi thì họ sẽ phải đăng ký bản quyền, Blake Stowell, phát ngôn viên của SCO khẳng định.Gần đây, SCO đã kiện IBM rồi gửi thư cảnh cáo tới hàng loạt công ty có dùng Linux. Sự vụ căng thẳng đến mức cha đẻ của phần mềm nguồn mở là Linus Torvalds đã phải lên tiếng bảo vệ đứa con tinh thần của mình.
+Chính tay tôi đã viết chúng. Chúng tệ đến mức tôi sẽ xấu hổ chẳng dám nói ra nếu không có ai đó tự nhiên nhận chúng là của họ, Linus Torvalds khẳng định trong một e-mail về các đoạn mã mà SCO cho là Linux trộm của Unix. Ông này kết thúc bức mail bằng biểu tượng ;) hài hước.
+

@@ -1,0 +1,11 @@
+Tin vắn ngày 6/12
+NEC cung cấp máy tính tích hợp công nghệ nhận dạng vân tay IBM tổ chức chuỗi hội thảo Kỹ thuật cho cộng đồng đại học và doanh nghiệp Công ty VDC hợp tác cùng doanh nghiệp WiCAM (Campuchia).
+Hãng NEC vừa cho ra mắt chiếc máy tính xách tay Versa M350-Centrino FingerPrint tích hợp công nghệ nhận dạng vân tay (FingerPrint Technology) và chip bảo mật TPM. Người sử dụng sẽ lăn đầu ngón tay trên một bộ xử lý nhỏ để đăng ký. Mỗi khi muốn đăng nhập hay khóa thiết bị, họ chỉ cần lăn đầu ngón tay lên bộ xử lý là mở được máy. Sản phẩm này còn có bộ pin 8 cell hoạt động 5 giờ và màn hình 15 inch siêu sáng.
+Các dòng laptop của NEC được Công ty Phân phối FPT cung cấp với giá 1.449 USD.
+N.H.
+Công ty IBM Việt Nam sẽ tổ chức chuỗi hội thảo Kỹ thuật tại Đại học Bách khoa Hà Nội vào 6/12 và tại Đại học Khoa học Tự nhiên TP HCM vào 8/12. Tại đây, các diễn giả của IBM Pháp, Mỹ và Nhật sẽ chia sẻ kiến thức và kinh nghiệm về các ứng dụng của công nghệ tiên tiến kiến trúc hướng dịch vụ (Service Oriented Architecture - SOA) bao gồm: ví dụ thực tiễn trong sử dụng phương pháp luận SOA với hệ thống thực thi chế tạo IBM SiView (IBM SiView Manufacturing Execution System - MES), ứng dụng trong sản xuất và chế tạo.
+SOA là hướng tiếp cận bao gồm các chính sách, thực hành, khung giải pháp. Qua đó có thể đưa ra tập hợp tối ưu các dịch vụ web. 
+X.K.
+Công ty Điện toán và Truyền số liệu (VDC) vừa cùng Công ty WiCAM (Campuchia) ký thoả thuận kết nối kênh Internet quốc tế tốc độ cao. Dung lượng đường truyền VDC cung cấp cho WiCAM ban đầu là 2 MB/giây và tổng dung lượng đường truyền sẽ lên tới 6 MB/giây vào giữa năm 2006. 
+Hiện nay, với tổng dung lượng băng thông Internet quốc tế của VNPT (giao cho VDC quản lý) là gần 3 GB/giây, chiếm hơn 80% tổng dung lượng đi quốc tế của cả Việt Nam.
+

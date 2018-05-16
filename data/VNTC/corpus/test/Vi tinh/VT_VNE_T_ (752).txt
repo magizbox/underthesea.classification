@@ -1,0 +1,7 @@
+Dùng Mac trên PC?
+Một nhóm nghiên cứu mã mở vừa giới thiệu phần mềm có khả năng cạnh tranh với kiến trúc vi xử lý PowerPC. Công cụ có tên PearPC cho phép người sử dụng chạy Mac OS X và một số hệ điều hành Unix trên PC theo cơ chế x86 của Intel.
+Sử dụng PearPC trên một PC thông thường, các nhà phát triển cho biết họ đã thành công khi chạy phiên bản 10.3 của Mac OS X và một số hệ điều hành như OpenBSD cho PPC, NetBSD cho PPC, Darwin cho PPC và Mandrake Linux 9.1. PearPC có thể chuyển các lệnh PowerPC sang dạng lệnh x86 và ứng dụng khách (client) sẽ chạy với tốc độ chậm hơn ứng dụng chủ 40 lần.
+Hai nhà phát triển chính, Sebastian Biallas và Stefan Weyergraf, đang tìm cách kêu gọi thêm sự giúp đỡ của người khác để mở rộng dự án - được công bố trên website mã mở SourceForge trực thuộc Mạng phát triển nguồn mở OSDN. Tất nhiên, PearPC chưa đủ độ nhanh, ổn định và cần phải có nhiều cải tiến thêm nữa mới có thể triển khai diện rộng cho người sử dụng phổ thông.
+Ngoài PearPC, một dự án xúc tiến tương thích Mac/Windows khác có tên SoftPear cũng đang được tiến hành, với mục đích hỗ trợ các ứng dụng Mac OS X được thiết kế cho PowerPC có thể tương thích với CPU x86.
+Hầu hết những công nghệ chuyển đổi nền điện toán Mac/Windows hiện nay chủ yếu chỉ tập trung khai môi trường Windows PC trên phần cứng Mac - một xu hướng ngược với mục tiêu của dự án PearPC nói trên. Các sản phẩm thương mại như Virtual PC của Microsoft đang cạnh tranh với những dự án mã mở như Darwin (cho phép người dùng chạy môi trường WINE với các ứng dụng Windows trên hệ thống Darwin và Mac OS X).
+

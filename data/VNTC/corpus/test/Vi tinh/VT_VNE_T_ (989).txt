@@ -1,0 +1,6 @@
+Kết nối điện thoại Samsung E700 và máy vi tính (1)
+Tôi đã nhiều lần thử nhiều chương trình để kết nối máy tính và cái Samsung E700 .. ngay cả khi download phần mềm EasyStudio PIMS  File Manager của Samsung thì nó vẫn báo là không tìm ra phonebook. Vậy phonebook nó đòi hỏi là file gì ,ở đâu, hay là tìm ở đâu để có thể kiếm được một chương trình để kết nối đươc với máy điện thoại một cách hiệu quả nhất. tôi dùnh cổng hồng ngoại để kết nối, nên không biết có cần những điều kiện gì khi sử dụng nó hay không? Xin cảm ơn và mong được hồi âm của quí Bạn và Anh Chị.
+Lê Tấn Trung
+Hồi âm:
+Bạn dùng phần mềm EasyStudio PIMS  File Manager của Samsung là đúng rồi, nhưng để dùng cổng hồng ngoại để kết nối thì cần 2 điều quan trọng sau: 1. Bạn khởi động phần mềm xong chọn seting và chọn kiểu connect là dùng cổng hồng ngoại chứ không phải là serial port. 2. Bạn phải Activation cổng hồng ngoại ở điện thoại để computer có thể nhận biết điện thoại, lúc đó nó sẽ hiển thị ở bên dưới góc phải của computer. Nên nhớ trong vòng 60s nếu computer và mobile phone chưa connect được thì mobile phone sẽ tự động Deactivation. Mobile phone để càng gần laptop càng gần càng tốt (thường để góc bên phải của Laptop Sau khi connect thành công, bây giờ bạn có thể download phonebook vào computer và ngược lại, bạn cũng có thể send hình ảnh cũng như nhạc vào mobile phone. Chúc bạn thành công!
+

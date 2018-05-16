@@ -1,0 +1,14 @@
+EU trừng phạt Microsoft
+Hôm qua, Ủy ban châu Âu (EC) đã phê chuẩn hình phạt đối với Microsoft. Không khác với dự đoán, hãng phần mềm phải nộp phạt 497 triệu euro, đồng thời thay đổi một phần chiến lược làm ăn của mình.
+Với án phạt này, Ủy viên hội đồng cạnh tranh Mario Monti khẳng định, họ đã tái lập sự cạnh tranh bình đẳng trên thị trường phần mềm. Đáp lại tuyên bố sẽ kháng án của Microsoft, Monti cho biết ông tin rằng phán quyết sẽ đứng vững trước mọi kháng cáo. 
+AddVote(1000148932,0,133529894,'','Bạn nghĩ gì về hình phạt dành cho Microsoft?','#FF0000','#E8E8E8','100%',3, new Array(new Array('1. Quá hà khắc.',0,0),new Array('2. Rất xứng đáng.',0,1),new Array('3. Thế vẫn nhẹ.',0,2)),'',1)
+Ngoài tiền phạt, trong 90 ngày, Microsoft sẽ phải cung cấp một bản Windows không có MediaPlayer. Trong 120 ngày, họ phải tiết lộ mã phần mềm Windows, một điểm tranh cãi quyết liệt trong cuộc đàm phán giữa Monti và Steve Ballmer, Giám đốc điều hành Microsoft. 
+Dù vậy, án phạt sẽ không ảnh hưởng nhiều tới tiềm lực tài chính của Microsoft. Cổ đông của họ cũng chẳng mấy bất ngờ hay bị sốc. Trên thực tế, trong phiên giao dịch sớm hôm qua, cổ phiếu của hãng tăng 0,6%, đạt mức 24,29 USD tại New York. 
+Các đối thủ của Microsoft vui mừng ra mặt khi nghe tin này. Các hãng sản xuất nay sẽ có thể phát huy sự tự do của mình, Dave Stewart, luật sư của Realnetworks, phát biểu. 
+Về phía Microsoft, người phát ngôn Tom Brookes cho rằng giải pháp mà họ đề xuất tuần trước, theo đó hãng có thể cung cấp sản phẩm của đối thủ bên cạnh sản phẩm của mình, sẽ tốt hơn cho khách hàng châu Âu. Ông cũng khẳng định là dù sẽ kiện, họ vẫn tiếp tục hợp tác cùng EU. 
+Kháng án sẽ bắt đầu tại Tòa sơ thẩm Luxembourg. Nhưng trận chiến pháp lý chắc chắn sẽ còn dai dẳng và lan tới Tòa án tối cao châu Âu. 
+Microsoft đối mặt với án phạt kỷ lục(23/03/2004)
+Microsoft không còn đường lùi trước EC(19/03/2004)
+15 nước EU chống lại Microsoft(16/03/2004)
+Windows có thể không có Media Player tại châu Âu(04/03/2004)
+

@@ -1,0 +1,7 @@
+Microsoft chỉ hỗ trợ Windows XP hợp pháp
+Bắt đầu từ hôm qua, 26/7, khách hàng muốn nâng cấp tính năng mới cho Windows sẽ phải xác minh tính hợp pháp của phiên bản hệ điều hành, trước hết là XP, mà họ đang sử dụng.
+Ngoại lệ duy nhất là các chương trình sửa lỗ hổng bảo mật. Không cần biết hệ thống có qua được khâu kiểm duyệt hay không, bản vá lỗi vẫn hỗ trợ cho mọi người dùng Windows thông qua cơ chế tự động nâng cấp hoặc tải từ trang web của Microsoft. 
+Quyết định trên là một phần trong chương trình Windows Genuine Advantage với mục đích tăng số người sử dụng hệ điều hành hợp pháp. Tính đến nay, có tới gần 1/3 bản sao Windows trái phép trên toàn thế giới. Với thị phần phần mềm máy tính cá nhân chiếm trên 90%, việc không hỗ trợ tính năng cho phiên bản lậu là một trong nhiều biện pháp của Microsoft nhằm tăng cường doanh thu từ hệ điều hành. 
+Nếu không vượt qua được khâu kiểm tra trên, khách hàng vẫn có hai lựa chọn. Họ có thể gửi CD chứng minh đã mua chương trình Windows và điền vào bản báo tường trình cá nhân. Khi đó, họ sẽ có đủ tư cách để nhận một bản Windows hợp pháp mà không cần trả bất cứ một khoản nào. Với những ai không có CD hay biên bản chứng minh việc mua bán, nhưng vẫn điền vào bản kê khai tính hợp pháp sẽ phải trả phí 99 USD cho Windows XP Home và 149 USD cho Windows XP Professional.
+Microsoft đã thử nghiệm chương trình Windows Genuine từ tháng 9 năm ngoái. Hãng cũng cho biết đã có một vụ hack mà mã hợp pháp của người sử dụng hệ điều hành "xịn" đã bị tin tặc ăn cắp để sử dụng cho những bản sao trái phép của chúng. 
+

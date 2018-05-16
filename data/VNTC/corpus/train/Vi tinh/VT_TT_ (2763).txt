@@ -1,0 +1,7 @@
+ Fujisu-Siemens thu đổi pin máy xách tay bị lỗi
+Vào thứ tư 15-6, công ty đã đưa ra khuyến cáo khuyên khách hàng nên ngưng sử dụng ngay lập tức các máy xách tay có pin bị lỗi và tiến hành thu hồi hàng loạt loại pin này ở dòng máy xách tay Amilo và sẽ đổi lại miễn phí bằng pin mới cho mọi người dùng 
+Fujisu-Siemens cho biết đây là một lỗi nhỏ xuất hiện ở loại pin Lithium sạc lại nhiều lần có mã số pin kết thúc bằng G1L1 vốn đã được trang bị cho dòng máy xách tay Amilo A7640, A1640, M1405, M1424, M1425, M7405, M7424, M7425 và Pro V2020. Số loại pin có thể nhận ra ở giữa nhãn hiệu hoặc ở phía sau máy tính. 
+Fujisu-Siemens đã nhận được 4 báo cáo chính thức về hiện tượng “tỏa nhiệt quá mức” trong số khoảng 250.000 bộ pin được bán ra nhưng chưa có một thiệt hại nào xảy ra. 
+Vào tháng 5, Apple cũng đã tiến hành thu hồi 128.000 pin máy tính bị lỗi sau khi có 6 trường hợp báo cáo rằng pin đã nóng lên quá mức trong quá trình sử dụng. 
+Mọi thông tin liên quan đến việc thu đổi pin được Fujisu-Siemens đăng tải tại đây . 
+

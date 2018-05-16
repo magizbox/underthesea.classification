@@ -1,0 +1,8 @@
+Website bán mã Napster đóng cửa
+Địa chỉ của nhóm hacker mang tên Câu lạc bộ mã nguồn đã tự ngừng hoạt động sau khi tuyên bố rao bán mã nguồn của trang chia sẻ file nhạc và phần mềm an ninh Dragon IDS của hãng Enterasys. Lý do mà họ đưa ra là đang cơ cấu lại mô hình kinh doanh. 
+Hôm qua, website này được đổi tên thành Trang SCC cũ và nhóm Câu lạc bộ mã nguồn tuyên bố đã lên kế hoạch tái xuất nhưng cần điều chỉnh một số thứ để đảm bảo sự yên tâm cho những khách hàng mua mã nguồn ở đây.
+Một thông báo trên website viết: Bán những bí mật doanh nghiệp là công việc rất phức tạp nhưng chúng tôi tin rằng đây là một lĩnh vực mà mình có thể chinh phục. 
+Hãng phần mềm an ninh Enterasys đang tích cực phối hợp với FBI để điều tra thông tin trên trang web nọ. Tuy nhiên, Kevin Flanagan , đại diện của hãng, không cho rằng mã nguồn sản phẩm của họ đã bị ăn cắp. Theo nhân vật này, nếu điều đó có xảy ra thì có thể là thông qua những con đường như ổ cứng máy tính hay đĩa CD chứ không phải vì bị xâm nhập qua mạng.
+Phần mềm Dragon IDS phiên bản 6.1 được phát hành từ 1 năm trước và khách hàng nào đã nâng cấp lên Versions 6.2 và 6.3 đều không bị ảnh hưởng vì những khác biệt rất lớn trong 2 phiên bản sau khiến cho việc tiến hành tấn công vào mã nguồn của bản cũ rất khó.
+Enterasys tuyên bố sẽ truy đến cùng nếu đúng là mã của họ bị ăn cắp và sẽ xử lý cả những ai tham gia mua và sử dụng những tải sản trí tuệ này.
+

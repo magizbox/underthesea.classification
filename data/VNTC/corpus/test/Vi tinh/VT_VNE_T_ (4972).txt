@@ -1,0 +1,41 @@
+Khám phá thế giới đa dạng Google
+Ra đời như một công cụ tập hợp và dò tìm website vào giữa những năm 90, nhiệm vụ của Google từ lâu đã hoàn tất. Có thể nói thế giới Internet đặc biệt sôi động một phần lớn là nhờ hãng tìm kiếm số một thế giới này.
+Hai nhà sáng lập Larry Page và Sergey Brin, cùng giám đốc điều hành Eric Schmidt đã xoay sở để bảo toàn công ty trong giai đoạn bùng nổ của Internet. Hãng có tầm ảnh hưởng lớn đến mức hiện nay người ta không gọi là "tìm kiếm" mà nói là "google" một thông tin nào đó trên web.
+Công ty dự định biến mọi thông tin trên toàn thế giới trở nên dễ tiếp cận và có ích cho bất cứ ai, tại bất cứ đâu.
+Google Today
+Công cụ tìm kiếm gắn liền với tên tuổi của Google này rất được ưa chuộng vì nó cung cấp kết quả chính xác. Nguyên nhân thành công là bởi Google quan niệm: "Tầm quan trọng của một trang web có thể được quyết định bằng cách thống kê số những trang khác liên kết tới nó". Nguyên tắc đó không chỉ được áp dụng trong tìm kiếm website. Google Images vàGoogle News cũng dùng thuật toán PageRank tương tự để cung cấp thông tin chuyên biệt.
+Google Click-to-Call
+Khi dịch vụ này ra mắt trong thời gian tới, biểu tượng điện thoại sẽ được thiết kế ngay trong kết quả tìm kiếm của Google, cho phép bạn nhanh chóng kết nối và nói chuyện trực tiếp với nhà quảng cáo trên trang.
+Sau khi bấm vào biểu tượng, bạn sẽ nhập số điện thoại của mình và bấm vào "Kết nối miễn phí" (Connect For Free), Google sẽ gọi lại số mà bạn vừa cung cấp. Khi nhấc máy, bạn sẽ nghe tiếng chuông đổ ở đầu dây kia vì Google đang kết nối bạn với đối tác.
+Google cam kết không tiết lộ số điện thoại với bất cứ ai, kể cả nhà quảng cáo. Người sử dụng không mất tiền cho cuộc gọi, dù là nội hạt hay đường dài. Tuy nhiên, nếu sử dụng số di động, bạn có thể sẽ phải trả phí tùy thuộc vào nhà cung cấp dịch vụ địa phương, do vậy bạn nên kiểm tra thông tin trước với đơn vị thuê bao đó.
+Froogle
+Froogle là công cụ tìm kiếm thương mại điện tử. Nó cho phép người sử dụng search hàng loạt danh sách (catalogue) sản phẩm nằm rải rác trên Internet. Do đó, quá trình tìm những đồ quý hiếm hay việc so sánh giá cả trở nên dễ dàng hơn bao giờ hết.
+Google Print
+Google Print là một ý tưởng đáng khâm phục vì dịch vụ giúp bạn tìm kiếm nội dung hàng nghìn cuốn sách. Ví dụ, mọi tác phẩm nổi tiếng của Shakespear giờ đã được quét, đăng tải và search dễ dàng. Chưa hết, khi nhập "Banquo" vào Google Print, bạn sẽ được cung cấp không chỉ vở Macbeth mà còn có thể xem mọi cuốn sách khác trong danh mục của Google liên quan đến Banquo.
+Dịch vụ này được phát hành đầu tháng nhưng vẫn đang gây nhiều trang cãi do gặp sự phản đối của các nhà xuất bản và đơn vị bảo hộ bản quyền. Hãng dự định lập chỉ mục cho những cuốn sách ở thư viện công cộng New York, thư viện đại học Harvard, Stanford, Oxford và Michigan.
+Google Earth
+Google Earth là chương trình tải miễn phí (hiện chỉ chạy trên máy tính Windows), cung cấp hàng trăm nghìn ảnh chụp từ vệ tinh ở các khu vực trên toàn thế giới. Google Earth mang lại cơ hội cho bạn nhìn thấy vị trí căn nhà của mình và phóng to hình ảnh đến từng chi tiết. Những ai cần sử dụng để nghiên cứu có thể đăng ký phiên bản phải trả tiền với khả năng tìm kiếm mạnh hơn và thông tin cụ thể hơn.
+Gmail
+Đây là lời đáp trả từ Google với dịch vụ Hotmail của Microsoft. Gmail có dung lượng lớn (Google đang nâng cấp giữa 2 GB và 3 GB) và bao gồm nhiều tính năng vượt trội như tự động lưu bản nháp, tìm kiếm, đánh dấu e-mail quan trọng... khiến Gmail trở thành một trong những dịch vụ thư điện tử hấp dẫn hàng đầu hiện nay.
+Googletalk
+Đây là hệ thống tin nhắn nhanh giản lược, "hà tiện" và thiếu quá nhiều tính năng cần thiết cho người sử dụng. Hiện nó chỉ hoạt động trên Windows nhưng người sử dụng dịch vụ IM trên những nền tảng khác nhau vẫn có thể nói chuyện với người dùng Google Talk qua giao thức Jabber (http://www.jabber.org/).
+Picasa
+Picasa hỗ trợ quá trình tổ chức, chia sẻ và biên tập ảnh kỹ thuật số. Tương tự những sản phẩm khác của Google, Picasa rất gọn gàng, dễ sử dụng và tích hợp nhiều dịch vụ như Gmail...
+Google Toolbar
+Google xây dựng thanh công cụ trên trình duyệt Firefox trước rồi mới đến Internet Explorer. Do đó, sản phẩm này được coi như là một tính năng của trình duyệt mã mở. Nó cho phép người sử dụng duyệt web theo tên: tiếp cận site mà không cần nhớ chính xác địa chỉ. Ví dụ khi bạn gõ từ Oxford vào thanh địa chỉ, Google sẽ đưa bạn đến trang chủ của Đại học Oxford. 
+Google Desktop
+Ứng dụng này hiển thị tất cả các loại thông tin như ảnh, những trang web người sử dụng truy cập thường xuyên, kết quả tìm kiếm và tiêu đề tin tức... Desktop Search lập chỉ mục cho ổ cứng, cung cấp kết quả tìm kiếm ngay lập tức và hiển thị chúng qua trình duyệt web với giao diện theo phong cách của Google. Nhiều người lo ngại bí mật riêng tư của họ có thể bị người khác dễ dàng tìm ra. Tuy vậy, họ có thể yêu cầu Google Desktop bỏ qua những phần dữ liệu nhất định và tránh cài đặt trên máy tính không có chế độ đăng nhập riêng biệt.
+Google Web Accelerator
+Google hiện sở hữu một trong những cơ sở hạ tầng kỹ thuật ấn tượng nhất trên hành tinh, trong số đó phải kể đến Web Accelerator, công cụ hỗ trợ download, quản lý kết nối băng thông rộng, lưu những trang được xem thường xuyên và định tuyến lưu thông và làm tăng tốc độ lướt web. Gần đây, Google đã đạt lượng người sử dụng tối đa và đang phải mở rộng cơ sở hạ tầng.
+Google Tomorrow
+Những dự án được giới thiệu bên dưới xuất phát từ Google Lab, bộ phận khám phá, thí nghiệm những ý tưởng mới. Google cũng đang xây dựng cơ sở hạ tầng thế giới thực, đưa thông tin trở đến với mọi người ở mọi nơi trên thế giới. Hãng đang thiết lập mạng không dây miễn phí tại San Francisco và tham gia dự án máy tính 100 USD cho trẻ em nghèo.
+Google Personalised Search
+Tưởng tượng bạn đăng nhập vào công cụ tìm kiếm giống như hòm thư e-mail và kho chứa dữ liệu có thể được xây dựng dựa trên kết quả tìm kiếm trong quá khứ của bạn. Personalised Search cũng kết hợp chức năng tìm kiếm History cá nhân, cho phép bạn đăng nhập và lấy lại kết quả search trước đây.
+Google Suggest
+Google Suggest nâng cao dịch vụ tìm kiếm bằng cách đoán trước bạn định tìm gì qua từ khóa bạn đang gõ và cung cấp lựa chọn tức thời. Mục đích của chương trình là giúp bạn tìm "câu hỏi hoàn hảo". Đây được ví như "chiếc chén thánh" trong công nghệ tìm kiếm vì một trong những thách thức lớn nhất khi search là người sử dụng gõ từ khóa phù hợp. Đặc điểm này hiện có trong Google Toolbar.
+Google Video
+Dù vẫn ở giai đoạn thô sơ, tính năng tìm kiếm video đang dần giành được vị trí đáng kể, một phần do Apple gần đây ra mắt iPod có khả năng lưu và xem video. 
+Google Sets
+Điền một chuỗi những thuật ngữ liên quan, ví dụ như "Taxman", "While my guitar gently weeps và "Happiness is a warm gun", Google sẽ hoàn thiện tập hợp về các bài hát của nhóm Beatles cho bạn. Nó có vẻ cũng giống như tìm kiếm web, nhưng đây là bước quan trọng để hình thành "khả năng nhận thức" trong công cụ tìm kiếm. Nói cách khác, quá trình này "đào tạo" Google thực sự hiểu nội dung từ vựng mà ta gõ vào và từ đó liên quan đến những từ khác như thế nào. 
+Xem thêm những dịch vụ khác của Google tại đây.
+

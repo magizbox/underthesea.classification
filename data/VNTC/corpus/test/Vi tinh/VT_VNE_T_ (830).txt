@@ -1,0 +1,7 @@
+Đánh số thứ tự trong Report (1)
+Em co lap 1 chuong trình chay tren Access. Report la mot danh dach cac ca nhan. Xin cac anh chi cho biet co cach nao trong danh sach hien thi thu tu cua cac ca nhan do tu 1 - 1000 chang han. (Report cua em phai qua bo loc Query nen khong dung Autonumber duoc).Tran trong kinh chao va rat mong nhan duoc hoi am. 
+Trung Kien
+Hồi âm:
+Bạn làm như sau: - Trong phần body của Report bạn nhập "=1" vào Textbox (lưu ý: không có dấu nháy kép khi nhập) - Kích chuột phải vào Textbox đó rồi chọn Properties - Trong hộp thoại Textbox chọn tab Data - Ở mục Running Sum chọn Over Group Bạn làm như thế Report sẽ đánh số thứ tự từ 1 trở đi. Chúc bạn thành công. 
+Vu Dinh Nghiem Hung
+

@@ -1,0 +1,8 @@
+Hầu như mọi người đều có một tài khoản trên Yahoo và dùng chương trình Yahoo! Messenger để “chát chít” với bạn bè, người thân. Điểm rất hay của Yahoo! Messenger (Y.M) là mỗi khi account trên Yahoo! Mail nhận e-mail mới, Y.M đều thông báo cho bạn biết. Thế nhưng, không phải ai cũng dùng Yahoo! Mail làm phương tiện liên lạc với mọi người, đa phần người dùng hiện nay ưa chuộng Gmail hơn nhờ dung lượng lớn (&gt;2.5 GB), tốc độ nhanh, hỗ trợ POP3, nhiều tính năng mới lạ - độc đáo...
+Thế thì làm sao khi chat với Y.M, bạn vẫn có thể nhận được thông báo có e-mail mới trên...Gmail? Vấn đề tưởng chừng như không thể thực hiện được nhưng vẫn có thể làm dễ dàng nếu bạn thực hiện theo các bước sau:
+Bước 1: Đăng nhập vào hòm thư Gmail qua trang web www.gmail.com.
+Bước 2: Trên giao diện chính của trang Gmail, bạn nhấp chức năng Settings ở góc trên bên phải và chọn thẻ Forwarding and POP.
+Bước 3: Tìm đến mục Forwarding, nhấp chọn tùy chọn Forward a copy of incoming mail to và điền địa chỉ e-mail của Yahoo vào ô bên phải (ví dụ như: tenban@yahoo.com). Kế tiếp, bạn chọn chức năng Keep Gmail’s copy in the Inbox trong mục này. Nhấn Save Changes để thay đổi có hiệu lực.
+Thực ra phương pháp trên chỉ là một “mẹo” nhỏ để khi có một e-mail mới được gửi đến, Gmail sẽ tự động gửi tiếp (forward) các e-mail vào Yahoo! Mail. Tất nhiên khi đó Yahoo! Mail sẽ nhận được e-mail mới này và Y.M sẽ thông báo cho bạn biết.
+Lưu ý: phương pháp trên không chỉ giới hạn với Account của Gmail, bạn hoàn toàn có thể làm với các account mail khác miễn là account này có chức năng chuyển đến hòm thư khác khi nhận e-mail mới.
+

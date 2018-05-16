@@ -1,0 +1,6 @@
+ Sửa chữa các tập tin nén RAR bị lỗi
+Đúng như tên gọi, Advanced RAR Repair là một chương trình khá đặc biệt có khả năng sửa chữa hầu hết các lỗi phát sinh về định dạng nén file RAR trong quá trình sử dụng của người dùng. 
+Sau khi hoàn tất quá trình cài đặt, chương trình sẽ tự khởi động. Đầu tiên bạn di chuyển đến thẻ Repair. Nhìn xuống bên dưới dòng Select RAR or SFX archive to be repaired và nhấn vào biểu tượng... Một hộp thoại mới sẽ xuất hiện và yêu cầu chọn tập tin nén Rar cần sửa chữa. Sau đó chọn nơi lưu trữ kết quả khi sửa chữa tại dòng Output fixed archive as. Và cuối cùng là nhấn nút Start Repair để tiến hành quá trình sửa chữa dữ liệu bên trong tập tin nén bị lỗi. 
+Để có thể sửa chữa hàng lọat tập tin nén RAR bị lỗi thì hãy di chuyển sang thẻ Batch Repair và thao tác cũng tương tự như thế. Và cuối cùng bạn cũng nên biết về khả năng sữa chữa của chương trình: “Nếu bạn chỉ sử dụng bản dùng thử thì kết quả không khả quan bằng việc đăng ký mua phiên bản chính thức của Advanced RAR Repair”. Điều đó là lẽ tất nhiên. 
+Chương trình được cung cấp tại website: http://www.rar-repair.com với dung lượng khoảng 556 KB, tương thích tốt với hệ điều hành Windows. Bản thương mại giá 149.95 USD. 
+

@@ -1,0 +1,4 @@
+Âm thanh chỉ dành cho một người 
+Nhà phát minh Elwood Norris đã phát triển một kỹ thuật gọi là HyperSonic Sound (HSS) có thể hướng sóng âm thành một chùm tia giống như tia laser trong khoảng cách 138 mét. Với kỹ thuật này, bạn có thể nghe nhạc trong phòng nhưng người ở bên cạnh không nghe thấy tý gì cả. 
+HSS hoạt động bằng cách phát ra sóng âm có tần số cao mà tai người không thể nghe thấy được, không như sóng âm có tần số thấp. Chúng không lan ra khi truyền qua không khí mà lại tập trung như tia laser. Khi cột sóng siêu âm này chạm đến một vật thể lớn, như đầu của chúng ta chẳng hạn, nó sẽ tái tạo thành âm thanh gốc. Kỹ thuật này có thể cho phép những chiếc xe cứu thương rú còi mà chỉ những chiếc xe chạy trên đường mới nghe thấy, còn người dân ở hai bên đường sẽ không bị làm phiền.
+

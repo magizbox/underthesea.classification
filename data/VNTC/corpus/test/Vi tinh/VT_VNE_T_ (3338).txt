@@ -1,0 +1,9 @@
+IE, Firefox và hầu hết trình duyệt khác bị thủng
+Lỗ hổng này không chỉ tồn tại trong những phiên bản cập nhật của Internet Explorer (IE), Firefox, Mozilla, Camino, Opera, và Safari, mà còn ảnh hưởng cả trình duyệt chưa ra mắt Firefox 1.0.5.
+Theo hãng Secunia (Hà Lan), IE của Microsoft, Firefox của Mozilla và gần như tất cả các trình duyệt phổ biến khác hiện nay đều có thể bị lợi dụng bởi những site nguy hiểm, bằng việc hiển thị hộp thoại Java giả trên đỉnh trang web hợp pháp.
+"Vấn đề ở đây là hộp thoại JavaScript không hiện nguồn gốc để cho phép mở ra một cửa sổ mới, nên trông có vẻ như nó thuộc chính trang đáng tin cậy đó", hãng Secunia cảnh báo. 
+Để thực hiện cuộc tấn công, tin tặc phải lừa được người dùng ghé qua trang cài mã nguy hiểm - thông thường là dụ dỗ qua e-mail hoặc tin nhắn nhanh với liên kết tới một trang trông có vẻ đáng tin cậy. Sau khi tung ra mã JavaScript, hacker sẽ hiển thị hộp yêu cầu khai báo mật khẩu giả để lừa người dùng đăng nhập thông tin tài khoản như bình thường.
+Secunia đã cung cấp mộtbản thử nghiệm lỗ hổng để người dùng có thể nhanh chóng kiểm tra xem trình duyệt của mình đã gặp lỗi đó hay chưa.
+"Chúng tôi đang xem xét lỗ hổng này và sẽ quyết định có cài bản vá lỗi cho trình duyệt mới không", phát ngôn viên của Mozilla cho biết. "Firefox vẫn đang trong quá trình sửa lỗi cho bản 1.0.4 hiện tại".
+Phiên bản chưa hoàn thành của Firefox 1.0.5 có thể được tải tại trang web của Mozilla.
+

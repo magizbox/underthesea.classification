@@ -1,0 +1,6 @@
+Quấy rối tình dục kiểu hacker
+Một người đàn ông ở Síp đã bị bắt đầu tuần này sau khi dùng kỹ năng máy tính xâm nhập qua đường webcam để thu lén hình ảnh một cô gái 17 tuổi, sau đó bắt nạn nhân hành động theo yêu cầu.
+Hacker 45 tuổi (cảnh sát không tiết lộ tên) đã cài một Trojan vào máy tính của nạn nhân (gửi qua file đính kèm e-mail) và tiến hành thu hình cô gái đang ở trên giường trong tình trạng không quần áo. Tên này sau đó đe dọa sẽ phát tán những hình ảnh nói trên tới tất cả các địa chỉ liên lạc của nạn nhân nếu không chịu trình diễn nude trước ống kính webcam theo yêu cầu của hắn. Cô gái từ chối và liên lạc với cảnh sát.
+Theo hãng phần mềm bảo mật Sophos (Anh), 12 tháng qua chứng kiến sự gia tăng đột biến về các dạng mã tấn công được thiết kế cho mục đích do thám máy tính của những người thiếu cảnh giác. Số virus, sâu và Trojan mới với khả năng theo dõi đã tăng từ 5 lên 15 mỗi ngày, chiếm gần một nửa trên tổng số các loại chương trình nguy hại mới mà Sophos phát hiện hằng ngày. Cá biệt, gần như tất cả các phiên bản mới của loại sâu Rbot đều có tính năng chụp ảnh và ghi hình qua webcam.
+Sophos khuyến cáo người sử dụng máy tính cần cài đặt tường lửa và thường xuyên nâng cấp các công cụ. diệt virus. Rút kết nối USB của webcam khi không sử dụng cũng là một việc nên làm.
+

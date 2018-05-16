@@ -1,0 +1,5 @@
+Cú phishing đầu tiên tại Hàn Quốc lấy được 60.000 USD
+Hacker 20 tuổi mang họ Lee xâm nhập vào tài khoản của một bà nội trợ 42 tuổi và cuỗm đi số tiền nói trên (tương đương 60 triệu won). Hôm 3/6, cảnh sát đã tóm được tên này cùng với một đồng phạm chưa công bố danh tính. 
+Cơ quan điều tra cho biết tin tặc trẻ tuổi này đã gắn phần mềm do thám vào thông điệp mà hắn chèn lên một website của cộng đồng khách hàng Internet Hàn Quốc. Người phụ nữ nói trên đã click vào đó và vô tình tải chương trình theo dõi lệnh gõ bàn phím về PC. Nhờ đó, Lee có thể thu thập password và mã bảo mật tài khoản để rút tiền.
+Theo một phát ngôn viên của Hiệp hội người sử dụng Internet tốc độ cao Hàn Quốc, đây là lần đầu tiên phát hiện một tài khoản ngân hàng trực tuyến bị hack và lấy tiền tại nước này. Tính đến tháng 4/2005, số khách hàng đăng ký dùng dịch vụ ngân hàng online tại Hàn Quốc đạt 23 triệu người, tương đương 1/2 dân số.
+

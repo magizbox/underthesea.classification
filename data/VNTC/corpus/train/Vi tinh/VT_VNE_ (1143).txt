@@ -1,0 +1,5 @@
+Chống Phishing với PhishGuard
+Ở Việt Nam, nạn lừa đảo bằng e-mail (phishing) chưa đến mức trầm trọng như các quốc gia phương Tây. Tuy nhiên, phòng bệnh tốt hơn chữa bệnh và vũ khí hữu hiệu nhất hiện nay là phần mềm miễn phí PhishGuard.
+PhishGuard giúp bạn ngăn chặn các thủ đoạn phishing hoặc giả mạo địa chỉ e-mail (spoofing) thường được ngụy tạo khéo léo để dụ bạn cung cấp thông tin cá nhân hoặc mã số thẻ tín dụng cho những website mạo danh. Chương trình có thể tích hợp trong Internet Explorer và sẽ đưa ra tín hiệu cảnh báo khi bạn truy cập trang web có tên trong danh sách đen. Phần mềm này còn giúp bạn dễ dàng gửi những đường link hoặc e-mail khả nghi tới cơ sở dữ liệu của cộng đồng bằng cách sử dụng một biểu tượng nhỏ trên màn hình desktop. 
+PhishGuard có dung lượng 3 MB, tương thích với các hệ điều hành Windows 98/ME/NT/2000/XP. Để có thể sử dụng, bạn phải đăng ký trực tuyến miễn phí sau khi downloadtại đây.
+

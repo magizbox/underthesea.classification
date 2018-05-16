@@ -1,0 +1,6 @@
+Nối file .RAR (1)
+Chào các anh chị. Xin các anh chị chỉ cho tôi có cách nào để nối lại các files thông tin hay là phim nén (.rar) đã bị cắt nhỏ ra. Xin chân thành cảm ơn anh chị nhiều. 
+Phạm Mạnh Hùng
+Hồi âm:
+Truoc tien ban phai cai WinRAR. Sau do ban phai keo TAT CA cac Files .RAR vao mot Folder.Thuong ban phai lam 2 lan: 1. Sau lan mo dau tien ban se co cac Files nho. 2. Cac Files nho do duoc danh dau tu duoi .rar sau do .01 , .02 .....Ban chi can nhan chuot kep len File co duoi .rar la no tu tim thay cac Files khac.(Ban nho chu y la phai day du cac Files va trong cung mot Folder).
+

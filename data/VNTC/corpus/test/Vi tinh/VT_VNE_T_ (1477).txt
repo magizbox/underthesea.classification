@@ -1,0 +1,36 @@
+Chuyện của người săn virus (phần cuối)
+Nói về những nguy cơ an ninh mạng trong tương lai, chuyên gia chống virus Mikko Hypponen, Giám đốc nghiên cứu của hãng F-Secure, cho rằng một thế giới không có virus máy tính là giấc mơ không bao giờ thành hiện thực. 
+Dưới đây là phần tiếp theo cuộc phỏng vấn của Hypponen với tạp chí E-Commerce Times.
+- Tên tuổi của anh có bao giờ bị tin tặc lợi dụng?
+- Có chứ. Ví dụ, năm 1999 khi công ty của chúng tôi còn mang tên Data Fellows thì có một nhóm hacker đăng ký tên miền datafellows.com và phát tán e-mail khắp nơi với địa chỉ mikko.hypponen@datafellowes.com. Bọn họ gửi đi những file Word có virus, giả dạng là bài báo do tôi viết, gửi tới tổng biên tập một số tạp chí, đồng thời yêu cầu các chuyên gia khác trong giới bảo mật gửi mẫu virus. Một trò khá tinh vi. Cũng may là không có nhiều vụ như vậy xảy ra với tôi.
+- Cần phải có những yêu cầu gì khi muốn tóm cổ thêm nhiều tin tặc?
+- Cảnh sát nhiều nước hiện nay đã có đầy đủ chuyên môn, hành lang pháp lý cần thiết để tróc nã các tác giả virus, hacker, spammer. Nhưng các đối tượng này cũng tinh ranh chuyển căn cứ sang những nơi hẻo lánh, chưa có quy định và chế tài đối với tội phạm máy tính.
+- Việc thiết lập một lực lượng cảnh sát mạng toàn cầu có khả thi? 
+- Tôi cũng rất hy vọng sẽ có một lực lượng như vậy ra đời nhưng biết là sẽ rất khó. Nên bắt đầu với việc 2 quốc gia khổng lồ Mỹ và Trung Quốc thống nhất các nguyên tắc cơ bản của một lực lượng cảnh sát Internet quốc tế và hệ thống sau đó cứ thế tiếp tục triển khai.
+- Cá nhân và doanh nghiệp có thể phòng vệ như thế nào trước các loại sâu mới khi chúng không cần sự tương tác với người sử dụng máy tính?
+- Dùng nhiều loại tường lửa khác nhau, cả phần cứng lẫn phần mềm ở nhiều cấp độ, là giải pháp duy nhất. Cách xử lý truyền thống theo kiểu phát hành phần mềm quét sau khi phát hiện virus sẽ không có mấy tác dụng. Kiểu đối phó này chỉ xử lý được virus e-mail còn những loại sâu mạng tự động có tốc độ lây lan nhanh thì chỉ có tường lửa là hàng rào tốt nhất.
+- Như anh nói thì các phần mềm diệt virus hiện nay không mấy tác dụng đối với những loại sâu phát tán nhanh. Thế tại sao ngành kinh doanh ứng dụng này lại phát đạt đến vậy?
+- Quét virus là một khái niệm dễ hiểu nên nhiều người thích dùng phần mềm kiểu này. Khác với tường lửa hoặc phần mềm bảo vệ tổng thể, các ứng dụng diệt virus cho người dùng biết nó đã chặn mã tấn công tên là gì và người ta cảm thấy thuyết phục hơn. Trên thực tế, chúng ngăn chặn được đại bộ phận các loại virus hiện hành một cách hiệu quả.
+- Thế nào là cấu hình an toàn nhất cho một máy tính gia đình hiện nay?
+- Theo tôi, có lẽ đó là loại máy Mac của Apple. Nếu kết hợp với một máy Xbox, Mac sẽ là một mục tiêu khó tấn công và ít khi có virus.
+- Sao anh nghĩ máy Mac an toàn đến vậy?
+- Thực ra đó là vấn đề thị phần. Virus cũng từng là nỗi đau đầu của những người dùng Mac vào thập niên 80 của thế kỷ trước khi mà Apple có số khách hàng lớn. Hệ thống Mac đã chịu nhiều nguy cơ tấn công qua những khiếm khuyết của nó giống như Windows bây giờ, hay có thể là cả Linux. Tin tặc luôn nhắm vào cái gì mà số đông sử dụng.
+- Nói đến số đông người dùng. anh nghĩ thế nào về những gì Microsoft đang làm để cải thiện an ninh hệ thống của họ?
+- Có lẽ sai lầm lớn nhất mà Microsoft mắc phải chính là sản phẩm của họ quá phổ dụng, vì thế tất nhiên trở thành mục tiêu số 1. Tôi thực sự nghĩ rằng, kể từ 2001, Microsoft đã làm rất tốt việc cải thiện an ninh sản phẩm ở mọi cấp độ và đã có khả năng phản ứng nhanh trước những lỗ hổng mới.
+- Nhiều công ty đã trở thành mục tiêu tấn công của tin tặc, tiêu biểu là trường hợp hãng phần mềm mã mở SCO. Sẽ có thêm nhiều vụ hacker trừng phạt các doanh nghiệp trong tương lai?
+- Chắc chắn. Chúng ta đã thấy nhiều vụ tấn công các webiste lớn như của Hiệp hội thu thanh Mỹ (RIAA) hay Microsoft. Có 2 biến thể của NetSky sẽ tấn công một số địa chỉ sau:
+www.edonkey2000.com www.kazaa.com www.emule-project.net www.cracks.am www.emule.de www.cracks.st www.cracks.am www.keygen.us 
+- Anh nghĩ sao về nguy cơ có một siêu virus phát tán toàn cầu và gây ra những rối loạn lớn?
+- Có thể chứ. Trên thực tế, sâu Witty được phát hiện hồi tháng 3 năm nay đã gần đạt đến mức độ như vậy. Chúng ta đã may mắn vì nó chỉ ảnh hưởng một bộ phận nhỏ máy tính trên thế giới, tức là những PC chạy tường lửa BlackIce. Nếu một virus như thế khai thác một lỗ hổng phổ biến, chẳng hạn như ASN.1, thì điều mà anh nói sẽ xảy ra.
+- Tại sao tới nay một khiếm khuyết phổ biến như vậy lại chưa bị hacker sờ đến?
+- Cũng khó giải thích, nhưng có một thực tế là hầu hết các tác giả virus không đủ trình độ để viết chương trình riêng khai thác lỗi đó. Ngoài ra chưa có mã khai thác công bố lên mạng. Tôi nói là chưa. Nếu không thì mọi thứ đã có thể xảy ra.
+- Các doanh nghiệp và cá nhân có thể chuẩn bị gì để đối phó với một nguy cơ lớn như vậy? 
+- Như tôi đã nói ở trên, tường lửa phần cứng và phần mềm được coi là các công cụ phòng ngừa những nguy cơ đó. Kết hợp nhiều lớp tường lửa với việc liên tục cập nhật hệ điều hành và phần mềm diệt virus là cách duy nhất hiện nay. Hoặc có thể dùng nhiều loại ứng dụng khác nhau cùng lúc.
+- Dùng nhiều ứng dụng khác nhau tức là sao?
+- Chẳng hạn như thay Outlook bằng Eudora hoặc dùng trình duyệt Opera thay cho Internet Explorer. Thậm chí có thể thay Microsoft Office bằng OpenOffice. Đó chính là chiến thuật dùng nhiều hệ thống khác nhau.
+- Theo anh, liệu có thể tạo ra một hệ thống mạnh như chiếc áo giáp chống đạn để bảo vệ tuyệt đối máy tính và mạng?
+- Không. Vì tin tặc không phải là một vấn đề kỹ thuật mà là một tệ nạn xã hội.
+- Hãy nói thêm về khía cạnh xã hội của vấn đề này?
+- Để đấu tranh với những chú nhóc vô công rồi nghề ngồi viết virus để chơi, chúng ta phải chú trọng sớm hơn vào công tác giáo dục ở nhà trường. Thanh thiếu niên cần phải nhận thức rằng virus không phải là cái gì anh hùng mà ngược lại đó là hành động phi pháp, có thể dẫn đến tù tội. Còn để đấu tranh với các nhóm tội phạm mạng có tổ chức, nhất là từ các nước thuộc Liên Xô cũ, chúng ta phải tạo thêm nhiều cơ hội việc làm thực sự cho các lập trình viên lành nghề để họ có thể sống bằng cách sử dụng chuyên môn một cách chính đáng. Các băng đảng tội phạm Internet đang mọc lên như nấm và trở thành một vấn đề xã hội khá nhức nhối. Điều này cũng hoàn toàn giống như các nhóm tội phạm ngoài cuộc sống thực tế. Để giải quyết tận gốc vấn đề xã hội này thì xin anh chỉ cách cho tôi.
+Mikko Hypponen làm Giám đốc nghiên cứu virus của công ty phần mềm bảo mật Phần Lan F-Secure từ năm 1991. Anh là một nhân vật nổi tiếng trong ngành công nghiệp ứng dụng an ninh và thường xuyên viết bài cho các tạp chí bảo mật cũng như các diễn đàn an ninh mạng. Hypponen cũng đã giành nhiều thời gian vào công tác tuyên truyền về vấn đề chống virus thông qua các bài giảng ở khắp thế giới.Đội phản ứng nhanh của Hypponen ở F-Secure là đơn vị đầu tiên phát hiện, phân tích và thiết kế công cụ chống LoveLetter, virus nguy hiểm nhất thế giới hồi tháng 4/2000. Hypponen cũng từng là chuyên viên tư vấn an ninh hệ thống cho khối quân sự NATO và quân đội Phần Lan. Anh tốt nghiệp Viện công nghệ thông tin Helsinki (Phần Lan) và là thành viên của Tổ chức các chuyên gia chống virus máy tính quốc tế (CARO) từ năm 1995. Tổ chức này mới chỉ công nhận 24 thành viên.
+

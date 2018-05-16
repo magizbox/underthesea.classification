@@ -1,0 +1,7 @@
+Trojan đầu tiên lợi dụng Skype
+Tội phạm mạng đang tấn công người sử dụng máy tính bằng một chương trình nguy hiểm mới, ẩn dưới hình thức phiên bản cập nhật của ứng dụng điện thoại Internet phổ biến Skype ra mắt cuối tháng 9.
+Biến thể mới nhất của Trojan IRCBot có khả năng tự nhân bản và lây lan qua e-mail với 5 chủ đề khác nhau như "Skype cho Windows 1.4 - Bạn đã có chương trình mới chưa?". Nội dung thông điệp quảng cáo về ứng dụng VoIP và khuyến khích mọi người bấm vào tệp đính kèm.
+Sau khi file được mở, IRCBot sẽ hiển thị một thông báo lỗi cài đặt, chặn khả năng truy cập đến các trang cung cấp công cụ bảo mật, và thiết lập cổng hậu trên máy tính.
+Những e-mail này xuất hiện với tốc độ trung bình. Công ty bảo mật Mỹ MessageLabs đã nhận được 150 e-mail từ ngày 16/10. IRCBot được coi là Trojan đầu tiên dùng tên Skype làm "mồi nhử".
+Hacker luôn tìm kiếm những chủ đề mới mẻ để dụ người sử dụng tải mã nguy hiểm. Chúng cài Trojan trong những bức ảnh khiêu dâm, phần mềm bảo mật, thông điệp từ quản trị hệ thống, tin ảnh và thông tin về các nhân vật nổi tiếng...
+

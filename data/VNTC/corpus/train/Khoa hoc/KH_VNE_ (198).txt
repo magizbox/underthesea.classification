@@ -1,0 +1,10 @@
+Công thức vui về cách dùng đũa
+Một công thức toán học vừa ra đời để giúp những người phương tây ưa món sườn chua ngọt hoặc vịt quay Bắc Kinh có thể dễ dàng học cách ăn bằng đũa.
+Tiến sĩ Jim Al-Khalili và Qiang Zhao tại Đại học Surrey, Anh, đã phát triển ra công thức này giúp những người châu Âu học kỹ năng dùng đũa mà người châu Á đã sử dụng trong 5.000 năm nay.
+"Đũa là dụng cụ bếp núc phiền phức nhất tại Anh. Cứ trong 5 người thì có một người Anh không thể dùng đũa", một hãng thực phẩm quốc tế tại Anh tuyên bố.
+Công thức nhằm tính toán mức độ dễ dàng khi ăn bằng đũa đối với các loại thức ăn khác nhau. Nó được gọi là độ thuận tiện C. C càng gần tới 0 thì tức là món ăn đó rất khó dùng bằng đũa, trong khi đạt 100 tức là có thể xơi bằng đũa dễ dàng. Các nhà nghiên cứu khuyên mọi người học dùng đũa bằng việc luyện tập ăn những món có giá trị C cao, như gà luộc, trước khi đụng tới các món khó gắp như lạc rang.
+Mỗi món ăn được gắn các giá trị khác nhau, bao gồm d (đường kính), m (khối lượng) và a (độ trơn). Ví dụ, những thức ăn trơn bao gồm lạc rang, đậu phụ. Kết cấu của thức ăn, dựa trên hình dáng, độ mềm và độ vụn, gọi là q. Kết cấu thấp tức là độ thuận tiện thấp và nghĩa là đồ ăn khó xơi. Gạo tẻ có độ kết cấu thấp nhất trong các loại thức ăn được thử nghiệm.
+Các nhà nghiên cứu cũng tính đến những yếu tố như đối tượng đã dùng đũa bao giờ chưa, cụ thể là số bữa ăn Trung Quốc mà người đó đã ăn bằng đũa (N). Ngoài ra còn yếu tố thời gian đưa đồ ăn từ đĩa lên miệng (t).
+Hằng số (C0 = 30) được tính dựa trên chiều dài chiếc đũa và góc nghiêng đôi đũa được cầm khi ăn.
+Nhà toán học Australia Robert Howlett tại Đại học Sydney tỏ vẻ ngạc nhiên trước nghiên cứu này. "Đó thực sự là một trò đùa. Tôi nghĩ rằng hai anh chàng này đã vẽ ra công thức này sau một chầu bia", Howlett nhận định. "Liệu các cửa hàng Trung Quốc có bổ sung công thức này vào thực đơn cùng với cái máy tính để bạn tìm ra câu trả lời trước khi gọi món ăn?".
+

@@ -1,0 +1,7 @@
+Chip Xeon đơn lõi cuối cùng cho máy chủ
+Intel vừa phát hành 2 thiết bị xử lý Xeon LV 3 GHz, 55 watt và Xeon MV 3,2 GHz, 90 watt, tiêu thụ ít điện năng hơn những sản phẩm cùng loại, đồng thời đặt dấu chấm hết cho dòng chip đơn lõi máy chủ. 
+Hai mẫu năng lượng thấp này của hãng chip số một hiện nay được xây dựng chủ yếu cho máy chủ dạng phiến.
+Các nhà sản xuất đang tập trung phát triển những thiết bị xử lý điện năng thấp, giúp giải quyết tình trạng rò rỉ và lãng phí điện. Điều này không chỉ do giá điện tăng cao, mà còn vì nó hỗ trợ họ thiết kế hệ thống dễ dàng hơn, cũng như thuận tiện cho khách hàng trong việc quản lý dữ liệu mà không phải lo lắng về vấn đề toả nhiệt. 
+Intel đã chậm chân so với AMD trong việc phát hành chip máy chủ lõi kép, có khả năng kết hợp hai bộ vi xử lý trên một bảng silicon duy nhất. Nhưng tập đoàn hàng đầu thế giới này đang phát triển một loạt thiết bị đa lõi và chuẩn bị công bố Xeon 2 và 4 lõi đầu tiên, tên mã Paxaville, cho server.
+AMD đã giành thị phần đáng kể nhờ dòng chip chính Opteron, công suất 95 watt, và một phiên bản đặc biệt 120 watt mà Sun Microsystems đang sử dụng. Tuy nhiên nhiều chuyên gia nhận định, với chiêu bài hạ giá, Intel sẽ ngăn chặn khả năng mở rộng của đối thủ.
+

@@ -1,0 +1,7 @@
+Giải pháp lưu trữ và quản lý thông tin cho doanh nghiệp
+Hôm nay, tại Hà Nội, hãng EMC giới thiệu các sản phẩm lưu trữ dành cho ngân hàng và tổ chức tài chính, nhằm giúp những đơn vị này có thể khai thác lợi thế của hạ tầng lưu trữ nối mạng tự động để dễ dàng quản lý được nhiều thông tin hơn với chi phí thấp.
+Theo ông Ravi Rajendran, Giám đốc EMC khu vực châu Á - Thái Bình Dương, các tổ chức tài chính và ngân hàng hiện nay cần đến những giải pháp lưu trữ, quản lý, bảo vệ, phân phối và xử lý thông tin như các giao dịch thanh toán qua mạng và để đảm bảo khả năng cung cấp dịch vụ 24/24. Họ cũng cần phải đáp ứng các quy định nghiêm ngặt về lưu trữ tài liệu và báo cáo giao dịch. 
+Các giải pháp toàn diện của EMC bao gồm một hệ thống thiết bị có khả năng lưu trữ lớn và máy chủ tập tin có thể mở rộng cùng với phần mềm quản lý và phần mềm chức năng linh hoạt, dễ quản lý. Chúng bao gồm các hệ thống lưu trữ nối mạng Clariion, Symmetrix và hệ thống lưu trữ gắn với mạng Celerra File Servers.
+Ngoài ra, hãng còn đưa ra chiến lược quản lý vòng đời thông tin trên cơ sở giải pháp lưu trữ mạng tự động, bao gồm tổng hợp công nghệ lưu trữ mạng, thiết bị lưu trữ phần cứng và phần mềm cùng dịch vụ để các khách hàng quản lý, bảo vệ và chia sẻ thông tin tốt hơn với chi phí thấp.
+Năm 2003, doanh thu của hãng đạt 6,24 tỷ USD. Thời gian tới, EMC dự kiến tập trung khuếch trương sản phẩm tại những thị trường mới như Việt Nam, Thái Lan, Ấn Độ và Indonesia nhằm tăng thị phần. 
+

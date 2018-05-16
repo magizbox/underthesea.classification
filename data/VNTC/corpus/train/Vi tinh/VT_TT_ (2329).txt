@@ -1,0 +1,5 @@
+ Trên 95% số máy tính tại VN bị nhiễm virus
+Theo ông Thắng, để hạn chế tình trạng này, các nước cần tăng cường hợp tác trong việc đảm bảo an toàn an ninh thông tin, thông qua việc triển khai một số giải pháp như xây dựng hành lang pháp lý để chống lại tội phạm, chia sẻ thông tin và hợp tác để đưa ra những cảnh báo kịp thời bảo vệ hạ tầng thông tin, xây dựng các hướng dẫn về an ninh và kỹ thuật, nâng cao nhận thức của cộng đồng trong lĩnh vực này. 
+Tại hội thảo, do Bộ Bưu chính Viễn thông tổ chức, các đại biểu đã trao đổi về thủ tục, quy trình hoạt động của Trung tâm ứng cứu khẩn cấp máy tính (CERT) được thành lập tháng 12-2005, các vấn đề pháp lý liên quan đến hệ thống CERT. 
+Theo Bộ Bưu chính Viễn thông, Nhật Bản là quốc gia đi đầu và có nhiều kinh nghiệm trong lĩnh vực ứng cứu khẩn cấp máy tính và an toàn thông tin. Trong nhiều năm qua, Việt Nam và Nhật Bản đã có nhiều hoạt động hợp tác trong lĩnh vực thông tin. 
+

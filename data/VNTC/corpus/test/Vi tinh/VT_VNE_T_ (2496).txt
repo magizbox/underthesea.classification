@@ -1,0 +1,8 @@
+Toshiba công bố bộ nhớ nhanh nhất thế giới
+Sản phẩm XDR DRAM 512 MB của hãng điện tử Nhật Bản đang được kiểm tra và sẽ xuất hiện trên thị trường vào nửa cuối năm nay. Tốc độc của chúng đạt 4,8 GHz, cao gấp 12 lần so với chip nhớ PC để bàn thông thường.
+Theo đại diện của Toshiba, ở tốc độ 4,8 GHz, chip XDR DRAM đạt băng thông 12,8 Gb/giây và điều này khiến chúng rất phù hợp trong các loại TV kỹ thuật số cao cấp cũng như các ứng dụng đồ họa máy tính. Nếu sử dụng ở hiệu điện thế lớn hơn, chip nhớ này có thể đạt tốc độ cực đại 6,4 GHz..
+DRAM là dạng bộ nhớ chủ yếu sử dụng trên PC và server. Bộ nhớ càng nhanh, máy tính càng vận hành trơn tru và giúp các thiết bị chơi game hiển thị đồ họa tốt hơn.
+XDR là công nghệ do hãng Rambus phát triển. Chip nhớ XDR sử dụng kỹ thuật phát tín hiệu có tên ODR (octal data rate), truyền 8 bit dữ liệu trên một chu kỳ xung đồng hồ. Ngoài Toshiba, các hãng Samsung và Elpida cũng dùng công nghệ XDR của Rambus. Hai công ty này sẽ đưa vào sản xuất đại trà chip nhớ XDR 512 MB vào cuối năm nay. 
+Bộ nhớ XDR 512 MB có thể không cần thiết đối với các loại PC để bàn phổ thông nhưng do khả năng xử lý những khối lượng dữ liệu lớn một cách nhanh chóng nên chúng có thể rất hữu dụng trong máy trạm cao cấp, hệ thống mạng, ứng dụng đồ họa và video.
+Theo Kim Soo-Kyoum, Giám đốc nghiên cứu lĩnh vực bán dẫn của IDC, sự chấp nhận từ thị trường đối với XDR trong vai trò bộ nhớ chính của máy tính sẽ bắt đầu vào năm 2007. Một trong những sản phẩm rất phổ biến sẽ sử dụng chip XDR 256 MB là máy chơi game PlayStation 3 của hãng Sony.
+

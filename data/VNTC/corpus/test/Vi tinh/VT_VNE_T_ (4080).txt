@@ -1,0 +1,6 @@
+Microsoft thử nghiệm hệ thống tệp tin WinFS
+Hãng phần mềm số một thế giới vừa giới thiệu phiên bản thử nghiệm cho hệ thống quản lý file Windows thế hệ mới, mang lại khả năng chia sẻ dữ liệu dễ dàng và thuận tiện cho các ứng dụng.
+WinFS điều khiển phương thức xây dựng, thiết lập và lưu trữ dữ liệu như e-mail, ảnh, tin nhắn, tài liệu... trên ổ cứng. Chương trình cho phép người sử dụng nhanh chóng tìm kiếm và tổ chức tài liệu trên hệ thống. Phần mềm này trước hết được phát hành cho những khách hàng thuê bao trong mạng Microsoft Developer Network.
+Ban đầu, Microsoft dự định sẽ ra mắt WinFS như là một phần của Windows Vista và coi đây là một công nghệ lõi của hệ điều hành, dùng trong quản lý ảo file ảnh và dữ liệu...
+Bản Beta của WinFS ra mắt sớm một tháng so với dự định sẽ tạo cơ hội cho hãng phần mềm Mỹ nhận được phản hồi từ phía các chuyên gia và người sử dụng trước Hội thảo các nhà phát triển chuyên nghiệp tại Los Angeles (Mỹ). Sự kiện diễn ra từ 13 - 16/9 này chủ yếu tập trung vào hệ điều hành Windows Vista.
+

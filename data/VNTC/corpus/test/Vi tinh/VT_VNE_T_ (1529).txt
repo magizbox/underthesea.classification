@@ -1,0 +1,18 @@
+NetSky vẫn là nguy cơ lớn nhất tháng 11
+Báo cáo tình hình virus hàng tháng của hãng phần mềm bảo mật Sophos (Anh) cho thấy biến thể P của loại sâu này cùng với Sober là 2 chương trình tấn công phát tán nhiều nhất trong tháng qua với tỷ lệ trên 20% mỗi loại.
+Trong bảng xếp hạng 10 virus nguy hiểm nhất, Sober.I cùng với Bagle.AU là 2 cái tên mới. Ảnh hưởng của Sober.I là rất lớn với 20% vụ lây lan, mặc dù nó mới chỉ xuất hiện từ ngày 19/11. Virus này phát tán qua e-mail, sử dụng hàng loạt dòng chủ đề và nội dung khác nhau. Rất nhiều trong số mail này giả vờ chứa đựng những thông tin an ninh quan trọng, chuyên gia Carole Theriault của Sophos cho biết. Thủ đoạn này đã lừa được rất nhiều người khi trí tò mò khiến họ click đúp vào file đính kèm với hy vọng được đọc những thông tin nhạy cảm.
+Bên cạnh sự nổi lên đáng chú ý của Sober.I, các virus cứng đầu NetSky.P và Zafi.B vẫn tiếp tục phát tán mạnh, bất chấp những công cụ phòng chống chúng đã được phát hành ngay khi phiên bản đầu tiên được phát hiện. Người sử dụng cần duy trì việc nâng cấp phần mềm bảo mật thường xuyên và đó là cách đơn giản nhất để phòng vệ,Theriault khuyến cáo.
+Trong tháng qua, Sophos đã ngăn chặn và xử lý 1.379 virus mới, nâng tổng số chương trình phá hoại mà họ ngăn chặn đến nay lên 97.535. Khảo sát của Sophos cho biết, trong tháng 11, cứ 18 e-mail lưu thông trên Internet thì có 1 cái chứa virus - tương đương tỷ lệ 5,6%, cao hơn 1% so với tháng trước. 
+10 virus nguy hiểm nhất tháng 11/2004 (trong ngoặc là tỷ lệ thông báo mà Sophos nhận được)
+NetSky.P (24,2%) 
+Sober.I (20,4%) 
+Zafi.B (17,9%) 
+Bagle.AU (11%) 
+NetSky.D (4,4%) 
+NetSky.Z (3,9%) 
+Bagle.AA (2,6%) 
+NetSky.B (2,4%) 
+MyDoom.O (2,2%) 
+NetSky.Q (2,1%)
+Các loại khác: 8,9%
+

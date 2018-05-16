@@ -1,0 +1,6 @@
+Thêm virus Bobax ăn theo Sasser
+Loại sâu này cũng khai thác khiếm khuyết LSASS trong Windows và biến PC nạn nhân thành những cỗ máy ma, làm bàn đạp cho các cuộc tấn công từ chối dịch vụ và phát tán thư rác.
+Bobax không sử dụng con đường e-mail khi tấn công mà tận dụng ngay lỗ hổng trong hệ thống giám sát an ninh nội bộ (LSASS) của Windows 2000, Windows Server 2003 và Windows XP.
+Tác động của loại sâu này được các chuyên gia an ninh đánh giá là không lan rộng bởi vì nhiều người đã nâng cấp hệ thống sau đợt sâu Sasser hoành hành vừa qua. Hamish O'Dea, chuyên gia virus của hãng Computer Associates (Australia) cho rằng những ai đã cài bản vá lỗi cho khiếm khuyết nói trên không chỉ ít bị nguy cơ từ Bobax mà cả những virus khác trong tương lai nếu cũng khai thác điểm yếu này.
+Những loại sâu như Bobax đem lại cho tin tặc một con đường đơn giản để thiết lập một mạng lưới zombie bao gồm những máy tính bị khống chế và sử dụng vào việc gửi spam, Graham Cluley, Giám đốc công nghệ hãng Sophos (Anh), nói. PC nào không được bảo vệ bằng phần mềm chống virus mới, tường lửa hoặc bản nâng cấp của Microsoft đều có nguy cơ bị tấn công.
+

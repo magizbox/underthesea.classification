@@ -1,0 +1,6 @@
+ Phòng chống phishing với Trust watch toolbar
+Ngay sau khi hoàn tất quá trình cài đặt và kích hoạt, thanh công cụ TWT sẽ xuất hiện trong trình duyệt Internet Explorer. Bạn sẽ được đưa đến trang Web . Đây là trang chủ của dịch vụ kiểm tra và xác thực Web site. 
+Để kiểm tra độ bảo mật và tính an toàn khi chia sẻ thông tin trên một Web site nào đấy, bạn hãy nhập vào địa chỉ trang chủ của Web site này trong mục ENTER A WEB ADDRESS HERE rồi nhấn nút GO. 
+Nếu đèn xanh lá cây Verified bật sáng, thì bạn đã có thể an tâm khi cung cấp những thông tin cá nhân nhạy cảm của mình trên Internet. Nếu đèn vàng Not Verified bật sáng thì bạn cần phải hết sức cẩn thận khi trao đổi thông tin cá nhân trên Web site này. Còn khi bắt gặp đèn đỏ Warning thì bạn tuyệt đối không nên chia sẻ bất kỳ một thông tin nhạy cảm nào bởi lẽ đây là Web site có tỷ lệ bị đạo tặc tấn công là rất lớn. Hãy nhấn nút Report Fraud mỗi khi bạn phát hiện những Web site nguy hiểm này. 
+Với dung lượng siêu gọn và rất lý tưởng cho việc download (chỉ 547 KB), tương thích trên các hệ điều hành Windows như 9x/Me/NT/2000/XP và trình duyệt Internet Explorer 5.01 trở lên, phiên bản miễn phí (freeware) của TWT được cung cấp tại đây . 
+

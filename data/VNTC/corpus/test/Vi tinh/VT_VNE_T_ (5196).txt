@@ -1,0 +1,9 @@
+Chuyển đổi PDF miễn phí ngay trên web
+Chương trình xử lý văn bản trên web mang tên Writely vừa được trang bị thêm khả năng chuyển đổi tài liệu theo chuẩn định dạng của Adobe Systems, đồng thời hỗ trợ OpenDocument và Rich Text Format.
+Trình văn bản Writely của công ty Upstartle (Mỹ) hoạt động như một trang web lưu, chỉnh sửa và chia sẻ văn bản. Site tạo điều kiện cho mọi người đăng tài liệu Microsoft Word và sau đó chuyển đổi sang HTML.
+"Người dùng chỉ cần tìm nút 'Save as PDF' (lưu dưới dạng PDF) trong trình soạn thảo", Claudia Carpenter, nhà đồng sáng lập Upstartle, hướng dẫn. Bà cho biết về lâu dài công ty sẽ thu phí sử dụng Writely.
+Hiện nay Writely có khoảng 70.000 người sử dụng. "Dù mới ra mắt trong tháng 8, chúng tôi đã gần đạt đến con số 100.000 và công ty hy vọng sẽ thu hút 1 triệu người đăng ký ngay cuối tháng này", Carpenter nói.
+Writely cũng hỗ trợ OpenDocument, chuẩn xử lý văn bản mở được nhiều công ty như IBM và Sun Microsystems hậu thuẫn. 
+Upstartle là một trong những công ty đang tìm đường đưa ứng dụng lên web, trong đó có cả Microsoft. Rất nhiều trong số đó sử dụng phần mềm lập trình cải tiến Ajax để mang đến khả năng tương tác và cập nhật dữ liệu không thể có trong thế hệ dịch vụ web trước đó.
+Những công ty nhỏ này đang được các "ông lớn" như Google, Yahoo và Microsoft nhòm ngó. Dịch vụ chia sẻ bookmark (thư mục chứa địa chỉ web hay) trực tuyến Del.icio.us cuối tuần qua đã sáp nhập vào Yahoo với số tiền không được tiết lộ.
+

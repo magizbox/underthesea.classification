@@ -1,0 +1,13 @@
+ Chương trình chat tự động “Alice” lại đoạt giải
+Chương trình “Alice” đã được 4 phân tích gia chuyên về trí thông minh nhân tạo của giải Loebne đề cử vào vị trí hàng đầu trong một cuộc bình chọn tại New York vào Chủ nhật 19-09. Chương trình chat tự động khác là British hopeful và Jabberwacky ở vị trí đồng hạng nhì. 
+Cuộc bình chọn này được tổ chức hàng năm với yêu cầu: máy tính có thể trò chuyện với mọi người sao cho đạt đến mức độ không thể phân biệt được đâu là người đâu là máy. 
+Alice đã chiến thắng một cách khá thuyết phục trong các cuộc thi quốc tế vào năm 2000 và 2001. Tác giả của chương trình là anh Richard Wallace người Mỹ, Richard bắt đầu viết chương trình này từ năm 1995. Từ đó đến nay, Richard không ngừng cải tiến về mức độ tinh tế trong kỹ năng trò chuyện của Alice. Một quỹ mang tên Alice đã được thành lập để chuyên tài trợ cho Richard thực hiện công trình này. 
+Richard cho biết: "Tôi luôn tin tưởng đến ngày mà trí tuệ nhân tạo có khả năng tự học hỏi một cách độc lập. Điều này chắc chắn sẽ xảy ra vì các hệ thống mã theo hàm lũy thừa sẽ có khả năng phát triển độc lập”. 
+Alice hoạt động theo những quy tắc được thiết lập một cách hoàn hảo để Alice có thể phản ứng được với đủ loại câu hỏi. Alice được bố trí để đối đầu với 3 đối thủ khác và đây là lần thứ 3 đoạt được giải cao nhất trong hệ thống giải thưởng mang tên Loebner. 
+Giải Loebner đã hình thành từ năm 1990, giải thưởng được thể hiện bằng huy chương và tiền mặt cho các chương trình máy tính có khả năng đối thoại giống người thật nhất. 
+Cuộc thi đấu được tổ chức dưới những quy định hết sức khó khăn và ngặt nghèo. Một nhà toán học tên Alan Turing là người tiên phong tổ chức cuộc thi này lần đầu tiên. Alan Turing yêu cầu các máy tính dự thi có thể nói chuyện (bằng lời nói hay bằng ký tự thể hiện trên màn hình) và phản ứng tình huống cũng như phản ứng ngữ cảnh một cách “thông minh” nhất, giống người nhất, sao cho không thể phân biệt được đâu là người hoặc máy. 
+Cuộc thi tại New York vừa qua đã được Tiến sĩ Hugh Loebner tài trợ và tổ chức từ năm 1990 đến nay. 
+Chương trình đoạt huy chương vàng sẽ nhận được một ngân phiếu trị giá 100.000 USD, chương trình phải thuyết phục được một nửa ban giám khảo tin là họ đang nói chuyện bằng lời với một người “ảo” trên máy tính. 
+Chương trình đoạt Huy chương bạc sẽ nhận ngân phiếu 25.000 USD với điều kiện chương trình phải thuyết phục được 1 nửa ban giám khảo tin rằng: họ đang chat bằng bàn phím với một người nào đó. 
+Cuộc thi năm nay không có giải vàng và bạc nào được trao. Nàng Alice chỉ được trao huy chương đồng nhưng tác giả cũng bỏ túi được 2.000 USD. 
+

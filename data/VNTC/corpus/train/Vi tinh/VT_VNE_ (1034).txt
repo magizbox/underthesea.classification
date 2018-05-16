@@ -1,0 +1,6 @@
+Xem phim quay bằng máy ảnh số Panasonic (1)
+Tôi có máy ảnh số panasonic limux 2 Megapixel quay phim được 20 giây .Khi quay phim, xem lại đoạn phim đó trên máy ảnh luôn thì bình thường, khi dưa vào máy vi tính thì đoạn phim đó được chia ra làm 2 file, 1 file MOV (nếu dùng Windown Media P thì chỉ nghe tiếng, không xem hình được) và 1 file gif ( giống như file ảnh , click vào file gif thì chỉ xem được 1 giây của đoạn phim mình vùa quay). Xin chỉ giùm mình cách xem trọn vẹn đoạn phim 20s đó trên máy vi tính.
+Nguyễn Thái Bình
+Hồi âm:
+Ban phai instal chuong trinh Apple Quicktime Player. Chuong trinh nay thuong kem trong CD khi mua may camera. Chuc ban thanh cong.
+

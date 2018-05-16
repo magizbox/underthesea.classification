@@ -1,0 +1,15 @@
+Windows Vista Beta 1 được phát hành
+Microsoft hôm qua đã công bố sớm bản thử nghiệm chính thức cho phiên bản hệ điều hành Windows thế hệ mới, hoàn thiện hơn so với những lần hãng tiết lộ tính năng trước đây.
+Phần mềm hôm qua đã đến tay 10.000 người và sẽ sớm được cung cấp cho 50.000 thành viên thuộc chương trình các nhà phát triển MSDN của Microsoft. Tập đoàn này nhấn mạnh rằng Vista Beta 1 sẽ không phổ biến đại trà.
+Menu Start được thiết kế lại, cho phép người dùng gõ tên ứng dụng họ muốn mở.
+"Beta 1 không thực sự hấp dẫn", Jim Allchin, lãnh đạo bộ phận Windows, khẳng định. "Bản thử nghiệm này thậm chí không dành cho những người đam mê công nghệ. Mục đích của nó chỉ là kiểm tra một số tính năng của hệ thống".
+Hệ điều hành đã được bổ sung nhiều đặc tính quan trọng, trong đó có khả năng tổ chức và tìm kiếm mới, menu "start" được thiết kế lại, kèm theo một trình duyệt Internet Explorer nâng cấp. Tuy nhiên, những tính năng như quản lý cải tiến cho laptop, chỉnh sửa ảnh và video hiệu quả hơn sẽ chỉ có mặt trong bản thử nghiệm tiếp theo.
+Thư mục ảnh và video gồm thông tin về loại camera được sử dụng và điểm do người dùng đánh giá.
+Microsoft đồng thời hỗ trợ khả năng tắt máy tính (turn off) mà không cần ngừng hoạt động (shut down) hoàn toàn một số chương trình, tính năng kết nối tới một máy chiếu nối mạng dành cho thuyết trình, và có quyền thay đổi trong thiết lập Windows (Windows settings) mà không phải đăng nhập như là một quản trị viên (administrator).
+Bên cạnh đó, Beta 1 giúp các doanh nghiệp quản lý và vận hành một lượng máy tính lớn dễ dàng hơn. Bản thử nghiệm còn bao gồm một "chương trình công việc" được lập sẵn để tự động thực hiện khi có một tình huống cụ thể nào đó xảy ra, ví dụ dung lượng thấp và cần xoá bớt một số file nhạc MP3.
+Tuy giao diện có thể không giống như phiên bản Windows Vista cuối cùng, Beta 1 gồm một số cửa sổ và trạng thái trông như "thuỷ tinh", mang lại cảm giác và cách nhìn mới cho hệ điều hành.
+Thư mục ảo (Virtual Folder) của Vista.
+Ngoài bản Vista Beta 1, Microsoft đồng thời cung cấp bản thử nghiệm của Internet Explorer 7 (IE 7) hoạt động trên Windows XP cho cùng 10.000 đối tượng trên. Giám đốc sản phẩm Greg Sullivan của Microsoft tiết lộ hãng sẽ không cho phép tải trình duyệt này cho đến khi ra mắt Beta 2.
+IE 7 hỗ trợ chế độ duyệt theo tab và khả năng tự động cập nhật thông tin RSS. Trình duyệt cũng có tính năng chống phishing để bảo vệ người dùng khỏi những vụ lừa đảo trực tuyến. Với những trang mà Microsoft nhận ra là site lừa đảo, IE 7 sẽ hiển thị màn hình khuyến cáo "không nên tiếp tục vào website này" để tránh việc người sử dụng tiếp cận trực tiếp trang đó. Những site không rõ nguồn gốc nhưng bị đặt trong tình trạng nghi vấn sẽ được mở với một hộp màu vàng cảnh báo phía trên bên phải ngay gần thanh địa chỉ.
+Microsoft cũng đang chuẩn bị cung cấp Beta 1 cho Longhorn server, phiên bản tiếp theo của hệ điều hành sẽ xuất hiện trong năm 2007.
+

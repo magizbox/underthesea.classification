@@ -1,0 +1,6 @@
+OS X 10.4 Tiger chính thức được phân phối tại VN
+Phiên bản mới nhất của hệ điều hành MAC OS X do hãng Apple phát triển đã vào thị trường Việt Nam thông qua Công ty Phân phối FPT. Giá của sản phẩm dao động từ 3 đến 5 triệu đồng/bản, tuỳ theo yêu cầu.
+"Chúng tôi tin rằng những tiện ích nổi bật trong Tiger như công cụ tìm kiến Spotlight và tính năng tiếp cận thông tin nhanh chóng Dashboard sẽ làm thay đổi cách sử dụng máy tính của người dùng và là những ưu thế cạnh tranh cao của thương hiệu Apple trước các đối thủ", Steve Jobs, Tổng giám đốc hãng "Quả Táo", nói.
+Một trong những điểm mạnh của Tiger là dựa trên chuẩn mở của UNIX bao gồm cả việc cập nhật và nâng cao sự ổn định của SMP, bộ nhớ ảo 64 bit, các danh sách quản lý truy cập, GCC 4.0. Ngoài ra, hệ điều hành này còn có thêm các tiện ích mới như QuickTime 7, Mail 2, iCal... 
+Phiên bản Tiger cho sever tích hợp hơn 100 dự án mã nguồn mở hàng đầu trên thế giới và hơn 200 tiện ích mới bao gồm cả việc hỗ trợ các ứng dụng chạy 64 bit, iChat sever cho phép gửi tin nhắn bảo mật trong một hệ thống... 
+

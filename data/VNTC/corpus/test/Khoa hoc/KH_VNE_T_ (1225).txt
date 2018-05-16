@@ -1,0 +1,6 @@
+Kẹp quần áo dự báo thời tiết
+Treo quần áo lên phơi để rồi 5 phút sau một trận mưa rào ập xuống là chuyện thường tình đối với các gia đình. Nhưng một sinh viên năm cuối tại Đại học Brunel đã chế tạo ra những chiếc kẹp quần áo có thể dự báo thời tiết. 
+Chiếc hộp đựng kẹp quần áo có thể cảm nhận những thay đổi trong áp suất không khí và gửi tín hiệu điện tử tới miếng kim loại trên các cặp quần áo. Nếu mưa được dự báo sẽ đến trong vòng nửa tiếng tới, cái kẹp sẽ tự khoá lại để chủ nhà không thể phơi được quần áo.
+Sinh viên Oliver MacCarthy, đến từ Great Barr, Birmingham, cho biết ý tưởng của anh bắt nguồn từ những chiếc quần ướt sũng. "Tôi nghĩ đến cái kẹp quần áo bởi tôi thường xuyên phải phơi quần áo ngoài trời, để rồi 5 phút sau chúng hoàn toàn ướt sũng".
+Tuy nhiên, hệ thống chưa có cách nào bảo vệ quần áo khỏi trời mưa một khi đã được treo lên. Các chuyên gia hy vọng chiếc kẹp thông minh sẽ có mặt tại các cửa hàng trong tương lai.
+

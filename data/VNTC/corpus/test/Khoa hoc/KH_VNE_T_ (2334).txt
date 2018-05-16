@@ -1,0 +1,39 @@
+Kinh nghiệm để giành điểm cao trong môn Sinh học
+"Một sai lầm là HS cứ chạy đôn chạy đáo đi tìm ở lớp học thêm những câu hỏi hóc hiểm, những bài toán độc chiêu. Các em không biết rằng gần đây những bài tập kiểu đánh đố như vậy đã không còn ra nữa", Tiến sĩ sinh học Phạm Văn Lập phân tích.
+Theo thày Lập, nhiều em cứ nghĩ rằng Sinh học là môn học thuộc lòng mà không cần phải hiểu cặn kẽ. Điều này là sai lầm. Cứ học thuộc lòng, có khi nhớ rất nhanh, nhưng quên cũng rất nhanh và điều quan trọng là nếu không hiểu bài thì cũng cùng một vấn đề khi hỏi khác đi đôi chút là chúng ta sẽ không trả lời được. Học là phải hiểu.
+Cần học cách khái quát hoá kiến thức: Hãy tự mình tìm cách khái quát hoá kiến thức của toàn bộ chương trình, của từng phần từng chương. Cố gắng hiểu đúng các khái niệm, các quá trình, liên hệ các khái niệm của các chương, các phần với nhau nếu có thể. Ví dụ, khi học về nhân đôi ADN hãy đặt ra câu hỏi nếu sự các bazơ không bắt đôi chính xác với nhau thì điều gì sẽ xẩy ra? 
+Một sai lầm nữa là học sinh cứ chạy đôn chạy đáo đi tìm ở lớp học thêm những câu hỏi hóc hiểm, những bài toán độc chiêu. Các em không biết rằng gần đây những bài tập kiểu đánh đố như vậy đã không còn ra nữa, các câu hỏi lý thuyết cũng hoàn toàn cơ bản có trong chương trình. 
+Vậy nên, không nhất thiết phải đến các lò luyện thi mà cần dành nhiều thời gian để tự học: tự hệ thống hoá lại kiến thức, tự đặt ra các câu hỏi rồi tìm cách trả lời. Nếu có gì không trả lời được thì trao đổi với các bạn hoặc hỏi thầy/cô, làm thật thuần thục các dạng bài quen thuộc thì sẽ tốt hơn.
+Kiến thức cơ bản
+Về kiến thức, nội dung thi môn Sinh học chủ yếu có ba mảng: Di truyền, Tiến hoá, và Sinh thái học.
+Trong đó phần di truyền và tiến hoá là chính. Phần sinh thái nếu có thì cũng chỉ chừng một câu. 
+1. Di truyền 
+Phần này lại gồm hai mảng quan hệ mật thiết với nhau là di truyền (DT) và biến dị (BD). Có thể học hai phần tách riêng hoặc học cùng với nhau. Nếu học cùng với nhau thì nên học theo kiểu quá trình di truyền xẩy ra bình thường thì thế nào? Nếu xẩy ra không bình thường (đột biến) thì ra sao? Nếu học riêng từng phần thì cũng nên học theo các cấp độ tổ chức từ phân tử đến tế bào, cơ thể, quần thể.
+DT: có 4 cấp độ: 
+a.DT phân tử: Cần nắm chắc cấu trúc phân tử của vật chất di truyền cũng như quá trình truyền đạt thông tin di truyền : ADN, ARN, quá trình nhân đôi ADN, phiên mã và dịch mã.
+b.DT tế bào: nguyên phân, giảm phân, cấu trúc NST..
+c. DT ở cấp độ cơ thể: Các quy luật DT, quy luật Menden, tương tác gen, liên kết gen, hoán vị gen, DT liên kết với giới tính, di truyền ngoài nhân. 
+d.DT ở cấp độ quần thể: Định luật Hadivanbec, quần thể tự phối.
+Một phần nữa cần lưu ý là các ứng dụng của di truyền như chọn giống và công nghệ sinh học.
+Phần đột biến không thể không có trong đề thi vì vậy các em cần học kỹ.
+2. Tiến hoá
+Nôi dung chính HS cần nắm là các cơ chế tiến hoá, định luật Hadivanbec về sự cân bằng di truyền của quần thể; các yếu tố ảnh hưởng đến cân bằng gen của quần thể, các nhân tố tiến hoá; quá trình hình thành loài và các con đường hình thành loài.
+Cần nắm chắc khái niệm về loài. Từ một quần thể ban đầu tách ra thành 2 quần thể . Hai quần thể này chỉ trở thành hai loài mới sau một thời gian tiến hoá khi hai quần thể thực sự cách li sinh sản với nhau. 
+Biểu hiện cụ thể của sự cách li sinh sản là: Các cá thể của hai quần thể không bao giờ giao phối với nhau ngay cả khi chúng cùng chung sống với nhau, hoặc có giao phối nhưng không cho ra đời con, hoặc cho ra đời con nhưng F1 lại bất thụ.
+3. Sinh thái 
+Đã hai năm nay đề thi không có mảng này, nhưng điều đó không có nghĩa là năm nay không có. Tuy nhiên, nếu có thì điểm cho phần này thường tối đa cũng chỉ chiếm 1/5 số điểm toàn bài. Nội dung chủ yếu của phần Sinh thái có ba mảng lớn là sinh thái cá thể, quần thể, quần xã và hệ sinh thái. 
+Giành trọn điểm phần bài tập
+Bài tập thường có 1-2 bài tập trong mỗi đề thi, chủ yếu rơi vào các quy luật di truyền. Trong vài năm nay không có bài tập về phần phân tử.
+Quy luật di truyền có tương tác gen, DT liên kết với giới tính, liên kết gen, hoán vị gen, DT quần thể, phả hệ& thường bài tập ở mức độ vừa phải, ít khi có những bài quá lắt léo.
+Đứng trước một bài tập các em cần phải xác định bài đã cho chúng ta biết những gì và cần phải tìm cái gì. Thông thường, chúng ta cần xác định tình trạng nêu trong bài là do một hay hai gen qui định. Gen qui định tính trạng là trội hay lặn. 
+Gen nằm trên nhiễm sắc thể thường hay nhiễm sắc thể giới tính. Nếu hai gen qui định một tính trạng thì kiểu tương tác gen đó là gì? Cần lưu ý là hai gen nằm trên cùng một nhiễm sắc thể vẫn tương tác với nhau nhưng chúng ta khó phát hiện. Sách giáo khoa chỉ đề cập đến sự tương tác của các gen nằm trên các cặp nhiễm sắc thể tương đồng khác nhau.
+Trường hợp có dấu hiệu hai gen qui định 2 tính trạng khác nhau nằm trên cùng một nhiễm sắc thể (liên kết gen) thì cần xác định khoảng cách giữa hai gen dựa trên tần số hoán vị gen. Khi có hoán vị gen thì cần xác định xem hoán vị gen xẩy ra ở 1 giới hay xẩy ra ở cả hai giới. Như năm ngoái đề ra không khó nhưng nhiều em quên mất trường hợp ruồi Giấm, hoán vị gen chỉ xảy ra ở ruồi cái mà không xẩy ra ở ruồi đực. 
+Qua tỷ lệ phân ly các em có thể nhận ra hoán vị gen xảy ra ở một giới hay là ở hai giới.
+Bài tập dạng phả hệ: Với dạng bài này, trước hết các em phải xác định tính trạng (bệnh) đó mang tính trội hay lặn, thứ hai là gen qui định tính trạng đó nằm trên NTS thường hay NST giới tính. 
+Khi làm bài tập, một thao tác cơ bản là các em phải biện luận chặt chẽ. Nếu không có biện luận chặt chẽ sẽ và trình bày đầy đủ các bước thì sẽ bị trừ điểm.
+Các em hoàn toàn có thể lấy trọn điểm phầm bài tập nếu làm chặt chẽ cẩn thận.
+Cách làm bài thi: Phải biết chọn ý để trả lời.
+Đề thi những năm gần đây thường có nhiều câu hỏi nhỏ, trước kia chỉ có 4-5 câu, hiện nay đề thường có 7-8, thậm chí có thể đến cả chục câu và trong một câu có khi lại có nhiều ý nhỏ. Chính vì điều này nên HS phải học phủ kín toàn bộ chương trình, không học tủ được.
+HS phải biết cách chọn ý để trả lời. Lỗi các em hay mắc là làm theo kiểu cũ, câu hỏi chỉ hỏi một vấn đề nhỏ, nhiều em học thuộc lòng máy móc, trả lời hết những gì mình biết có liên quan đến vấn đề đó thành ra rất dài và không còn đủ thời gian làm câu khác. Đừng nghĩ rằng thừa hơn thiếu, đề hỏi gì các em trả lời trực tiếp vào ý đó, vậy là đủ.
+Nếu có câu nào nghĩ rằng mình vẫn còn thiếu một ý nào đó mà chưa nghĩ ra, thì cứ để cách ra một phần giấy, sau khi làm xong quay lại làm tiếp. Không ai trừ điểm cái khoảng trống đó.
+

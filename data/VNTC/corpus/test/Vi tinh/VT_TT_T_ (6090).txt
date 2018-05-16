@@ -1,0 +1,7 @@
+ IBM và HP đứng đầu thế giới về siêu máy tính
+Jack Dongarra, giáo sư máy tính thuộc đại học tổng hợp Tennessee cho biết rằng chiếc siêu máy tính Blue Gene/L này hiện chứa đến 64.000 bộ vi xử lý và sẽ được nâng cấp lên đến 130.000 bộ vi xử lý vào tháng 11-2005. 
+Đây được xem là một con số gây sửng sốt cho giới khoa học máy tính vào thời điểm hiện nay, nó sẽ có những khả năng trình diễn và tính toán ở mức “siêu tưởng”. 
+Blue Gene/L có tốc độ tính toán đạt đến 136,8 ngàn tỷ phép tính/giây. Một hệ thống Blue Gene khác được đặt tại Trung tâm nghiên cứu Thomas J.Watson ở New York về nhì với tốc độ tính toán đạt 91,2 ngàn tỷ phép tính/giây. Chiếc siêu máy tính của công ty Silicon Graphics được trang bị chip xử lý Itanium 2 của Intel về thứ ba với tốc độ 51,8 ngàn tỷ phép tính/giây. 
+Một số siêu máy tính khác của Nhật Bản, mà một thập niên trước đây đã từng được xem là mối đe dọa cho nền công nghiệp siêu máy tính của Mỹ, đã không còn nổi bật lắm trong cuộc đua này. Chiếc siêu máy tính “Earth Simulator” của NEC đứng thứ tư nhưng tốc độ tính toán lại kém xa so với 3 siêu máy tính trên của Mỹ. 
+Danh sách Top 500 siêu máy tính này do các nhà khoa học lừng danh của đại học tổng hợp Mannheim (Đức) và Phòng thí nghiệm quốc gia Lawrence Berkeley (Mỹ) thành lập nên và được cập nhật nửa năm một lần. Đại đa số các siêu máy tính này đều được trang bị các chip xử lý lõi kép 64 bit. 
+

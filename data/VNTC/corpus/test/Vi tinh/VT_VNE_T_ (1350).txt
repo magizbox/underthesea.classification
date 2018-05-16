@@ -1,0 +1,8 @@
+Tìm phầm mềm download sách báo online (2)
+Chao cac Anh Chi. Toi dang tim mot phan mem de download sach online va ca bao dien tu tren mang Internet ve luu tru trong o cung cua may, de khi nao khong vao mang ma van co the doc duoc. Xin chan thanh cam on anh chi. 
+Pham Manh Hung
+Hồi âm:
+Bạn có thể sử dụng Acrobat Reader 6.0.1 (link downloadhttp://www.adobe.com/products/acrobat/readstep2.html) ở phần ngôn ngữ chọn English, ở phẩn platform chọn OS mà bạn đang sử dụng, ở phần connection speed chọn tốc độ mà bạn đang kết nối.sẻ dẩn bạn đến nơi download sau khi cài đặt xong bạn chọn update ADOBE sẽ cập nhật lên ver 6.0.2 cho bạn. Ban có thể xem offline tất cả các ebook (sách điện tử) mà bạn đã lưu trữ trên ổ cứng. 
+TOM
+- Về e-book thì bạn dùng các chương trình chia sẻ file mà tìm và download. eMule ( http://www.emule-project.net ) là một chương trình bạn nên dùng cho việc này.- Còn các trang báo điện tử bạn dùng chương trình Offline Explorer (http://www.metaproducts.com/download/oesetup.exe )để download toàn bộ website về để xem ở chế độ Offline.
+

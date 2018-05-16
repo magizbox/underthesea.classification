@@ -1,0 +1,6 @@
+Chỉnh sửa và chuyển đổi định dạng ảnh bằng AutoImager
+Mặc dù việc cài đặt tốn khá nhiều thời gian, chương trình biên tập ảnh AutoImager tỏ ra xứng đáng với công sức bạn bỏ ra. Mạnh và dễ sử dụng, phần mềm này rất hữu ích với những người thường xuyên phải xử lý ảnh trong công việc.
+Vì AutoImager cài đặt rất nhiều font và tập tin vào máy tính, bạn sẽ phải chờ khá lâu mới có thể sử dụng được chương trình. Nhưng khi đã cài xong, bạn sẽ hài lòng với giao diện đẹp, trực quan của nó. Hỗ trợ tới 70 định dạng ảnh và rất dễ sử dụng với khả năng tùy biến cao, AutoImager có thể chuyển đổi các tập tin của nhiều định dạng chỉ trong vài giây.
+AutoImager cũng được trang bị nhiều tính năng biên tập mạnh. Bạn có thể thực hiện những nhiệm vụ cơ bản như cắt và xoay ảnh, hay phức tạp hơn như tạo các hiệu ứng làm mờ Gaussian hoặc khử vết rạn despeckling. 
+Bạn có thể tải chương trình dùng thử có dung lượng 9,8 MB và thời hạn 15 ngày tại đây.
+

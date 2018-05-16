@@ -1,0 +1,5 @@
+Phần mềm thiết kế hạ tầng cho các khu quy hoạch
+Hôm qua, công ty Bentley System đã họp báo tại Hà Nội để giới thiệu chương trình PowerCivil, một sản phẩm chuyên dụng trong thiết kế hạ tầng bằng công nghệ mô hình hóa 3D.
+Ông Dave Body, phụ trách kỹ thuật phát triển sản phẩm PowerCivil khu vực Đông Nam Á - Thái Bình Dương cho biết: Phần mềm PowerCivil có chi phí đầu tư thấp với các tính năng vượt trội như thiết kế hạ tầng kỹ thuật mặt bằng cho xây dựng các khu công nghiệp, khu quy hoạch đô thị, các công trình xây dựng công cộng, thiết kế và xác định chi tiết khu vực san lấp mặt bằng, kênh mương hồ chứa, hệ thống cấp thoát nước, đường, ngõ, phố đô thị&.
+Theo ông Body, PowerCivil có tính tương thích cao với các sản phẩm cùng loại như Adobe, AutoCAD. Ngoài ra, nó cung cấp khả năng kiểm soát xuyên suốt các giai đoạn từ đo đạc khảo sát đến mô hình hóa thiết kế bằng công nghệ 3D trực quan có thể phối hợp đồng thời trên mặt cắt ngang, mặt cắt dọc và mặt cắt bằng.
+

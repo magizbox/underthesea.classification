@@ -1,0 +1,4 @@
+Ngành thuế có website
+Ngày 1/6 tới, Tổng cục Thuế sẽ chính thức khai trương địa chỉ websitewww.gdt.gov.vn, mục đích là tuyên truyền chính sách, chế độ thuế và thiết lập thêm kênh đối thoại với doanh nghiệp. Bên cạnh đó là từng bước cung cấp dịch vụ công tới các tổ chức, cá nhân nộp thuế, cung cấp dịch vụ trực tuyến.
+Website này sẽ được phát triển qua 3 giai đoạn: xây dựng hệ thông các ứng dụng cung cấp thông tin hỗ trợ người nộp thuế về những văn bản chính sách, thủ tục, giải đáp thắc mắc; xây dựng cơ sở dữ liệu hỏi - đáp giữa cơ quan quan nhà nước và các tổ chức, cá nhân trong xã hội; phát triển dịch vụ mới như đăng ký, kê khai nộp thuế, bản kê hoá đơn và nghiên cứu khả năng phát triển dịch vụ nộp thuế qua Internet.
+

@@ -1,0 +1,7 @@
+Apple và Real xung đột vì Harmony
+Apple đang theo dõi sát sao mọi động thái của RealNetworks sau khi hãng phần mềm này tuyên bố vừa tìm ra phương thức để nhạc tải từ dịch vụ của họ có thể chơi trên máy nghe nhạciPod. Theo "Quả táo", Real đã không chơi đẹp.
+Apple tuyên bố: "Chúng tôi choáng váng khi thấy RealNetworks áp dụng những chiến thuật và cách hành xử của hacker để can thiệp vào máy chơi nhạc iPod. Chúng tôi đang điều tra các hành động của họ theo Luật Bản quyền kỹ thuật số thiên niên kỷ (DMCA) và các điều luật khác".
+"Quả táo" khuyến cáo Real và các khách hàng của họ, rất có thể công nghệ Harmony của Real sẽ ngừng hoạt động trên các máy iPod hiện tại và tương lai, khi phần mềm của iPod được nâng cấp.
+Trước đây, máy nghe nhạc iPod chỉ có thể chơi nhạc download từ iTunes, cả hai cùng là sản phẩm của Apple.Các kỹ sư của RealNetworks đã sử dụng những thông tin được phổ biến rộng rãi để tìm ra cách thức làm các tập tin của họ tương thích với phần mềm quản lý tác quyền kỹ thuật số (DRM) FairPlay của Apple. Khi người dùng mua bài hát từ tiệm nhạc của Real, Harmony sẽ kiểm tra thiết bị chơi nhạc và chuyển đổi định dạng nếu cần.
+Real vẫn khẳng định, họ không hề vi phạm quyền sở hữu trí tuệ của Apple vì Harmony chỉ mô phỏng cơ chế vận hành của DRM để làm các bản nhạc trở nên tương thích với iPod. Rob Glaser, Giám đốc điều hành của RealNetworks, giải thích: Chúng tôi xây dựng phần mềm này để người tiêu dùng chỉ mua nhạc một lần và chơi ở bất cứ đâu. 
+

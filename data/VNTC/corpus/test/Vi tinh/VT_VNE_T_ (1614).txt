@@ -1,0 +1,6 @@
+Google xây dựng kho sách trực tuyến khổng lồ
+Hôm qua, hãng tìm kiếm số một thế giới cho biết, họ sẽ số hóa các thư viện của 5 học viện lớn nhất thế giới. Sau đó, những trang sách sẽ được tạo chỉ mục phục vụ cho việc tìm kiếm và đọc trực tuyến.
+Những cơ sở học thuật đóng góp vào dự án này bao gồm toàn bộ thư viện các trường đại học Michigan, Stanford, một phần thư viện của Harvard, Oxford và thư viện công cộng New York. Đây là một khối lượng công việc đồ sộ vì chỉ riêng việc số hóa bộ sưu tập của đại học Michigan, bao gồm 7 triệu cuốn, cũng phải mất 6 năm.
+Người dùng sẽ chỉ được truy cập đến các trích đoạn và phần tiểu sử trong những tác phẩm có bản quyền. Thư viện New York cho phép Google tiếp cận với một phần của mảng sách không còn được bảo vệ bởi luật tác quyền. Đại học Harvard giới hạn số đầu sách tham gia dự án là 40.000, trong khi Oxford muốn Google quét những cuốn sách xuất bản trong thế kỷ 19 và đang được lưu trữ trong thư viện Bodleian. 
+Theo Google, họ sẽ không quảng cáo trên sách trực tuyến mà thay vào đó sẽ là đường link đến trang bán hàng qua mạng Amazon và các thư viện mà người đọc có thể tới đó mượn sách. Hãng tìm kiếm sẽ không được trả thù lao cho việc cung cấp liên kết. Mục đích của dự án này là mở khóa kho tàng thông tin ngoại tuyến và đưa nó lên mạng, Giám đốc quản lý sản phẩm của Google Susan Wojcicki cho biết.
+

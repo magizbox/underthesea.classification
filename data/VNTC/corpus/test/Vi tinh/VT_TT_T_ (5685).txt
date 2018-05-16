@@ -1,0 +1,4 @@
+ Những thay đổi mới trong Google Search
+Trong phần thử nghiệm, Google đã chuyển các liên kết website của mình sang phần bên trái của trang kết quả. Bên dưới mỗi danh mục tìm kiếm, như là Groups và Local là một biểu đồ hiển thị số lượng kết quả tìm được. 
+“Chúng tôi vẫn đang thử nghiệm giao diện và các tính năng mới để cải thiện khả năng sử dụng cho người dùng. Đây chỉ là một phần thử nghiệm mà người dùng có thể tiếp cận đầu tiên.” Google cho biết. 
+

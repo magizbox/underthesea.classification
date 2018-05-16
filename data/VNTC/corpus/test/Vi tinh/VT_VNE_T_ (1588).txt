@@ -1,0 +1,17 @@
+10 loại spyware phổ biến nhất hiện nay
+Trong danh sách mà hãng dịch vụ bảo mật Webroot (Mỹ) vừa công bố, tất cả những chương trình do thám này đều xuất hiện trong các ứng dụng phổ biến nhất trên máy tính.
+Đại bộ phận spyware gắn liền với những phần mềm miễn phí và ảnh hưởng của chúng thì rất đa dạng, từ hiển thị quảng cáo cho tới ăn cắp thông tin mà người sử dụng máy tính gõ trên bàn phím& 
+Mục đích của chúng tôi là thông báo cho người sử dụng Internet về những dạng thức xâm nhập của các phần mềm này, Richard Stiennon, Phó chủ tịch Webroot, nói. Người lướt web có thể lựa chọn giữ lại hoặc loại bỏ chúng, tùy theo những thông tin mà chúng đem lại cho họ. Qua khảo sát này, chúng tôi hy vọng giúp mọi người có quyết định chính xác.
+Hiện nay, một trong những thiệt hại tài chính gây bức xúc nhất do các phần mềm spyware gây ra chính là việc chúng khiến modem tự động quay số tới những số điện thoại có tính phí dịch vụ, khiến nhiều khách hàng chỉ còn biết kêu trời mỗi khi nhận thông báo tính tiền viễn thông hàng tháng.
+Top 10 loại spyware phổ biến nhất:
+PurityScan: Làm hiển thị cửa sổ pop-up mỗi khi máy tính nối mạng. Chương trình này câu kéo khách hằng bằng cách khẳng định nó có khả năng tìm và xóa những hình ảnh khiêu dâm.
+N-CASE (msbb.exe): Gửi quảng cáo vào máy tính, chương trình này thường gắn kèm trong nhiều ứng dụng miễn phí.
+Gator (GAIN): Làm hiển thị quảng cáo dạng banner dựa theo thói quen lướt web của bạn. Spyware này thường có mặt trong chương trình chia sẻ file Kazaa.
+CoolWebSearch (CWS): Khống chế các mục search trên web từ một máy tính, thay đổi homepage và cài đặt của trình duyệt Internet Explorer. 
+Transponder (vx2): Theo dõi việc truy cập web và những dữ liệu mà người sử dụng nhập vào các biểu mẫu trực tuyến rồi gửi các quảng cáo có lựa chọn dựa theo những thông tin này.
+ISTbar/Aupdate: Đây là một toolbar dùng để tìm kiếm các website khiêu dâm và có thể làm hiển thị những cửa sổ pop-up với hình ảnh sex. Nó cũng có khả năng khống chế homepage trình duyệt và các lệnh tìm kiếm trên Internet của người dùng máy tính.
+KeenValue: Là một chương trình thu thập những thông tin cá nhân và phát tán quảng cáo vào máy tính.
+Internet Optimizer: Chương trình này khống chế những trang web bị lỗi và lái (redirect) chúng sang server kiểm soát của nó tại địa chỉ www.internet-optimizer.com.
+Perfect Keylogger: Giám sát và ghi lại tất cả những trang web mà máy tính truy cập, cộng với các thông tin gõ trên bàn phím hoặc click chuột. 
+TIBS Dialer: Khống chế modem và thực hiện việc quay số tự động tới những số điện thoại thu cước dịch vụ, thường là của những website cung cấp nội dung người lớn có tính phí.
+

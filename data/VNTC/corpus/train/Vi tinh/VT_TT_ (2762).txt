@@ -1,0 +1,4 @@
+ Nấu trà bằng… tin nhắn SMS
+ReadyWhenUR có thiết kế giống như mọi chiếc ấm nấu trà thông thường, nhưng điểm khác biệt nổi bật của nó là có bộ phận nhận tín hiệu sóng radio, chương trình nhận diện số điện thoại và có thể kết nối với mạng viễn thông của Orange để nhận tin nhắn từ điện thoại di động. 
+Để bắt đầu nấu trà, người dùng chỉ cần gửi một tin nhắn ngắn có nội dung như “Switch on” đến chiếc ấm. Khi nhận được tin nhắn này ấm sẽ tự động bắt đầu đun nước nấu trà (tất nhiên là bạn phải đổ sẵn nước vào ấm trước). 
+

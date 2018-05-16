@@ -1,0 +1,6 @@
+Lỗ hổng thứ 3 trong công cụ search Google
+Theo hãng Netcraft (Anh), khiếm khuyết lần này được nhà báo Italy Salvatore Aranzulla phát hiện. Nó có thể cho phép hacker chỉnh sửa các trang tìm kiếm bằng cách chèn script trên các máy chủ ngoài.
+Kẻ tấn công còn có thể thu thập thông tin thông qua việc giả mạo một tên miền nổi tiếng nào đó. Aranzulla cho rằng những người sử dụng kém cảnh giác có thể trở thành nạn nhân của các dạng lừa đảo phishing lợi dụng lỗ hổng nói trên. 
+Hai lỗi trước đây được chuyên gia Jim Ley và Netcraft phát hiện. Netcraft cho biết họ chưa rõ liệu Aranzulla có thông báo vấn đề cho Google trước khi công bố rộng rãi hay không. Hai tuần trước Jim Ley cũng đã gặp khó khăn trong việc thông báo cho hãng dịch vụ tìm kiếm về một lỗi tương tự. Netcraft thì báo cho Google một lỗi khác tuần qua và khiếm khuyết đã được vá trong vòng 2 ngày.
+Tiện ích search trên desktop của Google, đang được cung cấp thử nghiệm, cho phép người sử dụng tìm kiếm nhanh e-mail, file, hồ sơ duyệt web và chat. Các vấn đề về tính riêng tư đang được bàn tán rất nhiều sau khi những lỗi kỹ thuật nói trên được phát hiện, đặc biệt là phương thức xếp chỉ mục các file ở những máy tính chia sẻ. 
+

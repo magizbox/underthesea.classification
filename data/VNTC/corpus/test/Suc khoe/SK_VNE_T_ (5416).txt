@@ -1,0 +1,11 @@
+Làm trong nước nhanh bằng vôi tôi
+Khi làm trong nước sông bằng phèn, người ta thường cho thêm một ít vôi tôi. Tại sao?
+Nước sông thường đục, nhất là về mùa mưa vì có nhiều cặn, đất, cát và các sinh vật phù sinh như tảo, rêu, nguyên sinh động vật... Những hạt cặn to, nặng bị lắng nhanh, những hạt keo nhỏ bị lắng chậm hơn. Để lắng sâu xuống 1 m, loại cát to 1 mm mất 10 giây, cát nhỏ 0,1 mm mất 2 phút, hạt phù sa 0,01 mm mất 2 giờ, hạt đất sét nhỏ 0,0001 mm mất 2 năm. Còn loại hạt keo 0,00001 mm thì phải mất đến... 200 năm. 
+Phèn chua (nhôm sunfat) có công thức hóa học là Al2(SO4)3, thường được dùng để làm trong nước ở gia đình và các tập thể nhỏ. Khi gặp nước, phèn chua bị thủy phân tạo nên một hỗn dịch keo và các hạt nhôm hydrat Al(OH)3 mang điện tích dương (+):
+Al2(SO4)3 + H2O  Al(OH)3 + H2SO4
+Chính các hạt điện tích dương này kéo theo những hạt cặn lơ lửng xuống, làm cho nước trong. Trong nước thường có canxi và magiê ở dạng hydro cacbonat nên khi phèn vào nước sẽ tác dụng với canxi và magiê, tạo nên các hạt nhôm hydrat, làm tăng mật độ các hạt mang điện tích dương. Nhờ đó mà cặn lắng nhanh, nước mau trong.
+Tuy vậy, với những nguồn nước nghèo muối canxi và magiê, độ kiềm thấp (pH dưới 7), nếu chỉ dùng phèn thì lượng tủa sẽ ít, không đủ để kéo các hạt lơ lửng xuống. Nước sẽ kém trong hoặc lâu trong. Để làm trong nước nhanh và tiết kiệm phèn, người ta thường cho vào nước một lượng nhỏ vôi tôi, tên hóa học là canxi hydrat - Ca(OH)2. Khi đó, phèn sẽ tác dụng với canxi của vôi tôi:
+l H2CO3 + Ca(OH)2  Ca(HCO3)2 + H2O
+lAl2(SO4)3 + Ca(HCO3)2   CaSO4 + Al(OH)3
+Do số lượng điện tích dương Al(OH)3 tăng, cặn lơ lửng được thu hút nhiều hơn, nước mau trong hơn.
+

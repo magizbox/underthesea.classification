@@ -1,0 +1,10 @@
+Bạn là người siêng năng và chí thú với công việc, tất nhiên là cấp trên sẽ rất hài lòng. Nhưng, nếu cứ miệt mài với máy tính mà không có những phút giây thư giãn thì sức khỏe của bạn dễ có vấn đề, một trong số ấy là hội chứng CVS (Computer Vision Syndrrome: Hội chứng về mắt do sử dụng máy tính) mà nhiều bài báo đã từng đề cập. Do vậy, sau một khoảng thời gian nhất định nên có vài phút nghỉ ngơi, và hãy để phần mềm miễn phí User Health giúp chúng ta điều này. Chương trình có dung lượng 575 KB, tương thích với Windows 98 trở lên, tải về từ địa chỉ www.userhealth.tk. 
+Giao diện của chương trình gồm:
+- Message: Những thông báo được đánh dấu chọn sẵn là nhắc nhở về sức khỏe, đề nghị nghỉ giải lao và thông báo đã đến giờ... đi ngủ.
+- Đánh dấu chọn để chương trình này sau bao nhiêu phút thì thông báo cho chúng ta một lần. Có các lựa chọn 30, 45 hoặc 60 phút. Nếu chưa ưng ý thì bấm vào ô Other và gõ số phút tự chọn.
+- Bấm nút More Settings để có thêm nhiều tùy chọn khác cho việc thiết lập tại hộp Settings:
+Khung Options: Đánh dấu ô Use keyboard LEDs on message nếu bạn muốn các đèn Num lock, Cap lock và Scroll lock trên bàn phím cùng sáng lên để thông báo. Nếu đánh dấu vào ô Onlu sound message thì chương trình chỉ thông báo bằng âm thanh mà không xuất hiện cửa sổ cảnh báo bằng Text. Nếu đánh dấu vào ô Force the user to take a break, kế tiếp là quy định số giây ở phía khung kế dưới thì chương trình sẽ đưa ra một cảnh báo bạn phải nghỉ ngơi, hiển thị bằng một hộp có kích cỡ lớn ngay giữa màn hình.
+Khung Sound: Quy định file âm thanh định dạng wav để cảnh báo, nhắc nhở. Có thể sử dụng những gì mặc định của chương trình hoặc có thể ghi lại chính giọng nói của bạn (thông qua công cụ ghi âm của Windows), lưu trên máy tính rồi chỉ đến vị trí của nó mà sử dụng thông qua nút Browse. Có thể bấm nút Play để nghe trước.
+- Sleep Options: Bấm nút Set Time để quy định đến thời điểm nào đó thì máy tính sẽ tự động làm theo một trong các lệnh quy định trước như: Tắt máy, thoát khỏi hệ thống, tái khởi động hoặc tắt nguồn.
+Sau khi thiết lập xong, bấm nút Start để chương trình bắt đầu hoạt động.
+

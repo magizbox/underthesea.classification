@@ -1,0 +1,33 @@
+E-mail đã trở nên phổ biến và mọi người có xu hướng sử dụng công cụ này nhiều hơn cả những lá thư viết tay. Hàng trăm dịch vụ thư điện tử đã xuất hiện với những ưu thế riêng về bảo mật, giao diện bắt mắt…
+Google Mail (www.gmail.com)
+Dù mới là một “chú nhóc” (hiện chỉ là bản thử nghiệm) so với Yahoo Mail và Hotmail, Gmail đã làm được những điều mà hai “đại gia” trên phải nể phục: dung lượng lên đến 2 GB, tìm kiếm hiệu quả và tích hợp công cụ chat Google Talk ngay trong giao diện e-mail. Công nghệ AJAX cho phép hòm thư tải dữ liệu nhanh chóng và giúp mọi người quản lý thông tin liên lạc dễ dàng. 
+Gmail được trang bị công cụ chống spam hiệu quả, hoạt động ổn định và thậm chí nhiều người đã biến Gmail thành nơi lưu file. Những ưu điểm trên khiến Gmail trở thành một trong những lựa chọn hàng đầu hiện nay.
+Yahoo Mail (mail.yahoo.com)
+Nếu bạn cần một công cụ lọc spam mạnh và giao diện đơn giản, Yahoo Mail sẽ là lựa chọn số một. Nó cung cấp cho bạn đủ dung lượng để lưu những e-mail cơ bản (ảnh, text và tài liệu) cũng như được nhà cung cấp hỗ trợ kịp thời mỗi khi có sự cố. 
+Trả thêm 19,99 USD/năm, bạn đã có thể đăng ký một tài khoản Yahoo Mail Plus không chứa quảng cáo và cho phép gửi file có dung lượng lên đến 20 MB.
+Hotmail (www.hotmail.com)
+Dịch vụ e-mail của Microsoft được khá nhiều người sử dụng nhưng nó chỉ thực hiện được những chức năng cơ bản. Vấn đề lớn nhất của Hotmail là nó đã trở thành mục tiêu số một của nạn spam và lừa đảo trực tuyến trong những năm qua. 
+Dịch vụ cũng có ít những tính năng đáng chú ý như hình theo chủ đề (theme), hình biểu thị trạng thái (emoticon)…
+Mac (www.apple.com/dotmac)
+Mac còn hơn cả một dịch vụ e-mail đối với những ai sử dụng Macintosh của Apple. Mọi người sẽ có một địa chỉ e-mail có đuôi @mac.com. 
+Sau đó, họ có thể đăng ảnh và chia sẻ với tất cả mọi người, sở hữu một trang web cá nhân với băng thông không hạn chế, lập blog, sử dụng iDisk miễn phí để sao lưu dự phòng (back up) tài liệu… 
+Tuy giá phí sử dụng khá cao (99 USD), những tính năng của nó đủ khiến nhiều người sẵn sàng trả tiền đăng ký dịch vụ.
+Hushmail (www.hushmail.com) 
+Nếu bảo mật là ưu tiên hàng đầu, bạn nên thử dịch vụ Hushmail. Hòm thư này mã hóa tất cả các e-mail, kể cả file đính kèm, do đó người dùng không cần lo lắng về việc ai đó có thể đọc trộm thông tin của họ. 
+Nó cũng tự động quét virus và lọc thư rác. Sau khi đăng ký tài khoản miễn phí, bạn có thể mua thêm một số tính năng với giá tương đối thấp.
+MyTrashMail (www.mytrashmail.com)
+Nếu một công ty quảng cáo trực tuyến biết được địa chỉ e-mail của bạn, “thảm cảnh” phải nhận đến hàng trăm thư rác mỗi ngày là điều khó tránh khỏi. Để tránh sự phiền nhiễu này, bạn nên tìm đến MyTrashMail. 
+Đây là dịch vụ miễn phí, cho phép mọi người sử dụng một địa chỉ e-mail ẩn mà không cần đăng ký hay mật khẩu. MyTrashMail xứng đáng là công cụ hoàn hảo mỗi khi bạn phải giao tiếp với những đối tượng mà bạn không thích.
+MuchoMail (www.muchomail.com)
+MuchoMail là một chương trình rất đơn giản. Nó chỉ có dung lượng 25 MB đối với tài khoản miễn phí và 1 GB cho một tài khoản trả tiền. Hòm thư có công cụ chống thư rác, diệt virus, thư mục và một vài tính năng cơ bản khác như đính kèm file, hộp danh bạ… 
+Nếu không cần đến sức mạnh của Gmail hay khả năng bảo mật của Hushmail, mọi người có thể thử sử dụng dịch vụ đơn giản, thô sơ nhưng ổn định của MuchoMail.
+Lycos E-mail (mail.lycos.com)
+Hòm thư Lycos có nhiều tính năng rất đáng chú ý như công cụ chống spam và phishing mạnh mẽ, cho phép chặn tên miền và địa chỉ e-mail mà bạn không muốn nhận. 
+Mọi người cũng có thể soạn thư theo định dạng HTML, nhờ đó e-mail trông đẹp và phong cách hơn... Lycos Mail Plus miễn phí, hỗ trợ POP3, không chứa quảng cáo và dung lượng 125 MB sẽ được nâng lên tùy theo mức tiền.
+Mail (www.mail.com)
+Dịch vụ e-mail miễn phí này gồm bộ lọc spam và chống virus như các hòm thư khác. Ngoài ra, nó được trang bị một số công cụ như notepad, lịch web, danh bạ…
+Mail.com cũng cung cấp một chương trình tin nhắn nhanh, cho phép bạn sử dụng những dịch vụ như AIM, ICQ và MSN trên cùng một hệ thống. Bên cạnh đó, Mail.com cũng đưa ra một danh sách những tên miền khác cho e-mail, như @witty.com…
+Mail2Web (www.mail2web.com)
+Mail2Web cho phép mọi người đọc thư trên bất cứ máy tính, điện thoại di động hay PDA kết nối Internet nào. Họ không cần phải đăng ký phức tạp mà chỉ cần nhập đầy đủ địa chỉ e-mail và mật khẩu.
+Giao diện của Mail2Web khá đẹp và thuận tiện, đồng thời mọi người cũng có thể sử dụng dịch vụ chat để kết hợp danh sách bạn bè từ AIM, Yahoo Messenger… Web2Mail được nhiều người đánh giá là một trong những dịch vụ e-mail đáng chú ý nhất hiện nay.
+

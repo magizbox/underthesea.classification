@@ -1,0 +1,11 @@
+Máy chủ gặp lỗi sau bão (1)
+Chào ban biên tập VnExpress.
+Công ty tôi đang dùng máy chủ IBM Xseries 225. Sau hôm bão ở Quảng Ninh, máy chủ của chúng tôi khởi động lên thấy xuất hiện lỗi như sau: NTLDR file is missing press ctrl+alt+del to restart.
+Mong giải đáp giúp tôi. Chân thành cám ơn!
+Hoàng Đức Huy
+Hồi âm:
+Chắc chắn không phải tại bão vì chỉ có một mình server của bạn bị trục trặc. Tôi đã gặp trường hợp tương tự. Có một số khả năng và cách xử lý sau: 
+1. Ai đó đã xóa mất file hệ thống hoặc file hệ thống tự hỏng: Bạn phải biết chính xác file bị thiếu là file nào, nằm ở đâu sau đó tìm file bổ sung. Tuy nhiên, nếu là file hệ thống liên quan đến các thiết lập cấu hình thì rất khó có thể tìm được file bổ xung, không cẩn thận có thể làm hệ thống hỏng nặng thêm. Bạn có thể xử dụng tính năng phục hồi (về tình trạng hoạt động tốt gần nhất) của Win server 2003 hoặc cài đè. 
+2. Vẫn là mất file hệ thống nhưng do bị virus phá: quét sạch virus rồi thử khắc phục như trên. 
+Tuy nhiên, tốt nhất và có thể nhanh nhất là bạn format rồi cài lại HĐH.
+

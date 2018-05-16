@@ -1,0 +1,7 @@
+Máy tính siêu nhỏ
+Với kích thước 129 mm chiều dài, 74 mm chiều rộng, độ dầy 18,7 mm và trọng lượng 280 gram, máy tính Modular của công ty MCC chỉ lớn hơn bộ bài một chút và có vỏ nhôm. 
+Máy có bộ xử lý 1GHz sử dụng công nghệ quản lý tiên tiến LongRun, chip nhớ DDR (Double 
+Data Rate) SDRam có dung lượng 512 MB và ổ cứng 20 GB (có thể nâng cấp lên 30 GB). Thiết bị này cũng có bộ nhớ hình ảnh video và hỗ trợ đồ họa 2D/3D với màn hình LVDS với độ phân giải lớn nhất 1.600 x 1.200 pixel. Modular cũng có hệ thống stereo đa phương tiện gồm một micro gắn trong và đường ra cho stereo.
+Máy tính Modular dùng hệ điều hành Windows XP Professional, hỗ trợ nhiều phần mềm khác nhau và cho phép sử dụng không cần kệ đỡ. Người dùng có thể đặt Modular vào Microtablet để dùng như các thiết bị di động, đặt vào vỏ máy xách tay để biến thành laptop, hoặc để trên bàn và sử dụng như một chiếc desktop thông thường. 
+Theo các chuyên gia, Modular hoàn toàn có thể mở rộng và nâng cấp được.
+

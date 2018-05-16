@@ -1,0 +1,7 @@
+Mạng lưới 100.000 máy tính 'ma' bị xóa sổ
+Cảnh sát Hà Lan vừa bắt giữ 3 thanh niên với tội danh sử dụng hệ thống PC bị khống chế (zombie) quy mô lớn trên toàn thế giới để đột nhập vào nhiều tài khoản ngân hàng quốc tế và hệ thống thanh toán trực tuyến Paypal (Mỹ).
+Trong cuộc đột kích bất ngờ vào nơi ở của 3 tên này (19, 22 và 27 tuổi), cảnh sát đã thu về "một số máy tính, tài liệu, một tài khoản ngân hàng, tiền mặt và một ôtô thể thao".
+Hơn 100.000 cỗ máy zombie, trong số đó có tới vài nghìn máy tính của nạn nhân ở Hà Lan, bị cài Trojan mang tên Toxbot. Băng hacker này đã chơi trò "mèo vờn chuột" với các hãng bảo mật. "Toxbot ghi lại toàn bộ hoạt động của bàn phím trên PC bị lây nhiễm và gửi thông tin trở lại cho nhóm tội phạm mạng. Phần mềm diệt virus đã nhiều lúc phát huy tác dụng, góp phần cản đường chúng. Tuy nhiên, 3 tay này đã thường xuyên chỉnh sửa chương trình để duy trì trò chơi với công cụ bảo mật", một cảnh sát tiết lộ.
+Nhóm điều tra cho rằng 3 tên này đã nắm trong tay một lượng lớn tài khoản của Paypal và eBay, cho phép chúng đăng ký mua hàng qua mạng mà không phải trả tiền. Họ cũng khẳng định có ít nhất một vụ tấn công từ chối dịch vụ DDoS hướng vào một công ty không được nêu tên tại Mỹ. DDoS là thủ thuật chủ yếu được những kẻ tống tiền sử dụng, và nạn nhân thường là các công ty đánh bạc trực tuyến và hãng bán lẻ trên Internet. 
+Toàn bộ mạng Trojan "hùng hậu" đã bị vô hiệu hóa với sự hợp tác của chính phủ Hà Lan, XS4All Internet và một số nhà cung cấp dịch vụ khác ở nước này.
+

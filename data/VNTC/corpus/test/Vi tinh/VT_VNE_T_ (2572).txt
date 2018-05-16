@@ -1,0 +1,7 @@
+Chương trình vá lỗi Windows chưa ra đã bị giả mạo
+Tuần tới, Microsoft mới phát hành bản nâng cấp định kỳ hàng tháng của họ nhưng ngay thời điểm này, giới tin tặc đã tranh thủ sự kiện đó để tiến hành một chiến dịch e-mail ồ ạt nhằm phát tán các phần mềm gián điệp.
+E-mail lừa đảo với đường link dẫn người dùng máy tính tới nơi tải Trojan Troj/DSNX-05.
+Theo hãng bảo mật Sophos (Anh), người sử dụng máy tính sẽ nhận được những thư điện tử giả dạng là thông báo của dịch vụ Microsoft Windows Update, trong đó có sẵn đường link dẫn tới một địa chỉ rởm. Tại đây, nếu nạn nhân bấm vào lệnh download bản vá lỗi, máy tính sẽ bị cài đặt một chương trình do thám có tên Troj/DSNX-05, cho phép tin tặc khống chế máy mục tiêu từ xa.
+Microsoft không bao giờ gửi thông báo cung cấp bản sửa lỗi theo cách như vậy, Graham Cluley, chuyên gia công nghệ của Sophos, nói. Tuy nhiên, vẫn có người mắc bẫy vì thủ đoạn lừa bịp này được tiến hành đúng vào dịp nhà cung cấp Windows chuẩn bị phát hành bản nâng cấp.
+Ngày 12/4, Microsoft sẽ phát hành một loạt chương trình sửa lỗi cho Windows, Office, MSN Messenger và Exchange. Hãng này cũng đã biết hiện tượng lừa bịp nói trên và khuyến cáo khách hàng nên truy cập trực tiếp tới website nâng cấp Windows. Tại đó, khách hàng có thể bấm vào một đường link để biết cách phân biệt thông báo an ninh thật của Microsoft.
+

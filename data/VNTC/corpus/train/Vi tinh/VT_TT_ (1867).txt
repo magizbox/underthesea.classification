@@ -1,0 +1,7 @@
+ MobiFone chuẩn bị roaming tin nhắn cho thuê bao trả trước
+Sau khi cung cấp dịch vụ roaming tin nhắn, VMS sẽ xúc tiến việc chuẩn bị để roaming các cuộc thoại cho loại hình thuê bao này. 
+Hiện tại, chỉ có các thuê bao trả sau MobiFone khi ra nước ngoài mới có thể sử dụng dịch vụ roaming để thực hiện các cuộc thoại và nhắn tin. 
+Cũng bắt đầu từ quý II, mạng MobiFone sẽ chính thức cung cấp dịch vụ thông tin cuộc gọi nhỡ. Dịch vụ này cho phép các thuê bao biết được thông tin về các cuộc gọi đến khi tắt máy di động. 
+Theo ông Minh, tính riêng trong hai tháng đầu năm nay, mạng di động MobiFone đã phát triển thêm được 850.000 thuê bao mới, nâng tổng số thuê bao trên toàn mạng lên con số 4.670.000 thuê bao. 
+Để đảm bảo hoạt động cho mạng lưới với số lượng thuê bao tăng thêm, trong quý II, VMS sẽ lắp mới thêm 244 trạm thu phát sóng tại 17 tỉnh phía Bắc, 287 trạm tại 22 tỉnh phía Nam và 157 trạm tại 13 tỉnh khu vực miền Trung. 
+

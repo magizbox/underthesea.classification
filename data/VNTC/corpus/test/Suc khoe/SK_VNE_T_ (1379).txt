@@ -1,0 +1,12 @@
+Coi chừng nhiễm khí phóng xạ trong nhà 
+Radon - một loại khí phóng xạ thoát ra từ mặt đất - đã khiến các nhà khoa học phải giật mình về mức độ nguy hiểm của nó sau nhiều năm coi thường.
+Theo thống kê mới đây, gần 10% số ca tử vong vì bệnh ung thư phổi ở châu Âu và Mỹ là do khí radon. Cơ quan An toàn phóng xạ BFS liên bang Đức mới đây đã khuyến cáo người dân trên toàn lãnh thổ cần nhận thức sâu sắc về mức độ nguy hiểm của "kẻ sát nhân thầm lặng" này.
+Theo chuyên gia Wolfgang Weiss của BFS, khí radon đang tích tụ lượng lớn trong các ngôi nhà và công sở. Châu Âu có khoảng 20.000 ca tử vong mỗi năm vì căn bệnh ung thư phổi do tiếp xúc với khí radon.
+Khí phóng xạ radon tồn tại dưới dạng khí không màu, không mùi vị. Nó sinh ra từ quá trình phân huỷ tự nhiên của kim loại urani trong đất. Ở ngoài trời, nồng độ radon thấp nên không gây nguy hiểm. Song ở môi trường chật hẹp như trong nhà và văn phòng, nồng độ radon tăng cao do quá trình tích tụ. Hít thở khí radon một thời gian dài sẽ khiến tổ chức phổi tiếp xúc trực tiếp với phóng xạ. Nguy cơ mắc ung thư phổi có thể tăng gấp đôi, thậm chí gấp ba nếu sống nhiều năm trong ngôi nhà bị nhiễm độc radon. Những người nghiện thuốc lá đặc biệt nhạy cảm với khí này.
+Radon thâm nhập vào nhà chủ yếu qua:
+- Các vết rạn nứt trên mặt sàn của tầng hầm, tầng trệt.
+- Các ống dẫn nước.
+- Đất lộ thiên.
+Ngoài ra, radon còn có thể thoát ra từ giếng nước, song không đáng kể so với lượng khí thoát ra từ đất nền.
+Nồng độ radon trung bình trong nhà là khoảng 1.25 picocury trên một lít khí (pCi/L). Trên 4 pCi/L được xem là mức báo động. Giải pháp cải thiện môi trường hiệu quả nhất là lắp đặt hệ thống thông gió ở tầng hầm hoặc dưới mái nhà.
+

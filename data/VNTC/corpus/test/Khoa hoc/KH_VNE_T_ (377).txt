@@ -1,0 +1,5 @@
+Đồng hồ báo thức biết đi
+Các nhà khoa học Mỹ mới thiết kế ra một chiếc đồng hồ báo thức có thể chạy trốn để người buồn ngủ nhất cũng buộc phải ra khỏi giường để tắt nó.
+Chiếc đồng hồ mang tên Clocky sẽ khởi động khi người chủ tắt chuông lần đầu tiên. Không chịu chờ 5 phút để ngân chuông lần thứ hai, nó sẽ lăn từ trên bàn xuống trên đôi bánh và chuyển sang một khu vực khác trong căn phòng. Khi rung chuông lần nữa, người chủ buộc phải tỉnh dậy và đi tìm Clocky để tắt. Trò chơi trốn tìm vào buổi sáng này sẽ đủ đảm bảo để người ngái ngủ nhất cũng phải tỉnh táo hoàn toàn.
+Những kỹ sư thiết kế tại Viện công nghệ Massachusetts, Mỹ, cho biết Clocky đủ thông minh để tìm chỗ trốn mới sau mỗi ngày.
+

@@ -1,0 +1,7 @@
+Trojan đầu lâu tiếp tục lây lan vào điện thoại di động
+Một biến thể mới của phần mềm Skulls nhắm vào điện thoại chạy Symbian vừa được phát hiện. Hãng bảo mật F-Secure (Phần Lan) cho biết, giống như các Trojan cùng họ trước đây, phiên bản D này tiêu diệt tất cả các ứng dụng hệ thống.
+Tuy nhiên, thay vì biến các biểu tượng trên thiết bị thành hình đầu lâu, Skulls.D báo cho người sử dụng máy của họ đã bị lây nhiễm bằng cách hiển thị một đầu lâu to nhấp nháy toàn màn hình.
+Theo F-Secure, biến thể này giả vờ là một công cụ Macromedia Flash, tấn công các thiết bị chạy Symbian Series 60. Những người có điện thoại bị lây nhiễm sẽ không thể sử dụng các chương trình, chụp ảnh hoặc gửi text mặc dù vẫn có thể gọi điện. 
+Trojan này còn ngăn cản chủ máy cài đặt các ứng dụng mới, do đó hầu hết số máy bị nhiễm sẽ phải cài đặt lại, tức là trở về chế độ mặc định của máy mới và mọi dữ liệu, chẳng hạn như sổ địa chỉ, sẽ bị xóa.
+F-Secure cho biết mới chỉ có 2 người thông báo bị nhiễm Skulls.D sau khi tải ứng dụng từ một diễn đàn web. Theo Mikko Hypponen, Giám đốc nghiên cứu của F-Secure, người sử dụng điện thoại có thể giảm thiểu nguy cơ lây nhiễm bằng cách nâng cao cảnh giác khi download những bản sao ứng dụng bất hợp pháp, nhất là từ các mạng ngang hàng. Chuyên gia này cảnh báo sẽ còn nhiều biến thể Skulls xuất hiện trong thời gian tới.
+

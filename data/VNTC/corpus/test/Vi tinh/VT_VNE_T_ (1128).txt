@@ -1,0 +1,7 @@
+Xuất hiện Trojan đầu tiên trên PDA 
+Hôm qua, một số hãng sản xuất phần mềm chống virus tuyên bố đã phát hiện loại Trojan mở cổng sau đầu tiên được lập trình để tấn công các máy tính bỏ túi chạy hệ điều hành Windows CE. 
+Hãng bảo mật Symantec đặt tên loại Trojan mới này là Backdoor.Bardor.A, còn Kasperky gọi nó là Backdoor.WinCE.Brador.a. Khi được cài đặt trên Pocket PC, nó sẽ cho phép kẻ tấn công điều khiển thiết bị thông qua kết nối với Internet. 
+Theo Symantec, thiết bị cầm tay bị lây nhiễm sẽ truyền địa chỉ IP tới hacker qua một cổng sau hoặc lỗ hổng bảo mật. Sau đó, nó sẽ mở một kênh liên lạc tại cổng 44299 và chờ lệnh tiếp theo của kẻ tấn công. 
+Symantec cho biết, Backdoor.Bardor.A được một mạng trao đổi mẫu virus của hãng gửi đến để phân tích chứ chưa thấy xuất hiện trên Internet. Vì thế, hãng xếp Trojan mới ở cấp 1, bậc thấp nhất trong bảng mức độ nguy hiểm gồm 5 mức. 
+Symantec và Kaspersky đều đã cập nhật phần mềm diệt virus để bảo vệ người dùng. 
+

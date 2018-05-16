@@ -1,0 +1,5 @@
+ Chống Rootkit với F-Secure Blacklight
+Để chống lại sự hoành hành của Rootkit, hãng bảo mật F-Secure đã phát triển tiện ích bảo mật Blacklight nhằm dò tìm và tiêu diệt Rootkit trên hệ thống. F-Secure Blacklight không chỉ diệt Rootkit mà còn tiêu diệt cả những phần mềm độc hại sử dụng kỹ thuật Rootkit để khai thác lỗi hệ thống. 
+Sau khi tải về, người dùng kích hoạt Blacklight và nhấn “Scan” để bắt đầu dò tìm. Nếu kết quả hiển thị cho thấy có các tập tin Rootkit thì bạn nên xóa sạch chúng trước khi gây nguy hại đến hệ thống của mình. 
+Hoàn toàn miễn phí, hoạt động trên các phiên bản của hệ điều hành Windows 2000/XP/2003, có thể tải về tại đây phiên bản thử nghiệm 2.2.1015 mới nhất: http://www.europe.f-secure.com/exclude/blacklight/blbeta.exe . 
+

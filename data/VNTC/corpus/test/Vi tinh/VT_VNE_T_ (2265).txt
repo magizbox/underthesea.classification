@@ -1,0 +1,6 @@
+Hỏi cách tăng tốc Modem (1)
+Tôi có một Modem Intel V92 External Modem, khi kết nối Internet máy vẫn báo tốc độ là 49.2 nhưng vào mạng và Chat Yaoo rất chậm. Vào được một lát sau thì lại chậm hơn hẳn, mặc dù tôi đã cài lại hệ điều hành mới hoàn toàn. Xin chỉ dùm cách nào tăng tốc Modem. Vì tôi làm quán net nên rất mong được trả lời sớm. Tôi xin chân thành cảm ơn.
+Nguyễn Văn Tuân
+Hồi âm:
+Bạn đọc bài viết giới thiệu các phần mềm tăng tốc Internet tại đây:http://conghung.com/forum/index.php?showtopic=2449. Hy vọng nó sẽ có ích cho bạn.
+

@@ -1,0 +1,8 @@
+Yahoo Messenger cho phép gọi tới ĐTDĐ và cố định
+Hãng dịch vụ trực tuyến số một thế giới Yahoo cho biết họ chuẩn bị thử nghiệm hai tính năngVoIP mới mang tên Phone Out và Phone In trong phiên bảnIM 7.0.
+Phone Out cho phép khách hàng gọi đến điện thoại di động hoặc cố định (PC-to-phone) ở hơn 180 nước thông qua "Yahoo Messenger with Voice". Giá cước cuộc gọi là 0,01 USD/phút tới Mỹ và dưới 0,02 USD đến hơn 30 nước khác trong đó có Argentina, Australia, Trung Quốc, Pháp, Đức, Nhật, Hàn Quốc... Người sử dụng cũng có thể đăng ký thuê bao trả trước với giá 10-20 USD.
+Phone In tạo điều kiện cho mọi người nhận cuộc gọi trực tiếp trên PC với chi phí 2,99 USD/tháng hoặc 29,99 USD/năm. Khách hàng có thể sử dụng nhiều số điện thoại khác nhau để thuận lợi hơn trong quá trình đi lại, hoặc chọn số điện thoại ở một nước khác nơi mình đang sống để người gọi cho họ tại nước đó chỉ phải trả cước nội hạt, tương tự như dịch vụ của Skype.
+Tính năng Contact Search Bar hỗ trợ tìm kiếm và thực hiện liên lạc qua tin nhắn nhanh, voice, e-mail hoặc tin nhắn di động. Ngoài ra, mọi người chỉ cần click chuột vào Open Talk để đàm thoại miễn phí giữa hai máy tính (PC-to-PC).
+7 phiên bản thử nghiệm sẽ được giới thiệu tại Mỹ, Tây Ban Nha, Hong Kong, Italy, Singapore và Đức nhưng đại diện của Yahoo không tiết lộ thời gian cụ thể.
+Sony gần đây cung cấp dịch vụ VoIP kèm video trong khi AOL ra mắt tính năng PC-to-phone trong tháng 10. Google cũng đã tích hợp cuộc gọi PC-to-PC vào Google Talk từ tháng 8.
+

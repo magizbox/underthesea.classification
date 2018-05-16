@@ -1,0 +1,6 @@
+Máy chủ bán chạy năm 2003
+Hôm qua, công ty nghiên cứu Gartner cho biết, lượng máy xuất xưởng trong quý IV/2003 tăng 25%, đạt 1,59 triệu chiếc, từ 1,28 triệu của cùng kỳ năm trước. Tính cả năm ngoái, số sản phẩm bán ra tăng 20%.
+Quý IV/2003, hãng HP vẫn duy trì ngôi vị số 1 với 462.000 máy được tiêu thụ, bám sát là Dell với 319.000 chiếc, IBM 274.000 chiếc và Sun Microsystems 84.000 chiếc.
+Bốn công ty hàng đầu này chiếm khoảng 71% thị phần máy chủ toàn cầu. Nhiều sản phẩm, như mainframe hoặc máy chủ Unix, sử dụng hàng chục bộ vi xử lý và nhiều gigabyte bộ nhớ, vẫn giữ giá trên 1 triệu USD.
+Hầu hết những loại máy bán chạy là hàng bình dân, sử dụng 2 bộ vi xử lý của Intel. Trong số 1,59 triệu máy chủ được bán, có 1,45 triệu (91%) chạy chip 32-bit của Intel hoặc AMD. 
+

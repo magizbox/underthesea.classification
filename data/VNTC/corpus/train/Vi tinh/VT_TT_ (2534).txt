@@ -1,0 +1,6 @@
+ Giả lập webcam
+Điểm độc đáo nhất của Fake Webcam là dù máy tính của bạn không hề được trang bị webcam bạn vẫn có thể hiển thị bất kỳ nội dung video nào lên khung nhìn webcam. 
+Sau khi cài đặt thành công, bạn vào menu Control Panel của Fake Webcam để “Add file” video nào đó mà bạn muốn trình diễn. Sau khi “Add file” xong bạn tiến hành thủ tục mời bạn mình xem webcam, nhưng thay vì bật webcam thì bạn nhấn nút Play và lập tức mọi nội dung video đã chọn sẵn sẽ thể hiện lên khung nhìn webcam của bạn mình. 
+Với Fake Webcam, bạn có thể thực hiện nhiều trò vui “bé cái lầm”, chẳng hạn thu lại những đoạn webcam của bạn mình để chơi trò “lấy mận thay đào” nhằm “thử lòng” ai đó. Đây cũng là một công cụ nhằm đối phó một cách hết sức lịch sự với những người cứ đòi “ngắm” bạn mà không tiện từ chối. 
+Người dùng có thể vào http://www.fakewebcam.com/download/setupxp.exe để tải bản dùng thử có dung lượng khoảng 4MB. Hiện Fake Webcam đã có mặt tại các cửa hàng phần mềm tin học ở TP.HCM. 
+

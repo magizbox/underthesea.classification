@@ -1,0 +1,6 @@
+Máy phát hiện tiền giả làm việc như thế nào?
+Rất nhiều kỹ thuật cụ thể được áp dụng để chế tạo máy phát hiện tiền giả. Tuy nhiên, chúng được giữ rất bí mật bởi nếu lộ ra, kẻ làm tiền giả sẽ tìm cách làm máy bị tê liệt. Nhìn chung, có hai cách thường dùng để phân biệt là cảm ứng từ và cảm ứng quang học.
+Mực dùng để in tiền giấy có một số đặc điểm từ tính nhất định, vì thế chúng có thể được cảm nhận bằng đầu từ trong máy đổi tiền. Một máy tính có thể nhận ra dấu xác nhận điện tử của những dấu vết cụ thể trên tờ tiền và sẽ chấp nhận hoặc từ chối tờ tiền đó. 
+Trong cảm ứng quang học, ánh sáng được truyền qua hay bị phản hồi trở lại từ một tờ tiền. Một số loại mực hấp thụ ánh sáng và một số loại khác thì phản hồi. Máy tính có thể phân tích các khuôn mẫu này và quyết định xem có thể chấp nhận tờ tiền được không. 
+Trong cả hai trường hợp, việc quét chỉ diễn ra trong khoảng 1 giây. 
+

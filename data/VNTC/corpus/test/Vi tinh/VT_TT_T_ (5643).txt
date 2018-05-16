@@ -1,0 +1,11 @@
+ Virus Netsky.r miệt thị tác giả Bagle 
+Netsky.r đến từ thông điệp e-mail có tiêu đề "Document %number%". Khi người dùng mở file đính kèm có đuôi .pif, worm sẽ lây nhiễm vào máy tính, thu thập địa chỉ e-mail trong hộp thư để phát tán. Tiếp đó, nó cũng vô hiệu hóa các phiên bản MyDoom và Bagle đã lây nhiễm trên máy tính. 
+Trong nhiều tuần qua, các tác giả của NetSky đã tham gia một cuộc đấu khẩu bằng những thông điệp trong mã sâu với những kẻ viết virus Bagle. Hai nhóm liên tục sử dụng những tác phẩm mới của mình làm công cụ phát ngôn và chỉ trích lẫn nhau. 
+Nhà phân tích Chris Belthoff của công ty chuyên viết phần mềm diệt virus Sophos nhận định, cuộc chiến virus trên không gian điều khiển chia làm 2 phe, một bên là tác giả của MyDoom và Bagle, những kẻ chuyên gửi spam và bên kia là tác giả của Netsky, những người không có động cơ vụ lợi. 
+"Đây gần như là một cuộc chiến phân định ngôi thứ mà ai cũng muốn mình là số một", Belthoff nhận xét, "Có thể họ ghen tị nhau về sự chú ý mà giới truyền thông dành cho đối thủ". 
+Các phiên bản của 3 loại virus này - tất cả đều là các sâu -email có khả năng tự nhân bản và phát tán - đã gây ra những tổn hại lớn cho máy tính nối mạng Internet trên toàn thế giới kể từ đầu năm nay. 
+Trong tháng 3 này, NetSky và các biến thể của nó đã giành cả 3 vị trí đầu tiên trong bảng xếp hạng của Sophos, chiếm tới 60% tổng số các vụ lây nhiễm mà công ty phần mềm an ninh ghi nhận trong tháng này. 
+Bảng xếp hạng virus tháng 3 Phiên bản D của NetSky, xuất hiện ngày 1-3, là đối tượng được phát hiện nhiều nhất và chiếm tới 30% số chương trình phá hoại được thông báo. Một biến thể của sâu Bagle là bản C, đứng ở vị trí thứ 4 và những thứ tự còn lại trong top ten cũng đều thuộc về những người anh em của nó và đối thủ NetSky, ngoại trừ vị trí cuối cùng. Virus duy nhất không thuộc hai họ này lọt vào danh sách tháng 3 là Mydoom.A, phiên bản gốc của loại sâu e-mail hoành hành suốt 2 tháng đầu năm nay, chiếm tỷ lệ chưa đầy 1% số vụ lấy nhiễm và xếp thứ 10. 
+Sophos cho rằng cuộc chiến giữa các tác giả của Bagle và NetSky chính là nguyên nhân gây ra sự đột biến về số lượng biến thể virus trong tháng qua. 
+Hiện nay, các công ty phần mềm diệt virus đã phát hành một file chữ ký mới để xác định NetSky.R và khuyến cáo người sử dụng nâng cấp công cụ phòng vệ hệ thống. 
+

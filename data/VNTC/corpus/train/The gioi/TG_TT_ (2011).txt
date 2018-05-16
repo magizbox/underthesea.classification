@@ -1,0 +1,8 @@
+ Kỳ thủ Sudoku tranh cúp vô địch thế giới tại Ý
+Sudoku (tiếng Nhật 数 独, nghĩa là “ô số”), là một trò chơi điền số thích hợp vào ô trống đầy tính trí tuệ. 
+Ma trận số của Sudoku là một hình vuông mỗi cạnh 9 ô chia thành 9 vùng nhỏ (mỗi vùng 3x3 ô). Các số được “bày trận” bất kì. Nhiệm vụ của người chơi là hoàn tất tất cả các ô trống với các số thích hợp từ 1 đến 9 sao cho 9 hàng ngang, 9 hàng dọc và 9 vùng nhỏ đều có mặt đầy đủ các số 1-9. 
+Ông Adeline Berthaux của tạp chí Keesings nước Pháp, đơn vị tài trợ cho cuộc thi, đưa ra nhận định về sự phổ biến của trò chơi Sudoku: “Trong một thời gian ngắn, Sudoku đã trở thành trò tiêu khiển được yêu thích nhất của hàng triệu tín đồ Sudoku khắp thế giới. Cùng với nó là sự bùng nổ của rất nhiều cuộc thi tầm cỡ quốc gia. Vì thế không có lí do gì để ngăn cản kỳ so kè vô địch thế giới này”. 
+Một ma trận Sudoku đã được giải Các kỳ thủ đến từ các nước Bỉ, Anh, CH Czech, Đan Mạch, Pháp, Đức, Hungary, Ý, Nhật, New Zealand, Philippines, Slovakia và Thổ Nhĩ Kỳ sẽ tranh vòng loại vào 10-3 tới tại Lucca thuộc tỉnh Tuscan, bằng phần thi kéo dài 3 giờ 45 phút với đủ loại ma trận Sudoku. 16 người “sống sót” sẽ tiếp tục vào vòng chung kết vào ngày hôm sau. 
+Cho đến nay, hàng triệu người trên khắp thế giới đã nghiện trò chơi cần tới trí tuệ và sự kiên nhẫn này, kể từ khi Wayne Gould - một quan tòa 60 tuổi về hưu người New Zealand, làm cho nó trở nên phổ biến (mặc dầu Sudoku có nguồn gốc từ thế kỉ 18). 
+Ông Gould lần đầu giới thiệu ma trận Sudoku trên tờ London Times , trò chơi lập tức thu hút dư luận, và xuất hiện đều đặn trên mục thách đố của hơn 400 tờ báo khắp thế giới. Sudoku trong thời đại Internet có thể hợp lực, hợp trí nhiều kỳ thủ khắp nơi cùng giải một ma trận online. 
+

@@ -1,0 +1,6 @@
+Hỏi về cách cài 2 hệ điều hành (1)
+Tôi có vấn đề muốn nêu lên để nhờ sự giúp đỡ. Tôi đang sử dụng hệ điều hành WinXP(Master), nay có gắn thêm một ổ cứng(slave) khác đang có hệ điều hành Win98. Nhưng khi tôi cài BootMagic8.0 lên win98 thì chỉ vào được win98 còn chọn winXP thi bị khởi động lại, nhưng nếu tôi cài bootmagic8.0 vào winXP thì lại không cài được. Tôi muốn sử dụng dual boot của WinXP để quản lí 2 hệ điều hành thì có được không (ổ master có 1primary 2 logical,ổ slave có 1 primary 1 logical)? Cách làm như thế nào? Hoặc còn có thể sử dụng cách nào nữa? Rất mong các bạn hướng dẫn để giải quyết tình huống này . Chân thành cảm ơn.
+Hua Thoi Dung
+Hồi âm:
+Chao ban Hua Thoi Dung. BootMagic chi cho cai tren MOT Partition,cho nen ban khong cai vao WinXP duoc la dung vi ban da cai BootMagic vao Win 98 roi. Ban nen cai 2 he dieu hanh lai tu dau,ban muon su dung Dual boot cua Windows cung duoc. Truoc tien ban nen cai Win 98 vao o cung Master, cai len Primary Partition. Sau do ban cai Win XP (theo toi ban nen cai Win XP len Partition khac.Primary hay la Logical deu duoc). Ban se lam duoc.
+

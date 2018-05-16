@@ -1,0 +1,5 @@
+Hòm thư 1.000 GB đầu tiên trên thế giới
+Công ty MailNation Solutions (Mỹ) đã chính thức công bố hộp thư miễn phí dung lượng 1 terabyte nhằm cạnh tranh với Yahoo và Google trên thị trường e-mail.
+Với dung lượng kỷ lục như thế này, người sử dụng MailNation không phải nghĩ đến chuyện xóa những e-mail không cần thiết. Dịch vụ có hỗ trợ POP3 và IMAP, file đính kèm không quá 10 MB, trang bị bộ lọc spam và có khả năng truy cập WAP qua thiết bị di động. Ngoài ra, hòm thư được thiết kế đa ngôn ngữ, khả năng tìm kiếm e-mail và độ bảo mật cao. Đặc biệt, MailNation có giao diện đơn giản, dễ sử dụng và không kèm quảng cáo.
+Nhiều công ty nhỏ đã cung cấp dịch vụ e-mail nhưng không tìm được chỗ đứng trên thị trường, bởi chưa thể qua mặt được những hãng lớn như Gmail, Yahoo! Mail và Hotmail. Tuy nhiên, 3 dịch vụ này vẫn còn nhiều bất cập về độ tin cậy, bảo mật cá nhân và có quá nhiều quảng cáo trên giao diện.
+

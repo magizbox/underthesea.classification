@@ -1,0 +1,12 @@
+Màn chiếu bằng... hơi sương
+Một đoá hoa đỏ thắm trên màn hình lung linh, nhìn kỹ lại thấy nó... trống rỗng. Thực chất, đoá hoa xuất hiện trên một màn chiếu tương tác kiểu mới, dùng sương mù làm môi trường hiện hình thay cho kính hay chất dẻo. 
+Công nghệ hiện hình này có tiềm năng ứng dụng đa dạng, từ quảng cáo đi xuyên (người ta có thể đi xuyên qua bảng quảng cáo hơi sương) đến các màn hình tiếp xúc vô trùng trong phòng phẫu thuật, nơi mà việc điều khiển con chuộc hoặc bàn phím bằng tay có thể gây mất vệ sinh. 
+"Màn chiếu tương tác là khá mới và chưa được sử dụng ở bất kỳ đâu", Ismo Rakkolainen, giám đốc công nghệ tại Seinjoki, công ty Fogscreen có trụ sở tại Phần Lan, người đang cộng tác với Karri Palovuori từ Đại học công nghệ Tampere để phát triển công nghệ này, cho biết. 
+Theo Rakkolainen, từng có nhiều nhà nghiên cứu phát triển các loại màn chiếu sương mù khác, nhưng chủ yếu là kiểu không tương tác vì các hạt hơi nước lớn mà họ sử dụng sẽ khiến người xem bị ẩm ướt. 
+Màn chiếu của Rakkolainen là một thiết bị gắn trên trần nhà phun ra màn sương hơi nước rất mịn đến mức người dùng vẫn cảm thấy khô ráo khi chạm vào đó. 
+Màn sương mù này có hình chữ nhật vì nó bị kẹp giữa hai luồng không khí chuyển động, ngăn không cho hơi nước phát tán. Phụ thuộc vào bức ảnh và môi trường xung quanh, màn chiếu có thể hiện ra mờ đục hoặc trong mờ, và trong cả hai trường hợp, người quan sát đều có thể xem được từ hai phía. 
+Tính tương tác có được là nhờ một camera quang học, có thể nhận ra bất cứ chuyển động nào của bàn tay đặt phía trước màn hình (các máy phát hồng ngoại nhỏ xíu sẽ soi sáng bàn tay mà camera nhìn thấy, và các sensor thu nhận ánh sáng phản xạ của nó). Vì thế khi người ta dùng một ngón tay để chọn một vật trên màn hình, hệ thống máy tính sẽ xác định vị trí của ngón tay và tạo ra những đáp ứng tương thích. 
+"Nó rất ấn tượng và hoạt động tốt ngay cả trong môi trường khá sáng", Alan Wilkinson, một giám đốc trưởng tại Electrosonic, công ty nghe nhìn quốc tế có trụ sở tại Dartford, Anh, nhận xét. 
+Nhược điểm duy nhất, theo ông, là hệ thống cần có môi trường không khí tĩnh mới có thể làm việc tốt nhất. 
+Rakkolainen cho biết một vài bảo tàng khoa học đã bày tỏ sự quan tâm muốn lắp đặt màn hình tương tác, và trong mùa hè này, thiết bị sẽ được giới thiệu tại hội thảo SIGGRAPH diễn ra ở Los Angeles từ 31/7 đến 4/8. 
+

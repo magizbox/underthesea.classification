@@ -1,0 +1,6 @@
+ 1/5 người dùng Internet nhận thư rác mỗi ngày
+Sophos công bố một bản báo cáo kết quả nghiên cứu về Spam và Phishing e-mail (Pemail: e-mail lừa gạt để lấy thông tin tài chính), theo đó, 58% người dùng Internet nhận được ít nhất 1 thư có mục đích lừa gạt và hơn 22% nhận được hơn 5 lá mỗi ngày. Đó chính là bằng chứng cho tăng trưởng các cuộc tấn công của hacker và những chuyên gia viết virus vào mục tiêu tài chính. 
+Những số liệu của Anti-Phishing Working Group (APWG) càng làm rõ hơn xu thế này. Số lượng các báo cáo về lừa đảo tài chính trên Internet tính cho đến tháng 12-2005 là 15,244 lần, tăng gần gấp đôi so với năm 2004, 8829 lần. 
+Trước đây, hầu hết các email lừa gạt thường bắt nguồn từ các doanh nghiệp nổi tiếng trên Internet như eBay... thế nhưng Sophos cũng đã phát hiện một số lớn các tổ chức cũng là nguồn phát của loại e-mail này, bao gồm cả IRS (Internal Revenue Service). Dưới hình thức trả lại tiền thuế, những kẻ lừa gạt sẽ dẫn dắt người dùng qua nhiều website nguy hiểm mà bạn không thể ngờ nổi. 
+Theo cô Carole Theriault, chuyên gia về bảo mật Sophos thì sở dĩ Pemail phát triển là do xác suất thành công của nó rất cao. Những kẻ lừa gạt ngày càng lừa gạt khách hàng một cách tinh vi. Thế nên lời khuyên tốt nhất vẫn là tránh xa những e-mail không rõ nguồn gốc và tránh chia sẻ bất kỳ thông tin cá nhân nhạy cảm nào. 
+

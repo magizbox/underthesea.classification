@@ -1,0 +1,6 @@
+Hỏi về lỗi dump (1)
+Tôi đang dùng Windows 2000 server, P4, Ram 256 +128, ổ cứng Maxtor 20G. Tôi mới thay một thanh Ram 256 bằng một thanh giống hệt. Sau khi dùng máy một thời gian ngắn thì máy báo lỗi dump và tự khởi động lại. Tôi phải làm thế nào có phải cài lại Windows không?
+Kakalot
+Hồi âm:
+Ban khong can cai Windows. Khi copy du lieu tu bo nho ( ram ) de chuyen len man hinh neu truc trac thi win se bao loi DUMP. Ban nen coi lai thanh ram. Neu khe cam thu nhut la 1 thanh 128 thi khe cam thu 2 se la thanh ram 256 khong nen cam nguoc lai. Doi khi phai cam 2 thanh dong bo voi nhau tuy theo su ho tro cua bo chu ( MOBO ). Truoc khi cai them ram ban hay vao day dien nhung thong tin tren pc cua ban de ho thu xem RAM cua ban ban thuoc loai nao.. http://kingston.com/products/default.asp......... download chuong trinh nay ve thu xem RAM co hu hay khong. http://www.memtest86.com/.
+

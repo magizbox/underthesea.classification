@@ -1,0 +1,6 @@
+Microsoft chào hàng WindowsXP 64 bit
+Website của hãng phần mềm vừa cung cấp phiên bản thử nghiệm beta Windows XP 64 bit để giới nghiền điện toán xem nó chạy ra sao. Phần mềm này dùng cho chip Opteron hay Athlon của AMD và sẽ hoạt động trong vòng 1 năm.
+Microsoft đã hứa hẹn về Windows XP 64-bit từ nhiều tháng trước. Song đến nay hãng mới chính thức công bố rộng rãi nó. Chương trình này hé mở hình ảnh về thế hệ Windows XP 64 bit, vốn đang trong giai đoạn phát triển. Đây chỉ là phiên bản để kiểm tra và đánh giá. Bạn không nên dùng nó trong môi trường sản xuất, Microsoft thông báo trên website.
+Phiên bản chính thức của hệ điều hành sẽ ra mắt sớm nhất vào quý III năm nay, phát ngôn viên của Microsoft nói thêm.
+Microsoft hiện đã hỗ trợ bộ vi xử lý Itanium 64 bit của Intel, song chưa tỏ thái độ gì về kế hoạch phát triển chip x86 64 bit mà hãng này sẽ giới thiệu vào cuối tháng 2.
+

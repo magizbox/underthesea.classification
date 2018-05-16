@@ -1,0 +1,6 @@
+Samsung giới thiệu chip bộ nhớ nhanh nhất thế giới
+Hãng điện tử Samsung Electronics tuyên bố đã sản xuất thành công sản phẩm mẫu của chip DDR3 DRAM 512 MB. Thông số kỹ thuật cho thấy chip này nhanh hơn hẳn các sản phẩm cùng loại với khả năng xử lý dữ liệu lên tới 1,6 Gb/giây.
+Một mẫu chip DDR3 DRAM được Samsung giới thiệu hồi tháng 4/2004.
+Theo thông báo được Samsung đưa ra hôm thứ 3, loại chip mới có những ứng dụng đồ họa rất rộng rãi với ưu điểm như: giảm lượng điện tiêu thụ 50%, tăng dung lượng và hiệu quả làm việc của bộ nhớ, đồng thời nâng hiệu suất lên gấp đôi. Samsung dự kiến sẽ đưa chip DDR3 DRAM 512 MB vào sản xuất hàng loạt trong năm tới. 
+Hãng phân tích thị trường Mercury dự báo, trong năm 2005, thị trường DRAM đồ họa toàn cầu sẽ tăng trưởng 30% so với năm nay với tổng giá trị 1,5 tỷ USD, trong đó doanh số DDR3 DRAM chiếm khoảng 30%. 
+

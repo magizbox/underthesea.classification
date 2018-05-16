@@ -1,0 +1,6 @@
+Oracle phát hành bản nâng cấp quý đầu tiên
+Nhà cung cấp phần mềm cơ sở dữ liệu hàng đầu thế giới hôm qua phát hành một bản nâng cấp quan trọng cho phần mềm ứng dụng web và database của họ nhằm khắc phục hơn 20 khiếm khuyết khác nhau.
+Chương trình update vừa phát hành đánh dấu lần đầu tiên Oracle chuyển sang cơ chế cung cấp các phần mềm nâng cấp theo định kỳ hàng quý.
+Bản Critical Patch Update, cung cấp tại website của Oracle, đượcc thiết kế để vá 17 lỗi trong một số phiên bản khác nhau của Oracle Database Server, 3 lỗ hổng trong Oracle Application Server và một ở Oracle Collaboration Server. 
+Oracle không nêu rõ chi tiết về những khiếm khuyết nêu trên mà chỉ đưa ra một số đánh giá về mức nguy cơ của chúng trong một thông báo tư vấn tại website của họ. Một số trong các khiếm khuyết nói trên được hãng bảo mật NGSSoftware phát hiện. Chính công ty này cũng khuyến khích người sử dụng download và kiểm tra các phần mềm nâng cấp Oracle vừa phát hành. NGSSoftware cho biết các quản trị viên có 3 tháng để áp dụng bản nâng cấp, sau đó hãng sẽ cung cấp thêm chi tiết về những lỗ hổng này.
+

@@ -1,0 +1,7 @@
+ Cứng hoá các chức năng bảo mật
+Trong một nỗ lực nhằm giúp các nhà sản xuất máy tính có được những sản phẩm với hiệu suất cao nhất với VXL Conroe, Intel sẽ đóng gói luôn công nghệ bảo mật vào VXL này. 
+Có tên là Averill, công nghệ này sẽ được phân phát chỉ dành riêng cho những nhà sản xuất máy tính, như Dell, HP. Gói công nghệ này sẽ bao gồm luôn những công nghệ như công nghệ Mô phỏng (Virtualization Tech) cho phép nâng cao hiệu suất sử dụng tài nguyên cứng của máy, công nghệ quản lý linh hoạt (Active Management) hỗ trợ rất đắc lực cho việc quản lý mạng doanh nghiệp, được tích hợp trực tiếp vào trong CPU thành phẩm. 
+Khi những công nghệ này hoạt động chung với nhau, nó cho phép sức mạnh của hệ thống được nâng cao lên rất nhiều so với việc mua từng linh kiện để lắp một chiếc máy tính với VXL Conroe đơn lẻ. Các doanh nghiệp nếu mua “máy bộ”, ngoài việc tiết kiệm điện năng còn thụ hưởng được các công cụ bảo mật và chức năng quản lý tốt hơn. 
+Conroe là thành viên của gia đình VXL nhân đôi 65-nm của Intel. Công ty đã từng giới thiệu chung với VXL Merom và Woodcrest tai IDC vào tháng 3 vừa qua. 
+Việc cứng hoá các công nghệ hỗ trợ là chính sách mới của Intel để có thể dành lại thị phần về VXL, nhất là uy tín đối với hệ thống doanh nghiệp. Nếu những công nghệ cứng hoá thể hiện được hiệu năng của nó, thì từ nay, giữa máy tính lắp ráp và máy bộ, hiểu theo cách của người Việt Nam, sẽ bắt đầu khó khoảng cách rõ rệt. 
+

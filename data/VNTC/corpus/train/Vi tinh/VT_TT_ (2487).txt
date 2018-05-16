@@ -1,0 +1,11 @@
+ 20%, con số "vàng" của AMD
+Tính trên toàn bộ tất cả các lĩnh vực, từ máy tính để bàn, máy xách tay và máy chủ sử dụng vi xử lý tập lệnh x86 được bán ra trong quý 4 năm 2005, AMD hiện nay chiếm khoảng 21,4% thị phần toàn cầu. Riêng thị phần dành cho máy tính để bàn, AMD tăng từ 12,7% lên 16,4% trong quý 4 so với quý 3. 
+Chưa có con số chính xác về thị phần của Intel, song nếu tính ước đoán về tổng thị phần của AMD và Intel là 98,6% trên toàn cầu, thì như vậy thị phần của Intel sẽ chiếm khoảng 77%. Con số chính xác sẽ được công bố vào tuần tới. 
+Có nhiều nguyên nhân để AMD đạt đến con số này. 
+Đầu tiên có thể kể đến là sự thành công của bộ vi xử lý dành cho server là Opteron. Đây có thể nói là nguyên nhân chính dẫn đến sự thành công của AMD năm 2005. AMD đã vắng bóng trong thị trường vi xử lý dành cho server từ rất lâu kể từ lần đạt đỉnh 20% vào năm 2001. 
+AMD dành được những thị phần lớn từ tay Intel khi mà nhà khổng lồ này dự báo sự chậm lại trong việc tiêu thụ các bộ vi xử lý dành cho máy tính để bàn và tập trung vào thị trường chipsets (các bộ vi xử lý dành cho mainboard và các linh kiện chuyên dụng). 
+Thứ hai, Intel giới thiệu bộ xử lý nhân đôi dành cho server chậm hơn AMD. AMD giới thiệu bộ vi xử lý Opteron nhân đôi vào tháng 4 trong khi Intel tới tháng 10 mới giới thiệu bộ vi xử lý Xeon hai nhân. Tuy nhiên, Xeon chỉ là giải pháp để “tạm thời cạnh tranh” và con bài thật sự là dòng Dempsey được giới thiệu trong quý 1 năm nay. 
+Tuy vậy, xét trên thị trường máy tính xách tay, Intel vẫn chiếm vị trí dẫn đầu với dòng vi xử lý Duo Core. Dòng Turion (nhân đôi) dành cho máy tính xách tay của AMD khó có thể xuất hiện trước quý hai năm nay. Mặc dù vậy, thị phần vi xử lý dành cho máy xách tay của AMD theo báo cáo là tăng trưởng trong quý 4 so với quý 3 năm 2005 từ 12,7% lên 16,4%. 
+Một nguyên nhân nữa, AMD đẩy mạnh vụ kiện chống độc quyền với Intel trên rất nhiều quốc gia. Điều này ảnh hưởng không nhỏ đến uy tín của Intel lẫn nâng cao giá trị thương hiệu cho AMD. 
+Mục tiêu của AMD trong năm nay là hướng đến con số thị phần là 30%, tuy nhiên trong tình hình hiện nay, có thể nói đây là một con số đầy tham vọng. Nhà khổng lồ Intel không bao giờ là một người dễ chơi. 
+

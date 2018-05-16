@@ -1,0 +1,7 @@
+Mã khai thác Windows bị phát tán
+Microsoft vừa cảnh báo sự xuất hiện trên Internet của một đoạn mã cho phép khai thác khiếm khuyết mà hãng phần mềm vừa phải xử lý trong đợt phát hành bản nâng cấp tháng qua.
+Đoạn mã mang tên SSL Bomb, có thể được dùng để mở toang máy chủ cho các cuộc tấn công từ chối dịch vụ. Những gói thông tin SSL biến dạng có thể buộc những máy tính chạy Windows 2000 và XP ngừng chấp nhận đường kết nối SSL và khiến cho Windows Server 2003 phải khởi động lại. Mã này được phát tán từ hôm 14/4, tức là một ngày sau khi Microsoft phát hành đợt đại nâng cấp trong tháng.
+Trong một thông cáo báo chí, Microsoft cho biết những thông tin về việc phát tán đoạn mã này là nghiêm túc và đáng tin cậy, đồng thời thúc giục tất cả khách hàng khẩn trương nâng cấp ngay phần mềm trong thông báo an ninh MS04-011 cũng như một số bản nâng cấp quan trọng mà họ đưa ra tuần trước.
+Lỗi SSL nhắm vào một số nền máy chủ chạy trên dịch vụ IIS và phục vụ các địa chỉ web có cơ chế xác thực SSL. Mã liên quan đến khiếm khuyết này cho phép lợi dụng lỗ hổng PCT/SSL mà bản tin an ninh MS04-011 nói trên đã xử lý. Windows 2000 và Windows NT 4.0 là những đối tượng bị ảnh hưởng đầu tiên.
+Tuy nhiên, đối với những khách hàng Windows Server 2003 dùng IIS, thậm chí nếu như SSL có bật lên thì mã khiếm khuyết được mặc định tắt. Vì thế, Windows Server 2003 chỉ bị tấn công nếu quản trị viên hệ thống đã tự bật PCT. Những ai đã áp dụng bản nâng cấp MS04-011 thì không bị nguy cơ tấn công do loại mã này gây ra.
+

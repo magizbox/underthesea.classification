@@ -1,0 +1,6 @@
+ThinkPad sẽ được trang bị pin nhiên liệu
+Hãng máy tính IBM và công ty Sanyo (Nhật Bản) hợp tác phát triển một hệ thống pin sử dụng trực tiếp nhiên liệu methanol, cung cấp thời gian hoạt động lâu hơn loại pin thông thường, để trang bị cho dòng máy tính xách tay ThinkPad. 
+Với hệ thống cung cấp năng lượng mới, các model của ThinkPad hiện tại và tương lai có thể hoạt động liên tục trong vòng 8 giờ. Pin mới là giải pháp phù hợp với văn phòng nhờ khả năng cung cấp năng lượng đủ mạnh để chạy các ứng dụng lớn như multimedia, đồ họa...
+Mặc dù việc nghiên cứu và phát triển hệ thống pin nhiên liệu mới về mặt kỹ thuật là tương đối nhanh, để được sử dụng rộng rãi thì phải mất một thời gian khá dài chờ đợi sự phát triển của cơ sở hạ tầng có liên quan. 
+Hiện tại, nhiều công ty điện tử ở Nhật Bản phát triển loại pin này cho PC và thiết bị di động. Toshiba vừa trình làng pin nhiên liệu sử dụng methanol nhỏ nhất thế giới, có thể giúp thiết bị hoạt động trong vòng 19 giờ. Tham vọng hơn, NEC cũng đang nghiên cứu loại pin tương tự nhưng cho phép khả năng hoạt động liên tục 49 giờ. Các sản phẩm này dự kiến sẽ có mặt trên thị trường trong năm nay. 
+

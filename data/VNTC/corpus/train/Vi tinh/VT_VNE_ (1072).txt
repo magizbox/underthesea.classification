@@ -1,0 +1,6 @@
+Skype khắc phục lỗi bảo mật
+Công ty dịch vụ điện thoại mạng ngang hàng đang nâng cấp phần mềm gọi điện Internet do một lỗi nghiêm trọng trong ứng dụng khách trên các hệ thống chạy Microsoft Windows.
+Khiếm khuyết này có thể cho phép những kẻ tấn công kiểm soát PC của người dùng Skype sau khi nạn nhân bấm vào một đường dẫn URL được thiết kế đặc biệt. Theo hãng bảo mật Secunia (Đan Mạch), bằng cách chèn một chuỗi dài gồm nhiều ký tự, hacker có thể gây ra một lỗi bộ nhớ tương tự như tình trạng tràn bộ đệm và có thể khai thác để chạy một ứng dụng nào đó. 
+Secunia đánh giá lỗi nói trên vào loại rất nghiêm trọng. Skype khuyến cáo người sử dụng nên tải và dùng phiên bản mới nhất của chương trình.
+Skype là phần mềm cho phép sử dụng Internet để thực hiện các cuộc gọi miễn phí. Hiện nay đã có tới 34 triệu người download phần mềm này và luôn luôn có gần 1 triệu người trong tình trạng sử dụng. Skype hoạt động trên các hệ điều hành Windows XP, Mac OS X, Linux và Microsoft PocketPC. 
+

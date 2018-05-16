@@ -1,0 +1,7 @@
+Nokia phát triển trình duyệt không dây mã mở
+Nokia vừa tuyên bố hãng sẽ cung cấp browser mới cho điện thoại di động chạy trên nền Series 60. Trình duyệt này được xây dựng trên mã nguồn mở với sự hợp tác của Apple.
+Trình duyệt Series 60 sẽ sử dụng mã WebCore và JavaScriptCore mà Apple dùng trong Safari - browser phổ biến trên máy tính cá nhân của hãng này. Mã được viết bằng ngôn ngữ KHTML và KJS, hai nhân tố then chốt trong trình duyệt mã mở Konquerer chạy trên K Desktop Environment - phần mềm cung cấp giao diện đồ họa cho hệ điều hành Linux.
+Apple và Nokia được phép thương mại hóa sản phẩm nguồn mở trong dự án này, nhưng phải công bố mã và những thay đổi trong tương lai cho khách hàng. Apple đã từng bị phê phán vì không tiết lộ những cải tiến mà hãng thực hiện.
+Nokia khẳng định việc phát triển trình duyệt cho thiết bị di động có tầm quan trọng tương đương với danh bạ điện thoại, vì 50% dữ liệu lưu thông trong điện thoại thông minh của Nokia được kích hoạt qua quá trình duyệt web. Hãng thiết bị liên lạc Phần Lan tuyên bố trình duyệt có một tiềm năng lớn bởi hầu như tất cả các dịch vụ dữ liệu trên di động được vận hành qua ứng dụng này.
+Nokia dự tính ra mắt browser không dây mã mở vào nửa sau 2006.
+

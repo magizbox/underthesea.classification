@@ -1,0 +1,7 @@
+Virus đầu tiên tấn công cả điện thoại lẫn PC
+Phát hiện mới nhất của hãng bảo mật Trend Micro là bằng chứng rõ nét cho thấy mối đe dọa về một dòng sâu lai, có khả năng tấn công đa mạng, đa hệ thống, đang dần trở thành hiện thực.
+Trojan "đồng quy" mang tên Cardtrp phát tán qua kết nối không dây Bluetooth trên điện thoại di động sử dụng hệ điều hành Symbian 60 và tin nhắn đa phương tiện MMS. Tuy nhiên, nếu thiết bị cầm tay này có thẻ nhớ, Cardtrp sẽ lập tức tự sao chép thành một bản virus Windows, được biết đến với tên gọi Wukill, thâm nhập vào trong card.
+Khi thẻ nhớ được cài vào máy tính, phần mềm nguy hiểm sẽ giả dạng như một file hợp pháp và khuyến khích người sử dụng xem nó. Nếu tệp được mở, mã tấn công lập tức mở cổng hậu và tìm kiếm mật khẩu trong máy.
+"Kiểu tấn công này chứng minh một giai đoạn phát triển mới của dòng virus trên thiết bị di động", Raimund Genes, Giám đốc Trend Micro tại châu Âu, khẳng định. "Chúng ta sẽ còn chứng kiến nhiều hơn nữa những trường hợp tương tự trong thời gian tới, thậm chí với mánh khóe tinh xảo và khả năng ẩn danh điêu luyện hơn".
+Dù Cardtrp không gây ảnh hưởng rộng nhưng nó đã gây xôn xao trong giới bảo mật. "Đứng trên quan điểm nghề nghiệp, đây quả là sự kiện thú vị", Mikko Hypponen, Giám đốc hãng F-Secure, cho biết. "Người dùng điện thoại chỉ nên tải ứng dụng từ những trang đáng tin cậy. Virus kiếm tiền mất 15 năm để xuất hiện trong máy tính. Do đó, việc phát tán sâu trên điện thoại với mục đích tài chính tương tự chỉ còn là vấn đề thời gian".
+

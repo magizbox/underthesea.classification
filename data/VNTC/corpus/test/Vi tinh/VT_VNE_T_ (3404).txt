@@ -1,0 +1,8 @@
+Danh bạ marketing trên điện thoại di động
+Công ty LantaBrand (TP HCM) vừa giới thiệu ứng dụng miễn phí BizPlus, có thể hoạt động được trên tất cả điện thoại di động hỗ trợ Java và cung cấp cho người sử dụng địa chỉ, số điện thoại liên lạc của các công ty cung cấp dịch vụ tiếp thị uy tín tại Việt Nam. 
+Việc sử dụng khá đơn giản, sau khi cài đặt ứng dụng trên điện thoại, chỉ cần vài thao tác rất đơn giản như chọn lĩnh vực dịch vụ và địa điểm thì người sử dụng đã có thể tìm được địa chỉ và danh sách các công ty mình cần.
+Ứng dụng BizPlus bao gồm 16 danh mục: Tiếp thị trực tiếp, Tổ chức sự kiện, Đồ họa, Nghiên cứu thị 
+Download và cài đặt BizPlustrường, Tư vấn tiếp thị, Đặt chỗ quảng cáo, Kế hoạch truyền thông, Toà soạn báo, Thiết kế bao bì, Nhiếp ảnh, In ấn, Quà khuyến mãi, Quan hệ cộng đồng, Tài trợ, Đài truyền hình, Sản xuất phim quảng cáo. Ngoài việc phân chia theo lĩnh vực dịch vụ, BizPlus còn cho phép phân loại thành 3 khu vực khác nhau là TP HCM, Hà Nội và các tỉnh thành khác.
+Theo ông Nguyễn Thanh Hồng Đức, Giám đốc truyền thông tiếp thị của LANTABRAND, các doanh nghiệp có thể coi BizPlus là một cuốn sổ tay lưu sẵn thông tin liên lạc liên quan đến các dịch vụ tiếp thị mà doanh nghiệp thường quan tâm. Khác với các hình thức danh bạ trước đây, BizPlus là một ứng dụng cài trực tiếp trên điện thoại di động nên sẽ luôn luôn ở bên cạnh người sử dụng khi cần. Với các đơn vị cung cấp dịch vụ tiếp thị, BizPlus là một công cụ giúp cho họ luôn hiện diện bên cạnh khách hàng tiềm năng của mình. 
+BizPlus có dung lượng 60 KB và có thể cài đặt trên điện thoại hỗ trợ Java (tức là hầu hết các loại điện thoại đang sử dụng tại Việt Nam). Ứng dụng BizPlus có thể được cài đặt thông qua máy tính hay trực tiếp từ máy di động.
+

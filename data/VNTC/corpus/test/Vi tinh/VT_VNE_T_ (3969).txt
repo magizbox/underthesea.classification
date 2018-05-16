@@ -1,0 +1,7 @@
+Lỗi ảnh hưởng 10.000 công ty toàn thế giới
+Lỗ hổng bảo mật trong một công cụ phát triển phổ biến đã ảnh hưởng nghiêm trọng tới hàng loạt những ứng dụng rộng rãi nhất trên Internet, trong đó có Gmail, Flikr và MSN Virtual Earth.
+Lỗi liên quan đến CPAINT, bộ công cụ được dùng để tạo ra các ứng dụng AJAX (JavaScript và XML không đồng bộ). Lỗ hổng này có thể bị kẻ tấn công khai thác để cài mã nguy hiểm vào server chạy trực tiếp CPAINT hay qua một ứng dụng sử dụng công cụ đó. Lỗi ảnh hưởng đến tất cả các phiên bản hiện nay của CPAINT. 
+"Chúng tôi khuyến cáo mọi người đang dùng bất cứ phiên bản nào của CPAINT cần ngay lập tức nang cấp do nguy cơ bảo mật cao", các nhà phát triển bộ công cụ khuyến cáo.
+Lỗ hổng này có khả năng không chỉ ảnh hưởng đến CPAINT mà còn liên quan đến những bộ công cụ AJAX khác. AJAX đã được rất nhiều nhà phát triển web sử dụng, đặc biệt là Google với những ứng dụng Google Maps, Google Suggest, Gmail... Một số chương trình đáng chú ý khác là MSN Virtual Earth của Microsoft, Flickr của Yahoo và AIM của AOL.
+Tải bản vá lỗi CPAINT v1.3-SP tại đây. 
+

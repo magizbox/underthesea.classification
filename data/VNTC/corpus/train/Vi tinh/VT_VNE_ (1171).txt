@@ -1,0 +1,9 @@
+Sun Microsystems miễn phí Solaris 10
+Solaris 10 có trên 600 đặc tính mới, được đánh giá là hệ điều hành Unix tiên tiến. Sun có kế hoạch phát triển sản phẩm này trên các hệ thống sử dụng bộ xử lý SPARC, x86, AMD 64 và EM 64T.
+Được thiết kế cho các trung tâm dữ liệu hiện đại, Solaris 10 nhanh hơn 40% so với phiên bản 9 trong tốc độ xử lý của máy chủ web trên cả SPARC và x86 (nhanh nhất trong các hệ điều hành mà Sun từng cung cấp).
+Trong mười chức năng chính của Solaris 10, nổi bật có công cụ chẩn đoán lỗi mới. Với nó, người phát triển có thể nhanh chóng loại bỏ các vấn đề về tốc độ xử lý và các lỗi khó phát hiện và việc chẩn đoán chỉ mất vài giây. 
+Solaris phiên bản 10 tích hợp công nghệ bảo mật của hệ điều hành Trusted Solaris. Chức năng Process Right Management sử dụng mô hình phân quyền chi tiết hơn giúp đảm bảo các lỗ hổng trong phần mềm không bị khai thác dẫn đến sự phá hủy hệ thống. 
+Bên cạnh đó, ZFS - hệ thống file 64 bit - trong Solaris 10 giúp giảm 80% công việc quản trị và cung cấp tính toàn vẹn dữ liệu cũng như khả năng phát hiện và sửa lỗi chính xác rất cao.
+Ông Lionel Lim, Phó chủ tịch kiêm Tổng giám đốc điều hành Sun Microsystems khu vực Đông Nam Á, cho biết: "Chúng tôi sẽ cung cấp việc hỗ trợ đầy đủ cho các công cụ và nền tảng phát triển Java cho hệ điều hành Solaris 10. Điều này sẽ giúp những người kế nhiệm có thể ngay lập tức khởi động các dự án phát triển sử dụng Java và đảm bảo cung cấp trên Solaris 10"
+Bắt đầu từ 31/1/2005, Sun Microsystems sẽ cung cấp miễn phí Solaris 10.
+

@@ -1,0 +1,6 @@
+ Thay đổi “xiêm y” cho Yahoo! Messenger 5.6 (YM)
+1. Đăng nhập vào tài khoản của YM, truy xuất đến menu Login rồi chọn mục Preferences. Hộp thoại Yahoo! Messenger Preferences sẽ xuất hiện. Hãy nhấp chuột vào mục Appearance trong vùng Category nằm bên trái của hộp thoại này. 
+2. Nhấp chuột vào nút có hình mũi tên hướng xuống ở ô Current Theme trong vùng Main Messenger Window rồi chọn cho mình một “bộ cánh” thích hợp. Nếu cảm thấy như thế vẫn còn là quá ít, thì bạn hãy nhấn nút Help on new themes để YM cung cấp cho bạn một số địa chỉ chuyên về theme miễn phí dành riêng cho trình nhắn tin tức thời này. 
+3. Sẵn dịp, bạn cũng nên dành chút ít thời gian để thiết lập định dạng font và màu text mặc định mỗi khi tán gẫu trong YM tại mục Fonts and Colors… trong vùng Default colors for composing messages. Nếu muốn kiểu định dạng của mình không bị người khác “lấn lướt” mỗi khi tán gẫu, bạn hãy đánh dấu kiểm trước tùy chọn Always use my fonts and colors, overriding my friends. 
+4. Cuối cùng, bạn hãy nhấn nút Apply rồi chọn OK để hoàn tất mọi thay đổi. Sau đó hãy tự mình khám phá và thưởng thức sự khác biệt của các theme mới vừa được xác lập cho YM, bạn nhé! 
+

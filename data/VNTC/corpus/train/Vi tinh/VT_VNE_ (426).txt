@@ -1,0 +1,7 @@
+Hãng bảo mật phát tán virus?
+Hệ thống e-mail thông báo cho khách hàng của hãng phần mềm an ninh F-Secure vừa qua bỗng biến thành một kênh lây lan sâu NetSky.B. Công ty Phần Lan này đã không thể ngăn chặn một thư điện tử nhiễm virus nhảy vào danh mục địa chỉ. 
+Virus được xác định là bắt nguồn từ một máy tính ở đâu đó tại Mỹ và F-Secure đang tích cực tìm hiểu tại sao những thông điệp này có thể lọt vào được. Danh sách bị tấn công nói trên thường được dùng để gửi thông báo virus cho những khách hàng mua phần mềm của hãng và một số đối tác ở Anh. 
+Vụ tấn công không làm ảnh hưởng đến hệ thống nội bộ của F-Secure. Tuy nhiên, điều này gây tai tiếng khá lớn vì từ xưa đến nay ít có những trường hợp tương tự trong cộng đồng các công ty cung cấp chương trình diệt virus.
+Mikko Hypponen, Giám đốc F-Secure, trong lời xin lỗi khách hàng, tuyên bố: Virus không xuất xứ từ mạng nội bộ của chúng tôi mà là của một đối tượng chưa xác định gửi vào danh mục địa chỉ. Nếu khách hàng đã cài bản nâng cấp mới nhất thì virus sẽ tự động bị ngăn chặn và không cần phải có thêm bất cứ biện pháp nào.
+Tháng 11/2002, hãng phần mềm bảo mật Nga Kasperky cũng hứng chịu một tình cảnh tương tự khi danh mục thư của họ bị xâm nhập. Hậu quả là hàng nghìn người sử dụng sản phẩm của công ty này đã nhận được bản sao của sâu Braid. 
+

@@ -1,0 +1,5 @@
+ Thế hệ sâu IE mới
+Sâu này sử dụng lỗi khi IE xử lý hàm creatTextRange(), hay còn gọi là phương pháp creatTextRange(), giúp cho hacker có thể dễ dàng cài đặt các chương trình nguy hiểm vào máy tính. Thế hệ sâu này được dự báo là nguy hiểm hơn nhiều so với các loại sâu sử dụng khi mới phát hiện ra lỗi. 
+Những phiên bản cũ của loại sâu này thường làm đông cứng (chết ứng dụng) của máy tính bị lây nhiễm khoảng một phút trước khi chúng có thể triển khai các mã độc của mình. Bởi vậy nếu tinh ý, người quản trị có thể đóng máy, ngắt ứng dụng thì có thể ngăn chặn sự hoạt động của sâu. Nhưng những loại sâu mới thường hoạt động nhanh hơn nhiều, và đương nhiên, trên những máy tính yếu và ít bộ nhớ thì cũng rất dễ dàng. 
+Trong khi Microsoft vẫn chưa đưa ra được bản vá, thì một công cụ sửa chữa không chính thức đã được eEye Digital Security và Determina cung cấp. Microsoft cũng khuyến cáo người dùng nên sử dụng công cụ quét mã độc được cung cấp tại website http://safety.live.com . Bản vá chính thức được dự định phát hành vào ngày 11-4 này. 
+

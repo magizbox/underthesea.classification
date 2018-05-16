@@ -1,0 +1,6 @@
+Download phần mềm trên IE 6 (1)
+Máy tôi sử dụng hệ điều hành Win XP SP 2, Pen IV 2,6 GHz, IE 6.tôi không thể download phần mềm trên net được ( Tôi dùng mạng nội bộ, đường thuê bao riêng) trong khi các máy trong phòng cùng cấu hình với máy tôi vẫn download bình thường. Khi download máy báo lỗi "Download was canceled by user". Rất mong được giúp đỡ.
+Pham Quoc Nam
+Hồi âm:
+Nếu bạn download với quyền Admin nhé, đây là một chức năng đã được đã được kèm theo cho SP2 của XP vì activeX đã bị khóa lại bởi SP2. Khi bạn nhấp chuôt download thì phía dưới thanh công cụ (tools bar) hiện lên mẩu tin ( information bar) đòi hỏi phần activeX bạn phải nhấp chuột vào đó chọn accept, nếu không thì bạn không download được. 
+

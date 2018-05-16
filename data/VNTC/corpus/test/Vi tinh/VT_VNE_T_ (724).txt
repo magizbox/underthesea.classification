@@ -1,0 +1,6 @@
+Mã nguồn của Cisco bị ăn cắp 
+Công ty thiết bị mạng đang điều tra việc mã hệ điều hành của họ bị rò rỉ và được công bố trên một website của Nga. Sự kiện này làm dấy lên mối lo ngại về nhiều nguy cơ tấn công đối với các khách hàng của họ.
+Cisco đã ra một thông báo thừa nhận khả năng những thông tin bí mật này đã bị ăn cắp sau khi phát hiện một số bằng chứng trên trang web SecurityLab.ru của Nga cuối tuần qua. Hôm 15/5, địa chỉ này công bố hẳn 800 MB mã của phiên bản 12.3 hệ điều hành mạng IOS của Cisco. Theo John Freres, Chủ tịch công ty giải pháp mạng Meridian IT Solutions, nếu đúng là như vậy thì khách hàng của Cisco đang đứng trước một nguy cơ an ninh rất đáng kể. Tác động lập tức của sự việc này là nguy cơ mã nguồn lọt tới tay tin tặc và trở thành một vũ khí nguy hiểm của chúng, ông này cảnh báo.
+Để tự bảo vệ, Meridian IT Solutions khuyến cáo khách hàng áp dụng tất cả các bản nâng cấp của Cisco và tắt hết những dịch vụ IOS nào hiện không sử dụng. Hãng này còn cung cấp một dịch vụ tăng cường hạ tầng mạng để đảm bảo những lỗ hổng của IOS đều được vá kín.
+Nhấn mạnh đến tầm quan trọng của hạ tầng mạng, Freres cho biết bất chấp những thông tin cảnh báo liên tục trong thời gian gần đây, hầu hết doanh nghiệp vẫn không mấy quan tâm đến những nguy cơ an ninh qua con đường này. Thay vào đó, họ thường chỉ tập trung nâng cấp phần mềm của Microsoft.
+

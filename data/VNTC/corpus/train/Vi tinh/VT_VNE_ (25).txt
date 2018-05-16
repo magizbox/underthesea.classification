@@ -1,0 +1,10 @@
+Tương lai của e-mail 
+Thư điện tử sẽ có hàng loạt chức năng mới và trở thành công cụ mặc định trong nhiều ứng dụng trong vòng 5 năm tới. Đó là dự báo của Jeff Ubois, nhà phân tích của hãng nghiên cứu công nghệ Ferris Research (Mỹ).
+Tính năng e-mail đang và sẽ được tích hợp vào một loạt phần mềm, Ubois nhận xét trong một công bố gửi kèm e-mail. Microsoft Office và các trình duyệt đủ loại là những ví dụ điển hình cho xu thế này.
+Sự phát triển của công nghệ sẽ cho phép nhiều thiết bị khác nhau có thể duyệt mail. Nó giúp những người không ngồi ở công sở, thậm chí không có máy tính cá nhân cũng có thể sử dụng dịch vụ này.
+Khái niệm e-mail nguyên thủy với những dòng text đơn điệu giờ đã không còn. Thay vào đó, nó bao gồm một loạt các tính năng như gửi ảnh, file đính kèm, nhắn tin, liên lạc nhóm& Theo Jeff Ubois, trong 5 năm tới, những tính năng này sẽ tiếp tục mở rộng.
+Lọc spam và virus sẽ được cung cấp thường xuyên trong các hệ thống. Những nhà cung cấp dịch vụ e-mail có thể không làm điều này mà một bên thứ ba sẽ đảm trách công việc. Chẳng hạn Microsoft đã cung cấp công nghệ lọc spam của riêng họ cho dịch vụ mail Exchange 2003.
+Dịch vụ quản lý quyền (rights management services), cho phép người gửi chỉ định ai được xem nội dung nào và kiểm soát file gửi kèm sẽ trở nên phổ biến.
+Việc mã hóa, dù đang phát triển chậm chạp, sẽ được đẩy mạnh để phù hợp với các quy định của luật pháp. Số lượng và chủng loại e-mail sẽ khiến các tính năng tổng hợp, phân loại, lưu trữ, tìm kiếm trở nên rất hữu ích.
+Sự mở rộng của các tính năng sẽ dẫn tới một phép ẩn dụ mới về những hệ thống mở, quy mô rộng. "Khi đó, thuật ngữ thư điện tử sẽ không còn phù hợp nữa", Jeff Ubois kết luận.
+

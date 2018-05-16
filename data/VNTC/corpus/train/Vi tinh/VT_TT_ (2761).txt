@@ -1,0 +1,5 @@
+ Chèn ảnh thumbnail ngay trước kết quả tìm kiếm
+Nó sẽ tự động khởi tạo ảnh thumbnail của giao diện trang web tương ứng với các siêu liên kết vừa được tìm thấy. Không chỉ dừng lại ở đấy, chương trình còn giúp bạn thu thập mọi thông tin về trang web hiện hành, tìm lại những bản lưu trữ của website từ cách đây nhiều năm (kể cả khi chúng không còn tồn tại trên máy chủ của website này), tìm kiếm những trang web tương tự với trang web hiện hành... 
+Ngay sau khi hoàn tất quá trình cài đặt và kích hoạt, tính năng chèn ảnh thumbnail của APT sẽ được tự động tích hợp vào trình duyệt web. Chỉ sau một vài giây kể từ thời điểm trình duyệt web đã hiển thị hoàn tất kết quả tìm kiếm, bạn cũng sẽ được xem ảnh thumbnail được chèn ngay phía trước những mẫu ghi này. Nếu nhấp chuột vào bức ảnh, trình duyệt web sẽ đưa bạn đến ngay trang web có liên quan. 
+Với dung lượng siêu gọn nhẹ và rất lý tưởng cho việc download (chỉ 82 KB), tương thích trên các hệ điều hành Windows như 9x/Me/NT/2000/XP/2003 Server và trình duyệt Web Internet Explorer/Mozilla Firefox, phiên bản miễn phí (freeware) của APT được cung cấp tại địa chỉ http://addpreview.com/addpreview_regular_ex.exe . 
+

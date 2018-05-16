@@ -1,0 +1,5 @@
+Pioneer giới thiệu đĩa DVD dung lượng 510 GB
+Kĩ thuật ngày càng phát triển cho phép bạn "nhét" khối lượng dữ liệu khổng lồ vào một chiếc đĩa quang với đường kính chỉ 4,7 inch.
+Pioneer đã phát triển một công nghệ mới cho phép ghi đến 510 GB dữ liệu lên chiếc đĩa có kích cỡ chỉ bằng đĩa DVD thông thường. Bước đột phá ở kĩ thuật này là việc sử dụng chùm tia electron để ghi đĩa thay vì sử dụng chùm laser thông thường. 
+"Chúng tôi đã ghi thành công đĩa DVD có dung lượng 348 GB, 424 GB và bây giờ là 510 GB, Michiko Kodoi, người phát ngôn của Pioneer, khẳng định. Hãng này chưa có dự định thương mại hoá kĩ thuật mới này. Họ tin rằng có thể sử dụng nó để tạo ra được cả hai loại đĩa: đĩa ghi được (recordable) và đĩa chỉ đọc (read-only), với khả năng chứa dữ liệu gấp 100 lần so với đĩa DVD hiện nay. Dung lượng tiêu chuẩn của đĩa DVD đang được sử dụng là 4.7 GB. Dữ liệu được chứa trong các hố trên đĩa, được đọc dưới dạng mã 0 và 1. 
+

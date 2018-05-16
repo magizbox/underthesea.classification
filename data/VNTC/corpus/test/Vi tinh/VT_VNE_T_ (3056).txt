@@ -1,0 +1,8 @@
+Ra mắt chuẩn USB không dây 1.0 
+Tiêu chuẩn kỹ thuật thống nhất đầu tiên cho công nghệ USB không dây (Wireless USB) đã được xây dựng hoàn thiện, và đang trong giai đoạn thử nghiệm để có thể ra mắt vào cuối năm nay.
+Bộ thông số này do tổ chức Wireless USB Promoter, bao gồm 7 nhà phân phối lớn Intel, Microsoft, HP, Agere, NEC, Philips và Samsung xây dựng. Chi tiết đã được chuyển giao cho USB-IF (USB Implementers Forum), cơ quan đầu não quản lý tất cả các thông số kỹ thuật hiện nay của USB.
+Thông tin chi tiết của Wireless USB 1.0 đã được công bố dù vẫn còn một số việc phải làm cũng như giải quyết nhiều vướng mắc trước khi nó có thể được chấp nhận rộng rãi.
+Wireless USB, kết nối tốc độ cao tiện lợi giữa máy tính và thiết bị điện tử dân dụng, hoạt động dựa trên UWB - công nghệ băng thông cực rộng, tầm ngắn, tốc độ cao, cho phép Wireless USB đạt tốc độ tương đương USB 2.0 thông dụng hiện nay, khoảng 480 Mb/giây trong phạm vi 3 mét. 
+Công nghệ này được liên minh WiMedia mà Intel là thành viên chủ chốt đỡ đầu, nhưng lại không phổ biến bên ngoài nước Mỹ. Hơn thế, Bluetooth đã tiến thêm nhiều bước quan trọng để giữ vai trò thay thế cho thiết bị dây nối từ nhiều năm qua, và sẽ sớm nở rộ nhờ công nghệ UWB với chuẩn kết nối IEEE 1394.
+Tuy nhiên, với mục tiêu giá rẻ, Jeff Ravencraft, Giám đốc tổ chức Wireless USB Promoter, tin tưởng rằng Mỹ đủ lớn để hình thành nên một thị trường mạnh, và thành công ở đó sẽ là bước đệm để phát triển ra toàn thế giới. Tổ chức này cũng đang đơn giản dần cơ chế plug-and-play trong thiết bị USB nối dây hiện tại, và sẽ chuẩn hóa tất cả các sản phẩm tương tác trước khi phát hành USB không dây.
+

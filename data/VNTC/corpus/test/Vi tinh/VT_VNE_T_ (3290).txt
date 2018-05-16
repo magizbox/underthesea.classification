@@ -1,0 +1,9 @@
+Định dạng video mới cạnh tranh với Microsoft
+Hãng chuyên về công nghệ nghe nhìn DivX vừa giới thiệu phiên bản phần mềm video kỹ thuật số mới, và tuyên bố rằng công cụ này có chất lượng tương đương, thậm chí tốt hơn cả sản phẩm của Apple hay Microsoft.
+DivX 6.0 là phiên bản chính thức lần thứ 6 của hãng có trụ sở tại San Diego (Mỹ) với mục tiêu nâng cao vị thế của DivX trên thị trường nghe nhìn, và chủ yếu hướng vào việc lưu trữ phim cá nhân chất lượng cao.
+Bên cạnh việc hỗ trợ danh mục cơ bản, DivX 6.0 có khả năng cài đặt phụ đề đa ngôn ngữ và tích hợp công cụ chuyển đổi những định dạng file khác nhau thành DivX.
+Sản phẩm sẽ "tương thích với hàng triệu đầu đĩa DVD của DivX và nhiều thiết bị khác", Jordan Greenhall, Trưởng phòng hành chính của DivX, khẳng định. "Công nghệ này mang lại khả năng thể hiện tối ưu với chất lượng hình ảnh sắc nét hơn, độ tương tác cao hơn bất cứ sản phẩm video nào trên thị trường hiện nay".
+Công nghệ DivX đã vươn lên từ một sản phẩm được sử dụng phổ biến bởi những người tải phim Hollywood trực tuyến trái phép thành công cụ nghiêm túc trong ngành công nghiệp điện tử dân dụng.
+Mặc dù thiếu nguồn ngân quỹ lớn để tiếp thị sản phẩm như Apple hay Microsoft, DivX đã vượt qua nhiều cuộc thử nghiệm trực tuyến và giữ được khoảng cách nhất định với những hãng đối thủ lớn.
+Hiện nay, phiên bản Windows Media 9 của Microsoft đã được công nhận như là chuẩn hỗ trợ thiết bị đọc DVD thế hệ mới. Trong khi đó, Nero, hãng nổi tiếng với phần mềm thu DVD và CD, cũng đang quảng cáo cho Nero Digital, phiên bản mới của chuẩn công nghệ MPEG AVC nhằm thu hút đầu tư và hỗ trợ từ phía các nhà sản xuất phần cứng.
+

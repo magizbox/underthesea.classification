@@ -1,0 +1,7 @@
+Yahoo lại bị trì trệ
+Lần thứ 2 trong chưa đầy một tuần, một số website và dịch vụ của hãng này lại bị trục trặc khi tốc độ truy cập rất chậm. Công ty dịch vụ trực tuyến số 1 thế giới đang tích cực khắc phục một vấn đề mà họ cho là phần cứng.
+Tối hôm qua, người truy cập vào Yahoo nhận thấy phản hồi từ các máy chủ của hãng này rất chậm, suốt khoảng 2 tiếng. Nhiều người còn không thể truy nhập vào công cụ nhắn tin nhanh Yahoo Messenger. Yahoo đã đưa ra tuyên bố, mô tả sự cố này là vấn đề liên quan đến một phần cứng độc lập.
+Họ cũng khẳng định trường hợp trên không liên quan gì đến vụ tấn công vào một loạt địa chỉ lớn, trong đó có Yahoo, đầu tuần này. Akamai Technologies, đơn vị cung cấp dịch vụ máy chủ hỗ trợ cho nhiều website lớn như Microsoft, Google, Yahoo&khẳng định biến cố đó là do một vụ tấn công rất tinh vi của hacker.
+Trong tuần này, cùng với việc nâng dung lượng e-mail miễn phí lên 100 MB, Yahoo cũng gặp phải khá nhiều trục trặc. Tối hôm 14/6, một số khách hàng nhận được những thông báo hết sức khó hiểu, trong đó nói rằng tài khoản của họ đã bị treo vì vượt quá giới hạn dung lượng, trong khi thực tế thì không có chuyện như vậy.
+Hiện nay, tất cả account miễn phí của người sử dụng Yahoo đã được nâng từ 4 MB và 6 MB lên 100 MB.
+

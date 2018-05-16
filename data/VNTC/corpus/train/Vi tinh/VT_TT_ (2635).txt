@@ -1,0 +1,7 @@
+ LimeWire bổ sung bộ lọc cho ứng dụng của mình
+Có hơn 2 triệu khách hàng sử dụng dịch vụ của mình, LimeWire quyết định giữ vững vị trí hiện tại và tránh những vi phạm dẫn đến kiện tụng. 
+Các lập trình viên của LimeWire dự định sẽ bổ sung hai bộ lọc chính vào trình ứng dụng LimeWire dành cho người dùng: cc_reverify_interval-branch và cc-publish-branch. Bộ lọc thứ nhất có công dụng xác định những tập tin được chia sẻ. Nếu chúng không có bản quyền, người dùng sẽ không được cho phép đưa các tập tin này vào danh sách chia sẻ. 
+Bộ lọc thứ hai được thiết kế dành cho các tập tin được tạo ra từ người dùng và họ muốn chia sẻ những tập tin này. Các tập tin đó sẽ được cấp Creative Commons License, chứng thực sáng tạo của cá nhân để có thể chia sẻ. 
+Hiện tại cả 2 bộ lọc vẫn chưa được chính thức bổ sung vào ứng dụng của LimeWire nhưng sẽ được tích hợp vào trong thời gian sớm nhất, Slyck.com cho biết. 
+Sau lời cảnh cáo từ RIAA , đây là động thái tích cực đầu tiên cho thấy LimeWire muốn tiếp tục hoạt động hợp pháp, cung cấp dịch vụ chia sẻ mạng ngang hàng. 
+

@@ -1,0 +1,6 @@
+Ericsson và Nokia để mắt đến dải tần 450 MHz GSM
+Ngay khi tập đoàn điện thoại Thụy Điển vừa tuyên bố sẽ bắt đầu triển khai công nghệ GSM sử dụng vùng sóng thấp thì hãng đối thủ Phần Lan cũng khẳng định họ đang nghiên cứu và áp dụng phương pháp này tại các thị trường mới nổi.
+Mạng sử dụng băng tần 450 MHz được coi là giải pháp đầy hứa hẹn trong việc giảm chi phí cho các nhà cung cấp dịch vụ, đặc biệt tại những vùng hẻo lánh. Dải tần thấp này sẽ cho phép xây dựng mạng với ít trạm cơ sở hơn trên cùng một phạm vi diện tích so với thiết lập trên 3 băng tần 900 MHz, 1.800 MHz và 1.900 MHz hiện nay.
+"Chúng tôi sẽ hỗ trợ các dịch vụ di động vươn tới những nơi được cho là không thể tiếp cận được. Khả năng phủ sóng rộng với giá thành hoạt động thấp hơn là ưu điểm của công nghệ mới GSM 450", đại diện của Ericsson nói.
+Trong khi đó, Nokia cho biết hãng quan tâm đến chuẩn quang phổ 450 GHz là vì công nghệ này có thể giúp họ phát hành điện thoại giá rẻ và giảm mức chi phí dịch vụ tại thị trường các nước đang phát triển.
+

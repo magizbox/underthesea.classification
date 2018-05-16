@@ -1,0 +1,7 @@
+Nghi phạm vụ rò mã Windows lộ diện
+Microsoft có thể giữ cẩn thận mã nguồn của mình, song đối tác của họ thì không. Các manh mối vụ lộ mã đang dẫn tới Mainsoft, một hãng công nghệ có quan hệ mật thiết với người khổng lồ phần mềm. Phần mã lộ gồm 30.915 file, dường như đều từ một máy tính Linux của công ty này mà ra.
+Theo thỏa thuận với Microsoft, ngay từ năm 1994, Mainsoft đã được truy cập một phần mã Windows để phát triển MainWin, chương trình tạo phiên bản Unix cho các ứng dụng Windows. Mainsoft đã dùng hàng triệu dòng mã Windows trong MainWin.
+Quá trình phân tích cho thấy có nhiều dấu vết của Mainsoft để lại trên những đoạn mã đã xuất hiện trên Internet. Tang chứng gồm cả địa chỉ e-mail của Eyal Alaluf, Giám đốc công nghệ của hãng này. Những dấu vết trên là một phần cái gọi là "kết xuất bộ nhớ" (core dump), tạo ra trên một số máy tính để chẩn đoán khi có những sự cố nghiêm trọng. Các file này thường được giám sát định kỳ.
+Chủ tịch Mainsoft là Mike Gullard hứa sẽ hợp tác đầy đủ với Microsoft và nhà chức trách để làm rõ sự việc. Mainsoft rất coi trọng vấn đề an ninh của Microsoft cũng như khách hàng, và chúng tôi ý thức rõ tầm quan trọng của vụ việc này, Gullard khẳng định.
+Về phía Microsoft, người phát ngôn Tom Pilla cho biết họ đã làm việc với FBI, song từ chối bình luận về quan hệ với Mainsoft.
+

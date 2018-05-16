@@ -1,0 +1,19 @@
+VN có cơ sở triển khai thành công phần mềm nguồn mở
+"Phần mềm nguồn mở (PMNM) là cơ hội tốt cho phát triển công nghệ thông tin và Việt Nam đã hội tụ được một số điều kiện để đảm bảo việc khai thác tốt", ông Nguyễn Trung Quỳnh, Giám đốc Ban quản lý Dự án phần mềm nguồn mở, Bộ Khoa học Công nghệ, nhận định. 
+Dù dự án ứng dụng và phát triển PMNM đang trong giai đoạn chuẩn bị và hoàn thiện, đã có hơn 20 công ty, đơn vị tham gia triển khai PMNM như Văn phòng Trung ương Đảng, các trường đại học, Công ty TMA Solutions... Hiện có một số sản phẩm ứng dụng triển khai PMNM cho máy tính để bàn như Vietkey Linux, Red Hat Linux, máy chủ và các hệ thống thông tin như cổng giao dịch điện tử, dịch vụ viễn thông, cơ sở dữ liệu... Sự phát triển cộng đồng PMNM ở một số trường đại học, diễn đàn JAVA Vietnam, Vietlux cũng đã tạo cơ sở đảm bảo cho việc triển khai dự án đạt kết quả.
+Trong giai đoạn 2004-2008, Bộ Khoa học Công nghệ (KHCN) xác định đẩy mạnh ứng dụng và phát triển PMNM là mục tiêu hàng đầu nhằm tiến tới triển khai thử nghiệm PMNM với quy mô nhỏ, sau đó nhân rộng ra. Ban quản lý dự án PMNM khuyến khích mọi cơ quan, tổ chức, cá nhân tham gia đầu tư phát triển, đào tạo nghiên cứu và thử nghiệm các ứng dụng trong quản lý hành chính, ứng dụng chuyên nghiệp... Tập trung vào những sản phẩm PMNM chuẩn, Việt hoá, tạo điều kiện cho người dân dễ dàng tiếp cận.
+Ưu tiên đào tạo nguồn nhân lực có trình độ công nghệ thông tin (CNTT) cao cho đội ngũ giáo viên, các chuyên gia PMNM để phục vụ lại công tác đào tạo, nghiên cứu, phát triển và khai thác PMNM hiệu quả. Hiện nay, việc đào tạo này đã được tiến hành ở một số trung tâm, cơ sở nghiên cứu như Viện Tin học Pháp ngữ (IFI), Trung tâm Aptech, các trường đại học, đồng thời thông qua đẩy mạnh hợp tác quốc tế nhằm học hỏi kinh nghiệm về PMNM. Bước đầu Bộ KHCN đã hợp tác với Intel, Sun, METI (Nhật Bản), KIPA (Hàn Quốc) và Asia-OSS. Ngoài ra, Bộ Giáo dục  Đào tạo cũng ký kết bản ghi nhớ với Sun về sử dụng PMNM Sun Microsystems StarOffice 7.
+Việc nhận thức chưa đúng về PMNM, chưa nhìn thấy lợi ích mà PMNM mang lại là một cản trở đối với phát triển PMNM. Nguồn nhân lực, các tài liệu hỗ trợ về kỹ thuật, hướng dẫn sử dụng PMNM và giải quyết các vấn đề liên quan hiện rất ít, trình độ hiểu biết chung về mã nguồn mở hạn chế. Trong khi những ứng dụng chuyên nghiệp và số lượng các thiết bị hỗ trợ không nhiều, thiếu tính tương tác với các phần mềm đóng. Ông Nguyễn Trung Quỳnh cho rằng người sử dụng đã quen thuộc với mã nguồn đóng thì không dễ dàng thay đổi sang mã nguồn mở. "PMNM sẽ khó trụ được nếu luật bản quyền không được thực thi một cách nghiêm túc. Cần phải tạo sự cạnh tranh bình đẳng giữa mã nguồn đóng và mở", ông Quỳnh nhấn mạnh.
+Kế hoạch triển khai dự án của Bộ KHCN:
+Cùng tồn tại, không loại trừ môi trường khác nhau, khai thác tối đa lợi ích các môi trường. 
+Tận dụng tối đa trí tuệ của thế giới (sử dụng các sản phẩm sẵn có của nước ngoài, bản địa hoá, tuỳ biến). 
+Doanh nghiệp và cộng đồng đóng vai trò chính, Nhà nước hỗ trợ và là thị trường lớn. 
+Nhà nước có thể đầu tư vào các sản phẩm phổ cập, khó mang lại các lợi ích cho các công ty, đồng thời tạo ra thị trường đối với các sản phẩm khác. 
+Lồng ghép với các chương trình dự án khác về CNTT. 
+Triển khai thử nghiệm trước (kế hoạch lớn, làm nhỏ). 
+Các ứng dụng trên server trước, máy tính để bàn sau. 
+Kinh phí huy động từ nhiều nguồn. 
+Xây dựng trung tâm PMNM quốc gia (Cổng thông tin và kho dữ liệu; Đào tạo giáo viên, chuyên gia trình độ cao; Bản địa hoá, tuỳ biến một số ứng dụng phổ cập, nghiên cứu phát triển và chuẩn hoá, kiểm tra đánh giá; Nâng cao nhận thức và hợp tác quốc tế). 
+Đào tạo PMNM trong trường đại học, cao đẳng. 
+Triển khai thí điểm ở một số đơn vị có mức độ sẵn sàng cao (TP HCM).
+

@@ -1,0 +1,18 @@
+Ben Edelman - kẻ thù nguy hiểm nhất của spyware
+Chàng sinh viên luật Harvard (Mỹ) 25 tuổi này đã nhiều năm nghiên cứu spyware và adware. Những phát hiện mà anh công bố thường làm bẽ mặt các công ty chuyên phát tán các phần mềm loại này và đôi khi khiến họ phải lao đao vì kiện tụng. 
+Dưới đây là trích lược cuộc trao đổi của Elderman với CNet.
+- Điều gì khiến anh quan tâm đến spyware?
+- Một lần, tôi nhận được điện thoại yêu cầu giúp đỡ của Washington Post khi tờ báo này kiện hãng Gator. Washington Post cho rằng những gì Gator làm là hoàn toàn có hại đối với sự tự do cung cấp thông tin trên web. Nếu các đơn vị có nhu cầu quảng cáo có thể mua cái quyền đó từ Gator để tiếp cận độc giả của Washington Post thì ai còn mua quảng cáo của tờ báo này nữa. Tôi nghĩ ý kiến của họ là đúng. Tuy nhiên, vụ đó kết thúc bằng cách dàn xếp bên ngoài tòa án ngay trước thêm phiên xử nên tôi không tìm hiểu thêm hoạt động của Gator có hợp pháp hay không.
+- Anh đã dành bao nhiêu thời gian nghiên cứu về spyware?
+- Có lẽ khoảng 30 tiếng mỗi tuần. Đó là một quá trình liên tục suốt 15 tháng qua.
+- Điều thú vị nhất mà anh phát hiện ra là gì?
+- Những công ty lớn và giàu nhất nước Mỹ đang mua quảng cáo thông qua spyware. Nhiều doanh nghiệp hùng mạnh đang đầu tư vào những công ty chuyên tạo ra các phần mềm không mời này. Trong số những cái tên tiêu biểu có American Express, Sprint PCS, Disney, Expedia&
+- Có mối đe dọa nào đối với các công ty cung cấp phần mềm diệt spyware?
+- Vấn đề cơ bản ở đây là người sử dụng Internet bị lừa cài cả mớ phần mềm không mong muốn vào PC của mình, khiến máy tính của họ trở nên chậm và không ổn định. Các công ty đã vào cuộc để giúp người tiêu dùng bằng những phần mềm phát hiện spyware. Trong con mắt của cộng đồng phát tán spyware, những chương trình phòng chống này tất nhiên là "những tên cướp miếng cơm" của họ. Vì thế, họ đã và đang cố gắng sử dụng chiến thuật đe dọa để buộc những nhà cung cấp ứng dụng diệt spyware "kiềng mặt" một số phần mềm quảng cáo nhất định.
+- Hãng nào hay dọa các công ty phần mềm diệt spyware nhất?
+- Một trong số ít các hãng như vậy là Claria. Họ đã đe kiện PC Pitstop năm 2003 với lý do doanh nghiệp này làm ăn không bình đẳng khi cảnh báo người sử dụng về phần mềm của Claria. Nhà cung cấp phần mềm chống adware nổi tiếng Lavasoft cũng từng bị New.net dằn mặt với cáo buộc tương tự. Tuy nhiên, hầu hết đây chỉ là những hành động dọa dẫm và chả mấy khi thực sự dẫn tới tòa. Hoặc là các công ty spyware bỏ cuộc hoặc họ đã thành công với chiến thuật hăm dọa đó và thấy không cần phải ra tòa nữa. Trong mấy tháng qua đã có ít nhất 6-7 vụ như vậy. Cũng thật thú vị khi theo dõi các hãng bảo mật nối tiếng như Symantec và McAfee phải loay hoay với mặt trận này vì đây là vấn đề hoàn toàn mới đối với họ. Khi đấu tranh chống virus, họ chả bao giờ bị hacker dọa kiện.
+- Anh kiếm được bao nhiêu tiền từ công việc tư vấn về spyware và adware cho các doanh nghiệp?
+- Đủ để thanh toán học phí ở trường Harvard.
+- Sau này anh sẽ làm gì?
+- Tôi chưa biết. Có thể đi dạy hoặc làm luật sư nhưng cũng rất có thể trở thành nhà tư vấn chuyên nghiệp.
+

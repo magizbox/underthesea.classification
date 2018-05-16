@@ -1,0 +1,8 @@
+Lỗi Microsoft Word (1)
+May toi cai Win 98 va Office 2000, khong hieu vi sao khi toi go Word thi khi xuong hang va go dau cham (.) thi cac ky tu dau tien sau no khong hoa. Ben canh do khi toi dung font Unicode thi cac ky tu lai cach ra. Vi du: Kh ang, A nh. Mong Anh (Chi) chi dum em, em thanh that cam on.
+Duc Minh
+Hồi âm:
+Bạn Minh thân mến! Thực ra đây có lẽ không phải lỗi của Word, mà lỗi do bạn chỉ địch chưa đúng. 
+1/ Với lỗi dùng Unicode mà bị khoảng trắng, bạn thử làm như sau :Tools--Options...---Edit--- bạn chọn tắt mục "Smart Cut And Paste" đi và OK là xong.
+2/ Với lỗi không chịu hiển thị chữ in (caplock) cho đầu dòng hoặc sau dấu kết thúc câu, bạn làm như sau : Tools--- Autocorrect Options...---Autocorrect Sau đó, bạn đánh dấu chọn mục "Capitalize First Letter Of Sentences" và mục "Capitalize First Letter Of Table Cells" và OK là xong. Chúc bạn thành công ! 
+

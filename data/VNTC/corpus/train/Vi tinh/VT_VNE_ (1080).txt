@@ -1,0 +1,7 @@
+Bill Gates: Hãy quên password đi
+Phát biểu tại diễn đàn CNTT Microsoft ở Copenhagen (Đan Mạch) hôm qua, chủ tịch hãng phần mềm khổng lồ Mỹ cho rằng mật khẩu sẽ sớm đi vào dĩ vãng và được thay thế bởi công nghệ thẻ thông minh và sinh trắc học.
+Một vấn đề lớn của các hệ thống nhận dạng là những yếu kém của password, Gates nói. Chúng ta sẽ không thể dựa vào những hệ thống này để bảo vệ các dạng thông tin quan trọng. Chuyển sang kỹ thuật sinh trắc học (biometric) và thẻ thông minh sẽ là một làn sóng công nghệ mới.
+Kỹ nghệ gia này còn cho biết Microsoft có kế hoạch cấp thẻ thông minh cho nhân viên khi ra vào cơ quan và truy nhập máy tính. Hệ thống đó sẽ được dựa trên công nghệ .NET của Microsoft. 
+Thẻ thông minh chứa một microchip để lưu dữ liệu. Chúng được sử dụng trong điện thoại di động và trong các hoạt động ngân hàng điện tử& Công nghệ sinh trắc học là kỹ thuật nhận dạng những đặc điểm sinh lý riêng biệt của mỗi người, chẳng hạn như vân tay, để xác thực quyền truy nhập. 
+Ngành công nghệ hiện nay thống nhất cho rằng người sử dụng các hệ thống thông tin cần phải cung cấp thêm nhiều bằng chứng nhận dạng thì mới được phép truy nhập vào mạng của tổ chức, doanh nghiệp. Tuần trước, Howard Schmidt, Giám đốc an ninh của mạng mua bán eBay và cũng là cựu cố vấn bảo mật thông tin của chính phủ Mỹ, đã kêu gọi phổ cập sử dụng quy trình xác thực 2 lớp, tức là người sử dụng phải cung cấp 2 dạng thông tin nhận dạng: sinh trắc và mật mã riêng.
+

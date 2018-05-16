@@ -1,0 +1,6 @@
+Red Hat chuẩn bị ra mắt Enterprise Linux 4
+Dự kiến sẽ được phát hành vào đầu năm tới, hãng phần mềm mã mở Mỹ hy vọng sản phẩm này sẽ cạnh tranh được với Linux Enterprise Server 9 của Novell Suse, phiên bản thương mại đầu tiên của hệ điều hành "Chim cánh cụt" phát triển dựa trên nhân Linux 2.6
+Sự cạnh tranh giữa hai nhà phát triển và phân phối này sẽ giúp mở rộng thêm thị trường cho hệ điều hành mã nguồn mở Linux, vốn đã vươn lên đứng đầu doanh số toàn cầu trong quý III vừa qua. Theo hãng nghiên cứu Peerstone Research (Mỹ), Linux sẽ tăng thị phần lên 15% vào năm 2007 thay vì 2% như hiện nay. 
+Red Hat Enterprise Linux 4 hỗ trợ nhân Security-Enhanced Linux, tương thích với bộ vi xử lý 64 bit, có giao diện đồ hoạ GNOME 2.8, sử dụng trình duyệt FireFox và chương trình Logical Volume Manager 2.0.
+Phiên bản này cũng chứa mã nguồn của Xen, một dự mã nguồn mở nhằm tạo ra máy tính ảo hỗ trợ nhiều hệ điều hàng máy khách dựa trên nền x86 với nguồn tài nguyền nằm rải rác khắp nơi.
+

@@ -1,0 +1,6 @@
+Hệ thống e-mail của VDC gặp sự cố
+Từ 13h hôm qua, các địa chỉ e-mail có đuôi @hn.vnn.vn (khách hàng tại Hà Nội) và @dng.vnn.vn (Đà Nẵng) nhận thư rất chập chờn dù việc gửi đi vẫn hoạt động tốt. Nguyên nhân là hệ thống máy chủ thư điện tử (Server Mail) của Công ty VDC bị quá tải do phải chuyển đi nhiều thư cùng với virus và spam.
+Nguyễn Long, một khách hàng của VDC, cho biết: "Từ trưa hôm qua, tôi đã không thể nhận thư. Phải đợi đến hơn 5 giờ chiều tôi mới check mail lại như bình thường. Tuy nhiên, thời gian đó tôi không có công việc quan trọng nên cũng không gây ảnh hưởng gì lớn". 
+Theo ông Long, công việc của ông thường xuyên phải sử dụng thư điện tử và thỉnh thoảng cũng có trục trặc, nhưng chưa khi nào kéo dài như lần này. 
+Khi xảy ra sự cố, các cán bộ kỹ thuật của VDC đã xử lý thư rác và virus để giảm lưu lượng sau đó chuyển sang dùng hệ thống dự phòng. Toàn bộ thông tin nhận và gửi đi của khách hàng trong thời gian bị gián đoạn đều được lưu lại máy chủ của VDC. Khi hệ thống trở lại hoạt động bình thường lúc 17h30 cùng ngày, e-mail lại được gửi đến các địa chỉ đã gửi và nhận. 
+

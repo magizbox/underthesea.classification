@@ -1,0 +1,12 @@
+Lỗi trong Excel do virus? (2)
+Toi dang su dung OS WIN XP SP2. OFFICE XP. Khi mo Excel len thi hien ra bang bao co 3 button o duoi: 
+1. Disable macros 
+2. Enable macros 
+3. More Info
+Phai bam vao button thu 1, sau do hien ra 1 bang thong bao nua. Toi bam YES thi du lieu Excel moi xuat hien tren man hinh. Co phai may tinh cua toi bi nhiem virus khong? va do la virus gi? Xin giup toi cach khac phuc hien tuong tren. Cam on rat nhieu!
+cao nguyen cong trieu
+Hồi âm:
+Bạn nên thận trọng với những lời cảnh báo kể trên của Excel hay Word và cũng có thể do virus vì tập tin của excel đã được lồng một đoạn mã (code) MACRO do người viết tạo ra điều này cũng có thể do virus.. phần security của excel đã được cài ở chế độ HIGH luôn thông báo cho bạn mổi khi gặp các đoạn MACRO đã được cài trong các tập tin (documents). Khi gặp các trường hợp như vậy nên chọn số 1 disable macros để vô hiệu hóa chúng trước khi bạn mở tập tin trong excel. Nnếu bạn biết rõ người gửi là ai thì có thể chọn số 2 enable macros, vì đôi khi muốn tăng thêm hiệu ứng cho tài liệu trong excel hay word họ phải sử dụng MACRO. Tốt hơn nên chọn disable macro... bạn nên download sp3 cho ms office. link http://office.microsoft.com/en-us/officeupdate/default.aspx nhấp chuột trên check for update ........ 
+TOM
+Các file Excel, Word thường có Macros được người lập trình thiết kế sẵn. Nếu máy của bạn thông báo như bạn mô tả có nghĩa là file excel của bạn có macro trong đó. Có thể những macros đó là do virus, để an toàn nếu bạn chắc chắn file của bạn không có macro thì bạn nên chọn Disable Macro trước khi file được mở. Tốt nhất bạn nên dùng chương trình chống virus của  với phiên bản mới nhất Bkav2005 Home Edtion - Bkav705 tại địa chỉ: www.bkav.com.vn  để quét xem file của bạn có nhiễm virus macro hay không?
+

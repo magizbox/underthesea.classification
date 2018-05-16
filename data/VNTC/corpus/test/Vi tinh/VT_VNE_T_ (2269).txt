@@ -1,0 +1,6 @@
+Mạng di động nhanh hơn với dịch vụ HSPDA
+Hãng LG (Hàn Quốc) vừa thử nghiệm thành công một dịch vụ điện thoại tốc độ cao thế hệ mới, sử dụng giải pháp công nghệ của đối tác Nortel Networks (Canada), cho phép chạy nhiều ứng dụng thời gian thực trên thiết bị cầm tay.
+Cuộc thử nghiệm được tiến hành tại phòng thí nghiệm của Nortel ở Pháp bằng cách truyền một số bài hát và một video clip dài 3 phút qua mạng HSDPA (high speed downlink packet access). Tốc độ đạt được hiện tại là 1,4 Mb/giây và rất ổn định. Với thành công này, trong thời gian tới, người sử dụng điện thoại sẽ được thưởng thức nhiều dịch vụ mới trên điện thoại như tải nhạc, xem phim DVD, chơi game tương tác 2 chiều, xem tivi và gửi e-mail đính kèm file có dung lượng lớn. 
+Theo Nortel Networks, dịch vụ HSDPA cho phép truyền thông ở tốc độ tối đa là 14 Mb/giây, nhanh gấp 7 lần so với dịch vụ 3G hiện tại và có thể so sánh với dịch vụ Internet DSL hay ADSL. 
+Mới đây, Samsung, đối thủ nặng ký của LG, cũng tuyên bố đã sẵn sàng cho việc thử nghiệm dịch vụ HSPDA. Samsung cho biết đã sản xuất thành công điện thoại cũng như hệ thống mạng tương thích với dịch vụ này và sẽ chính thức ra mắt tại triễn lãm thương mại công nghệ cao Cebit 2005 được tổ chức tại thành phố Hanover (Đức) từ ngày 10-16/3 tới đây. 
+

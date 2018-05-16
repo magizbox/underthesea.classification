@@ -1,0 +1,12 @@
+Màn hình không hoạt động (3)
+Tôi dùng máy tính chưa lâu, vừa rồi khi bật máy lên thì thấy trên màn hình hiện lên mầu đen giữa màn hình hiện lên ô có dòng chữ: bên trên: out of frequency range. Ở giữa có 3 ô mầu: đỏ, xanh, xanh đậm. Bên dưới :set resolution lowre or see monitor users guide. 
+Tôi làm cách nào màn hình cũng không đổi sau khoảng 15-20 giây thì màn hình tắt nhưng cpu vẫn làm việc. Xin cho tôi hỏi cách khắc phục tình trạng này như thế nào? Xin cảm ơn rất nhiều!
+Lê Văn Sơn
+Hồi âm:
+Chào bạn!. Hiện tượng của bạn như thế có nghĩa là độ phân giải màn hình của bạn đã chỉnh lên độ phân giải cao mà màn hình không chịu được. Bạn hãy khởi động lại máy tính. Sau đó vào ấn F8 vào chế độ safemode. Bạn chỉnh lại độ phân giải thấp xuống. có thể phải chỉnh cả "Screen refresh rate" thấp hơn nữa thì màn hình của bạn có thể hiện thị được. Chữ trên màn hình của bạn báo rằng màn hình không thể hiện thị do độ phân giải lớn dẫn đến tình trạng out of frequency range. Thân. 
+Tuấn Anh
+Theo minh biet thi bat man hinh len, ban nhan nut phai chuot, chon Properties, Chon Setting, ngay cho Screen resolution ban chon 800 by 600 neu la man hinh 15 inch, chon 1024 by 768 neu la 17 inch. 
+Chuc Ban Thanh Cong.
+Tat Vi Cuong
+Bạn bật máy lên vào Safe Mode (nhấn phím F8 khi máy bắt đầu khởi động vào Windows rồi sử dụng phím mũi tên lên xuống để chọn Safe Mode trên danh sách, nhấn Enter sau khi chọn xong). Trong Safe Mode:   1. Bấm chuột phải vào một chỗ trống trên màn hình, chọn "Properties" 2. tab "Settings" chọn nút "Advanced" 3. Tab "Monitor" bạn chuyển giá trị của "Screen refresh rate" xuống 60 hertz 4. Nhấn OK rồi khởi động lại máy. 
+

@@ -1,0 +1,26 @@
+Khách hàng (-): Anh có thể giúp tôi cài đặt chương trình TÌNH YÊU?
+Nhân viên kỹ thuật (N.V): Rất sẵn lòng. 
+- Tôi sẽ phải làm gì?
+N.V: Đầu tiên, hãy mở TRÁI TIM. Bạn đã định vị được TRÁI TIM chưa?
+- Rồi, nhưng có một số chương trình đang chạy. Có thể cài đặt TÌNH YÊU trong khi chúng đang chạy không?
+N.V: Chương trình nào đang chạy vậy?
+- Để xem, VẾT THƯƠNG CŨ.EXE, LẠNH LÙNG.EXE, HẬN THÙ.EXE.
+N.V: Không sao. TÌNH YÊU sẽ xóa đi VẾT THƯƠNG CŨ.EXE từ hệ điều hành hiện thời của bạn. Có thể nó sẽ lưu lại trong ổ cứng nhưng nó sẽ không thể phá vỡ những chương trình khác. TÌNH YÊU sẽ chạy đè lên LẠNH LÙNG.EXE với một chương trình có tên là THÂN THIỆN.EXE. Tuy nhiên, bạn phải thoát hẳn HẬN THÙ.EXE. Chương trình này sẽ không cho phép chúng ta cài đặt TÌNH YÊU. 
+- Làm cách nào để thoát?
+N.V: Hãy vào Start Menu, khởi động THA THỨ.EXE. Bạn cho chạy chương trình này nhiều lần cho đến khi nào HẬN THÙ bị xóa hoàn toàn.
+- TÌNH YÊU đang cài đặt.
+N.V: Bạn có thấy thông báo nào không? 
+- "TÌNH YÊU đã cài đặt xong". Như vậy là xong phải không?
+N.V: Vâng, nhưng nhớ là bạn chỉ có một chương trình gốc thôi đấy nhé ! Khi muốn nâng cấp, bạn phải kết nối với những TRÁI TIM khác.
+- Ồ, có một thông báo lỗi. 
+N.V: Thông báo thế nào?
+- Lỗi 412 - chương trình không thể chạy vào bên trong.
+N.V: Đây là một trong những điều rắc rối khi lập trình. Có nghĩa là chương trình đòi hỏi bạn phải có TÌNH YÊU trong máy của mình trước khi san sẻ nó cho những người khác.
+- Vậy tiếp đến tôi phải làm gì?
+N.V: Bạn có thể xóa thư mục TỰ CAO?
+- Được.
+N.V: Tuyệt! Bây giờ hãy click vào những tập tin sau và sao chép chúng vào trong thư mục TRÁI TIM TÔI: THA THỨ.DOC, GIÁ TRỊ.TXT, CHẤP NHẬN.DOC. Hệ thống sẽ đè lên bất cứ tập tin nào chống lại và sau đó nó sẽ tiếp tục vá một số lỗi nhỏ còn sót lại trong chương trình. Như vậy, bạn cần phải xóa bỏ TỰ CAO.EXE từ tất cả các thư mục và làm sạch thùng rác ngay sau khi đã chắc rằng chúng đã hoàn toàn bị xóa và không thể quay trở lại.
+- Tôi hiểu rồi. Này, TRÁI TIM đã đầy những tập tin mới. MỈM CƯỜI.MP3 đang chạy trên màn hình, còn THÂN THIỆN.EXE và HÀI LÒNG.EXE đang sao y vào TRÁI TIM. Như vậy đã ổn chưa?
+N.V: Đối với những người khác phải mất một lúc lâu, nhưng không sao, mọi chương trình luôn tải xuống đúng thời điểm. À, còn một điều nữa. TÌNH YÊU là một chương trình hoàn toàn miễn phí. Bạn phải chắc là mình sẽ chia sẻ chương trình này cho những người bạn tiếp xúc. Những người đó sẽ chia sẻ nó lại cho những người khác và biết đâu, bạn sẽ nhận được bản nâng cấp mới nhất từ người bạn vừa mới quen.
+- Vâng. Xin cám ơn!
+

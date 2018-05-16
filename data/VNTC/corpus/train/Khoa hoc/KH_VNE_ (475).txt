@@ -1,0 +1,6 @@
+Chữ cái nào đen hơn?
+Hình này giúp ta nhận ra được một sự không hoàn thiện khác nữa của mắt, đó là tính loạn thị. Nếu bạn nhìn hình vẽ đó bằng một mắt thì bạn cảm thấy rằng 4 chữ cái ấy hình như không đen như nhau.
+Thế thì bạn hãy nhận rõ xem chữ nào đen nhất, rồi nhìn nghiêng đi xem. Một sự thay đổi bất ngờ xảy ra: chữ cái đen nhất ban nãy biến thành màu tro, còn chữ cái đen nhất bây giờ lại là chữ khác.
+Thực tế, 4 chữ cái đó đen như nhau, chỉ khác là in bằng những vạch đen theo các chiều khác nhau. Nếu như cấu tạo của mắt hoàn toàn giống một vật kính thủy tinh tốt nhất thì chiều của những vạch đen không ảnh hưởng gì đến mức độ đen của các chữ cả. Nhưng theo các phương khác nhau thì mắt ta lại khúc xạ tia sáng không hoàn toàn giống nhau, do đó ngay lập tức chúng ta không thể nhìn thấy một cách rõ rệt như nhau những đường thẳng đứng, nằm ngang và nghiêng.
+Rất ít người mắt hoàn toàn không có khuyết điểm ấy, ở một vài người tính loạn thị đạt tới mức trầm trọng, làm trở ngại sự nhìn một cách rõ rệt, hạ thấp hẳn độ tinh của mắt. Những người như thế muốn nhìn rõ vật thì phải đeo một loại kính đặc biệt.
+

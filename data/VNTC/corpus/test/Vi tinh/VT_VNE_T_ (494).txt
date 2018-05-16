@@ -1,0 +1,6 @@
+Amazon giới thiệu dịch vụ tìm kiếm
+Lĩnh vực tìm kiếm vừa có thêm một đại gia mới khi hôm qua, hãng bán lẻ trực tuyến thầm lặng tung ra phiên bản thử nghiệm công cụ tìm kiếm website với một số tính năng mới.
+Đặt tại địa chỉ A9.com, dịch vụ này được phát triển bởi một nhóm chuyên gia, đứng đầu là Udi Manber, một thời là kiến trúc sư trưởng hệ thống công nghệ tại Yahoo. Nó sử dụng công nghệ của cả Google, Amazon lẫn Alexa (một chi nhánh của Amazon).
+Tuy nhiên, không giống Google, kết quả tìm kiếm của A9 có thêm hai mục bên phải, cho phép hiển thị các cuốn sách liên quan và những kết quả tìm kiếm cũ. Dữ liệu lưu trên máy chủ còn cho người dùng biết họ đã truy cập những site kết quả nào, vào lúc nào. Như các đại gia tìm kiếm khác, Amazon cũng phát hành một thanh toolbar, có thể tìm web, định nghĩa cụm từ, tìm dữ liệu phim ảnh, chặn pop-up. Ngoài ra, người dùng có thể tìm thông tin ngay trên thanh địa chỉ của trình duyệt bằng cách gõ a9.com/cụm từ tìm kiếm, chẳng hạn www.a9.com/sách.
+Theo Alison Diboll, phát ngôn viên A9, đây mới chỉ là phiên bản thử nghiệm để thu thập ý kiến của người dùng. Bà không nói quá trình thử nghiệm sẽ kéo dài bao lâu.
+

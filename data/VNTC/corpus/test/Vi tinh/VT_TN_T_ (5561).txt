@@ -1,0 +1,20 @@
+Chỉ 63 KB, miễn phí, khi chạy là một biểu tượng nằm trên khay hệ thống. Tiện ích này giúp chúng ta nhanh chóng và dễ dàng thực hiện các việc: Tắt máy, tái khởi động máy, ngắt kết nối internet, kết thúc phiên làm việc... một cách trực tiếp hoặc điều khiển từ xa thông qua một trình duyệt internet. Chưa hết, bạn lại còn có thể sử dụng thiết bị di động như điện thoại để ra lệnh cho máy thực hiện những điều đó. Tải về từ địa chỉ http://yasoft.km.ru/eng/switchoff/. 
+Sử dụng Switch Off từ khay hệ thống
+Switch Off tương thích với mọi môi trường Windows. Trong bài này dùng WindowsXP để minh họa.
+Khi ra lệnh chạy chương trình, một hộp thoại xuất hiện để người sử dụng quy định các tùy chọn. Nếu không quy định gì, có thể tắt hộp thoại đi nhưng chương trình vẫn hiển thị trong khay hệ thống với biểu tượng là phích cắm điện có dấu chéo màu đỏ. Bấm nút phải chuột vào biểu tượng này sẽ có một menu lệnh gồm:
+- Start: Khởi động chương trình, Swith Off sẽ hoạt động theo các tùy chọn đã được người dùng thiết lập (xem trong phần quy định tùy chọn)
+- Shutdown: Tắt máy
+- Restart: Tái khởi động máy
+- Logoff: Thoát khỏi hệ thống
+- Lock: Khóa hệ thống
+- Hangup: Ngắt kết nối với Internet
+- Standby: Đưa hệ thống vào trạng thái chờ để tiết kiệm điện năng
+- Hibernate: Tắt máy theo chế độ "đông miên".
+Các tùy chọn
+Ngay từ lúc chạy chương trình, trong hộp Switch Off chúng ta có thể bấm nút Options để quy định hoặc sau này gọi hộp Options từ menu khi bấm vào biểu tượng trên khay hệ thống. Hộp Options gồm 3 thẻ:
+1- General:
+- Khung Warning message: Đưa ra cảnh báo trước khi Switch Off hoạt động theo quy định. Trong đó Times to display là thời gian tính bằng giây dòng cảnh báo xuất hiện. Message Text là nội dung cảnh báo người dùng gõ vào đây. Muốn cảnh báo thêm bằng âm thanh thì đánh dấu vào ô Play sound rồi chỉ đường dẫn đến file wav trong đĩa cứng. Với file wav này nếu thích tạo dấu ấn cá nhân, bạn dùng một chương trình ghi âm, ghi lại chính giọng nói của bạn để cảnh báo thì còn hay hơn nữa.
+- Khung Startup: Là các tùy chọn cho chương trình chạy cùng hệ thống.
+2- Thẻ Appearance: Các tùy chọn cho việc hiển thị của giao diện chương trình như: Ngôn ngữ, màu sắc, màu nền...
+3- Remote Control: Điều khiển từ xa. 
+

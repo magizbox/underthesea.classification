@@ -1,0 +1,7 @@
+ Opera đưa BitTorrent vào trình duyệt Opera 8.02
+Phiên bản Opera lần này hiện chỉ ở dạng một phiên bản “biểu diễn” mang tên Opera 8.02 Technology Preview, nhưng nhờ phiên bản này mà Opera đã trở thành trình duyệt đầu tiên trên thế giới tích hợp khả năng tải file từ mạng ngang hàng vào giao diện chính. 
+BitTorrent là một trình tải file rất đa năng và hiệu quả, nó có khả năng tải 1 file từ nhiều nguồn chia sẻ, nó tải file về theo kiểu “cắt” file ra thành từng mảnh sau đó sẽ lắp ráp lại thành một file hoàn tất từ những mảnh dữ liệu nhỏ. Trong quá trình tải nếu có một nguồn nào đó bị đứt đoạn thì nó thừa sức tìm ra 1 file tương tự ở nguồn khác để tiếp tục tải về. 
+Tuy nhiên BitTorrent hiện đang được sự giám sát chặt chẽ của một số giới chức pháp luật ở các nước phát triển và đặc biệt là các công ty nhiệt tình ủng hộ cho luật bản quyền. Giới này đang tiến hành mọi nỗ lực để đánh sập mọi dịch vụ ngang hàng chuyên phân phối phần mềm, âm nhạc và phim ảnh lậu. Vào tháng 5-2005, FBI đã đánh sập trang web chuyên phân phối file BitTorrent lớn nhất thế giới là trang Elite Torrents. Trang này đã từng tung ra đến 17.000 bộ phim ăn cắp bản quyền. 
+Opera sẽ không phân phối trình duyệt Opera 8.02 Technology Preview trực tiếp từ trang web của mình mà thông qua một trang FTP của một công ty khác. Người hâm mộ Opera có thể vào đây để tải Opera 8.02 . 
+Opera luôn là trình duyệt tỏ ra có ưu thế về tốc độ hơn hẳn các trình duyệt khác nhưng thể hiện các font chữ tiếng Việt còn khá xấu. 
+

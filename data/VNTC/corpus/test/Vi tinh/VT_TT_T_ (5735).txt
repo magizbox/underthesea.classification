@@ -1,0 +1,6 @@
+ Microsoft tiết lộ mã nguồn Windows CE 5.0 
+Như vậy, sắp tới các phát triển và chuyên gia trong ngành có thể tự do sửa đổi, biên soạn mã trên Windows như ở Linux để sử dụng trong các sản phẩm thương mại mà không cần phải báo với Microsoft. 
+Microsoft sẽ công bố khoảng 2,5 triệu dòng mã trong Windows CE 5.0, bao gồm cả nhân phần mềm, giao diện sử dụng, các trình điều khiển phần cứng... Bên cạnh đó, hãng tiết lộ khoảng 2 triệu dòng mã trong Windows CE 4.2 để các chuyên gia tham khảo phát triển ứng dụng trên các thiết bị điện tử như đồng hồ đeo tay, hộp thu tín hiệu TV. Tuy nhiên, những người tham gia thường phải chia sẻ sản phẩm mới của mình với Microsoft. 
+Nếu trước đây, chỉ có một số nhà sản xuất chip và thiết bị ở một vài nước nhất định được tham gia chương trình chia sẻ mã nguồn này, thì trong thời gian tới bất kỳ ai có giấy phép sử dụng (licensee) Windows CE 5.0 đều có thể xem mã nguồn của Microsoft. 
+Cùng ngày, giám đốc điều hành Microsoft Steve Ballmer tuyên bố sẽ chi khoảng 7 tỷ USD để nghiên cứu và phát triển sản phẩm trong năm tới. Trong đó, phần lớn số tiền dành cho phát triển công nghệ truyền thông kỹ thật số và những công nghệ mới nhằm tăng cường khả năng tương tác giữa người và máy tính qua giọng nói. 
+

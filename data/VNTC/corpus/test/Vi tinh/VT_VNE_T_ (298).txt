@@ -1,0 +1,7 @@
+Website của RIAA tê liệt 5 ngày
+Trong khi Hiệp hội thu thanh Mỹ (RIAA) đang miệt mài với nỗ lực đóng cửa những địa chỉ cung cấp nhạc phẩm ăn cắp thì chính bản thân trang web của họ cũng bị dính một đòn khá nặng. 
+Theo những thông tin của hãng quan sát Internet Netcraft, trang chủ của RIAA từ gần một tuần nay đã không thể truy cập. Netcraft tin rằng, nguyên nhân cơ bản của sự cố này là một biến thể của sâu Mydoom. Hiệp hội thu thanh Mỹ từ chối bình luận về vụ này ngoại trừ việc xác nhận rằng website của họ hiện đã chết. Họ cũng không nói rõ tình trạng này có thể kéo dài bao lâu nữa.
+Thời gian trang web của RIAA bị tê liệt lần này lâu hơn vụ tháng 7/2002 khi chính website này bị tấn công từ chối dịch vụ và chết cứng suốt 4 ngày.
+Biến thể Mydoom, phát tán e-mail với số lượng lớn, bắt đầu xuất hiện trên Internet vào tháng 2, tấn công Windows khi người nhận mail mở một file đính kèm. Đến nay chưa thể thống kê được tổng số máy tính bị nhiễm virus này. Một trong những biến thể gần đây của Mydoom được lập trình để sử dụng tất cả những máy đã lây nhiễm, tấn công trang chủ của Microsoft và RIAA từ ngày 17/3 đến 22/3. Trang chủ của hãng phần mềm số 1 thế giới đến nay vẫn không hề hấn gì. 
+Những biến thể trước đây của Mydoom đều lấy mục tiêu tấn công là website của Microsoft và hãng phần mềm mã mở SCO. Các nhà phân tích cho rằng cường độ tấn công vào trang chủ của RIAA sẽ ngớt trong ngày hôm nay và hoạt động của website sẽ được khôi phục.
+

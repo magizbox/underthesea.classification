@@ -1,0 +1,6 @@
+Kỹ sư mã nguồn mở không lo thiếu việc làm
+Đào tạo nguồn nhân lực là một trong những biện pháp thúc đẩy phần mềm mã nguồn mở phát triển. Tuy nhiên, sinh viên chuyên ngành này vẫn mang nhiều băn khoăn về việc làm sau khi ra trường. Một số công ty như Global CyberSoft, TMA... đã giải tỏa những lo lắng ấy.
+Họ khẳng định cánh cửa của nhà tuyển dụng luôn mở rộng đối với những bạn trẻ thực sự đam mê, yêu thích và rèn luyện tốt những kỹ năng, kiến thức đáp ứng được nhu cầu làm việc.
+Ông Lê Tấn Lộc, Phó giám đốc ngân hàng Sài Gòn Thương tín, cho biết: "Chúng tôi bắt đầu dùng các phần mềm mã nguồn mở ở một số vị trí công việc để giảm thiểu chi phí. Chủ trương sắp tới của ngân hàng là sẽ lập nhóm nghiên cứu riêng về mã nguồn mở và ứng dụng trong môi trường Linux".
+Ông Hà Văn Lượm, Phó tổng giám đốc Global CyberSoft, cung cấp thêm: "Phát triển phần mềm nguồn mở là một lĩnh vực sẽ thu hút rất nhiều người. Chúng tôi cũng đang quan tâm tuyển dụng nhân lực trong lĩnh vực này. Vì vậy, những bạn nào có khả năng, kinh nghiệm về Linux thì ngay bây giờ có thể đăng ký, tìm cơ hội gia nhập vào CyberSoft".
+

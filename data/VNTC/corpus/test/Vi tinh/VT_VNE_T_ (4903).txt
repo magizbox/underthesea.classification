@@ -1,0 +1,6 @@
+Sony thu hồi hàng triệu CD cài rootkit
+Hãng ghi âm Sony BMG Music Entertainment cho biết, trong 8 tháng qua, hơn 2,1 triệu đĩa với chương trình XCP đã được tiêu thụ. Bất cứ ai từng mua những CD này đều có thể chuyển sang bản mới an toàn hơn.
+"Chúng tôi chia sẻ nỗi lo lắng với những khách hàng đang sử dụng đĩa chứa phần mềm chống sao chép, do đó, chúng tôi tiến hành chương trình trao đổi cũng như dỡ bỏ toàn bộ số CD còn lại (trong số 4,7 triệu CD được xuất xưởng) từ các đại lý bán lẻ", Sony khẳng định. "Chúng tôi thực sự rất tiếc về những bất tiện mà công ty đã gây ra cho khách hàng của mình".
+Đây là lời xin lỗi thứ hai từ phía Sony từ khi những nguy cơ tiềm ẩn trong đĩa CD được phát hiện tuần trước. Dù có hơn 2 triệu bản được bán ra, không phải tất cả mọi người đều phát đĩa này trên máy tính sử dụng hệ điều hành Windows. Chúng còn có thể được thưởng thức qua thiết bị CD, đầu DVD và máy tính Macintosh. Tuy vậy, các chuyên gia nghiên cứu ước tính vẫn có ít nhất 500.000 PC đã bị cài rootkit.
+Sony đã hợp tác với các hãng diệt virus để cung cấp bản vá giúp lộ diện phần mềm chống sao chép, đồng thời chấm dứt sản xuất đĩa sử dụng công nghệ của hãng First 4 Internet (Anh).
+

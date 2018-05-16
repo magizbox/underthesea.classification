@@ -1,0 +1,7 @@
+Sun Microsystems ra mắt máy chủ mới
+Hôm qua, tại Hà Nội, hãng máy tính và phần mềm Mỹ giới thiệu hệ thống máy chủ Fire V20z sử dụng 2 bộ xử lý AMD Opteron x86 32/64-bit và có khả năng chạy cả hệ điều hành Solaris cũng như Red Hat hay SUSE Linux. 
+"Với máy chủ sử dụng chip AMD Opteron, khách hàng sẽ có được tính linh hoạt với nhiều sự lựa chọn khác nhau và có tốc độ tính toán ứng dụng 32-bit với sức mạnh của hệ thống 64-bit", ông Dirk Meyer, Phó chủ tịch Nhóm sản phẩm tính toán của AMD, nói. 
+Hiện nay, những đối tác đã làm việc trên các giải pháp dựa trên Sun Fire V20z gồm: Legato, Oracle, Sophos, Symantec, SAP, Trend Micro, Veritas... 
+Theo Adrian Koh - Giám đốc kênh phân phối của Sun Việt Nam, Brunei và Sri Lanka - 70% giao dịch của Nasdaq thực hiện trên hệ thống của Sun, 4 trong 5 công ty bảo hiểm y tế lớn nhất thế giới sử dụng máy chủ của hãng. Tại Việt Nam, khách hàng của Sun gồm: VNPT, VMS, Viettel và các ngân hàng.
+Giá bán Sun Fire V20z tại Mỹ khoảng 3.000 USD.
+

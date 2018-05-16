@@ -1,0 +1,6 @@
+Phần mềm chạy DVD DivX Video cho Windows v5.1.1
+Chương trình này cho phép bạn xem phim nén sử dụng DivX và tự tạo các file DivX từ đĩa DVD hoặc những loại file video kỹ thuật số khác lưu trên PC của mình. 
+DivX v5.1.1 sử dụng định dạng MPEG-4, nén hình ảnh video xuống còn khoảng 15% dung lượng của một đĩa DVD chuẩn. 
+Chính vì khả năng nén hình rất mạnh nên một số người gọi MPEG-4 là "MP3 của thế giới video". Với khả năng đó, DivX v5.1.1 tạo điều kiện cho bạn đưa hình video lên đĩa zip, "đốt" chúng trên đĩa CD, upload lên mạng chia sẻ file hoặc chạy ngay trên web. 
+Để tải miễn phí DVD DivX v5.1.1, bấm vào đây.
+

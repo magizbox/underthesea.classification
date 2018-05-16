@@ -1,0 +1,7 @@
+Gmail được Việt hóa
+Bắt đầu từ hôm qua, nhà cung cấp dịch vụ tìm kiếm trực tuyến lớn nhất thế giới đã chính thức bổ sung phần tiếng Việt trong hệ thống thư điện tử miễn phí của họ. Ưu điểm lớn nhất của Gmail tiếng Việt (theo chuẩn Unicode) này là khả năng kiểm tra lỗi chính tả.
+Người dùng chỉ cần đăng nhập vào hộp thư Gmail của mình, sau đó vào mục Setting, chọn ngôn ngữ là Tiếng Việt và nhấn Save Changes là hộp thư Gmail đã hoàn toàn được Việt hóa.
+Mức độ Việt hóa Gmail này cũng chỉ có tác dụng ở các mục giao diện chính và các phần cài đặt, ở các phần trợ giúp vẫn là thuần tiếng Anh. Cách sử dụng tiếng Việt của Gmail vẫn còn nhiều cụm từ chưa được chuẩn.
+Ưu điểm lớn nhất của Gmail tiếng Việt này là khả năng kiểm tra lỗi chính tả trong tính năng Viết Thư, tính năng này hoạt động khá hiệu quả. Khả năng này có thể bắt  được đa số lỗi chính tả kèm theo tính năng hỗ trợ xác định từ chính xác.
+Như vậy đến nay tiếng Việt đã có mặt trong 2 dịch vụ e-mail miễn phí lớn nhất toàn cầu là Yahoo và Google.
+

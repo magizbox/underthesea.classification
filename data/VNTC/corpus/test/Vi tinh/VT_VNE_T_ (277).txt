@@ -1,0 +1,6 @@
+Phần mềm bảo mật gặp lỗi bảo mật
+Các chuyên gia vừa phát hiện hai lỗ hổng trong Norton AntiSpam và Norton Internet Security, hai chương trình phổ dụng của Synmantec. Chúng cho phép kẻ tấn công sử dụng các ứng dụng này làm cổng hậu xâm nhập máy tính nạn nhân.
+Hai điểm hở sườn này đều liên quan tới ActiveX controls. Điểm yếu trong Norton Internet Security ảnh hưởng tới một thành phần ActiveX có tên WrapNISUM Class.Theo NGSSoftware, công ty bảo mật của Anh phát hiện sự việc, với WrapNISUM Class, kẻ tấn công có thể dùng lệnh LaunchURL để chạy mã của chúng. Từ đó, hắn có thể khống chế máy tính đang được Norton Internet Security bảo vệ. Tuy nhiên, trước hết hắn cần dụ dỗ nạn nhân mở một e-mail HTML hoặc ghé thăm một trang web chứa mã tấn công.
+Lỗ hổng trong Norton AntiSpam cũng tương tự, ngoại trừ việc nó liên quan tới thành phần ActiveX SymSpamHelper. Kẻ tấn công có thể gửi một tham số dài tới lệnh LaunchCustomRuleWizard, khiến tràn bộ đệm.
+Synmantec đã đưa ra các bản vá lỗi, có thể tải về từ LiveUpdate (cơ chế nâng cấp tiêu chuẩn của hãng). Đến nay, chưa ghi nhận trường hợp nào bị khai thác lỗ hổng an ninh nói trên và mã khai thác cũng chưa bị công bố.
+

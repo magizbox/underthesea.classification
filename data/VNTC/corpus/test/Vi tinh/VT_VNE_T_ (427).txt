@@ -1,0 +1,6 @@
+Trojan tấn công Mac OS X
+Từ lâu vẫn được coi là một sản phẩm an toàn hơn Windows vì chả mấy khi bị hacker và các loại virus tấn công, hôm nay, Apple lần đầu tiên nếm trải nguy cơ an ninh tương tự đối thủ sau khi công ty bảo mật Intego (Pháp) phát hiện ra trojan MP3Concept, hay còn gọi là MP3Virus.Gen.
+Là chương trình trojan đầu tiên khai thác hệ điều hành Mac OS X, MP3Concept - như cái tên của nó thể hiện - phát tán dưới dạng file MP3. Một khi người sử dụng click vào, mã tấn công trong phần ID3 của file sẽ được kích hoạt. Mã này có khả năng xóa sạch tất cả các tệp dữ liệu trên ổ cứng. Trojan sau đó có thể phát tán qua e-mail tới những địa chỉ có trong address book của máy nạn nhân. Ngoài các file nhạc nén nói trên, MP3Concept còn có thể lây nhiễm vào các file hình ảnh như JPG, GIF và cả file film MOV QuickTime movie. 
+May mắn cho Apple là hiện nay trojan này chưa phát tán rộng rãi trên Internet. Intego cho rằng biện pháp tốt nhất để bảo vệ hệ thống là không mở file đính kèm e-mail, đặc biệt là những file dạng MP3, JPG, GIF và MOV, hoặc tốt nhất là nếu thấy thì xóa ngay chúng đi. 
+Intego là công ty chuyên cung cấp một phần mềm an ninh có tên VirusBarrier dành cho máy Mac với giá 59,95 USD. Tuy nhiên, tính bức thiết của việc mua chương trình này thì vẫn kém xa so với các phần mềm cho Windows vì chả có mấy virus và hacker tấn công Mac OS X.
+

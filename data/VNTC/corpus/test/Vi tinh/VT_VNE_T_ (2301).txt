@@ -1,0 +1,5 @@
+Asus chuẩn bị tung ra notebook siêu mỏng và nhẹ
+Tại Triển lãm công nghệCeBit khai mạc ở Hanover (Đức) hôm nay, hãng sản xuất máy tính và mainboard hàng đầu thế giới tuyên bố sắp cung cấp loại máy tính xách tay màn hình 15 inch có trọng lượng 2,55 kg với chiều dày 25 mm. 
+Holger Schmidt, phát ngôn viên của Asus, cho biết đây là những phiên bản mới của dòng V6800V, có pin mạnh hơn nhưng vẫn lắp vừa vỏ máy cũ. Loại pin 4 khoang (cell) nhỏ hơn sẽ cho phép máy tính hoạt động trong khoảng 4 tiếng còn những phiên bản dùng pin 8 khoang sẽ chạy được tới 8 tiếng. Tất cả các máy V6800V mới sẽ sử dụng công nghệ Centrino của Intel, mang tên mã là Sonoma (Centrino là sự kết hợp bộ xử lý Pentium M, chipset Alviso và chip không dây chuẩn 802.11). V6800V mới sẽ có 2 mức dung lượng ổ cứng là 60 GB, 80 GB và Asus đang xem xét việc nâng lên 100 GB trong những sản phẩm sắp tới.
+Các máy notebook mới của Asus dùng nhiều loại Pentium M khác nhau với 3 mức tốc độ xung đồng hồ, thấp nhất là 1,73 GHz. Những sản phẩm nhỏ và nhẹ này có công suất hoạt động mạnh như PC desktop, Schmidt phát biểu. 
+

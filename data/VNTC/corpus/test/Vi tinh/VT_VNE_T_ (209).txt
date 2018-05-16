@@ -1,0 +1,4 @@
+Tìm kiếm trong Table của MS Access 
+Tôi có một Table trong MS Access với n dòng (record) và m cột (field). Tôi muốn tìm giá trị của một ô trong bảng và trả về kết quả trong một form hoặc report thì sử dụng hàm nào (ví như trong Excel thì dùng hàm Vlookup/Hlookup/Lookup) hoặc phương thức nào. Mong các bạn có kinh nghiệm Access chỉ giúp. Xin cảm ơn.
+Lê Thanh Bình
+

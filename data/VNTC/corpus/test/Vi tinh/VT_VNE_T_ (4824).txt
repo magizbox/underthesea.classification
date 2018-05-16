@@ -1,0 +1,6 @@
+Google bị lợi dụng để phishing
+Sau một số trường hợp hacker tạo site giống hệt trang của tập đoàn tìm kiếm lớn nhất thế giới để phát tán virus và quảng cáo, hãng Websense (Mỹ) lại vừa cảnh báo về vụ lừa đảo trực tuyến liên quan đến Google.
+Nạn nhân sẽ nhận được e-mail hướng họ tới một site với giao diện tương tự trang chủ của Google. Tại đây, họ được thông báo đã may mắn giành 400 USD và yêu cầu nhập số thẻ tín dụng, địa chỉ thanh toán...
+Ross Paul, Giám đốc sản xuất của Websense EMEA, cho biết: "Thật không thể tưởng tượng lại có người vẫn tin họ gặp vận đỏ khi nhận được một khoản tiền nào đó. Kẻ lừa đảo thường cũng chỉ gặp may vài lần, nhưng tên tuổi của Google khiến vụ phishing này có vẻ 'thật' hơn vì mọi người vẫn biết công ty có doanh thu rất cao".
+Trang web giả có máy chủ được đặt tại Mỹ và Websense cho biết họ chưa ước tính được số người mắc bẫy.
+

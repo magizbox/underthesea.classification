@@ -1,0 +1,7 @@
+Netscape mới hỗ trợ Internet Explorer
+Với bản thử nghiệm trình duyệt mới mà AOL phát hành hôm nay, khi trang web không thể hiển thị bình thường ở cấu hình Netscape sử dụng nền Firefox, người dùng chỉ cần 2 cú nhắp chuột để duyệt nó trên nền Internet Explorer (IE).
+IE là một phần của Windows và được đa số người duyệt web sử dụng. Nhiều website được thiết kế chuyên biệt để hoạt động với trình duyệt này và có thể không vận hành suôn sẻ với các trình duyệt sử dụng những engine khác. Trong khi người dùng Firefox hiện nay phải mở IE trong cửa sổ riêng khi gặp vấn đề với website kiểu này, giải pháp của AOL thuận tiện hơn rất nhiều.
+Netscape mới không bao gồm engine IE mà sử dụng luôn engine này trong Windows. Vì vậy, nó chỉ hoạt động được trên máy tính chạy hệ điều hành của Microsoft. Trình duyệt này đưa ra nhiều tính năng mới, đặc biệt là một số tiện ích cho phép người dùng kiểm soát nhiều hơn độ bảo mật. Ví dụ, họ có thể quyết định cho những trang web nào được mở pop-up hoặc sử dụng cookie hay trình duyệt có cho phép chạy các trình điều khiển ActiveX, Java Script, Java hay không.
+AOL cũng nâng cấp hỗ trợ chuẩn chia sẻ thông tin đơn giản RSS (Really Simple Syndication) vốn có trong Firefox. Netscape mới hiển thị tiêu đề từ các kênh tin RSS trong một thanh công cụ nhỏ.
+Bản Netscape hiện nay chỉ được cung cấp cho các nhóm thử nghiệm chọn lọc. AOL dự định sẽ phát hành bản beta và chương trình hoàn thiện dành cho đại chúng vào năm tới.
+

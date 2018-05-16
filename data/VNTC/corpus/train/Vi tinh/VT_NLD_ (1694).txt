@@ -1,0 +1,4 @@
+ Alphattack – Vừa phá bom vừa luyện gõ bàn phím Alphattack là một game flash được thiết kế để bạn vừa giải trí vừa luyện đánh máy. Nhiệm vụ của bạn là ngăn chặn những kẻ lạ mặt đến từ hành tinh khác có hình dạng giống như trái bom tàn phá thành phố quê hương bằng cách gõ đúng ký tự “dán” trên thân bom.
+Có 6 loại bom là Grunts, Rotators, Critters, Zeppelins, Sawblades và Death Saucer (mạnh nhất). Sự chính xác quan trọng hơn tốc độ, vì thế bạn hãy nhìn cho kỹ để tránh gõ nhầm. Nếu đánh được từ “Life”, bạn sẽ được thêm một lần chơi nữa. 
+Đến khi nào cảm thấy quá mệt mỏi, bạn có thể chơi “ăn gian” bằng cách nhấn phím SpaceBar để quét sạch hết bom ra khỏi màn hình. Chỉ cần chơi Alphaattack vài lần, khả năng đánh máy vi tính của bạn sẽ được cải thiện đáng kể. Dung lượng: 1,59 MB. Download: www.miniclip.com/Flash/alphattack.exe 
+

@@ -1,0 +1,5 @@
+ Từ 14-4, S-Fone tính cước theo block 6 giây + 1
+Cách tính cước này áp dụng chung cho tất cả các thuê bao trả trước và trả sau của S-Fone sử dụng bất kỳ gói dịch vụ nào. Theo đó, mức phí tính theo block 6 giây đầu tiên của từng gói cước không thay đổi, kể từ giây thứ bảy, cước phí cuộc gọi của các thuê bao S-Fone sẽ được tính theo từng giây.. Cuộc gọi kéo dài chưa đến 6 giây được làm tròn thành 1 block 6 giây đầu tiên. Các giây tiếp theo được tính theo block 1 giây. 
+“Với phương thức tính cước theo block 6 giây + 1, các khách hàng của S-Fone sẽ chỉ phải trả tiền cho những gì mình nói”. Ông Đỗ Văn Quất, Giám đốc Kinh doanh tiếp thị của S-Fone chia sẻ. 
+Nằm trong chiến lược đẩy mạnh phát triển dịch vụ và nâng cao chất lượng hoạt động chăm sóc khách hàng, S-Fone cũng đã và đang khẩn trương tiến hành các hoạt động đầu tư cho hệ thống cơ sở hạ tầng mạng lưới. Theo đó, S-Fone sẽ hoàn thành phủ sóng toàn quốc vào cuối tháng 5 và cung cấp các dịch vụ giá trị gia tăng đặc biệt trên nền công nghệ CDMA 2000 1x-EV-DO vào quý III năm nay. 
+

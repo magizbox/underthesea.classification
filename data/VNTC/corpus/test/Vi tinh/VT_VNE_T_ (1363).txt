@@ -1,0 +1,6 @@
+Lỗi trong WinXP (1)
+Máy chủa cháu dùng Winxp, gần đây hay bị hỏng (... is not a valid Win32 application) những dữ liệu trong thư mục system32, dù đã format ổ cứng và cài lại toàn bộ nhưng vẫn xảy ra tình trạng trên. Dùng System Suit 5 để kiểm tra ổ cứng thì được thông báo là vẫn bình thường. Không chỉ các file trong system 32 bị mất mà trong Office 2003 cũng không bật được ( null is not a valid Win32 application) và những file Word, Excell. Mong cô chú giúp cháu.
+Vu My Dung
+Hồi âm:
+Có lẽ file điều hành đã bị hỏng (exe file) bạn hãy thử bằng cách này startsearch hoặc find file or foldergõ lệnh winword.exe find now. Khi các file được hiển thị, nhấp đôi chuột để mở, nếu vẫn nhận thấy (is not a valid Win32 application) bạn hãy tìm đĩa word khác mà cài lại. 
+

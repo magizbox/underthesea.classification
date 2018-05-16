@@ -1,0 +1,7 @@
+ Cảnh sát Pháp từ bỏ Internet Explorer (IE)
+Thời gian chuyển đổi dự kiến kết thúc vào cuối năm nay. 
+Theo một cuộc khảo sát của Xiti, Firefox hiện chiếm khoảng 18% thị trường trình duyệt ở Pháp. So với con số 20% của toàn châu Âu và 38% của riêng Phần Lan, thì đây cũng là một con số khá ấn tượng. Việc hiến binh Pháp sử dụng Firefox hứa hẹn sẽ tạo nên một trào lưu mới cho phần mềm mã nguồn mở, đặc biệt là trình duyệt tại Pháp nói riêng và tại châu Âu nói chung. Cảnh sát Pháp còn mơ đến một tương lai mà mọi người dân Pháp đều có thể trình báo việc trộm cắp qua Internet (Firefox là một trình duyệt miễn phí). 
+Trào lưu về phần mềm mã nguồn mở không phải mới bắt đầu từ đây. Cuối năm 2005, toàn bộ máy tính của cảnh sát cũng chuyển sang sử dụng OpenOffice thay cho Microsoft Offices, hiện nay là version 1.4 và tháng 3 sắp tới sẽ là version 2.0. Thay đổi này tiết kiệm cho cảnh sát 2 triệu euros mỗi năm. 
+Nhiều bộ ngành khác của nước Pháp cũng sắp chuyển qua sử dụng phần mềm mã nguồn mở trong năm nay. Dự kiến quý 2 năm 2006, sẽ có thêm khoảng 80.000 máy tính nữa sẽ được chuyển đổi, một số lớn trong đó thuộc về ngành thuế. 
+Tuy nhiên, vẫn chưa có một quyết định nào cho việc chuyển đổi từ sử dụng Windows qua Linux. Vẫn còn là một khoảng cách khá lớn cho Linux trong con đường tiếp cận thị trường người dùng cuối. 
+

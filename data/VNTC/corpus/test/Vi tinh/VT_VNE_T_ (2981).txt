@@ -1,0 +1,7 @@
+Màn hình phẳng cỡ lớn OLED chỉ dày hơn 2 cm
+Samsung vừa công bố một loại màn hiển thị 40 inch mà họ tin rằng có thể tạo tiền đề cho sự ra đời của những chiếc TV siêu mỏng. Sản phẩm này sử dụng công nghệ đi-ốt phát sáng hữu cơ (OLED) với một tấm đơn.
+Màn hình OLED siêu mỏng của Samsung.
+Về kỹ thuật, màn hình OLED tiêu thụ ít điện năng hơn những sản phẩm TV phẳng thông thường. Ngoài ra, chúng không đòi hỏi đèn nền (backlight), đồng thời lại có độ phân giải cao hơn màn hình tinh thể lỏng LCD. Đến nay, công nghệ OLED đã được sử dụng nhiều trong điện thoại di động và các thiết bị màn hỉnh nhỏ khác.
+Việc chế tạo màn hình TV sử dụng công nghệ OLED hiện còn khá khó nhưng Samsung đã bắt đầu giới thiệu những mẫu thử nghiệm cỡ lớn với hy vọng sớm đưa chúng vào sản xuất đại trà. Năm ngoái, hãng này tung ra màn hình OLED 14,1 inch với độ phân giải 1.280 x 768 pixel, tiếp sau đó họ trình làng một sản phẩm 21 inch có độ phân giải lên tới 1.920 x 1.080 pixel. Mẫu sản phẩm mới nhất mà Samsung vừa công bố đạt mức 1.280 x 800 pixel với độ sáng cực đại 600 nit (nit là đơn vị đo cường độ ánh sáng trên 1 mét vuông), độ tương phản đen/trắng là 5.000-1. Samsung tuyên bố thiết bị này có độ dày là 2,2 cm và có thể gắn vừa vào những TV dày dưới 3 cm.
+Theo dự kiến, Samsung sẽ chính thức cho ra mắt màn hình OLED nói trên tại một triển lãm quốc tế về công nghệ hiển thị diễn ra ở Boston (Mỹ) từ ngày 24/5.
+

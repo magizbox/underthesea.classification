@@ -1,0 +1,6 @@
+Dùng TweakMaster để tăng tốc độ Internet
+Có nhiều nguyên nhân làm tốc độ lướt web và download chậm lại như bị nhiễm spyware, adware hay ổ cứng bị phân mảnh... Nhưng cũng có khi, trục trặc xảy ra đến từ chính thiết lập PC của bạn. TweakMaster sẽ giúp bạn loại bỏ được nguyên nhân chủ quan này.
+Sau khi cài đặt, chương trình sẽ hướng dẫn bạn thực hiện một loạt thiết lập phù hợp nhất. Sau đó, bạn có thể điều chỉnh cho tới khi kết nối được tối ưu hóa. Kết nối cũng được tăng tốc nhờ khả năng lưu tạm hệ thống tên miền (DNS) của TweakMaster: Chương trình lưu lại những địa chỉ mà bạn đã ghé thăm theo dạng số để lần sau nó không phải dịch tên miền sang ngôn ngữ máy tính.
+TweakMaster tương thích với các hệ điều hành Windows 98/Me/NT/2000/XP/2003 Server, có thể sử dụng cho mọi loại kết nối Dialup, AOL, DSL, cáp và không dây.
+Phần mềm nặng1,6 MB. Bạn có thể tải bản dùng thử có thời hạn 30 ngày tại đây.
+

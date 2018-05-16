@@ -1,0 +1,7 @@
+ Seagate tung ra đĩa cứng Barracuda 7200.9 500 GB
+Với dòng Barracuda 7200.9 500 GB này, Seagate hy vọng sẽ nắm ngôi vô địch về dung lượng đĩa cứng được thương mại hóa trong một thời gian dài trước khi có một công ty đối thủ nào đó tung ra loại đĩa cứng có dung lượng tương đương. 
+Loại Barracuda 7200.9 này được nhắm vào các loại máy để bàn cấp cao hoặc máy chủ cấp thấp. Ngoài ra nó tỏ ra hết sức phù hợp với giới thiết kế đồ họa và biên tập video chuyên nghiệp. 
+Seagate cho biết rằng loại Barracuda 7200.9 500 GB này là loại đĩa cứng có mật độ dữ liệu cao nhất thế giới hiện nay, với 3 lớp đĩa và mỗi mặt đĩa chứa đến 160 GB dung lượng. Loại đĩa cứng này có công nghệ hoàn toàn vượt trội so với loại đĩa cứng dung lượng 400 GB 5 lớp đĩa được giới thiệu cách đây vài hôm mà Seagate và Hitachi cùng đưa ra giới thiệu trong một ngày. 
+Barracuda 7200.9 cũng là loại đĩa cứng thương mại đầu tiên được trang bị đến 16 MB cache bộ nhớ, với mức độ hoạt động rất êm và khả năng chống sốc cực cao. Hiện nay Seagate là công sản xuất máy tính duy nhất tung ra được các dòng đĩa dung lượng từ 80 đến 500 GB bằng công nghệ SATA 3Gbit/s kết hợp với công nghệ NCQ. Đây là hai chuẩn công nghệ cho phép đĩa cứng cùng lúc xử lý được nhiều yêu cầu phức tạp do máy tính đưa ra với hiệu suất rất cao trong thời gian ngắn và thể đọc và ghi dữ liệu ngay trong cùng một thời điểm dữ liệu được tải về. 
+Barracuda 7200.9 có giá khoảng 350 USD. 
+

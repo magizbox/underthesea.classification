@@ -1,0 +1,6 @@
+Bỏ thông báo Fix và Ignor trong Word (1)
+Kính gửi các bạn đọc! Tôi có một rắc rối khi sử dụng Word như sau: khi tôi đặt lại lề cho văn bản page setup thì thường có cảnh báo là Fix và Ignor. Tôi đã thử mọi cách để bỏ đi thông báo này mà không được. Kính mong các bạn đọc chỉ giúp. Xin chân thành cảm ơn!
+VD
+Hồi âm:
+Đó là do bạn đặt lề quá nhỏ. Thường thì lề trái nên đặt khoảng 1 Inch hay 2.5 cm (72pt), lề phải khoảng 0.5 Inch hay 1.2 cm. Đặt lề nhỏ hơn 0.17 Inch thì se có thông báo xuất hiên ngay. 
+

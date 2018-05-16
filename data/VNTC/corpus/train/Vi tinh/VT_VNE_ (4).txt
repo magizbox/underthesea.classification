@@ -1,0 +1,23 @@
+Phần mềm quản lý nội dung iCMS giành cup TTVN 2003
+"Ít phút trước nhóm vừa nhận phần thưởng của Vietnam Airlines nên không thể tin rằng sẽ giành một giải nữa, mà lại là giải nhất. Không gì có thể diễn tả được cảm xúc lúc này", Nguyễn Anh Tuấn, một trong 4 tác giả của sản phẩmiCMS, xúc động nói với VnExpress tại lễ trao giải tối qua ở Hà Nội.
+Trưởng nhóm Nguyễn Công Kha tỏ ra tự tin hơn: "Trưa nay, khi cả nhóm cùng ngồi ăn và nghe nhạc cổ điển để "trấn an tinh thần", mình có linh cảm rằng sản phẩm sẽ đoạt một giải nào đó". 
+Hệ thống khai thác và quản lý thông tin trên nền web iCMS (Innovative Content Management System) là một hệ quản trị nội dung chuyên nghiệp được tích hợp các chương trình khai thác, quản lý, phân phối và xuất bản thông tin. Phần mềm này đang được ứng dụng thực tế với hơn 1 triệu lượt khách/ngày tại Đài truyền hình Việt Nam, Hanoi Telecom, Công ty Viễn thông dầu khí, trang tin Tintucvietnam.com. 
+Giáo sư Bạch Hưng Khang, Chủ tịch Hội đồng giám khảo, nhận định sản phẩm này đáp ứng được các tiêu chí: sáng tạo, cập nhật công nghệ, giao diện web và đặc biệt là có tính thực tiễn cao. "Nhóm tác giả cũng trình bày rất lưu loát những thế mạnh của phần mềm", ông nói.
+Ngoài chiếc cup vàng, nhóm iCMS (gồm Nguyễn Công Kha, Đặng Quang Huy, Nguyễn Anh Tuấn, Nguyễn Thanh Tùng) sẽ nhận được 50 triệu đồng, 1 máy tính xách tay trị giá 1.500 USD và 1 chiếc xe máy Future của hãng Honda Việt Nam. 
+Giải nhì (30 triệu đồng và 1 bộ máy tính Elead trị giá 603 USD) được trao cho nhóm MyVietnam với Diễn đàn trực tuyến trên nền Java (mvnForum). Công nghệ xây dựng diễn đàn được đánh giá là đi tiên phong trong việc áp dụng Java có hỗ trợ tiếng Việt. 
+Hai giải ba (mỗi giải 15 triệu đồng và 1 bộ máy tính Elead trị giá 603 USD) thuộc về nhóm VAN (Vietnam Audio Network) với sản phẩm Hệ thống âm nhạc trực tuyến và nhóm VietPalm với Phương pháp nhập liệu mới cho màn hình cảm ứng, minh họa trên hệ điều hành Palm OS. 
+Nhóm Điểm tựa (9 thành viên) cùng sản phẩm Hệ thống truyền thông hợp nhất CorriDOR được nhận giải "Công nghệ" gồm một suất học bổng 6 tháng tại Ấn Độ trị giá 3.000 USD.
+Bên cạnh đó còn 3 giải đặc biệt (mỗi giải 5 triệu đồng) gồm: "Thực tiễn Việt Nam" cho tác giả Trương Đình Tú (Phú Yên) với sản phẩm Xây dựng bộ gõ tiếng dân tộc; "Ý tưởng" thuộc về nhóm Cầu Vai Đỏ với Hệ thống theo dõi và chăm sóc sức khỏe cộng đồng QSK_03; "Ấn tượng" dành cho Hệ chương trình hỗ trợ giảng dạy và quản lý trường mầm non của nhóm ITCVN. 
+Ngoài ra, Vietnam Airlines - nhà vận chuyển chính thức - trao 4 vé máy bay khứ hồi cho nhóm iCMS; nhà tài trợ công nghệ Hanoi CTT tặng giải thưởng trị giá 17 triệu đồng cho thí sinh Trương Hải Nam với sản phẩm Game Tướng quân; Quỹ tấm lòng vàng báo Lao Động trao giải "Nghị lực" (3 triệu đồng) cho Lê Thị Như Tưởng với Phần mềm giải quyết khiếu nại tố cáo.
+Đồng thời, Trung tâm đào tạo lập trình viên quốc tế Aptech cũng tặng 10 suất học bổng Aptech (700 USD/suất) cho các thí sinh dự thi.
+Theo ông Phạm Huy Hoàn, Trưởng ban tổ chức, cuộc thi lần này "chất" hơn so với những năm trước. Điều đó thể hiện ở việc có tới 85 sản phẩm hoàn thiện trong tổng số 166 sản phẩm dự thi - tỷ lệ cao nhất trong suốt 4 năm qua. Đáng mừng hơn là lần đầu tiên có sự góp mặt của phái yếu - bốn cô gái đến từ Hà Nội, Huế và Australia. 
+Vương Vũ Thắng, thí sinh đoạt giải nhất cách đây 2 năm, cũng chia sẻ quan điểm này. "Nếu đi thi kỳ này, có lẽ mình cũng chỉ hy vọng đoạt giải nhì thôi", anh nói.
+Đặng Minh Tuấn, thành viên Hội đồng sơ khảo, Trưởng nhóm Vietkey Linux - phần mềm đoạt giải nhất cuộc thi TTVN 2002, cho VnExpress biết các sản phẩm dự thi năm nay có tính thực tiễn và độ phức tạp cao khiến ban giám khảo phải "cân đo" rất kỹ để chọn được sản phẩm vào vòng trong. "Cá nhân tôi rất ấn tượng với tính mới mẻ của Opensky và sự đồ sộ về công nghệ của CorriDOR", ông Tuấn nhận định.
+Về phía các thí sinh, dù được giải hay không, họ đều cho biết sẽ không hài lòng với kết quả đã đạt được. Trương Đình Tú tiết lộ sẽ nâng cấp phần mềm Bộ gõ tiếng dân tộc, như xây dựng thêm tự điển Êđê-Việt Việt-Êđê, và sang năm tiếp tục tham dự cuộc thi này.
+Còn Nguyễn Công Kha thì khẳng định: "Bọn mình sẽ tiếp tục phát triển để iCMS trở nên thông minh hơn, thực tiễn hơn và áp dụng được vào nhiều mô hình khác nhau". 
+Kha cũng đề xuất ý tưởng quy tụ các thí sinh đoạt giải trong một "TTVN group" để lập nên cộng đồng lập trình viên trẻ trong tương lai.
+TTVN 2003: Sản phẩm nào sẽ lên ngôi?(31/12/2003)
+15 sản phẩm vào chung khảo cuộc thi TTVN 2003(26/11/2003)
+Hơn 160 hồ sơ tham dự cuộc thi TTVN 2003(13/11/2003)
+Cuộc thi TTVN 2003 ưu tiên sân chơi cho phái nữ(09/10/2003)
+

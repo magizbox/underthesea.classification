@@ -1,0 +1,8 @@
+Dự thi TTVN 2005: Thoại với Vn3DPocket
+Phần mềm gọi điện qua Internet bằng giao thức SIP không dây cho Pocket PC được thiết kế bởi Thái Huỳnh Nghĩa và Nguyễn Duy Hưng, đều là du học sinh nước ngoài. Đây là sản phẩm thuộc loại mới ở Việt Nam.
+Trước thực tế là các thiết bị hỗ trợ cá nhân số (PDA - Personal Digital Assistant) ngày càng trở nên quen thuộc trong cuộc sống hằng ngày, nên các tác giả của Vn3DPocketđã trăn trở với ý tưởng về một phần mềm gọi điện (softphone) trên hầu hết các thiết bị hỗ trợ cá nhân số. Đầu tiên là Pocket PC, tiếp đến là SmartPhone, Symbian, PalmOS&
+Sản phẩm Vn3DPocket cho phép người sử dụng gọi điện miễn phí từ thiết bị PDA (Pocket PC, SmartPhone) tới PDA hoặc máy tính trên toàn thế giới với chất lượng không khác gì hệ thống điện thoại truyền thống; Gửi SMS (phụ thuộc vào gateway SMS), Chat (trò chuyện bằng text) hay thậm chí là hội thảo.
+Danh bạ của Vn3DPocket có thể lưu hàng chục nghìn số điện thoại, với bộ máy tìm kiếm chọn lọc cho phép tìm kiếm nhanh chóng và gọi điện tức thời chỉ bằng một click vào biểu tượng. Sản phẩm hỗ trợ các free codex: G711, GSM, ilbc, etc và hoạt động với tất cả các SIP server.
+"Điều quan trọng hơn cả là Vn3DPocket là một dự án mã nguồn mở. Vì vậy mà người sử dụng có thể tạo phong cách cho riêng mình bằng việc tham gia phát triển cùng chúng tôi", Huỳnh Thái Nghĩa cho biết. "Để giúp mọi người thử nghiệm, chúng tôi đã mở trang web www.Vn3DPocket.com và đăng tải thông tin về Vn3DPocket". 
+Tại địa chỉ trên, người quan tâm có thể đặt câu hỏi liên quan tới kỹ thuật, lập trình Pocket PC, Smartphone và những vấn đề xung quanh Vn3DPocket tại forum của website, đồng thời cũng được phép tham gia thử nghiệm bản beta 1 của Vn3DPocket.
+

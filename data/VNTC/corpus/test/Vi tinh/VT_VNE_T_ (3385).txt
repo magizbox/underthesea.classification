@@ -1,0 +1,11 @@
+Tăng tốc độ chip bằng photon ánh sáng 
+Các chuyên gia của Intel đang trong quá trình hoàn tất ý tưởng đưa ánh sáng vào ứng dụng mới của chip lượng tử để nâng cấp khả năng thực thi cho thiết bị xử lýđa lõi.
+Hãng sản xuất chip khổng lồ này tuyên bố đã khám phá ra phương pháp sử dụng silicon photon - dùng ánh sáng để truyền dữ liệu - thay thế cho liên kết điện tử bằng dây đồng hiện nay và nâng tốc độ kết nối đồng bộ trong quá trình chuyển dữ liệu vào và ra thiết bị xử lý.
+Intel cho rằng kết nối điện tử sẽ vẫn tiếp tục được sử dụng trong thời gian tới, nhưng công nghệ quang học sẽ thắng thế vì sẽ ngày càng khó thực hiện các quá trình phức tạp thông qua những đoạn dây điện bằng đồng.
+Tạo lập bus (kênh) điều khiển có thể di chuyển nhiều dữ liệu nhanh hơn sẽ là vấn đề then chốt với một hãng như Intel, nhất là khi hãng sản xuất này muốn đi sâu hơn vào địa hạt chip đa lõi. Intel gần đây đã giới thiệu thiết bị xử lý lõi kép Pentium D cho máy để bàn với hai lõi độc lập trên cùng một bảng silicon đơn. Hãng cũng sẽ bắt đầu cung cấp notebook và chip lõi kép máy chủ trong năm nay. Đây là bước đệm quan trọng cho bộ xử lý 4, 8, và nhiều lõi trong tương lai. 
+"Tiềm năng nằm chính trong những photon ánh sáng. Chúng sẽ được sử dụng như là công nghệ củng cố các bus định tuyến quang học tương lai cho thiết bị xử lý máy tính đa lõi", Manny Vara, nhà chiến lược công nghệ thuộc Trung tâm nghiên cứu của Intel, cho biết.
+Sử dụng silicon ánh sáng là một ý tưởng khá hợp lý vì nó cung cấp băng thông lớn. Intel đã xây dựng trong phòng thí nghiệm một thiết bị hoạt động với tốc độ 10 Gb/giây và khẳng định hoàn toàn có khả năng thiết kế trực tiếp vào trong chip.
+Đầu năm nay, Intel thông báo hãng đã thành công trong việc tích hợp ánh sáng laser vào silicon. Sự đột phá này không chỉ là điểm mốc khoa học quan trọng, mà sẽ còn là công cụ hỗ trợ đắc lực cho việc gỡ bỏ rào cản trong lĩnh vực sinh học.
+Nhiều hãng khác, trong đó có Startup Luxtera (Mỹ), cũng đang tìm hiểu cơ chế của silicon photon. Luxtera đã tập trung nghiên cứu bộ điều biến cho phép chuyển đổi tín hiệu ánh sáng sang dạng dữ liệu, và hy vọng có thể tích hợp trong silicon vào năm tới.
+"Chúng ta đang trong giai đoạn phôi thai của một cuộc cách mạng công nghệ toàn diện sẽ diễn ra trong vòng 20 năm tới", Marco Paniccia, Giám đốc Trung tâm nghiên cứu công nghệ Photon của Intel, nhận định.
+

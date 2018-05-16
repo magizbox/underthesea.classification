@@ -1,0 +1,4 @@
+ Cung cấp dịch vụ nhắn tin hai chiều giữa S-Fone và MobiFone
+Các nhà cung cấp dịch vụ tự thỏa thuận và quyết định phạm vi, hình thức thử nghiệm dịch vụ và cước kết nối dịch vụ nhắn tin liên mạng trong thời gian thử nghiệm. 
+Cũng từ 1-5-2004, S-Fone sẽ áp dụng cách tính cước chỉ còn một vùng cước thống nhất trên toàn quốc, thay vì hai vùng cước với giá cước khác nhau như trước đây. Đồng thời cước cuộc gọi, cước thuê bao... của S-Fone cũng được áp dụng mức cước mới, rẻ hơn so với mức cước đang áp dụng nhiều lần. 
+

@@ -1,0 +1,7 @@
+Giày thông minh quyết định thời lượng xem tivi
+Một đôi giày thể thao có thể biết được người chủ đã luyện tập đủ hay chưa để cho phép họ xem tivi mới ra đời tại Anh.
+Đôi giày mang tên Square Eyes chứa một bộ cảm ứng áp lực điện tử và một chip máy tính nhỏ xíu ghi lại số bước chân người chủ đã đi trong một ngày. Một máy phát không dây sẽ gửi thông tin tới bộ tiếp nhận nối với tivi, và thiết bị này sẽ quyết định người chủ xứng đáng được xem tivi trong khoảng thời gian bao lâu, dựa trên nỗ lực luyện tập trong ngày.
+Tác giả Gillian Swan tại Đại học Brunel ở London cho biết, thiết kế của cô ra đời với mong muốn giảm được vòng eo ngày càng phát triển của lứa tuổi thiếu niên ở Anh. Một khi trẻ em đã dùng hết lượng thời gian cho phép, tivi sẽ tự động tắt. Nó sẽ chỉ được xem thêm khi ghi thêm đủ số bước chân.
+Các chuyên gia sức khoẻ cho biết trẻ em nên thực hiện 12.000 bước chân mỗi ngày và xem tivi không quá 2 giờ. Vì vậy cứ 100 bước lại được Square Eyes chuyển thành 1 phút xem tivi.
+Mẫu giày đầu tiên có 2 bộ cảm ứng trong đế giày - một cái ghi lại bước chân, còn một cái ở gót chân gửi dữ liệu tới bộ tiếp nhận bằng cách giậm mạnh chân.
+

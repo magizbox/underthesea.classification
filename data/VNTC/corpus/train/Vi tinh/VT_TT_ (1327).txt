@@ -1,0 +1,5 @@
+ Intel Celeron và Pentium D sẽ phát hành vào quý 2
+Nhà sản xuất vi xử lý lớn nhất thế giới Intel cũng vừa tuyên bố sẽ phát hành sớm Celeron D, bộ vi xử lý được sản xuất sau giải pháp Cedar Mill và cũng sẽ được khắc chạm bằng công nghệ 65 nanometer. 
+Cũng giống như “Prescott” dựa trên Celeron D, model mới này sẽ hoạt động trên Bus 533Mhz và hỗ trợ các máy 64-bit. Vi xử lý Celeron D mới sẽ cung cấp 512KB L2 cache, gấp đôi cache của các “thành viên” hiện tại khác trong “gia đình” Celeron D. 
+Cả Celeron Cedar Mill và Pentium 4 Cedar Mill đều được dự kiến sẽ phát hành vào quý 2 trong năm nay và sẽ có hai phiên bản: Celeron D 352 (3.2Ghz) và Celeron D (3.33Ghz). Pentium 4 Cedar Mill sẽ có mặt trên thị trường trước với tên gọi P4 671 với tốc độ lên đến 3.8Ghz. P4 671 cũng giống như các model trước đã được phát hành trong dòng 6x1 sẽ bao gồm cả công nghệ EIST của Intel (Extended SpeedStep Technology). 
+

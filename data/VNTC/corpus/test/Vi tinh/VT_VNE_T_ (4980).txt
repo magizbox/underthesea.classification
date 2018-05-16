@@ -1,0 +1,49 @@
+Hệ điều hành phổ biến nhất thế giới tròn 20 tuổi
+Nhiều người sử dụng PC tính tuổi Windows bắt đầu từ năm 1990 khi Microsoft phát hành phiên bản hệ điều hành 3.0. Tuy nhiên, tập đoàn của Bill Gates đã đề cập đến phần mềm này từ 7 năm trước đó và ra mắt chính thức vào tháng 11/1985. 
+Sau đây là 20 mốc quan trọng trong quá trình xây dựng và phát triển hệ điều hành Windows (một phần mềm có ảnh hưởng lớn đối với thế giới hai thập kỷ qua) nhân kỷ niệm 20 năm ra đời phiên bản 1.0:
+1. Bill Gates muốn gọi phiên bản 1.0 là Interface Manager nhưng giám đốc thị trường Rowland Hanson thuyết phục rằng Windows nghe ấn tượng hơn nhiều.
+2. Microsoft bắt đầu tiến hành xây dựng Interface Manager vào năm 1981 dù tại thời điểm đó nó thiếu giao diện người dùng đồ họa (GUI) và nhiều tính năng khác mà về sau xuất hiện trong Windows.
+3. Những mô hình Interface Manager ban đầu có menu được thiết kế phía cuối màn hình, phù hợp với giao diện người dùng của Word và một số chương trình phổ biến khác trong DOS.
+4. Microsoft giới thiệu "bản nháp" Windows 1.0 vào tháng 11/1983, tròn 2 năm trước khi hệ điều hành chính thức được hoàn tất.
+5. Năm 1983, Microsoft tán dương Windows như một giao diện GUI đầy tiềm năng cho hệ thống máy tính ST của Atari. Tuy nhiên, Atari không tỏ ra mặn mà và không đủ kiên nhẫn đợi đến khi chương trình ra mắt. Họ đã ký kết thỏa thuận với GEM của Digital Research (Mỹ).
+6. Dù được coi là một bản sao của hệ điều hành Mac (hay Lisa), theo một vài tài liệu, nguồn cảm hứng thực sự để phát triển Windows là môi trường desktop VisiOn, được giới thiệu tại triển lãm Comdex năm 1982. Bill Gates tỏ ra ấn tượng với bản demo hệ thống và cùng các chuyên gia khác tiến hành nghiên cứu VisiOn.
+7. Những yêu cầu để hệ thống có thể chạy trên Windows 1.0 là RAM 256 KB, DOS 2.0 và 2 ổ đĩa mềm.
+8. Sau khi xem xét phiên bản mẫu năm 1983, tạp chí Byte Magazine tuyên bố Windows là một hệ thống "cởi mở, linh động, khả năng cấu hình lại cao, yêu cầu phần cứng khiếm tốn và giá cả thấp nhất".
+9. Windows 1.0 sử dụng trình quản lý file MS-DOS Executive. Phiên bản sau của chương trình này (không có nhiều thay đổi so với bản gốc) hiện vẫn hoạt động trong Windows XP.
+10. Windows 1.0 mang đến khả năng thực hiện đa thao tác nhưng không cho phép chồng chéo lên nhau. 
+11. Microsoft đã tích hợp trình tính toán, đồng hồ, lịch, notepad và một vài ứng dụng nhỏ khác, kể cả game Reversi, cho Windows 1.0.
+12. Dù hạn chế số ứng dụng, những đoạn quảng cáo ban đầu của hệ điều hành tuyên bố "Windows là tập hợp những ứng dụng vô cùng hữu ích" cho hệ thống.
+13. Không chỉ thất bại trong việc lôi kéo những công ty khác tạo ứng dụng cho Windows 1.0, Microsoft cũng rất chậm trễ khi đưa những chương trình của chính họ vào Windows. Excel và Word đã có mặt trong Mac từ 1985 nhưng phải đến khoảng giữa 1987 - 1989 mới được cài vào hệ điều hành của Microsoft. 
+14. Trong số những ứng dụng Windows được công bố đầu tiên là một session chạy trên thiết bị đầu cuối, được sử dụng để truy tìm thông tin chứng khoán, trong đó có thông tin của IBM, Compaq và Apple. Microsoft không được đưa vào đơn giản vì cho đến năm 1986 họ mới niêm yết trên thị trường chứng khoán.
+15. Năm 1984, tạp chí PC World nhận định Windows có "một giao diện người dùng ít đắt đỏ đồng thời lại hiệu quả và đơn giản". Chỉ riêng điều này cũng đủ để Microsoft lôi kéo sự ủng hộ đông đảo từ phía khách hàng và biến sản phẩm thành chuẩn chưa chính thức trên thị trường máy tính cá nhân. 
+16. Ngay khi chính thức phát hành, tạp chí PC Magazinenhận xét về Windows 1.0: "Nếu bạn vừa than phiền về DOS và mong muốn một chương trình thuần thục hơn, hiệu suất cao hơn, Windows sẽ đáp ứng yêu cầu đó. Nó giúp quá trình thao tác với DOS chỉ diễn ra trong nháy mắt cùng hàng loạt khả năng mới. Trừ khi bạn là một chuyên gia DOS, bạn sẽ tự hỏi mình phải làm gì nếu thiếu Windows". 
+17. Windows ra mắt (20/11/1983) chỉ được khoảng 2 tuần trước khi Microsoft xây dựng bản 1.01 để vá một vài lỗ hổng, khởi đầu cho những đợt phát hành gói dịch vụ và những bản sửa lỗi phát sinh kéo dài cho đến tận ngày nay.
+18. Bức ảnh quảng cáo cho Windows 1.0 (hình bên) là cảnh Bill Gates dựa trên một màn hình máy tính. Phía sau ông là một vài hệ thống PC khác, trong đó có IBM PC và Mac.
+19. Ngay từ đầu, Windows đã có khả năng hiển thị màu nếu được cài trên một màn hình màu, trong khi Mac vẫn chỉ bó hẹp trong với 2 màu đen trắng. Đặc điểm này khiến PC Magtin tưởng "ngay cả những người sử dụng hâm mộ Mac nhất cũng sẽ nghĩ đến chuyện chuyển đổi".
+20. Giá bán lẻ của Windows 1.0 là 100 USD, tương đương 177 USD tính theo trị giá tiền tệ hiện nay. Mức giá này cũng xấp xỉ số tiền bạn phải bỏ ra để mua một phiên bản bán lẻ đầy đủ của Windows XP Home.
+Những phiên bản Windows đã phát hành
+1985: Windows 1.0 
+Windows 1.0.
+1987: Windows 2.0 
+1990: Windows 3.0 
+Windows 3.0.
+1993: Windows NT 3.1 
+Windows NT 3.1.
+1993: Windows for Workgroups 3.11 
+1994: Windows NT Workstation 3.5 
+1995: Windows 95 
+Windows 95.
+1996: Windows NT Workstation 4.0 
+1998: Windows 98 
+1999: Windows 98 Second Edition 
+2000: Windows Millennium Edition (Windows Me) 
+Windows Me.
+2000: Windows 2000 Professional 
+2001: Windows XP 
+2001: Windows XP Professional 
+2001: Windows XP Home
+Windows XP Home.
+2001: Windows XP 64-bit
+2002: Windows XP Media Center
+2002: Windows XP Tablet PC
+

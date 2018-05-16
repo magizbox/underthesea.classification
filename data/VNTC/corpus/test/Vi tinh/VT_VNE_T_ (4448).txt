@@ -1,0 +1,9 @@
+ATI giới thiệu vi xử lý đồ họa nhanh nhất thế giới
+Hãng sản xuất chip Canada vừa công bố dòng chip đồ hoạ (GPU) mới mang mã hiệu Radeon X1000. Sản phẩm được thiết kế để đáp ứng nhu cầu của các game thủ đẳng cấp cao cũng như các chuyên gia làm ảnh và video.
+Vi xử lý đồ hoạ Radeon X1000 của ATI.
+"Dòng Radeon X1000 được thiết kế để trở thành vi xử lý đồ hoạ tốt nhất", Rich Heye, Phó chủ tịch ATI, cho biết. "Về mặt thể hiện game, đây là chip nhanh nhất; về mặt chất lượng, X1000 cũng mang đến những hình ảnh đẹp nhất. Còn xét về mặt tính năng thì sản phẩm này có khả năng phong phú nhất". 
+Radeon X1000 được thiết kế theo công nghệ bán dẫn 90 nm và bao gồm các tính năng sau:
+- Cấu trúc đổ bóng siêu tuyến để chạy các trò chơi có mật độ hiệu ứng đổ bóng dày. 
+- Cấu trúc bộ nhớ mới có tác dụng đẩy mạnh hiệu suất của GPU và do đó nâng cao khả năng thể hiện hình ảnh. 
+- Công nghệ Avivo cải tiến chất lượng hiển thị và tinh chỉnh quá trình phát lại video.Card đồ hoạ dành cho GPU dòng Radeon X1000 cũng sẽ được ATI cung cấp. Các đối tác của họ bao gồm ASUS, Club 3D, Connect3D, Diamond Multimedia, Giga-Byte, Hightech Information System, Info-Tek, MSI Computer, Palit Microsystems, Sapphire Technology, TUL, Viking InterWorks và Visiontek.ATI cho biết các nhà sản xuất thiết bị gốc OEMhàng đầu sẽ nhanh chóng giới thiệu máy tính mới có kèm card đồ hoạ Radeon X1000. Ngoài ra, ATI hiện còn có các dòng sản phẩm như Radeon X1800 và Radeon X1300 đang có mặt trên thị trường. Phiên bản Radeon X1800 với cấu hình bổ sung và Radeon X1600 sẽ được phát hành vào cuối tháng 10 và tháng 11 năm nay.
+

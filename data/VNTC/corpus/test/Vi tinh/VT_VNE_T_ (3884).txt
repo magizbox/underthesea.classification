@@ -1,0 +1,7 @@
+Thẻ PC chấm dứt trục trặc máy tính
+Loại thẻ hỗ trợ máy tính, do hãng công nghệ Involution (Anh) phát triển, cho phép khôi phục hệ thống gần như ngay lập tức sau những rắc rối liên quan đến phần mềm.
+Theo Involution, thiết bị PCI 32 bit mang tên RecoverPCsẽ dò tìm tất cả những thay đổi trong hệ thống và có thể hồi phục máy tính trở lại cấu hình ổn định ban đầu.
+"Đa số các chương trình hỗ trợ kỹ thuật cho máy tính đều dựa trên phần mềm. Tuy nhiên, không quá khó để làm trục trặc một chương trình trong Windows, và thậm chí khiến nó hoàn toàn không khởi động được", Steve Aspris, Giám đốc điều hành phân phối RecoverPC, cho biết. "RecoverPC gần như xoá bỏ thời gian phân tích vấn đề phần mềm và khôi phục lại chương trình nhanh chóng". Aspris cũng nhấn mạnh sản phẩm có khả năng loại bỏ những ổ thiết bị hoạt động thiếu ổn định, những chương trình vá lỗ hổng bị hỏng, và thay thế những file lỗi.
+Thẻ giá 99 USD này có thể hỗ trợ văn phòng khoá hoàn toàn một hệ điều hành, và tự động khôi phục lại theo thiết lập trước đó hoặc cấu hình đã lưu sau mỗi lần khởi động. Aspris cho biết Involution đang phát triển một phiên bản USB dành riêng cho laptop.
+Tuy nhiên, RecoverPC không thể hoạt động nếu xảy ra lỗi phần cứng. Nó lưu file dữ liệu trong một bộ phận ẩn trên ổ, do đó nếu ổ cứng hỏng, thẻ cũng sẽ bị vô hiệu hoá. 
+

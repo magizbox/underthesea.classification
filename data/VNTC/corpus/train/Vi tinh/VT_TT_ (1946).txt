@@ -1,0 +1,10 @@
+ Sự cố ở đường truyền dẫn Bắc- Nam: Vinaphone mất sóng
+Tuy nhiên, theo thông tin của các thuê bao VinaPhone tại khu vực Hà Nội, điện thoại của họ luôn trong trạng thái dò tìm mạng, kèm theo thông báo "limited services", và không gọi được cho bất kỳ thuê bao nào kể cả tổng đài. Chúng tôi đã thử gọi cho một số quan chức của Vinaphone tại Hà Nội nhưng luôn nhận được thông báo "thuê bao không liên lạc được". 
+Tại TP.HCM, bạn đọc cho chúng tôi biết, trong sáng nay thuê bao VinaPhone luôn báo "error connection" khi gọi đi hoặc nhắn tin. Đến trưa nay, các cuộc gọi vẫn không thực hiện được. 
+Chúng tôi đã liên lạc với Công ty Viễn thông liên tỉnh (VTN) và được người trực điều hành viễn thông xác nhận sự cố này. Đại diện VTN cho biết, đây là sự cố về đường cáp. Do tuyến cáp chính xấu, phải chuyển sang tuyến cáp bảo vệ và quá trình chuyển mạch đã gặp sự cố ở thiết bị chuyển mạch. 
+Sự cố này tập trung vào đường truyền của VinaPhone đã làm VinaPhone mất kết nối. Hiện nay hệ thống truyền dẫn đang bị rối loạn và bộ phận kỹ thuật VTN chưa xác định được sự cố xảy ra ở trạm truyền dẫn nào trong 37 trạm từ Bắc đến Nam. 
+Công ty Thông tin di động (VMS) cho biết sự cố đã gây ảnh hưởng đến các thuê bao trả trước mạng di động MobiFone tại Trung tâm 1 (kể cả thuê bao của Trung tâm 2 đang chuyển vùng tại Trung tâm 1) khiến những thuê bao này không nạp được tiền vào tài khoản. 
+Các thuê bao đang sử dụng số trung tâm nhắn tin của Trung tâm 2 (+84900000018 hoặc +84900800019) cũng có hiện tượng khó thực hiện gửi tin nhắn. 
+Tính đến 11h30, theo ông Nguyễn Mậu Xuân, phó giám đốc VTN, sự cố vẫn đang được khẩn trương khắc phục. Khoảng 12 g trưa nay, phần lớn các thuê bao di động VinaPhone tại Hà Nội đã kết nối trở lại được với tổng đài. 
+Theo Công ty Viễn thông liên tỉnh (VTN), vào khoảng 9h30 sáng nay (20-2), tuyến đường trục cáp quang Bắc Nam đã gặp sự cố tại đoạn từ Phước Sơn (Quảng Nam) đi Kon Tum gây ảnh hưởng trực tiếp tới các mạng điện thoại có sử dụng đường truyền này. 
+

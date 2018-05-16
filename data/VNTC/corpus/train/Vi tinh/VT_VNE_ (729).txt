@@ -1,0 +1,8 @@
+Thị trường mã mở sẽ tăng trưởng gấp đôi
+Một nghiên cứu của IDC cho biết các doanh nghiệp và chính phủ Tây Âu đang sử dụng ngày càng nhiều dịch vụ xung quanh phần mềm phi bản quyền. Trong 4 năm tới, những sản phẩm này sẽ trở thành một trong những xu hướng chính.
+Theo nhà phân tích Dominique Raviart của IDC, trước đây, phần mềm mã mở chủ yếu được các kỹ thuật viên CNTT đưa vào doanh nghiệp một cách không chính thức trên cơ sở hạn chế. Tuy nhiên, hiện nay nó đã trở thành một phần trong các dự án, kế hoạch hạ tầng công nghệ chính của nhiều tổ chức, doanh nghiệp. 
+Vì thế, các cơ quan hiện mua nhiều sản phẩm mã mở hơn từ những công ty tích hợp hệ thống lớn và giới chuyên gia về phần mềm tự do. Năm nay, các tổ chức thuộc khối công cộng và tư nhân sẽ tiếp tục chi khoảng 98 triệu USD vào các dịch vụ xoay quanh mã nguồn mở, trong đó có Linux, và đến 2008 sẽ là 228 triệu USD.
+Dịch vụ phát sinh từ Linux và phần mềm mã mở chiếm chưa đầy 1% toàn bộ thị trường dịch vụ CNTT Tây Âu, song tình hình đã thay đổi và vị thế của nó đang lớn rất nhanh, Raviart phát biểu.
+Phần mềm mã mở được coi là một trong vài đối thủ cạnh tranh đáng kể nhất đối với các nhà cung cấp sản phẫm mã đóng có bản quyền như Microsoft. Một phần nguyên nhân là vì mô hình phát triển của dòng sản phẩm mã mở có thể giữ chi phí thấp và cơ chế cấp phép có khả năng tránh việc một công ty khống chế cả dự án như hệ điều hành Linux hoặc máy chủ web Apache. Những tổ chức lớn, đặc biệt là trong khu vực công cộng, đang bắt đầu nhìn nhận mã mở một cách nghiêm túc như một phương thức cắt giảm chi phí và đấu tranh chống sự độc quyền.
+IDC cho rằng thị trường dịch vụ mã mở vẫn còn nhỏ nhưng nó là một trong không nhiều những động lực tăng trưởng chính cho lĩnh vực tích hợp hệ thống hiện nay. 
+

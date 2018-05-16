@@ -1,0 +1,5 @@
+ Thiết bị nhận dạng bằng tia hồng ngoại cho điện thoại di động 
+Sản phẩm này được thiết kế nhằm bảo vệ thông tin trong các máy điện thoại đã được hỗ trợ công cụ nhận dạng bằng tia hồng ngoại. Khi khởi động điện thoại, IP-1 sẽ tiến hành nhận dạng các dữ liệu về người chủ của máy điện thoại đó nhờ vào mã tia hồng ngoại, giúp khách hàng tránh được tình trạng rò rỉ thông tin cá nhân do bị tấn công hoặc bị mất điện thoại. 
+IP-1 có các ưu điểm như: giá thành rẻ, thời gian xác nhận thông tin ngắn, khi cài đặt IP-1 vào hệ thống điện thoại cũ thì không cần thiết phải thay đổi các ứng dụng và hệ điều hành mà điện thoại đó đang sử dụng. 
+Ngoài ra, Canon cũng đang nghiên cứu để cài đặt các chức năng khác cho IP-1 như thiết kế pin với chất liệu bằng đồng để có thể sử dụng trong thời gian tối thiểu là 1 năm. 
+

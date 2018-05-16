@@ -1,0 +1,4 @@
+ Chọn công nghệ MPLS- VPN cho hạ tầng mạng đô thị (NLĐ)- Việc xây dựng một hạ tầng mạng đô thị (mạng MAN) là bước đi nền tảng cho chính phủ điện tử tại TPHCM. Theo kết quả nghiên cứu của nhóm đề tài “Đánh giá hiểm họa và xây dựng giải pháp bảo vệ hạ tầng mạng MAN TPHCM” thì việc chọn công nghệ MPLS là phù hợp nhất hiện nay.
+Công nghệ MPLS có thể tin cậy để giải quyết những vấn đề mà hệ thống mạng hiện nay gặp phải như tốc độ, khả năng mở rộng, quản lý chất lượng dịch vụ, quản lý lưu lượng. 
+Đề tài do tiến sĩ Trịnh Ngọc Minh, ĐH Quốc gia TPHCM, làm chủ nhiệm, được xếp loại xuất sắc. Sở Bưu chính Viễn thông, đơn vị đặt hàng, cho biết: Sẽ triển khai kết quả nghiên cứu khi xây dựng mạng MAN TP.
+

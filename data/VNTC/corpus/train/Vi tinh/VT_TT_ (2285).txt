@@ -1,0 +1,4 @@
+ Ổ khóa nhận dạng vân tay cho gia đình
+FSLocks cho biết rằng loại khoá nhận dạng vân tay của mình đã được tích hợp bộ cảm ứng vân tay FSLA93 với độ phân giải đầu đọc là 0,3 megapixel. Giá của một ổ khóa này khoảng 199 USD, hơi cao, nhưng nó có thể nhớ được vân tay của khoảng 138 người 
+Đây là dạng ổ khóa đa năng, có thể tự động khóa, sử dụng được trong cửa cũng như ngoài cửa, dung lượng pin có thể đảm bảo cho ổ khóa hoạt động được khoảng 1 năm. Chủ nhân của mỗi một ổ khoá đều được cung cấp mã số PIN và mật khẩu, cho phép nhận dạng vân tay của những người được phép sử dụng khóa bảo mật cao cấp này. 
+

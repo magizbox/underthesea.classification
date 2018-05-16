@@ -1,0 +1,8 @@
+Vấn đề của Download Accerlerator Plus (2)
+Thưa các anh/chị, em đã có dùng Download Accerlerator Plus được một thời gian, nhưng hôm qua mới phát hiện ra rằng Download Accerlerator Plus có cài một số phần quảng cáo và vài cái độc hại cho máy vi tính. Em đã tìm được những phần ầy nhờ Ad-aware, nhưng sao khi em xóa bỏ những phần đọc hại ấy thi Download Accerlerator Plus đã không còn sừ dụng được nữa. Cho nên em không biết phải sử dung loai nào khác để giúp đỡ về việc download. Nếu anh/chị có biết thì xin anh/chị hãy vui lòng giúp đỡ giùm em. Cám ơn anh/chị trước nhé!
+Quach Van Kim
+Hồi âm:
+Em thử FlashGet chưa? Nếu chưa em có thể tải về ở địa chỉ dưới đây: http://www.amazesoft.com/ Nhớ tải về cả phần plug-in để cài vào Internet Explorer. Phần plug-in "freely downloadable plug-in" ở gần giữa trang. Chúc em thành công. 
+Đức Thành
+Bạn nên chuyển sang dùng FireFox (thay cho Internet Explorer), FireFox hỗ trợ download (và rất nhiều các thứ khác nữa) rất tốt. 
+

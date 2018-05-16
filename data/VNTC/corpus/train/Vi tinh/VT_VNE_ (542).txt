@@ -1,0 +1,7 @@
+Hotmail lại chết
+Hôm qua, một trục trặc mạng đã phong tỏa đường truy cập của hàng triệu người sử dụng thư điện tử trên dịch vụ mail của Microsoft trong hơn 3 giờ đồng hồ. Tuy nhiên, sự cố hiện đã được khôi phục và trở lại hoạt động bình thường.
+Nữ phát ngôn viên của Microsoft cho biết công ty phát hiện ra trục trặc này vào lúc 6h30 sáng hôm qua và đến 9h50 thì khôi phục lại hoàn toàn lưu thông dịch vụ. Người này khẳng định không có dữ liệu của khách hàng bị thất thoát trong thời gian xảy ra trục trặc. Microsoft từ chối cung cấp thêm chi tiết về nguyên nhân của vấn đề. 
+Trong thời gian mạng thư bị tê liệt, tất cả những nỗ lực đăng nhập đều chỉ nhận được một thông báo: Máy chủ này quá bận. Vì trang chủ của Hotmail đã xuất hiện trở lại, nhà cung cấp dịch vụ khuyến khích người sử dụng nên thử truy nhập lại.
+Đây là vụ trục trặc thứ 2 của mạng Hotmail từ đầu năm đến nay. Tháng 3 vừa qua, tình trạng không thể log-in vào tài khoản Hotmail cũng đã xảy ra khiến nhiều người sử dụng suy đoán rằng nguyên nhân của vấn đề bắt nguồn từ phần mềm xác thực Passport của Microsoft. 
+Theo tuyên bố của hãng phần mềm, tính đến tháng Giêng năm nay, Hotmail là dịch vụ web mail phổ dụng nhất trên thế giới với hơn 145 triệu khách hàng thường xuyên tham gia.
+

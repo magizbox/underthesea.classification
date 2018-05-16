@@ -1,0 +1,6 @@
+Hỏi về Redegit (1)
+Chào các anh chị. Tôi xin hỏi: Tại Access muốn Import 1 ttin từ Foxpro sang, tôi muốn table đó (mới import được) hiển thị dấu tiếng Việt. Vậy run Regedit và sửa thông tin nào trong đó? Xin cảm ơn.
+Tran Ngoc Anh
+Hồi âm:
+Theo tôi được biết thì trong Foxpro không cho phép hiển thị tiếng Việt. Có thể tôi sai. Nhưng nếu đúng như vậy thì không có cách nào cả. Và Regedit không liên quan gì đến đây cả. 
+

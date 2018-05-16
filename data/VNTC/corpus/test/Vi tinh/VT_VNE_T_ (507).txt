@@ -1,0 +1,13 @@
+Mực - 'vòi hút' tiền của máy in phun giá rẻ
+Khảo sát của tạp chí Computeractive (Anh) cho biết, giá thiết bị inkjet tuy đã giảm xuống trung bình chỉ còn 60 USD/chiếc, nhưng lại có thể ngốn tới 3.036 USD hao phí sử dụng trong vòng 18 tháng vì chi phí thay mực quá tốn kém. 
+Dylan Armbrust, Tổng biên tập của tờ tạp chí, cho rằng như vậy là người tiêu dùng đang đứng trước nguy cơ bị vặt hơi nhiều. Ông nói: Nhiều khi việc thay thế hộp mực mới có thể tốn bằng hoặc thậm chí cao hơn cả giá chiếc máy in.
+Computeractive đã điều tra nhiều loại máy in của 4 nhà sản xuất hàng đầu Canon, Epson, HP và Lexmark, đồng thời họ cũng tính toán vòng đời trung bình của một khay mực đen và màu cộng với chi phí tính theo đầu trang in. Kết quả cho thấy phí tổn cho mực vẫn là yếu tố lớn nhất khiến tính kinh tế bị hạ thấp. Khay mực của các nhà sản xuất khác nhau rất nhiều cả về giá lẫn thời lượng dùng. 
+Phản ứng với công bố của Computeractive, hãng Lexmark cho rằng nghiên cứu của tờ tạp chí có nhiều thiếu sót và không có sự so sánh hợp lý. Phát ngôn viên của Lexmark tuyên bố: Chúng tôi ước tính trung bình người ta mua khoảng 2 hộp mực mỗi năm. Những khách hàng nào in với số lượng lớn thì nên để ý cho kỹ vấn đề giá. 
+Trong khi đó, Canon cho biết họ không bình luận gì về kết quả khảo sát trên vì chưa xem xét cụ thể. Tuy nhiên, nhà sản xuất này nói thêm rằng chi phí máy in và khay mực còn là những yếu tố phản ánh lượng tiền mà công ty đã đầu tư vào nghiên cứu phát triển. 
+Năm ngoái, một nghiên cứu của tạp chí Which?(Anh) phát hiện ra rằng thậm chí một số loại mực in nếu tính theo từng millilitre thì còn đắt hơn cả rượu champagne nho chính vụ. Tờ báo này khuyên người tiêu dùng mua những khay mực kiểu hàng chợ có giá chỉ bằng một nửa so với sử dụng những sản phẩm chính hãng.
+So sánh giá/chi phí sử dụng trong 18 tháng của 4 loại máy in phun phổ biến:
+Canon i560:230 USD / 1.837 USD.
+Epson C44UX: 87USD / 2.066 USD.
+HP Deskjet 5150: 158 USD / 1.264 USD.
+Lexmark z605:71 USD / 3.170 USD.
+

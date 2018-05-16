@@ -1,0 +1,6 @@
+ Google Talk kết nối đến tất cả mạng tin nhắn
+Google đã đưa xu hướng nối kết chung các mạng tin nhắn (IM) vào trình tin nhắn Google Talk của mình thành hiện thực. Như vậy, người dùng Google Talk có thể liên hệ trực tiếp với người dùng Earthlink, Gizmo Project, Tiscali, Netease, Chikka, MediaRing … 
+Bất kỳ nhà cung cấp mạng tin nhắn nào giờ đây đều có thể kết nối đến Google Talk miễn phí mà không cần phải chờ đợi chấp thuận hay ký kết, chỉ đơn giản làm theo các chỉ định có sẵn. Google thậm chí còn đang dự định bổ sung thêm việc hỗ trợ cho SIP cho phép thực hiện cuộc gọi qua mạng. 
+“Chúng tôi nghĩ điều này rất thú vị và mong muốn nó sẽ mang chúng tôi tiến một bước gần hơn đến việc thực hiện công việc để các trình tin nhắn (Instant Message) và gọi điện thoại qua Internet (VoIP) sẽ có mặt ở khắp mọi nơi như với email”, Mike Jazayeri, điều hành sản phẩm Google Talk cho biết. 
+Để tham khảo thêm về cách thức kết nối với Google Talk, người dùng có thể xem tại đây và tải về phiên bản Google Talk 1.0.0.82 Beta . 
+

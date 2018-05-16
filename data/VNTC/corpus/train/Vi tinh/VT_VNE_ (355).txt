@@ -1,0 +1,6 @@
+Thử nghiệm beta máy chủ ảo MS 2004
+Hôm qua, Microsoft bắt đầu chiến dịch kiểm tra sản phẩm Virtual Server 2004, một phần mềm cho phép người sử dụng chạy nhiều hệ điều hành khác nhau trên cùng một phần cứng máy chủ đơn. Chương trình được triển khai đối với một nhóm khách hàng có chọn lựa.
+Một trong những tiện ích của sản phẩm mà Microsoft đang phát triển là giúp người sử dụng chuyển từ Windows NT 4.0 sang Windows Server 2003, phiên bản mới nhất của hệ điều hành mang tên cửa sổ. Với Virtual Server, khách hàng có thể chạy NT 4.0 trên Server 2003 và tiếp tục dùng những ứng dụng được phát triển riêng cho chương trình cũ này. Ích lợi thứ hai là người sử dụng chuyển đổi được những ứng dụng có tính kế tiếp và hỗ trợ việc đưa nhiều ứng dụng vào một số ít máy chủ.
+Theo kế hoạch, Virtual Server sẽ được tung ra thị trường trong nửa đầu năm nay, tức là vẫn hơi chậm so với dự kiến ban đầu của Microsoft là cuối năm ngoái. Giá của sản phẩm hiện chưa được công bố.
+Microsoft có được Virtual Server cùng với 2 ứng dụng ảo cho máy để bàn khác sau khi sáp nhập hãng Connectix hồi tháng 2/2003. Kể từ đó, họ đã tích cực xây dựng hệ thống an ninh cho phần mềm ảo này và bổ sung thêm các tính năng mới. Năm ngoái, 2 công cụ Virtual PC 2004 và Virtual PC cho máy Mac đã được phát hành. 
+

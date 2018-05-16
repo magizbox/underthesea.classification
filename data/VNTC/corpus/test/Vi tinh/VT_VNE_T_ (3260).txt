@@ -1,0 +1,7 @@
+Lỗi phần mềm Adobe cho phép khống chế PC
+Lỗ hổng trong một số ứng dụng thiết kế đồ họa phổ biến của hãng Adobe Systems có thể đặt máy tính của người sử dụng trước nguy cơ tấn công của hacker.
+Trên website của hãng, Adobe cho biết khiếm khuyết an ninh trong tiện ích Adobe License Management Service, thành phần được dùng vào việc kích hoạt sản phẩm, có thể dẫn đến việc người ngoài giành quyền truy cập trái phép vào máy tính. 
+Sản phẩm bị ảnh hưởng là những phiên bản chạy trên Windows của Adobe Photoshop CS, Adobe Creative Suite 1.0 và Adobe Premiere Pro 1.5. Adobe khẳng định họ chưa phát hiện bất cứ mã tấn công nào lợi dụng lỗi trên.
+Hãng bảo mật Secunia đánh giá khiếm khuyết này thuộc loại tương đối nghiêm trọng, tức là mức trung bình trong hệ thống đánh giá 5 bậc của họ. 
+Adobe đã phát hành bản sửa lỗi (download tại đây) để khắc phục vấn đề. Những máy tính chạy Photoshop CS2 hoặc Adobe Creative Suite CS2 không bị ảnh hưởng.
+

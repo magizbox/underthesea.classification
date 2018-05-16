@@ -1,0 +1,12 @@
+Chip nhanh nhất thế giới cho máy tính chơi game
+AMD, hãng sản xuất thiết bị vi xử lý lớn thứ hai thế giới sau Intel, vừa giới thiệu sản phẩm chip đơn lõi FX-57 dựa trên công nghệ 90 nanomét, nâng cao hiệu suất và giảm chi phí. 
+FX-57 chủ yếu được thiết kế cho thiết bị chơi game, hoạt động với xung nhịp 2,8 GHz, hỗ trợ cache L2 1 MB và điều khiển bộ nhớ linh hoạt với tốc độ nhớ DDR533. 
+Tương tự như dòng sản phẩm FX, FX-57 hoạt động theo cơ chế mở, nghĩa là các nhà sản xuất máy tính có khả năng tăng tốc độ xung nhịp, cho phép PC không chỉ hoạt động tại chế độ mặc định 2,8 GHz.
+"Với phiên bản lần thứ 4, dòng Athlon 64 FX của AMD tiếp tục duy trì vị trí vô địch trong lĩnh vực chip chơi game, đáp ứng nhu cầu của game thủ về tốc độ nhớ và khả năng vận hành", Bob Brewer, Phó giám đốc AMD, phát biểu.
+Nhà sản xuất chip này sẽ cung cấp FX-57 với mức giá khoảng 1.031 USD/chiếc, cao hơn 41% so với giá thành chip trước đó.
+Lõi kép là cải tiến mới nhất trong thiết bị vi xử lý nhưng chưa có nhiều ứng dụng trên thị trường tận dụng được đầy đủ lợi ích của loại chip mới này. Do đó, theo nhiều chuyên gia công nghệ, FX-57 sẽ là chip nhanh nhất thế giới trong thời gian tới và CPU đơn lõi sẽ vẫn chiếm lĩnh ngành công nghiệp thêm khoảng 18 tháng nữa.
+Trong khi đó, Intel hôm qua cũng đã cung cấp thiết bị xử lý 64 bit trước một tháng so với đối thủ cạnh tranh, khi mà AMD cũng dự tính ra mắt sản phẩm tương tự trong tháng 7.
+Chip Celeron D 351 của Intel không khác so với dòng Celeron D S775 hiện tại, trừ việc tích hợp công nghệ xử lý 64 bit mà Intel gọi là EM64T. Chip mới có cache nhớ cải tiến 256 KB, bus hệ thống 533 MHz cho phép truyền dữ liệu nhanh hơn, tốc độ xử lý 3,2 GHz và hỗ trợ phần cứng, bổ sung cho Windows Service Pack 2 của Microsoft.
+Intel tuyên bố chip mang lại cho khách hàng khả năng lướt web, chơi game, duyệt e-mail, tạo lập tài liệu văn bản word và kiểm tra tài chính hiệu quả hơn bao giờ hết. Intel cũng trang bị Celeron với hai chipset tương ứng cho việc xử lý video chất lượng cao, âm thanh nổi 7.1 và cải tiến khả năng đồ họa.
+Ngoài ra Intel cũng ra mắt Celeron 350 xung nhịp 3,2 GHz nhưng không hỗ trợ EM64T. Hai thiết bị xử lý này có giá dao động từ 73 đến 127 USD.
+

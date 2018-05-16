@@ -1,0 +1,5 @@
+ Thử nghiệm thành công dịch vụ 3G đầu tiên tại VN
+Những người tham dự buổi trình diễn đã được chứng kiến và sử dụng thử dịch vụ thông tin di động tiên tiến như: thoại, truyền hình, truy cập Inernet, và các ứng dụng đòi hỏi băng thông lớn (xem video, nghe nhạc, tải file lớn)... trên mạng chuyển mạch gói 384kb/giây. 
+Cuộc thử nghiệm nhằm giúp các nhà hoạch địch viễn thông và nhà khai thác mạng Việt Nam có được cái nhìn chuyên sâu về dịch vụ mà 3G đem lại cũng như những kinh nghiệm thực tế về công nghệ WCDMA. 
+Ông Lê Ngọc Minh, Phó giám đốc VMS, cho rằng kế hoạch triển khai hệ thống dịch vụ 3G tại Việt Nam phải đến năm 2005 mới có thể bắt đầu. 
+

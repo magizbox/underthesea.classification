@@ -1,0 +1,6 @@
+Phần mềm dự báo thời tiết WeatherWatcher v5.3a
+Nếu bạn hoài nghi về độ chính xác của những thông tin dự báo thời tiết trên các đài truyền hình địa phương thì phần mềm này là một công cụ để bạn tự đi tìm một kết quả khác.
+Chương trình có khả năng dự đoán và thông báo tình hình thời tiết với chế độ hằng ngày hoặc 10 ngày. Nó có thể cung cấp thông tin khí tượng tại nhiều địa điểm trên thế giới và nhờ đó người sử dụng có thể biết nên đem theo quần áo, trang bị gì cho chuyến đi xa sắp tới của mình.
+Nếu bạn không có máy tính cầm tay (calculator), Weather Watcher có thể chuyển đổi đơn vị đo theo độ Celsius (độ C) sang Fahrenheit và ngược lại. Chương trình hỗ trợ nhận dạng mã vùng của Mỹ và nhiều thành phố trên thế giới.
+Để tải miễn phí WeatherWatcher v5.3a, bấmvào đây.
+

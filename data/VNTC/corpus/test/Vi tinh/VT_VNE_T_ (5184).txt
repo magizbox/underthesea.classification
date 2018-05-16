@@ -1,0 +1,8 @@
+Microsoft chuẩn bị dự án điện thoại PDA dưới 300 USD
+Công ty này sẽ phối hợp cùng hãng thiết bị cầm tay ODM của Đài Loan trong việc thiết kế điện thoại PDA giá rẻ. Mục đích của chương trình là để thúc đẩy thị phần của tập đoàn trong lĩnh vực hệ điều hành cho sản phẩm di động toàn cầu.
+Microsoft cũng đã trao đổi với nhiều đối tác Đài Loan khác như High Tech Computer (HTC), Quanta Computer, Asustek Computer, Acer, Mitac International và BenQ.
+Đa số các nhà sản xuất nước này đều ủng hộ chiến lược phổ biến hệ điều hành di động Windows Mobile, nhưng họ cho rằng sẽ còn lâu nữa hãng phần mềm khổng lồ Mỹ và các công ty địa phương mới có thể cùng nhau tạo ra điện thoại PDA giá thấp. Hwang Shan-rong, Chủ tịch E-Ten Information Systems, cho rằng dự án 300 USD đòi hỏi ít nhất 2 năm nghiên cứu và phát triển .
+Jack Tong, Chủ tịch hãng Dopod International, cũng tỏ ra không mấy tin tưởng bởi chi phí sản xuất một thiết bị vừa có tính năng PDA vừa là điện thoại di động sẽ tương đối cao.
+Symbian hiện vẫn là hệ điều hành cho máy di động thành công nhất thế giới, phần lớn nhờ Nokia đã không chỉ đưa nó vào điện thoại thông minh cao cấp mà cả trong sản phẩm tầm trung. Tuy nhiên, thị phần của Windows Mobile đang dần tăng lên sau khi hãng Palm quyết định xuất xưởng Treo 700w hoạt động trên phần mềm của Microsoft. 
+Trong quý III/2005, thị phần của Symbian là 63% trong khi Windows Mobile là 15% và PalmSource 9%. 13% còn lại được chia cho Linux và một số hệ điều hành khác.
+

@@ -1,0 +1,6 @@
+DDR 2 DIMM tốc độ 750 MHz
+Sản phẩm mang nhãn hiệu HyperX DDR2, tương thích chuẩn PC2-6000, được nhà sản xuất Kingston tuyên bố là loại nhanh nhất thế giới với một số ưu điểm như băng thông dữ liệu cao hơn, tiêu thụ năng lượng ít hơn khoảng 50% và cải thiện vấn đề tỏa nhiệt. 
+HyperX DDR2 PC2-6000.
+Mark Tekunoff, Giám đốc công nghệ của Kingston, nói: Giống như tất cả các sản phẩm HyperX, dòng module 750 MHz mới được thiết kế với các linh kiện được chọn lọc kỹ, sau đó lắp ráp và kiểm nghiệm để đạt hoạt động tối ưu. Phòng thí nghiệm của Kingston cũng đã ghi nhận tốc độ 866 MHz với dòng sản phẩm mới. Theo Tekunoff, tốc độ thực tế sẽ tùy thuộc vào cấu hình của hệ thống. 
+Gói sản phẩm DIMM (Dual Inline Memory Module) kênh dẫn kép(dual channel) dung lượng 2 GB có giá 498 USD còn loại 1 GB giá 250 USD. Kingston cũng đang cung cấp dòng DIMM 256 MB và 512 MB với giá lần lượt là 112 USD và 194 USD. Những loại tương tự nhưng có kênh dữ liệu kép có giá 220 USD và 385 USD.
+

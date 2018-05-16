@@ -1,0 +1,6 @@
+Đã tóm được nữ quái Gigabyte 
+Một nữ sinh công nghệ thông tin 19 tuổi bị nghi ngờ là hacker nổi tiếng, từng phát tán nhiều virus như W32/Sharpei và YahaSux, đã bị cảnh sát Bỉ bắt giữ cuối tuần qua. Cô này có thể bị buộc tội phá hoại dữ liệu máy tính và chịu án tù 3 năm kèm theo khoản tiền phạt lên tới 100.000 euro.
+Cảnh sát cũng đã tịch thu 5 chiếc máy tính của nghi phạm và đóng cửa một wesbite do cô này mở ra. Cô gái người vùng Mechelen (cách Brussels 30 km về phía bắc) vừa tạm được tại ngoại sau khi đóng một khoản tiền bảo lãnh trong khi chờ cảnh sát hoàn tất điều tra.
+Thanh tra Olivier Bogaert cho biết nữ quái này đã bị bắt trước khi kịp phát tán thêm một số loại virus mới thông qua website nói trên. Nữ tin tặc Gigabyte, một nhân vật rất nổi trong cộng đồng hacker quốc tế, là người viết virus đầu tiên sử dụng ngôn ngữ C# của Microsoft. Cô này còn nổi tiếng trên các diễn đàn điện tử vì những cuộc đấu khẩu với Graham Cluley, chuyên gia hàng đầu của hãng phần mềm diệt virus Sophos, khi ông này công bố những phân tích xã hội học về thế giới tin tặc và các phần mềm phá hoại. 
+Theo hãng truyền hình TechTV, Gigabyte bắt đầu lập trình từ khi mới 6 tuổi, đến năm 14 tuổi thì bắt đầu viết sâu máy tính. Tuy nhiên, cô luôn tuyên bố việc làm đó chỉ là để phục vụ các mục đích nghiên cứu và không bao giờ tự phát tán virus.
+

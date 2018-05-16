@@ -1,0 +1,13 @@
+ Chữ ơi rực cháy lên
+Có một bí quyết để bạn không cần phải biết tí gì về đồ họa hay làm phim mà vẫn có thể tạo được chữ lửa một cách khá dễ dàng. Bạn có thể "nhờ" trang web http://www.flamingtext.com giúp bạn làm điều đó. 
+Các tạo chữ lửa như sau: 
+Đầu tiên bạn truy cập vào địa chỉ http://www.flamingtext.com . Sau đó bạn sẽ thấy chữ Fire đang bốc cháy hừng hực trên trang web, bạn hãy nhấn nút More Options kế cận chữ lửa này. Đến đây bạn bắt đầu quá trình tạo chữ lửa. 
+Giao diện tạo chữ lửa 
+- Text String: bạn đánh chữ cần tạo lửa vào. 
+- Font Size: Chọn kích thước cho chữ lửa. 
+- Font: Chọn phông chữ hiển thị. Chương trình cung cấp khá nhiều loại phông để bạn có thể chọn loại chữ đẹp, tạo ra chữ lửa bắt mắt nhất. Bạn chọn phông chữ trong Combobox sổ xuống, đường viền màu đen phía dưới sẽ hiển thị tương ứng với phông chữ bạn đã chọn ở trên (nhấn More font trong Combobox để hiển thị nhiều phông chữ hơn). 
+- Text Color: Đánh thông số màu để chọn màu cho chữ. Nếu bạn không biết các thông số này, bạn có thể nhấn chọn thanh màu phía dưới, sau đó chọn một màu ưng ý trong danh sách bảng màu. 
+- Blue-Flame: Theo mặc định ngọn lửa sẽ màu vàng đỏ. Nếu mục này được chọn thì ngọn lửa là màu xanh biển. 
+- Transparent: Mặc định hình nền sau chữ sẽ là màu đen để làm nổi bật chữ và ngọn lửa. Nếu bạn không muốn có hình nền phía sau chữ thì hãy nhấn chọn mục này. 
+Sau cùng nhấn nút Creat Logo và chờ khoảng 15 giây, chương trình sẽ tạo chữ lửa cho bạn. Nhấn chuột phải vào chữ lửa đó, chọn save Target As chỉ định thư mục lưu file chữ lửa về máy. Thế là xong, bạn thấy có dễ không nào! 
+

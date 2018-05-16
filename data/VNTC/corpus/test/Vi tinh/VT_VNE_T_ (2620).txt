@@ -1,0 +1,6 @@
+Chia cột trong Text Box của Word (1)
+Chào các bạn, tôi Word để soạn thảo văn bản. Tôi muốn hỏi các bạn là nếu ở trong TextBox mà tôi muốn chia cột thì làm thế nào? Vì lệnh Format/Columns không dùng được trong TextBox. Xin cám ơn!
+Hoang Linh
+Hồi âm:
+Xin chao VNexpress, va ban Hoang Linh. Tra loi cau hoi cua ban ve cach chia cot trong textbox cua MS Word. That don gian! Ban chi viec nhan tro chuot ben trong hop textbox roi chon Table -- Insert Table. Sau do ban chon so cot (Number of columns) tuy y ban, con so hang (Number of rows) ban de "1". Chuc thanh cong! 
+

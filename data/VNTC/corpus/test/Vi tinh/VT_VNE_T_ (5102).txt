@@ -1,0 +1,6 @@
+Olympic 2008 sẽ sử dụng nền tảng mã mở
+Vấn đề bảo mật và nguy cơ thời gian chết xảy ra trong Thế vận hội khiến người ta ngại thay đổi những hệ thống công nghệ sẵn có, nhưng điều này có thể sẽ thay đổi tại sự kiện thể thao Bắc Kinh 3 năm tới.
+Claude Philipps, Giám đốc chương trình của hãng Atos Origin (Pháp) thuộc Ủy ban Olympic quốc tế, cho biết: "Việc triển khai mã mở đang dần được Ban tổ chức Bắc Kinh (BOCOG) thông qua nhằm giảm chi phí mua bản quyền và giấy phép đăng ký".
+An ninh cũng chính là nguyên nhân khiến mạng vô tuyến bị cấm trong nhiều đại hội thể thao trước đó. "Sẽ không có bất cứ công nghệ không dây nào tại Thế vận hội mùa đông 2006 ở Turin (Italy) năm tới nhưng nó sẽ được trang bị tại thủ đô Trung Quốc. Mã mở và hệ thống không dây khi đó đã ổn định hơn và và chúng tôi sẽ sử dụng mạng điều khiển của Cisco", Massimo Dossetto, chuyên gia bảo mật cho sự kiện Olympic, nói. "Ngoài ra, chúng tôi cần tìm cách tiết kiệm tối đa chi phí đầu tư cho khối lượng lớn thiết bị hỗ trợ trong sự kiện".
+Hệ thống công nghệ phục vụ Olympic sẽ được quản lý bởi hơn 1.200 thành viên, trong đó có 800 tình nguyện viên, chịu trách nhiệm kiểm soát các server chạy trên thiết bị xử lý của Intel và Unix box, 4.700 máy tính và 700 máy in.
+

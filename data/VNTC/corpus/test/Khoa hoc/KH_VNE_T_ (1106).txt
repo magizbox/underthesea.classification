@@ -1,0 +1,7 @@
+Robot 'bơi' trên mặt đất
+Một robot cải tiến có thể tự đẩy mình lên phía trước bằng động tác bơi ếch trên mặt đất vừa mới ra đời tại Mỹ. 
+Robot TerminatorBot không chỉ biết bò trên đống đổ nát của một thảm hoạ mà những chiếc càng của nó còn thu gọn lại thành hình trụ để chui lọt hoặc vắt mình qua những chướng ngại vật. Cỗ máy này rất thích hợp để dùng trong vũ trụ hay quân sự.
+Giáo sư Richard Voyles tại Đại học Minnesota, Mỹ, cho biết thiết bị được lấy cảm hứng từ bộ phim "Kẻ huỷ diệt", trong đó con quái vật robot bị chặt hết chân tay vẫn cố bò trên sàn nhà để tìm cách giết vị anh hùng.
+Cấu trúc khớp khuỷu tay và vai của TerminatorBot cho phép nó thực hiện những kiểu đi bất thường trên mặt đất. Nó có thể "bơi ếch" trên cạn, có thể chui lọt qua những đường ống hẹp và nó cũng có thể gấp cánh tay và xoay vai để lăn lên phía trước. "Một lợi thế của nó là có kích thước khá nhỏ nên có thể chịu được gia tốc cao", Brad Nelson, giáo sư robot tại Viện Công nghệ Liên bang Thuỵ Sĩ, cho biết.
+Hiện TerminatorBot nặng 0,6 kg, có đường kính 7,6 cm và dài 20 cm, nhưng các nhà khoa học dự định sẽ làm cho nó nhỏ đi một nửa để khớp với vỏ bọc to bằng lon soda.
+

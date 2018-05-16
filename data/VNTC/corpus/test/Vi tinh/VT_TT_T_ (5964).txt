@@ -1,0 +1,5 @@
+ Diễn đàn game VN bị hacker tấn công
+Tất cả đều bị chuyển hướng sang địa chỉ http://www.thegioiao.org , gây hiểu lầm cho người truy cập rằng diễn đàn này nâng cấp giao diện. Chịu ảnh hưởng lớn nhất của sự cố này không ai khác là giới game thủ, những người đã gắn bó với GameVN từ năm 2002 đến nay. 
+Bị cướp tên miền, lượng người truy cập vào diễn đàn này giảm hẳn so với ngày thường, chỉ còn khoảng 150 đến 200 thành viên truy cập. Tuy nhiên toàn bộ cơ sở dữ liệu gồm 69.000 chủ đề, hơn 1 triệu bài viết của 160.000 thành viên của họ được bảo vệ an toàn. 
+Hiện GameVN tạm thời sử dụng đường link thay thế www.wcgvn.com . 
+

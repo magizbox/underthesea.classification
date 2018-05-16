@@ -1,0 +1,4 @@
+Không nhận diện được Card LAN
+Card LAN của tôi tự nhiên dạo này không nhận diện được nữa, nghĩa là không nối kết được Internet, mặc dù đã được cài driver.Khi tôi tắt máy, tháo card LAN, rồi khởi động lại, lại tắt máy một lần nữa, lần này thì gắn card LAN vào, lúc này thì máy lại nhận diện được card LAN và vào internet bình thường. Máy tôi đã bị 2-3 lần như vậy. Vậy xin hỏi lý do tại sao mà máy không nhận được card LAN (tôi gắn rất cẩn thận card LAN, vì tôi đang ở Ký túc xá nên dùng card LAN). Xin cảm ơn quý vị đã đọc thông tin này và mong nhận được thư trả lời.
+Trần Nghĩa Lập
+

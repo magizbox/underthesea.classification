@@ -1,0 +1,4 @@
+ Cài đặt số máy mặc định để gửi tin nhắn Nếu bạn luôn thường xuyên gửi tin nhắn đến một người nào đó, để khỏi tốn công nhập vào số điện thoại của họ trong mỗi lần gửi bạn có thể thiết lập số điện thoại mặc định để gửi tin nhắn là số máy của chính người ấy.
+Cách thực hiện như sau (minh họa ở đây là điện thoại Nokia dòng xêri 40): 
+Trên điện thoại di động của mình, bạn vào menu Tin nhắn&gt; Cài đặt tin nhắn&gt; Tin nhắn văn bản &gt; Cấu hình gửi &gt; Mặc định &gt; Số máy mặc định để nhận tin. Bạn nhập vào số điện thoại di động sẽ nhận tin nhắn, sau đó bấm Chọn &gt; Đồng ý để lưu lại thiết lập vừa tạo. Từ giờ trở đi, sau khi soạn xong một tin nhắn và ngay sau khi chọn lệnh Gửi, bạn sẽ thấy số điện thoại được thiết lập sẽ tự động hiện ra, bạn chỉ việc bấm chọn OK là xong. 
+

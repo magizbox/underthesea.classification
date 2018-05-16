@@ -1,0 +1,12 @@
+Tin vắn ngày 23/8
+Bộ Văn hóa Thông tin mở mạng thông tin điện tử Gọi điện thoại quốc tế miễn phí tại Hà Nội FPT Elead tài trợ máy tính cho trường mù Nguyễn Đình Chiểu.
+Địa chỉ www.cinet.gov.vn (CINET) với giao diện khá dân tộc sẽ cập nhật thường xuyên các hoạt động văn hóa thông tin trong nước và quốc tế, chính sách, cơ chế, công tác quản lý nhà nước và nhiều chuyên mục ý kiến, bình luận.
+CINET - một liên mạng gồm nhiều trang trang tin điện tử thuộc chuyên ngành hẹp của Bộ Văn hóa Thông tin - sẽ là website chính thức của cơ quản lý này và được cập nhật các nội dung dưới dạng văn bản, hình ảnh và âm thanh. 
+CINET được xây dựng trên nền ASP.Net với hệ quản trị cơ sở dữ liệu Microsoft SQL Server và sử dụng bộ mã font chữ TCVN 6909:2001.
+Q.T.
+Từ 21/8 đến 20/9, tại quán cafe Le Pub, 25 Hàng Bè, Công ty Victory Technologies tổ chức lần thứ 3 chương trình điện thoại quốc tế miễn phí bằng giải pháp Smart Calls. Đây là sự kết hợp giữa thiết bị VoIP của Victory với thẻ xanh FoneVNN do VDC cung cấp. Theo nhà cung cấp dịch vụ, giải pháp này tận tiết kiệm tới 90% so với IDD, chỉ mất khoảng 389 đồng/phút.
+Trong tháng 7, chương trình điện thoại miễn phí tại Intello cafe đã có gần 200 cuộc gọi tới khoảng 30 quốc gia trên thế giới.
+N.H.
+Nhà sản xuất máy tính FPT Elead kết hợp với Intel và Microsoft vừa trao tặng các học sinh khiếm thị trường Nguyễn Đình Chiểu (Hà Nội) một phòng máy tính. Toàn bộ số PC này đều có Windows - Office bản quyền và đã cài đặt phần mềm đặc biệt hỗ trợ cho người khiếm thị. Đây là chương trình điều khiển qua giọng nói, trợ giúp soạn thảo tiếng Việt thông qua phát âm các chữ được gõ và thông báo các ứng dụng mà con trỏ chỉ thị. 
+Chương trình tài trợ này cũng là một trong hàng loạt các hoạt động xã hội nhằm phổ cập tin học, đưa máy tính đến tận tay người sử dụng của FPT Elead trong 2 năm vừa qua. 
+

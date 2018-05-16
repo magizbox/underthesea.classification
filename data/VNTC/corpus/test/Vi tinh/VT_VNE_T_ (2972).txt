@@ -1,0 +1,5 @@
+Hệ điều hành Tiger đã được vá lỗi
+Apple vừa tung ra bản cập nhật cho phiên bản OS X 10.4.1 (gọi là Tiger) để vá lỗi sau 17 ngày phát hành. Đoạn mã 37 MB này có thể xử lý được ít nhất 35 lỗi và các chương trình kèm theo như Safari browser, Mail client, iSync và iDVD. 
+Các trục trặc trong Tiger bao gồm từ vấn đề mạng đến những ứng dụng. Ví dụ như trình duyệt Safari sẽ "tự nhiên thoát" khi kích chuột phải lên một số tập tin PDF hay hình ảnh còn chương trình nghe nhìn  iDVD sẽ hỏng khi ngôn ngữ trong hệ điều hành được chuyển sang tiếng Nga hay một số ngôn ngữ khác.
+Theo nhà phân tích cao cấp Joe Wilcox của hãng khảo sát Jupiter, việc cập nhật nhanh như vậy chứng tỏ Apple thực sự xử lý nhạy bén sản phẩm của mình. Nhưng ông này cũng chỉ ra rằng việc phải update miếng vá lỗi (downloadtại đây) lớn như vậy chỉ hơn hai tuần sau khi giới thiệu Tiger cũng đã thể hiện thiếu sót lớn trong quá trình phát triển hệ điều hành. "Apple đã tạo ra một hệ thống có thể xử lý rất nhiều vấn đề nhưng họ sẽ không giải quyết được hết cho đến khi có thật nhiều người dùng hệ điều hành này", ông nói.
+

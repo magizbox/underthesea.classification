@@ -1,0 +1,6 @@
+IBM phát hành C++ và Fortran cho Mac OS X
+Bổ sung thêm sự lựa chọn các công cụ phát triển dòng máy Apple Macintosh, Big Blue tuần này đã đơn phương đưa ra thử nghiệm hai trình biên dịch: XL Fortran Advanced Edition và XL C/C++ Advanced Edition 6.0. 
+Phiên bản XL Fortran Advanced Edition sẽ hỗ trợ hệ điều hành của hãng Quả táo (trước đây XL chỉ dành cho AIX và Linux). Hiện Fortran vẫn tiếp tục là một công cụ quan trọng đối với giới khoa học. Với công cụ này, IBM đã giúp Apple có mặt trong 3 vị trí dẫn đầu trong lĩnh vực siêu máy tính bằng tổ hợp máy G5 với 2.200 nút (node). Sự quan tâm đối với máy Mac trong các ngành khoa học đang tăng lên, trong đó có việc hãng Terra Soft mới đây giành được một hợp đồng cung cấp hệ thống Xserve cho hải quân Mỹ sử dụng chương trình Yellow Dog Linux. 
+Trình biên dịch C++ mới của IBM dành cho Mac cũng nhận được sự chú ý nhiều không kém. Phiên bản XL C/C++ Advanced Edition 6.0 sử dụng trình gỡ rối gdb của Dự án mã mở GNU, đồng thời tận dụng các nền của một số chương trình khác như Carbon và Altivec SIMD.
+Big Blue thiết kế bộ xử lý của máy PowerPC và phiên bản mới nhất của nó, 970, hay còn gọi là G5. Các kỹ sư của hãng vì thế đã có 10 năm kinh nghiệm với cấu trúc này. Cả hai công cụ mới phát hành cũng sẽ phục vụ bộ xử lý G4 và tương thích với Xcode IDE của Apple.
+

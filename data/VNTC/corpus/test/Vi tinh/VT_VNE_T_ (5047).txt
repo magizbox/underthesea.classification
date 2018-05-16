@@ -1,0 +1,8 @@
+PDA đầu tiên hỗ trợ công nghệ T-DMB
+LG vừa giới thiệu thiết bị kỹ thuật số cá nhân PM80 được trang bị công nghệ truyền hình số mặt đất (T-DMB). Người sử dụng có khả năng xem chương trình TV trên màn hình LCD QVGA 240 x 320 pixel, 3,5 inch theo cả chiều dọc lẫn chiều ngang.
+LG PM80.
+PM80 hoạt động trên Windows Mobile 2003, RAM 64 MB, bộ nhớ flash 64 MB, thiết bị xử lý Intel Bulverde 312 MHz và khe cắm thẻ nhớ SD. Thiết bị tích hợp hầu hết những tính năng cần thiết của một máy PDA.
+LG khẳng định PM80 có thể nhận tín hiệu ổn định ngay cả khi người sử dụng đang di chuyển với tốc độ 100 km/giờ. 
+PM80 tích hợp pin 1420 mAh cho phép xem 2,5 giờ liên tục.
+Sản phẩm được thiết kế với 2 màu đen và trắng, giá 380 USD nhưng LG chưa tiết lộ ngày phát hành. Người dùng có thể chọn thêm một gói GPS (hệ thống định vị toàn cầu) để điều hướng khi đang xem TV với giá 100 USD.
+

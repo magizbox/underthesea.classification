@@ -1,0 +1,5 @@
+Phát hiện cơ chế gây tử vong của virus SARS
+Một nhóm nhà khoa học châu Âu và châu Á đã phát hiện ra cơ chế gây tử vong cho người của virus bệnh viêm đường hô hấp cấp (SARS) và phát triển phương pháp điều trị hiệu quả căn bệnh này.
+Giáo sư Giôdép Penningiơ thuộc Viện Công nghệ sinh học phân tử Áo, lãnh đạo nhóm nghiên cứu trên, cho biết những thử nghiệm trên chuột cho thấy virus SARS phá hoại một enzime quan trọng kiểm soát cân bằng chất lỏng trong cơ thể người. Chúng đã ngăn chặn hoạt động của enzime này ở phổi khiến các chất lỏng không được kiểm soát tràn ngập các phế nang của phổi và làm phổi bị ngập nước, do đó không thể thực hiện chức năng hô hấp.
+Các nhà khoa học đã cứu được phổi của những con chuột bị nhiễm virus SARS khỏi bị ngập nước bằng cách cung cấp cho chúng một số lượng lớn enzime đã bị virus SARS phá hoại. Họ cũng đã tổng hợp được enzime này và hy vọng có thể sử dụng trực tiếp làm dược phẩm điều trị bệnh SARS ở người.
+

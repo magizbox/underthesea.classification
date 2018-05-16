@@ -1,0 +1,12 @@
+Chăn cừu bằng hệ thống điện tử
+Đàn cừu có thể tự quyết định khi nào thì được ăn, được uống, được cân và biến thành món cừu nướng trong ngày hôm sau, với một hệ thống quản lý chuồng chại mới đang được phát triển ở Australia.
+Hệ thống sẽ tạo ra những con cừu vui vẻ hơn và tiết kiệm thời gian hơn cho người nông dân hơn khi họ điều khiển các chuồng cừu của mình từ xa thông qua một máy vi tính cá nhân.
+Giám đốc dự án Bill Murray tại công ty Australian Sheep Industry cho biết: "Trong tương lai các con vật sẽ không biết là chúng đang bị điều khiển mà chỉ như thực hiện công việc thường ngày của mình".
+Hệ thống hoạt động bằng pin mặt trời và gồm nhiều thành phần như các thẻ điện tử, một hệ thống sân bãi tự động, một gói phần mềm và modem kết nối.
+"Bạn có thể ở Sydney và nhìn thấy các con vật của mình đang làm gì trong trang trại và lập trình trước để phân loại chúng".
+Tại bãi thả, hệ thống sẽ phân loại các con cừu theo từng dãy. Máy đọc thẻ sẽ nhận diện từng con bằng thẻ điện tử đeo trên tai khi chúng đi qua và tự động lấy cân nặng của chúng. "Các con cừu đi qua để uống nước nhưng qua đó chúng ta có thể biết được danh tính từng con, cân nặng và thời gian", Murray nói.
+Hệ thống cũng sẽ có nhiều cổng được lập trình để chọn từng con cừu khi chúng sẵn sàng đưa ra chợ hay cần phải vỗ béo.
+"Nếu chúng ta muốn con vật có cân nặng nhất định, hệ thống sẽ nói đây chính là con đó, con vật sẽ đi ra bên cạnh và chúng ta mang nó đi. Còn hệ thống nói con vật cần ăn thêm, nó sẽ mở cửa, con vật được ăn gì đó rồi lại quay về".
+Các bộ cảm biến sẽ phát hiện khi khay nước hết và thông báo cho người chủ. Một chiếc mũi điện tử sẽ đánh hơi từng con vật khi chúng bị ruồi bâu và phun rửa sạch sẽ.
+Murray cho rằng trang trại cừu điện tử sẽ giúp giảm chi phí và sức lao động cho người nông dân, nhưng cũng không đẩy các con chó chăn cừu vào tình trạng thất nghiệp.
+

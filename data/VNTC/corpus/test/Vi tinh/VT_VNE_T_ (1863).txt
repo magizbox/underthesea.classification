@@ -1,0 +1,11 @@
+Format lại toàn bộ laptop (1)
+Xin chao. Hien nay toi dang co mot may tinh xach tay IPM T30, tui muon format lai toan bo may va cai lai he dieu hanh. Toi co mot lan cai lai he dieu hanh XP nhung he dieu hanh cu van con trong o cung, vi vay tui muon duoc chi dan cach format lai toan bo may. Khi format lai toan bo may thi co anh huong gi den cac bo phan cua may hay khong? Rat mong nhan duoc tra loi cua cac ban. Thanh that biet on.
+Nguyen Hung Dung
+Hồi âm:
+Cái đây thì rất đơn giản nhưng một số điều cần chú ý lúc cài lại hệ điều hành của bạn nhưng mà IBM thì không sợ mấy đâu.
+Điều quan cần chú ý nhất là bạn fải copy các thư mục như là Drivers IBMtools của máy, nhưng nếu không có thì lên IBM.com dl cũng được
+Bạn chia ổ cứng ra rồi install hệ điều hành mới vào ổ mới chia ( Dùng Partition Magic cho tiện và nhanh ).
+Sau đấy bạn format ổ C ( là ổ hiện thời bạn đang dùng với hệ điều hành cũ ) là xong, hoặc là có một cách phức tạp hơn nhưng mà cũng được là bạn mở cái hard disk ( Ổ cứng ) ra, IBM thì nó thương nằm ở bên phai của máy tính ( Dưới dòng chữ IBM Thinkpad đấy ). Say đấy cắm vào máy bàn format toàn bổ ổ của Laptop va install hệ điều hành mỡi vào thôi.
+Chúc bạn thành công,
+PS: Nếu có gặp trở ngại gì thì bạn cứ email cho tôi, tôi cố gắng tra lời những câu hỏi của bạn. email haudt@yahoo.com hoặc là dthau@cs.tu-berlin.de
+

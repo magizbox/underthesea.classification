@@ -1,0 +1,6 @@
+Trojan lợi dụng cuộc chiến tranh Iraq
+Hai virus mới đang phát tán rộng qua e-mail với nội dung thông báo về những mất mát và số binh sỹ Mỹ thiệt mạng trong cuộc chiến Iraq.
+Những e-mail này được phát hiện lần đầu tiên vào hôm qua, lừa người dùng mở link trong thư để đọc thông tin chi tiết đăng trên tờ The Guardian về việc 140 lính Hải quân Mỹ tử vong. Thực chất, liên kết này đưa người dùng tới một trang giả mạo chứa hai Trojan Cgab.A và Borodr.Fam, nhằm mục đích xâm nhập vào hệ thống qua những lỗ hổng trong Internet Explorer chưa cài bản vá lỗi hoàn thiện.
+"Cái chết của lính Hải quân Mỹ ở Iraq là một bi kịch lớn và khó có thể tưởng tượng tin tặc lại khai thác nỗi đau này để đột nhập vào máy tính nhằm phát tán spam, moi móc dữ liệu hay ăn trộm thông tin", Graham Cluley, cố vấn bảo mật của Sophos, nói. "Mọi người cần đảm bảo rằng họ luôn được bảo vệ bởi những chương trình diệt virus mới nhất để tránh khỏi mọi cuộc tấn công bảo mật vốn nguy hiểm và biến hoá khôn lường".
+Chủ đề về Iraq chưa từng được sử dụng như là một mánh khoé của tin tặc để phát tán virus trước đây. 
+

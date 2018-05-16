@@ -1,0 +1,17 @@
+Máy bị mất mạng sau khi đổi router (1)
+Em hiện đang ở canada, nhà em ở có share 3 mày tính, truớc đây thì 3 máy vẫn share nhau bình thuờng qua router, nhưng mà từ khi đổi sang router khác thì máy em lại mất mạng, trong khi 2 máy còn lại thì vẫn có mạng bình thuờng. Em đã thử dùng lệnh ipconfig /release va /renew mà không đuợc, kể cả reset lại router cũng không có kết quả gì. Còn 1 điều lạ nữa là trong khi các máy khác đều có thể share qua mang lan nội bộ đuợc thi riêng máy em không share được (không nhìn thấy máy khác và nguợc lại, không máy nào thấy máy em) tuy nhiên khi chơi game , nếu type ip của máy chủ thì lại vào đuợc. Kính mong được giúp đỡ. Em xin cảm ơn nhiều.
+Lê Tuấn Anh
+Hồi âm:
+Bạn Le Tuan Anh thân mến,
+Để xử lý trường hợp mà bạn đang gặp thì không khó, nhưng có nhiều hướng xử lý tùy thuộc vào nguyên nhân. Có khi không nêu hết ra được. Ở đây, tôi chỉ xin hướng dẫn bạn một số bước cần thực hiện để xác định nguyên nhân và xử lý một cách phổ biến nhất. 
+Nếu chỉ có đổi router khác thôi, không thay đổi thông số của các máy (về IP, về firewall, ...) thì bạn làm như sau: 
+Trước tiên, bạn xem địa chỉ IP để vào webpage cài đặt cho router là gì (thường có ghi trong tài liệu đi kèm thiết bị đó). Ví dụ: router thường có địa chỉ là: 192.168.0.1 hoặc 10.0.0.2 
+Nếu 2 routers (cũ và mới) không cùng địa chỉ này thì khả năng cao nhất là máy của bạn đã không nhận được địa chỉ IP có cùng subnet với router mới. Có khả năng máy bạn đã được cài đặt IP tĩnh (static IP address). 
+Bấm phím phải chuột ngay tại biểu tượng 2 máy tính ở góc phải dưới màn hình (gần đồng hồ), chọn Status. Chọn Tab "Support", ghi nhận địa chỉ IP của mỗi máy tính.
+(hoặc: Tại mỗi máy tính, bạn dùng lệnh "ipconfig /all" (trong cửa sổ command prompt). Ghi nhận thông tin về địa chỉ IP của mỗi máy.) 
+Nếu 2 máy tính kia có cùng subnet (ví dụ: 192.168.0.x), còn máy của bạn lại có địa chỉ IP khác với subnet này thì bạn làm tiếp như sau: 
+Chọn lại tab "General", chọn Properties, chọn Internet Protocol (TCP/IP), chọn tiếp Properties. 
+Nếu máy bạn không chọn "Obtain an IP address automatically" thì bạn chọn vào mục này để máy có thể nhận IP động. 
+Trường hợp máy bạn để chế độ nhận IP tự động, còn 2 máy kia là IP tĩnh thì bạn nên chỉnh máy bạn sang chế độ IP tĩnh luôn. Với địa chỉ IP khác với 2 địa chỉ IP của máy kia, ví dụ 192.168.0.4 (2 máy kia là .2 và .3 chẳng hạn). Default gateway thì gõ vào y như thông số từ 2 máy kia.
+Hy vọng bạn có thể tìm ra điểm khác biệt giữa máy bạn và 2 máy kia (về IP addrress) theo hướng dẫn nêu trên. Chúc bạn sớm khắc phục được lỗi mà bạn đang gặp. Nếu có thắc mắc gì, bạn email cho tôi: dung.pth.hcm@vinatex.com, nêu rõ trường hợp của bạn dựa theo hướng dẫn trên. Thân chào.
+

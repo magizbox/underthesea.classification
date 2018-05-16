@@ -1,0 +1,7 @@
+Virus vũ trụ tấn công máy tính trái đất?
+Loại sâu được hãng bảo mật Sophos (Anh) ghi nhận có tên Sundor.A, hiển thị một thông điệp tự xưng nó có xuất xứ từ các thế lực ngoài hành tinh.
+Hình ảnh do Sundor.A hiển thị.
+Nội dung mà virus đưa ra kèm theo một bức ảnh nói rằng: Ta đến từ vũ trụ và ta thích máy tính của ngươi.
+Theo Sophos, khi xâm nhập máy tính, virus này xóa các chương trình và văn bản trên ổ cứng, giấu hết biểu tượng trên desktop đồng thời tắt một số phần mềm an ninh để mở cửa máy tính cho những virus và spyware khác xâm nhập.
+Tuy nhiên, các chuyên gia Sophos trấn an người dùng PC rằng đây không phải là dạng virus có nguy cơ phát tác cao. Chuyên gia Graham Cluley của hãng bảo mật Anh nhận xét: Chính thông điệp hiển thị bởi virus đã tự hạn chế khả năng phát tán thành công của Sundor.A mặc dù một số người có thể nghĩ rằng đây là trò đùa của bạn bè mà thiếu cảnh giác.
+

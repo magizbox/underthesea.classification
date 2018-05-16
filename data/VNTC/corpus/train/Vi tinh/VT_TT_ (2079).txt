@@ -1,0 +1,5 @@
+ Điện thoại băng rộng
+Theo OCI, đây là dịch vụ điện thoại quốc tế băng rộng giúp khách hàng có thể giữ nguyên thói quen sử dụng điện thoại để bàn truyền thống gọi quốc tế với chất lượng không đổi mà chi phí tiết kiệm được hơn 80% so với các cách gọi thông thường (IDD, VoIP). 
+Để sử dụng bạn chỉ cần có kết nối Internet băng rộng (ADSL, Leased Line, Cable Modem…) của bất kỳ nhà cung cấp nào và đăng ký thuê bao dịch vụ B-Fone (phí thuê bao: 27.000 đồng/tháng, chưa bao gồm thuế VAT); phí khởi tạo: 99 USD (chưa bao gồm VAT 10%). Thiết bị: miễn phí (do Cisco cung cấp và được bảo hành 1 năm). 
+Cách dùng điện thoại bàn để thực hiện cuộc gọi: 00 + Số cần gọi (Mã nước + Mã vùng + Số thuê bao). Trong trường hợp thực hiện cuộc gọi từ máy nhánh trong tổng đài nội bộ: Số trung kế + 00 + Số cần gọi (Mã nước + Mã vùng + Số thuê bao). ĐT liên lạc: (84-8) 8239123. 
+

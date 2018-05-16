@@ -1,0 +1,5 @@
+ Sắp có loại ĐTDĐ cho phép xóa tin nhắn "lỡ gởi" 
+Công ty Samsung vừa đăng ký bản quyền cho công nghệ xóa tin nhắn điện thoại di động trên máy người nhận từ xa. Samsung đã được cấp bằng sáng chế công nghệ này hôm 9/6. Thời điểm hãng đưa tính năng mới này vào ĐTDĐ vẫn chưa được xác định, nhưng chắc chắn là loại ĐTDĐ này sẽ được ưa chuộng. 
+Tin nhắn được tự động lưu trên điện thoại của người gửi cùng lúc nó được gửi tới một máy khác. Nếu muốn lấy lại tin nhắn đó, người gửi có thể soạn tiếp một yêu cầu xóa tới số máy kia. Điện thoại của người nhận sẽ tìm kiếm tin nhắn đó và xóa ngay tức thì. 
+Ý tưởng này trước đây đã được áp dụng để xóa e-mail lỡ gởi trên máy tính, nhưng đây là lần đầu tiên công nghệ này được áp dụng trên ĐTDĐ. 
+

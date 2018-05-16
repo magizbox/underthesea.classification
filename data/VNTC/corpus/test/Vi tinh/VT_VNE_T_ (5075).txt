@@ -1,0 +1,7 @@
+Microsoft thử nghiệm Windows Live Mail
+Được phân phối giới hạn dưới dạng thư mời từ tháng 7, dịch vụ mail sử dụng công nghệ mới nổi Ajax của Microsoft đã bất ngờ xuất hiện thông qua chương trình Windows Live. 
+Microsoft đã xây dựng Windows Live Mail từ con số không nhằm cải tiến khả năng vận hành và trang bị mọi tính năng giống như "e-mail hoạt động trên môi trường desktop" Outlook, trong khi vẫn duy trì Hotmail và 215 triệu người sử dụng hòm thư này trên một hệ thống riêng biệt. 
+Phiên bản mới bao gồm nhiều công cụ hữu ích như phần mềm sửa lỗi chính tả: gạch chân từ sai khi mọi người soạn thư và gợi ý những từ thay thế. Công ty cũng nâng cấp bảo mật để hạn chế phishing và chia các thông điệp gửi đến theo 3 loại: "người gửi quen thuộc", "người lạ" và "thư không an toàn". Đồng thời, cơ chế tìm kiếm hoạt động nhanh hơn, có thể rà soát từ nội dung, tiêu đề đến dòng địa chỉ. 
+Windows Live Mail có dung lượng 2 GB (Hotmail hiện nay là 250 MB). Người sử dụng có thể thử nghiệm dịch vụ mới tại đây.
+Windows Live cung cấp miễn phí cho mọi người những công cụ cá nhân dựa trên web như phần mềm hỗ trợblog, tin nhắn nhanh và e-mail. Microsoft hy vọng sản phẩm cũng sẽ được hỗ trợ bởi các nhà quảng cáo như trong các dịch vụ của Google và Yahoo.
+

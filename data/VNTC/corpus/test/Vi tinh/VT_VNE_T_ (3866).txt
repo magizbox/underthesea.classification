@@ -1,0 +1,7 @@
+AMD ra mắt phần mềm giả lập của Pacifica
+Hãng sản xuất chip lớn thứ hai thế giới vừa giới thiệu phần mềm SimNow nhằm chứng minh khả năng ảo hoá của công nghệ chip Pacifica sắp ra mắt.
+SimNow, được tải trực tiếp trên website của AMD từ 12/8, sẽ tạo cơ hội cho các công ty thử nghiệm và đánh giá sản phẩm của họ có phù hợp với Pacifica hay không, để sẵn sàng sử dụng khi chip ra mắt.
+AMD thường cung cấp bộ giả lập cho các hãng phần mềm lớn xem xét trước khi ra mắt một công nghệ phần cứng mới. "Biện pháp này nhằm mục đích mở rộng khả năng tiếp cận số đông các công ty và nhà phát triển", Margaret Lewis, nhà chiến lược thương mại của AMD, giải thích.
+Pacifica được dự kiến sẽ có mặt vào nửa đầu năm tới. Công nghệ này lần đầu tiên xuất hiện trong chip Opteron và Athlon 64 của AMD, cho phép máy tính và server tạo ra những hệ thống ảo riêng rẽ để hoạt động với những phần mềm khác nhau. 
+Ví dụ, một hệ thống ảo trên desktop hay notebook sẽ chạy các ứng dụng nhóm trong khi một bộ phận khác hỗ trợ nhu cầu sử dụng cá nhân. Nếu người dùng tải một virus vào bộ phận cá nhân trên PC, nó sẽ không thể ảnh hưởng đến những phần còn lại cũng như toàn bộ mạng. Ngoài ra, một server đơn có khả năng chạy những ứng dụng viết cho hệ điều hành Linux trên một máy ảo, trong khi chạy ứng dụng Windows trên một máy ảo khác.
+

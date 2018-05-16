@@ -1,0 +1,13 @@
+PC tiệm Net không vào được máy khác trong mạng (3)
+Tôi có một tiệm Net và công việc thường xuyên phải làm là cài đặt lại hệ điều hành. Nhưng gần đây tôi gặp trường hợp là khi cài dặt xong thì tôi muốn dùng mạng nội bộ để coppy một số chương trình từ máy khác sang thì PC của tôi báo lỗi không vào được máy khác. Tôi không hiểu là tại đĩa Win không chuẩn hay tại tôi cài đặt không đúng. Xin chỉ giùm tôi với. Tôi xin cảm ơn!
+Nguyễn Trọng Thuỷ
+Hồi âm:
+Ban Nguyen Trong Thuy Than men! Ban can xem lai 1 so van de nhu sau: truoc khi cai lai he dieu hanh may ban van vao duoc mang noi bo phai khong? va sau khi cai lai thi khong the vao duoc mang LAN? Đieu do cung that de hieu vi khi ban cai lai he dieu hanh thi cac thong so nhu "computer description" va "work group" cua ban la bo trong.
+Vi the ban can phai khai bao lai nhu sau: ban chon properties o bieu tuong "my computer" chon the "computer name" vao "change" sau do dat ten cho may ban can dat va dat "work group"theo he thong may cua quan net ban dang dung sau do "OK" la xong. De tim work group mang noi bo cua ban thi ban vao mot may cu chua cai dat lai he dieu hanh tai quan ban va lam lan luot theo cac buoc tren thi ban se doc duoc thong so do. Sau khi dat lai thong so ban nen khoi dong lai may.
+Chuc ban thanh cong !
+Nguyen Le Minh
+Bạn không cho tôi biết là khi copy có báo lỗi gì không? hay trước khi vào Win có báo lỗi gì không? đầu tiên việc cần giải quyết là bạn xem lại tên Computer của bạn có bị trùng hay không? IP đặt có đúng không Workgroup đặt giống nhau không? Nếu các điều kiện trên đều đúng bạn mới tiến hành kiểm tra tiếp đến phần cứng (card mạng của mình). Bạn hãy thử đem card mạng từ máy khác xem có vào mạng và copy được hay không?
+Chúc bạn thành công.
+alexhien
+Bạn Nguyễn Trọng Thuỷ thân mến. Trường hợp của bạn hỏi tôi cũng có ý kiến đồng nhất với 2 người đã trả lời cho bạn, nhưng tôi cũng đóng góp thêm cho bạn một vấn đề này nữa,bạn cần kiểm tra lại tình trạng máy tính của bạn(cái mà bạn không vào được nó đó). Xem nó có ở tình trạng bật Fire Wall hay không? Nếu có thì bạn phải Tunn off nó đi thì bạn mới vào máy đó được. Vì nếu như bạn cài bản Win SP2 thì bức tường lửa sẽ ngăn bạn lại. Chúc bạn thành công.
+

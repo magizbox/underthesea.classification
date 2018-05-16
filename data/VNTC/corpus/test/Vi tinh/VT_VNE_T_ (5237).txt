@@ -1,0 +1,7 @@
+Truy cập Gmail qua điện thoại di động
+Hôm qua, hãng dịch vụ tìm kiếm số một thế giới đã chính thức ra mắt Gmail Mobile, phiên bản "thu nhỏ" cho điện thoại và thiết bị di động của dịch vụ e-mail phổ biến.
+Phần mềm sẽ tự động điều chỉnh giao diện tùy thuộc vào kích cỡ màn hình và cho phép mở file đính kèm gồm văn bản Word, định dạng PDF và tệp ảnh.
+Nếu trong danh sách địa chỉ Gmail có lưu số điện thoại, người sử dụng có thể trực tiếp thực hiện một cuộc gọi để trả lời thông điệp vừa nhận được.
+Gmail Mobile được cài miễn phí qua http://m.gmail.com, tuy nhiên, mọi người cần liên hệ trước với nhà cung cấp di động địa phương bởi họ có thể thu cước sử dụng dịch vụ.
+Cùng ngày, Google cũng công bố thêm 2 tính năng mới cho Gmail là trả lời thư tự động và phân loại các nhóm liên lạc.
+

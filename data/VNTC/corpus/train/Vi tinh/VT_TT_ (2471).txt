@@ -1,0 +1,6 @@
+ OpenOffice tung ra bộ Portable OpenOffice 2.0.1
+Đây được xem là bộ công cụ văn phòng mã nguồn mở đời mới nhất, dung lượng nhỏ nhất những cũng rất hiện đại với đầy đủ tính năng cao cấp mà giới nguồn mở quyết tâm cống hiến cho người dùng mọi nơi. 
+Portable OpenOffice.org 2.0.1 đã được mini hóa với tổng dung lượng chỉ còn 144 MB, phù hợp với dung lượng của đa số thẻ nhớ USB di động hiện nay, trong khi bộ OpenOffice.org 2.0.1 nguyên bản có dung lượng đến những 300 MB. Như vậy từ nay chỉ cần một thẻ nhớ USB có dung lượng 256 MB đang quá phổ biến là người dùng có thể đem theo bộ công cụ văn phòng miễn phí và quen thuộc của mình đi khắp nơi. 
+Barnett nhận định rằng việc giảm thiểu đi 50% dung lượng của bộ gốc những vẫn giữ nguyên được gần như mọi tính năng là thành công lớn. Barnett hứa với mọi người rằng chẳng bao lâu nữa OpenOffice.org sẽ tung ra một bản OpenOffice Online, tạo điều kiện cho người dùng toàn cầu có thể sử dụng được bộ công vụ văn phòng đa năng này trực tiếp trên trình duyệt web của mình. 
+Người dùng có thể vào đây để tải bộ Portable OpenOffice.org 2.0.1 đã được nén ở dạng .ZIP với dung lượng 71 MB về dùng. Khi giải nén để cài đặt nó sẽ có dung lượng khoảng 144 MB. 
+

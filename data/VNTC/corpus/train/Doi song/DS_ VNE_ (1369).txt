@@ -1,0 +1,121 @@
+Hãy giúp tôi lý giải tình cảm của em
+Tôi biết em không thuộc về người đàn ông nào, tôi cũng biết ngoài tôi ra em không nhiệt tình quan tâm lo lắng tin cậy sẻ chia với ai đến như vậy. Em cũng biết tôi yêu em và thương con gái em (tôi coi nó như con). Vậy mà tại sao em vẫn cứ nói rằng chỉ có thể là bạn bè thôi? 
+From: L.M.To: tamsu@vnexpress.net Sent: Saturday, January 08, 2005 1:33 PM Subject: Tôi không hieu tinh cam cua co ay 
+Chào các anh chị,
+Em 28 tuổi, cá tính, rất nữ tính nhưng cũng rất độc lập, đã một lần dang dở, có một bé gái xinh xắn dễ thương.
+Là người quảng giao nên em có nhiều bạn bè, nhiều mối quan hệ, nhiều người yêu mến, nhiều người theo đuổi (trong đó có cả người chồng cũ của em), và em luôn tươi cười chu đáo với tất cả mọi người một cách đúng mực. Tôi và em quen biết nhau từ trước khi em lên xe hoa lần đầu. Tôi cũng đã trải qua hai mối tình, nhưng với em lần đầu tiên tôi hình dung được thế nào là một người vợ hiền, tôi chưa bao giờ biết yêu ai đến vậy.
+Em đã rất nhiệt tình giúp khi tôi mở công ty riêng, dù thời gian đó em cũng đang rất bận với trung tâm ngoại ngữ do em thành lập và lại đang là trưởng đại diện của một công ty nước ngoài, con em lại còn quá nhỏ. Thời gian đó gần như em bỏ bê xao lãng gần hết những mối quan hệ bạn bè, thức trắng nhiều đêm để lo cho cái trung tâm của em và để giúp cái công ty của tôi (dù hai mảng chẳng liên quan gì đến nhau).
+Cùng theo học một lớp buổi tối nên chúng tôi có rất nhiều thời gian cơ hội để quan tâm lo lắng cho nhau. Bên em tôi luôn cảm thấy không còn hạnh phúc nào hơn, bên tôi em cũng từng như một con chim nhỏ lúc nào cũng muốn hát lên được. Người nọ hiểu người kia tới mức nếu một trong hai người đi công tác thì có thể yên tâm giao công ty riêng cho người kia quản lý.
+Có lúc tôi tưởng như đã có được em. Vậy mà khi tôi chính thức ngỏ lời thì em chỉ nhất mực: "Em không thể yêu và lấy anh được". Từ hôm đó tôi có cảm giác em luôn ưu tư, không còn vui vẻ tươi tắn như trước nữa, gặp tôi em chỉ trầm ngâm hàng giờ hoặc rất gượng gạo. Và em có ý né tránh tôi dù vẫn luôn quan tâm lo lắng từ những cái rất nhỏ cho tôi. Chiều qua đến công ty em tôi tình cờ bắt gặp em đã từ chối cuộc hẹn với tôi để ngồi chuyện phiếm trên mạng với một người (mà em nói là bạn cũ lâu ngày không gặp). Có lẽ họ đã chuyện trò với nhau khá lâu vì tin nhắn đã khá dài, vậy mà em nói bận quá không về sớm được.
+Em đã nài nỉ: "Đừng có như mất sổ gạo vậy, đau lòng người khác lắm", nhưng rồi vẫn "...em không thể yêu anh"... Tôi biết em không thuộc về người đàn ông nào, tôi cũng biết ngoài tôi ra em không nhiệt tình quan tâm lo lắng tin cậy sẻ chia với ai đến như vậy. Em cũng biết tôi yêu em và thương con gái em đến như thế nào (chơi đùa với con bé, tôi đã gọi nó là "con" tự nhiên như thể đó chính là con của mình). Vậy mà tại sao em vẫn cứ nói rằng chỉ có thể là bạn bè thôi?
+Tôi không thể hiểu nổi tình cảm của em. Hy vọng ai đó có thể giúp tôi tìm ra câu trả lời được không? Rất mong hồi âm của các anh chị.
+Mạnh
+Ý kiến chia sẻ với anh Mạnh xin gửi vào đây:
+function CheckSubmit()
+{document.ContactUs.fName.value = Trim(document.ContactUs.fName.value);
+if (document.ContactUs.fName.value == '')
+{alert('Xin hay nhap Ho ten!');
+document.ContactUs.fName.focus();
+return;
+}if ((SEmail = CheckEmailAddress(document.ContactUs.fEmail.value))=='')
+{alert('Dia chi Email khong hop le!');
+document.ContactUs.fEmail.focus();
+return;
+}document.ContactUs.fEmail.value = SEmail;
+document.ContactUs.fTitle.value = Trim(document.ContactUs.fTitle.value);
+if (document.ContactUs.fTitle.value == '')
+{alert('Xin hay nhap Tieu de!');
+document.ContactUs.fTitle.focus();
+return;
+}document.ContactUs.fContent.value = Trim(document.ContactUs.fContent.value);
+if (document.ContactUs.fContent.value == '')
+{alert('Xin hay Noi dung!');
+document.ContactUs.fContent.focus();
+return;
+}document.ContactUs.fCateDesc.value = document.ContactUs.fCategory.options[document.ContactUs.fCategory.selectedIndex].text;
+if (!confirm('Gui y kien toi Ban bien tap?'))
+return;
+vWH = 160;
+vWW = 330;
+vWN = 'ContactUs';
+winDef = 'status=no,resizable=no,scrollbars=no,toolbar=no,location=no,fullscreen=no,titlebar=yes,height='.concat(vWH).concat(',').concat('width=').concat(vWW).concat(',');
+winDef = winDef.concat('top=').concat((screen.height - vWH)/2).concat(',');
+winDef = winDef.concat('left=').concat((screen.width - vWW)/2);
+newwin = open('', vWN, winDef);
+document.ContactUs.action = '/ContactUs/AddSubmit.asp';
+document.ContactUs.target = vWN;
+document.ContactUs.submit();
+}Họ tên
+Email
+Gửi tới
+Ban Biên tập
+Ban Khoa học
+Ban Kinh doanh
+Ban Pháp luật
+Góp ý Luật Cạnh tranh
+Góp ý Luật Chính quyền địa phương
+Góp ý Luật Chống bán phá giá
+Góp ý Luật Đất đai
+Góp ý Bộ luật Tố tụng hình sự
+Ban Sức khoẻ
+Ban Thế giới
+Ban Thể thao
+Ban Văn hoá
+Ban Vi tính
+Ban Xã hội
+Ban Ôtô Xe máy
+Ban Bạn đọc
+Tìm người quen
+Mục Tâm sự
+Mục Vui cười
+Tiêu đề
+Nội dung
+Gõ tiếng Việt:
+Off
+Telex
+VNI
+VIQR
+Với Internet Explorer 4.0 trở lên,bạn có thể nhập tiếng Việt theo kiểu Telexmà không cần bộ gõ.
+if ((d = GetPostVariable('d', ''))!='')
+{SetSelectValue(document.ContactUs.fCategory, d.toLowerCase());
+}document.ContactUs.fName.value = UnicodeGet(getCookie('Visitor.Name', ''));
+document.ContactUs.fEmail.value = getCookie('Visitor.Email', '');
+if (CurrentFolder.indexOf('/vietnam/the-gioi')>=0)document.ContactUs.fCategory.value='thegioi@vnexpress.net';
+if (CurrentFolder.indexOf('/vietnam/van-hoa')>=0)  document.ContactUs.fCategory.value='vanhoa@vnexpress.net';
+if (CurrentFolder.indexOf('/vietnam/kinh-doanh')>=0) document.ContactUs.fCategory.value='kinhdoanh@vnexpress.net';
+if (CurrentFolder.indexOf('/vietnam/the-thao')>=0) document.ContactUs.fCategory.value='thethao@vnexpress.net';
+if (CurrentFolder.indexOf('/vietnam/euro')>=0) document.ContactUs.fCategory.value='thethao@vnexpress.net';
+if (CurrentFolder.indexOf('/vietnam/vi-tinh')>=0) document.ContactUs.fCategory.value='vitinh@vnexpress.net';
+if (CurrentFolder.indexOf('/vietnam/xa-hoi')>=0) document.ContactUs.fCategory.value='xahoi@vnexpress.net';
+switch (getCookie('Unikonv', '2'))
+{case '0':
+kmode = 1;
+kfont = 'tcvn';
+break;
+case '1':
+kmode = 1;
+kfont = 'vni';
+break;
+case '2':
+case '3':
+kmode = 1;
+kfont = 'utf8';
+break;
+case '4':
+kmode = 1;
+kfont = 'viqr';
+break;
+case '5':
+kmode = 1;
+kfont = 'utf8';
+break;
+case '6':
+kmode = 1;
+kfont = 'vps';
+break;
+default:
+kmode = 1;
+kfont = 'utf8';
+break;
+}initVietTyper(kmode, kfont);
+

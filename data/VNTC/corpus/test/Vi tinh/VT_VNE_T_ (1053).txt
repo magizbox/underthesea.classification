@@ -1,0 +1,5 @@
+Tổ chức màn hình desktop bằng goScreen
+Nhiều khi, đặt shortcut ra ngoài màn hình desktop mang lại cho bạn sự thuận tiện đáng kể. Tuy nhiên, đến một lúc nào đó, màn hình của bạn sẽ chằng chịt như mê cung, gây khó khăn khi tìm kiếm. goScreen sẽ giúp bạn tổ chức lại. 
+goScreen sắp xếp và bổ sung không gian làm việc cho màn hình bằng cách tạo ra tối đa là 40 trang màn hình ảo. Mỗi ứng dụng hoặc nhóm ứng dụng sẽ chạy trên một màn hình riêng rẽ. goScreen không thu nhỏ, thậm chí không đóng bất kỳ ứng dụng nào. Khi bạn lật các trang màn hình, tất cả chương trình đang chạy sẽ biến mất khỏi màn hình và thanh taskbar. Tuy nhiên, chúng vẫn nằm đó chờ bạn quay trở lại. 
+Phiên bản 4.1 bổ sung nhiều tính năng mới như trình cài đặt, nâng cấp một số tiện ích, thêm nhiều phím nóng mới. Bạn có thể tải bản dùng thử dung lượng 749 K có thời hạn sử dụng 30 ngày tại đây.
+

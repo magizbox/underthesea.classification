@@ -1,0 +1,5 @@
+IBM ra mắt máy chủ Unix Power5
+Hôm qua, hãng IBM đã giới thiệu 3 máy chủ mới eServer p5 dựa trên công nghệ Power5 sử dụng chip P5 của Big Blue, hỗ trợ cả hai hệ điều hành AIX và Linux. Đây là một nỗ lực lớn nhằm củng cố dòng máy chủ Unix. 
+Năng lực phân vùng của chip Power5 64 bit cho phép một bộ vi xử lý chạy tới 10 hệ điều hành khác nhau cùng lúc. Nhờ đó, quản trị của hệ thống sẽ có thể vận hành một trung tâm dữ liệu không đồng nhất, mang lại khả năng kết hợp nhiều server vào trong một máy. 
+Loạt máy chủ eServer p5 bao gồm 3 sản phẩm: p5-520, p5-550 và p5-570. P5-520 là máy khởi đầu chi phí thấp hai CPU với bộ vi xử lý p5 1,65 Ghz và bộ nhớ 32 GB. P5-550 có năng lực gấp đôi, hỗ trợ 4 CPU và bộ nhớ 64 GB; còn p5-570 có khả năng cấu hình tới 16 CPU, với bộ vi xử lý 1,9 GHz. Cả 3 máy đều chạy hệ điều hành AIX5L của IBM hoặc các hệ điều hành Linux (Red Hat, Novell SuSE).
+

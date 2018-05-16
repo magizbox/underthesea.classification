@@ -1,0 +1,8 @@
+Firefox đạt 75 triệu lượt tải
+Con số này được coi là một động lực về mặt tâm lý cho Tổ chức phần mềm mã mở Mozilla sau khi chứng kiến sự chững lại của trình duyệt do gặp một loạt lỗi bảo mật trong năm nay.
+75 triệu lượt tải chỉ có mối quan hệ tương đối với số người thực sự dùng Firefox, bởi người sử dụng thường tải nhiều bản khác nhau dù Mozilla không tính những lần tự động nâng cấp trình duyệt.
+Công cụ đọc e-mail Thunderbird cũng đang tiến gần đến con số 10 triệu. Trình duyệt cho những thiết bị di động Minimo trước đó đã đánh dấu một mốc quan trọng khi có đủ những tính năng như tab, cơ chế quản lý bookmark và hệ thống tự động cập nhật thông tin RSS. 
+Mozilla ngày 25/7 đã tung ra Minimo 007, phiên bản mới nhất với giao diện tích hợp XUL (ngôn ngữ giao diện người dùng mở rộng), cho phép chương trình hoạt động trên nhiều hệ điều hành của thiết bị di động, trong đó có cả những sản phẩm của Microsoft.
+"Có lẽ đây là trình duyệt đầu tiên có cả hai kiểu duyệt theo tab và dịch vụ web", Doug Turner, trưởng nhóm kỹ thuật cho Minimo, nói. "Nó được tối ưu hoá cho màn hình nhỏ để cung cấp khả năng lướt web tương tự máy tính để bàn, cho phép người dùng có thể truy cập Google hay Google Map... Bên cạnh đó, phiên bản sử dụng phần nền trong Firefox, lần đầu tiên hỗ trợ các nhà viết chương trình mở rộng có thể tiếp cận phần nền di động".
+Minino 007, hoạt động với Windows CE PPC và Windows CE SmartPhone, sẽ được cung cấp dưới dạng Beta (thử nghiệm) trong vòng 6 tháng tới. 
+

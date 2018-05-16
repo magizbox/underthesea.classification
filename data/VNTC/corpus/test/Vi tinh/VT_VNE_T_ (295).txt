@@ -1,0 +1,152 @@
+Danh mục các định dạng file (vần Q - S)
+Đây là những phần mở rộng ở cuối một tên file (đuôi file), biểu thị file đó thuộc định dạng nào. Thông tin đuôi file được hệ điều hành sử dụng để mở ra chương trình phù hợp khi bạn click vào tên file. Ví dụ: .txt là loại file chữ viết và được xử lý bằng một chương trình văn bản tương ứng.
+.QBW
+QuickBooks cho Windows.
+.QDK
+Chương trình Quarterdeck Qemm.
+.QLB
+Thư viện Quick Library.
+.QLC
+Thông tin về font ATM.
+.QRY
+File truy vấn Microsoft Query.
+.qt
+Dạng file nhị phân QuickTime Movie. 
+.QTM
+File QuickTime Movie.
+.R8L
+Font in theo kiểu ngang (landscape) trong máy LaserJet.
+.R8P
+Font in theo kiểu dọc (portrait) trong máy LaserJet.
+.RA
+RealAudio.
+.RAM
+Real Audio.
+.RAS
+Đồ họa Raster của Sun.
+.RAW
+Dạng file bitmap theo kiểu Raw.
+.rc
+Một định dạng xuất hiện trong nhiều file Unix, có nghĩa là chạy lệnh (run commands).
+.REC
+File macro trong Windows Recorder.
+.REG
+File đăng ký Registration.
+.REP
+File báo cáo Report.
+.RFT
+Địng dạng RFT-DCA.
+.RGB
+File hình ảnh SGI RGB.
+.RIA
+Đồ họa raster trong Alpharel Group IV.
+.RIB
+Đồ họa Renderman.
+.RIC
+Chương trình Roch FaxNet.
+.RIF
+Dạng file bitmap trong trình vẽ Fractal Painter.
+.RIFF
+Định dạng file trao đổi nguồn Resource Interchange. Đây là một định dạng file multimadia của Microsoft, tương đương với IFF của Amiga.
+.RIX
+Màn hình ảo RIX.
+.RLA
+Hình ảnh raster trong Wavefront.
+.RLC
+Hệ thống hình ảnh trong CAD Overlay ESP.
+.RLE
+Độ dài hoạt động của chương trình được mã hóa (Run Length).
+.RM
+Real Media.
+.RMI
+File RIFF MIDI.
+.RND
+Định dạng AutoShade.
+.RNL
+Đồ họa ratser trong GTX Runlength.
+.RPT
+File Report.
+.RTF
+Đồ họa và text của Microsoft.
+.S
+File ngôn ngữ bậc thấp Assembly language trong Unix.
+.S3M
+File nhạc MOD.
+.SAM
+Trình AmiPro.
+.SAV
+File trò chơi đã lưu.
+.SBP
+Đồ họa Storyboard và text Superbase của IBM.
+.SC
+Mã nguồn của Paradox.
+.SCM
+File ScreenCam movie.
+.SCP
+Dạng file script trong kết nối quay số.
+.SCR
+1. Trình lưu màn hình của Windows. 
+2. Trình bày màn hình (layout) trong dBASE. 
+3. Script cho tiện ích Disk Copy của Apple.
+.SCT
+Dạng text chụp màn hình (Screen Capture Text) trong Lotus.
+.SDL
+File thư viện SmartDraw.
+.SEA
+Kho tư liệu (archive) tự trích (Self-Extracting) trong Stuffit hay Compact Pro.
+.SEG
+Đoạn (segment) của một file nén, lưu trong Stuffit hay Compact Pro.
+.SEP
+Định dạng bitmap TIFF.
+.SET
+Tham số cài đặt.
+.SFL
+Font in theo kiểu landscape trong máy LaserJet.
+.SFP
+Font in theo kiểu portrait trong máy LaserJet.
+.SFS
+Font chữ thay đổi tỷ lệ PCL 5.
+.shar
+Dạng kho tư liệu UNIX shell, có thể giải mã bằng trình Unshar.
+.SHTML
+File HTML file với các bộ phận nhúng SSI (server-side includes).
+.SI
+File hình ảnh SoftImage.
+.sig
+Chữ ký (Signature). Một file .sig có thể được cài đặt và tự động đính kèm vào e-mail gửi đi hay các bản tin&Nó bao gồm tên và thông tin liên hệ của người gửi và có thể là cả các chi tiết như kiểu trình bày ASCII art hoặc những câu trích ưa thích...
+.SIT
+File nén Stuffit.
+.SLD
+Slide trình chiếu trong AutoCAD.
+.SLK
+Dạng file bảng tính Symbolic Link (SYLK).
+.SMI
+Hình ảnh tự thiết lập (Self-Mounting). Dạng file này thuộc trình Disk Image của Macintosh, tương tự như file .img, nhưng không yêu cầu sử dụng Disk Copy. Khi file được tải, một hình ảnh đĩa sẽ xuất hiện trên màn hình chủ desktop. Hình ảnh đĩa này sẽ phản ứng theo kiểu giống như đĩa read-only.
+.SND
+File âm thanh.
+.SNM
+Dạng file mail trong Netscape.
+.SPD
+Font thay đổi tỷ lệ Speedo.
+.spx
+Dạng file Screen Peace.
+.SQB
+File trong công cụ sao lưu SyQuest Backup.
+.SRC
+Một định dạng sử dụng trong quá trình tạo ra các file .INI, phục vụ cho việc thiết lập cấu hình.
+.STY
+Biểu bảng Style của Ventura.
+.SVX
+Dạng file âm thanh Amiga 8SVX.
+.SWP
+File lưu tạm thời Swap.
+.SYD
+File sao lưu Sysedit.
+.SYL
+Định dạng bảng tính SYLK.
+.SYNU
+Hình ảnh trong SDSC Synu.
+.SYS
+File hệ thống.
+Còn tiếp
+

@@ -1,0 +1,6 @@
+Phân biệt CPU Intel (1)
+Em có nghe nói về 2 loại CPU của Intel : P4 và P4 extreme edition . Vậy extreme edition có gì khác với P4 thông thường vậy ?P4 extreme edition có bán ở VN không, các anh chỉ cho em với !
+Khoi
+Hồi âm:
+Pentium 4 Extreme Edition (EE) có điểm khác duy nhất với Pentium 4 là loại chịp này có dung lượng bộ nhớ đêm L3 gấp 4 lần (=2MB) so với Pentium 4 (512MB). Điều này về mặt lý thuyết sẽ tạo ra hiệu suất của chip cao hơn Pentium 4 khá nhiều. Tuy nhiên, sự khác biệt về hiệu suất này chỉ có thể thấy được khi bạn chạy các chương trình có yêu cầu về sử lý cao (như Game) và nhìn chung chip Pentium 4 EE là dành cho dân chơi game là chính. Trên thực tế sự khác biết này cũng không đáng kể. Chíp EE rất đắt (xấp xỉ $1000/chiếc) và nếu so sánh tương quan về giá cả và hiệu xuất thì Pentium 4 EE là loại chip có giá trị thấp nhất. Nói tóm lại bạn đừng quan tâm về loại chip này làm gì. Nếu có thể thì nên chuyển sang sử dụng chip AMD Athlon 64 (64-bit) socket 939. AMD 64 vừa rẻ hơn, mạnh hơn lại phù hợp với xu hướng phát triển, của công nghệ thông tin nói chung, hơn.
+

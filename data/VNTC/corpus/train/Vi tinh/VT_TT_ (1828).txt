@@ -1,0 +1,11 @@
+ Giấu thông điệp bí mật trong file ảnh số, nhạc số!
+Công cụ Secret Media sẽ giúp bạn thực hiện điều này dễ dàng. Để gài một thông điệp bí mật vào file MP3, bạn thực hiện như sau: 
+- Step 1: Chọn “Create” và nhấn Next. 
+- Step 2: Chọn “Select File” để tìm đến file MP3 hoặc file ảnh số cần dùng để giấu thông điệp, rồi nhắp đúp hoặc chọn “Open”. 
+- Step 3: Nhập vào một password mà bên gửi và bên nhận đã thỏa thuận trước. 
+- Step 4: Nhập vào thông điệp bí mật vào ô soạn thảo hoặc dán vào thông điệp đã soạn sẵn. Lưu ý: Secret Media chỉ tương thích với font VNI. 
+- Step 5: Nhấn “Save”, chọn cách lưu là “Graphic Files” nếu bạn giấu thông điệp trong file ảnh số, hoặc “Audio Files” nếu lưu trong file MP3. 
+File MP3 hoặc ảnh số mà bạn đã giấu thông điệp mật vẫn có thể “hát” hoặc hiện ra bình thường với chất lượng không hề thay đổi. Để giải mã thông điệp giấu trong file, máy tính của bạn bắt buộc cũng phải cài đặt chương trình Secret Media. Cách mở cũng rất đơn giản, bạn chỉ cần chọn “View” trong Step 1 và thực hiện mọi thứ chính xác cho đến Step 4 là thông điệp mật sẽ hiện ra trong giao diện văn bản của Secret Media. 
+Secret Media tương thích với ba định dạng ảnh số là JPG, GIF, BMP và tương thích với ba định dạng nhạc số là MP3, WMA, WAV. 
+Hiện Công ty Direct Logic Solutions đang bán ra bản Secret Media 3.0.0 với giá 30 USD. Người dùng có thể vào http://www2.freedownloadscenter.com/FDM/install.php3?url=http://www.directlogic.com/download/smsetup.exe&amp;ref=http://www.freedownloadscenter.com/Utilities/File_Encryption_Utilities/Secret_Media_Download.html&amp;tit=Secret%20Media để tải về bản dùng thử. Hoặc có thể tìm ở các cửa hàng phần mềm. 
+

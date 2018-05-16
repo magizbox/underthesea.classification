@@ -1,0 +1,9 @@
+Hỏi về máy ghi âm kỹ thuật số (1)
+Hiện nay theo em biết trên thị trường có rất nhiều loại máy ghi âm ví dụ của Samsung (SVR-M920) là rất phổ biến có chức năng ghi, kết nối máy tính, nghe MP3... Gần đây lại xuất hiện cả loại hand disk ubs 64/128/256MB có cả chức năng nghe mp3, voice record ...(tích hợp 6 in one) (loại Poki, MSI). Em không rõ chất lượng ghi âm của máy loại này như thế nào? giá cả của các thiết bị này tầm khoảng 2 triệu. Em đang tìm mua để có thể ghi âm lại bài giảng của giáo viên trên lớp, các buổi hội họp hội thảo tại cơ quan không biết nên dùng loại nào thì ghi âm tốt? Xin cảm ơn! 
+Dinh Hung
+Hồi âm:
+Một số tiêu chí để bạn lựa chọn gih âm kỹ thuật số :
+Bộ nhớ : dung lượng càng lớn thì càng tốt. Công nghệ ghi âm tự động : tính năng này giúp tiết kiệm dung lượng, năng lượng, khi yên lặng thì tự động ngắt và tự động ghi lại khi có âm thanh. Chế độ ghi tối thiểu : cho phép ghi âm chất lượng tối thiểu  tức là không cần Hi-Fi, chỉ thu mono--  âm thanh vẫn rõ ràng -à thời gian ghi âm dài đến hơn 10h liên tục. Số lượng pin sử dụng. Trọng lượng, kích thước 
+Lưu trữ data  trao đổi data theo dạng nào : điểm này rất quan trọng, nếu muốn chép data qua lại với máy vi tính mà phải dùng phần mềm riêng thì bạn không nên mua, vì rất mất công và thiếu tương thích, nếu có thể chép data như là USB disk thì tốt  tức là không cần phần mềm và driver gì hết. Nếu dùng chuẩn USB thì chuẩn 2.0 tốt hơn là 1.x. Có loại cho phép nối với điện thoạii thu âm cũng thú vị, nên để ý thêm J. Tóm lại, với 2 triệu có thể mua loại tốt đấy, hãy lựa chọn thỏai mái và cẩn thận nhé
+
+

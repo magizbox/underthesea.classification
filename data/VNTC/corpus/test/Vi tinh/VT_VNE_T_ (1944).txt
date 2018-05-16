@@ -1,0 +1,5 @@
+XDR 512 MB - RAM mạnh nhất thế giới
+Sản phẩm (viết tắt của eXtreme Data Rate) của Samsung có tốc độ truyền dữ liệu lên tới 8 Gb/giây, gấp 10 lần so với các loại DDR SDRAM 400 MHz hiện nay và gấp 5 lần RDRAM. Ngoài ra nó còn được kết hợp công nghệ DRSL của Rambus.
+XDR, trước đây mang tên mã là Yellowstone, được hãng Rambus phát triển như sản phẩm kế tiếp của hệ thống RDRAM, từng được coi là tương lai của bộ nhớ máy tính song đã bị thất thế trước sự cạnh tranh về giá của DDR. XDR hiện được coi là đối thủ lớn nhất trong cuộc đua tích hợp trên Sony PlayStation 3. Samsung cho biết họ còn dự định tăng thông lượng XDR lên tới 12,8 Gb/giây.
+Được thiết kế để phục vụ các ứng dụng truyền thông đa phương tiện, bộ nhớ mới của Samsung hướng tới cộng đồng người sử dụng có nhu cầu chạy các chương trình phải xử lý nhiều dữ liệu. Công nghệ XDR có tiềm năng rất lớn để trở thành một giải pháp bộ nhớ hàng đầu cho các ứng dụng multimedia mạnh nhất hiện nay, Mueez Deen, Giám đốc marketing của Sumsung, nhận định.
+

@@ -1,0 +1,11 @@
+'Không có code của tôi, iCMS không thể chạy'
+Stephen R.G. Fraser, người viết phần mềm CMS.NET mà nhóm iCMS đã "mượn tạm" để xây dựng sản phẩm, khẳng định như vậy tại trang tin cá nhân của mình. Ông nhấn mạnh, iCMS sử dụng mã nguồn của ông mà không hề xin phép và thương mại hoá nó một cách bất hợp pháp. 
+Nguyên văn bài viết của ông Fraser như sau:
+"Đúng, CMS.NET đã bị sử dụng khi chưa được phép và bị thương mại hóa một cách bất hợp pháp. 
+Thông báo về bản quyền
+Copyright  2002 by Stephen Fraser. Không được phép xuất bản lại hoặc chuyển đổi sang bất cứ dạng nào, bằng bất cứ phương pháp nào, điện tử hay cơ học, bao gồm cả photocopy, ghi âm, hay bất cứ hệ thống lưu trữ và truy cập thông tin nào, mà không có sự đồng ý trước bằng văn bản của cả người sở hữu bản quyền và nhà phát hành.
+Tôi, cũng như nhà phát hành của tôi, đã không hề đưa ra sự đồng ý bằng văn bản.
+Ý tôi trong phần trên là, anh ta (nhóm iCMS) phải gỡ bỏ khỏi phần mềm của họ tất cả mã nguồn lấy từ quyển sách của tôi, trừ khi cả tôi và nhà xuất bản cùng cho phép trước bằng văn bản. Và nếu họ thực hiện việc gỡ bỏ mã, tôi chắc chắn là phần mềm đó sẽ không thể chạy được nữa. 
+Giá như các nhà phát triển iCMS có xin phép tôi trước khi tất cả những chuyện này xảy ra, tôi sẽ cho phép ngay mà không phải nghĩ ngợi gì, như tôi từng làm nhiều lần trước đó. Tất cả những gì tôi yêu cầu chỉ là sự ghi nhận với những gì tôi đã làm, và phải tạo ra những thay đổi lớn so với bản gốc.
+Stephen R.G. Fraser"
+

@@ -1,0 +1,4 @@
+ Điện thoại tra hồ sơ hành chính
+Với hệ thống trả lời tự động nói trên, người dân có thể thực hiện các yêu cầu mọi lúc mọi nơi trong ngày bằng nhiều phương tiện phổ biến như: điện thoại cố định, điện thoại di động, nhắn tin SMS và website của Sở Bưu chính - viễn thông TP ( www.ict-hcm.gov.vn ). 
+Trong giai đoạn đầu, hệ thống này thực hiện trả lời tự động ở các lĩnh vực: đăng ký kinh doanh (tại Sở Kế hoạch - đầu tư, các quận huyện); cấp phép lĩnh vực văn hóa; đăng ký sử dụng lao động; cấp phép xây dựng và hồ sơ nhà đất. 
+

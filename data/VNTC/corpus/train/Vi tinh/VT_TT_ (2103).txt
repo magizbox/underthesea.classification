@@ -1,0 +1,6 @@
+ 90% doanh nghiệp Mỹ bị tin tặc tấn công
+Theo “Báo cáo điều tra tội phạm máy tính 2005” FBI cho biết rằng có đến 87% số doanh nghiệp Mỹ thừa nhận rằng doanh nghiệp mình đã bị tấn công tối thiểu là vài lần trong năm 2005 bằng nhiều hình thức. Khoảng 20% số doanh nghiệp Mỹ đã bị tấn công từ 20 lần trở lên trong năm 2005. 
+Hầu hết các công ty bị tấn công đều thừa nhận rằng dù có kỹ lưỡng đến đâu thì các máy tính của công ty cũng đều có khả năng bị nhiễm mã độc. Virus và phần mềm gián điệp là 2 dạng mã độc được mọi kẻ tấn công ưa thích sử dụng nhất. 
+FBI cho biết chỉ có 33% số doanh nghiệp Mỹ là sử dụng các đường truyền được trang bị các cổng quét virus, đa số còn lại đều hoạt động với loại mạng mà virus được phép “oanh kích tự do”. Có khoảng 64% số doanh nghiệp cho biết rằng mình đã bị thiệt hại do bị hacker tấn công các kiểu, chủ yếu là tấn công lừa đảo tài chính với số tiền thất thoát trung bình là 24.000 USD/doanh nghiệp. Như vậy tổng số tiền mà mọi doanh nghiệp tại Mỹ đã “cúng” cho bọn tội phạm kỹ thuật số trong năm 2005 có thể lên đến con số khổng lồ là 67,2 tỷ USD, trong khi năm 2004 chỉ là 52,6 tỷ USD. 
+Cuộc nghiên cứu này do Trung tâm điều tra tội phạm máy tính của FBI kết hợp với Viện bảo mật máy tính Hoa Kỳ thực hiện. Bạn đọc quan tâm có thể vào đây để tham khảo toàn văn bản báo cáo này của FBI. 
+

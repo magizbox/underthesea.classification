@@ -1,0 +1,9 @@
+Các virus cũ tiếp tục hoành hành 
+Đánh giá tình hình bảo mật tháng 3 của hãng Sophos (Anh) cho thấy Zafi, xuất hiện cuối năm ngoái, cùng với họ NetSky, vẫn là những phần mềm tấn công được ghi nhận nhiều nhất bốn tháng liên tiếp.
+Bảng xếp hạng 10 chương trình nguy hại hàng đầu tháng qua chủ yếu vẫn là những cái tên cũ nhưng có sự gia tăng lớn về số lượng biến thể Zafi.D, chiếm tới 45,1% tổng số thông báo, cộng với việc thăng tiến đáng chú ý của virus Sober.K.
+Theo Carole Theriault, chuyên gia công nghệ của Sophos, số máy tính kém được bảo vệ là nguyên nhân duy nhất cho việc các virus cũ tiếp tục phát tác. Một số trong nhóm 10 virus hàng đầu phát tán rất mạnh, lấn át sự xuất hiện của những chương trình tấn công mới, Theriault nói. Người sử dụng máy tính đừng bao giờ ảo tưởng về sự an toàn khi kết nối Internet vì ngày nào cũng có virus mới được tung lên mạng. 
+Trong tháng 3, Sophos đã ngăn chặn và phân tích thêm 1.225 virus mới. Tổng số mã tấn công mà họ xử lý đến nay là 102.123. Khảo sát của hãng bảo mật Anh cho thấy 2,62% trên tổng số e-mail lưu thông của tháng 3 - tương đương tỷ lệ 1/38 - là những thông điệp có chứa virus. Con số này thấp hơn nhiều so với mức 1/28 của tháng 2.
+10 virus nguy hiểm nhất tháng 3/2005 (trong ngoặc là tỷ lệ thông báo mà Sophos nhận được):
+1. Zafi.D (45,1%)2. NetSky.P (21%)3. Zafi.B (5,9%)4. Sober.K (5,8%)5. NetSky.D (4,3%)6. NetSky.Z (2,7%)7. NetSky.B (2,3%)8. Mydoom.O (1,3%)9. NetSky.C (1,1%)10. NetSky.Q (1%)
+Các loại khác: 9,5%
+

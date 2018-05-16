@@ -1,0 +1,4 @@
+ Qualcomm thiết kế chipset CDMA-GSM đầu tiên
+Trước đây Qualcomm chỉ tập trung vào công nghệ CDMA, giờ đây ngoài việc hỗ trợ GSM và GPRS, chipset MSM6550 của công ty còn hỗ trợ 1xEV-DO (CDMA), một công nghệ vô tuyến đang được phát triển bởi một số nhà khai thác vô tuyến như Verizon Wireless. 
+Đây là những chipset đầu tiên không chỉ hỗ trợ nhiều tính năng multimedia mà còn cho hầu hết các loại mạng dữ liệu di động CDMA và GSM. 
+

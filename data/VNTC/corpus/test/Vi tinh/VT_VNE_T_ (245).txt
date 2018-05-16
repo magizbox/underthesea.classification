@@ -1,0 +1,7 @@
+Phần mềm ngăn chặn lạm dụng tình dục trẻ em trên net
+Jim Whightman, một chuyên gia tin học Anh, vừa xây dựng chương trình tạo ra những đứa trẻ ảo, đánh lừa và tóm gọn những kẻ chuyên đi lừa trẻ em trên các phòng chat.
+Phần mềm có tên ChatNannies. Mỗi khi khởi động, nó tạo ra hàng nghìn chương trình phụ, đóng vai những đứa trẻ ngây thơ, truy cập vào phòng chat. Lũ trẻ ngồi tán chuyện với người dùng mạng, đồng thời phân tích cuộc đối thoại, xem đó có phải kẻ mắc chứng nghiện tình dục trẻ em không. Nếu thấy nghi vấn, nó sẽ ghi lại cuộc đối thoại, chuyển cho Whightman, để ông báo cảnh sát.
+Để làm được điều này, Whightman cùng cộng sự đã nghiên cứu giọng điệu của trẻ em tại nhiều phòng chat. Họ phân tích các cuộc đối thoại, tách chúng ra thành các mẩu nhỏ, tìm câu trả lời tự động phù hợp cho từng tình huống. Whightman cho biết ông đã phát tán 100.000 đứa trẻ ảo, với cá tính hơi khác nhau, lên các chat room. Hiện đã có vài trường hợp nghi vấn báo về cho cảnh sát Anh, còn lũ trẻ thì chưa thấy đứa nào bại lộ.
+Dù mới đang trong giai đoạn thử nghiệm, nhiều người hy vọng ChatNannies sẽ giúp xây dựng cộng đồng ảo trong sạch hơn. Nếu phần mềm hoạt động tốt thì thật tuyệt, bởi hiện chưa có chương trình nào với khả năng tương tự, Chris Atkinson, đại diện tổ chức ngăn ngừa bạo lực trẻ em tại Anh, cho biết.
+Các phòng chat trên Internet từ lâu đã bị xem là đầy rủi ro với lứa tuổi thanh thiếu niên, bởi chúng giúp những kẻ bệnh hoạn dễ dàng lân la làm quen với nạn nhân. Hồi tháng 10 năm ngoái, Microsoft cũng đãngừng dịch vụ chat MSN vì lo ngại tình trạng này.
+

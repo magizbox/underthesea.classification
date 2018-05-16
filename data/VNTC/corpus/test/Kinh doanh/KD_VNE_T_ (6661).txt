@@ -1,0 +1,14 @@
+VNPT và Viettel lại cãi nhau về chuyện kết nối
+Hơn 3 tháng tạm lắng, cuộc tranh chấp kết nối giữa VNPT và Viettel lại bùng nổ với mức độ căng thẳng hơn. Nhiều ngày nay, không chỉ các thuê bao di động, khách hàng sử dụng điện thoại cố định của VNPT rất khó thực hiện các cuộc gọi sang mạng di động Viettel và ngược lại.
+Trung tâm giải đáp khách hàng của Viettel tại nhiều tỉnh liên tục nhận được hàng trăm cuộc gọi phản ánh về tình trạng nghẽn mạch các cuộc gọi từ mạng di động sang mạng cố định của VNPT và ngược lại. Trong đó, tỷ lệ cuộc gọi thành công đối với Bưu điện Ninh Bình, Nam Định chỉ 10% (trong khi đó tỷ lệ gọi thành công tại các tỉnh khác đều xấp xỉ trên 45%). Các thuê bao cố định của Bưu điện Ninh Bình (030xxxxxx) còn khó khăn hơn khi muốn gọi sang thuê bao 098.
+Trước tình hình này, lãnh đạo Viettel nhiều lần làm việc với lãnh đạo VNPT để xin được kết nối. Đồng thời, nhà cung cấp này cũng có công văn đề nghị Bộ Bưu chính Viễn thông vào cuộc để tháo gỡ sự vụ kéo dài dai dẳng này.
+VNPT không thừa nhận cáo buộc này. Họ cho rằng, bản thân lãnh đạo Viettel vẫn chưa theo dõi, quản lý và kiểm soát được hết các hoạt động sản xuất kinh doanh của mình tại các địa bàn. Theo VNPT, kết quả đo kiểm cho thấy các cuộc gọi thử từ thuê bao cố định 030xxxxxx đến mạng di động 098 của Viettel đều tốt và số cuộc gọi đồng thời cũng lớn, không đến nỗi như Viettel phản ánh.
+VNPT cho biết, ngay sau khi nhận được phản ánh của Viettel về việc thuê bao cố định của Bưu điện Ninh Bình khó gọi được thuê bao mạng di động 098, công ty đã chỉ đạo Bưu điện Ninh Bình thực hiện kiểm tra. Kết quả đo kiểm thực hiện từ 16h20 đến 16h40 ngày 15/11 cho thấy, các cuộc gọi thử từ thuê bao cố định 030 xxxxxx đến mạng di động 098 của Viettel đều tốt. Trong số 10 máy thử trong cùng thời điểm đã có 8 cuộc thành công. Ngoài ra cùng thời điểm đó, rất nhiều cuộc gọi thành công khác từ thuê bao 030 gọi sang thuê bao 098.
+Không chấp nhận cách giải thích của VNPT,một quan chức của Viettel Mobile cho biết, hiện nay, việc kết nối giữa hai mạng này mới chỉ đáp ứng khoảng 50% nhu cầu kết nối của mạng Viettel. Ông cho biết, trước khi VNPT tiến hành kiểm tra, hệ thống tính cước của Viettel ghi lại mỗi ngày chỉ có khoảng 2.000-3.000 cuộc gọi. Riêng 2 ngày 16-17/11 lưu lượng các cuộc gọi tăng đột biến do thời điểm này VNPT tiến hành kiểm tra Bưu điện Ninh Bình.
+"Sau đợt kiểm tra tình trạng lại diễn biến như cũ. Số liệu trên hệ thống tính cước của Viettel phản ánh tại mỗi thời điểm chỉ tồn tại maximum 5 cuộc gọi", ông nói.
+Có sự cố kỹ thuật trong vụ kết nối VNPT - Viettel(24/12/2005)
+Hôm nay phán xử vụ tranh chấp kết nối(21/12/2005)
+Vụ tranh chấp kết nối điện thoại chưa rõ trắng đen(15/12/2005)
+Kỹ thuật không phải là nguyên nhân tranh chấp kết nối(14/12/2005)
+Quan chức Bưu chính Viễn thông 'vi hành' Ninh Bình(10/12/2005)
+

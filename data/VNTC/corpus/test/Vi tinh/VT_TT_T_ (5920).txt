@@ -1,0 +1,9 @@
+ Công nghệ 5 Megapixel của Samsung
+Công nghệ 5M-pixel CIS này hoạt động tương tự như thành phần cảm biến CCD nhưng sẽ tiêu tốn năng lượng ít hơn với giá cả cạnh tranh hơn. Công nghệ 5M-pixel CIS sẽ là giải pháp hình ảnh gần như tối ưu cho các thiết bị cầm tay như ĐTDĐ, camera hoặc máy quay video kỹ thuật số trong thời gian tới. 
+Công nghệ 5M-pixel CIS sẽ trang bị một thấu kính 1/2,5 inch có kích thước điểm ảnh (pixel) là 2,2 micron. Samsung đã sử dụng quy trình công nghệ 0,13 micron để gia tăng số đo cảm biến hình ảnh của các bộ cảm biến ánh sáng lên đến hơn 50%, tạo nên độ sắc nét cực cao cho hình ảnh khi thể hiện trên các thiết bị di động. 
+Công nghệ 5M-pixel CIS có dấu điểm ảnh nhỏ hơn 30% so với các giải pháp công nghệ phân giải cho thiết bị đi động hiện tại, tạo điều kiện thu nhỏ kích thước camera trên ĐTDĐ hơn khá nhiều so với các loại camera trên ĐTDĐ hiện nay. 
+Công nghệ này còn cho phép quay phim với các hình ảnh chất lượng VGA ở tốc độ 30 khung hình/giây mà hoàn toàn không làm giảm chất lượng phân giải cao của hình ảnh khi trích xuất riêng. Công nghệ này có mức độ tiêu thụ điện năng thấp nên sẽ kéo dài thời lượng sử dụng pin. 
+Yong-Hee Lee, phó chủ tịch chi nhánh System LSI của Samsung nhận định:”Công nghệ 5M-pixel CIS đã đánh dấu một cột mốc mới về mức độ thể hiện hình ảnh kỹ thuật số cao cấp. Chúng tôi sẽ hết sức cố gắng áp dụng dạng công nghệ hình ảnh chuyên nghiệp này vào các thiết bị di động và các ứng dụng kỹ thuật số khác”. 
+Samsung dự định bắt đầu thương mại hóa đại trà các sản phẩm ứng dụng công nghệ 5M-pixel CIS trong quý 4-2005, còn các sản phẩm sử dụng công nghệ 3.2M-pixel CIS kết hợp với bộ xử lý tín hiệu hình ảnh tân tiến của Samsung sẽ được tung ra trong năm 2006. 
+Vào cuối năm 2004, Samsung đã giới thiệu loại ĐTDĐ đầu tiên có tích hợp máy ảnh số đạt độ phân giải hình ảnh lên đến 5 Megapixel. 
+

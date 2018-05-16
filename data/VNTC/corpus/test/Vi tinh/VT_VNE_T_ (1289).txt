@@ -1,0 +1,10 @@
+Khi khởi động máy kêu tít tít liên tục (3)
+Kính thưa các anh chị, khi tôi bật máy thì máy cứ kêu tít tít liên tục, đèn phía trước máy nháy theo tiếng kêu, và không khởi động được, đến khi rút phích điện ra và bật máy thì máy lại khởi động được và làm việc bình thường, tôi không biết lỗi đó là do đâu mong các anh chị chỉ dẫn cho tôi, Tôi xin chân thành cam ơn.
+Ngoc Son
+Hồi âm:
+Nguyen nhan la do card man hinh bi long hoac bi bui ban. Ban cam lai cho chat hoac lau sach bui se het. Chuc thanh cong. 
+Hung The Nguyen 
+Do la do loi cua RAM o khong dung vi tri, hay la nhung thanh RAM khong dong bo voi nhau. Cach giai quyet la doi vi tri thanh RAM, hoac dung nhung thanh RAM dong bo voi nhau. (Thuong thi dung RAM cung noi san xuat va cung dot san xuat la tot nhat). 
+Vo Hung 
+Bạn quên không nói rõ cấu hình của máy, nhưng tít tít như vậythì chắc chắn là một phần cứng của máy bị lỏng. Bạn cần kiểm tra lại tất cả các thiết bị đảm bảo là chúng được gắn vào nhau và vào bo mạch chủ một cách chặt chẽ và đúng cách. 
+

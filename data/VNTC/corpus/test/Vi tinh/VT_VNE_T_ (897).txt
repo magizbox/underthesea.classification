@@ -1,0 +1,7 @@
+Chia nhỏ tập tin với File Chopper
+Bạn đã bao giờ phải vò đầu bứt tai khi tải về một bộ phim hay có kích thước 700 MB, định chia sẻ với bạn bè mà trong tay chỉ có thẻ nhớ USB dung lượng 256 MB chưa? Nếu điều đó xảy ra hơn một lần, hãy để File Choppergiúp bạn. 
+File Chopper chia tập tin thành những khúc nhỏ, có kích thước tùy ý, để tiện cho việc lưu trữ và truyền những file quá lớn. Sau đó, bạn có thể phục hồi tập tin gốc bằng cách sử dụng lại File Chopper hoặc dùng file DOS bó được tạo ra trong quá trình cắt. 
+Bạn có thể lựa chọn kích thước của những tập tin con cho phù hợp với dung lượng của phương tiện lưu trữ như đĩa mềm, đĩa CD, DVD... Sau đó, bạn vẫn biên tập, chỉnh sửa tùy ý. 
+File Chopper tương thích với các hệ điều hành Windows 95/98/Me/2000/XP và hoạt động trên tất cả các file hệ thống của Windows, như FAT16 (FAT), FAT32 và NTFS. Sau khi tải về, chương trình sẽ tự cài đặt.
+Bạn có thể tải bản dùng thử có thời hạn 30 ngày tại đây.
+

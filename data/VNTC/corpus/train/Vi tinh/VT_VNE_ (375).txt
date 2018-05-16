@@ -1,0 +1,7 @@
+Linux 'dính đòn' nhiều hơn Windows
+Cộng đồng mã mở vẫn khẳng định hệ điều hành của mình an toàn hơn Windows. Song chính niềm tự hào này khiến giới hacker chú ý và tập trung đánh phá.
+Phân tích của hãng tư vấn bảo mật Anh mi2g về tấn công trực tuyến tháng 1 cho thấy máy chủ Linux thường xuyên rơi vào tầm ngắm của hacker, với 13.654 vụ tấn công, tương đương 80% số máy bị đánh. Trong khi đó, người ta chỉ ghi nhận 2.005 vụ tương tự với Windows.
+Phân tích chi tiết với các máy chủ chính phủ cũng cho thấy Linux bị tổn thương nhiều hơn, chiếm 57% số lỗ hổng bảo mật. Trong một nghiên cứu tương tự năm ngoái, Windows tỏ ra yếu đuối hơn, chiếm 51% số vụ tấn công thành công.
+Tuy nhiên, theo mi2g, sự tổn thương của Linux có lẽ do người ta không quen dùng nó, chứ không phải hệ điều hành này có nhiều yếu điểm nội tại. Từ năm ngoái, một số máy chủ đã chuyển sang chạy Linux. Song các nhân viên lại không được đào tạo đầy đủ để điều hành các ứng dụng, Matai, Chủ tịch mi2g, khẳng định.
+Nghiên cứu của mi2g tập trung vào hoạt động tấn công công khai, không tính tới những vụ đột nhập lén lút như sâu hay virus. Cũng theo nghiên cứu này, các hệ điều hành an toàn nhất hiện nay là BSD (Berkley Software Distribution) và Mac OS X.
+

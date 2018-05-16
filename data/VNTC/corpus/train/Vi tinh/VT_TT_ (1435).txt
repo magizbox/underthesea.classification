@@ -1,0 +1,11 @@
+ System Cleaner: chổi dọn rác máy tính hiệu quả
+Bạn có thể quét dọn một cách thủ công, tuy nhiên sẽ không hiệu quả bằng sử dụng chương trình chuyên dụng. System Cleaner là chương trình dọn “rác” rất sạch sẽ, cách sử dụng đơn giản. 
+Chạy chương trình, trong cửa sổ chính, phần khung bên trái bạn chọn mục Clean My Computer . Mục What do you want to scan có các lựa chọn như: 
+- Find and remove junk and obsolete files: Tìm và xóa các file rác trên hệ thống. 
+- Find and remove broken shortcuts: Tìm và xóa các shortcut bị hỏng. 
+- Clean directories and cache files: Xóa cache. 
+Chọn một mục mà bạn muốn dọn dẹp. Nhấn Run Scan Now để bắt đầu quét. 
+Sau khi chương trình quét xong sẽ hiển thị danh sách các file rác mà nó tìm được trong khung bên dưới. Bạn chọn phương thức dọn dẹp trong phần Please select your preffered method … (ví dụ như xóa – Delete only , sao lưu và xóa – Backup &amp; delete to , nén lại và xóa – Zip &amp; delete to ). Để cho an toàn bạn nên chọn Backup &amp; delete to . Sau đó nhấn nút Clean All , chọn Yes để xóa rác. 
+Trong trường hợp chương trình lỡ xóa nhầm file quan trọng, bạn có thể dễ dàng phục hồi lại bằng cách chọn Restore Wizard trong khung bên trái cửa sổ chương trình. Sau đó chọn lần xóa rác trước cần phục hồi và nhấn nút Restore Selected Operation . 
+System Cleaner 4.9 tương thích với Windows 98 / Me / 2000 / XP / 2003 Server. Bạn có thể tải về bản dùng thử 15 ngày tại địa chỉ: www.pointstone.com/download (dung lượng 1,2 MB) hoặc tìm mua tại các cửa hàng bán phần mềm trên thị trường 
+

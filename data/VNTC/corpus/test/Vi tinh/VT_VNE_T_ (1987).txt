@@ -1,0 +1,6 @@
+Lỗ hổng mới trong Windows XP Service Pack 2
+Công ty bảo mật Nga Positive Technologies vừa phát hiện phương thức có thể qua mặt một tính năng an ninh trong gói phần mềm nâng cấp hệ điều hành được coi là rất toàn diện của Microsoft.
+Trong Windows XP Service Pack 2 (SP2) có một hệ thống đánh giá an ninh gọi là Data Execution Protection, được thiết kế để ngăn ngừa những kẻ tấn công chèn mã nguy hiểm vào bộ nhớ máy tính và lừa Windows chạy chương trình phá hoại. 
+Theo tài liệu mà Positive Technologies công bố (tại địa chỉ: www.maxpatrol.com/ptmshorp.asp), có 2 lỗi nhỏ trong việc thực thi tính năng Data Execution Protection nói trên. Điều này có thể cho phép những lập trình viên kinh nghiệm lách qua khâu bảo vệ này. Công ty có trụ sở ở Moscow thông báo cho Microsoft về vấn đề này hôm 22/12 và họ đã quyết định không tiếp tục đợi đến khi hãng phần mềm Mỹ phát hành bản vá lỗi mà công bố chi tiết luôn.
+Microsoft bắt đầu phát hành SP2 vào tháng 8 năm ngoái sau nhiều lần trì hoãn. Động thái này được chủ tịch Bill Gates gọi là bước quan trọng trong việc thực hiện mục tiêu hỗ trợ khách hàng biến PC thành một pháo đài vững vàng hơn trước các cuộc tấn công ngày càng tinh vi.
+

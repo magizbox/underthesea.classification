@@ -1,0 +1,5 @@
+ Driver Magician 2.6: sao lưu, phục hồi driver cho các thiết bị
+Cách sử dụng chương trình rất đơn giản. Sau khi bạn chạy Driver Magician, chương trình sẽ dò tìm các driver đã cài trên máy và hiển thị trong một danh sách. Bạn đánh dấu chọn trước tên driver cần sao lưu, hay nhấn Select All để chọn tất cả. Nhấn nút Start Backup. Chương trình sẽ hỏi bạn muốn lưu thông tin vào thư mục nào, sau khi chọn xong nhấn OK. 
+Vậy là xong phần sao lưu. Để phục hồi driver, bạn vào menu Driver Restoration, chọn Restore from folder, sau đó chọn thư mục chứa tập tin đã sao lưu trước đó. Đánh dấu check trước tên driver cần phục hồi và nhấn nút Start Restore để bắt đầu phục hồi. 
+Driver Magician 2.6 là phần mềm thương mại của GoldSolution, tương thích với Windows 98, ME, 2000, XP, 2003. Bạn có thể tải tại http://www.drivermagician.com (dung lượng 3,26 MB) hay tìm trên các CD phần mềm tổng hợp, có bán ngoài thị trường. 
+

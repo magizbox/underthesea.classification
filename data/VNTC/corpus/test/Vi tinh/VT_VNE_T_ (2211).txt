@@ -1,0 +1,9 @@
+Sâu Bagle mới lây lan mạnh
+Không chỉ là một virus phát tán e-mail số lượng lớn, BagleD1.L còn là Trojan có khả năng làm tê liệt các ứng dụng an ninh và thiết lập kết nối với một số website.
+Hãng bảo mật McAfee cho biết, trong 12 giờ qua, virus này được phát đi thông qua nhiều danh sách thư rác tới hàng triệu địa chỉ và được đánh giá ở mức nguy cơ trung bình. Trong khi đó, theo hãng giải pháp an ninh thư điện tử Postini, sự xuất hiện của biến thể mới cũng đã làm gia tăng gấp 5 lần tổng lưu lượng của các virus thuộc họ Bagle trong 24 giờ qua.
+Việc BagleD1.L tắt hệ thống bảo vệ máy tính có thể khiến PC đứng trước nhiều nguy cơ tấn công. Bất cứ Trojan nào làm tắt phần mềm chống virus và tường lửa đều có thể mở toang máy tính cho những cuộc tấn công về sau, trong đó có cả sự đe dọa của những virus cũ, chuyên gia Graham Cluley của hãng bảo mật Anh Sophos nhận định.
+Khác với sâu phát tán e-mail số lượng lớn thông thường, Trojan này không tự phát tán nhưng các chuyên gia an ninh cảnh báo mối nguy hiểm của nó khá cao vì số lượng e-mail chứa nó được phát hiện đến nay là đáng kể.
+Theo Sophos và hãng F-Secure (Phần Lan), những website mà BagleD1.L liên kết tới không chứa mã tấn công. Tuy nhiên, Giám đốc nghiên cứu virus của McAfee cho biết nhiều tin tặc thường bổ sung mã này vào website sau khi những đợt tấn công đầu tiên đã lắng.
+Trojan mới chỉ có thể phát tác nhờ vào sự thiếu cảnh giác của người sử dụng e-mail. Những bức thư chứa chương trình này mang phần đính kèm là một file ZIP mà phải được mở ra để hiển thị các chương trình "doc_01.exe" hoặc "prs_03.exe".
+BagleD1.L xuất hiện chỉ vài ngày sau khi địa chỉ cung cấp công cụ phát tán spam Send-Safe.com bị loại bỏ khỏi mạng của nhà cung cấp dịch vụ Internet MCI. Send-Safe bị cáo buộc sử dụng những PC đã bị khống chế bằng Trojan để phát tán thông điệp không mời.
+

@@ -1,0 +1,4 @@
+ Cảnh báo nguy cơ mất dữ liệu của MobiFone
+Theo đó, hệ thống website của MobiFone ( www.mobifone.com.vn ) bị mắc lỗi bảo mật, có thể bị hacker tấn công lấy mã nguồn và lấy dữ liệu của hệ thống website, sử dụng tài khoản của những khách hàng đăng ký trên trang web để nhắn tin quấy rối miễn phí, xem thông tin cá nhân của khách hàng. 
+VSEC cũng khuyến cáo MobiFone cần phân tích tình hình, tiến hành các biện pháp cải tiến và tăng cường theo dõi hoạt động trên hệ thống, đề phòng khả năng bị mất cơ sở dữ liệu, mất thông tin của khách hàng. Cũng theo VSEC, hiện tại có một bộ phận nhỏ các đơn vị, ban ngành còn thờ ơ và không củng cố hệ thống bảo mật của mình khi được VSEC cảnh báo. 
+

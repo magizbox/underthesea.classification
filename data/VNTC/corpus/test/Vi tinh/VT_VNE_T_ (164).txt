@@ -1,0 +1,13 @@
+Hỏi cách nối mạng 3 máy tính dùng 1 hub (1)
+Lam on chi giup cho em cach noi mang 3 may tinh tro len, dung mot hub:- cach setup phan cung- cach cai dat phan men (may cai win98): tung buoc lam nhu the nao.Em xin chan thanh cam on!
+Le Thi Trang
+Hồi âm:
+De noi mang 3 may vao 1 hub rat don gian. Ban se theo cac buoc sau day:
+1.Cap mang (thong dung la cap RJ45). Neu dung cho 3 may thi can den 3 soi day (luu y day khong dai qua 100m) 
+2.Connector UTP: 6 cai cho 3 may (dau bam cap).
+3.Bam cap theo chuan T586B (hay goi la chuan B).
+4.Cam card mang vao moi may va cai driver cho Card mang. Cai xong Boot may lai.
+5.Day la phan nghi thuc mang hay con goi la Protocol.
+6.Sau khi ban Boot may lai thi tren Desktop co bieu tuong NetworkNieghborhood va bam chuot phai vao bieu tuong nay va chon Properties. Chon lop Identification, chon o workgroup. Ban go vao ten workgroup (ten nay do ban tu dat va bat buoc ten nay 3 may phai giong nhau.nghia la co cung ten workgroup).
+7.Chon vao lop configuration de Add them TCP/IP va NetBui (neu 1 trong 2 chua co trong lop nay).Chuc ban thanh cong.
+

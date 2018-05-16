@@ -1,0 +1,6 @@
+Xin driver của AVERTV PCI card (1)
+Tôi đang dùng loại card AVERTV của hãng AVERMEDIA để xem và capture TV, loại card có tem trắng + chữ "AVERTV" màu đỏ và không có FM. Vậy xin hỏi ai có dùng loại card như tôi mà còn đĩa DRIVER thì cho tôi copy lại. Cảm ơn đã đọc tin. 
+Tuấn
+Hồi âm:
+Ban vao dia chi nay: www.avermedia.com. Chon phan Select a country: Global (English) hay North America cung duoc, sau do tim driver tuong ung voi he thong va TV card cua ban de download. 
+

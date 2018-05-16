@@ -1,0 +1,5 @@
+Fontal.A biến điện thoại trở nên vô dụng
+Loại Trojan mà hãng bảo mật F-Secure (Phần Lan) vừa phát hiện và công bố có khả năng làm tê liệt các loại điện thoại thông minh Nokia Series 60 dùng hệ điều hành Symbian.
+Khác với những chương trình tấn công điện thoại được phát hiện gần đây như CommWarrior, Fontal.A không phát tán qua kết nối Bluetooth hay tiện ích nhắn tin đa phương tiện MMS. Thay vào đó, nó sử dụng con đường chia sẻ file và chat Internet (IRC).
+Fontal.A tìm cách cài một file lỗi có tên "Kill Saddam By OID500.sis" vào điện thoại mục tiêu. Trong lần khởi động tiếp theo, máy sẽ bị treo và không thể dùng được trừ khi Trojan được loại bỏ. Chương trình tấn công này còn phá hoại công cụ quản lý ứng dụng, ngăn cản việc cài đặt phần mềm mới đồng thời tự bảo vệ bản thân nó để không bị gỡ bỏ (uninstall). Theo F-Secure, cách duy nhất để xử lý chương trình này là format lại máy. Tuy nhiên, làm như vậy có thể mất hết dữ liệu lưu trên thiết bị. Hãng phần mềm an ninh khuyến cáo cách tốt nhất để tránh Fontal.A là đừng tải bất cứ file nào có nguồn gốc không rõ ràng.
+

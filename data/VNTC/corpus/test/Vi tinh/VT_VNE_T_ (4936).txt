@@ -1,0 +1,16 @@
+Bảo mật Windows Vista trước làn sóng virus
+Những mánh khóe thiên biến vạn hóa của hacker và vũ khí bảo mật trong hệ điều hànhWindows thế hệ mới là những gì mọi người tham gia Diễn đàn công nghệ thông tin Microsoft tại Tây Ban Nha tuần này quan tâm nhất.
+Sự an toàn cho Windows Vista là một trong những vấn đề trăn trở nhất đối với hãng phần mềm Mỹ. Hệ điều hành của họ sẽ phải đương đầu với vô số "trận chiến" trực tuyến chống phần mềm nguy hiểm, đơn giản vì nó là mảnh đất mới cho tác giả virus và hacker thử tài.
+Army Roberts, Giám đốc bảo mật công nghệ và doanh nghiệp của Microsoft, cho rằng các ngân hàng trực tuyến vẫn chưa thể hoàn toàn chấm dứt phishingnhưng nhiều tính năng mới trong Vista sẽ giảm khả năng người sử dụng hệ thống bị rơi vào bẫy.
+Một số chuyên gia công nhận Vista đã tiến bộ đáng kể, hoạt động hiệu quản hơn nhưng Marcus Murray, cố vấn bảo mật của TrueSec AB (Mỹ), nhấn mạnh thêm rằng mọi người chớ nên nghĩ tất cả đều hoàn hảo.
+Theo Roberts, một vài tính năng bảo mật đã được đưa vào trong Windows XP Service Pack 2, bao gồm cơ chế bảo vệ thực thi dữ liệu, huy động cả khả năng phần mềm và phần cứng để tránh thiệt hại do những cuộc tấn công từ chối dịch vụ gây ra. 
+Trong khi đó, chương trình chống spyware Windows Defender sẽ kết hợp với Vista thông qua trình duyệtInternet Explorer 7. Ngoài ra, chức năng bảo vệ tài khoản trong Vista cho phép kiểm soát lớn hơn quyền truy cập của mỗi người.
+Trong bài phát biểu "Vì sao tôi có thể hack mạng Windows của bạn trong 1 ngày", Murray đã trình diễn khả năng thâm nhập hệ thống sau khi tải một vài công cụ giao diện đồ họa GUI. Một trong số đó là phần mềm tạo và quản lý Trojan.
+Sau khi tự động cài vào máy tính thông qua con đường e-mail, Trojan cho phép Murray kiểm soát toàn bộ hệ thống và cài một loạt chương trình nguy hiểm khác để thực hiện những công đoạn như dò ký tự bàn phím (key logging). Một cửa sổ pop up ở góc phải phía dưới màn hình máy tính của Murray hiện dòng chữ "Một nạn nhân mới đã xuất hiện". 
+"Ngày nay, gần như bất cứ ai cũng có thể trở thành hacker", ông nói. "Trung bình 10% người sử dụng rơi vào bẫy của e-mail lừa đảo và hơn 70% máy tính đang chạy một loại phần mềm nguy hiểm nào đó". 
+Tuy công nghệ chống virus hoạt động tích cực, nhiều Trojan rất khó để dò tìm. Gần đây, 3 thanh niên người Hà Lan đã bị buộc tội kiếm soát trái phép tới 1,5 triệu máy tính nhờ thủ thuật chuyển đổi sang phiên bản mới ngay khi phần mềm nguy hiểm cũ bị chương trình diệt virus dò ra.
+Những kẻ tạo virus đang quan tâm nhiều hơn đến tài chính chứ không cần chứng minh "sự thông minh" của họ. "Điều này sẽ thay đổi cách chúng ta bảo vệ người sử dụng", Roberts khẳng định. "Nó chẳng dễ chịu chút nào vì bạn sẽ phải luôn chuẩn bị tinh thần đối phó với những nguy cơ tiềm tàng".
+Tuần này, Microsoft cũng khẳng định lại rằng Windows Vista sẽ tương thích HD DVD và không hỗ trợ công nghệ Blu-ray.
+Tập đoàn phần mềm tuyên bố đã nghiêng hẳn về phía Toshiba cho dù ngày càng nhiều những xưởng phim ở Holywood ủng hộ định dạng mà Sony dẫn đầu.
+Tuy nhiên, Microsoft thừa nhận phiên bản Windows Vista đầu tiên không chưa hỗ trợ HD DVD, nhưng công ty sẽ sớm cung cấp định dạng này vào thời điểm thích hợp sau khi Vista ra mắt.
+

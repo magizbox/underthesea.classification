@@ -1,0 +1,12 @@
+Sâu lây nhanh nhất Việt Nam năm 2005 là SoberX
+Trong 3 ngày qua, hệ thống giám sát e-mail của Trung tâm an ninh mạng Đại học Bách khoa Hà Nội (BKIS) qua nhận được 38.000 thư điện tử thì có tới 11.000 thư chứa SoberX. Đây là tỷ lệ lớn nhất từ đầu năm đến nay.
+BKIS cho biết virus W32.SoberX.Worm xuất hiện ở Việt Nam vào sáng ngày 22/11. Ngay sau đó, nó nhanh chóng trở thành một trong những virus lây lan nhanh nhất. "Thống kê trong những ngày qua của chúng tôi cho thấy có tới 30% e-mail ra vào các hệ thống là do SoberX phát tán trên mạng", Giám đốc BKIS Nguyễn Tử Quảng cho biết. "SoberX dùng các e-mail giả mạo để đánh lừa người sử dụng với nội dung yêu cầu thực thi một file đính kèm có tên là 'File-packed_dataInfo.exe'. Đây chính là mã lệnh của SoberX". 
+Các cơ quan bị virus này mạo danh bao gồm: Cục điều tra liên bang Mỹ FBI, Cục điều tra tội phạm liên bang Đức FBCI. Ngoài ra, SoberX đặc biệt nguy hiểm hơn các sâu khác xuất hiện tại VN bởi nó còn "câu kéo" chủ hòm thư bởi việc giả mạo phát tán băng video của Paris Hilton và Nicole Richie, những nhân vật vốn rất được nhiều người biết đến và quan tâm.
+Ông Nguyễn Tử Quảng cũng cho rằng các tác giả virus máy tính gần đây có lẽ do sợ trách nhiệm gây hậu quả quá lớn, nên rất ít khi phá hoại trực tiếp: "Vì trong thời gian ngắn virus có thể lây hàng triệu máy, nếu phá hoại trực tiếp hậu quả sẽ rất kinh khủng nên chúng chủ yếu cố gắng lây lan thật nhiều để quảng cáo, tuyên truyền hoặc cài đặt các chương trình cổng hậu backdoor trên máy của nạn nhân. Một hệ quả của việc này là làm cho đường truyền bị tắc nghẽn, các server có thể rơi vào tình trạng hoạt động không ổn định".Dấu hiệu để nhận biết một email có virus SoberX như sau:
+Tiêu đề (Subject) là một trong những nội dung:
+Your Password Registration Confirmation smtp mail failed Mail delivery failed hi, ive a new mail address You visit illegal websites Your IP was logged Paris Hilton  Nicole Richie 
+Nội dung email có đính kèm 1 file nén .zip có kích thước khoảng 54 KB, với tên là một trong các tên dưới đây:
+reg_pass.zip reg_pass-data.zip mail.zip mail_body.zip mailtext.zip list[các ký tự ngẫu nhiên].zip question_list[các ký tự ngẫu nhiên].zip downloadm.zip 
+Khi mở nén file zip này ra, sẽ thấy file chứa mã virus File-packed_dataInfo.exe. 
+Theo BKIS, nếu nhận được các e-mail có đặc điểm như mô tả ở trên, thì tốt nhất người sử dụng nên xoá ngay nó đi. Nếu lỡ chạy file gửi kèm đó, máy của nạn nhân sẽ bị nhiễm virus. Có thể diệt virus này bằng phần mềm Bkav2006 mới nhất tải từwww.bkav.com.vn.
+

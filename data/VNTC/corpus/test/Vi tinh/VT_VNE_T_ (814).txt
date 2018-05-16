@@ -1,0 +1,8 @@
+Virus mới tiếp tục khai thác lỗi LSASS
+Một bộ 3 loại sâu có tên Korgo.A, B và C đang tận dụng thành công khiếm khuyết trong hệ thống giám sát an ninh nội bộ của Windows. Điều này cho thấy không phải tất cả các máy tính đều đã được vá lỗi sau đợt dịch Sasser vừa qua.
+Nhóm sâu Korgo xuất hiện trong tuần này và giống như Sasser, nó cũng lùng quét trên Internet những máy chưa nâng cấp, xâm nhập và mở cổng hậu. Theo hãng phần mềm an ninh F-Secure (Phần Lan), Korgo - còn được gọi là Padobot - lựa chọn những địa chỉ IP của máy bất kỳ để lây lan và tấn công, tương tự như cách thức mà loại sâu đầu tiên khai thác LSASS đã làm.
+Korgo mở một loạt cổng TCP, trong đó có 113, 445, 2041, 3067 và 6667, sau đó liên lạc với nhiều máy chủ IRC để nhận lệnh và dữ liệu. Một khi đã vô hiệu hóa máy tính, virus có thể cho phép hacker giành toàn bộ quyền kiểm soát hệ thống. 
+Mặc dù loạt sâu mới được hầu hết các công ty an ninh xếp vào loại nguy cơ thấp (Symantec xếp Korgo ở mức 2 trên thang báo động từ 1 đến 5), riêng F-Secure lưu ý rằng Korgo có dấu hiệu ăn cắp thông tin người sử dụng thông qua việc theo dõi hoạt động trên bàn phím. Phân tích của F-Secure còn cho thấy một nhóm hacker Nga có tên Hangup Team có thể là tác giả của Korgo.
+Tuy sự xuất hiện của nhóm virus này mới chỉ là một làn sóng nhỏ, không lan nhanh, nhưng các công ty phần mềm diệt virus khuyến cáo người sử dụng nên đảm bảo việc vá lỗ hổng LSASS trên máy tính chạy Windows NT, 2000, XP và Windows Server 2003.
+Bấm vào tên hệ điều hành mà bạn đang dùng để tải bản sửa lỗi: Windows 2000, Windows XP, Windows Server 2003. Nếu bạn dùng Windows NT thì vào đây để chọn bản vá lỗi phù hợp.
+

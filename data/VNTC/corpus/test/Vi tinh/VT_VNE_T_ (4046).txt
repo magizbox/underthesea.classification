@@ -1,0 +1,8 @@
+IBM giới thiệu phần mềm backup thời gian thực
+'Big Blue' chuẩn bị phát hành một chương trình sao lưu dự phòng(data-backup) được coi là mới nhất và cũng là quy mô nhất trên thị trường bảo vệ dữ liệu hiện nay.
+IBM Tivoli Continuous Data Protection for Files (Cơ chế bảo vệ dữ liệu liên tục Tivoli), dự kiến ra mắt vào 16/9, cho phép người sử dụng tự động sao lưu thông tin theo thời gian thực tới máy tính cá nhân hay laptop, đồng thời gửi thêm một bản sao tới máy chủ công ty từ xa.
+"Hiện nay trên thị trường đã có nhiều sản phẩm có khả năng chụp lại (snapshot) dữ liệu sau mỗi giờ hoặc sau 30 phút, nhưng người sử dụng sẽ phải luận ra xem phần gì đã được lưu và phần gì chưa", Michael Nelson, Giám đốc thông tin On-Demand của IBM, cho biết. 
+Cũng theo Nelson, "những bản chụp snapshot cũng đòi hỏi nhiều dung lượng hơn do nó ghi lại toàn bộ tệp trong khi cơ chế mới chỉ sao lưu những thay đổi cuối cùng của file".
+Nhiều hãng công nghiệp lớn cũng đang có kế hoạch tham gia thị trường mới mẻ này (đi tiên phong bởi Revivio một năm trước đây) trong thời gian tới, nhưng IBM vẫn tin rằng họ có trong tay nhiều lợi thế. "Một điểm mạnh là chương trình được tích hợp trong các sản phẩm Tivoli. Đây là một phần quan trọng trong chiến lược On-Demand (theo yêu cầu) của chúng tôi nhằm mang lại độ tin cậy cao hơn, tiết kiệm chi phí và quản lý dữ liệu hiệu quả cho khách hàng", Nelson khẳng định.
+IBM dự định cung cấp chương trình bảo vệ dữ liệu này với giá 35 USD cho laptop hoặc desktop, và 995 USD đối với thiết bị xử lý máy chủ.
+

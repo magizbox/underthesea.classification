@@ -1,0 +1,5 @@
+ Bị phạt 7,5 triệu USD vì tội tung spyware
+Mặc dù thỏa thuận pháp lý chung cuộc vẫn còn đang được đàm phán nhưng một thỏa thuận như vậy có lẽ đã làm hài lòng bồi thẩm đoàn. Dường như Intermix sẽ phải chi một ngân phiếu trị giá đến 7,5 triệu USD gọi là “phạt vạ” và phải ngưng ngay lập tức hoạt động tung phần mềm gián điệp vào máy khách hàng. 
+Eliot Spitzer, tổng chưởng lý tòa New York đã thụ lý vụ kiện này từ hồi tháng 4-2005. Ông ta cho biết rằng Intermix đã bí mật cài một phần mềm gián điệp vào một chương trình bảo vệ màn hình hết sức hấp dẫn mà công ty này tung ra miễn phí cho khách hàng sử dụng. 
+Phần mềm gián điệp này có tác dụng tự động đưa người dùng đến một trang web quảng cáo của Intermix dù cho người dùng có muốn hay không. Mặc dù đã đưa ra nhiều lý do để bào chữa nhưng đến nay Intermix đã phải ngưng vô điều kiện hoạt động bất hợp pháp đang bị toàn bộ cộng đồng sử dụng máy tính lên án này. 
+

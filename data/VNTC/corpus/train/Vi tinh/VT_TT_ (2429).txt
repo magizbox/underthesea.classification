@@ -1,0 +1,4 @@
+ Quà tặng Euro nhiễm virus
+Theo thông tin của nhiều bạn đọc gọi đến TTO và qua kiểm chứng thực tế thì đĩa CD này đã bị nhiễm virus W95.CIH. Rất may là virus này ra đời đã lâu (từ 3-8-1998) nên chỉ tấn công vào những máy tính sử dụng hệ điều hành Win 95 hoặc Win 98. 
+Thông tin từ Hãng bảo mật Symantec cho biết sau khi lây nhiễm, virus W95.CIH sẽ chiếm dụng bộ nhớ của máy tính (làm cho máy chạy chậm). Để loại bỏ virus này bạn đọc chỉ cần tải file diệt virus (24K) tại địa đây . 
+

@@ -1,0 +1,7 @@
+Real giải phóng iPod khỏi iTunes 
+Hôm qua, hãng RealNetworks đã ra mắt phần mềm Harmony, cho phép người dùng nghe nhạc tải từ kho lưu trữ trên mạng của Real trên iPod cũng như các thiết bị tương thích với Microsoft. 
+Trước đây, máy nghe nhạc iPod chỉ có thể chơi nhạc download từ iTunes, cả hai cùng là sản phẩm của Apple. Nay, với Harmony, người sở hữu iPod đã có nhiều lựa chọn hơn. 
+Theo Real, chương trình Harmony chỉ mô phỏng phần mềm bảo vệ bản quyền của Quả táo và vì vậy không vi phạm quyền sở hữu trí tuệ. Rob Glaser, Giám đốc điều hành của RealNetworks, giải thích: Chúng tôi xây dựng phần mềm này để người tiêu dùng chỉ mua nhạc một lần và chơi ở bất cứ đâu.
+Các kỹ sư của RealNetworks đã sử dụng những thông tin được phổ biến rộng rãi để tìm ra cách thức làm các tập tin của họ tương thích với phần mềm quản lý tác quyền kỹ thuật số (DRM) FairPlay của Apple. Khi người dùng mua bài hát từ tiệm nhạc của Real, Harmony sẽ kiểm tra thiết bị chơi nhạc và chuyển đổi định dạng nếu cần. 
+Apple trước đây từng phản ứng rất dữ dội trước các nỗ lực crack phần mềm DRM của họ và liên tục khước từ những lời kêu gọi nhượng quyền sử dụng chương trình chống sao chép FairPlay. Tuy nhiên, trước động thái mới của Real, hãng chưa có bình luận gì.
+

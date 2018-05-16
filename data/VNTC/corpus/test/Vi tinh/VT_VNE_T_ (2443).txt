@@ -1,0 +1,10 @@
+Gỡ bỏ password (3)
+May cua em la compag. Mot lan em vao cmos va set up password cho power, nhung khong biet lam the nao de bo no di. Vi the, moi lan boot may em phai go password roi computer moi khoi dong de di vao window XP. Phai lam sao de bo password, mong duoc giai dap.
+Son Nguyen
+Hồi âm:
+Ban tim Jump Clear CMOS tren main de reset lai BIOS hoac go pin CMOS ra ngoai mot luc roi lap tro lai. BIOS se duoc reset lai che do Default. Pass da bi xoa. Sau do thiet lap lai BIOS nhu truoc cua ban. 
+Son Tran Thai
+Ban nen doc lai bai viet cu: http://vnexpress.net/Vietnam/Vi-tinh/Kinh-nghiem/2004/08/3B9D56F2/. 
+Tuyet Kha
+Bạn cần tháo pin CMOS ra, đợi khoảng 20 phút rồi gắn trở lại thì Password sẽ được xoá đi. Chúc thành công!
+

@@ -1,0 +1,6 @@
+ Microsoft cập nhật IE 6
+Bản cập nhật này sẽ kiểm soát không cho IE 6 thực thi một số tập lệnh ActiveX, nếu không hoàn toàn được sự cho phép của người dùng. Trên phiên bản cũ, một số lệnh ActiveX sẽ tự động thực thi mà không cần tới sự can thiệp của người dùng, tạo điều kiện cho các Rootkit và mã độc đột nhập vào máy tính. 
+Microsoft cho rằng, bản cập nhật này không liên quan đến việc bảo mật, nó chỉ thay đổi cách thức quản lý và điều khiển một số tập lệnh ActiveX mà thôi. Chính lỗi này dẫn tới hậu quả là một số các bản vá đã được phát hành trong năm 2005. 
+Riêng IE 7 đang trong thời gian thử nghiệm bản beta, và thật sự không phải khắc phục lỗi này. 
+Bạn có thể vào download bản cập nhật tại đây , hoặc sử dụng Microsoft Download Center, Windows Update. 
+

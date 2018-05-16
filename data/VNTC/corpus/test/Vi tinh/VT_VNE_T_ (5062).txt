@@ -1,0 +1,7 @@
+Intel có thể sẽ từ bỏ thương hiệu Pentium 
+Khi hãng sản xuất chip số một thế giới chính thức ra mắt thương hiệu "Intel Core" vào tháng 7/2007, họ có lẽ sẽ đánh dấu sự chấm dứt của dòng Pentium quen thuộc. 
+Tạp chí PCWatch (tiếng Nhật) cho biết, theo những lộ trình mới nhất mà Intel công bố, chip Meron và Conroe theo công nghệ 65 nm cho thiết bị di động và desktop sẽ ra mắt vào quý III/2006. Cả hai được xây dựng dựa trên cấu trúc chip thế hệ mới của Intel, bao gồm nhân tố then chốt của Pentium M hiện nay và những tính năng nhất định trong cấu trúc NetBurst của Pentium IV.
+Cấu trúc mới tập trung vào khả năng vận hành theo watt hơn là theo mã lực. Meron có khả năng tiêu thụ điện ít hơn Conroe, tương tự như hiện nay, Intel cung cấp dòng điện năng thấp song song với dòng chip có mức tiêu thụ chuẩn cho thiết bị xử lý Pentium M.
+Intel Core sẽ được phân loại theo mẫu E, T, L hoặc U tùy thuộc vào khả năng tiêu thụ điện. Meron nằm trong chip Intel Core T hoặc U (dưới 49 watt) trong khi Conroe thuộc lớp Intel Core E (trên 50 watt). 
+Meron và Conroe có khả năng cũng sẽ được phát hành với phiên bản đơn lõi.
+

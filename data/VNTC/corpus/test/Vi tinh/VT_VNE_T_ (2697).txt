@@ -1,0 +1,6 @@
+Vấn đề với máy Compaq Armada M700 (1)
+Toi moi mua mot may tinh laptop Compqa M700, 1000 MZ , 192 MB Ram , 10 GB dia cung .... Toi dang dung Windows XP SP2Toi gap phai 2 van de sau mong duoc su giup do cua cac ban.1) sau khi da calibrate battery, nhung thong tin ve thoi gian su dung cua Pin khong duoc chinh xac.2) khi chay bang pin ( khong cam dien), thinh thoang may tinh toi rat cham, vao muc system information, toi thay toc do cua CPU khogn on dinh ( luc thi 1000 MZ, luc thi chi 700, co khi chi con 400), sau khi restar thi moi viec on dinh. Toi muon hoi, nhu vay la do Pin co van de, hay CPU co van de ? Toi dung HP Windows Dianogist de check he thong thi moi thu deu "PASS".Rat mong nhan duoc tra loi cua cac ban.
+Dang Tat Thang
+Hồi âm:
+Đối XP S2 bạn cần có tối thiểu 256MB RAM máy chạy chậm không hẳn là pin hay CPU vì sau khi restart thì máy chạy ổn định lại bạn hảy xem lại các ct nào chạy ẩn hay không ( back ground running ) hay spy ware, bạn nhấn tổ phím CTRL+ALT+DELETE trên bảng process bạn sẻ nhìn thấy, trong XP có những service không cần thiết mà bạn cần tắt bớt để giử sự ổn định cho CPU và RAM. đối với laptop khi sử dụng pin không qua nguồn điện thì không nên chơi game, web cam, hay chat để bảo vệ pin được sử dụng lâu dài. khi sử dụng HP dianogist để test trên Compag điếu ấy chỉ áp dụng trên chiếc máy chuẩn (standard) mà thôi.. 
+

@@ -1,0 +1,8 @@
+ Các bộ chipset bus 800 ?
+- Về cơ bản, ba chipset này không khác nhau. Chúng đều chạy CPU Pentium 4 bus 800, có công nghệ siêu phân luồng Hyperthreading Technology (HT), hỗ trợ bộ nhớ DDR400, chuẩn Serial ATA-150, USB 2.0... 
+Tất nhiên, với định hướng người dùng khác nhau, ba chipset này cũng có những đặc điểm, chức năng không giống nhau. 
+Chipset i875P (tên mã Canterwood) cao cấp nhất, hiện đại nhất. Đây là chipset chỉ dành cho Pentium 4, chỉ hỗ trợ hai bus hệ thống 800/533 và hai loại DDR400/333, cho phép cấu hình bộ nhớ là Dual-Channel hay Single-Channel và gắn tối đa 4GB DDR. Đặc biệt nó có công nghệ mới Intel Performance Acceleration Technology (Intel PAT) giúp tăng tốc hệ thống lên nhanh hơn nhờ giảm thời gian trễ của bộ nhớ. Công nghệ “turbo” này tạo lực đẩy đặc biệt cho hệ thống phụ bộ nhớ giúp tối ưu hóa toàn hệ thống. 
+Gia đình chipset i865 (tên mã Springdale) gồm ba loại i865G (có tích hợp VGA on-board), i865P và i865PE. Các chipset này chạy được cả Pentium 4 lẫn Celeron Socket 478. Nó hỗ trợ các bus hệ thống 800/533/400, các bộ nhớ DDR400/333/266. Các chức năng khác giống như i875P, ngoại trừ không có công nghệ Intel PAT. 
+Còn chipset i848P thì cơ bản giống như i865P. Cái khác là nó chỉ hỗ trợ mode bộ nhớ Single-Channel và chỉ cho phép gắn tối đa 2GB DDR. 
+Tùy theo nhu cầu và khả năng tài chính, bạn có thể chọn cho mình một mainboard có chipset tương ứng. Trong ba chipset nói trên, thành công nhất là i865. Đây cũng chính là chipset bus 800 không quá đắt, không quá rẻ, nhưng có nhiều khả năng nâng cấp hơn i848. 
+

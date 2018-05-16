@@ -1,0 +1,11 @@
+Sóng điện thoại di động gây biến đổi gene
+Một nghiên cứu của các nhà khoa học châu Âu phát hiện thấy sóng radio của điện thoại di động có thể gây hại cho tế bào người và làm đứt nhiễm sắc thể, gây biến đổi gene.
+Hiện trên thế giới có khoảng 1,5 tỷ người đang dùng ít nhất một chiếc điện thoại cầm tay. Nhiều nhà khoa học đã nhận định rằng sóng từ những thiết bị liên lạc này có thể gây hại đối với sức khỏe.
+12 nhóm chuyên gia từ 7 quốc gia châu Âu đã tiến hành tìm hiểu tác động của sóng điện thoại di động tới tế bào của cơ thể người và động vật trong một công trình kéo dài 4 năm có tên Reflex. Các nhà khoa học cho tế bào tiếp xúc với trường điện từ do sóng radio của điện thoại di động tạo ra, sau đó quan sát sự biến đổi cấu trúc của chúng dưới kính hiển vi.
+Các chuyên gia chọn chỉ số SAR (Specific Absorption Rate) - chỉ số đo tỷ lệ hấp thu năng lượng sóng điện thoại ở các mô - để lượng hóa tác động của sóng đối với tế bào. Theo Ủy ban về sóng điện từ không ion hóa thì giới hạn của SAR đối với cơ thể người là 2W/kg. Sóng điện thoại sử dụng trong nghiên cứu có chỉ số SAR từ 0,3 đến 2W/kg. Hầu hết các điện thoại hiện nay đều phát ra tín hiệu radio SAR trong khoảng từ 0,5 đến 1W/kg.
+Các nhà khoa học nhận thấy, sau khi tiếp xúc với trường điện từ, các tế bào có dấu hiệu đứt sợi nhiễm sắc ADN. Đây là dạng tổn thương mà tế bào không thể khắc phục được.
+"Tổn thương này vẫn duy trì cho đến các thế hệ tế bào tương lai", tiến sĩ người Đức Franz Adlkofer, trưởng nhóm nghiên cứu, cho biết.
+Khi sợi nhiễm sắc bị đứt, tế bào bị thay đổi cấu trúc. Các công trình nghiên cứu trước đây đã chứng minh rằng tế bào bị biến đổi ADN có thể gây ung thư.
+Do công trình mới chỉ được tiến hành trong phòng thí nghiệm nên các chuyên gia chưa tìm ra mối liên hệ giữa sóng điện thoại di động với một căn bệnh cụ thể nào đó. Tuy nhiên, họ cho biết sẽ tiến hành nghiên cứu thêm để làm rõ vấn đề này.
+Trước đó, các công trình nghiên cứu về tác động của sóng điện thoại cầm tay đối với sức khỏe đã phát hiện thấy loại sóng này thật sự có nhiều ảnh hưởng xấu tới cơ thể sống. Chẳng hạn, nó làm tăng nhiệt độ các mô, gây đau đầu và buồn nôn. Nhưng chưa có công trình nào chứng minh được rằng trường điện từ xung quanh điện thoại di động có tác hại lâu dài đối với sức khỏe.
+

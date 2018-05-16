@@ -1,0 +1,7 @@
+ Samsung giới thiệu màn hình LCD dẻo lớn nhất
+Màn hình mới có chức năng tương tự như màn hình tinh thể lỏng (LCD) dùng cho TV và sổ tay, nhưng với một khác biệt quan trọng. Thay vì chứa các lớp nền thủy tinh, màn hình này có một lớp nền bằng plastic mềm dẻo, cho phép nó có thể được uốn cong. Plastic không gãy khi được uốn cong, và tính mềm dẻo của nó mở đường cho việc chế tạo màn hình màu mềm dẻo. 
+Lọai màn hình mới với độ phân giải 640 pixel x 480 pixel, có bề mặt gấp đôi một nguyên mẫu khác được giới thiệu hồi tháng giêng. 
+Màn hình mềm dẻo dựa vào tiến trình chế tạo ở nhiệt độ thấp đối với đèn bán dẫn, không tan chảy hoặc biến dạng lớp nền bằng plastic. 
+Nhiều kỹ thuật khác nhau nhắm trở thành tiêu chuẩn cho việc chế tạo màn hình mềm dẻo và tiêu thụ ít năng lượng sẽ được tìm thấy nơi nhiều thiết bị tiêu dùng. Philips và E Ink đang nghiên cứu một loại màn hình trong đó các micro đen trắng nhỏ xíu được gắn trong mặt trái màn hình nhằm tạo ra lời nói. Không giống như LCD, màn hình của E Ink không cần hiển thị chiếu sáng lưng và do đó tiết kiệm năng lượng hơn. Sony đã dùng màn hình này cho sách điện tử. 
+Trong khi đó, các công ty khác ca tụng điốt phát sáng hữu cơ (OLEDs) cũng tiêu thụ ít năng lượng hơn LCD. 
+

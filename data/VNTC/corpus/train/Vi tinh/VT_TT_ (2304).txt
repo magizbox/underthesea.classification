@@ -1,0 +1,5 @@
+ Kiểm tra máy tính cho bạn
+HWiNFO32 nhỏ gọn nhưng có đầy đủ tính năng “test” máy tính của bạn. Chương trình sẽ hiển thị thông tin chi tiết về tất tần tật những thứ hiện có trên máy của bạn như CPU, bộ nhớ, mainboard, ổ đĩa, card mạng… 
+Những thông tin này rất hữu ích nếu bạn muốn biết rõ hơn về “cục cưng” PC của mình. Ngoài ra, nó còn có khả năng test máy và so sánh máy của bạn với các bộ máy khác (chức năng benchmark). Bạn có thể xuất thông tin ra file LOG, CSV hay XML. 
+Phiên bản mới nhất của HWiNFO32 là 1.59, tương thích với Windows NT/2000/XP/Server 2003, bạn có thể tải bản dùng thử 14 ngày tại website http://www.hwinfo.com hay tìm mua các đĩa CD phần mềm tổng hợp có bán ngoài thị trường. 
+

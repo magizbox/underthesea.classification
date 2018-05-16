@@ -1,0 +1,7 @@
+ Nén file hiệu quả với TugZip
+TugZip có thế nén file hoặc thư mục theo tất cả những định dạng nén như: ZIP, YZ11, TGZ, TAR, SQX, LHA (LZH), CAB, 7-ZIP, BZ2 và giải nén cho những định dạng nén như: ZIP, 7-ZIP, A, ACE, ARJ, BZ2, CAB, CPIO, DEB, GCA, GZ, IMP, LHA (LZH), LIB, RAR, RPM, SQX… Ngoài ra, TugZip còn hỗ trợ mã hóa dữ liệu theo các chuẩn nén mã hóa an toàn nhất cho file nén hiện nay như Rijndael (128 bit, 192 bit, 256 bit), Triple DES 168 bit, DES 56 bit và Blowfish 128 bit. 
+Điều đặc biệt nữa là TugZip còn có một số công cụ hỗ trợ quét virus trước khi nén hoặc giải nén, nó cũng có các công cụ sửa chữa file nén bị hư hoặc tạo file nén tự động. 
+Cách nén và giải nén file hoặc thư mục trong TugZip cũng vô cùng dễ dàng. Bạn chỉ việc dùng chuột click vào thư mục hoặc file cần nén hoặc giải nén, sau đó click chuột phải để chọn các phương pháp nén trong menu xổ ra. Một cái độc đáo khác của TugZip là nó có khả năng “gói” toàn bộ những file cần nén vào một file tự động giải nén (Self-extractor) có dạng tênfilenén.EXE. Khi kích hoạt file này là toàn bộ nội dung nén sẽ được tự động giải nén mà không cần bất kỳ chương trình hỗ trợ giải nén nào. 
+Ngoài ra, người dùng cũng có thể sử dụng TugZip như là một công cụ quản lý tập tin và thư mục rất hữu hiệu, hệt như công cụ Windows Explorer. 
+TugZip là chương trình miễn phí có dung lượng khoảng 3,7MB và tương thích với mọi Windows. Người dùng có thể vào đây để tải bản TugZip 3.4.0.0 mới nhất về dùng hoặc tìm mua tại các cửa hàng phần mềm. 
+

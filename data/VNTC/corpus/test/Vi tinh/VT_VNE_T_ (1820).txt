@@ -1,0 +1,7 @@
+Sâu Cellery phát tán cùng game Tetris
+Hãng bảo mật Sophos (Anh) cho biết virus này giả dạng là một phiên bản của trò chơi xếp hình cổ điển kiểu Nga để che dấu quá trình nó lây lan qua mạng.
+Cellery - được đặt tên theo thông điệp Chancellery (Chức Thủ tướng Đức, Áo) khi virus phát tán - gây ra một số thay đổi trong cài đặt Windows để nó có thể tự động chạy mỗi lần hệ điều hành khởi động. Khi trò chơi Tetris trên máy được sử dụng, virus sẽ chạy một điệu nhạc dạng file MIDI và tìm kiếm các máy tính khác trong mạng để xâm nhập.
+Cellery dùng game làm tấm bình phong che dấu việc nó nhảy từ máy này sang máy khác, chuyên gia Graham Cluley của Sophos cho biết. Nếu nhân viên một doanh nghiệp có thói quen chơi trò Tetris trên máy tính nối mạng, mọi người có thể tưởng đây là một bản game mới được cài đặt.
+Cellery không phải là virus đầu tiên cho phép máy tính bị lây nhiễm chơi game. Trước đây từng có các loại như Bibrog giả dạng game bắn súng, hay loại Coconut, do nữ hacker khét tiếng người Bỉ Gygabyte thiết kế, cho người sử dụng máy tính chơi trò ném dừa.
+Mặc dù mới chỉ có một số không nhiều máy tính bị nhiễm Cellery, Sophos khuyến cáo người sử dụng nên kiểm tra nâng cấp phần mềm an ninh để đề phòng
+

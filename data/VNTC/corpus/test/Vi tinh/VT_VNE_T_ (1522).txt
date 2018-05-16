@@ -1,0 +1,13 @@
+iCMS thừa nhận copy mã nguồn nước ngoài
+"Chúng tôi đã sai và chúng tôi nợ ông Fraser (tác giả CMSNET) một lời giải thích và xin lỗi nghiêm túc", Nguyễn Anh Tuấn, đại diện iCMS, tuyên bố với các thành viên của website diendantinhoc.com, sáng nay. 
+iCMS khẳng định, họ sẵn sàng xin lỗi ông Fraser và xin phép ông với những điều kiện ông đưa ra để sử dụng CMS.NET như 1 nền cơ bản để xây dựng phần CMS của iCMS.
+Nhóm iCMS giải trình về các thành phần của phần mềm cùng tên như sau:
+CMS (quản trị nội dung) - Viết bằng C# trên nền .NET. 
+Spider (khai thác và phân tích thông tin tự động) - Viết bằng Delphi. 
+Offline Client (Đọc tin ngoại tuyến) - Viết bằng Delphi.
+Theo iCMS, phần quản trị nội dung của họ được xây dựng dựa theo cuốn sách Real World ASP.NET: Building a Content Management System của tác giả Stephen R. G. Fraser. Sách này có kèm theo 1 CD mẫu (sample code) là CMS cơ bản do tác giả viết ra có tên CMS.NET. Hai phần còn lại do nhóm tự viết.
+Việc iCMS sử dụng mã nguồn nước ngoài nhưng không khai báo được Nguyễn Anh Tuấn giải thích như sau: "CMS.NET thực chất là 1 đoạn sample code của tác giả kèm theo quyển sách nói trên. Trong quyển sách này cũng như trong source code của CMS.NET, không có ghi chỗ nào về việc phải xin phép tác giả là code này được bảo vệ bởi GNU GPL. Lúc đó chúng tôi nghĩ rằng, đây không phải là phần mềm mã nguồn mở và chúng tôi có thể dùng mẫu này để phát triển lên mà không cần xin phép tác giả. Lúc chúng tôi dự thi TTVN 2003, chúng tôi cũng đã khai báo với BTC về nguồn gốc này".
+Có thể tham khảo phần trả lời của nhóm iCMS trên diendantinhoc.com tại đây.
+iCMS cho rằng họ không vi phạm luật GNU GPL vì: "Thời điểm CMS.NET được đưa lên SF.NET và được bảo vệ bởi luật GNU GPL là 11/9/2003 và phiên bản 1.0 được phát hành vào ngày 2/10/2003. Thời điểm này iCMS đã đi vào hoạt động từ lâu".
+Trả lời VnExpress, một thành viên của nhóm iCMS vẫn khẳng định họ không hề copy, chỉ "tham khảo" một phần trong sách của tác giả CMS.NET mà thôi.
+

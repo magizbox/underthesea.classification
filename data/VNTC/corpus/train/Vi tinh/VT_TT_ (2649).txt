@@ -1,0 +1,6 @@
+ Yahoo News hỗ trợ Blogs
+Không giống như Google News hiển thị chỉ mục khoảng 5000 nguồn blog và chỉ hỗ trợ tiếng Anh, Yahoo News chọn lọc và các liên kết được hiển thị thông qua các biên tập viên chứ không sử dụng các “robot” săn tin tự động như Google News. 
+Nhưng theo cách thức này, Yahoo cũng thừa nhận rằng có thể sẽ mất đi hoặc không cập nhật kịp thời những tin tức nóng. 
+Yahoo News cho hiển thị các kết quả thu được bằng cách đánh chỉ mục hàng ngàn các website thường xuyên cập nhật tin tức đều đặn. Khi người dùng tìm kiếm với một từ khóa, Yahoo không chỉ hiển thị những liên kết, mà còn hiển thị luôn những blog có liên quan. 
+Hiện tại, dịch vụ vẫn còn trong giai đoạn thử nghiệm và giới hạn số lượng blog nhưng mục tiêu của Yahoo sẽ là 20 triệu địa chỉ blog cho dịch vụ này. Yahoo cũng hiển thị các hình ảnh và liên kết của người dùng thường xuyên cập nhật blog của họ. 
+

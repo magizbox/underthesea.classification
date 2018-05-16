@@ -1,0 +1,6 @@
+ Google bị kiện ăn cắp mã nguồn 
+Đơn kiện cáo buộc kỹ sư của Google có tên Orkut Buyukkokten đã ăn cẵp mã nguồn từ công ty cũ Affinity Engines (nguyên đơn) để tạo ra site mạng xã hội Orkut của Google. Đơn kiện cũng cáo buộc rằng Buyukkokten đã từng cam kết sẽ không phát triển một dịch vụ mạng cạnh tranh khi rời bỏ Affinity Engines để gia nhập Google. 
+Affinity Engines đang tìm kiếm một khoản bồi thường chưa xác định về những thiệt hại và bản quyền công nghệ từ Google. Phát ngôn viên Google David Krane khẳng định có vụ kiện này, nhưng cho biết Orkut không chứa bất kỳ một đoạn mã nguồn phần mềm nào của Affinity Engines. 
+Giám đốc điều hành Affinity Enginesm, ông Brian Samuels đã khẳng định về việc đâm đơn kiện của công ty mình rằng: ''Chúng tôi nghĩ rằng đơn kiện tự khẳng định tính đúng đắn của nó, và chúng tôi rất tin tưởng vào những giá trị pháp lý trong vụ kiện của mình''. 
+Google đã tung ra dịch vụ Orkut vào tháng 1 vừa qua như một site mạng xã hội, cùng thể loại dịch vụ với các dịch vụ phổ biến như Friendster và Tickle. Các site mạng tạo quan hệ xã hội đã trở nên phổ biến vì chúng cho phép người dùng có thể tạo ra các cộng đồng trực tuyến để mọi người tương tác và gặp gỡ nhau. 
+

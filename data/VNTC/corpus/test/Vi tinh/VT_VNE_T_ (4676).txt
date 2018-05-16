@@ -1,0 +1,6 @@
+Chuyển vùng từ mạng CDMA sang GSM
+Công ty Roamware (Mỹ) vừa sản xuất một cổng mới IRG, cho phép người sử dụng điện thoại di động chuyển sang mạng GSM trong khi vẫn giữ nguyên số CDMA.
+Tuy nhiên, cổng chuyển vùng IRG đòi hỏi người dùng CDMA phải có thẻ sim GSM trên một điện thoại GSM, hoặc điện thoại hai chế độ GSM - CDMA.
+Khả năng nhận dạng tuyến cuộc gọi (CLI) sẽ được ẩn đi khi một thuê bao CDMA gọi điện trong mạng GSM. Họ cũng có thể nhận và gửi tin nhắn SMS khi chuyển vùng. Khách hàng sẽ chỉ phải nhận một hóa đơn bao gồm cả những chi phí cho cuộc gọi từ mạng GSM.
+Người sử dụng CDMA có thể mở rộng khả năng chuyển vùng từ 18 đến 100 nước trên toàn thế giới. Hai nhà cung cấp dịch vụ di động ở Ấn Độ và Bangladesh đang triển khai IRG và công ty Roamware cũng đang tìm kiếm thêm đối tác tại Mỹ.
+

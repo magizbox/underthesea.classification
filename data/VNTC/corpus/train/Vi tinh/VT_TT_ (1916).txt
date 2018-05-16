@@ -1,0 +1,32 @@
+ Những sản phẩm thiết yếu năm 2004 (Phần III)
+Nó là một kết hợp hài hoà giữa thiết kế trang nhã và các chức năng hoạt động cao cấp. Bảng MediaPad có một màn hình LCD để hiển thị các track đang chơi, cùng với các phím bấm để điều khiển nhạc và video. Sản phẩm có giá 250 USD. 
+Bộ định tuyến và cổng nối: Netgear WGT624 108 MBPS Wireless Firewall Router 
+Nhờ công nghệ G đã được tăng tốc có khả năng đẩy dữ liệu với tốc độ 108 megabit/giây - gấp đôi tốc độ của chuẩn 802.11g - thiết lập đơn giản và khả năng làm việc cao là tính năng nổi bật của WGT624. Hơn nữa, các tính năng bảo vệ sự riêng tư và bảo mật của nó rất xuất sắc. Sản phẩm có giá 85 USD. 
+Trình duyệt Web: Opera 7.23 
+Opera 7.23 là một gói sản phẩm đa chức năng cung cấp những phương pháp mới mẻ để duyệt, phân tích và lưu trữ các trang Web. Các tùy chọn bảo mật của Opera rất mạnh và dễ định cấu hình. Bản beta của phiên bản 7.5 cũng tỏ ra đầy triển vọng. Hơn nữa, nó được cung cấp miễn phí (Có quảng cáo, nếu muốn gỡ bỏ quảng cáo, bạn phải trả thêm 39 USD). 
+E-Mail: Microsoft Office Outlook 2003 
+Một số người dùng có thể coi các tính năng phong phú của Outlook như một kiểu “giết gà dùng dao mổ trâu”. Tuy nhiên, trình quản lý thông tin cá nhân này thật tuyệt vời, đặc biệt là với các công ty. Bộ lọc spam của phiên 2003 loại bỏ hầu hết thư quảng cáo trong các thử nghiệm. Sản phẩm có giá 85 USD. 
+Hệ điều hành: Apple Mac OS X Panther 10.3 
+Giao diện đẹp và khả năng làm việc đáng tin cậy của Panther gây ấn tượng rất tốt. Hãng Apple xứng đáng được khen ngợi nhờ đóng góp rất lớn của họ trong việc tăng cường sức mạnh cho hệ điều hành. Hy vọng rằng, Microsoft sẽ nỗ lực học hỏi trong khi xây dựng hệ điều hành Windows mới. Sản phẩm có giá 129 USD. 
+Công cụ tìm kiếm: Google 
+Các công cụ tìm kiếm khác đã buộc Google phải tăng tốc để duy trì vị thế hàng đầu. Mặc dù vậy, cho tới nay, chưa công cụ nào qua mặt được Google về sự chính xác và phong phú. Sản phẩm được miễn phí hoàn toàn. 
+Ứng dụng độc lập: Novatix ExplorerPlus 
+ExplorerPlus khiến Windows Explorer trở nên lu mờ, nhờ các tính năng như bộ duyệt file gắn trong, những công cụ quản lý dữ liệu và các khung nhìn folder dọc hoặc ngang. Giá của sản phẩm: 40 USD. 
+Bộ trình tiện ích: V Communications SystemSuite 5 
+SystemSuite 5 bao gồm tính năng “thăm bệnh” ổ cứng, một trình gỡ bỏ các phần mềm đã cài đặt, một trình phục hồi dữ liệu bị mất, cùng các công cụ thực dụng khác. Tất cả được đưa chung vào một đĩa CD. Tuy nhiên, một số ứng dụng trong gói sản phẩm này thua kém những chương trình độc lập do V Communications sản xuất. Giá: 60 USD. 
+Quản lý tài chính cá nhân: Microsoft Money 2004 Premium 
+Các dịch vụ tiền tệ miễn phí (chẳng hạn dịch vụ thanh toán hoá đơn trong 2 năm) cùng với những công cụ tài chính xuất sắc khiến chương trình này qua mặt đối thủ truyền kiếp Intuit's Quicken. Sản phẩm có giá 80 USD. 
+Kế toán doanh nghiệp: ACCPAC Simply Accounting 2004 Pro 
+Với giá 99 USD, Simply Accouting hầu như không có đối thủ nhờ công cụ ký thác trực tiếp và khả năng tích hợp dễ dàng với Excel. 
+Phần mềm chống virus: Trend Micro Internet Security 2004 
+Có giá 49 USD, PC-cillin bỏ xa các sản phẩm cùng loại về khả năng loại bỏ các file bị lây nhiễm. Giao diện gọn gàng của nó cho phép người dùng truy cập các thành phần một cách dễ dàng. 
+Tường lửa: Zone Labs ZoneAlarm Pro 4.5 
+Tiếp tục tạo ra tiêu chuẩn mới về firewall, ZoneAlarm Pro ngăn chặn hầu hết thư đến và thư đi có mang virus, quản lý cookie và chặn quảng cáo pop-up. Sản phẩm có giá 50 USD. 
+Bộ lọc thư rác: Cloudmark SpamNet 
+SpamNet có tỉ lệ chặn spam thành công 98% và khả năng kỳ lạ cho phép thư hợp pháp đi qua. Bạn có thể tích hợp nó vào Outlook, hòm thư POP3, IMAP hay ứng dụng email chạy trên Web. Phí: 4 USD/ tháng. 
+Phần mềm bảo vệ sự riêng tư: AT&amp;T Privacy Bird 
+Privacy Bird tăng cường mức độ riêng tư của bất kỳ trang web nào. Tại những site mà nó bảo vệ thông tin của bạn, biểu tượng chú chim có màu xanh êm dịu, tại những site được dựng lên để bán dữ liệu của bạn, chú chim chuyển sang màu đỏ giận dữ. Sản phẩm miễn phí. 
+Quét phần mềm gián điệp: Spybot Search &amp; Destroy 
+Search &amp; Destroy vét sạch những phần mềm gây phiền toái trong máy tính giống như ta nạo những con hàu bám ở đáy thuyền. Sản phẩm miễn phí hoàn toàn. 
+Còn nữa 
+

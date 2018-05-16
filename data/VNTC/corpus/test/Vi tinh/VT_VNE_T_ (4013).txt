@@ -1,0 +1,6 @@
+Lỗi nghiêm trọng mới trong PHP
+Một lỗ hổng bảo mật có nguy cơ ảnh hưởng lớn đến giao thức web service phổ biến PHP và tạo điều kiện cho tin tặc kiểm soát toàn bộ những máy chủ lỗi.
+Lỗ hổng xuất hiện trong XML-RPC cho PHP và PEAR XML_RPC, liên quan một loạt ứng dụng web, đặc biệt các blog và phần mềm quản lý nội dung dựa trên PHP. Hacker có thể tận dụng phương pháp tương tự như đã từng thực hiện với những lỗi trước đâybằng lệnh eval(). Nhóm Hardened-PHP (Mỹ) cho biết: Để loại bỏ mối đe doạ này cũng như những khả năng lây nhiễm của eval() trong tương lai, chúng tôi đang xây dựng bản nâng cấp cho cả hai chương trình để hoàn toàn loại bỏ nguy cơ khi sử dụng eval().
+Hệ thống gọi thủ tục từ xa như XML-RPC sử dụng HTTP nhằm tăng sức mạnh cho Web service. Đây là phương pháp đơn giản và ngày càng phổ biến trong việc cung cấp dịch vụ trực tuyến. XML-RPC cho PHP, còn gọi là PHPXMLRPC, và PEAR XML_RPC là những chương trình vận hành XML-RPC cho ngôn ngữ scripting PHP, mặt trong nhiều ứng dụng quan trọng như PostNuke, Drupal, b2evolution và TikiWiki.
+Phiên bản PEAR XML_RPC 1.4.0 đã giải quyết lỗi này và có thể được tải trên website của PEAR. Người dùng cũng được phép tải PHPXMLRPC 1.2 trên trang dự án của chương trình.
+

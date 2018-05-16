@@ -1,0 +1,7 @@
+Vẽ sơ đồ 'dấu vân tay' cho tài liệu 
+Thay vì tập trung vào lĩnh vực chữ ký số hay sinh trắc học, các chuyên gia tại trường Đại học đo lường Anh đã tìm ra một phương pháp kiểm tra tính xác thực của những tài liệu bằng giấy.
+Sử dụng hiện tượng quang học đốm laser, các nhà nghiên cứu đã rà soát bề mặt, vẽ sơ đồ từ những chi tiết nhỏ nhất trong hầu hết các tài liệu. Họ xem xét cấu trúc của nhiều bề mặt khác nhau bằng một tia laser hội tụ và và ghi nhận cường độ phản ánh, từ đó xây dựng dấu vân tay của riêng chúng. 
+Phương pháp này áp dụng trên nhiều loại vật liệu từ thẻ nhựa, chứng minh thư, giấy gói hàng&, thậm chí cả trước và sau khi chúng bị nhúng vào nước hoặc đốt cháy, và ghi nhận sự khác biệt của mỗi mẫu. 
+Trưởng nhóm nghiên cứu Russell Cowburn, giảng viên về về công nghệ nano tại khoa Vật lý, cho biết: Kết quả của chúng tôi mở ra một hướng tiếp cận mới đơn giản mà hiệu quả trong việc xác thực tài liệu. Hệ thống đảm bảo tới mức ngay cả những người phát minh ra nó cũng khó có thể crack được vì chưa có quy trình nào từ trước đến nay có khả năng sao chép từng chi tiết bề mặt với mức độ chính xác theo yêu cầu.
+Giáo sư Cowburn đang trao đổi với hãng công nghệ Ingenia (Anh) để phát triển sáng chế này.
+

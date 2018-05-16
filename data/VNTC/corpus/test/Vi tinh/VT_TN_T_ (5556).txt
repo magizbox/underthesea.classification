@@ -1,0 +1,24 @@
+- Mở một file ảnh mới ở chế độ màu RGB- Tô đen layer Background bằng cách nhấn phím D- Chọn Edit - Fill - Foreground Color- Nhấn phím X để chọn foreground là màu trắng
+- Nhấn phím T để chọn công cụ Type Tool và nhập văn bản (hình 1)
+- Trong bảng Layer, nhấn giữ phím Ctrl và Click vào layer văn bản để tạo vùng chọn xung quanh văn bản
+- Chọn Select - Save Selection và đặt tên cho kênh là Black (hình 2)
+- Trong bảng Channel, click vào channel Black và kéo thả xuống ô New Channel để tạo ra bản sao của kênh này. Double click vào kênh này và đặt tên White (hình 3)
+- Chọn Select - Modify - Expand, với thông số là 3 pixel
+- Nhấn Ctrl + D
+- Chọn Filter - Blur - Gaussian Blur, với thông số: Radius: 3 pixel (hình 4, 5)
+- Trong bảng Channel, click vào channel White và kéo thả xuống ô New Channel để tạo ra bản sao của kênh này. Double click vào kênh này và đặt tên Yellow
+- Chọn Select - Modify - Expand, với thông số là 5 pixel
+- Tô trắng vào vùng chọn từ kênh này
+- Nhấn Ctrl + D
+- Chọn Filter - Blur - Gaussian Blur, với thông số: Radius: 5 pixel
+- Trong bảng Channel, click vào channel Yellow và kéo thả xuống ô New Channel để tạo ra bản sao của kênh này. Double click vào kênh này và đặt tên Green
+- Chọn Select - Modify - Expand, với thông số là 10 pixel
+- Tô trắng vào vùng chọn từ kênh này
+- Nhấn Ctrl + D
+- Chọn Filter - Blur - Gaussian Blur, với thông số: Radius: 10 pixel
+- Trong bảng Layer, xóa layer chứa văn bản
+- Chọn Select - Load Selection, trong hộp thoại ở ô Channel chọn green và tô vùng chọn này với màu xanh lá cây sáng (hình 6)
+- Tương tự lệnh trên, ở ô Channel chọn yellow và tô vùng chọn này với màu vàng sáng
+- Tiếp tục, chọn white và tô vùng chọn này với màu trắng, chọn black và tô vùng chọn này với màu đen
+- Ta được kết quả như hình 7.
+

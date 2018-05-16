@@ -1,0 +1,8 @@
+Tốc độ đường truyền đạt 6,25 GB/giây
+Trong nỗ lực hướng tới thế hệ Internet băng rộng tốc độ cao hơn, một nhóm nghiên cứu của Viện Công nghệ California Mỹ (Caltech) phối hợp với Viện CERN (Thụy Sĩ) đã lập một kỷ lục mới về tốc độ truyền dữ liệu qua Abilene, mạng xương sống của tổ chức Internet 2.
+Các nhà khoa học của 2 trung tâm nghiên cứu đã truyền thành công dữ liệu qua khoảng cách gần 11.000 km với tốc độ nói trên. Kết quả này nhanh hơn gần 10.000 lần so với thông lượng băng rộng mà các hộ gia đình đang sử dụng hiện nay. 
+Được công bố hôm qua tại Hội nghị thành viên Internet 2 tại Arlington, Virginia (Mỹ), kỷ lục mới cho thấy những nỗ lực thúc đẩy tốc độ đường truyền đang diễn ra rất mạnh mẽ. Internet 2 là một nhóm gồm trên 200 trường đại học đang phối hợp với giới công nghệ và chính phủ các nước để phát triển mạng thông tin toàn cầu thế hệ mới.
+Trước đây, Caltech và CERN từng lập kỷ lục đường truyền 4 GB trên một khoảng cách tương tự từ Los Angeles tới Geneva, sử dụng giao thức mới IPv6. Trong khi đó, tốc độ 6,25 GB/giây nói trên sử dụng giao thức hiện hành IPv4.
+CERN cho biết điều này sẽ đóng góp rất nhiều vào việc phát triển mạng lưới tính toán (grid) phục vụ cho các nghiên cứu khoa học đòi hỏi nguồn tài nguyên cao và trước mắt chưa thiết thực ngay cho người sử dụng gia đình băng rộng.
+Theo Harvey Newman, giáo sư vật lý tại Caltech, những nghiên cứu gần đây cho thấy trong khoảng 10 năm nữa, các ngành như vật lý năng lượng cao, vật lý học thiên thể, năng lượng hỗn hợp, khí hậu học, tin-sinh học và nhiều lĩnh vực khác sẽ cần đến những mạng máy tính có khả năng truyền dữ liệu với tốc độ terabit/giây (1 terabit bằng 1 nghìn tỷ bit).
+

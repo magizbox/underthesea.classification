@@ -1,0 +1,8 @@
+Windows 2000 vẫn thống lĩnh thị trường
+Gần một nửa máy tính doanh nghiệp vẫn chạy trên Windows 2000, một hệ điều hành "già" của Microsoft, khiến hãng phần mềm này quyết định mở rộng hỗ trợ bắt đầu từ cuối tháng 6 này.
+Thị phần của Windows 2000 chỉ giảm khoảng 4% bằt đầu từ quý I/2003, và hiện nay vẫn chiếm tới 48% trong khi XP chỉ đạt 38% -phần lớn là do những người không dùng Windows 95, 98 và ME chuyển sang.
+"Windows 2000 đã đạt được thành công đến mức đáng kinh ngạc", Steve O'Halloran, Giám đốc điều hành Trung tâm nghiên cứu AssetMetrix (Canada), đã thốt lên sau khi tổng kết hơn 150.000 máy tính ở 250 công ty khác nhau.
+Microsoft đã quyết định "từ bỏ" Windows 2000, tuy nhiên hãng sẽ bắt đầu giai đoạn "Gia hạn hỗ trợ" (ES), nhưng chỉ cung cấp bản vá lỗi cho những công ty ký mở rộng hợp đồng, và sẽ chính thức chấm dứt hệ điều hành này vào 30/6/2010.
+"Sẽ không phải là vấn đề quá lớn cho các doanh nghiệp kể cả khi ES có hiệu lực", O'Halloran nói. "Nhưng đây sẽ là lời 'nhắc nhở' đối với những công ty vẫn đang đầu tư vào Windows 2000. 5 năm là khoảng thời gian đủ dài để chuyển đổi toàn bộ hệ thống".
+"Hệ điều hành sau của Microsoft thường có tuổi thọ dài hơn hệ điều hành trước. Windows 98 kéo dài 8 năm, trong khi Windows 2000 là 10,5 năm còn XP sẽ vẫn tiếp tục hành trình của mình đến năm 1014 (12 năm)", O'Halloran nhận xét. "Có lẽ hãng phần mềm này sẽ phải hỗ trợ choLonghorn một thời gian tương đối dài, bởi như chúng ta đã thấy, càng sử dụng và phát triển, những hệ điều hành này càng khó bị đào thải".
+

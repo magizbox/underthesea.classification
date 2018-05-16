@@ -1,0 +1,5 @@
+Firefox 1.1 sẽ ra mắt vào tháng 5
+Theo Mozilla Foundation, bản cập nhật quan trọng của trình duyệt Internet mã nguồn mở rất phổ biến này đang trong giai đoạn cuối cùng của quá trình phát triển và sẽ trình làng vào cuối tháng sau với nhiều tính năng mới. 
+Bên cạnh việc xử lý các lỗi đã xuất hiện, Firefox 1.1 còn chứa các công cụ dành riêng cho người dùng máy Mac của Apple, mở rộng khả năng quản lý cài đặt và tăng cường các hàm khắc phục lỗi cùng một số tính năng mới như Bandwidth Tester, cho phép kiểm tra tốc độ kết nối Internet hay SwitchProxy, giúp máy tính định hình trong môi trường hoạt động có nhiều proxy server. 
+Hiện tại, đã có khoảng 44 triệu lượt người dùng tải trình duyệt miễn phí này về máy tính để cài đặt và sử dụng.
+

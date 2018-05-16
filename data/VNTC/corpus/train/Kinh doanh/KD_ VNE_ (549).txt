@@ -1,0 +1,7 @@
+Giá USD leo cao, giá vàng tụt thấp
+Tiếp tục đà khởi sắc hôm qua, giá đôla Mỹ sáng nay leo tới mức cao nhất trong 3 tháng so với yen Nhật và gần 1 tháng so với euro. Diễn biến này có lúc đã kéo tụt vàng xuống gần 390 USD/ounce, giảm hơn 6 USD.
+AddVote(1000145293,0,131210413,'','Năm nay, USD có về mức ngang giá so với euro?','#FFFFFF','#800000','100%',3, new Array(new Array('Có',30,0),new Array('Không',50,1),new Array('Không quan tâm',11,2)),'',1)
+Vào lúc này, 1 euro đang dao động quanh ngưỡng 1,244 USD còn đôla Mỹ đang ăn tới 109,60 yen. Theo các chuyên gia, phản ứng của thị trường càng chứng tỏ tin đồn Ngân hàng Trung ương châu Âu hạ lãi suất đồng tiền chung vào tuần tới là hoàn toàn có cơ sở. Vì vậy, rất có khả năng đồng đôla Mỹ sẽ tìm lại sức mạnh của mình trên thị trường tài chính, tiền tệ thế giới. Thậm chí, nhiều người dự báo, chỉ trong phiên cuối ngày hôm nay 1 USD sẽ ăn tới 110 hay tới 113 yen.
+Diễn biến thị trường kim loại quý ngày càng trầm lắng khi mà giá vàng liên tiếp sụt giảm. Đêm qua, có lúc vàng tụt xuống mức thấp nhất trong vòng 3 tháng: 390,50 USD. Tại sàn giao dịch New York vào lúc này, các hợp đồng giao ngay đang được ký ở mức 394,30 USD/ounce, giảm hơn 2 USD so với hôm qua.
+Trong nước, các công ty kinh doanh đồng loạt hạ giá bán xuống dưới 790.000 đồng/chỉ. Riêng SJC tại Hà Nội, mức niêm yết sáng nay là 773.000-783.000 đồng/chỉ, giảm 9.000 đồng/chỉ so với hôm qua.
+

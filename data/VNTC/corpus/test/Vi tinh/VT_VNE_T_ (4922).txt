@@ -1,0 +1,6 @@
+Công nghệ hỗ trợ khôi phục mật khẩu
+Hãng Computer Associates (CA) vừa giới thiệu chương trình Identity Manager, công nghệ quản lý nhận dạng và quyền người sử dụng mua lại từ công ty Netegrity (Mỹ), nhằm khôi phục những mật khẩu bị quên trên desktop.
+Một trong những chức năng của CA Identity Manager là khả năng quản lý password "tự phục vụ". Nếu quên mật khẩu, người sử dụng có thể nhập lại password mới miễn là họ nhớ câu trả lời cho một câu hỏi bí mật. Phương pháp này dựa trên công nghệ nhận dạng và xác thực đồ họa GINA tích hợp trong Windows.
+CA ước tính hiện nay cứ 5 cuộc gọi đến văn phòng hỗ trợ công nghệ thông tin lại có một liên quan đến việc yêu cầu khôi phục lại mật khẩu. Nghiên cứu của tổ chức Burton (Mỹ) gần đây cũng cho thấy trung bình mỗi người tiêu tốn khoảng 25 - 50 USD cho những cuộc gọi hỗ trợ, do đó các doanh nghiệp sẽ tiết kiệm đáng kể chi phí nếu họ có thể giảm khối lượng cuộc gọi. 
+CA Identity Manager, sử dụng nền tảng tích hợp của công ty để giản lược quản lý bảo mật trên diện rộng, được trình diễn trong hội thảo CA World diễn ra tại Las Vegas ngày 16/11.
+

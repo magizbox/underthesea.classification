@@ -1,0 +1,8 @@
+Mỗi ngày xảy ra một đợt tấn công virus mạng IM
+Người sử dụng đã nhận thức rõ về nguy cơ lây nhiễm chương trình nguy hiểm khi bấm vào một đường link qua e-mail, nhưng việc hạn chế tình trạng này trong hệ thống tin nhắn nhanh (IM) không phải dễ.
+Virus bắt đầu lây lan qua những file gửi từ IM.
+Virus rồi sẽ không thể tìm ra con đường sống trong e-mail, nhưng chúng đang di cư sang IM ngày một đông", Francis Costello, Giám đốc kỹ thuật của hãng nghiên cứu Akonix (Mỹ), nói. Số sâu IM trong quý I năm nay là khoảng 40, tăng gấp đôi so với toàn bộ năm 2004, nhưng con số ấy vẫn chỉ bằng 1/4 quý II với gần 170 trường hợp".
+Virus IM tấn công khách hàng sử dụng dịch vụ tin nhắn nhanh bằng cách rà soát danh sách bạn bè trong tài khoản chat nào đó. Tiếp theo, nó gửi một thông điệp, nội dung thường là Hehe, tớ vừa kiếm được một bộ phim cực hay :), hoặc Xem thử cái ảnh này đi kèm một kết nối chứa mã độc.
+Một số sâu lai có thể phát tán đồng thời qua cả hai mạng tin nhắn nhanh và chia sẻ ngang hàng P2P, ví dụ như sâu Win32.VB và Bropia. Tháng 8 là tháng của virus Kelvir.HI với trình độ ngoại ngữ siêu hạng khi nó có thể phát tán dưới 10 phiên bản ngôn ngữ khác nhau. Còn riêng trong tháng 9, Akonix đã ghi nhận thêm 7 phiên bản mới của Mete, Simbag& Tính trung bình, các mạng IM đang phải chịu một đợt tấn công hàng ngày với thủ đoạn tuy thô sơ nhưng hiệu quả.
+Để bảo vệ mình, người sử dụng cần cài chương trình diệt virus theo thời gian thực và cảnh giác trước mọi đường link. 
+

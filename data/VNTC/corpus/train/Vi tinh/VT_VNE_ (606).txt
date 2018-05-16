@@ -1,0 +1,7 @@
+92 triệu địa chỉ AOL bị ăn cắp
+Nhà chức trách Mỹ vừa bắt giữ một nhân viên của hãng dịch vụ trực tuyến này và một đồng phạm khác với tội danh ăn cắp dữ liệu của 30 triệu khách hàng (tương đương với số địa chỉ nói trên) để bán cho những đối tượng gửi spam.
+Công tố viên David Kelley hôm nay công bố 2 kẻ bị bắt giữ là Jason Smathers, kỹ sư lập trình của AOL, và một nhân vật có tên Sean Dunaway, người Las Vegas. Hai tên này bị cáo buộc đã lấy toàn bộ danh sách thuê bao của AOL và sử dụng để gửi số lượng thư quảng cáo không mời cực lớn tới những địa chỉ bị ăn cắp.
+Vụ này là một trong những trường hợp đầu tiên được đưa ra xử theo quy định của luật chống spam CAN-SPAM mà Mỹ thực thi từ tháng Giêng năm nay. Hồ sơ vụ án cho biết tháng 5/2003, Smather đã sử dụng kỹ năng máy tính của mình để biển thủ 92 triệu ID của khách hàng (gắn liền với địa chỉ e-mail). Sau đó, Dunaway mua lại danh sách này và rồi bán tiếp cho giới spammer với giá 52.000 USD, để dùng vào việc phát tán quảng cáo thuốc tăng kích cỡ dương vật. Dunaway sau đó lại mua một phiên bản nâng cấp của danh sách này với giá 100.000 USD và tiếp tục bán.
+Spam hiện là một mảnh đất kiếm tiền rất màu mỡ vì những đối tượng phát tán thông điệp không mời có thể thu khối tiền chỉ cần một tỷ lệ rất nhỏ trong hàng triệu người đọc e-mail quyết định mua những sản phẩm mà quảng cáo giới thiệu.
+Cả Smather và Dunawway sẽ có thể chịu mức án lên tới 5 năm tù và nộp phạt 250.000 USD hoặc gấp đôi, tùy theo mức độ thiệt hại mà vi phạm của họ được xác minh.
+

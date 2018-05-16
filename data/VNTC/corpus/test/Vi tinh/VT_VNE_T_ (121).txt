@@ -1,0 +1,6 @@
+Nhận biết webserver nào sử dụng IIS (1)
+Xin cho tôi hỏi là phải làm thế nào để nhận biết đưọc webserver nào là sử dụng IIS. Tôi xin cảm ơn. 
+Ngọc Dũng
+Hồi âm:
+Don gian ban chi can dung mot chuong trinh Scan binh thuong la co the nhan biet duoc. VD: Esstential Network Tool 3.2 hoac Net-tools.Neu biet dung NAMP hoac Netcat thi cang tot!
+

@@ -1,0 +1,4 @@
+Kết nối wireless Internet không ổn định
+Em đang dùng máy tính laptop IBM R32, việc dùng wireless internet không ổn định. Lúc đầu thì dùng tốt, mấy hôm sau thì lúc chạy được, lúc nó dừng. Em không biết máy đang bị virus hay bị lỗi phần cứng. Cũng có thể em chưa biết dùng. Các anh chị có thể khuyên giúp được không? Trong trường hợp trạm phát (hub phát sóng) khoá bậc mã thì có dùng được không?
+nguyen van nhan
+

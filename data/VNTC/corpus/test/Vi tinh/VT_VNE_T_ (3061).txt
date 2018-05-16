@@ -1,0 +1,7 @@
+Tạo recovery CD-R bằng phần mềm DriveImage (1)
+Chào các bạn. Tôi có 1 Laptop Fujitsu OS tiếng Nhật. Vì tôi đã làm mất bộ Recovery CD gốc của máy nên bây giờ tôi không thể recovery lại máy được. Rất mong bạn nào có kinh nghiệm sử dụng Drive Image hướng dẫn dùm cách tạo bộ Recovery bằng phần mềm này. Nếu tôi cài lại máy bằng OS tiếng Anh thì sẽ không có driver cho các chức năng của máy. Xin chân thành cảm ơn.
+Nguyễn Lục
+Hồi âm:
+Dau tien ban can co cd Hirent's boot cd 6 (mua duoc bat cu taitiem ban cd nao). Sau do khoi dong lai may va boot = CD(hirent's Boot CD6) va 2 chon muc so 2 (disk clone...). Chon tiep muc DriveImage. Khi man hinh DriveImage hien ra ban chon chuc nang Create Image va chon next. Sau do ban chon Drive chua he dieu hanh(Drive souce thuong la Drive C:) va ban check vao do va chon next.
+Viec ke tiep la ban chon noi ma ban cat ban Image . Neu banco CD RW thi ban chon toi do va go ten file Image va ban muon.Dua cd trang vao Drive CDRW va ok. Chuong trinh Drive Image se tien hanh ghi truc tiep len CD cua ban cho toi khi xong. Sau nay can ban chi viec khoi dong may = cd nay va lam theo huong dan cua chuong trinh DriveImage la ban Restore lai nguyen trang. Trong mail khong the noi chi tiet hon duoc, neu can ban lien he truc tiep voi toi theo dia chi mail nay, toi se huong dan ban ti my hon, hoac theo Skype name : nam-hai-vsfc. Chuc ban thanh cong.
+

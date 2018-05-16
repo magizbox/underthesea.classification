@@ -1,0 +1,5 @@
+Biến điện thoại di động thành server web không dây
+Với một phần mềm cảm ứng do Nokia phát triển, người dùng thiết bị liên lạc di động có thể tạo ra các trang web cá nhân trên điện thoại với đầy đủ text, đồ họa và trao đổi các nội dung đó với máy khác thông qua kết nối Bluetooth.
+Chương trình cảm ứng mang tên Nokia Sensor cho phép chia sẻ file và các trang web trong phạm vi kết nối tối đa 10 mét. Sau khi người sử dụng download ứng dụng này về , họ sẽ nhận được những mẫu làm sẵn để xây dựng trang web cá nhân của mình. Marika Kojo, phát ngôn viên của Nokia, phát biểu: Đây là một phương thức hoàn toàn mới và miễn phí trong việc liên lạc giữa những người dùng điện thoại trong cùng một phạm vi nhất định.
+Nokia Sensor chỉ tương thích với các sản phẩm của hãng này, trong đó có các model 3230, 6260, 6600, 6620, 6630, 6670, 6680, 6681, 6682 và 7610. Download và xem demo chương trìnhtại đây. 
+

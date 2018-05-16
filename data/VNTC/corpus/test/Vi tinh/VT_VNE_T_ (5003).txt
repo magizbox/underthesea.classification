@@ -1,0 +1,8 @@
+Mỗi lần khởi động PC lại check disk (2)
+Máy tính của tôi không hiểu sao gần đây khởi động đều check ổ D(tôi cài WinXP ở ổ C). Mặc dù đã để máy thực hiện quá trình check disk xong thì lần sau nó vẫn check tiếp. Xin giúp tôi bỏ quá trình này với. (Đã kiểm tra ổ cứng và không thấy bad sector nào). Lúc trước cũng bị một lần phải format ổ D thì mới hết (cài lại Win vẫn không hết).
+Nguyễn Nam Du
+Hồi âm:
+Bạn có thể xem thông tin về vấn đề này ở website của Microsoft - KB831426:http://support.microsoft.com/default.aspx?scid=kb;en-us;831426.
+Tuan Nguyen
+Không biết ổ D cuả bạn phân vùng theo định dạng nào? Nếu là FAT32 bạn thử convert sang NTFS xem sao. Máy tôi trước đây cũng thường xuyên bị trường hợp này, nhưng là ở ổ C và nó check disk tất cả các ổ đĩa chứ không riêng gì 1 ổ nào đó.
+

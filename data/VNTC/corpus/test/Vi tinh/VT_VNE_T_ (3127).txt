@@ -1,0 +1,11 @@
+Tháng 5 là tháng của virus Sober
+Báo cáo tình hình virus 31 ngày qua của hãng bảo mật Anh Sophos cho thấy phiên bản Sober.N đã vượt qua sâu Zafi.D (giữ vị trí số1 suốt năm tháng qua) để đứng đầu nhóm 10 chương trình tấn công phổ biến nhất.
+Virus e-mail song ngữ Anh - Đức Sober.N được phát hiện đầu tháng 5, phát tán mạnh bằng cách giả dạng thông báo mua vé World Cup 2006 và nhanh chóng lây lan ra 40 quốc gia, chiếm tới 4,5% tổng lượng e-mail toàn cầu vào thời điểm cao trào.
+Sober.N đã trở thành vụ bùng phát virus lớn nhất tính đến thời điểm này của năm nay, chuyên gia Carole Theriault của Sophos phát biểu. Sâu e-mail này phát tán nhanh nhờ thủ đoạn lừa đảo đánh vào tâm lý háo hức tham dự sự kiện bóng đá lớn nhất hành tinh tổ chức tại Đức vào năm tới, khiến người nhận mail mở file đính kèm.
+Phiên bản Sober.Q, được tung ra vài tuần sau đó, săn lùng những máy tính đã nhiễm bản N và chuyển thể những PC này thành công cụ phát tán thư rác với nội dung tuyên truyền bầu cử và tinh thần phát-xít mới.
+Tháng 5 cũng chứng kiến sự xuất hiện của một cái tên mới trong Top 10: Mytob.AZ. Đây cũng là loại sâu phát tán e-mail số lượng lớn, đi kèm với một phần mềm Trojan mở cổng hậu, cho phép các chương trình khác xâm nhập máy tính mục tiêu, Theriault cho biết. Chỉ chiếm có 1,6% tổng số vụ lây nhiễm mà chúng tôi ghi nhận nhưng Mytob.AZ thực sự là một phần mềm đáng lo ngại vì mức độ nguy hiểm mà nó gây ra cho các doanh nghiệp.
+Trong tháng qua, Sophos đã phát hiện thêm 1.515 virus mới, nâng tổng số phần mềm tấn công mà họ xử lý đến nay lên 104.784. Khảo sát của hãng bảo mật Anh cũng cho thấy, trung bình trong tháng 5, cứ 38 e-mail lưu thông trên Internet thì 1 có chứa virus. Tỷ lệ này cao hơn đôi chút so với tháng 4.
+10 virus nguy hiểm nhất tháng 5/2005 (trong ngoặc là tỷ lệ thông báo mà Sophos nhận được):
+1. Sober.N (43,8%)2. Zafi.D (14,5%)3. NetSky.P (13,1%)4. NetSky.D (3,1%)5. Zafi.B (2,0%)6. Mytob.AZ (1,6%)7. Mytob.Z (1.5%)8. NetSky.Z (1.5%)9. Mytob.E (1,5%)10. NetSky.N (1,4%)
+Các loại khác: 16%.
+

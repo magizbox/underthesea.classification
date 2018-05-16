@@ -1,0 +1,7 @@
+Máy chủ chạy trên nền Linux của HP
+Hãng máy tính Mỹ vừa bổ sung dòng server ProLiant sử dụng bộ xử lý AMD Opteron vào danh mục các hệ thống liên máy chủ tính năng cao chạy trên nền tảng mã nguồn mở. 
+Loạt máy chủ liên cung HPC Cluster LC tạo giá trị và khả năng linh hoạt cao hơn cho những khách hàng muốn giảm chi phí xây dựng và duy trì các hệ thống liên máy chủ đáng tin cậy, dễ quản lý và hỗ trợ nhằm phục vụ các ứng dụng điện toán. Những hệ thống này được bổ sung 3 sản phẩm mới gồm: LC 1000 series - máy chủ ProLiant DL140 chạy bộ xử lý Intel Xeon, LC 2000 series - máy chủ ProLiant DL360 sử dụng Intel Xeon, và LC 3000 series - máy chủ ProLiant DL145 chạy chip AMD Opteron. 
+HP đồng thời giới thiệu máy chủ chuẩn ngành ProLiant DL585 kết hợp công nghệ xử lý AMD Opteron, khả năng quản lý tiên tiến và các tính năng hoạt động vượt trội dành cho khách hàng đảm trách những khối lượng công việc khổng lồ cần khai thác đến máy tính. 
+James Mouton, Phó chủ tịch bộ phận nền tảng phần cứng thuộc Nhóm máy chủ chuẩn ngành của HP, khẳng định: "Với dòng máy chủ liên cung mới và việc tung ra thị trường ProLiant DL585, chúng tôi tạo thêm nhiều lựa chọn hơn cho các doanh nghiệp và những khách hàng có nhu cầu về điện toán tính năng cao, giúp họ dễ dàng mua và khai thác những thế mạnh của các dòng máy chủ ProLiant chạy bộ xử lý AMD Opteron".
+ProLiant DL585 được bán với giá khởi điểm là 8.299 USD. Các hệ thống thuộc dòng LC dựa trên máy chủ ProLiant DL145 có giá 67.829 USD.
+

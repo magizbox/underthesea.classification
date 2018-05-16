@@ -1,0 +1,7 @@
+Sharp trình làng máy xách tay mỏng và nhỏ
+Chiếc laptop sử dụng bộ vi xử lý Efficeon mới nhất của hãng Transmeta sẽ lần đầu tiên được bán ở Mỹ và Nhật Bản từ tháng 4. Actius MM20 được hãng Sharp công bố hôm 16/3.
+Terry Hanly, Giám đốc marketing sản phẩm của Sharp Systems - một bộ phận thuộc Sharp Electronics, cho biết Actius MM20 là phiên bản kế tiếp của MM10 - sử dụng chip Crusoe cũ của Transmeta tiết kiệm điện năng nhưng khả năng xử lý dữ liệu thấp. Bộ xử lý Efficeon TM8600 đã khắc phục được nhược điểm này và duy trì ưu điểm. Thử nghiệm mới nhất của Sharp cho thấy Efficeon có thể xử lý nhanh gấp 1,4 lần so với Crusoe.
+Sharp cũng tăng tốc độ xử lý của MM20, nặng chưa đến 1 kg, bằng PC2100 (266 MHz) DDR SDRAM. Sản phẩm có bộ nhớ 512 MB, tăng từ 256 MB của MM10.
+Thời lượng pin chuẩn của model này là 3 tiếng. Một pin ngoài sẽ cho phép máy hoạt động liên tục trong 6 giờ. Cấu hình cơ bản của MM20 là chip Efficeon 1 GHz, 512 MB bộ nhớ, ổ cứng 20 GB và màn hình 10,4 inch. Sản phẩm có giá 1.499 USD. 
+Bà Hanly cho biết hãng chưa có kế hoạch xuất MM20 sang châu Âu. 
+

@@ -1,0 +1,9 @@
+WiMax sẽ không khai tử mạng 3G 
+Sự kiện Nokia tuyên bố phát triển WiMax cho điện thoại khiến không ít người thắc mắc liệu có phải hãng này không còn quan tâm đến công nghệ 3G. Tuy nhiên, nhà sản xuất Phần Lan khẳng định hai công nghệ này sẽ cùng tồn tại song song.
+Nokia quả quyết rằng kế hoạch phát triển mạng tốc độ cao không dây trên diện rộng WiMax với Intel không có nghĩa là hãng quay lưng lại chuẩn di động 3G bởi trên thực tế, 3G sẽ hỗ trợ đắc lực cho Wimax và không thể hình thành một dịch vụ thay thế nó, theo lời Simon Beresford-Wylie, Phó giám đốc điều hành của Nokia.
+Beresford-Wylie cho biết Nokia quyết định hợp tác cùng Intel vì hãng nhận thấy WiMax là một phương tiện truyền/nhận dữ liệu quan trọng, nhưng sẽ chỉ hoạt động hiệu quả tại những nơi có dịch vụ 3G điều phối lưu thông.
+Nokia đã công bố kế hoạch chi thiết để tăng tốc độ truyền dữ liệu qua mạng di động lên tới ít nhất 14 Mb/giây. Bước đầu, họ sẽ bắt tay vào việc tối ưu hóa chuẩn 3G hiện tại (384 Kb/giây), để cuối năm nay, tốc độ 1 - 2 Mb/giây cho điện thoại sẽ chính thức hoạt động tại nhiều khu vực. Tiếp đó, khi 3G và WiMax đã cùng tồn tại, hãng sẽ phát triển giải pháp nâng tốc độ lên 14 Mb/giây.
+Nokia cũng đang có kế hoạch tích hợp công nghệ radio riêng biệt cho một số ứng dụng cụ thể, như công nghệ HSDPA (High Speed Downlink Packet Access), cung cấp khả năng tải dữ liệu xuống khoảng 8 - 10 Mb/giây trong cùng một mạng với dịch vụ 3G. Hiện nay có khoảng 21 điểm HSDPA đang hoạt động trên toàn thế giới.
+Tháng 3 vừa qua, Nokia đã giới thiệu công nghệ DSUPA (High Speed Uplink Packet Access), với tốc độ tải lên là 5,7 Mb/giây, chủ yếu phục vụ đối tượng chơi game trực tuyến. DSUPA sẽ được sử dụng rộng rãi vào cuối năm nay hoặc đầu 2006.
+Những công nghệ này này đang trên đà phát triển để hình thành một chuẩn mới mang tên 3.9G, dự kiến sẽ hoàn tất vào giữa năm 2007, cho phép tải dữ liệu về với tốc độ khoảng 100 Mb/giây và tải lên là 50 Mb/giây.
+

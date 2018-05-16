@@ -1,0 +1,3 @@
+ Kiểm tra giấy phép lái ô tô 
+Đợt đầu sở sẽ tiến hành kiểm tra giấy phép lái xe của các tài xế xe buýt. Doanh nghiệp vận tải xe buýt sẽ phải photo giấy phép lái xe của các tài xế, nộp lên Trung tâm quản lý điều hành vận tải hành khách công cộng để xác minh. Sau các tài xế xe buýt sẽ kiểm tra đến các tài xế xe khách liên tỉnh. 
+

@@ -1,0 +1,6 @@
+IBM cải tiến công nghệ tăng tốc độ chip ĐTDĐ
+"Big Blue" vừa ra mắt chip 8HP thế thệ 4 sử dụng chất bán dẫn germanium mang tên SiGe BiCMOS cho thiết bị không dây và di động. IBM khẳng định công nghệ sẽ mang lại những sản phẩm giá rẻ với khả năng cải tiến.
+SiGe BiCMOS, 130 nm, có tốc độ 200 GHz, nhanh gấp hai lần so với chip trước đó. Chip SiGe hiện tại là 180 nm.
+Công nghệ 8HP hỗ trợ nâng cao khả năng hoạt động và giảm mức tiêu thụ năng lượng của điện thoại di động và các thiết bị không dây khác. 8HP đã được sử dụng trong hệ thống an toàn cho ôtô, rađa cảnh báo va chạm, chip Wi-Fi 60 GHz trong mạng không dây, và thiết bị chuyển đổi bộ tiếp nhận sóng tốc độ cao... Tuy nhiên, công nghệ này đẩy giá thành sản phẩm nên khá cao, do đó không được phổ biến rộng rãi.
+"Chất bán dẫn germanium đang ảnh hưởng ngày càng nhiều đến các ứng dụng và sản phẩm dân dụng thế hệ mới", Bernie Meyerson, kỹ sư trưởng của IBM, cho biết. "IBM lần đầu tiên giới thiệu công nghệ này năm 1989, cho phép sản xuất chip với khả năng vận hành máy tính cao. Nhiều năm qua, SiGe đã cách mạng hoá ngành công nghiệp vô tuyến với sự có mặt trong hàng triệu thiết bị. Riêng thế hệ thứ 4, SiGe BiCMOS, sẽ hỗ trợ kết nối không dây ở mức độ toàn cầu".
+

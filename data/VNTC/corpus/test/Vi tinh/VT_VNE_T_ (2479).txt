@@ -1,0 +1,8 @@
+Phần mềm phán đoán từ dựa trên lệnh gõ
+Người sử dụng chỉ cần đánh mấy chữ cái đầu và chương trình sẽ giúp máy tính đưa ra phần còn lại của từ ngữ. Sản phẩm của hãng WordLogic (Canada) có giá 25 USD nếu tải trên mạng và 50 USD nếu mua kèm USB.
+Giao diện Predictive Keyboard.
+Ứng dụng mang tên Predictive Keyboard về cơ bản cố gắng phán đoán những gì mà người sử dụng đang gõ bằng cách phân tích một hoặc hai lệnh gõ đầu tiên, sau đó đưa ra câu trả lời khả thi nhất. Khi người sử dụng tiếp tục đánh, sự lựa chọn của từ sẽ thu hẹp dần, tạo ra từ phù hợp nhất trong số các lựa chọn trên cửa số trên giao diện.
+Nhiều ứng dụng xử lý văn bản bằng tiếng Anh hiện nay cũng có khả năng hoàn tất từ khi người dùng đang gõ nhưng sự lựa chọn không nhiều. Predictive Keyboard đi kèm với một từ điển 31.000 từ và cụm từ, đồng thời cho phép người sử dụng chủ động bổ sung thêm. 
+Phần mềm này được thiết kế dành cho những người có khó khăn về hoạt động chân tay hoặc mắc chứng khó đọc (dyslexia) khi đánh máy. Sản phẩm còn được nhà cung cấp tiếp thị cho người không dùng Anh ngữ như tiếng mẹ đẻ. Máy tính của người Trung Quốc đã dùng những phần mềm tương tự nhiều năm nay. Tiếng Hoa có vài nghìn ký tự nhưng bàn phím thì lại bằng tiếng Anh. Vì thế, người sử dụng gõ một vài chữ cái tiếng Anh và phần mềm sẽ hiển thị những gì mà nó cho rằng người dùng muốn gõ. 
+Tải bản dùng thử phần mềm Predictive Keyboard ở đây.
+

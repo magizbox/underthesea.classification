@@ -1,0 +1,6 @@
+Lỗi ở Win32 (1)
+Chào anh chị. Gần đây máy Laptop của tôi (IBM T30, P4 và tôi dùng Window XP Professional pack 2) khi khởi động, có xuất hiện dòng chữ: "Generic Host Process for Win32 Services encountered a problem and needed to close". Vậy anh chị nào biết thì chỉ dùm tôi với. Tôi xin cảm ơn!
+Pham Manh Hung
+Hồi âm:
+Trước nhất bạn nên tìm xem máy có bị nhiễm virus BLAST hay không? thứ nhì gần đây bạn có cài đặt thêm gì không? khi cài XP pro sp2 đa số drive cho các thiết bị sẽ bị loại bởi XP. Khi xuất hiện dòng chứ đó Win thường có kèm theo tên của những chương trình nào tạo ra nguyên nhân bạn hày nhớ lại xem. Bạn có thể vào đây để IBM tự update cho bạn. tìm xuống phần new software installer.http://www-307.ibm.com/pc/support/site.wss/document.do?lndocid=SOFT-UPDATE.
+

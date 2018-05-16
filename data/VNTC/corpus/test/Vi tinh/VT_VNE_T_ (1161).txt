@@ -1,0 +1,10 @@
+Mỹ chuẩn bị xử vụ kiện spyware đầu tiên
+Ủy ban Thương mại Liên bang Mỹ (FTC) hôm qua đã khởi kiện các công ty bị cáo buộc cài đặt phần mềm gián điệp vào máy tính người dùng rồi sau đó gạ bán giải pháp cho họ. Đây là lần đầu tiên tại Mỹ những kẻ gieo rắc spyware phải hầu tòa.
+Theo lời buộc tội của FTC, các công ty Seismic Entertainment Productions, Smartbot.Net và Sanford Wallace đã bí mật làm nhiều máy tính bị lây nhiễm những phần mềm không mời có tính năng tung lên màn hình vô số quảng cáo pop-up. Tiếp đó, thủ phạm gửi đến các nạn nhân các thông điệp cảnh báo, khuyến nghị họ mua phần mềm Spy Wiper hoặc Spy Deleter với giá 30 USD.
+FTC khẳng định, phía bị đơn đã thực hiện nhiều can thiệp bất minh: thay đổi trình duyệt của người tiêu dùng, cài đặt phần mềm quảng cáo và nhiều chương trình khác, cưỡng bách họ mua chương trình diệt virus.
+FTC đề nghị tòa án quận New Hampshire ra lệnh tạm ngừng hoạt động với số công ty nói trên, đồng thời yêu cầu những hãng này bồi thường cho người tiêu dùng. Các yêu cầu khác bao gồm:
+-Cấm bị đơn xuất bản, phát tán hoặc phân phối mã phần mềm, lệnh script hoặc bất kỳ nội dung nào khác thông qua Internet, web và các nơi khác.
+-Buộc bị đơn xóa bỏ mã khai thác các lỗ hổng của trình duyệt từ mọi site, trang web và những địa điểm khác.
+-Buộc bị đơn cung cấp các tài liệu liên quan đến công việc tiếp thị trên Internet của họ.
+Trong tuần này, Hạ viện Mỹ đã thông qua hai dự luật sẽ đặt spyware ra ngoài vòng pháp luật. Luật Ngăn chặn spyware (Internet Spyware Prevention Act) sẽ trao cho Bộ Tư pháp 10 triệu USD làm kinh phí hoạt động để chống lại những công ty và cá nhân bí mật cài phần mềm gián điệp vào máy tính người tiêu dùng và những kẻ chuyên dùng e-mail để lừa nạn nhân cung cấp thông tin cá nhân, thông tin tài chính. Cũng theo dự luật này, bất kỳ ai bị phát hiện cài đặt spyware để thay đổi thiết lập bảo mật của máy tính hoặc ăn cắp thông tin cá nhân của nạn nhân có thể bị xử tới 2 năm tù giam. Dự luật còn lại ấn định những khoản tiền phạt lớn đối với việc sử dụng spyware.
+

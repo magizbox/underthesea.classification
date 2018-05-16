@@ -1,0 +1,5 @@
+Thái Lan sắp lập Trung tâm mã mở châu Á
+Hiệp hội mã nguồn mở Thái Lan đang lên kế hoạch thành lập một trung tâm thúc đẩy sự hợp tác, đồng thời đặt ra những chuẩn mực chung cho giới lập trình nguồn mở trong khu vực.
+Tiến sĩ Virach Sornlertlamvanich, Chủ tịch Hiệp hội, cho biết, Trung tâm sẽ được sự hợp tác của các nhà phát triển phần mềm từ Nhật Bản, Hàn Quốc, Đài Loan, Hong Kong, Malaysia và Singapore. Một hội thảo sẽ được tổ chức trong tháng tới để vạch ra kế hoạch tổng thể, ông thông báo.
+Ngoài ra, sự khác biệt trong những chức năng cơ bản của phần mềm có thể khiến người sử dụng lúng túng. Vì vậy, Virach cũng kêu gọi các nhà phát triển đề ra một chuẩn chung trong việc cài đặt phần mềm, vị trí menu, các nút bấm& để tạo giao diện thân thiện hơn. Hiệp hội cũng dự định phát triển một trung tâm dữ liệu cho các lập trình viên nguồn mở.
+

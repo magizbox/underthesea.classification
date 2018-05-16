@@ -1,0 +1,6 @@
+Tìm phần mềm quản lí dịch vụ Internet (1)
+Chào các anh chị ! Nhà em có mở dịch vụ Internet, em muốn kiếm phần mềm tính tiền cước cho khách. Em có đọc báo thấy giới thiệu về phần mềm của VN như PC manager (báo Echip), nhưng khi em cài bản Server của chương trình này lên máy (cài 2000 Server) thì nó không hiển thị font được. Mong quý anh chị giúp đỡ. Dịch vụ của em có khỏang 20 máy. Phần mềm VN càng tốt. Em xin cảm ơn quý anh chị nhiều.
+Phạm Duy Tài
+Hồi âm:
+Ban hay thu su dung Cyber Station Manager.
+

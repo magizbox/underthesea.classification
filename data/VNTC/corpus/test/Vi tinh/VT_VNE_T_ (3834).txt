@@ -1,0 +1,6 @@
+Lớp tráng mới cho đĩa HD-DVD 30 GB
+Lớp vật liệu cho đĩa ghi 2 lớp HD-DVD này do hai công ty Toshiba (Nhật) và Clariant (Thụy Sỹ) hợp tác phát triển. 
+Hiện tại, đĩa HD-DVD-R có dung lượng cao nhất được chuẩn hóa là loại đơn lớp 15 GB. Toshiba và Clariant đã đề xuất loại đĩa hai lớp lên Diễn đàn DVD (tổ chức quản lý chuẩn định dạng DVD) với hy vọng sẽ được thông qua vào cuối năm nay.
+Hiện nay có 2 định dạng khác nhau tạo nên "gia đình" HD-DVD. Loại thứ nhất là định dạng chỉ đọc (Read-Only) HD-DVD-ROM, sẽ được dùng cho các nội dung ghi sẵn như phim và đã được chuẩn hóa với 2 mức 15 GB đơn lớp và 30 GB hai lớp. Một phiên bản ba lớp dung lượng 45 GB cũng đang trong qua trình chuẩn hóa. Định dạng ghi nhiều lần HD-DVD-RW thì đã được chuẩn hóa ở mức dung lượng 20 GB. Một phiên bản tương lai của loại đĩa ghi nhiều lần với công suất lưu trữ 32 GB cũng đang trong quá trình phát triển.
+HD-DVDđang cạnh tranh với định dang Blu-ray để trở thành chuẩn thế hệ mới trong lĩnh vực DVD.
+

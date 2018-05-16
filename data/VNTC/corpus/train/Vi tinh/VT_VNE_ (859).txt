@@ -1,0 +1,6 @@
+Tin về vụ tự tử của Bin Laden cài virus Trojan
+Hôm 23/7, hàng triệu e-mail với nội dung về vụ tự tử của kẻ cầm đầu tổ chức khủng bố Al-Qaeda đã được tin tặc phát tán. Thực chất, đây chỉ là tin giả với mục đích phát tán virus Trojan nhằm xâm nhập và kiểm soát máy tính của các nạn nhân tò mò, cả tin.
+Trojan, loại sâu tăng đột biến cả về số lượng lẫn phương thức tấn công, náu mình trong những thông điệp gửi đi khắp toàn cầu. Tất cả những e-mail này đều hướng dẫn người dùng truy cập tới website có chứa hình thông tin và hình ảnh về Bin Laden. Thực tế, theo công ty bảo mật Sophos, nếu khách hàng tò mò và kết nối vào đường link này thì máy tính của họ sẽ dễ dàng bị tin tặc đột kích từ xa.
+Graham Cluley, Chuyên viên tư vấn công nghệ của Sophos, nhận định: "Hacker và tác giả của các loại virus sẽ tìm mọi cách để lừa bịp người dùng tải loại mã nguy hiểm của chúng. Do đó, lần này, tin tặc đã tập trung vào trí tò mò cố hữu của người dân và thị hiếu về những thông tin chống khủng bố. Phương pháp này dường như rất có hiệu quả".
+Sophos khuyến cáo: "Những người sử dụng bị 'mê hoặc' bởi thông tin về vụ tự sát của Bin Laden có thể sẽ bị Trojan khống chế".
+

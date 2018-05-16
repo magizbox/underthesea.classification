@@ -1,0 +1,7 @@
+Microsoft loay hoay xử lý lỗi mới trong Internet Explorer
+Nhà cung cấp hệ điều hành Windows đang cố gắng tìm cách khắc phục một lỗ hổng trong trình duyệt web của họ với nguy cơ cho phép hacker giành quyền truy nhập máy tính mục tiêu từ xa thông qua các trang web riêng.
+Hiện tại vẫn chưa có bản vá lỗi nào được phát hành mặc dù nhiều chuyên gia bảo mật trấn an rằng mức độ nguy hiểm của lỗ hổng này - liên quan đến thành phần DDS Library Shape Control COM object (msdds.dll) - không lớn lắm. Nếu người sử dụng máy tính không duyệt phải trang web của tin tặc thì PC của họ không bị tấn công, Gerhard Eschelbeck, Giám đốc công nghệ hãng bảo mật Qualys (Mỹ), cho biết. 
+Trong khi đó, Stephen Toulouse, Giám đốc Trung tâm an ninh của Microsoft, thì khẳng định thành phần cơ sở tạo ra nguy cơ trên không được tích hợp mặc định trong hệ điều hành Windows.
+Microsoft tuyên bố những PC chạy Visual Studio 2002 không có bản nâng cấp Service Pack 1, hoặc dùng Office 2003 với Service Pack 3, có thể bị tấn công. Tuy nhiên, họ cũng khẳng định đến nay chưa có khách hàng nào thông báo máy tính bị khai thác. Người truy cập mạng bằng trình duyệt Internet Explorer được khuyến cáo nên cẩn thận khi mở những trang web từ đường link trong e-mail. 
+Thông báo về khả năng lợi dụng lỗi Internet Explorer nói trên được một nhóm chuyên gia bảo mật Pháp công bố trước khi Microsoft ra khuyến cáo. Do đó, hãng phần mềm Mỹ chỉ trích đây là hành động rất thiếu trách nhiệm vì đã đặt máy tính của nhiều người vào nguy cơ bị lợi dụng.
+

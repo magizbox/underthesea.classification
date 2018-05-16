@@ -1,0 +1,7 @@
+Điều khiển PC bằng điện thoại di động
+Hãng Toshiba vừa nghiên cứu và phát triển phần mềm Ubiquitous Viewer, cho phép người sử dụng thao tác với máy tính thông qua thiết bị điều khiển từ xa là điện thoại di động.
+Minh họa về Ubiquitous Viewer trên website của Toshiba.
+Được cài đặt đồng thời trên điện thoại và máy tính sử dụng hệ điều hành Windows, Ubiquitous Viewer sẽ tái hiện lại desktop của PC trên màn hình điện thoại. Một thuật toán nén dữ liệu lên đến 97% giúp việc tương tác giữa máy tính và điện thoại có thể diễn ra đồng thời và không làm tắc nghẽn mạng. Từ điện thoại, người dùng có thể đọc e-mail, soạn thảo văn bản mà không cần sờ đến bàn phím máy tính. 
+Các phím điện thoại cũng được Ubiquitous Viewer tự động chuyển thành bàn phím Qwerty ảo, con trỏ trên màn hình điện thoại sẽ có chức năng tương tự như chuột máy tính, các phím từ 1 đến 9 biến thành phím enter, delete, tab và nhiều phím chức năng khác. Người sử dụng cũng có thể thiết lập bàn phím riêng cho mình. 
+Hiện tại, Ubiquitous Viewer có thể sử dụng thông qua dịch vụ Bluetooth phạm vi ngắn hay mạng điện thoại 3G.
+

@@ -1,0 +1,6 @@
+ Mozilla - DDoS và phiên bản FireFox 1.5.0.3 
+Theo đánh giá của hãng Secunia thì lỗi này không nghiêm trọng tuy nhiên Mozilla vẫn mong muốn “đứa con cưng” của mình phải vượt hơn Internet Explorer và củng cố niềm tin cho người dùng sau khi hàng loạt lỗi bảo mật trong FireFox được công bố minh chứng rằng trình duyệt này cũng không hẳn đã an toàn. 
+“Lỗi bảo mật nằm trong việc gọi hàm Javascript “contentWindow.focus()”. Một website chứa mã độc hại có thể được dùng để làm ảnh hưởng đến bộ nhớ và là nguyên nhân dẫn đến tràn bộ đệm bởi phương thức gọi hàm “contentWindow.focus()” trong một nội dung hay tập tin được lập ra có mục đích” theo Secunia cho biết. 
+Mã khai thác lỗi này đã được công bố rộng rãi, thôi thúc các nhà phát triển FireFox nhanh chóng cập nhật trình duyệt này, ngay cả khi lỗi được cho là “rất nhỏ”. “Phiên bản 1.5.0.3 sẽ là tiền đề thúc đẩy 1.5.0.4 ra đời và tuần tự kế tiếp các phiên bản khác kế tiếp” theo các nhà phát triển FireFox cho biết. 
+Lỗi bảo mật có thể khai thác tấn công từ chối dịch vụ này ảnh hưởng đến phiên bản mới nhất 1.5.0.2 của FireFox. Người dùng nên thường xuyên cập nhật tại đây hay dùng chức năng tự động cập nhật có trong FireFox để nâng cấp lên các phiên bản mới nhất. Ngoài ra, có thể tham khảo đoạn mã lỗi bảo mật FireFox tại đây . 
+

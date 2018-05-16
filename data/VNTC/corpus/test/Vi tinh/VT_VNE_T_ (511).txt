@@ -1,0 +1,8 @@
+Hỏi về vấn đề mã hóa DVD theo vùng (2)
+Chào các bạn. Tôi muốn hỏi về encode của đĩa DVD. Được biết đĩa DVD được encode theo vùng, ví dụ, Bắc mỹ là vùng 1, Việt nam là vùng 3. Và khi đọc đĩa DVD bằng đầu DVD của máy tính thì chọn vùng cho phù hợp với đĩa. Đối với trường hợp đầu máy DVD dùng với tivi thì sao ?. Ví dụ một đầu máy DVD ở Bắc Mỹ có đọc được các đĩa DVD ở Việt Nam không ?
+Lê Nam
+Hồi âm:
+Cac nha san xuat khi san xuat dia DVD, ho nham vao DVD ( player ) thuong duoc goi la dau may cho tivi. chu khong lam cho DVD tren PC...thuong cac dau may DVD cho tivi o bac my nhu CANADA va HOA KY deu xem duoc cac dia CVD cua VN neu nhung dia ay theo dung chuan quoc te ISO( hinh nhu VN chua lam duoc dia DVD thi phai?? co the ban nao dinh chanh gium cho nay.. )...toi da xem dia CVD live show cua ca sy PHUONG THANH o nhung dau may DVD player thong thuong tu gia 50 usd cho den nhung loai mac tien khoang 300 usd deu xem duoc ca.
+TOM 
+Việc bạn hỏi thì cũng chính là tự trả lời rồi. Rõ ràng, đầu DVD dùng cho vùng 1(đằng sau máy có ghi), thì chắc chắn không đọc các đĩa DVD thuộc vùng khác. Bạn xem kỹ trên đĩa hoặc vỏ đĩa đều có ghi dùng cho vùng nào và có đúng vùng của đầu DVD hỗ trợ không rồi hẵng mua. Nếu bạn có dùng PC và có ổ ghi đĩa DVD, thì bạn có thể trước khi sang lại đĩa DVD, thì dùng chương trình IFOEdit (tìm trên mạng) hay vào www.dvdhelp.com tìm mấy cái chương trình để rút bỏ khóa vùng của DVD. thì bạn xem trên đầu DVD-Player của bạn vô tư.   
+

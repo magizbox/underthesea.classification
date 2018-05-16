@@ -1,0 +1,7 @@
+Bộ nhớ dung lượng 8 GB dành cho máy chủ
+Hãng điện tử Hàn Quốc Samsung đã sắp xếp thành công 32 chip DDR2 DRAM 2 Gb 80 nm trên hai lớp và tạo nên một bản mạch bộ nhớ (memory module) cho máy chủ có dung lượng lớn nhất hiện nay.
+Để xây dựng module nhớ này, hãng sản xuất DRAM Hàn Quốc cho biết họ đã sử dụng FB-DIMM, công nghệ mới được chấp thuận rộng rãi trong ngành công nghiệp bộ nhớ. Nó có thể xử lý dữ liệu nhanh gấp hai lần so với R-DIMM hiện nay và cho phép các hãng sản xuất kết hợp chip bộ nhớ đệm AMB cùng với những chip nhớ khác. 
+Bảng mạch mới của Samsung phù hợp với máy chủ dạng phiến mỏng. Samsung sẽ phát hành đồng loạt sản phẩm 512 MB đến 8 GB nhằm chiếm ưu thế ngay từ đầu trên thị trường FB-DIMM mới nổi.
+Giá thành và ngày chính thức ra mắt sản phẩm vẫn chưa được tiết lộ. Tập đoàn sản xuất chip Intel cũng tuyên bố sẽ phát hành mẫu FB-DIMM cho server trong năm tới. 
+Hãng nghiên cứu Gartner dự đoán thị trường DRAM cho máy chủ trên toàn thế giới sẽ đạt 24,1 tỷ USD trong 2006.
+

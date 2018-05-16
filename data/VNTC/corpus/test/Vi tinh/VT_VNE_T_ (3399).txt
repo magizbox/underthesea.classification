@@ -1,0 +1,10 @@
+Pháp xây dựng thư viện trực tuyến tương tự Google
+Người Pháp, vốn cho rằng Internet đang ngập lụt trong tiếng Anh, đã phản ứng lại trước dự án mới của Google bằng kế hoạch cung cấp 15 triệu sách và tài liệu trực tuyến bằng tiếng Pháp. 
+Pháp luôn tự hào về tài sản trí tuệ sáng tạo của họ, đặc biệt những nội dung lưu trữ trong Bibliothèque Nationale de France (BNF), thư viện quốc gia nước này. 
+Khi dự án Google Print cung cấp 4,5 tỷ trang tiếng Anh trên mạng ra mắt, Pháp quyết định thực hiện một hành động tương tự bằng tiếng Pháp nhưng ở mức độ thấp hơn. Thực tế, họ đã số hóa bộ sưu tập quốc gia từ 13 năm trước và bắt đầu đưa công trình này lên mạng từ năm 1997.
+Catherine Lupovici, Trưởng bộ phận Thư viện số tại BNF, cho biết: "Đây là dự án cung cấp bộ bách khoa toàn thư về văn hóa Pháp nhằm tạo ra một mạng trực tuyến cho các học giả".
+Dự án này mang tên Gallica, đã công bố 80.000 tác phẩm, 70.000 hình ảnh trực tuyến, và hiện đang tiếp tục quá trình xử lý những tài liệu báo chí thế kỷ thứ 19.
+Jean-Nol Jeanneney, Giám đốc BNF, khẳng định việc Google Print chỉ cung cấp tầm nhìn về lịch sử Mỹ và Anglo-Saxon là điều tự nhiên và bình thường, nhưng họ sẽ phải chấp nhận cuộc phản công mà báo chí Pháp gọi là "omni-googlisation".
+Gallica không dùng những thuật toán nổi tiếng của Google. Khác với kiểu hiển thị kết quả theo sự phổ biến, nghĩa là trang nào có số người đọc nhiều nhất sẽ xuất hiện đầu tiên trên Google, mỗi cuốn sách trong bộ sưu tập của BNF sẽ được xếp hạng theo số trang khác liên kết tới nó hay từ nó để đứng đầu trong kết quả search.
+Tuy nhiên, sẽ còn khá lâu nữa Gallica mới bắt kịp tốc độ của Google Print, khiến cho ngay cả những vị lãnh đạo cao cấp của BNF cũng nghi ngờ về khả năng Pháp có thể đương đầu với cái họ gọi là "thách thức văn hóa". Google hiện nay là cổng tìm kiếm đầu tiên của 74% người dân Pháp. Nếu mục tiêu của BNF không chỉ là bảo tồn mà còn muốn phổ biến văn hóa Pháp, họ nên lựa chọn cách bắt tay hợp tác với Google.
+

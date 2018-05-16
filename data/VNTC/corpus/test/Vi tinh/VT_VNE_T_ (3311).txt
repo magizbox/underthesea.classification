@@ -1,0 +1,8 @@
+Kết hợp NAS/SAN trong ổ lưu giá rẻ
+Hãng Pillar Data (Mỹ) vừa sản xuất một hệ thống kết hợp xử lý file (NAS) và block (SAN), cho phép lưu tất cả dữ liệu này tại những vị trí cụ thể trong ổ để nâng cao khả năng thực thi.
+Công nghệ Axiom có khả năng "xẻ dọc" thông tin và lưu chúng trong nhiều ổ khác nhau, cho phép những rãnh ngoài đọc và viết dữ liệu tương đối nhanh chóng. Pillar cho biết hệ thống này cung cấp đa tầng lưu dữ liệu như cấu trúc quản lý vòng đời thông tin khác, nhưng chỉ cần hoạt động với ổ dòng ATA.
+Khách hàng có thể chọn để chỉ sử dụng chức năng xử lý file (NAS), hoặc xử lý block (SAN), hay kết hợp cả hai. Công nghệ SAN sẽ được phát hành trong vài tuần nữa. Phiên bản tiếp theo sẽ cung cấp đĩa Fibre Channel dành cho ổ SATA để tăng thêm tầng ứng dụng.
+Pillar khẳng định công nghệ cho phép truy cập nhanh, dung lượng lớn hơn và giá rẻ hơn những hệ thống đang có mặt trên thị trường, đúng như câu nói từ một khách hàng trung thành của hãng: Pillar mang lại cho chúng tôi công cụ doanh nghiệp với dung lượng lớn gấp 7 lần và chỉ rẻ bằng 1/2 so với đối thủ cạnh tranh.
+Larry Ellison, Giám đốc hãng Oracle (Mỹ), là doanh nghiệp duy nhất hỗ trợ Pillar. Đây cũng là hãng hậu thuẫn cho Linux trong cuộc đua với Unix và Windows. 
+Giá thành sản phẩm vẫn chưa được công bố chính thức.
+

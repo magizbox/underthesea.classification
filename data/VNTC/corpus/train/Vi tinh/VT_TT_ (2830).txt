@@ -1,0 +1,32 @@
+ Mã số “bí mật” của Samsung
+#06# 
+Hiển thị số IMEI của máy. 
+#9999# 
+Hiển thị số phiên bản phần mềm. 
+#0001# 
+Hiển thị các thông số dùng để kết nối với máy tính qua giao tiếp RS-232. 
+0001 s f t# 
+Thay đổi các thông số dùng để kết nối với máy tính qua giao tiếp RS-232. 
+2767 3855# 
+Khôi phục toàn bộ thông tin trong bộ nhớ EEPROM về trạng thái ban đầu. 
+#8999 246# 
+Hiển thị trạng thái chương trình. 
+#8999 289# 
+Thay đổi tần số âm thanh cảnh báo. 
+#8999 324# 
+Hiển thị màn hình sửa lỗi. 
+#8999 377# 
+Hiển thị các lỗi của EEPROM. 
+#8999 523# 
+Thay đổi độ tương phản của màn hình tinh thể lỏng. 
+#8999 636# 
+Hiển thị trạng thái của bộ nhớ. 
+#8999 778# 
+Hiển thị bảng các dịch vụ của SIM. 
+#8999 842# 
+Thử chế độ rung của máy. 
+#8999 9266# 
+Màn hình gỡ lỗi 
+#8999 9999# 
+Phiên bản phần mềm. 
+

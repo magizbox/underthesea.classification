@@ -1,0 +1,10 @@
+IBM mở rộng giải pháp kinh doanh cho doanh nghiệp
+Hôm qua, tại TP HCM, hãng Big Blue công bố phát triển nhóm giải pháp Express gồm phần cứng, phần mềm và dịch vụ được thiết kế và định giá đặc biệt nhằm đáp ứng nhu cầu về công nghệ của doanh nghiệp vừa và nhỏ ở VN có khoảng 1.000 nhân viên. 
+Mizan Ab Rahman, Tổng giám đốc IBM Việt Nam và Đông Dương, cho biết mở rộng trong năm nay, phần mềm tích hợp kinh doanh WebSphere Business Integration Server Express được thiết kế nhằm hỗ trợ những công ty tầm trung tích hợp quy trình kinh doanh và nhân sự trong và ngoài công ty. 
+WebSphere Business Integration Connect Express cho phép khách hàng nhanh chóng kết hợp các nhóm thương mại phức tạp, đồng thời giảm rủi ro và chi phí liên quan tới môi trường B2B truyền thống. 
+Sản phẩm WebSphere MQ Express là phần mềm trao đổi thông điệp với tính bảo mật được đảm bảo qua giao diện Secure Sockets Layer (SSL).
+Ngoài ra, IBM cũng giới thiệu máy chủ eServer i5 520 phiên bản Express, sử dụng chip Power 5 thế hệ mới - bộ xử lý 64-bit hiện đại nhất hiện nay, cho các doanh nghiệp vừa và nhỏ với giá khởi điểm 19.500 USD.
+Máy tính xách tay ThinkPad X40, R50e và R51 có sẵn công nghệ ThinkVantage với phần mềm phục hồi nhanh. Các model này có giá khởi điểm tương ứng là 1.499 USD, 1.200 USD và 1.350 USD (giá trước thuế).
+Gói giải pháp in ấn của Big Blue gồm Infoprint Express sử dụng cho hệ thống ERP (kế hoạch nguồn lực doanh nghiệp) và cho các máy chủ iSeries có giá thành phù hợp với ngân sách hạn hẹp của doanh nghiệp vừa và nhỏ.
+Với kinh nghiệm chuyên môn trong lĩnh vực dịch vụ, phần cứng, phần mềm và đào tạo, IBM có thể cung cấp một giải pháp đào tạo hoàn chỉnh, được thiết kế theo nhu cầu phát triển riêng biệt của từng tổ chức. Các giải pháp này giúp doanh nghiệp vừa và nhỏ tăng năng suất thông qua những chương trình tập trung, cung cấp cho họ công cụ, thông tin và nguồn lực cần thiết nhằm tăng cường kỹ năng và khả năng làm việc. 
+

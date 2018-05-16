@@ -1,0 +1,6 @@
+Máy tính không khởi động được (1)
+Hiện nay tôi dùng máy tính ở văn phòng. Trước kia vẫn dùng bình thường nhưng khi mà tôi cài lại win 98 thì sau khi khởi động phải dùng disk A vào thì mới khởi động được. Đến bây giờ vẫn thế. Ai có cách nào giúp tôi với. 
+mai huy
+Hồi âm:
+Nếu không tự động boot vào Windows98 thì bạn có thể dùng đĩa mềm đó boot vào windows98 lại lần nữa rồi sau đó bạn vào copy file sys.com ở thư mục c:\windows\command\sys.com vào đĩa a:\ rồi sau đó cho máy khởi động lại bằng đĩa a:\ và gõ lệnh a:\sys c: rồi khởi động lại máy sẽ vào được windows mà không cần phải dùng đĩa mềm. 
+

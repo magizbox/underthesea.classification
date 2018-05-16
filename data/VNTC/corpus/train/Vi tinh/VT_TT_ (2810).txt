@@ -1,0 +1,8 @@
+ IPWireless cung cấp dịch vụ TV cho điện thoại di động
+Dựa trên nền tảng công nghệ là chuẩn MBMS (Multimedia Broadcast and Multicast Standard), hệ thống TDtv được thiết kế để hoạt động tốt với tất cả các chuẩn điện thoại thế hệ thứ 3 (3G) theo chuẩn WCDMA. 
+Sử dụng một phần trong giải phổ của tần số sóng dành cho các thiết bị 3G để truyền tải dữ liệu, IPWireless cho biết rất dễ dàng để âm thanh, hình ảnh của dịch vụ truyền hình trực tuyến có thể truyền trên hệ thống đài phát và cơ sở hạ tầng mạng có sẵn của mạng di động. Những điều này được kết luận khi so sánh với công nghệ O2, dịch vụ TV mobile dựa trên băng tần sóng UHF và đài phát thanh kỹ thuật số. 
+Hệ thống này cho phép rất nhiều kênh truyền hình có thể được truyền qua đài phát của các trạm điện thoại di động để đến tay khách hàng. 
+Hiện công ty đang phát triển các giải pháp tích hợp TDtv vào chip của các nhà sản xuất diện thoại di động. Dự kiến, đến cuối năm 2007, giá để đưa TDtv vào điện thoại di động chỉ còn khoảng 10 USD. 
+Ông Chris Gilbert, giám đốc điều hành của IP Wireless cho biết thêm, hầu hết những công nghệ đã có sẵn, công ty phát triển một số giải pháp phức tạp để phục vụ cho việc liên kết giữa khách hàng và đài phát và phục vụ cho việc download trong môi trường sóng yếu. 
+Chi phí nâng cấp cho các mạng di động thế hệ thứ 3 (3G) vào khoảng 10.000 USD cho mỗi trạm, ít hơn so với HSPDA. Đó là một điểm lợi thế thu hút lớn đối với các nhà cung cấp dịch vụ. Còn về phía người tiêu dùng, nhiều tính năng hơn sẽ đến với chiếc điện thoại của họ trong nay mai. 
+

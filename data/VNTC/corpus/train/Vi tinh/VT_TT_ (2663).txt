@@ -1,0 +1,4 @@
+ Mạng di động Viettel nghẽn mạch 
+Những cuộc gọi nội mạng của Viettel rất ít bị nghẽn mà chỉ xảy ra đối với kết nối với các mạng khác. Trước đó, tại một số khu vực trên địa bàn TP.HCM và Hà Nội, người sử dụng điện thoại di động đã gặp hiện tượng cuộc gọi bị báo lỗi kết nối khi mạng khác gọi vào mạng 098, hiện tượng này sẽ hết khi thao tác nhiều lần. 
+Trong hai ngày 4 và 5-10-2005, VNPT đã cung cấp thêm cho mạng di động Viettel 15 luồng kết nối với khả năng chuyển tải 450 cuộc gọi cùng lúc, nâng tổng số luồng kết nối vào khoảng 240 luồng. 
+

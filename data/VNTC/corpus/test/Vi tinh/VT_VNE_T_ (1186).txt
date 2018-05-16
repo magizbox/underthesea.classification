@@ -1,0 +1,5 @@
+Quản lý mật khẩu bằng Password Safe
+Mật khẩu là vấn đề đau đầu với không ít người: tên người thân rất dễ lộ nhưng lại dễ nhớ hơn nhiều so với những password mạnh như A6jX3tZ74w. Để thay đổi điều đó, hãy sử dụng phần mềm miễn phí Password Safe lưu toàn bộ mật khẩu của bạn trong cơ sở dữ liệu được mã hóa. 
+Password Safe giúp lưu trữ một cách an toàn tất cả các tên người dùng và mật khẩu của bạn vào một chỗ để bạn có thể sao chép và dán những mật khẩu phức tạp vào màn hình đăng nhập của website hoặc hệ thống. Mật khẩu duy nhất bạn cần nhớ là password cho phép bạn truy cập vào cơ sở dữ liệu của Password Safe. Quan trọng nhất là, với công cụ này bạn có thể sử dụng những mật khẩu mạnh: dài, phức tạp, không trùng lặp và hầu như không thể phá cho tất cả các đăng nhập. 
+Chương trình có dung lượng 250 KB, có thể tải tại đây.
+

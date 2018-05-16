@@ -1,0 +1,4 @@
+ VNPT phát hành thẻ điện thoại đa năng 
+Loại thẻ này tương tự như 1717 nhưng có thể gọi di động, đường dài và quốc tế với mức cước dự kiến ngang bằng dịch vụ VoIP và PSTN (mạng điện thoại công cộng) trả trước. Mức cước dự kiến áp dụng cho thẻ 1719 sẽ được chia thành hai loại. 
+Đối với các cuộc gọi sử dụng dịch vụ VoIP, sẽ tính cước ngang bằng với dịch vụ VoIP trả trước. Đối với các cuộc gọi quốc tế sử dụng dịch vụ IDD chất lượng cao, mức cước sẽ ngang bằng với dịch vụ PSTN trả trước. 
+

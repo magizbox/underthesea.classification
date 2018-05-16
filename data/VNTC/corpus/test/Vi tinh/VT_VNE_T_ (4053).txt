@@ -1,0 +1,7 @@
+Asianux tìm kiếm đối tác Ấn Độ và Đông Nam Á 
+Chuẩn Asianux 2.0, sản phẩm hợp tác giữa 3 nhà phân phối Linux của châu Á, sẽ mở rộng phạm vi hoạt động và tăng thêm thành viên mới, trước hết là Ấn Độ, Singapore và Malaysia.
+Asianux 2.0, phiên bản máy chủ của hệ điều hành Linux được chính thức công bố ngày hôm nay ở Bắc Kinh, do 3 thành viên Red Flag (Trung Quốc), Miracle (Nhật) và Haansoft (Hàn Quốc) hợp tác phát triển. Mỗi hãng cung cấp sản phẩm với tên gọi riêng, ví dụ Red Flag DC Server 5.0...
+Phần mềm được ra mắt với tiếng Anh, Nhật, Hàn và Trung, cung cấp nhiều cải tiến so với sản phẩmAsianux đầu tiên từng được xây dựng bởi Micracle và Red Flag. Trong phiên bản 2.0, hệ điều hành có thể hỗ trợ thêm thiết bị xử lý 64 bit và cung cấp khả năng vận hành cũng như độ tin cậy cao hơn trước.
+Với sự ra đời bản 2.0, cả 3 hãng bày tỏ tham vọng nâng cao vai trò của mình trên thị trường Linux châu Á. "Chúng tôi sẽ mở rộng dự án hợp tác với các nước không chỉ ở châu Á khác mà cả thế giới", Daniel Cho, một giám đốc của Haansoft, khẳng định.
+Bên cạnh đó, Asianux cũng đang tìm kiếm những hợp đồng lớn. Asianux 2.0 đã được chọn cho dự án hệ thống thông tin giáo dục Hàn Quốc (NEIS), một hệ thống được phát triển để quản lý hồ sơ học sinh của hơn 10.000 trường trong cả nước.
+

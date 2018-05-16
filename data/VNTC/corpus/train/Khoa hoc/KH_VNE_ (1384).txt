@@ -1,0 +1,7 @@
+Bù nhìn thông minh đuổi chim 
+Các nhà nghiên cứu Australia đã phát triển thành công một phần mềm có thể nhận ra những loài chim cụ thể dựa vào tiếng kêu của chúng, và phát ra những tiếng động ngẫu nhiên xua đuổi chúng đi. Phát minh này dự báo sẽ rất có ích cho ngành nông nghiệp.
+Chris Clark, từ Đại học Nam Australia, cho biết nông dân sử dụng những kỹ thuật đuổi chim truyền thống như bù nhìn và súng hơi vẫn mất ít nhất 30% sản lượng mỗi năm vì những động vật có cánh này. Một nghiên cứu thí điểm gần đây cho thấy có những nông dân sản xuất rượu nho bị thiệt hại hằng năm tới 26.000 đôla.
+"Chúng tôi nhận thấy tất cả các kỹ thuật đuổi chim đều lặp đi lặp lại, và sau một thời gian sử dụng các loài chim nhanh chóng quen với những kiểu đe dọa đó", Clark nói.
+Clark cho biết phần mềm mới sẽ nhận dạng từng loài chim cụ thể thông qua tiếng kêu của chúng, sau đó chọn ngẫu nhiên các âm thanh mà những vị khách không mời này sợ hãi, như tiếng kêu cảnh báo tai họa, tiếng kêu của kẻ thù và âm nhạc lớn. "Ý tưởng của chúng tôi là phần mềm chỉ phát hiện một con chim khi nó bay vào khu vực, và lựa chọn tiếng kêu xua đuổi đặc trưng với nó, nhờ thế chim sẽ không bị nhờn với kỹ thuật mới".
+Theo Clark, công nghệ này cũng có những ứng dụng khác. Chẳng hạn trong việc nghiên cứu sự có mặt của một loài chim đặc biệt trong khu vực. 
+

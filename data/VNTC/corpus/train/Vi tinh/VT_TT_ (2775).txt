@@ -1,0 +1,6 @@
+ Apple thu hồi pin lỗi của notebook G4
+Apple đã thông báo đến rộng rãi người dùng của mình bằng điện thoại, e-mail cũng như đăng chính thức trên trang web của mình. Thông báo này cho biết có khoảng 128.000 bộ pin nghi ngờ có lỗi đã được bán ra. Loại pin chuyên dùng cho máy tính xách tay này đã được công ty LG Chem của Hàn Quốc sản xuất tại các nhà máy ở Đài Loan và Trung Quốc. 
+Đại diện của Apple và CPSC khuyến cáo người dùng nên ngưng sử dụng ngay lập tức loạt pin trên: ”Một lỗi nhỏ trong quá trình chế tạo có thể làm cho pin nóng lên quá mức cho phép và có thể gây hỏa hoạn”. Apple đã nhận được 6 báo cáo phản ánh về tình trạng pin nóng lên đột ngột này và ra quyết định đổi pin mới miễn phí cho mọi người dùng có nhu cầu. 
+Loại pin lithium được sản xuất cho các máy xách tay iBook G4 12 inch, PowerBook G4 12 inch và 15 inch. Các pin được thu hồi bao gồm các dòng pin có mã hiệu A1061, A1078, A1079 và loạt pin có mã số bắt đầu bằng HQ441 đến HQ507, hoặc 3X446 đến 3X510. 
+Vào mùa hè năm ngoái, Apple và CPSC cũng ra quyết định thu hồi loại pin có lỗi chuyên dùng cho PowerBook G4 15 inch cũng do LG Chem sản xuất. 
+

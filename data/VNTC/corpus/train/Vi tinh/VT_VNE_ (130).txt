@@ -1,0 +1,6 @@
+SCO treo giải 250.000 USD bắt tác giả virus Mydoom
+Tập đoàn phần mềm mã mở hôm nay tuyên bố sẽ dành số tiền nói trên cho ai cung cấp thông tin dẫn đến việc bắt giữ kẻ đã thiết kế và phát tán sâu e-mail mới. Website của họ là mục tiêu tấn công từ chối dịch vụ của loại virus xuất xứ từ Nga đang hoành hành trên Internet mấy ngày qua.
+Công ty cho biết đang làm việc với các cơ quan luật pháp trong đó lực lượng đặc vụ US.SS và Cục điều tra liên bang Mỹ, quyết tìm cho ra thủ phạm. Phát ngôn viên của FBI, Paul Bresson, hôm qua thông báo cơ quan này đang tiến hành một chiến dịch điều tra và mặc dù chưa có đánh giá đầy đủ, họ vẫn coi đây là một sự vụ đủ nghiêm trọng cần mó tay vào. Năm ngoái cuộc truy lùng tác giả virus Blaster cũng đã kết thúc thắng lợi bằng 2 vụ bắt giữ.
+Kể từ khi SCO lao vào cuộc đối đầu căng thẳng và phức tạp với IBM về bản quyền đối với mã System V Unix, suốt 10 tháng qua, website của họ luôn là mục tiêu để trút nỗi ấm ức của cộng đồng mã mở.
+Tuy nhiên, theo Giám đốc điều hành SCO, Darl McBride, vấn đề lần này rất khác và phức tạp hơn nhiều bởi virus không chỉ tấn công SCO mà còn gây thiệt hại cho hệ thống và ảnh hưởng đến năng suất làm việc của rất nhiều công ty, tổ chức trên khắp thế giới. McBride nói: Chúng tôi chưa hiểu nguyên nhân của vụ tấn công mới. Nhưng dù thế nào thì đây rõ ràng vẫn là hành động tội phạm và cần phải bị ngăn chặn.
+

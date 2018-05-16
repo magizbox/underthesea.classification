@@ -1,0 +1,4 @@
+ Mỗi HS được đăng ký hai nguyện vọng phân ban
+Dự kiến mỗi HS có thể đăng ký hai nguyện vọng theo thứ tự ưu tiên vào các ban (khoa học tự nhiên, khoa học xã hội - nhân văn và cơ bản). Nhà trường căn cứ kết quả tuyển sinh để xếp ban, HS nếu không đạt nguyện vọng 1 sẽ được xếp ban theo nguyện vọng 2 và tiếp tục điều chỉnh nếu cần thiết. 
+Riêng với ban cơ bản, HS sẽ phải đăng ký nguyện vọng lựa chọn nâng cao loại hình phân hóa: học từ 1-3 môn học tự chọn nâng cao hoặc chỉ học các chủ đề tự chọn nâng cao, bám sát để nhà trường sắp xếp lớp phù hợp. 
+

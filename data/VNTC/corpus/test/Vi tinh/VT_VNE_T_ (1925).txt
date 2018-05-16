@@ -1,0 +1,6 @@
+Bàn phím ảo bằng ánh sáng laser
+Virtual Laser Keyboard là một thiết bị ngoại vi có thể kết nối với rất nhiều sản phẩm di động như PDA, điện thoại hay máy tính xách tay, cho phép người sử dụng thao tác giống như với bàn phím máy tính thông thường.
+Bàn phím Virtual Laser Keyboard. 
+Bộ phận chiếu sáng của Virtual Laser Keyboard có kích thước 65 x 33 x 24 mm, tương đương với 1/2 kích thước của chiếc điện thoại di động thông thường. Thiết bị này sử dụng diode phát ra ánh sáng laser đỏ để chiếu hình ảnh bàn phím ảo lên một bề mặt bất kỳ. Tia hồng ngoại được sử dụng để nhận biết sự di chuyển của các ngón tay người sử dụng. Theo nhà sản xuất Hutchison Harbour Ring (Hong Kong), Virtual Laser Keyboard có thể làm việc trên bất kỳ bề mặt nào, có hiệu quả như bàn phím thường và hoàn toàn đáng tin cậy. 
+Kích thước của bàn phím ảo khi chiếu lên bề mặt phẳng là 215 x 90 mm. Hiện tại, ngoài máy tính xác tay, Virtual Laser Keyboard còn hỗ trợ 17 loại PDA và điện thoại di động khác nhau, kết nối qua cáp và Bluetooth. Thiết bị này tương thích với hệ điều hành Pocket PC 2002 và 2003, Smartphone 2003, Palm OS version 4x và 5x, Windows 98/NT/2000/XP. Sản phẩm hiện có giá bán là 200 USD. 
+

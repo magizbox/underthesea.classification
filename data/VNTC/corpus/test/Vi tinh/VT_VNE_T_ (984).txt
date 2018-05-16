@@ -1,0 +1,8 @@
+Đăng nhập nhanh bằng RoboForm
+Nếu bạn thường xuyên truy cập mạng và đăng nhập các trang web đòi bạn phải điền vào các biểu mẫu cung cấp thông tin về tên tuổi, địa chỉ, giới tính... thao tác nhập liệu tốn khá nhiều thời gian. Có một lối đi tắt đơn giản và an toàn là sử dụng RoboForm.
+Giao diện đơn giản của RoboForm cho phép bạn điền các thông tin cần thiết chỉ với một cú bấm chuột. Lần đầu tiên cài đặt, phần mềm sẽ yêu cầu bạn nhập các thông tin cần thiết về địa chỉ, tên tuổi, số điện thoại, số thẻ tín dụng... với các identity (nhận dạng) khác nhau và đó sẽ là lần cuối cùng bạn phải nhập dữ liệu cá nhân một cách thủ công. Sau đó, bạn có thể truy cập RoboForm dễ dàng từ thanh công cụ của trình duyệt, menu cảm ngữ cảnh, khay biểu tượng hay một shortcut ở màn hình. 
+Bạn có thể có nhiều identity khác nhau, ví dụ có loại dùng để đăng ký những nội dung được cung cấp miễn phí trên mạng, có loại dùng để mua hàng trực tuyến... Dữ liệu bạn đưa vào sẽ được RoboForm mã hóa DES 3 cấp và lưu trữ trong một thư mục duy nhất có thể xóa đi dễ dàng. 
+Với RoboForm, bạn sẽ tiết kiệm được nhiều thời gian khi đăng nhập các website, diễn đàn đòi hỏi đăng ký user name hay ở mức độ thấp hơn là vào thư mục chia sẻ nằm trong các máy tính khác của cùng hệ thống.
+Phần mềm có dung lượng 1,7 MB. Bạn có thể tải bản dùng thử có thời hạn 30 ngày tại đây. 
+Lưu ý: Sau hạn dùng thử, bạn vẫn sử dụng được RoboForm nhưng một số tính năng sẽ bị hạn chế.
+

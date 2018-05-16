@@ -1,0 +1,3 @@
+Hãng điện tử Hitachi (Nhật Bản) vừa chế tạo một hệ thống đảm bảo an ninh có thể nhận ra mạch máu trên tay của người mở cửa xe hơi nhờ vào bộ cảm biến được gắn vào tay cầm của cánh cửa cùng với bộ phận phát ra một loại tia sáng tương tự như tia hồng ngoại. 
+Hệ thống này được coi như một con mắt thông minh vì nó nhận biết và phân biệt được sự khác biệt về dạng mạch máu của nhiều người khác nhau. Từ đó, nó giúp hạn chế tình trạng cướp xe hơi cũng như giúp các nhà điều tra nhanh chóng bắt giữ tội phạm khi chúng lấy cắp cả chìa khóa lẫn xe. Trước đây, Hitachi đã chế tạo các thiết bị nhận biết mạch máu trong hệ thống an ninh ở các máy rút tiền tự động, các cánh cửa an ninh và thậm chí ở các máy vi tính. (PTI)
+

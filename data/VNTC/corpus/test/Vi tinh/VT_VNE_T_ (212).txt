@@ -1,0 +1,15 @@
+Thiết lập mạng không dây giữa 2 máy tính (4)
+Hiện mình đang sử dụng Internet tốc độ cao, mình muốn thiết lập mạng không dây giữa 2 máy tính ( cách nhau khoảng 500 m ) nhưng không biết phải dùng thiết bị nào để thiết lập mạng trên. Bạn nào biết mong chỉ giúp. Xin chân thành cảm ơn.
+Trần Thanh Tuấn
+Hồi âm:
+Theo toi duoc biet, ban nen dung wireless LAN Card. Tham khao day: http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=35
+Huy Do Xuan
+Can can phai mua nhung thu sau day:
+1. Wireless AP Router w/4 port Switchhay Wireless-G Router Wireless-G (802.11g). 2 loai nay theo chuan A hay B hay G. Theo minh thi nen ban nen mua chuan G thi nhanh hon, gia thanh cung do hon mua A, voi lai chuan A va G deu nhu nhau ca toc do la 54 Mbps. 
+2 - Wireless-G Notebook Adapterdung cho laptop 3 - Wireless-G USB Network Adapter dung cho PC hay laptop cung duoc. Da so dung cho PC. Tren day la hieu Linksys, con co nhieu loai cho ban chon lua. http://linksys.com/ http://smc.com/ D-Link NETGEAR U.S. Robotics  
+Ban nen vao trang nay de chon lua cho minh nhe www.cnet.com. 
+minhhai69
+Không thể dùng chuẩn WI-FI (2.4Ghz và 5Ghz) để nối kết 2 điểm cách nhau 500 m như bạn muốn. Khoảng cách tối đa của các thiết bị Wireless này chỉ là 100m (trong điều kiện lý tưởng). Nếu bạn có thể dùng nhiều điểm tiếp nối thì nó mới khả thi. Dùng 5 access point router (AP) để chuyển tiếp sóng. Nhưng mà làm như vậy khá phức tạp.Để nối kết 2 mạng ở khoảng cách xa như vậy phải có những thiết bị cao cấp dùng sóng viba hoặc parabolla antenna. Để kiểm tra khoảng cách hoạt động của 2 điểm bạn muốn kết nối không dây, cách tốt nhất là dùng một cái phone nhà loại không dây (2.4Ghz). Bắt dầu từ điểm gốc và đi cho tới khi nào bạn không thể nghe cuộc điện đàm nữa. Trên nguyên tắc tầm hoạt động của những thiết bị 2.4Ghz này là 100m nhưng mà bị ảnh hưởng của môi trường xung quanh (nhà cửa, tường xi-măng, rào sắt, độ ẩm ...)
+Hoang
+Tôi không hiểu mục đích của bạn dùng kết nối đó để làm gì nhưng tình huống như vậy đã gặp nhiều rồi. Không biết bạn đang dùng HĐH gì nữa ? Cách kết nối 2 máy tính như vậy chúng ta có thể tạm gọi là "Remote Access Server". Hiện mình đang dùng cách này để truy cập vào Server để chỉnh sửa từ xa. Mình dùng HĐH "Red Hat Linux 9.0". Nhưng mình nghĩ không quan trọng, để kết nối được hai máy đó qua modem bạn chỉ cần cài một máy là máy Remote Server là được (cái này bạn có thể đọc Help của Windows hoặc một nguồn nào đó rất nhiều), tiến đến bạn phân quyền. Như vậy là OK. Hy vọng bạn thành công.
+

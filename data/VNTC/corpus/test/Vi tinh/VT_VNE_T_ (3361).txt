@@ -1,0 +1,6 @@
+Xóa tin nhắn SMS từ xa bằng một tin nhắn khác
+Samsung vừa đăng ký bản quyền cho công nghệ xóa tin nhắn điện thoại di động trên máy người nhận từ xa. Đây thực sự là thông tin tuyệt vời cho hầu hết những người sử dụng thiết bị liên lạc cầm tay.
+Ý tưởng về việc xóa file từ xa đã có từ khá lâu, như nhiều người vẫn thường áp dụng chức năng này để xóa e-mail trên máy tính, nhưng đây là lần đầu tiên một hãng điện tử giới thiệu một hệ thống như thế trên điện thoại di động.
+Tin nhắn được tự động lưu trên điện thoại của người gửi cùng lúc nó được gửi tới một máy khác. Nếu muốn lấy lại tin nhắn đó, người gửi có thể soạn tiếp một yêu cầu xóa tới số máy kia. Điện thoại của người nhận sẽ tìm kiếm tin nhắn đó và xóa ngay tức thì.
+Bằng sáng chế này được cấp cho Samsung vào ngày 9/6, do đó thời điểm hãng sẽ cung cấp tính năng mới vẫn chưa thể xác định, nhưng viễn cảnh có cơ hội loại bỏ những tin đáng xấu hổ trước khi người khác có thể đọc được khiến nhiều người háo hức và sẵn sàng chờ đợi.
+

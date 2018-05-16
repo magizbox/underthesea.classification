@@ -1,4 +1,4 @@
-# Mô tả định dạng dữ liệu cho corpus
+# Mô tả định dạng dữ liệu cho corpus cho bài toán phân loại văn bản
 
 Phiên bản 1.0.0 - 20180516
 

@@ -1,0 +1,8 @@
+Virus mới lợi dụng Google để phát tán
+Khai thác một khiếm khuyết trong chương trình phpBB, loại sâu web có tên Santy xác định mục tiêu thông qua dịch vụ tìm kiếm và lây lan trên các mạng tin trực tuyến. 
+Theo hãng bảo mật Kaspersky (Nga), Santy lợi dụng một lỗ hổng trong phần mềm diễn đàn đang được sử dụng rộng rãi là PHP Bulletin Board (phpBB) để phát tán. Nó ra lệnh cho Google tìm những địa chỉ dùng phiên bản bị lỗi. 
+Khi đã xâm nhập một trang web, virus xóa tất cả các trang ASP (active server page), HTML, PHP, JSP (Java server page) và các trang HTML bảo mật, đồng thời thay thế chúng bằng đoạn text: This site is defaced!!! This site is defaced!!! NeverEverNoSanity WebWorm generation X đại ý nói là địa chỉ đã bị hack và làm biến dạng. Kaspersky cho biết ở vị trí chữ X, hacker chèn một con số biểu thị nó là phiên bản thứ bao nhiêu. Nếu dùng MSN Search để kiểm tra thì có thể thấy đây là thế hệ thứ 24 của loại virus này.
+Theo Kaspersky, đã có khoảng 40.000 website bị nhiễm Santy. Nếu dùng công cụ search của Microsoft để tìm nội dung "NeverEverNoSanity" (một phần đoạn text nói trên), bạn sẽ nhận được khoảng 39.000 kết quả.
+Hãng phần mềm an ninh Nga cho biết Santy đang phát tán nhanh tuy nhiên không trực tiếp ảnh hưởng đến người sử dụng phổ thông. Virus tấn công các website nhưng không lây lan vào máy tính truy cập các địa chỉ đó. Nếu tìm kiếm trên Google bằng từ khóa "Powered by phpBB" (dòng chữ ghi phía dưới những địa chỉ dùng phpBB), có thể thấy khoảng 6 triệu website đang chạy phần mềm này.
+Google chưa có tuyên bố chính thức nào về vụ việc nhưng cho biết đã bắt đầu điều tra. Người sở hữu các website chạy phiên bản phpBB có lỗi được khuyến cáo nên vào ngay trang web của dự án PHP để tải bản nâng cấp (www.php.net).
+

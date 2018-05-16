@@ -1,0 +1,6 @@
+ Seagate giới thiệu loại đĩa cứng 400 GB
+Hiện nay, nhu cầu sử dụng máy để bàn tập trung vào các ứng dụng giải trí đa phương tiện như biên tập video hay tải phim và các chương trình TV đã trở thành một xu thế ngày càng phổ biến, nên đã dẫn đến nhu cầu gia tăng dung lượng đĩa cứng không ngừng. Ngoài việc đòi hỏi ngày càng cao về dung lượng, các đĩa cứng hiện nay cũng cần phải có khả năng đọc và ghi dữ liệu ớ mức độ nhanh đủ để ghi lại các đoạn video đuợc truy xuất theo thời gian thực. 
+Loại đầu tiên là Ultra ATA/100 có tốc độ truy xuất dữ liệu trung bình là 8 miligiây. Loại thứ hai có nhiều tính năng đặc biệt hơn nhất là tương thích hoàn toàn với loạt chuẩn công nghệ ATA đời mới là NCQ. 
+Chuẩn công nghệ này cho phép đĩa cứng cùng lúc xử lý được nhiều yêu cầu phức tạp do máy tính đưa ra với hiệu suất rất cao trong thời gian ngắn. Hiện nay loại đĩa cứng này có thể đọc và ghi dữ liệu ngay trong cùng 1 thời điểm dữ liệu được tải về. 
+Theo Seagate cho biết, công nghệ NCQ cho phép những máy tính có hệ thống tương thích hoàn toàn với NCQ có khả năng “ép” các đời đĩa Barracuda trước đây có tốc độ 7.200 vòng/phút đạt đến tốc độ những 10.000 vòng/phút, tức gia tăng đến 30% hiệu quả truy xuất dữ liệu. 
+

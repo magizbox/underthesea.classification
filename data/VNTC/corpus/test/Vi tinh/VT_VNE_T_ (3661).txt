@@ -1,0 +1,8 @@
+Sony PSP tích hợp khả năng lướt web và xem TV 
+Hãng điện tử Nhật này vừa công bố sẽ ra mắt phần mềm hệ thống nâng cấp cho PlayStation Portable (PSP) vào tuần tới, với mục đích mở rộng tính năng cho thiết bị game cầm tay, trong đó có khả năng duyệt web và tải chương trình truyền hình.
+Điều đáng chú ý nhất trong phiên bản 2.0 của phần mềm hệ thống là nó tích hợp một trình duyệt web. Truy cập từ menu chính của PSP, trình duyệt này hỗ trợ HTML 4.0.1 và cho phép tiếp cận hầu hết các website.
+PSP đã có sẵn mạng LAN không dây phục vụ chơi game trực tuyến và tải chương trình từ Internet, nhưng Sony chưa thực sự cho phép người dùng duyệt web. Tuy nhiên, một số khách hàng đã nhanh chóng tìm ra cách để khai thác trình duyệt có kèm trong game "Wipeout Pure" để truy cập website. Phần mềm nâng cấp đã chính thức cung cấp khả năng lướt web dễ dàng trên thiết bị cầm tay.
+Điểm nổi bật khác là khả năng tải video ở định dạng MPEG4 AVC. Tính năng này đã được Sony trình diễn tại Tokyo hôm qua khi kết nối thiết bị PSP với phần mềm nâng cấp và tải chương trình truyền hình cũng như nhiều nội dung phong phú khác.
+Ngoài ra, phần mềm cho phép tải ảnh từ thiết bị PSP này sang một PSP khác qua mạng LAN không dây, và hỗ trợ hầu hết các định dạng nghe nhìn, trong đó có cả định dạng AAC. Giá thành sản phẩm sẽ được công bố trong tuần sau.
+Sony cũng tiết lộ kế hoạch bán ra thị trường sản phẩm PSP vỏ trắng mang tên PSP 1000KCW. Hiện tại, thiết bị chơi game này chỉ được phát hành với lớp vỏ đen. Phiên bản màu trắng sẽ xuất hiện ở Nhật vào 15/9, kèm theo tai nghe, thẻ nhớ và một số phụ kiện khác với giá xấp xỉ 220 USD, tương đương với PSP đen. Sony cho biết đến ngày 20/7, doanh số của PSP đã đạt tới 5,1 triệu sản phẩm chỉ tính riêng ở Nhật và Mỹ.
+

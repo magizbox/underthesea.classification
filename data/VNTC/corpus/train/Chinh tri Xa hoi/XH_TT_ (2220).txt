@@ -1,0 +1,5 @@
+ Singapore: cho SV đặt câu hỏi bằng tin nhắn
+Nếu có thắc mắc mà không thể đứng lên hỏi giảng viên, SV có thể soạn tin nhắn rồi gửi đến một số điện thoại đặc biệt. Tin nhắn này sẽ hiện lên màn hình máy tính của giảng viên trong giảng đường. 
+Giảng viên sẽ trả lời câu hỏi ấy ngay trên lớp hoặc trong tiết học sau. Đối với SV, cách đặt câu hỏi này rất tiện ích vì đôi khi họ không có điều kiện phát biểu trong những giảng đường lớn với gần 500 SV. 
+Giáo sư Yow Kin Choong, người phát minh hệ thống này, cho biết sẽ mở rộng đến các khoa khác trong trường nếu có đủ kinh phí. 
+

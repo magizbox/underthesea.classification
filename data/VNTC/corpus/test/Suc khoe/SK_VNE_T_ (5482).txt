@@ -1,0 +1,23 @@
+Bạn có bao nhiêu cơ hội sống thêm 4 năm nữa?
+Các nhà khoa học Mỹ vừa đưa ra một bài test lạ, cho phép bất kỳ ai ngoài 50 tuổi hình dung phần nào về cơ hội sống sót của mình trong vòng 4 năm tới. Độ chính xác lên tới 81%.
+Test "thày bói" là thành quả nghiên cứu của Trung tâm y tế Cơ quan Cựu chiến binh San Francisco (Mỹ). Nó gồm 12 câu hỏi đơn giản xoay quanh các yếu tố nhân khẩu học, giới tính, tuổi tác, bệnh tật và chỉ cần vài phút để hoàn thành.
+Để có được 12 "quẻ" sinh mệnh này, trưởng nhóm nghiên cứu Sei J Lee và cộng sự phải thu thập dữ liệu từ gần 20.000 người trên 50 tuổi từ năm 1998 tới 2002. Họ phân loại số người tham gia thành 3 nhóm dựa trên nhân khẩu học, giới tính, tuổi tác và bệnh tật (ví dụ như ung thư, tiểu đường, bệnh tim, tăng huyết áp), và khả năng xử lý hoạt động hằng ngày như ăn mặc, mua sắm và quản lý tài chính... Tiếp đó, nhóm thống kê số người qua đời tính tới ngày 31/12/2002, phân tích các yếu tố liên quan tới cái chết của họ, và nhóm lại thành các biến chính trong công thức tính tỷ lệ tử vong. Theo Lee, test này có thể là một công cụ chẩn đoán có giá trị cho bác sĩ trong việc đánh giá sơ bộ sức khỏe của bệnh nhân. 
+Danh sách 12 câu hỏi như sau:
+1. Tuổi: 60-64 (1 điểm), 65-69 (2 điểm), 70-74 (3 điểm), 75-79 (4 điểm), 80-84 (5 điểm), trên 85 (7 điểm).
+2. Giới tính: Nam (2 điểm).
+3. Chỉ số khối cơ thể (BMI): dưới 25 (1 điểm).
+4. Bệnh tiểu đường: 2 điểm.
+5. Bệnh ung thư (bao gồm cả các dạng ung thư da nhẹ): 2 điểm.
+6. Bệnh phổi mạn tính gây hạn chế hoạt động hoặc cần thở máy tại nhà: 2 điểm.
+7. Suy tim do sung huyết: 2 điểm.
+8. Hút thuốc lá trong tuần trước: 2 điểm.
+9. Khó tự tắm rửa do vấn đề sức khỏe hoặc trí nhớ: 2 điểm.
+10. Khó quản lý tiền bạc, thanh toán hóa đơn, theo dõi chi tiêu do sự cố về trí nhớ hoặc sức khỏe: 2 điểm.
+11. Khó đi bộ do sức khỏe: 2 điểm.
+12. Khó đẩy hoặc kéo những vật lớn như cái ghế do sức khỏe: 1 điểm.
+Điểm số và nguy cơ tử vong. Điểm càng cao thì nguy cơ tử vong càng lớn.
+1. 0-5 điểm: dưới 4% nguy cơ tử vong.
+2. 6-9 điểm: 15% nguy cơ tử vong.
+3. 10-13 điểm: 42%.
+4. 14 điểm trở lên: 64%.
+

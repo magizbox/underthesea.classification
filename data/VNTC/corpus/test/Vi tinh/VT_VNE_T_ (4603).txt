@@ -1,0 +1,8 @@
+Màn hình giấy điện tử màu lớn nhất
+Công ty E Ink của Mỹ và hãng điện tử LG.Philips đã tạo ra sản phẩm kích thước 10,1 inch, được coi là bước nâng cấp quan trọng tiến gần đến giấc mơ về những cuốn sách và tạp chí điện tử.
+Màn hình mô phỏng này dày khoảng 0,3 mm, mỏng và linh hoạt như giấy xây dựng. Chữ và hình trên sản phẩm có thể cuộn lại này trông tương tự như những ký tự và ảnh in bằng giấy mực thông thường. 
+Giấy điện tử mới của E Ink được hình thành dựa trên công nghệ màn hình đơn màu mà công ty đang sản xuất và đã được ứng dụng trong nhiều sản phẩm như sách điện tử Librie của Sony.
+Màn hình được tạo từ microcapsule (vi chất capsule), bao gồm những sắc tố trắng và đen lưu thông trong chất lưu không màu. Sắc tố tăng hoặc giảm sẽ tùy thuộc vào dòng điện. Vô số microcapsule kẹp giữa một miếng thép và một mảnh nhựa trong suốt sẽ tạo ra những chấm nhỏ li ti và hình thành nên trang giấy trắng đen. 
+Sự khác biệt chính của sản phẩm là bộ lọc màu và sử dụng ánh sáng xung quanh để hiển thị hình ảnh, mà không cần chiếu sáng nền như màn hình tinh thể lỏng LCD. Giấy điện tử không bị vỡ như thủy tinh, có độ phân giải 600 x 800, tương tự trên màn hình máy tính CRT, và tỷ lệ tương phải 10:1. 
+E Ink dự định tung ra thị trường sản phẩm được Intel và Philips đầu tư này vào cuối 2006. Trong tương lai, nó sẽ còn được ứng dụng trong màn hình ATM, camera và điện thoại di động.
+

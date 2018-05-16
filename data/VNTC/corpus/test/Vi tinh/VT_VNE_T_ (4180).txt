@@ -1,0 +1,9 @@
+Viết chương trình báo thức bằng Visual Basic (1)
+Xin chỉ giúp dùm em một ý như sau:Em dùng Visual Basic để viết một chương trình báo thức nhưng em không biết dùng Control nào trong Visual Basic để viết. Xin chỉ giúp em. Có thể cho em xin đoạn code đó được không ạ? Xin chân thành cảm ơn! 
+Bui Dinh Hoa
+Hồi âm:
+Chương trình chỉ để báo thức thôi thì khá đơn giản, bạn chỉ cần sử dụng control Timer trong VB 6.0 là bạn có thể làm được. Khi người sử dung set giờ báo thức, bạn bắt đầu bật timer. (interval = 1000).
+Cứ sau mỗi giây, bạn kiểm tra xem đã đến giờ báo thức hay chưa, nếu đến giờ thì chơi một khúc nhạc hoặc bất cứ tiếng động nào bạn muốn.
+Khi người dùng tắt báo thức bạn chỉ việt tắt timer là xong.
+Chúc bạn thành công.
+

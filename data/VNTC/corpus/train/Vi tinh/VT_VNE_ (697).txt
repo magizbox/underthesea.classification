@@ -1,0 +1,7 @@
+Trung Quốc đã chuyển sang chuẩn IPv9?
+Điều này khiến cộng đồng mạng hết sức ngạc nhiên vì đây là một giao thức Internet rất mới. Tờ Nhân dân nhật báo thậm chí còn đưa tin IPv9 - tương thích với IPv4 và IPv6 - đã chính thức được công nhận và phổ cập rộng rãi trong lĩnh vực hành chính và thương mại.
+Tin này làm các chuyên gia hệ thống ở Trung tâm điều hành mạng Bắc Mỹ (NANOG) không hiểu chuyện gì vì họ chưa bao giờ nghe thấy cái tên IPv9 như là một chuẩn kỹ thuật đã được xác lập. 
+Năm 1994, có một lần IPv9 đã được thêu dệt vào ngày cá tháng Tư (April Fool Day). Tuy nhiên, đó cũng là lần duy nhất giao thức này bị lôi ra làm trò đùa.
+Lực lượng điều hành IPv6 (IPv6 Task Force), một nhóm kỹ thuật ở Anh, năm ngoái đã rất tích cực xúc tiến sự chấp nhận đối với chuẩn IPv6 (được coi là giao thức Internet thế hệ mới nhất) cũng tỏ ra khá bối rối và không thể giải thích được gì về tuyên bố của Trung Quốc trên báo chí.
+Mat Ford, cố vấn công nghệ của IPv6 Task Force, nói: Khi chưa có sự ghi nhận chi tiết kỹ thuật được công bố rộng rãi thì đây vẫn chỉ là một dạng tin đồn thổi. Trong khi đó, Christian de Larrinaga, Phó chủ tịch của lực lượng này, thì cho biết ông đã gửi một số thư liên hệ với các nhân vật cao cấp trong ngành công nghệ Internet của Trung Quốc và đang chờ đợi lời giải thích.
+

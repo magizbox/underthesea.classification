@@ -1,0 +1,23 @@
+ Cắt ráp file với hai phần mềm siêu nhỏ
+Thực ra việc cắt-ráp file rất quen thuộc với người dùng máy tính. Rất nhiều công cụ, tiện ích giúp chúng ta thực hiện, cổ điển như Norton Commander, mới hơn thì nó được tích hợp trong Total Commander… 
+Tuy nhiên, bạn hãy thử dùng để cảm thấy thích thú và ngạc nhiên vì khả năng của hai phần mềm siêu nhỏ sau đây 
+1. SplitJoin: Phần mềm miễn phí SplitJoin sẽ giúp bạn tận tình bằng cách cắt nhỏ file thành nhiều mảnh, vừa đủ chép từng mảnh lên mỗi đĩa mềm. Sau đó đem về nhà ráp chúng lại cũng chính bằng SplitJoin (cắt-ráp mà lại). 
+SplitJoin có dung lượng nhỏ đến không ngờ - 30KB. Bạn không cần cài đặt, chỉ đơn giản bấm kép chuột vào là nó hoạt động ngay. Tải về từ địa chỉ http://www.users.on.net/johnson/splitjoin 
+Để cắt nhỏ file: Chọn thẻ Split 
+- Khung File to Split: Bấm chuột vào nút Browse dò đến file cần chia cắt nhỏ (bạn yên tâm là nó không làm mất file gốc đâu). 
+- Khung Save to folder: Cũng bấm chuột và nút Browse chỉ định thư mục để chứa các file sau chia cắt. 
+- Split Size: Dung lượng của mỗi mảnh mà bạn muốn cắt nhỏ. Mặc định là 1.440KB tuơng đương sức chứa của 1 đĩa mềm, và dĩ nhiên bạn có thể giảm xuống còn 1.000KB chẳng hạn. 
+- Nếu đánh dấu kiểm vào Make copy of SplitJoin thì sau khi chia nhỏ file xong, phần mềm này sẽ tạo ra 1 bản sao của chính nó nằm luôn trong thư mục chứa các mảnh file cắt nhỏ để sau đó bạn dùng nó mà ráp các mảnh lại với nhau (quả là chu đáo!). 
+Xong những bước chuẩn bị trên bạn bấm nút OK - “Khắc xuất khắc xuất” rất nhanh chóng file được cắt nhỏ theo yêu cầu. 
+Ráp các file lại với nhau: Chọn thẻ Join 
+- Bấm nút Browse để chỉ đến thư mục chứa các file cần nối lại. Tất cả các file này sẽ hiển thị trong khung Files to join. 
+- Khung Save as: chỉ định nơi lưu trữ và tên file sau khi ráp nối. 
+- Nếu đánh dấu kiểm vào ô Delete parts after joining thì các mảnh nhỏ sẽ được xóa bỏ, chỉ giữ lại file mới được ráp lại mà thôi. 
+- Bấm OK-“Khắc nhập, khắc nhập” các mảnh nhanh chóng nối lại thành file ban đầu. 
+2. Finesplit: tải về từ địa chỉ www.freewebz.com/scramdicer/fileflipper102.zip . Tác giả Dariusz Stanislawek lại làm người dùng kinh ngạc hơn với finesplit vì: 
+- Thứ nhất dung lượng siêu, siêu nhỏ chỉ 3,45KB mà thôi. 
+- Thứ hai sau khi giải nén nó cũng chỉ 5,22KB. Tương thích với mọi môi trường Windows. 
+- Thứ ba bạn muốn chia nhỏ một file thì phải làm bằng cách bấm chuột vào file đó rồi kéo-thả vào biểu tượng của finesplit. Rất nhanh chóng, file lớn sẽ được chia thành nhiều file nhỏ mà mỗi file nhỏ có dung lượng bé hơn 1,44MB tức là có thể chép lên 1 đĩa mềm. 
+- Thứ tư là sau khi chia nhỏ nó tạo thêm 1 file MS-DOS Batch. 
+- Cuối cùng muốn ráp các file để dược file ban đầu thì bạn phải tạo 1 thư mục, đưa tất cả các file đã chia nhỏ cùng với file Batch vào đó. Bấm chuột vào file Batch, rất nhanh chúng ta sẽ có lại file nguyên thủy. 
+

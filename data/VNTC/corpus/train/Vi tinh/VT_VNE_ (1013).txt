@@ -1,0 +1,5 @@
+TP HCM thuê mạng để thực hiện chính phủ điện tử
+Hợp đồng vừa được ký kết chiều 9/11 tại Hà Nội giữa Bưu điện TP HCM và Ban quản lý Các dự án công nghệ thành phố, có giá trị 40 tỷ đồng và hiệu lực trong 5 năm.
+Hợp đồng cho thuê dài hạn mạng MAN (mạng băng rộng, do Bưu điện TP HCM tự đầu tư) ký kết giữa Bưu điện TP HCM và Ban quản lý Các dự án công nghệ nhằm mục đích cung cấp hạ tầng để kết nối tất cả các sở ban ngành của thành phố, cung cấp các dịch vụ công trên mạng, bước đầu xây dựng chính phủ điện tử cho TP HCM. 
+Giai đoạn 1 của dự án sẽ hoàn thành vào dịp 30/4/2005.
+

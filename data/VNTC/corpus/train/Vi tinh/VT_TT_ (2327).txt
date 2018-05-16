@@ -1,0 +1,5 @@
+ Chip audio biến mọi ĐTDĐ thành máy MP3
+Chip S1V30220 chỉ là một loại chip đơn nhưng nó tương thích với hầu hết các định dạng nhạc số phổ biến hiện nay như MP3, AAC, AACPlus, Midi… Ngoài ra nó cũng có đầy đủ mọi tính năng điều chỉnh âm thanh như: lọc âm thanh, điều chỉnh cường độ âm thanh, thiết lập chế độ nghe ở stereo hoặc mono… 
+Đa số các ĐTDĐ được trang bị thẻ nhớ MMC hoặc SD card hiện nay được định dạng bằng hệ thống file FAT đều có thể chuyển đổi công năng trở thành một máy nghe nhạc số bằng con chip S1V30220 độc đáo này. 
+Epson đã uỷ quyền cho công ty Coding Technologies tích hợp thành công chip S1V30220 cho tương thích với định dạng nhạc số AACPlus và trong tương lai chip này sẽ được nâng cấp để có thể biến các ĐTDĐ thành máy chơi video MP4. 
+

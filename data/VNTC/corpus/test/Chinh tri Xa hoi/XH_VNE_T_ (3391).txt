@@ -1,0 +1,5 @@
+Đào tạo lập trình viên trên thiết bị di động J2ME
+Học viên sẽ được hướng dẫn kỹ thuật phát triển ứng dụng trên thiết bị di động, thiết bị hỗ trợ Java, có thể thi lấy chứng chỉ quốc tế SCMAD của hãng Sun Microsystems. Đây là chương trình đào tạo lần đầu triển khai ở Việt Nam.
+Khoá học kéo dài 1,5 tháng. Học viên được học trực tiếp trên máy vi tính kỹ năng sử dụng công cụ Sun, cách khai thác những bộ thư viện của Java với nhiều thiết bị di động phổ biến. Chương trình cũng giới thiệu hình thức phát triển ứng dụng mạng thông qua các thiết bị di động như: điều khiển server từ xa, chat, duyệt web...
+Học viên đăng ký theo học phải biết ngôn ngữ lập trình Java hoặc C++ căn bản, đọc và hiểu tiếng Anh chuyên ngành. Chương trình do Trung tâm Tin học, Đại học Khoa học Tự nhiên TP HCM tổ chức.
+

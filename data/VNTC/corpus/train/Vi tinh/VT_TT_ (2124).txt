@@ -1,0 +1,7 @@
+ Viettel tính block 6 giây cho điện thoại cố định
+Theo cách tính cước mới, cước gọi từ điện thoại cố định của Viettel tới một thuê bao di động Viettel Mobile sẽ là 129 đồng/block 6 giây, tới một thuê bao di động mạng khác là 139 đồng/block 6 giây. Cách tính cước cũ (theo block 30 giây) là 765 đồng/block. 
+Theo ước tính, nếu chi phí gọi vào di động của một thuê bao điện thoại cố định chiếm khoảng từ 40 - 60% tổng chi phí điện thoại tháng thì với cách tính cước block 6 giây sẽ giúp khách hàng tiết kiệm được một khoản chi phí rất đáng kể. 
+Cụ thể, nếu thực hiện một cuộc gọi từ điện thoại cố định Viettel tới một thuê bao di động MobiFone hoặc Vinaphone với thời gian 17 giây thì khách hàng sẽ phải trả 417 đồng, giảm 45,5% nếu áp dụng cách tính cước block 30 giây. 
+Với việc áp dụng cách tính cước này, mạng điện thoại cố định Viettel đã trở thành mạng điện thoại cố định đầu tiên tính cước theo block 6 giây. 
+Hiện tại, Viettel có trên 100.000 thuê bao điện thoại cố định tại 28 tỉnh, thành phố trên cả nước. Dự kiến đến cuối quí I2/2006, Viettel sẽ mở rộng phạm vi cung cấp dịch vụ điện thoại cố định tại 50 tỉnh, thành phố. 
+

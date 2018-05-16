@@ -1,0 +1,6 @@
+IBM giới thiệu công nghệ chip thông minh
+Hôm 30/7, Big Blue ra mắt công nghệ morphing (biến hình) mang tính đột phá, cho phép chip thế hệ mới tự kiểm tra và điều chỉnh chức năng để tối ưu hóa chất lượng, sự vận hành và tiêu thụ điện năng mà không cần sự can thiệp của con người. 
+Công nghệ mới, với tên gọi eFUSE, kết hợp một số thuật toán phần mềm độc đáo và các mạch điện siêu nhỏ để tạo ra các chip có khả năng điều tiết, đưa ra các hành động thích ứng với những thay đổi về điều kiện và lệnh của hệ thống. 
+eFUSE có thể thay đổi cấu hình và hiệu năng của mạch điện để nâng cao khả năng vận hành hoặc tránh những sự cố tiềm tàng. Khả năng tự động hóa sẽ làm thay đổi cách thức thiết kế, sản xuất và tích hợp bộ vi xử lý vào máy tính, điện thoại di động, các thiết bị tiêu dùng điện tử và nhiều sản phẩm khác.
+Các nhà sản xuất bộ vi xử lý có thể sử dụng công nghệ morphing để thay đổi loại chip cho các hãng máy tính, tùy theo nhu cầu của người dùng cuối. Hiện nay, khách hàng của IBM đã có thể sử dụng công nghệ eFUSE trong những công việc như thử nghiệm và xác nhận tính hợp lệ của chip khi xuất xưởng. Trước đây, công việc này thường được thực hiện bằng tay, sử dụng laser để sửa chữa hoặc loại bỏ các khiếm khuyết. 
+

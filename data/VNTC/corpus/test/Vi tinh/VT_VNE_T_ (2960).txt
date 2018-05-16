@@ -1,0 +1,8 @@
+Intel sắp trình làng nền desktop cho PC
+Với nỗ lực tiếp nối thành công sau sản phẩm chip Centrino cho máy tính di động, hãng sản xuất vi xử lý số 1 thế giới hôm qua cho biết họ sẽ giới thiệu một nền desktop cho máy tính vào cuối tháng này, dành riêng cho các doanh nghiệp.
+Theo Laura Anderson, phát ngôn viên của Intel, platform này sẽ bao gồm bộ vi xử lý Pentium IV có các tính năng làm đơn giản hóa việc quản lý hệ thống, nâng cao khả năng bảo mật và tiết kiệm điện. 
+Các hệ thống dựa trên nền này sẽ là những máy tính đầu tiên tích hợp "Công nghệ quản lý năng động" của Intel, giúp các nhà quản trị mạng của doanh nghiệp có thể ngồi từ xa điều khiển và bảo vệ được PC ngay cả khi máy đã tắt hay bị va đập. Họ sẽ có thể truy cập vào một bản hồ sơ (record) đầy đủ về những phần mềm được cài đặt trên mỗi máy tính và thay đổi được chúng. Về vấn đề bảo mật, máy tính sẽ hỗ trợ một công nghệ có thể tránh được những vụ tấn công phần mềm kiểu gây tràn bộ nhớ đệm (buffer overrun). 
+Trong những tháng vừa qua, Intel đã hướng sang việc cung cấp nền phần cứng cho những mục đích sử dụng chuyên nghiệp. Xu hướng này bắt đầu từ 2003 khi công ty giới thiệu một nhóm thiết bị xử lý không dây theo chuẩnCentrino.
+Hiện nay, khoảng 31% lượng chip xuất xưởng từ các nhà máy của Intel là dành cho máy tính di động, so với 17% trong năm 1999. Công ty cho biết điều này sẽ giúp ổn định giá cả của notebook và tăng thị phần cho họ.
+Người ta đang mong chờ Intel trình diện một nền mới cho những người sử dụng máy tính tại nhà vào cuối tháng này, trong đó tích hợp một thiết bị Pentium có 2 cơ cấu xử lý được thiết lập trên một chip đơn. 
+

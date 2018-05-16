@@ -1,0 +1,26 @@
+Hầu hết báo điện tử Mỹ vẫn chỉ cập nhật 1 lần/ngày
+Website tin tức ngày nay là một kênh lý tưởng để công bố các sự kiện nóng bỏng đủ loại diễn ra. Thế nhưng một khảo sát của Đại học Texas (Mỹ) lại phát hiện ra rằng, 10 năm sau ngày tờ báo trực tuyến đầu tiên ra đời, hầu hết trang tin online ở nước này vẫn chưa đạt tần suất cập nhật liên tục.
+Qua phân tích trang chủ của 30/100 tờ báo điện tử lớn nhất nước Mỹ, trong đó chú trọng vào các mục tin nóng, chỉ số chứng khoán, thời tiết, xã luận (không kể các bài bình luận), các nhà nghiên cứu nhận thấy chỉ có hơn chục địa chỉ thực sự năng động, cập nhật liên tục những tin nóng. Tuy nhiên, trong số này có 13 báo chỉ tăng thêm một số lượng bài mới khiêm tốn và 5 địa chỉ không có thêm lần cập nhật đáng kể nào trong ngày. Dưới đây là những trang tin trực tuyến có độ cập nhật cao nhất (trong ngoặc là số lần thay đổi trong ngày):
+Long Island Newsday (202,7) 
+USA Today (148,2) 
+Houston Chronicle (138,4) 
+Chicago Tribune (133) 
+New York Times (127,5) 
+Los Angeles Times (121,3) 
+Washington Post (115,3) 
+Wall Street Journal (85,9) 
+Hartford Courant (84) 
+Fort Worth Star-Telegram (68,7) 
+Allentown Morning Call (64,6) 
+The Oklahoman (60,2) 
+Các báo trong cuộc thăm dò được chia thành 3 lớp, biểu thị mức độ thu hút độc giả cao, trung bình và thấp. Trong nhóm trên có 8 báo thuộc lớp cao. Ba tờ The Hartford Courant, Fort Worth Star Telegram và The Oklahoman thuộc lớp trung bình và Allentown Morning Call thuộc lớp thấp. 
+Những trang tin online kém cập nhật nhất là:
+Harrisburg Patriot-News (9,7 lần/ngày) 
+Tampa Tribune (12) 
+New York Post (14,1) 
+Worcester Telegram  Gazette (18,4) 
+Buffalo News (24,5) 
+Các nhà nghiên cứu đưa ra kết luận sơ bộ là những tờ báo nhỏ thì thường có xu hướng ít cập nhật tin trên trang nhất. Ví dụ như website có số lần update ít nhất, Harrisburg Patriot-News, cũng chính là trang tin có số bạn đọc thấp nhất trong Top 100.
+Phân tích của Đại học Texas còn tìm hiểu thể loại nội dung của những thay đổi trên các trang tin điện tử. Những tin tức gai góc chiếm gần 1/2 số nội dung cập nhật, trong khi 30% là những tin có nội dung nhẹ nhàng hơn. 90% thông tin cập nhật là các nội dung text và hơn 72% những thay đổi trong ngày là tin mới hoàn toàn, so với số còn lại là các phần bổ sung vào bài đã đăng.
+Những thay đổi tập trung chủ yếu vào buổi sáng và chiều. Điều này cho thấy đây là hai thời điểm mà các báo trực tuyến thu hút được đông bạn đọc nhất. Khảo sát cũng nhận thấy, khi có sự cập nhật, hầu hết những tin nổi bật sau khi chiếm vị trí đẹp nhất trên trang chủ đều biến mất khỏi homepage thay vì được chuyển xuống một vị trí khiêm tốn hơn. 
+

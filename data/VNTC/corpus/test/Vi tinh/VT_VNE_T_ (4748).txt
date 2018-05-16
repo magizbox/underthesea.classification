@@ -1,0 +1,8 @@
+Lỗi Cisco khiến mạng Wi-Fi gặp nguy hiểm 
+Một lỗ hổng bảo mật trong bộ điều khiển (controller) LAN không dây của công ty giải pháp mạng Mỹ có thể tạo cơ hội cho kẻ tấn công gửi lưu lượng thông tin nguy hiểm tới một mạng Wi-Fi và truy cập trái phép.
+Vấn đề không liên quan đến những thiết lập tại gia, mà chỉ ảnh hưởng tới những mạng Wi-Fi lớn. Nó xảy ra khi điểm truy cập Wi-Fi thuộc dòng Cisco 1200, 1131 và 1240 được quản lý bởi bộ điều khiển WLAN Airespace dòng Cisco 2000 và 4400.
+Bộ điều khiển thường được sử dụng bởi nhà điều hành những mạng vô tuyến lớn, bao gồm nhiều điểm truy cập khác nhau, có vai trò làm trung tâm điều hướng các chức năng như chính sách bảo mật, ngăn chặn sự xâm nhập và quản lý tần sóng.
+Điểm truy cập, ngay cả khi được cấu hình để chỉ cho phép những lưu lượng thông tin đã mã hóa, vẫn có thể chấp nhận những luồng chưa mã hóa được gửi tới mạng. Do đó, kẻ tấn công sẽ khai thác sơ hở này và gửi đi những gói tin nguy hiểm và truy cập mạng bất hợp pháp.
+Tuy nhiên, để thành công, tin tặc phải sử dụng một địa chỉ phần cứng, còn gọi là số kiểm soát truy cập nghe nhìn (Media Access Control number), của những thiết bị đã được chứng thực trong mạng đó, nhờ vậy nguy cơ được hạn chế đáng kể.
+Cisco cũng đã giới thiệu phần mềm cập nhật cho mạch điều khiển WLAN để sửa lỗi được đánh giá ở mức "trung bình" này. Thông tin chi tiết xem tại đây.
+

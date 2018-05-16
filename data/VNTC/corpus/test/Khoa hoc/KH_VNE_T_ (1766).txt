@@ -1,0 +1,10 @@
+Áo ngực thể thao giúp kiểm tra nhịp tim
+Hãng Numetrex vừa giới thiệu một loại áo ngực thể thao có khả năng đọc nhịp tim và gửi tín hiệu về một chiếc máy tính gắn ở cổ tay hay đeo quanh vòng eo của người mặc.
+Chiếc áo có những cảm biến được kết bên trong các lớp vải. Những cảm biến này sẽ thu nhận nhịp tim của người mặc và chuyển các tín hiệu về một bộ truyền gắn ở phía trước áo. Bộ nhận tín hiệu sau đó tính toán nhịp tim và hiển thị lên chiếc đồng hồ Solar mà người mặc đeo ở cổ tay mình để họ tự theo dõi.
+Numetrex cho rằng, chiếc áo ngực này sẽ giúp loại bỏ những bộ cảm biến vướng víu mà các vận động viên chạy hay đua xe đạp thường phải mang theo để kiểm tra nhịp tim của mình.
+Từ lâu nay, những kết cấu vải điện tử, thí dụ như các máy tính mặc được hay các mắt kính tinh thể lỏng LCD, đã được nhắc đến trong các bài phát biểu về công nghệ trong tương lai. Trong vài năm qua, một số công ty đã bắt đầu biến ý tưởng này thành hiện thực.
+Loại vải được sử dụng trong sản phẩm áo lót của Numetrex là do hãng Textronics chế tạo. Những sợi vải có thể dẫn điện và có các thuộc tính tương tự như sợi lycra.
+Tương tự, hãng Eleksen của Anh cũng đã sáng chế ra một loại vải khác cũng có khả năng dẫn điện. Loại vải này không chứa các sợi dây dẫn và gần giống như lớp bọc ngoài của áo mưa. Nó đã được sử dụng để chế tạo một số sản phẩm như loại bàn phím có thể cuộn lại thành một chiếc ống và một loại áo trượt tuyết có khả năng phát nhạc MP3.
+Còn hãng Triage Wireless thì lại sử dụng một miếng dán để kiểm tra huyết áp và các triệu chứng khác của các bệnh nhân. Các thông tin thu nhận được sẽ được gửi qua mạng di động tới các bác sĩ. Ngoài ra, hồi đầu năm nay hãng Triumph cũng đã giới thiệu một loại áo lót giúp giữ ấm cho người mặc.
+Numetrex dự kiến sẽ bán loại áo lót thể thao mới ra thị trường với giá 45 USD. Còn nếu khách hàng muốn mua cả bộ kèm theo một chiếc đồng hồ Polar và một bộ truyền tín hiệu sẽ phải trả 115 USD.
+

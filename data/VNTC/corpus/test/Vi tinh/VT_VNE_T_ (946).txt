@@ -1,0 +1,6 @@
+Nén tập tin Flash bằng Sparkle SWF Optimizer 
+Mặc dù flash (có đuôi mở rộng .swf) là một trong những file chạy có kích thước nhỏ nhất hiện nay, bạn vẫn có thể làm nó trở nên gọn hơn nữa với Sparkle SWF Optimizer. 
+Bằng cách loại bỏ những yếu tố trùng lặp, chương trình có thể nén tập tin flash xuống tới 70% mà không làm suy giảm chất lượng.
+Sparkle SWF Optimizer có giao diện đơn giản, rất dễ sử dụng. Nếu là người yêu thích sưu tầm các loại thiệp và hoạt hình flash, bạn sẽ tiết kiệm được rất nhiều không gian ổ cứng với phần mềm này. Còn nếu bạn là nhà phát triển web chuyên nghiệp, chương trình sẽ giúp bạn xây dựng những trang web có tốc độ tải xuống nhanh hơn, tiết kiệm được băng thông và hosting. 
+Phần mềm nặng 2 MB. Bạn có thể tải bản dùng thử, bị hạn chế một số chức năng, tại đây.
+

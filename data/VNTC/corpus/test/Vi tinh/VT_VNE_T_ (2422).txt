@@ -1,0 +1,5 @@
+Mozilla vá lỗi an ninh phần mềm e-mail và trình duyệt
+Phiên bản nâng cấp 1.7.6 cho trình duyệt Mozilla và 1.0.2 cho công cụ gửi nhận e-mail Thunderbird vừa được tổ chức phát triển phần mềm mã mở phát hành tuần này. Xem danh sách toàn bộ các phần nâng cấp tại đây. 
+Trước mắt, Mozilla vẫn tiếp tục phát triển và hỗ trợ các trình duyệt mang tên tổ chức này thuộc dòng 1.7x nhưng họ cũng đang bắt đầu chuyển giao dần công việc cho một nhóm mới nổi có tên Seamonkey.
+Tải Thunderbird 1.0.2 và Mozilla 1.7.6 cho Windows, Mac OS X và Linux tại đây.
+

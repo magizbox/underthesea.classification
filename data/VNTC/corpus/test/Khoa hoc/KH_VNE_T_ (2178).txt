@@ -1,0 +1,7 @@
+Thử rượu qua máy tính
+Từ khi con người biết thưởng thức rượu, họ cũng luôn tìm tòi những phương pháp mới để khiến hương vị của loại đồ uống có cồn này ngon hơn, điển hình là qua công đoạn thử chất lượng các loại nho tại thời điểm hái.
+Nhưng Lorenz Biegler, nhà khoa học thuộc Đại học Carnegie Mellon tại Pittsburgh (Pennsylvania, Mỹ) đang nghiên cứu một công thức toán học trên máy tính, có thể tự động kiểm soát quá trình lên men, điều chỉnh thành phần và điều kiện ủ để đảm bảo hương vị rượu nho ngon nhất. 
+"Nghiên cứu hiện mới chỉ dừng lại ở loại rượu trắng bởi vang đỏ chứa nhiều thành phần phức tạp hơn và rất khó phân tích", Biegler nói.
+Ông cùng với một số nhà khoa học khác đã phối hợp với các nhà sản xuất rượu ở Chile kiểm nghiệm xem liệu sự phát triển mô hình trên máy tính có ảnh hưởng đến chất lượng của sản phẩm cuối cùng hay không. 
+Biegler cho biết hệ thống điện toán tương tự đang được sử dụng trong các nhà máy hóa chất, tinh lọc dầu và dược phẩm.
+

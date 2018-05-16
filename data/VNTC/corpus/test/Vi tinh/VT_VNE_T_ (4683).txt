@@ -1,0 +1,7 @@
+PC 'ma' phát tán khoảng 1 triệu thư rác mỗi ngày
+Microsoft đã tiến hành một vụ kiện chống lại 13 tổ chức không được nêu tên vì đã gửi đi hàng triệu thông điệp spam thông qua các hệ thống máy tính bị khống chế(zombie).
+Mạng máy tính ma (botnet) bao gồm tập hợp những PC bị tin tặc kiểm soát và sử dụng để gửi thư rác, quản lý những website bất hợp pháp, có nội dung khiêu dâm, đồi trụy, hoặc thực hiện tấn công từ chối dịch vụ DDoS.
+Hãng phần mềm khổng lồ của tỷ phú Bill Gates đầu năm nay đã cố tình khiến một PC bị nhiễm sâu Internet, biến nó trở thành một phần trong hệ thống máy tính ma. Chỉ trong 20 ngày, zombie này đã nhận được 5 triệu lần kết nối từ những kẻ chuyên phát tán thư rác, và bị "yêu cầu" gửi đi 18 triệu thông điệp quảng cáo cho 13.000 website. Thậm chí, trong những ngày cao điểm, nó có thể tự gửi đi 1,8 triệu spam.
+Microsoft đã lần ra ít nhất 13 nhóm spam có hạng và tiến hành khởi kiện bắt đầu từ tháng 8. Trước đây, tập đoàn cũng đã kiện nhiều tay gửi thư rác, nhưng chưa bao giờ hướng mục tiêu vào những đối tượng sử dụng botnet. Tim Cranton, Giám đốc bảo mật Internet của Microsoft, cho biết: "Việc thiết lập hệ thống bị khống chế để thực hiện những hành vi phạm tội nguy hiểm qua mạng đang tăng lên với tốc độ cao và ảnh hưởng không nhỏ tới cộng đồng người dùng Internet toàn cầu".
+Hành động pháp lý này được thực hiện sau khi Hà Lan bắt giữ 3 thanh niên vì tội danh xây dựng mạng botnet lên tới 1,5 triệu máy tính ma.
+

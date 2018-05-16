@@ -1,0 +1,3 @@
+Các hãng hàng không, các dịch vụ lữ hành, các doanh nghiệp và thậm chí cả những nhà xuất bản dạng sách sổ tay du lịch kiểu cũ cũng đang chạy theo việc xây dựng dạng thông tin có thể truy cập bằng điện thoại hay MP3.
+Chẳng hạn như dự án History Unwired, http://web.mit.edu/frontiers/, sử dụng công nghệ Bluetooth để cung cấp cho khách du lịch những giai thoại, những câu chuyện về những người thợ làm bánh, những người đánh cá khi họ đến tham quan khu Castello nổi tiếng của Venice (Ý). Còn Soundwalk mang đến cho du khách những chuyến tham quan đầy âm thanh sống động ở những địa điểm nổi tiếng của New York (Mỹ), và sắp tới đây sẽ là ở Paris (Pháp) và Varanasi (Ấn Độ)...
+

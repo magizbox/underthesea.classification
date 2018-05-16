@@ -1,0 +1,6 @@
+DVD-Rom trục trặc (1)
+Máy của tôi là Emachine ( Laptop ) không hiểu sao ổ TOSHIBA DVD\CD-Room SD-R2312 nó không đọc được bất kì DVD or CD nào, cái icon của nó ở trong My Computer cũng biến mất luôn, khi tôi check nó trong Device Manager thì thấy nó nói là: "Windows successfully loaded the device driver for this hardware but cannot find the hardware device" . Tôi đã thử lại nó bằng cách đưa CD restore system và CD Windows XP pro vào, nhưng nó vẫn không đọc được, nhưng khi đưa vào và reboot comp thì nó lại đọc được. Mong được sự quan tâm của các bạn, cám ơn các bạn.
+Pham
+Hồi âm:
+Bạn hãy thử bằng cách này: control panel switch to classic viewsystem hardware device manager nhấp chuột VIEW, chọn show hidden devices nhấp chuột cd rom/dvdnhấp phải trên DVD và cd ROM chọn uninstall. Khởi động lại, win sẽ cài lại cho bạn.
+

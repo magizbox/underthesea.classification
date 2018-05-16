@@ -1,0 +1,5 @@
+Virus mát mẻ tấn công website phiến quân Chesnya
+Loại sâu e-mail giả dạng hình ảnh người mẫu khỏa thân này được thiết kế để tung ra các cuộc tấn công từ chối dịch vụ vào một số trang web của quân ly khai ở nước cộng hòa thuộc Liên Bang Nga.
+Virus có tên Maslan.C, phát tán trong những bức thư có chủ đề 123 với file đính kèm Playgirls2.exe. Giống như các loại sâu e-mail khác, Maslan sẽ được kích hoạt và xâm nhập vào máy tính khi người nhận thư mở phần attachment, biến PC của họ thành một tác nhân DDoS. Cuộc tấn công này được đặt thời gian cho ngày đầu tiên của mỗi tháng. Tuy nhiên, vì Maslan.C mới chỉ lây lan vào rất ít máy tính nên chưa chắc nó có thành công hay không trong việc làm lụt các website mục tiêu.
+Những địa chỉ này có một vai trò quan trọng trong việc tuyên truyền chiến tranh của quân du kích Chesnya, chuyên gia Graham Cluley của hãng bảo mật Sophos (Anh), nói. Tác giả của virus này rõ ràng muốn gây khó khăn cho phe ly khai Chesnya trong việc công bố thông tin lên Internet. Dù thế nào thì phát tán virus cũng là một loại tội phạm.
+

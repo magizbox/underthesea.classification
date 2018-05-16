@@ -1,0 +1,5 @@
+ Mỹ: diễn tập chống tấn công tin học.
+Theo George Foresman, thuộc ban tổ chức cuộc diễn tập mang tên "cơn bão từ không gian điều khiển", tính an toàn trong công nghệ thông tin là điều chủ yếu của việc bảo vệ cơ sở hạ tầng tại Mỹ vì các hệ thống tin học được mắc nối chặt chẽ với nhau cũng như thể hiện trong vô số mặt kinh tế và xã hội Mỹ. 
+Cuộc diễn tập trên thế giới ảo đầu tiên này được giả định bằng một loạt các cuộc tấn công tin học chống các cơ sở hạ tầng có độ nhạy cảm cao của Mỹ (năng lượng, các ngành giao thông, tài chính, các dịch vụ mật và an ninh). Trong đó, các bên tham gia sẽ nghiên cứu các biện pháp điều phối cần thiết giữa những đơn vị phụ trách bảo vệ chúng. Trong trường hợp này, toàn bộ các cơ quan chức năng của chính phủ liên bang, các bang và lĩnh vực tư nhân đều nhập cuộc. 
+Các công ty chuyên về công nghệ thông tin như Microsoft, Cisco Systems, Intel và Symantec đã tham gia diễn tập bên cạnh tổ chức Chữ Thập Đỏ Mỹ và các bộ liên quan khác nhau như năng lượng, quốc phòng, thương mại... 
+

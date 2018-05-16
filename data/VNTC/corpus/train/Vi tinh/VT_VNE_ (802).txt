@@ -1,0 +1,7 @@
+Microsoft thắng 4 triệu USD trong vụ kiện spam
+Hôm qua, tòa án California ra phán quyết buộc một kẻ chuyên gửi spam bồi thường thiệt hại cho Microsoft 4 triệu USD. Bằng nhiều mánh lới tinh vi, nhân vật này đã lừa nhiều người tải về bản vá lỗi của Windows nhưng thực chất là phần mềm gián điệp.
+Năm ngoái, "chuyên gia spam" Daniel Khoshnood tung ra một loạt chiến dịch gửi thư rác, dọa người dùng về các nguy cơ bảo mật để gạt họ cài một thanh công cụ tự động tải những bản vá lỗi an ninh mới nhất của Windows từ trang web Windowsupdatenow.com. Trên thực tế, thanh công cụ này tải về tiện ích BrowserAid/QuickLaunch, dội bom người dùng với vô số quảng cáo pop up. 
+Kẻ lừa đảo lộ diện khi khách hàng của các dịch vụ MSN và Hotmail than phiền với Microsoft về những bức e-mail "ma". Sau đó, hãng phần mềm số 1 thế giới đã khởi kiện Khoshnood và 2 công ty của ông ta (Pointcom và Joshua-than Investments). Microsoft cũng kiện 10 bị cáo chưa được định danh khác trong vụ này. 
+Theo phán quyết của tòa án California, Khoshnood đã vi phạm quyền về tên thương mại sản phẩm của Microsoft, đồng thời yêu cầu các bị cáo bồi thường thiệt hại, chi trả án phí. Nếu Khoshnood còn tái phạm, mức phạt sẽ còn nặng hơn. 
+Khoshnood từng có tiền sự về lừa đảo qua mạng. Trong thập niên 90, nhân vật này dựng lên một số tên miền như Presidentclinton.com, và Microsoft-networks.com để lái người lướt web sang những trang sex và mua sắm.
+

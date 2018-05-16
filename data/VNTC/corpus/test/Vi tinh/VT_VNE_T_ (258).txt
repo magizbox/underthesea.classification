@@ -1,0 +1,6 @@
+MSN Hotmail lại trục trặc
+Sự cố trong mạng dịch vụ thư điện tử của Microsoft lần này có nguyên nhân khác so với vụ tắc nghẽn tuần trước. Ngày hôm qua, người sử dụng ở nhiều nơi trên thế giới đã không thể kết nối vào cả Hotmail lẫn MSN Messenger.
+Theo thông báo của rất nhiều khách hàng, trục trặc bắt đầu xảy ra từ khoảng 12 giờ đêm đến 3 giờ sáng (giờ Việt Nam). Microsoft cho biết họ đã xác định được nguyên nhân gây gián đoạn việc truy nhập và kết nối đối với một số dịch vụ MSN và họ đã khắc phục vấn đề này. 
+Sự cố lần này cũng ảnh hưởng đến khả năng kết nối của các khách hàng dùng MSN Internet Access. Hãng phần mềm cho rằng nguyên nhân của những trục trặc ở dịch vụ này là vấn đề bên trong, chưa xác định nguyên nhân, và không có bất cứ dấu hiệu nào của tấn công từ bên ngoài. 
+Đối với người sử dụng, mọi trục trặc đều như nhau khi mà điều đơn giản nhất là truy nhập dịch vụ đã không thực hiện được. Tuy nhiên, Microsoft vẫn khẳng định những sự cố lần này không giống với trường hợp gây gián đoạn kết nối 8 tiếng liền hôm thứ 6 tuần qua. Họ chưa công bố sự khác biệt cụ thể là như thế nào.
+

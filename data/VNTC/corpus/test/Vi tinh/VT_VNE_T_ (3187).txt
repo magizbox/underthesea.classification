@@ -1,0 +1,7 @@
+Lỗ hổng từ 7 năm trước xuất hiện trong Firefox
+Những phiên bản trình duyệt gần đây của Mozilla bao gồm Mozilla 1.7 và Firefox 1  đang mắc phải một lỗi đã xảy ra từ năm 1998, có thể tạo điều kiện cho tin tặc kiểm soát website.
+Theo hãng bảo mật Secunia (Đan Mạch), lỗ hổng "khá nghiêm trọng" này liên quan đến khung trình duyệt, cho phép tin tặc khai thác để cài nội dung vào site, hoặc tạo ra một khung đăng nhập giả, thu thập thông tin về tên và mật khẩu tài khoản trực tuyến.
+"Khi bạn đang xem một trang được hệ thống công nhận là đáng tin cậy (trusted site), ví dụ như trang web ngân hàng và vô tình vào trang của một kẻ lừa đảo nào đó trên một cửa sổ khác, kẻ đó có thể cài mã vào cửa sổ đang hiển thị site đáng tin cậy", quản trị viên của diễn đàn Mozilla Online mô tả.
+Mozilla khuyến cáo: "Để phòng ngừa, người sử dụng trình duyệt nên đóng tất cả các cửa sổ và tab trước khi truy cập vào site chứa thông tin bảo mật của mình như trang web ngân hàng hay những trang đòi hỏi khai báo chi tiết về tài khoản, thẻ tín dụng và các dữ liệu nhạy cảm khác".
+Hãng Secunia đã cung cấp mộtchương trình đánh giá lỗi để người dùng có thể kiểm tra mức độ an toàn của trình duyệt mình đang sử dụng. 
+

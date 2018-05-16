@@ -1,0 +1,11 @@
+ Gỡ bỏ ứng dụng với "Your Uninstaller! 2006 Pro"
+URSoft Software đã “quyết tâm” thay thế tính năng “Remove Progams” của Windows bằng công cụ Your Uninstaller! 2006 Pro siêu cấp với nhiều tính năng cộng thêm dư khả năng thu hút người dùng. 
+Một số chương trình phần mềm hiện nay khi cài đặt có khả năng qua mặt được công cụ “Add or Remove Progams” của Windows bằng cách không cho biểu tượng của chương trình hiện lên trong danh sách liệt kê, và như vậy “Add or Remove Progams” sẽ không có khả năng gỡ bỏ chương trình trên ra khỏi máy tính. 
+“Your Uninstaller! 2006 Pro” tỏ ra mạnh mẽ hơn nhiều so với “Add or Remove Progams”. Nó có khả năng phát hiện ra hầu hết mọi chương trình đã cài đặt trên máy tính và gỡ bỏ hết sức triệt để. Ngoài ra nó còn cung cấp nhiều công cụ dọn rác máy tính và gia tăng hiệu năng hoạt động của máy tính hiệu quả đến mức không ngờ. 
+Tính năng “Search” giúp người dùng dễ dàng tìm ra toàn bộ các chương trình theo từ khóa, theo thời gian cài đặt, theo dung lượng hoặc theo thời gian sử dụng gần nhất. 
+Tính năng “AutoFix” giúp người dùng tự động xóa bỏ mọi ứng dụng bị hư hỏng trong quá trình cài đặt từ nhiều nguyên do. 
+“Control Startup Program” là tính năng điều khiển toàn bộ trình Starup của Windows, giúp người dùng xóa đi, cho ẩn hoặc không cho chương trình nào đó được phép hiện ra trong Startup. 
+Tính năng “Find/Clean Temporary File” sẽ xóa sạch như chùi toàn bộ các file rác lưu trữ trong các thư mục Temporary. Số lượng file rác này có thể lên đến hàng vài ngàn file với dung lượng hàng trăm MB. 
+“Clean Start Menu” và “Clean IE Context Menu” là hai tính năng giúp người dùng quản lý hữu hiệu các menu Start và các nội dung menu của Internet Explorer. 
+Hiện URSoft Software đang bán ra công cụ “Your Uninstaller! 2006 Pro” với giá là 40 USD. Người dùng có thể vào đây để tải về bản dùng thử có dung lượng khoảng trên 4MB. Hiện “Your Uninstaller! 2006 Pro” đã có mặt tại các cửa hàng phần mềm tin học tại TP Hồ Chí Minh. 
+

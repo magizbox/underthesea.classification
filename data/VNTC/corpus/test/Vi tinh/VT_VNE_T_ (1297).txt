@@ -1,0 +1,5 @@
+Mạng Internet ở Lâm Đồng gặp sự cố
+Từ 7h30 ngày 24/10, gần như toàn bộ hệ thống Internet trên địa bàn Lâm Đồng đã bị tê liệt kéo dài hơn 3 giờ. Tất cả các trang web cung cấp thông tin lớn trong và ngoài nước đều không thể truy cập được.
+Theo ông Lê Hữu Cang, Giám đốc Trung tâm tin học bưu điện Lâm Đồng, lỗi gây nên tình trạng trên không thuộc đường cáp hay hệ thống máy móc của bưu điện địa phương mà do 2/3 máy chủ đường dẫn của công ty Điện toán và truyền số liệu (VDC) ở cổng TP HCM bất ngờ bị chết đứng. Sự cố ở VDC có thể do hai server làm nhiệm vụ thông đường về Lầm Đồng bị quá tải bởi số lượng lớn người truy cập và sử dụng các dịch vụ của những website nước ngoài.
+Ông Cang cũng khẳng định Trung tâm tin học bưu điện Lâm Đồng sẽ chia sẻ thiệt hại cho những thuê bao ADSL bởi sự cố trên bằng việc giảm tiền thuê bao trong tháng này.
+

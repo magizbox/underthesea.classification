@@ -1,0 +1,8 @@
+Đăng nhập Windows bằng phương thức mới
+Hôm qua, Microsoft và RSA Security thông báo sẽ hợp tác giới thiệu SecurID, một công nghệ bảo vệ password chặt chẽ hơn, đồng thời cho phép đăng nhập Windows bằng một cách hoàn toàn khác.
+Thay vì bị hỏi mật khẩu, với SecurID, người dùng Windows sẽ nhập tên truy cập cùng chuỗi ký tự (key-chain) hiển thị trên một thiết bị  phần cứng. Cứ 60 giây, key-chain tự động thay đổi, khiến mỗi lần truy cập là một chuỗi khác nhau. Công nghệ này gần giống máy rút tiền ATM, nơi khách hàng có chiếc thẻ và mã an ninh. Hai nhân tố định dạng này tạo thành một biện pháp bảo vệ chặt chẽ, bởi thiếu một thì không rút được tiền.
+Theo Scott Schnell, Phó chủ tịch RSA Security, công nghệ của họ sẽ gánh vác nỗi bực dọc của người dùng Windows, khi phải nghĩ ra password phức tạp và thay đổi chúng định kỳ. Bên cạnh đó, nó giúp các công ty không phải cài nhiều lớp mật khẩu bảo vệ như trước. Đây sẽ là lần đầu tiên các doanh nghiệp tận hưởng sự thuận tiện này, ông khẳng định.
+Về phía Microsoft, Giám đốc phát triển kinh doanh Michael Atalla khẳng định đây là một bước tiến quan trọng trong chương trình Điện toán tin cậy của hãng. Một hệ thống nhận dạng hiệu quả là nhu cầu an ninh thiết yếu, ông khẳng định.
+Công nghệ kiểu SecurID được RSA Security, có trụ sở tại Bedford (Mỹ), dùng cho nhiều hệ thống truy cập có mã số. Tuy nhiên, đây là lần đầu họ đưa nó vào Windows. Hệ điều hành trên hơn 90% máy tính cá nhân hiện vẫn được bảo vệ bằng password. Nhưng cho tới nay, chưa có hệ thống bảo vệ nào chặt chẽ như công nghệ mới này.
+Các doanh nghiệp có thể tiếp cận hệ thống nhận dạng mới từ tháng 9 tới, với điều kiện họ chạy Windows 2000, XP hay Server 2003 có bản quyền cùng phần mềm của RSA Security.
+

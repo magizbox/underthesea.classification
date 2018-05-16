@@ -1,0 +1,8 @@
+Thủ thuật đơn giản sau có thể cứu vãn phần nào tình trạng "nhập địa chỉ năm nay, năm sau web mới hiện ra" của PC. Bạn vào Start &gt; Run, nhập Gpedit.msc &gt; Local Computer Policy &gt; Administrative Templates &gt; Network Branch &gt; QoS Packet Scheduler, double click lên Limit Reservable Bandwith, chọn Enable và hạ giá trị trong Bandwith limit % xuống 0, OK và khởi động lại máy. 
+Tiêu diệt bớt screensaver
+Bất kỳ PC nào cũng chứa những screensaver được cài sẵn. Trong trường hợp không thích "quà khuyến mãi" của Windows, bạn có thể tiêu diệt screensaver bằng cách vào My Computer &gt; mở ổ đĩa C, chọn Search &gt; All Files and Folders, nhập .scr vào hộp thoại All or part of the file name, Enter. Danh sách các screensaver sẽ được liệt kê, việc còn lại của bạn chỉ là chọn và xóa.
+Cải thiện tốc độ xử lý của máy
+Khi WinXP phải chạy trên PC có cấu hình thấp, bạn rất dễ nổi điên khi máy tính liên tục bị trục trặc hoặc "giữa đường đứt gánh." Một trong những thủ thuật để tạm cứu vãn tình hình đó là tắt bớt effects của XP trong quá trình chạy. Bạn vào Start &gt; Control Panel &gt; System &gt; Advanced &gt; Performance, chọn "Adjust for best performance" và OK. 
+Ngăn cản Stand by khi đóng laptop
+Bất cứ khi nào bạn đóng laptop, WinXP sẽ mặc nhiên cho máy tính chạy ở chế độ Stand by hay Hibernation. Mặc dù chức năng này hết sức tiện lợi trong một số trường hợp nhưng cũng có khi cũng gây phiền phức, nhất là khi bạn chỉ rời máy trong chốc lát. Để tránh việc phải boot lại laptop khi thoát Stand by, cách làm như sau: vào Start &gt; Control Panel &gt; Power Options &gt; chọn thẻ Advanced, trong danh mục "When I close the lid of my portable computer", bạn chọn Do nothing, OK để lưu lại kết quả.
+

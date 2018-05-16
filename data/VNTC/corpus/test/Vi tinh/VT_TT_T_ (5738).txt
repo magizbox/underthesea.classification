@@ -1,0 +1,9 @@
+ Microsoft bán Windows giá rẻ cho Malaysia 
+Người khổng lồ về phần mềm trụ sở tại Redmond (Mỹ) sẽ phát hành phiên bản Windows XP Home Edition tiếng Malay cho những máy tính mới theo dự án “PC Gemilang” của chính phủ Malaysia. 
+Mục đích của chiến dịch “PC Gemilang” là tăng mức độ sử dụng máy tính tại Malaysia từ mức 15% lên 35% trong vòng 2 năm nữa. Để đạt được điều này, chính phủ Malaysia đã yêu cầu Pikom, một hiệp hội CNTT địa phương, để phát triển hàng loạt máy tính giá rẻ. 
+Theo Butt Wai Choon, Giám đốc điều hành Microsoft tại Malaysia, cho biết, Microsoft đã có một số điều chỉnh cho phần mềm trên sao cho không làm ảnh hưởng tới "chính sách một giá" của mình. 
+Những máy tính này sẽ trang bị bộ vi xử lý Celeron 1,7 GHz , 128 MB RAM, ổ cứng 40 GB, màn hình CRT 15 inch và các thiết bị ngoại vi như chuột, bàn phím, loa. Giá cả máy sẽ tùy thuộc vào việc người dùng lựa chọn hệ điều hành và các phần mềm kèm theo. 
+Phát ngôn viên trên không cho biết chính xác giá phần mềm bán cho Malaysia. Nhưng một phiên bản Windows XP Home và Office XP tiếng Anh hiện nay đang được bán lẻ với giá tương ứng 199 USD và 399 USD. Điều này có nghĩa rằng giá cơ bản cho hệ điều hành Windows rút gọn và gói phần mềm Work Suite cơ bản sẽ rẻ hơn khá nhiều so với phần mềm Microsoft đang bán hiện nay để phù hợp với mức giá 643 USD/mỗi PC. 
+Theo Pikom, Malaysia sẽ cung cấp hơn 100.000 PC giá 643 USD cho người dùng trên cả nước. Tháng 6 vừa qua, Microsoft đã phối hợp với chương trình PC giá rẻ của chính phủ Thái Lan để cung cấp các phiên bản Windows XP sửa đổi với giá 40USD, trong khi giá bán thông thường của nó là vài trăm USD. 
+Theo dự đoán, trong tương lai, châu Á sẽ trở thành khu vực phát triển công nghệ lớn nhất thế giới, và Microsoft không muốn đánh mất thị trường béo bở này và càng lại không muốn chứng kiến cảnh các đối thủ khác "qua mặt" mình, nên hãng buộc phải có những chính sách ưu tiên cho thị trường máy tính châu Á. 
+

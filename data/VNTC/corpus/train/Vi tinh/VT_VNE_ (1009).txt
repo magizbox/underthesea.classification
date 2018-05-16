@@ -1,0 +1,9 @@
+Sâu Bofra hay biến thể Mydoom mới khai thác lỗi IE?
+Máy tính của những ai hiếu kỳ bấm vào đường link trong e-mail hứa hẹn dẫn tới một kênh webcam hoặc website có nội dung người lớn sẽ bị lây nhiễm virus. 
+Các chuyên gia của hãng phần mềm an ninh Sophos (Anh) đặt tên chương trình này là Bofra.A. Virus phát tán trong những e-mail có nhiều tiêu đề và nội dung khác nhau, tiêu biểu các subject Hello, funny photos :), với một số nội dung bên trong như Look at my homepage with my last webcam photos!, FREE ADULT VIDEO! SIGN UP NOW!. 
+Những e-mail này giả vờ dẫn tới những trang web có nội dung đồi trụy. Mã tấn công đặt tại các địa chỉ đó khai thác một khiếm khuyết IFRAME, phát hiện gần đây trong trình duyệt web Internet Explorer của Microsoft. Khi thâm nhập vào PC nạn nhân, Bofra sẽ thu thập địa chỉ e-mail trong danh sách liên lạc của máy tính bị tấn công, sau đó chuyển tiếp những bức thư nói trên để nhân rộng khả năng phát tán.
+Sophos cho biết có vẻ như loại sâu mới không tấn công máy tính chạy Windows XP đã cài bản nâng cấp Service Pack 2.
+Trong khi đó, các công ty bảo mật hàng đầu Symantec và McAfee, lại xác định loại virus mới là một biến thể của sâu Mydoom. Symantec đặt tên là Mydoom.AH còn McAfee thì gọi là Mydoom.AG. Cả 2 hãng cho biết đến thời điểm này họ mới chỉ ghi nhận một số ít trường hợp bị lây nhiễm.
+Đây không phải là lần đầu tiên hacker khai thác khiếm khuyết trong sản phẩm của Microsoft trước khi hãng này tung ra bản sửa lỗi. Một đơn vị quảng cáo trước đây từng cố gắng cài đặt một toolbar chạy pop-up trên Internet Explorer của máy tính nạn nhận bằng cách lợi dụng 2 lỗi chưa được khắc phục ở trình duyệt web này. Microsoft cho biết đang điều tra về lỗ hổng nói trên và đã xác nhận sự xuất hiện của virus mới khai thác lỗi này.
+McAfee đánh giá sâu mới thuộc loại nguy cơ thấp nhưng có thể số e-mail chứa nó vẫn phát tán rộng.
+

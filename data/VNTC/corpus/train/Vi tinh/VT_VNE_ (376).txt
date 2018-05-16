@@ -1,0 +1,6 @@
+Thành lập nhóm USB không dây
+Nhằm tạo ra khả năng kết nối không dây cá nhân tốc độ cao đầu tiên, tập đoàn Intel và các công ty công nghệ hàng đầu vừa tuyên bố lập Nhóm thúc đẩy chuẩn kết nối USB không dây. Những thành viên gồm: Agere Systems, HP, Microsoft, NEC, Philips Semiconductors và Samsung.
+Nhóm này đã bắt đầu xác định cấu hình kỹ thuật của chuẩn kết nối USB không dây với mục tiêu đạt băng thông 480 Mbps để duy trì các hình thức sử dụng và cấu trúc giống như những chuẩn kết nối USB 2.0 có dây hiện nay. Giao diện của chuẩn kết nối USB không dây sẽ tạo ra những lợi ích kết nối wireless tốc độ cao, bảo mật, dễ sử dụng và tính năng tương thích ngược.
+Jeff Ravencraft, chuyên gia chiến lược công nghệ của Intel, cho biết: Nhóm thúc đẩy chuẩn kết nối USB không dây cam kết duy trì cơ sở hạ tầng và đầu tư cho các thiết bị và trình điều khiển kết nối USB hiện nay, giữ nguyên hình dáng và tính dễ sử dụng của chuẩn kết nối USB có dây.
+Những áp dụng chuẩn kết nối USB không dây đầu tiên dự kiến được sản xuất dưới dạng silicon rời và sẽ được giới thiệu trong một số mô hình, bao gồm thẻ và ổ đĩa gắn trong cùng với các giải pháp nhúng.
+

@@ -1,0 +1,6 @@
+Hỏi về Office 2000 (1)
+Xin giúp dùm em làm cách nào để cho Office 2000 hoặc XP có thể hiểu được các file do Office 97 tạo ra . Xin cảm ơn.
+Hoài Nam
+Hồi âm:
+Ban vao Tools-Options-Compatibility, phan"Recommended Options for", chon"Microsoft Word 97". Chuc thanh cong!
+

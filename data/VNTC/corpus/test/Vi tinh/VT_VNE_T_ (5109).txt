@@ -1,0 +1,12 @@
+Chuyển ảnh thành tranh vẽ chì (1)
+Cách đây khoảng 1-2 năm tôi có đọc 1 bài viết về việc chuyển 1 hình chụp (photo) với digital camera thành 1 hình vẽ sơ phát bằng bút chì (skecth), và đã được sử dụng bởi phần mềm Adobe Photoshop hoặc Adobe Photoshop Elements. Lúc đó tôi có thử theo hướng dẫn, nhưng kết quả không được đẹp. Vậy quý vị có phương cách hướng dẫn nào mới hơn, xin vui lòng hướng dẫn. Cảm ơn quý vị truớc!
+Phan Đạt
+Hồi âm:
+Ban dung chuong trinh Photoshop 7.0 de thuc hien. Cac buoc nhu sau:- Mở một file ảnh bất kỳ và nhân nó lên 3 lần. Nghĩa là bạn phải có 3 bản copy và một layer background 
+- Lần lượt Desaturat 3 layer vừa được copy bằng cách chọn layer đó và nhấn tổ hợp phím Ctrl-Shift-U 
+- Ở layer trên cùng vào Filter  Stylize  Find Edge, sau đó đổi chế độ hoà trộn thành Color Burn 
+- Chọn layer thứ 2 từ trên xuống và nhấn Ctrl-I để invert layer này. Sau đó thì đổi chế độ hoà trộn thành Color Dodge. Bạn sẽ thấy hình của bạn gần như biến thành màu trắng hoàn toàn, đừng lo! cái hay còn ở phía sau. Vẫn ở layer đó, vào Filter  Blur  Gaussian Blur với giá trị Radius là 10 px. Bây giờ hình của bạn cũng tạm ổn rồi đấy. 
+- Sau đó bạn liên kết layer 1 và layer 3 lại. Và nhấn Ctrl-E để merge 2 layer vừa được liên kết lại, bây giờ bạn còn lại 2 layer: layer hình gốc và layer nét vẽ bút chì 
+- Sau đó vào Filter  Brush Stroke  Angles Strokes và thiết lập thông số như sau: Direction: 100 Stroke length: 6 Sharpness: 10 
+- Bạn có thể dừng lại ở bước 6, vì cơ bản đã hoàn thành! nhưng bước này là tô thêm màu cho bức ảnh thêm quốc tế! Bạn chỉ việc chọn layer nằm trên cùng và hạ mức Opacity xuống còn khoảng 70%.
+

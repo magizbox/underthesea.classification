@@ -1,0 +1,8 @@
+Phần mềm cắt xén phim trong đĩa DVD (2)
+Xin hỏi các bạn có phần mềm nào để cắt xén phim hay chương trình ca nhạc trong đĩa DVD giống như mình cắt xén băng video không? Ví dụ như mình có thể cắt bất cứ đoạn nào trong một phim rồi sau đó in ra mà không cần phải giới hạn phải dùng Chapter đã gài sẵn trong phim. Các ơn các bạn.
+Trần Minh
+Hồi âm:
+Bạn có thể tải về Shrink 3.2 từ www.dvdshrink.org, tương thích với Windows, và dễ dùng. Thân.
+bpham
+Hay thu su dung Adobe Encore v.2 xem sao. 
+

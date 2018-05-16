@@ -1,0 +1,8 @@
+Microsoft hỗ trợ tính năng mới cho ảnh RAW 
+Với mục tiêu làm hài lòng những người ham mê nhiếp ảnh, Microsoft đang có kế hoạch nâng cấp hai hệ điều hành XP và Longhorn, cho phép người dùng thao tác với file ảnh RAW dễ dàng hơn.
+Chương trình sắp ra mắt này có thể lấy thông tin trực tiếp từ thiết bị cảm ứng hình ảnh trong camera để tăng khả năng lưu giữ màu sắc và chi tiết ảnh.
+Không như file JPEG thường chỉnh sửa ngay trong camera, file ảnh RAW được xử lý trên PC. Định dạng này được đánh giá là mang lại những tấm hình chất lượng cao hơn nhưng rất khó có thể cung cấp phần mềm hỗ trợ vì mỗi một mẫu camera khác nhau lại có một số thay đổi nhất định về định dạng file RAW. Vì thế, ứng dụng ảnh số cần đuợc cập nhật để hỗ trợ những khác biệt này, và Microsoft đang hợp tác với Adobe, Canon, Fujifilm và Nikon để giải quyết vấn đề trong phiên bản Windows sắp ra mắt.
+Hỗ trợ nhiều định dạng chỉ là một trong những tính năng mới về ảnh trong Longhorn. Microsoft đang viết chương trình cho phép xem và sắp xếp ảnh khoa học cũng như sử dụng metadata để phân loại ảnh theo nhóm, như nhóm Du lịch, Gia đình, Đám cưới...
+Hãng cũng nâng cấp khả năng ảnh số trong hệ điều hành Windows XP bằng cách cung cấp công cụ mở ảnh dạng Thumbnail, xem trước (preview) và in file ảnh RAW của Canon và Nikon trực tiếp từ Windows Explorer. Phần mềm này sẽ sớm được tải về miễn phí trên website của Microsoft.
+Việc Microsoft hỗ trợ định dạng RAW gây tiếng vang và sự quan tâm lớn trong giới nhiếp ảnh và sẽ góp phần giảm giá thành cho những camera số SLR chất lượng cao.
+

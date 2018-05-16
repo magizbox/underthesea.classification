@@ -1,0 +1,7 @@
+ Xây dựng siêu máy tính lớn nhất châu Âu
+Theo Bộ trưởng khoa học và kỹ thuật Tây Ban Nha Juan Costa, ban đầu ̀ nó sẽ dùng để ngăn chặn dịch bệnh, chống hạn hán và cải thiện quá trình thiết kế công nghiệp. 
+Siêu máy tính mới cho thể hoạt động với công suất 40 nghìn tỷ phép tính dấu phẩy động/giây, tức là 40 teraflop theo cách chỉ sức mạnh máy tính hiện đại. Hệ thống này nặng 60 tấn, chạy hệ điều hành Linux, cài 4.500 bộ xử lý, có thể lưu trữ 128 terabyte dữ liệu. 
+Siêu máy tính mới sẽ được xây dựng tại một trung tâm nghiên cứu quốc gia ở khu vực đông bắc Catalonia, Tây Ban Nha. Nơi đây đang được xem là thủ phủ của ngành công nghệ kỹ thuật cao của Tây Ban Nha. 
+Nếu hệ thống máy tính này được khánh thành đúng như kế hoạch thì nó sẽ là hệ thống siêu máy tính lớn nhất châu Âu và thứ nhì thế giới, tức là chỉ đứng sau siêu máy tính tên là Earth Simulator 40-teraflop của NEC ở Nhật, có 5.104 bộ xử lý, dùng để nghiên cứu khí hậu và các vấn đề địa chấn. 
+Tuần qua, IBM công bố xây dựng một siêu máy tính mới thuộc dòng máy Blue Gene/L trong khuôn khổ dự án kính thiên văn radio Lofar tại Hà Lan. Thiết bị, dự kiến sẽ hoàn tất vào năm 2005, chạy hệ điều hành Linux, với 12.000 bộ xử lý và đạt tốc độ 30 nghìn tỷ phép tính/giây. 
+

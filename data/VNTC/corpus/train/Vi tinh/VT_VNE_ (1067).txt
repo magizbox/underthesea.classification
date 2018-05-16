@@ -1,0 +1,6 @@
+Ổ khoá màu vàng dưới góc phải màn hình (1)
+Tôi truy cập các trang web có những trang game không cho vào chơi. Qua tìm hiểu tôi thấy là tại cái ổ khoá ở góc phải màn hình không cho xem hết trang (kế quả địa cầu và chữ Internet). Khi ra dịch vụ Internet thì vào chơi game vẫn bình thường. Tôi bấm vào thì thấy nó để là cái certificate bị khoá. Xin cho hỏi nó là cái gì? Xin chỉ cách để đăng ký 1 cái certificate. Cám ơn.
+Trần Thanh Điền
+Hồi âm:
+Dấu hiệu đó thông báo rằng trang web bạn đang vào chạy trong chế độ bảo mật. Mọi thông tin của bạn khi tương tác với web sẽ được giữ kín với 1 đối tượng thu 3. Certificate chỉ là do hãng phần mềm bảo mật cấp cho trang web đó. Bạn vào bất kì trang mua bán trực tuyến nào cũng gặp dấu hiệu này.
+

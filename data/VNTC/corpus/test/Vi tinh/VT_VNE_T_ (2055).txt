@@ -1,0 +1,6 @@
+Cảnh giác virus trong thiệp điện tử Valentine
+Hãng phần mềm bảo mật Anh Sophos cho biết đã phát hiện 2 chương trình tấn công mới đang phát tán bằng cách ẩn trong phần đính kèm e-mail mang nội dung ngày lễ tình yêu và qua các mạng ngang hàng.
+Sâu Kipis.H xuất hiện trong những bức thư có dòng chủ đề Happy Valentine's Day với phần nội dung With the coming Valentine's day! I very much love you và file đính kèm Valentine.EXE. Một khi được kích hoạt, virus sẽ tắt hết các tính năng an ninh trên máy tính nạn nhân, cho phép hacker truy cập từ xa bằng cách cài một Trojan cổng hậu, đồng thời gửi bản sao của nó tới tất cả các địa chỉ liên hệ trong danh bạ e-mail.
+Trong khi đó, sâu VBSWG.D phát tán trong những thông điệp có dòng chủ đề First Love Story...!!! và một file gọi là FirstLove.VBS. Vào đúng ngày hôm nay, máy tính bị nhiễm virus này sẽ hiển thị thông điệp bậy bạ bằng tiếng Anh Happy F...ing Valentine...!!!. Tiếp đó, VBSWG.D sẽ làm tắt PC sau khi đã gửi bản sao của nó tới tất cả địa chỉ e-mail trong danh bạ ở máy tính.
+Cũng trong dịp Valentine, Sophos cho biết một làn sóng thư rác ăn theo ngày lễ này đã xuất hiện với hàng chục nghìn thư quảng cáo dịch vụ quà tặng, chocolate, hoa giảm giá...
+

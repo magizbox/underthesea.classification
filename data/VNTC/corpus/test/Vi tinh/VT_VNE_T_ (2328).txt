@@ -1,0 +1,8 @@
+Lỗi Internet Explorer (2)
+Chào các bạn ! Tôi dùng windows XP pro. Dạo này không hiểu sao IE không thể log in vào hotmail được (chỉ có hotmail mà thôi), còn những site khác vẫn log in bình thường. Tôi đã cố gắng tìm cách khắc phục và bây giờ lúc vào được lúc không bằng cách install cái certific (sử dụng cái biểu tượng có hình cái khoá nho nhỏ phía dưới thanh status bar ), sau khi install thì vào được nhưng sau đấy thì lại như cũ. Có bạn nào biết chỉ cho tôi nhé. Xin chân thành cảm ơn nhiều! 
+Phuong
+Hồi âm:
+Nếu dạo này mới bị lỗi còn trước đó thì không bạn cố nhớ lại xem gần đây có cài đặt thêm gì không, spyware, virus? Tốt nhất bạn nên dùng system restore để đưa máy trở lại trước ngày bị lỗi, nên xóa cookies, internet temp folder, xóa history file ở mục history xp lưu trữ 20 ngày bạn nên đổi lại thành 0 trước khi xóa. thứ 2= bạn vào toolsinternet options advanced tìm xuống phần HTTP 1.1 xem ô use HTTP 1.1 có được đánh dấu ( checked ) hay không ? Tìm xuống phần security đánh dấu (check) ở 2 ô use SSL 3.0, use SSL 2.0 và cởi bỏ dấu nhắc ( unchecked) ở phần use TLO 1.0, bạn có thể chọn restorre default applyok.
+TOM
+Không phải lỗi của IE đâu, Hotmail đợt này hay bị kẹt. Tốt nhất bạn nên dùng Gmail, nếu cần hãy liên hệ với mình. 
+

@@ -1,0 +1,4 @@
+ Hà Nội: thẻ từ thay vé xe buýt
+“Thẻ từ thông minh” (dành cho các khách hàng sử dụng vé tháng) chứa đựng thông tin nhận dạng người sử dụng thẻ, thông tin về số tiền nạp trên thẻ và thông tin giao dịch. Trung tâm Quản lý và điều hành giao thông đô thị Hà Nội cho biết trong thời gian thí điểm, 50 máy kiểm tra thẻ tự động và 20 máy đọc thẻ xách tay của bộ phận giám sát sẽ được trang bị trên các xe thuộc hai tuyến trên. 
+Kinh phí làm một chiếc thẻ là 40.000đ và thẻ có thời hạn sử dụng năm năm. 
+

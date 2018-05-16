@@ -1,0 +1,7 @@
+Google Base bị lỗi hiển thị kết quả khiêu dâm 
+Một trục trặc kỹ thuật tạm thời đã khiến dịch vụ cơ sở dữ liệu mới phát hành được một tuần của Google bị đưa vào "khu vực đèn đỏ ảo". Phát ngôn viên của hãng này khẳng định vấn đề đã nhanh chóng được khắc phục.
+Google Base cho phép mọi người đăng, phân loại và chia sẻ bất cứ thông tin nào, từ dịch vụ doanh nghiệp đến rao bán ôtô, công thức nấu ăn... lên website. Dịch vụ cũng chấp nhận cả những nội dung "người lớn" nhưng sẽ loại bỏ trong kết quả tìm kiếm nếu khách hàng sử dụng công cụ SafeSearch. 
+Tuy nhiên, một lỗi xảy ra đầu tuần này đã khiến nội dung đồi trụy tràn ngập trong kết quả search của Google Base. Nate Tyle, phát ngôn viên của hãng tìm kiếm, thừa nhận bộ lọc SafeSearch đã gặp rắc rối nhưng từ chối mô tả chi tiết.
+Todd Ripley, một nhà đầu tư bất động sản tại Asheville (Mỹ), đã phát hiện vấn đề khi ông đăng những tấm hình của cô con gái 2 tuổi Jasmine lên trang Google Base. Sau khi gõ từ khóa Jasmine, trang web hiển thị hàng loạt kết quả đồi trụy dù ông đã dùng tính năng SafeSearch. "Tôi thực sự choáng váng. Kết quả khiêu dâm được liệt kê suốt từ trang này đến trang khác", Ripley nói. Chỉ cần gõ "xxx" hoặc "xxx webcam", Google Base sẽ thống kê tới 14.000 kết quả, bao gồm cả danh sách về "xxx teen webcam".
+"Google Base, cũng giống như Google Images, có vẻ đang trở thành nguồn cung cấp thông tin nhạy cảm khổng lồ. Về sau, đây cũng sẽ là nơi trao đổi, buôn bán nội dung khiêu dâm", nhà quan sát Nathan Weinberg viết trên blog Inside Google.
+

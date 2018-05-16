@@ -1,0 +1,8 @@
+ Google tung ra dịch vụ cá nhân hóa tin tức
+Trang web dịch vụ tin tức này cho phép khách vào thăm Google có thể cá nhân hóa mọi nội dung mà họ muốn xem, hiện đang nằm trong các hộp thoại tin rất phong phú của Google. 
+Google cung cấp đến 16 đề mục tin như: Gmail, thị trường chứng khoán, New York Times, BBC, tin Google, thời tiết, phim ảnh, hướng dẫn cho người lái v.v Người dùng có thể thoải mái lựa chọn các mục yêu thích mà mình thường xem đơn giản chỉ bằng cách đánh dấu vào các ô chọn và sau đó “Save” lại là người dùng đã có một trang tin được cá nhân hóa của riêng mình do Google cung cấp. 
+Trước khi sử dụng dịch vụ này, người dùng nên có một tài khoản thư điện tử Gmail miễn phí. Sau khi đánh dấu vào các ô chọn thì màn hình đăng nhập yêu cầu username và password của tài khoản Gmail sẽ hiện ra. Khi đăng nhập vào tài khoản Gmail thì Google sẽ tích hợp toàn bộ hệ thống tin tức mà người dùng đã chọn cùng với Gmail lại thành một màn hình web thống nhất, để người dùng vừa có thể xem tin vừa có thể sử dụng Gmail. 
+Trong vòng 2 tháng tới Google sẽ thêm công nghệ RSS (cung cấp cấu trúc tin tức giản lược) vào dịch vụ cá nhân hóa tin tức này. Hiện nay dịch vụ này vẫn đang ở dạng thử nghiệm với bản beta, tương tự như Gmail và Google News. 
+Bản chung cuộc của dịch vụ cá nhân hóa tin tức người dùng này sẽ được kết hợp nhiều dịch vụ khác nhau của Google, cung cấp cho người dùng một dạng cổng truy cập đa dịch vụ tương tự như các cổng web hùng mạnh như Yahoo.com hay MSN.com của Microsoft. 
+Người dùng nên truy cập ngay vào http://www.google.com/ig để thưởng thức miễn phí dịch vụ này. 
+

@@ -1,0 +1,7 @@
+Adobe tăng cường công cụ quản lý file PDF
+Adobe vừa tung ra một chương trình cho phép các doanh nghiệp phân quyền số đối với các file tài liệu điện tử (PDF), theo đó người sử dụng không hợp lệ sẽ không được phép mở, in hoặc trao đổi những văn bản nhạy cảm.
+Quyền xử lý file có thể được thay đổi hoặc thu hồi bất kỳ lúc nào và được áp dụng vào lần tiếp theo khi người sử dụng truy nhập văn bản. Lúc đó, chương trình sẽ được gọi ra để cấp phép.
+Ứng dụng này mang tên LifeCycle Policy Server, ra mắt lần đầu hồi tháng 2/2004. Phần mềm hiện được bán với giá 50.000 USD, chạy trên Windows, Red Hat Linux, IBM AIX và Sun Solaris. Hỗ trợ cho SuSE Linux của Novell và HP-UX sẽ được bổ sung trong nửa đầu năm nay.
+Công cụ quản lý quyền xử lý tài liệu mới của Adobe kết hợp chặt chẽ với phần mềm Acrobat 7.0 mới ra mắt hôm qua. Phiên bản này có 3 dạng Professional, Standard và Reader, với giá từ miễn phí cho tới 449 USD. Trong số những thay đổi được thực hiện ở Acrobat 7.0 là khả năng tạo văn bản PDF từ nhiều nguồn khác nhau, tạo định dạng thông minh và phối họp các file PDF từ cả trong và ngoài tường lửa.
+Các phiên bản Adobe Reader 7.0 miễn phí dành cho Windows và Mac OS X được cung cấp tại website của Adobe. Phiên bản cho Linux chưa có nhưng người muốn sử dụng có thể đăng ký một bản beta tại đây.
+

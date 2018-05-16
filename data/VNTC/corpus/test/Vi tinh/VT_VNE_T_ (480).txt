@@ -1,0 +1,8 @@
+Intel trình làng chip Intanium 2 mới
+Hôm qua, tập đoàn sản xuất chip khẳng định những hệ thống máy chủ sử dụng bộ vi xử lý mới sẽ có giá rẻ hơn 28%, nhưng hiệu suất hoạt động cao hơn so với những server dùng chip kép Itanium 2 trước đây.
+Itanium 2 1,4 GHz với bộ nhớ đệm dung lượng 3 MB sẽ nâng cao hiệu suất hoạt động lên tới 25% so với sản phẩm cùng tốc độ có bộ nhớ đệm 1,5 MB. Hơn nữa, bộ vi xử lý này cũng cải thiện gấp đôi chỉ số giá/hiệu năng so với các hệ thống cạnh tranh dựa trên RISC, cho phép thiết kế sản phẩm nhanh và mang lại khả năng mô phỏng chính xác hơn.
+Itanium 2 tốc độ 1,6 GHz với bộ nhớ đệm 3 MB tạo ra một hiệu suất hoạt động hàng đầu cho bộ vi xử lý kép dựa trên các công cụ tính toán của Linpack (hoặc hiệu suất tính toán điểm động trong một giây).
+Các hệ thống sử dụng bộ vi xử lý kép mới sẽ được một loạt nhà sản xuất gồm Bull, Dell, Fujisu Siemens, HCL, IBM, Kraftway, Lang Chao, Lenovo, Maxdata, Samsung, Transtec AG phát triển và thương mại hóa.
+Chip Itanium 2 tốc độ 1,4 GHz được tung ra hôm qua với giá 1.172 USD khi mua từ 1.000 đơn vị trở lên. Loại 1,6 GHz dự kiến có mặt trên thị trường vào tháng 5 với giá 2.408 USD cho các đơn đặt hàng 1.000 đơn vị.
+Ông Richard Dracott, Tổng giám đốc phụ trách tiếp thị và hoạch định doanh nghiệp của Intel, hiện hãng có hai kiến trúc máy chủ, chiếm xấp xỉ 85% thị phần server. Itanium 2 được nhắm vào các máy chủ doanh nghiệp dành cho kinh doanh và những tổ hợp máy tính trong lĩnh vực kỹ thuật, trong khi Xeon được sử dụng rộng rãi trong ngành công nghệ thông tin nói chung.
+

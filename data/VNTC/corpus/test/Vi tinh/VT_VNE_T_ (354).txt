@@ -1,0 +1,6 @@
+Trung Quốc vận hành mạng IPv6
+Đất nước đông dân nhất thế giới bắt đầu thử nghiệm cái mà họ gọi là mạng lớn nhất toàn cầu, dựa trên chuẩn công nghệ thế hệ mới Internet Protocol version 6 (IPv6).
+Bộ giáo dục Trung Quốc thông báo họ đã đưa vào vận hành mạng Nghiên cứu và Giáo dục (CERNET2), một hệ thống xương sống dựa trên chuẩn IPv6, kết nối các tổ chức nghiên cứu trên cả nước. Trong giai đoạn thử nghiệm, mạng này kéo qua ba thành phố Bắc Kinh, Thượng Hải, Quảng Đông. Nếu mọi chuyện suôn sẻ, CERNET2 sẽ bao gồm 20 nút mạng trải khắp Đại lục, cung cấp kết nối Internet siêu tốc, có thể lên tới 10 GBps, cho hơn 200 trung tâm nghiên cứu và trường đại học. 
+Trung Quốc là một trong những nước tích cực nhất trong việc xây dựng IPv6, chủ yếu vì lo ngại hệ thống địa chỉ IPv4 hiện tại sẽ chẳng mấy chốc hết chỗ, khi PC và các thiết bị kết nối web như điện thoại di động thế hệ ba đang phát triển chóng mặt. IPv6 hứa hẹn giải quyết tình trạng này, bởi nó mở rộng địa chỉ web từ 32 bits lên 128 bits.
+Ngoài Trung Quốc, hai nước châu Á khác là Nhật và Hàn Quốc cũng rất ủng hộ IPv6. Tháng 12 năm ngoái, ba đại gia trên đã bắt tay phát triển công nghệ này, với sự tham gia của hàng loạt công ty viễn thông và mạng như SK Telecom, China Telecommunications.
+

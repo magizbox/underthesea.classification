@@ -1,0 +1,9 @@
+Dùng HIV tiêu diệt tế bào ung thư
+Các nhà khoa học Mỹ đang tìm cách sử dụng một dạng virus gây bệnh AIDS vô hại để tìm và tiêu diệt tế bào ung thư qua đường máu.
+Các chuyên gia tại Đại học California (Mỹ) đã tạo ra phiên bản virus vô hại này bằng cách loại bỏ những phần gây bệnh trên cơ thể chúng. Sau đó, họ lột bỏ lớp vỏ ngoài của virus và khoác lên chúng lớp vỏ ngoài của virus khác. Bằng cách đó, nhóm nghiên cứu đã thay đổi mục tiêu của virus. Thông thường, HIV chỉ tấn công một loại tế bào, đó là tế bào T. Khi có lớp vỏ ngoài mới, virus chuyển sang tấn công các phân tử có mặt trong tế bào ung thư có tên P-glycoprotein.
+Trong thí nghiệm của mình, nhóm nghiên cứu cấy loại virus này vào cơ thể một số con chuột mắc một dạng ung thư da, có tên melanoma, có thể di căn sang phổi. Các nhà khoa học cũng thêm một chất lên cơ thể virus khiến chúng có thể phát sáng khi được ghi hình bởi một máy quay đặc biệt, nhờ đó họ có thể theo dõi được vị trí của virus sau khi đưa chúng vào cơ thể chuột.
+"Virus di chuyển theo đường máu và chọn tế bào ung thư trong phổi làm nơi trú ngụ", tiến sĩ Irvin Chen, trưởng nhóm nghiên cứu, nói.
+Ông Chen cho biết, việc tiêu diệt tế bào ung thư bằng liệu pháp gene từ lâu đã được giới khoa học quan tâm, song khó khăn lớn nhất đối với liệu pháp này là thiếu một tác nhân mang gene hiệu quả.
+"Nghiên cứu của chúng tôi cho thấy việc tạo ra một vật mang gene hiệu quả và lập trình lại để nó tấn công một loại tế bào nhất định trong cơ thể là có thể thực hiện được", ông nói.
+Chen cùng cộng sự dự định tìm hiểu xem liệu virus có thể mang một loại gene giúp chúng xác định chính xác vị trí của các khối u hay không. Trước đây, liệu pháp gene chỉ áp dụng được đối với những khối u ở vị trí ban đầu. Nhờ liệu pháp mới này, bác sĩ có thể tiêu diệt khối u kể cả khi chúng đã di căn trên cơ thể. Ngoài việc điều trị ung thư, nhóm nghiên cứu còn hy vọng rằng kỹ thuật này có thể có ích trong việc điều trị các bệnh mang tính di truyền.
+

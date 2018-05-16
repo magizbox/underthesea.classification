@@ -1,0 +1,7 @@
+Máy in màu laser có thể dò tìm nguồn gốc tài liệu
+Tổ chức Mỹ Electronic Frontier (EFF) tuyên bố đã bẻ khóa thành công những đoạn mã bí mật cài trong máy in DocuColor mà hãng sản xuất Xerox dùng để hỗ trợ chính quyền chiến đấu với nạn in tiền giả.
+EFF đã tìm ra những chuỗi 15 x 8 các chấm vàng và chúng sẽ được in trên mọi tài liệu. Những điểm này chỉ được nhìn thấy bằng mắt thường qua kính phóng đại hoặc chuyển thành màu đen dưới ánh sáng xanh dương. Bằng việc phân tích những trang in từ nhiều hệ thống trên toàn thế giới, các nhà nghiên cứu của EFF khẳng định những chấm này sẽ tiết lộ số serial của máy và ngày giờ in. 
+EFF cũng đang tiến hành theo dõi những máy in của các nhà sản xuất nổi tiếng khác bằng phương pháp dò tương tự. Bill McKee, phát ngôn viên của Xerox, từ chối cung cấp thông tin chi tiết về công nghệ.
+DocuColor của Xerox là hệ thống cao cấp, dùng trong trong công cở và dịch vụ in ấn nhiều hơn là tại gia đình. Tuy nhiên, David Skidmore, phát ngôn viên của Cục lưu trữ liên bang Mỹ, cho rằng công nghệ chống hàng giả mà chính phủ Mỹ đang áp dụng chủ yếu tập trung vào máy tính cá nhân và máy in phun, không phải dòng xa xỉ như DocuColor.
+Hãng Adobe cũng thừa nhận đã ngấm ngầm cài thêm phần mềm của chính phủ vào trong chương trình Photoshop theo yêu cầu của các điều phối viên và giám đốc ngân hàng quốc tế.
+

@@ -1,0 +1,6 @@
+Bộ nhớ flash 1 GB đầu tiên ra mắt
+Hãng Spansion (liên doanh ra đời từ sự hợp tác giữa AMD và Fujitsu) vừa công bố kế hoạch triển khai đại trà dòng sản phẩm mà họ khẳng định là thiết bị NOR flash đơn đầu tiên trên thế giới đạt mức lưu trữ cấp độ gigabyte.
+Dựa trên công nghệ MirrorBit 90 nm, loại bộ nhớ này được coi là có mật độ lưu trữ cao nhất trên thị trường hiện nay. Sản phẩm được thiết kế để phục vụ rất nhiều ứng dụng nhúng, bao gồm từ các hệ thống dẫn hướng tự động, thiết bị hạ tầng thông tin liên lạc, chơi game cho đến công cụ điều khiển máy công nghiệp.
+Ian Williams, Phó chủ tịch phụ trách bộ phận thiết bị nhớ của Spansion, phát biểu: Sản phẩm này đáp ứng được nhu cầu cả về mật độ lưu trữ, chất lượng, mức chi phí và tính khả mở trên thị trường thiết bị nhúng rất đa dạng như hiện nay.
+Việc sản xuất đại trà dự kiến sẽ được bắt đầu từ cuối năm nay với giá 18,5 USD/sản phẩm đối với các đơn đặt hàng mua 10.000 chiếc.
+

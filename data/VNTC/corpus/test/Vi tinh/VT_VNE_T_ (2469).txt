@@ -1,0 +1,5 @@
+Virus Mytob ồ ạt xuất hiện
+Liên tiếp trong gần một tuần qua, 8 biến thể mới của loại sâu này đã phát tán trên Internet, cài đặt trình cổng hậu vào máy nạn nhân và ngăn cản việc nâng cấp phần mềm bảo mật. 
+Hãng cung cấp phần mềm diệt virus Symantec cho biết nhóm biến thể Mytob mới, được đặt tên từ J tới S, là những chương trình phát tán e-mail số lượng lớn thông qua những địa chỉ chúng ăn cắp được từ máy tính bị lây nhiễm. Chúng còn có thể lây lan bằng cách lợi dụng lỗi LSASS trong Windows mà Microsoft đã phát hành bản sửa lỗi MS04-011. Tuy nhiên, khiếm khuyết này vẫn là một mục tiêu ưa thích của giới hacker, nhất là khi còn rất nhiều PC chưa cài bản nâng cấp.
+Mytob tìm thay đổi file Host để không cho PC bị lây nhiễm truy cập tới các website cung cấp phần mềm nâng cấp an ninh, chẳng hạn như của Symantec, Sophos, McAfee và Microsoft. Virus xuất hiện trong những e-mail có dòng chủ đề, tên và định dạng file đính kèm khá đa dạng, nhưng tiêu biểu nhất vẫn là "Mail Transaction Failed" và "Error". 
+

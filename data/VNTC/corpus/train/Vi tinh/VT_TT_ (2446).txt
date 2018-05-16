@@ -1,0 +1,5 @@
+ Virus máy tính đạt kỷ lục mới
+Theo nhóm hacker mũ trắng làm việc cho Sophos, số chương trình virus máy tính mới được tạo ra đã bị nhận diện trong tháng 1-2006 đã lên đến con số kỷ lục 2.312, hơn 1/3 so với tháng 12-2005. Trong đó, virus Sober-Z đứng đầu bảng tổng sắp (lan truyền cho nhiều máy tính) nhưng đã ngưng phát tán từ ngày 6-1 nhưng thay thế cho nó đã có virus mới Kama Sutra (Nyxem-D) và ba virus cũ tái xuất hiện. 
+Con sâu mới Nyxem-D xuất hiện dưới nhiều dạng thư điện tử khiêu dâm khác nhau và tự động truyền bá trở lại cho các địa chỉ khác khi vô hiệu hoá các phần mềm an ninh. Nyxem-D cũng đã được chương trình hoá để xoá các tập tin ngày 3-2 tới. 
+Các nhà phân tích của Sophos cho biết trong tháng 1 vừa qua, 1,4% các thông điệp lưu thông trên mạng là virus (1/70). 
+

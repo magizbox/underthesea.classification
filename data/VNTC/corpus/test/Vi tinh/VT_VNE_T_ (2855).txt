@@ -1,0 +1,6 @@
+MainActor 5.5 - phiên bản mới nhất chỉ chạy trên Linux
+Sau một thời gian im lặng, mới đây, hãng MainConcept đã quyết định tung ra lần đầu tiên phiên bản trình biên tập video mới nhất, nhưng chỉ dành cho hệ điều hành Linux. 
+Với tất cả những tính mạnh mẽ về video, MainActor đang trở thành một trong những thương hiệu phần mềm xử lý video nhỏ gọn mà hiệu quả. Điều mà không phải ứng dụng phần mềm biên tập đồ họa động nào cũng làm được. 
+Còn những người dùng hệ điều hành Windows phải kiên nhẫn chờ đợi và phải tạm hài lòng với phiên bản gần đây nhất là MainActor 5.2.13. 
+Người dùng Linux cần phải gỡ bỏ MainActor phiên bản cũ trước khi muốn cài đặt bản 5.5 này.
+

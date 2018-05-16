@@ -1,0 +1,13 @@
+Bảng giá chứng khoán lại nhảy loạn xạ 
+Ngày 13/12, những người theo dõi phiên giao dịch chứng khoán qua bảng giá online của Công ty chứng khoán Ngân hàng Đầu tư phát triển VN (BSC) đã một phen hú hồn vì bảng báo giá bất ngờ nhảy loạn xạ.
+Cổ phiếu của Công ty cổ phần Khách sạn Sài Gòn (SGH) lúc thị trường mở cửa là 17.600 đồng/cổ phiếu nhưng bảng báo giá khớp lệnh có lúc lên đến 45.500 đồng/cổ phiếu.
+Ngoài ra, cổ phiếu của của Công ty cổ phần Văn hóa Phương Nam (PNC) là 16.300 đồng/cổ phiếu nhưng giá khớp lệnh có lúc là 34.500 đồng/cổ phiếu. Ngược lại một cổ phiếu của Công ty cổ phần Kinh Đô (KDC) giá 59.000 đồng nhưng có lúc giá khớp chỉ còn có... 23.800 đồng.
+Các nhà đầu tư đều nhận thấy hệ thống báo giá có vấn đề vì theo quy định, biến động giá cổ phần trong mỗi phiên bị khống chế là 5%, không thể có mức biến động vài trăm phần trăm như vậy được.
+Theo nhân viên, do Trung tâm Giao dịch chứng khoán (TTGDCK) TP HCM bị mất điện dẫn đến bị lỗi trong việc chuyển file giữa trung tâm với công ty chứng khoán.
+Tuy nhiên, ông Trần Đắc Sinh, Giám đốc TTGDCK TP HCM lại khẳng định không có xảy ra cúp điện và hệ thống giao dịch vẫn bình thường. Sai sót chỉ xảy ra ở bảng báo giá của công ty chứng khoán, do vậy không thiệt hại cho khách hàng.
+VN-Index sai do chậm cập nhật dữ liệu chỉnh sửa(08/08/2005)
+VN-Index đã được chỉnh sửa lại(08/08/2005)
+VN-Index loạn số trên bảng điện tử(08/08/2005)
+Vn-Index nhảy số do sử dụng sai hệ thống tính(02/08/2005)
+Thị trường bất ngờ phiên cuối tuần(23/07/2005)
+

@@ -1,0 +1,5 @@
+ Cảnh báo virus trong dịp Valentine 
+Ngày 12-2, Trung tâm phản ứng nhanh về virus máy tính của Trung Quốc đưa ra cảnh báo về một virus có tên Vbs_Valentin.A chủ yếu lây lan qua thư điện tử hoặc các chương trình chat trên mạng. Những virus khác như Worm-blebla.B và VBS-Iloveyou cũng sẽ tấn công máy vi tính nếu người sử dụng mở các thư điện tử hoặc file đính kèm được ngụy trang dưới những lời chúc Valentine. 
+Trong số virus sẽ xuất hiện trong tuần này có W97M-Concept.F, sẽ bùng phát ngày 16-2. Khi những người sử dụng các tài liệu trong Word, máy vi tính bị nhiễm sẽ hiển thị một hộp thư thoại “-Parasite Virus 1.0X Your computer is infected with the Parasite Virus, version 1.0”. Virus này sẽ thay thế dấu chấm bằng dấu phẩy, chữ and bằng chữ not và chữ a bằng chữ e trong tài liệu sử dụng trong Word. 
+Trung tâm virus máy tính Trung Quốc nhắc nhở người sử dụng cảnh giác với các thư điện tử lạ, cập nhật phần mềm chống virus và sử dụng chức năng kiểm soát virus bất cứ khi nào vào Internet. 
+

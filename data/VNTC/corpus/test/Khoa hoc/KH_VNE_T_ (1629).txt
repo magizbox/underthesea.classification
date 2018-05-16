@@ -1,0 +1,9 @@
+Thiết bị tiết kiệm điện thông minh
+Anh Nguyễn Tử Trí, giám đốc Công ty Phương Đức Asia, vừa sáng tạo bộ thiết bị tiết kiệm điện năng dùng cho máy lạnh, tiết kiệm điện lên đến 50%. 
+Anh cho biết mình dùng nguyên lý lập trình sao cho thông qua thiết bị, máy lạnh chạy hợp lý: có chạy, có nghỉ, tỏa độ ẩm thích hợp. Thai nghén trên năm nay và cứ từng bước điều chỉnh cho đến khi máy hoàn thiện - anh Trí cho biết. 
+Theo tính toán của anh, thiết bị này có thể tiết kiệm điện khi sử dụng máy lạnh: ban ngày là 20%, ban đêm tới 50%. Thiết bị đã được ráp thử ở hai nơi: một tại nhà anh Lê Quang Vũ (Huỳnh Tấn Phát, Q.7, TP Hồ Chí Minh) và một đặt ở Trung tâm Tiết kiệm năng lượng (Sở Khoa học - công nghệ TP Hồ Chí Minh). 
+Sau một tháng, gia đình anh Lê Quang Vũ (sử dụng thiết bị tiết kiệm điện này cho máy lạnh 750W, nhiệt độ thường sử dụng là 26 độ C, dùng từ 20h30 hằng đêm) nhận xét: Thiết bị hoạt động theo chế độ lập trình sẵn có chạy có nghỉ; đặc biệt sau 23h30 mỗi đêm, nó điều chỉnh để máy lạnh hoạt động chủ yếu chỉ còn chế độ quạt. Lượng điện tiêu thụ của gia đình anh Vũ: các tháng trước trung bình 280.000 đồng/tháng; sau khi ráp thiết bị tiền điện tháng 10/2005 là 195.000 đồng (giảm khoảng 30%). 
+Mẫu thử của Trung tâm Tiết kiệm năng lượng trên máy lạnh gia đình loại 2 khối hiệu National, công suất điện 2Hp, công suất lạnh 18.000 BTU/h. 
+Trung tâm tiến hành so sánh kết quả trong hai trường hợp không sử dụng và có sử dụng bộ tiết kiệm điện (thời gian đo: một ngày đêm cho mỗi trường hợp với phụ tải lạnh như nhau). Kết quả: khi sử dụng bộ tiết kiệm điện, máy đo ghi được thông số: ban ngày lượng điện tiết kiệm không đáng kể, nhưng ban đêm (18h-24h) tiết kiệm 26%; (24h-8h30) là 83%. 
+Anh Phạm Duy Phong, trưởng phòng kỹ thuật Trung tâm Tiết kiệm năng lượng, đánh giá: Thiết bị đem lại hiệu quả tiết kiệm điện đặc biệt vào ban đêm, thích hợp với máy lạnh cục bộ, nhất là máy đời cũ.
+

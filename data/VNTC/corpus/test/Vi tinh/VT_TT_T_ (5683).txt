@@ -1,0 +1,3 @@
+ Vinaseek thử nghiệm phiên bản tìm kiếm mới
+Phiên bản mới sẽ cải thiện khả năng tìm kiếm của Vinaseek: cho phép loại các kết quả tìm kiếm trùng lặp tốt hơn, cung cấp khả năng cache các trang web đã được Vinaseek đánh index, cung cấp kết quả tìm kiếm chính xác hơn. 
+

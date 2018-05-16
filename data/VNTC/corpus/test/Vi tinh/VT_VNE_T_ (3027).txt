@@ -1,0 +1,6 @@
+Chip tiết kiệm nhiên liệu dành cho thiết bị di động
+AMD vừa ra mắt vi xử lý mang mã hiệu Geode LX 800@0.9W tiêu thụ không quá 1W điện. Nhà sản xuất tuyên bố loại chip này sẽ tạo cơ hội phát triển lớn đối với các thiết bị di động thế hệ sau với đầy đủ tính năng như cho một desktop.
+Chip được thiết kế để cung cấp thêm bộ nhớ băng thông với giao diện DDR (double data rate) và tăng cường truy xuất qua cổng USB 2.0. AMD cho biết chip có thể được tích hợp với những máy tính xách tay không dùng quạt gió (trong đó có các thiết bị đa phương tiện), máy tính bo mạch đơn, các thiết bị truy cập và những ứng dụng tổng hợp khác. Vi xử lý Geode dành cho các máy thế hệ x86 cũng hỗ trợ hệ điều hành Windows XP.
+Tiến sỹ James Jo, Phó chủ tịch phụ trách trung tâm truyền thông kỹ thuật số của hãng điện tử Samsung, cho biết vi xử lý này của AMD vừa tiết kiệm điện năng vừa có khả năng hoạt động cao và sẽ cho phép các nhà thiết kế tạo ra nhiều ứng dụng mới dựa trên kiến trúc x86. 
+Geode LX 800@0.9W và chipset Geode CS5536 kèm theo đang được bán với giá 45 USD theo đơn hàng 10.000 sản phẩm. AMD cũng cung cấp các bộ vi xử lý cùng kiểu với tốc độ thấp hơn.
+

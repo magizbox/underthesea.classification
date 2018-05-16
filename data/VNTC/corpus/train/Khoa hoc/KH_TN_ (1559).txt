@@ -1,0 +1,4 @@
+Các kỹ sư thuộc trường đại học Purdue (Mỹ) đã phát triển một công cụ tìm kiếm chuyên về hình dạng với những hình ảnh 3 chiều. Công cụ này cho phép tìm kiếm vật dụng từ những hình ảnh có trong danh mục những hình dạng hoặc đoạn tương tự nhau, ví dụ như đinh ốc, bù loong... trong những cơ sở dữ liệu công nghiệp.
+Các cơ cấu hình dạng có thể tham khảo được xếp thành khoảng 40 loại tùy theo đặc điểm vật lý như hình trụ, đĩa, vành… Theo giáo sư Karthik Ramani thuộc trường đại học Purdue, mục tiêu của hệ thống này là cho phép các công ty sử dụng lại các kiểu mẫu, hạn chế các giai đoạn chế tạo rườm rà và đẩy mạnh dây chuyền sản xuất.
+Hiện nay công cụ này chỉ cho phép tham khảo khoảng 1.000 hình dạng. Các nhà nghiên cứu hy vọng trong tương lai sẽ có hàng tỉ hình dạng kiểu mẫu cho phép các chuyên gia về ngành hàng không hoặc xe hơi có thể tham khảo.
+

@@ -1,0 +1,11 @@
+Kodak trình làng Printer dock Plus 6000 
+Máy in ảnh thuộc thế hệ Easy Share có kích thước ngang 20,1 cm, cao 15,8 cm và chiều dài 33 cm (kể cả khay đựng giấy). Với trọng lượng 1,08 kg, sản phẩm không quá nặng khi di chuyển và thích hợp với nhu cầu sử dụng gia đình. 
+Printer dock Plus 6000 là loại máy in sử dụng độ nóng, nhiệt độ thích hợp từ 10 đến 30 độ C. Sử dụng hai điện thế là DC Volt một chiều 24 DCV với 1,8 Amps. ACV (xoay chiều) từ 110 V đến 240 V, 50/60 Hz.
+Khi gắn với máy chụp mà không cần computer, Printer dock Plus 6000 có các chức năng in ảnh trực tiếp từ máy chụp, kết nối với tivi để xem hình và chọn ảnh in trên đó.
+Nếu kết nối qua máy vi tính, người sử dụng có thể thực hiện các chức năng chuyển hình chụp qua máy tính, sửa đổi ảnh và in. Yêu cầu cấu hình PC khi kết nối với Printer dock Plus 6000 gồm: hệ điều hành Win 98, 98SE, ME, 2000 và XP. CPU thấp nhất 233 MHz, RAM 64 MB (128 MB nếu là Windows XP). Ổ cứng còn trống 2.000 MB, có cổng USB. Độ phân giải tối thiểu của monitor là 800 x 600 High color 16 bit hay True color 24 bit.
+Để kết nối hai thiết bị, cần phải nạp phần mềm máy in vào PC trước. Đừng gắn digital camera vào máy in kết nối với máy tính rồi mới nạp phần mềm vì như vậy, computer sẽ nhận sai phần mềm.
+Các thao tác để in ảnh từ máy tính bắt đầu từ Start Menu, chọn Setting Printer. Sau đó nhấp chuột phải vào dấu hiệu máy in Kodak - chọn Printing Preferences, chọn nút Advance, tìm Document Printer Features Kodak Color Mode. Tiếp theo, chọn Natural (màu tự nhiên) hay Enhanced (màu rực rỡ) rồi nhấn OK để hoàn tất.
+Chế độ in tốt nhất là khi chọn chụp với độ phân giải hình Better 3:2, hình sẽ đúng theo khổ 10 x 15 cm.
+Khi sử dụng Printer dock Plus 6000, cần lưu ý: đặt máy in trên một mặt phẳng, sạch, không bụi và tránh ánh sáng trực tiếp của mặt trời rọi thẳng vào thiết bị. Không nên cất máy in vào tủ quần áo hoặc để nó trên bề mặt tấm thảm. Tránh đặt máy ngay cửa ra vào thường xuyên vì hơi bụi sẽ làm giãm chất lượng ảnh cũng như tránh vùng từ trường mạnh. Khay chứa giấy của thiết bị chỉ có thể đặt tối đa 20 tờ. Khi tháo ống mực làm vệ sinh hay thêm mực in, để tránh dấu vân tay thì nên đặt ống mực trong một ống cuộn.
+Bộ xạc trong máy tương thích với các nguồn pin xạc sử dụng trong máy số Kodak như NiMH, Li-ion nên có thể dùng để xạc pin cho máy chụp.
+

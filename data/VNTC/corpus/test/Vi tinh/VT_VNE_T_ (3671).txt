@@ -1,0 +1,9 @@
+Longhorn của Microsoft đổi tên thành Windows Vista
+Phiên bản hệ điều hành thế hệ mới đã được hãng phần mềm lớn nhất thế giới chính thức ấn định cái tên trên. Bản thử nghiệm đầu tiên của sản phẩm này mang tên Beta 1 sẽ ra mắt vào ngày 3/8 tới.
+Như vậy, cái tên Sừng dài (Longhorn) xuất hiện trên các phương tiện truyền thông suốt thời gian vừa qua sẽ không còn được sử dụng nữa. Công bố của Microsoft được đưa ra hôm qua sau cuộc họp nội bộ của hãng này tại Atlanta (Mỹ) với sự hiện diện của 10.000 nhân viên kinh doanh. Thông báo sau đó được đăng tải bằng một đoạn video trên website của Microsoft. 
+Một nhân viên Microsoft chạy thử bản Windows Vista Beta 1.
+Tại sao lại đặt tên là Windows Vista? Greg Sullivan, Giám đốc sản phẩm Windows, cho biết Microsoft đã nhận được những phản hồi tích cực khi từ bỏ những cái tên mang chữ số, chuyển từ cách gọi Windows 95/97/98/2000 sang Windows XP. Theo quan chức này, cách đặt tên mang chữ còn có tác dụng phản ánh nét đặc trưng của chính sản phẩm. Sullivan khẳng định mục tiêu chính của Windows Vista là thích nghi được với một thế giới ngày càng nhiều nội dung và giúp máy tính xử lý được khối tác vụ đó.
+Brian Valentine, Phó chủ tịch phụ trách bộ phận Windows và Kevin Johnson, Phó chủ tịch phụ trách marketing và kinh doanh của Microsoft, trong buổi công bố tên mới.
+Microsoft hôm nay cũng đã thiết lập một website để giải thích thêm về Windows Vista, đồng thời nhắc lại với khách hàng rằng phiên bản chính thức của hệ điều hành này sẽ ra mắt vào năm tới. Giám đốc Sullivan cho biết bản Beta 1 sẽ chỉ được cung cấp cho cộng đồng các nhà phát triển và dân chuyên nghiệp chứ chưa công bố rộng rãi cho người tiêu dùng. Đối tượng này sẽ được tiếp cận Vista khi bản Beta 2 ra mắt.
+Windows Vista Beta 1 tạm thời sẽ chỉ có một số tính năng mà Microsoft từng công bố, ví dụ như các folder ảo và công cụ tìm kiếm kiểu mới trên desktop. Những cải tiến về giao diện đồ họa người sử dụng sẽ chỉ xuất hiện trong Beta 2.
+

@@ -1,0 +1,8 @@
+Yahoo cung cấp tiện ích tìm kiếm cá nhân
+Hãng dịch vụ Internet khổng lồ vừa tung ra bản thử nghiệm mới Yahoo My Web cho phép mọi người lưu, tìm kiếm và chia sẻ thông tin họ tìm thấy trên mạng.
+Công cụ này giúp người dùng "lục lọi" trong cả dịch vụ tin nhắn nhanh (IM), blog và e-mail của Yahoo. Khách hàng có thể lập nên một kho thông tin, lưu tất cả những gì họ đã tìm trên Internet với những trang web hữu ích cũng như toàn bộ kết quả họ đã có từ trước đến nay.
+Các trang lưu lại trong My Web được đánh dấu, ghi chú, và người khác có thể đăng ký tài khoản để lấy thông tin tại đó. Những trang này cũng sẽ được đăng công khai như một dạng blog thô.
+My Web thực ra là phiên bản nâng cấp của hệ thống tìm kiếm History mà Yahoo giới thiệu tháng 10 năm ngoái. My Web cũng đồng bộ với thanh công cụ, cho phép khách hàng dễ dàng lưu hoặc mở kho thông tin có sẵn để đối chiếu với những trang web hay mà họ vô tình đọc được.
+Động thái này là lời khiêu chiến trực tiếp với đối thủ cạnh tranh Google, Ask Jeeves hay MSN - những hãng đã ra mắt công cụ tương tự.
+Tuần trước, Google công bố trang tìm kiếm History và hãng Ask Jeeves đã mở rộng thêm nhiều tính năng của dịch vụ My Jeeves. Trang A9 của Amazon cũng cho phép người dùng khôi phục lại những gì họ đã tìm khi duyệt web. MSN chưa ra mắt công cụ tương tư, nhưng đã có trong tay hệ thống tìm kiếm dành cho desktop.
+

@@ -1,0 +1,10 @@
+Kiểm soát tắt mở đèn bằng máy tính (2)
+Chào các bạn. Mình có chuyện muốn nhờ các bạn chỉ dẫn giúp. Mình muốn có một mạch điện gồm nhiều hơn hai bóng đèn (hoặc nhiều hơn) mắc song song; việc tắt mở bóng đèn sẽ được kiểm soát bằng máy tính. Xin hỏi mình phải làm những gì và như thế nào. Xin cảm ơn các bạn. 
+JFK
+Hồi âm:
+Neu em co kien thuc ve dien tu - tin hoc, thi chi can mot phan cung nho, giao tiep voi may tinh qua cong Printer hoac cong COM.Neu em khong co chuyen mon ve phan cung co the nho ai do, phan mem tu viet. Hoac la nho tat. Than men.
+Le Hong Tien
+Bạn có thể tham khảo ở địa chỉ sau:
+http://www.kitsrus.com./
+Cheng Tze Su
+

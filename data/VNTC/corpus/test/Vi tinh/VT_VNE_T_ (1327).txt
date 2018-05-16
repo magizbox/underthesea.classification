@@ -1,0 +1,7 @@
+Yahoo bước vào cuộc chiến tìm kiếm trên ĐTDĐ
+Hôm qua, hãng này đã bổ sung tính năng search trên điện thoại di động (ĐTDĐ). Động thái này, diễn ra chỉ vài tuần sau khi đối thủ Google cung cấp công cụ tương tự, cho thấy sự cạnh tranh gay gắt của hai đại gia trong ngành tìm kiếm thông tin web.
+Trong khi Google SMS (Short Message Service) sử dụng các tin nhắn bằng văn bản để cung cấp kết quả, dịch vụ mới của Yahoo đưa ra những kết quả tìm kiếm được địa phương hóa, bản đồ và các biểu tượng web cho phép người dùng trỏ, click và thực hiện cuộc gọi.
+Trong một diễn văn tại hội chợ công nghệ thông tin và giải trí CTIA tại San Francisco (Mỹ), Giám đốc điều hành Dan Rosensweig của Yahoo cho rằng ngành công nghiệp Internet di động mới đang ở điểm xuất phát. Do việc sử dụng ĐTDĐ ngày càng phổ biến, sẽ có thêm nhiều khách hàng dùng thiết bị này để truy cập vào các dịch vụ của Yahoo.
+Mặc dù vậy, ngành công nghiệp ĐTDĐ cũng đưa ra nhiều thử thách cho các nhà cung cấp dịch vụ tìm kiếm, trong đó, đáng kể nhất là việc người tiêu dùng Mỹ ngần ngại lướt web bằng ĐTDĐ. Hiện nay, khách hàng Mỹ chỉ thích truy cập Internet thông qua kết nối hữu tuyến, trong khi tại châu Âu và châu Á, việc dùng điện thoại di động để lướt web đã trở nên phổ biến. 
+Tính năng tìm kiếm trên ĐTDĐ của Yahoo hiện nay được cung cấp cho thuê bao của các hãng ATT Wireless, Cingular Wireless và Sprint. Trong khi đó, sản phẩm thử nghiệm SMS của Google tương thích với 5 nhà cung cấp dịch vụ lớn của Mỹ. 
+

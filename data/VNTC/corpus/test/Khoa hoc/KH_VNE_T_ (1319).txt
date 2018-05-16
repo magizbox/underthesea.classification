@@ -1,0 +1,5 @@
+Đối phó với tĩnh điện trên mặt trăng
+Mặt trăng và sao Hoả có các điều kiện rất lý tưởng để cho tĩnh điện tích luỹ: đất khô cằn hơn cả cát sa mạc trên trái đất. Chính vì thế, đất trở thành thứ cách điện tuyệt vời, không cho điện tích lan truyền vào lòng đất. 
+Khi các nhà du hành đi lại trên bề mặt những thiên thể này, giày hay bánh xe sẽ tích tụ các electron vì cọ sát với sỏi đá và bụi. Bộ đồ của phi hành gia hay chiếc xe họ đang lái sẽ bị nạp một lượng điện khổng lồ, có thể lên đến hàng trăm volt. 
+Chính vì vậy, ở các căn cứ, hiện nay người ta phải lắp đặt những tấm nhôm có tiếp đất. Khi nhà du hành trở về căn cứ, họ phải đi ngang qua những tấm nhôm này, để tĩnh điện trên người họ (hoặc trên xe) truyền hết xuống đất. Các nhà khoa học cũng đã nghĩ ra thêm một cách khác để đối phó với hiện tượng tĩnh điện: gắn thêm những cây kim dài khoảng 2,5 cm (làm bằng sợi wolfram, có đường kính cực nhỏ: 0,000254 cm) đặt trên một bệ ăngten. Những cây kim này có nhiệm vụ làm cho tĩnh điện từ từ thoát vào khí quyển. 
+

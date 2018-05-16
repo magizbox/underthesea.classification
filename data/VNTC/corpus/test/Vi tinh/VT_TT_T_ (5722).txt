@@ -1,0 +1,4 @@
+ Mobile PDA đầu tiên kết nối mạng Lan không dây 
+Điểm nổi bật của PDA mới là khe cắm Compact Flash cho phép sử dụng nhiều loại thẻ di động khác nhau. Màn hình màu LCD 2,2 inch với độ phân giải QVGA (240 x 320 pixels), cài bộ vi xử lý Intel PXA273, hệ điều hành Windows CE .Net 4.2, và hỗ trợ tính năng 802.11b. Máy có kích thước 1,9 x 0,7 x 5,3 inch. 
+Sản phẩm này (kết quả liên doanh của Fujitsu Laboratories và Net-2Com từ năm 2000), sẽ có mặt trên thị trường vào mùa thu năm nay. 
+

@@ -1,0 +1,6 @@
+Biến ĐTDĐ cũ thành thiết bị gọi điện miễn phí
+Hãng IPdrum (Na Uy) vừa phát triển thành công một phương thức cho phép người tiêu dùng biến những chiếc điện thoại di động cũ thành cổng (gateway) liên lạc không dây để khai thác tính năng hội thoại với phần mềm Skype VoIP.
+Công nghệ mang tên Mobile Skype Cable này - sử dụng dây cáp và phần mềm - mới được giới thiệu tại triển lãm Viễn thông châu Á diễn ra tại Singapore. Người tiêu dùng có rất nhiều điện thoại cũ bỏ trong tủ, Kjetil Mathisen, Giám đốc điều hành IPdrum, giải thích. Với dây cáp IPdrum Mobile Skype, điện thoại sẽ kết nối qua đường USB hoặc các cổng âm thanh của máy tính. Khi PC đã cài phần mềm IPdrum, điện thoại có thể được dùng như một gateway cho ứng dụng Skype, cho phép chuyển tiếp các cuộc gọi tới điện thoại di động bạn đang dùng. Tương tự như vậy, bạn có thể gọi tới cổng giao tiếp nói trên để thực hiện cuộc gọi với Skype.
+Trong vai trò cổng giao tiếp, chiếc điện thoại cũ còn có thể được dùng để gửi/nhận tin nhắn SMS qua phần mềm Skype. Mobile Skype Cable sẽ đặc biệt hữu dụng cho những ai muốn gọi miễn phí tới các điện thoại cùng mạng di động hoặc cho một nhóm người quen giới hạn. 
+Bộ cáp của IPdrum và phần mềm đi kèm sẽ được cung cấp trên toàn thế giới từ tháng 8 tới với giá bán lẻ từ 60 USD đếnn 80 USD. Tham khảo thêm tại đây.
+

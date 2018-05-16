@@ -1,0 +1,14 @@
+Mydoom-C không đi một mình
+Cùng với sự xuất hiện của biến thể còn được gọi là SyncZ hay Doomjuice, các công ty phần mềm an ninh cũng vừa xác nhận một virus cùng họ khác mang tên Deadhat. Cả hai không đi qua e-mail như phiên bản đầu nhưng lại cùng có tính năng quét địa chỉ Internet để tìm mục tiêu.
+Khác với Doomjuice, các chuyên gia cho rằng, Deadhat không có khả năng lan rộng. Khi virus này phát hiện một máy tính nhiễm Mydoom-A và B, nó sẽ tự cài đặt vào máy, gỡ bỏ các phiên bản Mydoom khác mà nó tìm thấy và cố gắng không cho máy tính chạy chương trình diệt virus hoặc tải bản nâng cấp phòng vệ mới. Deadhat còn phát tán qua một ứng dụng trên mạng ngang hàng (P2P) có tên SoulSeek. 
+Sở dĩ cả Deadhat và Doomjuice đều không cần đi qua thư điện tử vì bản A đã mở các cổng hậu của những máy tính lây nhiễm và nhờ đó tác giả virus còn có thể khống chế từ xa các PC nạn nhân. Tuy nhiên, hai biến thể mới được xếp vào loại nguy cơ thấp.
+Con số thống kê của các công ty chống virus cho biết, đến nay, Doomjuice đã phát tán vào ít nhất 75.000 trong số những máy tính đã nhiễm Mydoom-A. Các chuyên gia nghi ngờ thủ phạm của Doomjuice và Mydoom-A chỉ là một vì virus mới cài một bản sao mã nguồn của Mydoom-A trên những máy nạn nhân mà nó tìm thấy.
+Hãng F-Secure cho rằng, đây còn là thủ đoạn để gây khó khăn cho việc điều tra. Giám đốc nghiên cứu Mikko Hypponen của công ty này cho biết: Trước khi Doomjuice xuất hiện, chỉ tác giả của Mydoom-A mới có mã gốc. Giờ đây thì hàng chục nghìn người sử dụng đã mang mã này trong ổ cứng mà không biết và trở thành những mũi tấn công vào website của Microsoft. 
+Theo ghi nhận của hãng MessageLabs, Mydoom-A hiện nay đã trở thành virus nguy hiểm nhất trong lịch sử ngành máy tính. Kể từ ngày đầu virus xuất hiện đến nay, công ty này đã ghi nhận tới 38 triệu bản sao của nó. Tổng thiệt hại quy ra tiền lên tới 38,5 tỷ USD. Ở thời điểm cao trào, phiên bản gốc đã tấn công khoảng 1 triệu PC chạy Windows trên toàn cầu.
+Tại Việt Nam, ông Nguyễn Tử Quảng, Giám đốc Trung tâm an ninh mạng BKIS, cho biết, Mydoom-A hiện vẫn tiếp tục phát tán với tốc độ trung bình 3 e-mail/phút. Vào lúc đỉnh điểm trong mấy ngày qua, con số này là 16-18 e-mail/phút.
+Xuất hiện biến thể mới của Mydoom(10/02/2004)
+Mydoom trở lại(09/02/2004)
+Mydoom đứng đầu bảng xếp hạng virus tháng 1(04/02/2004)
+Microsoft.com khó có thể bị tấn công(03/02/2004)
+Người Phần Lan phá mã Mydoom nhanh nhất(03/02/2004)
+

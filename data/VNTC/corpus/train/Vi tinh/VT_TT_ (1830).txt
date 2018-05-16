@@ -1,0 +1,3 @@
+ Điện thoại bàn biết nhắn tin
+Tổng đài điện thoại này còn có nhiều tính năng: kết nối 2 hệ thống tổng đài theo giao thức SIP bên cạnh giao thức kết nối PSTN truyền thống - SIP Trunking; đàm thọai và truy cập dữ liệu từ xa bằng máy tính thông qua Wireless - Vowlan; Điện thoại di động IP - Mobile IP Touch; Cho phép cài đặt, quản lý và giám sát nhiều site tổng đài chỉ tại một vị trí - PC Attendant... 
+

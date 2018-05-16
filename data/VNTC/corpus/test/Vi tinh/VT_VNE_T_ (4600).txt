@@ -1,0 +1,8 @@
+Oracle vá 88 lỗi trong bản nâng cấp quý III
+Gói chương trình updatekỳ này tập trung vào các phần mềm server cơ sở dữ liệu và server ứng dụng, cũng như các sản phẩm của PeopleSoft, JD Edwards - những công ty mà Oracle đã mua lại trong thời gian qua.
+Là một phần trong chương trình nâng cấp định kỳ hàng quý của Oracle, các bản sửa lỗi nói trên liên quan đến những phần mềm cơ sở dữ liệu từ phiên bản 8i trở đi. Khách hàng nằm trong chương trình hỗ trợ mở rộng Extended Maintenance Support hoặc Extended Support của Oracle đều có thể tải những phần mềm này.
+Rất nhiều trong số 33 khiếm khuyết phần mềm server cơ sở dữ liệu mà Oracle xử lý đợt này thuộc loại dễ bị khai thác và có thể có tác động rộng đến độ ổn định, tính thống nhất và sự sẵn sàng của thông tin lưu trên cơ sở dữ liệu. Oracle đánh giá nguy cơ từ những lỗi này thuộc loại cao.
+Trong 14 lỗi liên quan đến phần mềm server ứng dụng thì có 4 đã được khắc phục bằng các bản vá phần mềm server cơ sở dữ liệu nói trên và 10 lỗ hổng còn lại cần bổ sung thêm bản sửa lỗi riêng. 
+13 khiếm khuyết tiếp theo liên quan đến gói phần mềm Collaboration Suite. 22 lỗi khác nằm ở gói E-Business Suite, 4 lỗi ở phần mềm của PeopleSoft và 2 ở sản phẩm của JD Edwards. 
+Bản nâng cấp tiếp theo của Oracle sẽ được phát hành ngày 17/1/2006.
+

@@ -1,0 +1,12 @@
+Cách cài đặt Internet qua mạng điện thoại (1)
+Theo tôi được biết thì hai máy tính có thể kết nối và truyền dữ liệu với nhau thông qua mạng điện thoại cố định nếu hai máy này có gắn modem và line điện thoại. 
+Vậy xin hướng dẫn tôi cách cài đặt Internet qua mạng điện thoại và khai báo cho các máy trong trường hợp các PC sử dụng hệ điều hành Win98, Win XP và Win 2003serer 
+Tôi xin chân thành cám ơn!
+To Quyen
+Hồi âm:
+De ket noi hai may tinh qua modern va line dien thoai de truyen nhan du lieu giua hai may ban co the dung 1 trong cac phuong phap sau
+- Dung cong cu san co cua Windows: su dung Hyper Terminal (Start-program-Accessories-Communication-Hyper Terminal. O cua so dau tien ban dien ten va chon bieu tuong cho ket noi, nhan Ok. Tai man hinh connect to ban thiet lap thong so ve country (ma nuoc), area code (ma vung), phone number(so may ket noi cua may tinh thu 2),connect using (chon ten modern cua ban), nhan ok. Nhu vay ban da thiet lap xong cac thong so ky thuat o may thu1. 
+Lam tuong tu cho may thu 2. De 2 may ket noi (VD: may1 ket noi vao may2). Tai may 2 ban chon menu Call-wait for a call, con tai may 1 ban chon menu Call-call. Khi hai may da ket noi voi nhau ban chon menu Tranfer-send file de truyen du lieu. Muon ngat ket noi chon Call-disconnect.
+- Ngoai ra ban co the su dung phan mem Pc anywhere hoac ket noi bang Term95 trong chuong trinh NC.
+Chuc ban thanh cong. 
+

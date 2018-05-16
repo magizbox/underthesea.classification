@@ -1,0 +1,16 @@
+Một số công nghệ chiến lược trong năm 2005
+Giới IT đang ngập trong một biển kỹ thuật mới. Việc xác định yếu tố chín muồi, có thể khai thác cho kinh doanh, là một nhiệm vụ khó khăn. Dưới đây là một vài công nghệ mà hãng nghiên cứu Gartner cho rằng có ảnh hưởng mạnh trong năm tới.
+Nhắn tin nhanh (IM)
+Gartner dự đoán tới năm 2005, hình thức này chiếm 60% số thông điệp cá nhân. Hạn chế của nó, theo Carl Claunch, phó chủ tịch Gartner, là khả năng lưu dữ liệu, ít hỗ trợ thông tin phi ký tự, khó tích hợp và nhất là tính bảo mật. IM không được thiết kế để đảm bảo an ninh. Nó không có tính năng nhận dạng khi liên lạc với những đối tượng bên ngoài công ty, ông giải thích.
+Dù vậy, một số hãng lớn như AOL, IBM, Microsoft, Sun, Yahoo, đã bắt đầu bán các bản IM dùng cho doanh nghiệp, có nhiều tính năng nâng cao. Chẳng hạn chương trình NotesBuddy của IBM, có khả năng bảo mật, lưu trữ các cuộc hội thoại, đồng thời tích hợp cả e-mail. Quan trọng hơn, trong bối cảnh IM tràn ngập công sở và các thiết bị cầm tay, doanh nghiệp sẽ phải cho nhân viên sử dụng ứng dụng này, nếu muốn họ thoải mái và làm việc hiệu quả.
+Trong tương lai, Claunch cho rằng IM sẽ xuất hiện ở nhiều ứng dụng, thay vì chỉ là phương tiện liên lạc trực tuyến và sẽ phụt tắt khi đóng windows.
+Công nghệ phân loại (Taxonomy)
+Vốn là tập hợp các phương tiện sắp đặt trật tự thông tin, công nghệ này rút ngắn thời gian tìm tin, nâng cao hiệu quả sản xuất và làm hài lòng khách hàng. Chẳng hạn, những nội dung quan trọng trong e-mail sẽ được lọc bằng một vài tiêu chí định trước. Dữ liệu về hàng hóa cung cấp cho người tiêu dùng sẽ được phân loại để họ dễ tìm hiểu.
+Tuy nhiên, đây được xem là sẽ là một thách thức với cả người dùng lẫn giới phát triển IT. Khó khăn lớn nhất, theo Claunch, là hệ thống và từ khóa phân loại phải dễ hiểu với người tìm thông tin. Thông thường, luôn có sự không hiểu ý giữa hệ thống phân loại với những thuật ngữ người tìm kiếm sử dụng.
+Gartner hy vọng rằng tới giữa năm 2005, người ta sẽ tìm ra những giải pháp phân loại hiệu quả ở cấp doanh nghiệp. Hãng cũng gợi ý khách hàng nên áp dụng những hệ thống phân loại kết hợp cả con người và máy móc.
+Điện thoại IP
+Tiết kiệm chi phí là nguyên nhân chủ yếu khiến công nghệ này được chấp nhận. Ngoài ra, IP phone còn vượt trội ở những tính năng cộng tác, chẳng hạn hội thảo trực tuyến. Tuy nhiên, các doanh nghiệp phải đợi hết chu kỳ khấu hao mới có thể quẳng đi hệ thống điện thoại analog cũ. Do đó, phải đến năm 2006, họ mới có thể lắp đặt và gặt hái lợi ích từ ứng dụng này. Hiện nay, khảo sát của hãng ZDNet cho thấy nhiều công ty đã dọn đường cho IP phone bằng cách hội tụ một phần mạng dữ liệu và truyền thanh.
+Mạng không dây WLAN
+Với giao thức Truy cập không dây an toàn (Wi-Fi Protected Access - WPA), nỗi lo bảo mật không dây đã lắng xuống. Theo Claunch, WPA sẽ đảm bảo an ninh để WLAN được ứng dụng rộng rãi, thay thế cho kết nối có dây. Trước đây, mọi người coi mạng không dây là đầy rủi ro và ít nhắc tới nó. Song WPA đã giải quyết tình trạng này, khiến khái niệm về mạng dây toàn bộ trở nên lỗi thời, ông nói.
+Trong tương lai, WPA sẽ tương thích với chuẩn IEEE 802.11i. Chuẩn này (còn gọi là WPA2) kết hợp với chuẩn mã hóa cao cấp (AES), tạo ra hệ thống có độ bảo mật cao. 
+

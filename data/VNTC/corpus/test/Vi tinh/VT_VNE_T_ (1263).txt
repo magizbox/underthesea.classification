@@ -1,0 +1,7 @@
+Giải pháp khôi phục dữ liệu cho doanh nghiệp
+Hãng cung cấp giải pháp bảo toàn dữ liệu Digital Artifact (Singapore) vừa giới thiệu tại Việt Nam thiết bị chuyên dụng có ổ cứng dung lượng cao DataSaver (DS) với tính năng sao lưu và tự phục hồi dữ liệu máy tính. 
+Chế độ sao lưu được xác lập tùy yêu cầu người sử dụng. Thao tác chương trình tiến hành trên 6 nút chức năng. Khi bấm mỗi nút, cửa sổ hướng dẫn thực hiện chức năng tương ứng sẽ mở ra. 
+DS có thể phục hồi dữ liệu và trạng thái hoạt động của một ổ cứng đã bị xoá hoàn toàn dữ liệu trong vòng 15 phút. Máy khởi động bằng CD phục hồi. Người sử dụng chỉ cần nhập địa chỉ mạng, gõ tên đăng nhập và mật khẩu rồi chọn điểm cần khôi phục từ danh sách tạo ra trước khi dữ liệu mất. 
+So với dùng phần mềm back-up thông thường thì giải pháp này ứng dụng dễ dàng hơn, thời gian sao lưu, khôi phục dữ liệu và chương trình máy tính nhanh hơn. Sản phẩm cũng tiết kiệm đáng kể cho doanh nghiệp vì tiền đầu tư chỉ bằng 30-50% so với các giải pháp khác. Nó có thể khôi phục được dữ liệu nhiều máy nối mạng mà không tốn thêm chi phí.
+DS phù hợp với các doanh nghiệp vừa và nhỏ, không có đội ngũ IT chuyên nghiệp. Sản phẩm sẽ có mặt tại Việt Nam vào tháng 11 tới, được phân phối bởi Công ty Misoft với 2 loại thông dụng là DS 120 GB, giá khoảng 3.000 USD/bộ và DS 250 GB, giá 3.350 USD/bộ.
+

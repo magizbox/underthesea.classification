@@ -1,0 +1,5 @@
+Trang MSN Hàn Quốc bị biến thành bẫy của tin tặc
+Hôm qua, Microsoft thừa nhận hacker đã xâm nhập và cài phần mềm vào website MSN nổi tiếng tại Hàn Quốc để ăn cắp mật khẩu của khách hàng. Hiện vẫn chưa rõ số người dùng trở thành nạn nhân trong cuộc tấn công này.
+Microsoft đã nhanh chóng khám phá ra vấn đề, xóa mã phần mềm nguy hiểm mà những kẻ giấu mặt đã cài vào từ đầu tuần trong vòng vài giờ, nhưng vẫn chưa thể khẳng định quy mô ảnh hưởng của chương trình này về lâu dài, mặc dù hãng không nhận được bất cứ phản hồi nào từ phía khách hàng.
+Microsoft cho rằng nhân viên điều hành website đã không áp dụng kịp thời các bản vá lỗi và lơ là trong việc bảo vệ khách hàng. Một phát ngôn viên của Microsoft thừa nhận đây là sự kiện đáng xấu hổ với tư cách là hãng phần mềm lớn nhất thế giới, luôn tiêu tốn hàng trăm triệu USD để cải tiến bảo mật cũng như nâng cao niềm tin cho khách hàng về sản phẩm của hãng.
+

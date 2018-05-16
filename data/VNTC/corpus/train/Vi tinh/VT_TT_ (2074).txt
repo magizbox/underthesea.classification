@@ -1,0 +1,19 @@
+ Những phần mềm miễn phí hay nhất
+Vọc các tính năng thiết yếu của Windows 
+Nếu bạn không có thời gian hoặc không muốn vật lộn với mớ menu của Windows, Winuscon sẽ trao cho bạn một loạt công cụ Windows (như quản lý tập tin, gửi tin nhắn SMS, truy cập mọi bảng điều khiển của Windows và các applet thiết lập). 
+Những bạn thích vọc có thể sử dụng X-Setup Pro để điều chỉnh và phục hồi từng chi tiết nhỏ nhất của Windows, từ display (hiển thị) tới theme (chủ đề), âm thanh và các thiết lập khác với sự đa dạng bất ngờ: (Có tất cả gần 1.700 thành phần khác nhau của giao diện người dùng). Bạn thậm chí có thể tạo ra những tập tin đặc biết cho phép bạn truyền các tùy biến mà bạn tạo ra tới những máy tính khác. 
+Các chuyên gia tư vấn Windows đặc biệt thích KillWin - hiểu theo nghĩa đen là giết Windows, trình tiện ích giúp đóng nhanh mọi ứng dụng, ngoài ra còn giúp bạn đóng máy, khởi động hoặc thoát khỏi Windows vào ngày giờ cụ thể. 
+Để khởi động những chương trình ưa thích của bạn nhanh hơn và có tổ chức hơn, bạn nên chọn trình tiện ích JetToolBar . Phần mềm hiển thị một thanh công cụ trôi hoặc cố định mà bạn có thể sử dụng như một menu Start thông minh.. 
+Nếu bạn cần các driver cho các thiết bị của mình, hãy tìm đến với DriverFiles.net , trang web có nhiều trình điều khiển hơn bất kỳ nơi nào khác. Website đơn giản, dễ tìm kiếm này có thể cải thiện đáng kể tốc độ cho PC của bạn với driver cho rất nhiều thiết bị ngoại vi và bộ phận đủ mọi chủng loại (kể cả các phiên bản không chính thức hoặc beta). Khi bạn muốn tìm những driver đã được Microsoft chứng nhận, hãy kiểm tra Windows Update Driver Catalog để kiếm những driver ổn định nhất cho các bộ phận phần cứng. 
+Vọc Windows nâng cao 
+Nếu cảm thấy những gì đã vọc với Windows XP là chưa đã, bạn hãy thử Windows XP Power Toys - một bộ trình tiện ích Windows dành cho những người dùng trình độ cao. Dưới đây là 5 trình con hay nhất: 
+Alt-Tab Replacement: Bật/tắt các ứng dụng một cách thông minh, chuyển đổi giữa các ứng dụng. Power Calculator : Một máy tính vẽ biểu đồ dùng để giải toán. Đây là phần mềm ưa thích với sinh viên khoa công trình và những người thích hoạt động trí não. 
+Image Resizer : Điều chỉnh kích thước file ảnh, hoặc thi hành lệnh trên một loạt tập tin cùng lúc chỉ với một cú nhấp chuột. 
+Virtual Desktop Manager Jockey: Ngoài 4 desktop Windows còn có một trình quản lý desktop Linux. 
+Webcam Timershot: Ra lệnh cho webcam của bạn chụp hình theo lịch làm việc, tải lên và lưu trữ các file hình ảnh. 
+"Trị bệnh" cho Windows 
+Nếu máy tính dùng Windows XP của bạn không có các công cụ sửa chữa hoặc một đĩa boot CD, hay máy tính của bạn không thể boot từ CD, bạn sẽ cần tải về phần mềm Windows XP Home Edition Setup Disks for Floppy Boot Install và tạo ra một bộ đĩa mềm khởi động, đề phòng khi máy dở chứng phải boot lại. 
+Phục hồi file bị xóa: Tiện ích PC Inspector File tìm ra những tập tin mà bạn đã bất cẩn xóa bỏ hoặc bị mất. Tương tự, sản phẩm đi kèm PC Inspector Smart Recovery , giúp lấy lại ảnh đã xóa vì vô ý từ bất kỳ phương tiện lưu trữ nào của máy ảnh kỹ thuật số. 
+Bất kỳ ai từng sử dụng đĩa ghi CD-R/RW đều biết rằng nó rất dễ hư hại. CDCheck sẽ phát hiện những file bị hỏng và phục hồi để lưu trữ an toàn. Trình tiện ích hữu dụng này cũng sẽ cho phép bạn "kiểm tra sức khỏe" của những tập tin PC khác, được duyệt trên Windows Explorer. 
+Thùng rác Recycle Bin của Windows nhiều khi không đủ đáp ứng nhu cầu của bạn. Nếu bạn cần một trình ứng dụng mạnh để phục hồi tập tin tốt hơn, hãy chọn Restoration . Phần mềm này có khả năng "cứu" những file bị vô tình xóa bỏ ngay cả khi chúng không còn trong Recycle Bin hoặc bị xóa trong khi giữ chìm phím Shift. Chương trình cũng có một chức năng cho phép xóa không thể phục hồi mà bạn có thể dùng khi xóa những tài liệu mật. Vì Restoration có thể chạy từ đĩa mềm nên bạn sẽ không vô ý ghi đè một file "đã xóa" nhưng thực ra vẫn nằm đâu đó trong ổ cứng. 
+

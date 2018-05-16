@@ -1,0 +1,5 @@
+ Hacker “không dây”có thể ngồi tù 18 năm
+Theo Tòa án bang North Carolina, Mỹ, Brian Salcedo có thể phải ngồi tù 18 năm vì đã gây thiệt hại 2,5 triệu USD. Tuy nhiên, do thành khẩn và thái độ hợp tác, khai báo của Salcedo để điều tra sự việc liên quan tới vụ tấn công mạng Lowe tìm ra hai đồng phạm nên mức án trên có thể được giảm đáng kể. Đó là Adam Botbyl, 20 tuổi, có thể sẽ phải chịu mức án từ 12-13 năm tù giam. Người còn lại là Paul Timmins, 23 tuổi, dự kiến sẽ được đưa ra xét xử vào ngày 28-6 tới. 
+Vụ án này bắt đầu từ sery các cuộc tấn công của bộ 3 tin tặc này vào hệ thống của Lowe tại Southfield, Michigan vào tháng 10 và 11-2003, khiến ngân hàng này bị thiệt hại hàng triệu USD. Ba tin tặc đã dùng lỗ hổng này để vô hiệu hóa toàn bộ mạng doanh nghiệp của tập đoàn bán lẻ đồ nội thất và chui cả vào hệ thống của nhiều cửa hàng khác ở các bang California, Kansas, South Dakota vào những tuần sau đó. 
+Những hacker này còn cài đặt một phiên bản của hệ thống xử lý thẻ tín dụng có tên “tcpcredit” mà chúng đã chỉnh sửa, có khả năng quét thông tin tài khoản tín dụng trong mọi giao dịch thông qua hệ thống các cửa hàng thuộc Lowe. 
+

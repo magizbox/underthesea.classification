@@ -1,0 +1,7 @@
+Mỹ xử vụ ăn cắp dữ liệu qua mạng lớn nhất
+Hôm qua, tòa án Florida (Mỹ) đã buộc 144 tội danh cho Scott Levine, kẻ ăn cắp một lượng lớn dữ liệu từ Acxiom, một công ty marketing đại diện cho các hãng lớn như General Electronics, Microsoft, IBM và nhiều hãng phát hành thẻ tín dụng. 
+Trong một tuyên bố, Bộ Tư pháp Mỹ cho biết những tội danh mà Levine bị cáo buộc cho thấy đây là vụ xâm nhập trái phép và ăn cắp thông tin cá nhân lớn nhất từ trước đến nay. Đối tượng này đã ăn cắp 8,2 GB dữ liệu của Acxiom thông qua Internet, gây thiệt hại hơn 7 triệu USD. Bản cáo trạng nêu ra 144 tội, trong đó có âm mưu, lừa đảo, rửa tiền và ngăn cản pháp luật.
+Bản luận tội mô tả Levine là thế lực điều khiển của Snipermail.com, một công ty tại Florida chuyên tung ra các quảng cáo trên Internet thay mặt các hãng quảng cáo và nhà môi giới. 
+Phiên xử này là hệ quả của một vụ án khác diễn ra vào năm ngoái, khi Daniel Baas, một người Ohio, đột nhập vào máy chủ của Acxiom. Trong khi điều tra vụ Bass, các nhà điều tra đã phát hiện hành vi xâm nhập của Snipermail.
+Hãng Acxiom cho biết sau khi các vụ xâm nhập bị phát hiện vào hè 2003, họ đã tiến hành nhiều biện pháp tăng cường bảo mật cho hệ thống máy tính. 
+

@@ -1,0 +1,8 @@
+Google Talk hỗ trợ video
+Công ty Santa Cruz Networks (Mỹ) vừa công bố bản nâng cấp phần mềm hỗ trợ tương thích có tên Festoon, cho phép người sử dụng dịch vụ tin nhắn nhanh của hãng tìm kiếm lớn nhất thế giới nhìn thấy người họ đang nói chuyện cùng.
+Chương trình plug-in cho Google Talkgiúp thực hiện cuộc gọi nhóm lên tới 200 người, cũng như chia sẻ ảnh và ứng dụng với bất cứ ai trong quá trình đàm thoại.
+Festoon được trang bị hiệu ứng video EyeCandy, giúp người gọi tạo những hình ảnh trực tuyến như là ngôi sao nhạc rock, lực sỹ, thày tu... hoặc làm biến dạng khuôn mặt theo nhiều cách khác nhau. Họ cũng có thể chụp lại bất cứ cửa sổ video nào, kể cả hình ảnh của chính mình, và lưu trong Festoon Pictures.
+Để sử dụng Festoon, người dùng cần kết nối máy ảnh số tới máy tính và tải miễn phí Festoon. Chương trình hoạt động trên PC với thiết bị xử lý 800 MHz trở lên, hệ điều hành Windows 2000 và Windows XP. Phần mềm đang tiếp tục được phát triển để tương thích những nền tảng khác như Linux và Macintosh trong thời gian tới.
+Santa Cruz Networks đã cung cấp Festoon cho dịch vụ điện thoại Internet miễn phí Skype với tên gọi vSkype, từ tháng 6. Hãng này  cũng đang trong quá trình thỏa thuận với America Online, Microsoft và Yahoo để mở rộng video trong hệ thống IM. 
+Google đã phát hành dịch vụ tin nhắn nhanh trong tháng 8, đánh dấu bước chuyển đổi quan trọng từ công ty chuyên cung cấp công cụ tìm kiếm Internet thành cổng dịch vụ web với nhiều công cụ trực tuyến đa dạng.
+

@@ -1,0 +1,7 @@
+Đầu nghe nhìn đầu tiên tích hợp công nghệ P2P
+Công ty LamaBox của Hà Lan vừa phát hành một loại thiết bị chạy đĩa với tính năng chia sẻ ngang hàng, có thể cắm trực tiếp vào TV để tìm kiếm và tải file từ hầu hết các dịch vụ P2P như Bittorrent, Kazaa, E-Donkey và Gnutella. 
+LamaBox.
+Sản phẩm của LamaBox được trang bị ổ ghi DVD, dung lượng cao nhất 400 GB với hai kết nối IDE (chuẩn giao diện đĩa cứng) mở rộng. Ngoài ra, thiết bị tương thích với bất cứ định dạng hình ảnh, âm thanh, video nào nó tìm thấy qua Internet. 
+Phiên bản cấp thấp LamaBox 400 (40 GB) được bán với giá 329 USD trong khi hàng cao cấp LamaBox 900 (400 GB) với ổ ghi DVD là 565 USD.
+Tuy nhiên, LamaBox có thể phải thận trọng nếu muốn kinh doanh tại Mỹ bởi họ có thể sẽ sớm nhận được trát hầu tòa của Hiệp hội điện ảnh (MPAA) và Hiệp hội công nghiệp thu âm (RIAA) nước này.
+

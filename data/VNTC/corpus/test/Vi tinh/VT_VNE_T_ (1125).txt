@@ -1,0 +1,6 @@
+Tin tặc tấn công trang chủ Mobile Games 2004 
+Sáng nay, hacker đã xâm nhập được vào hệ thống website của cuộc thi viết game cho điện thoại di động, xóa dữ liệu trên trang chủ. Sự cố làm người dùng truy cập vào trang web này chỉ thấy một màn hình trắng với thông báo tạm ngừng hoạt động. 
+Kẻ xâm nhập để lại lời nhắn: HACKED BY CCTEST  pEtPiG - A Gift for W.A. and Chubby. Check your works again, DuMB A$$ ADmins ! Gud luck!!!!!!!!. (Bị hack bởi CCTEST  pEtPiG - Một món quà dành cho W.A và Chubby. Xem lại công việc của mình đi, quản trị! Chúc may mắn!).
+Anh Trần Việt Hùng, quản trị site Mobile Games 2004 (www.samsungmobilegames.com.vn/), cho biết tin tặc đã lợi dụng SQL injection, một lỗi sơ đẳng trong lập trình trang cùng với lỗi kết nối thông tin để thực hiện cuộc tấn công này. Do đó, mức độ thiệt hại không lớn. Anh khẳng định: Qua kiểm tra, không thấy thiệt hại nào đáng kể ngoại trừ việc trang chủ bị xóa. Cơ sở dữ liệu vẫn còn nguyên vẹn và chúng tôi đã khắc phục hậu quả, sửa lỗi.
+Tới 11h30 trưa nay, trang web đã được phục hồi.
+

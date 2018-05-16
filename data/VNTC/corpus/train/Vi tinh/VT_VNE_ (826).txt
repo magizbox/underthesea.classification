@@ -1,0 +1,11 @@
+Lỗi font khi in (1)
+Chao Ban Vi Tinh!
+Em la Huyen, em co mot so thac mac nho cac anh chi giup gium em nhe!
+Khi em len mang va muon chep noi dung co mot bai nao do tren mang vao Word thi van hien font Tieng Viet binh thuong, nhung khi em in noi dung do ra thi lai khong doc duoc, toan bo noi dung tro thanh font gi do khong the doc duoc, xin cac anh chi cho em biet tai sao va giup em cach khac phuc a.
+Em da nho nguoi den cai font Tieng Viet cho em day du nhung van nhu cu, em khong biet tai sao nua.
+Rat mong cac anh chi giup em.
+Cam on cac anh chi!
+Hồi âm:
+Bạn thân mến! Tôi đã gặp lỗi này, trường hợp của tôi là do máy in đời mới ( HP LaserJet 1200 series ) không hỗ trợ Unicode font. Tôi xử lý in được Uni.font rất đơn giản. Bạn hãy nói rõ hơn bạn đang dùng: loại máy in, hệ ĐH, bản in mà bạn không in được có dùng font gì? Nếu cần thì gửi thẳng cho tôi theo đ/chieudan02@hotmail.com.
+Chào bạn. 
+

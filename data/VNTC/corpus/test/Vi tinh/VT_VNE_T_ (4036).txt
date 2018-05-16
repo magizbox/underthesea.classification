@@ -1,0 +1,15 @@
+Phần mềm Goldware tách riêng lời hát và nhạc nền
+Tách lời bài hát là mong muốn của rất nhiều những người yêu âm nhạc trên toàn thế giới. Chương trình Goldwave của hãng cùng tên tại Mỹ sẽ đáp ứng được yêu cầu của người sử dụng.
+Âm thanh stereo được phân bố giống hệt nhau trên 2 kênh âm thanh trái phải. Nếu biến âm thanh này thành mono bằng cách đảo ngược một trong hai kênh âm thanh rồi đem trộn vào kênh còn lại, giọng hát sẽ biến mất. Về mặt lý thuyết, công việc này khá đơn giản nhưng thực tiễn đã chứng minh là kết quả không như ta vẫn mong muốn, tuy nhiên, có còn hơn không trong khi chờ đợi một giải pháp tốt hơn.
+Sau khi tải phần mềm Goldwave, quá trình giải nén sẽ kéo dài khoảng 2-3 phút. Sau đó, bạn thực hiện theo các bước sau:
+1. Chọn file nhạc gốc: Click File/ Open. Lưu ý là Goldwave phiên bản mới nhất 5.10 chỉ hỗ trợ một số định dạng file nhất định là .WAV, .MP3, .SND, .XAC, .AIF, .AFC, .AU, .VOC, và .IFF. Đây là nhược điểm mà Goldwave sẽ dần khắc phục trong các phiên bản sau.
+2. Chọn kênh trái: Click Edit/ Channel/ Left. 
+3. Copy kênh trái: Click Edit/ Copy. Sau đó click Edit/ Paste New. Một cửa sổ con sẽ xuất hiện trong cửa sổ làm việc của bạn với tên mặc định là Untitled1.
+4. Chọn kênh phải: Click Edit/ Channel/ Right. 
+5. Copy kênh phải: Click Edit/ Copy. Sau đó click Edit/ Paste New. Một cửa sổ con sẽ xuất hiện trong cửa sổ làm việc của bạn với tên mặc định là Untitled2.
+6. Đảo kênh trái: Click vào cửa sổ Untitled1, click Effects/ Invert, sau đó click Edit/ Copy.
+7. Trộn kênh trái đã trộn vào kênh phải: Click vào cửa sổ Untiltled2. Sau đó click Edit/ Mix.
+8. Lưu lại file đã tạo: Click Edit/ Save as.
+Với GoldWave, bạn có thể tạo cho mình những nhạc chuông điện thoại đặc sắc không đụng hàng, hoặc dùng để luyện hát và biến máy tính mình thành một phòng thu âm tại gia. 
+Tải phần mềm Goldware tại đây. Lưu ý là phiên bản dùng thử của Goldwave chỉ có thể tách đoạn nhạc tối đa 10 giây. Bạn phải liên hệ để đăng ký mới có thể dùng cho đoạn nhạc dài hơn.
+

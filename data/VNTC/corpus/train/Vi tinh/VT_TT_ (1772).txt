@@ -1,0 +1,7 @@
+ Máy tính Windows Vista
+Bắt đầu từ tháng tới, một số máy PC sẽ bắt đầu có slogan là “Windows Vista capable” (Chạy tốt Windows Vista) 
+Microsoft đang tích cực làm việc với tất cả các thành viên và đối tác phần cứng để cho ra đời những máy tính Windows Vista “ hàng hiệu “. 
+Để có được Logo và câu khẩu hiệu này in trên sản phẩm, toàn bộ máy tính phải trải qua những cuộc thử nghiệm và thiết kế vô cùng gắt gao. Một phần trong chiến dịch này là hỗ trợ để khách hàng hiểu rằng những phần cứng nào chạy tốt nhất vối Windows Vista, một khi nó chào đời. 
+Chưa biết cấu hình cụ thể dành cho máy tính này, thế nhưng qua những tiết lộ sơ khởi cho thấy, một máy tính muốn chạy tốt Windows Vista cần ít nhất 512 MB RAM, Mainboard và CPU đời mới nhất hỗ trợ DirectX 9c. 
+Đương nhiên để đạt được cái gọi là “Capable“ như Microsoft nói cũng có nhiều loại máy tính phù hợp theo từng giá tiền. Microsoft cho biết, cấu hình yêu cầu tối thiểu sẽ đưa ra chỉ phù hợp để chạy Windows Home Basic, tuy nhiên, họ vẫn chưa thông báo cấu hình tối thiểu đó là gì. Tất cả thông tin chỉ được biết khi chiến dịch quảng cáo bắt đầu. 
+

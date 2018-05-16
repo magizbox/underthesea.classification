@@ -1,0 +1,5 @@
+Chống spyware từ máy chủ
+Hôm qua, các công ty Mỹ Blue Coat Systems và InterMute đã hợp tác đưa ra sản phẩm ProxySG có khả năng dò tìm và ngăn chặn các phần mềm gián điệp (spyware) ở cổng Internet của máy chủ cũng như trên PC.
+Công cụ mới hoạt động ở cổng dựa trên công nghệ proxy của Blue Coat kết hợp với phần mềm SpySubstract của InterMute. Trước hết, nó theo dõi những trang web được người dùng của mạng truy cập để tìm kiếm những chương trình và hành vi cho thấy website đó có thể đang tìm cách lén lút cài đặt mã lệnh vào máy tính của nạn nhân. Sau đó, chương trình sử dụng bộ lọc URL để chặn những spyware và adware đã có tên trong sổ đen xâm nhập vào máy tính người dùng, hoặc chặn kết nối của phần mềm gián điệp về máy chủ trong trường hợp PC đã bị lây nhiễm.
+Blue Coat cho biết, sản phẩm ProxySG sử dụng 5 cơ sở dữ liệu lọc URL tại proxy và hỗ trợ các phân loại tùy biến, cho phép thiết lập quyền ưu tiên và ngoại lệ. Và cũng như nhiều bộ chương trình chống spyware khác, phần mềm này quét chữ ký của phần mềm gián điệp. Chương trình sẽ báo cho quản trị mạng biét khi tìm thấy bất kỳ spyware nào trên máy tính để kịp thời khắc phục.
+

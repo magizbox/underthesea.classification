@@ -1,0 +1,14 @@
+ Tự tạo hosting cho website 
+Ý tưởng nghe có vẻ lạ nhưng tính thực tế rất cao. Hiện nay việc thuê đường truyền ADSL đối với một công ty không có gì là khó về mặt kinh tế lẫn kỹ thuật. 
+1. Tạo Webserver: Nếu bạn cài Windows 2000/XP trở lên thì hãy vào Control Panel &gt; Add or Remove Programs &gt; Add/Remove Windows Component. Đánh dấu vào mục Internet Information Services (IIS). 
+Đưa đĩa CD cài đặt hệ điều hành vào rồi nhấn Next để hoàn tất quá trình cài đặt. Lúc đó ở ổ đĩa cài hệ điều hành của bạn sẽ có thêm thư mục Inetput. 
+Nếu bạn dùng Windows 98/Me thì có khác một chút là thay vì dùng IIS thì ta dùng Personal Webserver. Đây không phải là một thành phần của Windows giống như IIS mà chỉ là phần phụ trợ thêm. 
+Bạn hãy vào Google để tìm, cũng đơn giản thôi vì đây là chương trình khá phổ biến. Tiến hành cài đặt như một chương trình bình thường. Một điểm lưu ý là bạn phải khởi động lại máy trước khi xuống bước 2. 
+Nếu cài đặt thành công thì khi bạn mở Internet Explorer ra và đánh đường dẫn http://localhost thì với Win 2000/XP, nó sẽ trỏ tới trang default.asp còn 98/Me thì default.html. 
+2. Xây dựng Webserver: Dùng Dreamweaver hay FrontPage tạo một site và chuyển tất Website cả các thành phần của website vào đó. Tiến hành làm trang web như bình thường. Xong hãy di chuyển site đó vào thư mục x:\Inetput\wwwRoot (với x là ổ đĩa chứa hệ điều hành). Nếu bạn dùng Dreamweaver thì bạn nên chuyển site vào thư mục đó trước khi định nghĩa site để có thể xem thử trong suốt quá trình tạo website. 
+Bây giờ bạn mở IE ra và đánh đường dẫn http://localhost/yyy (yyy: tên site của bạn) thì trang chủ của bạn sẽ được mở. Nếu bạn có ý định dùng ASP hay PHP thì tốt nhất là bạn nên dùng Windows 2000/XP vì IIS hỗ trợ rất tốt 2 ngôn ngữ đó. 
+3. Xuất Website: Hãy kiểm tra thật kỹ website của bạn trước khi qua bước này. Việc đầu tiên mà bạn phải làm là tìm hiểu số IP của máy bạn. Tôi lấy ví dụ với đường truyền ADSL và các máy nối mạng LAN với nhau. Nhấp phải chuột vào biểu tượng Network Neighborhood, chọn Properties. Lựa chọn giao thức mà bạn dùng, ở đây tôi dùng giao thức TCP/IP &gt; Dialup Adapter, sau đó nhấn Properties. 
+Trong tab DNS Configuration sẽ thấy số IP của bạn. Sau đó hãy thử vào IE và nhập số IP vừa tìm được dưới dạng 203.xxx.xxx.xxx/ yyy (yyy: tên site của bạn) thì nó sẽ đưa bạn đến trang chủ của website. 
+Tiếp theo bạn vào http:// www.dot.tk đăng ký một tên miền rút gọn cho dãy IP dài ngoằng đó. Kể từ bây giờ, khách hàng của công ty bạn chỉ cần nhập tên miền .tk vừa đăng ký là nó trỏ ngay đến IP của bạn. Vậy đó, bây giờ máy tính của bạn đã trở thành máy chủ web. Bởi vậy nó nên có cấu hình mạnh một chút. 
+Tạo webserver kiểu này có một số lợi ích: đỡ tiền thuê domain và hosting, không phải trả thêm tiền khi dung lượng truy cập vượt quá giới hạn, trong một vài trường hợp tốc độ còn nhanh hơn cả hosting thuê. Và nếu bạn tìm hiểu thêm một chút thì có thể tạo hộp thư POP3 riêng nữa đấy. 
+

@@ -1,0 +1,6 @@
+Cấu hình PC phù hợp với phần mềm dựng phim (1)
+Em muốn hỏi máy vi tính có cấu hình như thế nào để có thể tương thích, phù hợp với phần mềm dựng phim ABODE PREMIERE để máy chạy "ngon lành" không bị giật. Em nghe nói phần mềm này đòi hỏi cấu hình rất cao. 
+Duc
+Hồi âm:
+Nhìn chung các máy tính mới bây giờ đều có thể làm điều này, miễn là bạn có một ổ cứng có tốc độ cao (7200RPM hoặc hơn với 8MB Cache) và một video card tương đối tốt (AGP hoặc PCI Express với khoảng 128MB hoặc hơn). 
+

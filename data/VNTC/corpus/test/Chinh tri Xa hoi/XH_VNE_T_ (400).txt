@@ -1,0 +1,16 @@
+Hà Nội đang xem xét việc dừng đăng ký xe máy tại 5 quận 
+Sáng nay, UBND thành phố chỉ đạo Sở Giao thông công chính và Công an Hà Nội nhanh chóng đánh giá kết quả việc ngừng đăng ký tại 4 quận trước đây và báo cáo thành phố trước ngày 18/2. Trên cơ sở đó, thành phố sẽ ra quyết định về thời điểm dừng đăng ký tại 5 quận tiếp theo. 
+Việc đánh giá này dựa trên những yếu tố: được và chưa được liên quan trực tiếp đến giao thông đô thị; dư luận trong và ngoài khu vực 4 quận; mức độ ảnh hưởng đến kinh tế xã hội nói chung; phản ứng của nhà sản xuất và người buôn bán xe máy; thực tế việc đăng ký hộ, đăng ký nhờ; dự báo nhu cầu và hướng giải quyết đối với xe máy trên địa bàn 5 quận. 
+AddVote(1000143349,0,129964907,'','Theo bạn, Hà Nội có nên ngưng đăng ký xe máy tại 5 quận vào 20/2?','#FFFFFF','#804000','100%',4, new Array(new Array('Có',0,1),new Array('Không nên',0,2),new Array('Nên ngưng sau 3 tháng nữa',0,3),new Array('Ngưng khi hệ thống xe buýt phát triển tốt',0,4)),'',1)
+Hôm qua, thành phố cũng có công văn yêu cầu tương tự, chỉ có điều yêu cầu các ngành gửi báo cáo trước ngày 28/2. Như vậy, với công văn sáng nay, đề nghị hạn gửi báo cáo đã được rút sớm lại 10 ngày.
+Theo ông Nguyễn Đức Nhanh, Phó Giám đốc Công an thành phố, ngành ủng hộ chủ trương ngừng đăng ký tại 5 quận tiếp theo. Trong tờ trình ngày 19/1, Công an thành phố kiến nghị UBND thành phố ngừng cấp giấy phép tại 5 quận tiếp theo vào ngày 20/2. Bởi việc thí điểm dừng tại 4 quận nội thành cũ đạt kết quả tốt, thể hiện lượng xe đăng ký giảm trên toàn thành phố. 
+Tuy nhiên, trao đổi với VnExpress chiều nay, ông Phạm Quốc Trường, Giám đốc Sở Giao thông công chính nhận xét, ngừng đăng ký trên tất cả các quận vào thời điểm trên chưa thích hợp. Theo ông Trường, trước khi đưa ra quyết định, thành phố cần thực hiện tốt các giải pháp như tổ chức tốt vận tải hành khách công cộng. Hiện Sở đang chỉ đạo Công ty Vận tải hành khách công cộng điều chỉnh lộ trình tuyến, tăng tuyến, tăng xe buýt để có thể đáp ứng nhu cầu đi lại gia tăng của người dân. Cùng với đó, Công an thành phố cần có biện pháp hạn chế đăng ký xe máy tại các huyện ngoại thành để ngăn chặn tình trạng thuê, mua đăng ký của người nội thành. Và phối hợp với các tỉnh, thành khác tìm biện pháp hạn chế xe máy biển số ngoại tỉnh lưu thông trên đường phố Hà Nội. 
+Theo ông Trường, UBND thành phố sẽ căn cứ việc triển khai thực hiện của hai ngành giao thông và công an để ra quyết định ngưng đăng ký tại 5 quận còn lại. 
+Cho đến thời điểm này, UBND thành phố chưa có ý kiến gì về văn bản đề nghị của công an ngừng đăng ký xe máy tại 5 quận Tây Hồ, Cầu Giấy, Thanh Xuân, Hoàng Mai, Long Biên vào ngày 20/2.
+Những ngày gần đây, lượng xe máy xin cấp giấy phép lưu hành tại 3 điểm đăng ký tại Hà Nội đã tăng vọt.Phòng cảnh sát giao thông cho biết, trung bình mỗi ngày có 1.100-1.250 xe đăng ký, tăng gấp ba lần so với tháng trước. 
+Các điểm đăng ký xe máy tại Hà Nội đang 'nóng' dần(02/02/2004)
+Cấm đăng ký xe máy tại Hà Nội, lượng xe ga sẽ giảm mạnh(31/01/2004)
+Không nên vội vã cấm đăng ký xe máy(02/01/2004)
+Hà Nội ban hành quy định dừng đăng ký xe máy từ 1/9(14/08/2003)
+Hà Nội dừng đăng ký xe máy tại 4 quận từ 1/9(08/08/2003)
+

@@ -1,0 +1,7 @@
+Power Mac G5 bốn lõi ra mắt
+Hãng máy tính Mỹ Apple vừa phát hành trên thị trường phiên bản Power Mac G5 Quad với hai thiết bị xử lý lõi kép PowerPC G5 2,5 GHz, bộ nhớ đệm L2 1 MB trên mỗi lõi, với giá 3.299 USD.
+Apple cho biết G5 Quad sẽ có dung lượng ổ cứng 250 GB, và giống như các dòng Power Mac khác, bộ nhớ 512 MB có thể mở rộng lên tới 16 GB. Hệ thống mới bao gồm một cổng FireWire 800, hai cổng FireWire 400, 4 cổng USB 2.0, 2 cổng USB 1.1, hỗ trợ Wi-Fi 802.11g và Bluetooth 2.0.
+"Với quá trình xử lý 4 lõi, cấu trúc PCI Express và card nhanh nhất của Nvidia, Power Mac G5 Quad là hệ thống mạnh nhất mà chúng tôi từng tạo ra", Philip Schiller, Phó giám đốc tiếp thị sản phẩm của Apple, khẳng định.
+Apple còn giới thiệu một máy Power Mac với một thiết bị xử lý PowerPC G5 2,0 GHz, giá 2.490 USD. Hệ thống được trang bị bộ nhớ 512 MB, ổ cứng 160 GB, card video Nvidia GeForce 6600 LE, 3 rãnh mở rộng PCI Express và một SuperDrive 16x với 2 lớp hỗ trợ.
+Apple cũng vừa công bố phần mềm ảnh, mang tên Aperture, tạo điều kiện cho các nhiếp ảnh gia chuyên nghiệp tổng hợp những đặc điểm thiếu hụt trong quá trình chuyển từ máy ảnh dùng phim sang công nghệ số. Ứng dụng cho phép người sử dụng xử lý, so sánh và chỉnh sửa dễ dàng hơn hàng nghìn file RAW chưa nén. "Quả táo" sẽ kinh doanh Aperture vào tháng 11, giá dự kiến 499 USD. 
+

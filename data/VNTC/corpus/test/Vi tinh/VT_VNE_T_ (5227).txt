@@ -1,0 +1,7 @@
+AMD tự phong là 'quán quân lõi kép'
+Sau gần 4 tháng, hôm qua, AMD tuyên bố chiến thắng trong cuộc so tài lõi kép sau khi hạn thách đấu với Intel đã hết mà hãng sản xuất chip số một thế giới không có phản hồi nào.
+"Sự im lặng trước thách thức của chúng tôi càng chứng tỏ khả năng dẫn đầu của công nghệ lõi kép AMD", Marty Seyer, Phó giám đốc bộ phận giải pháp vi xử lý của AMD, khẳng định.
+Trở lại tháng 8, trên nhiều tờ báo lớn ở Mỹ như The Wall Street Journal và USA Today, AMD đã đề nghị Intel đưa thiết bị xử lý lõi kép của họ lên "sàn đấu" nhằm xác định ai sẽ đạt chức vô địch.
+"Một cuộc so tài tay đôi dựa trên chuẩn công nghệ sẽ cung cấp cho khách hàng những thông tin cần thiết để biết công ty nào đáp ứng tốt nhất nhu cầu điện toán của họ", Seyer nói. "Đã đến lúc phải dẹp bỏ những lời quảng cáo cường điệu và chứng minh ai mới là kẻ đi đầu trong công nghệ xử lý x86".
+AMD thậm chí còn dựng lên trang web www.amd.com/duel để khích đối thủ chấp nhận. Ngoài ra, hãng này cũng thống kê 10 lý do vì sao Intel từ chối tham gia.
+

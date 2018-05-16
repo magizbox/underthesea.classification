@@ -1,0 +1,7 @@
+Trojan giả danh thông báo đình chỉ tài khoản e-mail
+Hai chương trình tấn công mới đang lây lan rất nhanh qua nhiều hệ thống mạng trên toàn thế giới. Hãng MessageLabs (Mỹ) khẳng định đã chặn tới 54.000 phiên bản của chương trình này bắt đầu từ 18 giờ ngày 6/7.
+"Hacker dùng những tiêu đề e-mail quen thuộc, đã từng được sử dụng trước đây", Alex Shipp, chuyên gia virus của MessageLabs, cho biết. "Tôi phát hiện những chương trình này ở mọi nơi".
+E-mail, bao gồm chương trình Trojan Downloader.abc và Downloader.xz, giả dạng những thông báo từ nhà quản trị mạng. Nội dung trong thư yêu cầu người nhận mở một file đính kèm để ngăn việc tài khoản thư điện tử bị đình chỉ hoạt động: "Tài khoản e-mail của bạn đã bị kẻ khác sử dụng để gửi đi hàng loạt thư rác trong suốt tuần qua. Nếu bạn có thể dành ra 5 - 10 phút mở tài liệu đính kèm, chương trình sẽ hỗ trợ bạn tránh gặp rắc rối với dịch vụ trực tuyến. Nếu bạn bỏ qua yêu cầu của chúng tôi, rất tiếc tài khoản của bạn sẽ bị ngừng hoạt động. Kính thư, nhóm quản trị mạng".
+MessageLabs khẳng định nội dung thông điệp này sẽ khiến mọi người rất dễ bị lừa. Và khi mở chúng ra, một phần mềm mở cổng hậu sẽ nhanh chóng được cài vào máy tính, dọn đường cho hacker xâm nhập.
+MessageLabs đánh giá sự nguy hiểm của Trojan này ở mức độ cao.
+

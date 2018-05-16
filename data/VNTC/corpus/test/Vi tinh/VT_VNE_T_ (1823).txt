@@ -1,0 +1,6 @@
+Tắt 'Window file protection' trong Window XP (1)
+Xin chi giup cho toi cach giai quyet tinh huong: Lam sao de tat canh bao "window file protection" trong window XP. Xin cam on.
+Ly Duc Minh
+Hồi âm:
+Neu toi khong lam thi moi khi ban logon deu gap dong chu dai khai nhu the nay: "Warnig! windows file protection is not active on this system.would you like to enable windows file protection..v.v." Neu dung nhu vay phai sua lai phan (registry) truoc khi sua ban hay lam mot back up nhe ban hay can than trong viec edit registry, ban hay vao startrun go lenh regedit ok, tim key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon, mac dinh (default) cua windows la 0=enable 1=disable, nhap phai chuot key SFCDisablemodifydanh so o trong khung value dataok click fileexit... Khoi dong lai xem co con xuat hien dong chu do hay khong, neu van khong duoc thi can phai co tool hex editor de lam cong viec do. 
+

@@ -1,0 +1,7 @@
+Dùng mobile vẫn an toàn
+Theo điều tra mới đây của Phần Lan, độ bức xạ của một số điện thoại di động được ưa chuộng nhất hiện nay vẫn nằm trong giới hạn cho phép của châu Âu và tương đối phù hợp với các thông số của nhà sản xuất.
+Cơ quan An toàn nguyên tử và phóng xạ Phần Lan (STUK) năm nay đã tập trung vào 16 model mới của các hãng điện thoại di động hàng đầu thế giới như Nokia (Phần Lan), Motorola (Mỹ), Samsung Electronics (Hàn Quốc). Năm ngoái, cơ quan này đã đánh giá 12 model.
+Kết quả cho thấy, tất cả các mẫu thử nghiệm đều có tỷ lệ hấp thu đặc trưng (SAR) - yếu tố đo sức nóng lưu lại trong não của người sử dụng - đều rất thấp, cách xa mức tiêu chuẩn của châu Âu là 2 watt trên một kilogram. STUK khẳng định: độ SAR trong tất cả 28 model đã qua thử nghiệm đều nằm trong phạm vi 0,45- 1,12 watt/kilogram. Ở mức độ này, các mô não không bị nóng lên đáng kể và do đó không gây hại.
+Hiện nay, rất nhiều người e ngại sử dụng mobile vì cho rằng chúng có thể gây ra một loạt vấn đề sức khỏe, từ đau đầu cho đến ung thư. Tuy nhiên, nhiều nghiên cứu về ảnh hưởng của thiết bị này đều không có kết luận cuối cùng.
+STUK dự kiến thử nghiệm loạt di động thế hệ thứ 3 theo tiêu chuẩn UMTS trong năm 2005, trong đó tập trung vào các sản phẩm phổ biến nhất.
+

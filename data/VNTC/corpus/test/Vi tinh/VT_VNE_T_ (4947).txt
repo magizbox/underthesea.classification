@@ -1,0 +1,8 @@
+Máy tính không nhận USB (2)
+Em co mot chiec USB nhung moi cam vao mot may thi bao la"Not recognize USB" the la tu day USB cua em cam sang cac may khac cung khong the chay duoc. Cac may khac deu khong nhan USB. Vay co cach nao de sua chua lai khong? Em mong moi nguoi tu van cho em cang nhanh cang tot. Em cam on nhieu!
+Vu Quang Cuong
+Hồi âm:
+Khi bạn cắm USB của bạn sang máy khác thì nó có nhận USB không. Nếu mà nhận thì bạn thử format theo định dạng FAT32 hoặc FAT xem thế nào. Chúc bạn thành công.
+Luong Xuan Sinh
+Bạn không nói là máy bạn dùng Windows gì, USB hiệu gì? làm sao mà mọi người ở đây giúp bạn nhanh được. Bạn có quên để cái USB trong máy rồi khởi động máy vi tính không? (nếu có thì 80% sẽ bị hỏng). Mình chỉ có vài ý kiến là (bước cuối):1. Bạn nên vào trang web của công ty USB, tìm phần mềm để "partition" nó lại cái USB đó. 2. Bạn có thể vào đây đê tải về phần mềm (FREE) http://www.killdisk.com, trong đó có hảng USB của bạn không! Download rồi sẽ biết.3. Thì vào đây tham khảo thêm: http://support.microsoft.com/default.aspx?scid=kb;en-us;871233Chúc may mắn.
+

@@ -1,0 +1,9 @@
+Google trình làng tính năng search theo tên
+Hãng tìm kiếm trực tuyến vừa cung cấp thêm một tính năng mới vào thanh công cụ của mình. Công cụ này cho phép người lướt Web có thể search bằng cách đánh tên (Browse By Name ) thay vì gõ địa chỉ URL. 
+Đại diện của hãng cho biết tính năng Browse By Name được công bố hôm 14/7 với 12 thứ tiếng, trong đó có tiếng Pháp, Nga, Đức, Italy, Trung Quốc và Nhật.
+Đại diện của hãng cho biết cho dù người lướt Web có thể đánh tên không cụ thể hay rất cẩn thận, thanh công cụ đều tự động thực hiện chức năng tìm kiếm Google với nội dung lệnh nhận được. Do đó, người dùng có thể lựa chọn trang Web phù hợp với mục đích của mình.
+Với tính năng trình duyệt bằng tên của Google, người sử dụng có thể đánh tên (ví dụ như "Grand Canyon") vào trong cửa sổ browser Internet Explorer. Nhờ đó họ có thể tìm thấy trang chủ Grand Canyon mà không cần phải đánh một nội dung rất cồng kềnh như http://www.nps.gov/grca/ để tìm ra địa chỉ của Website công viên quốc gia Mỹ.
+Ví dụ bạn đánh tên "xe đạp" vào cửa sổ trình duyệt, một bảng kết quả liên quan đến xe đạp sẽ xuất hiện sau khi bạn click vào nút Search. Theo Google, công cụ này nhằm mục đích giúp mọi người tiết kiệm thời gian khi dùng trình duyệt Web.
+Sử dụng cửa sổ browser như một thanh tìm kiếm là cách tương đối tốt nếu người lướt Web muốn tìm những nội dung mang tính chung chung. Tuy nhiên, những thông tin cụ thể luôn luôn xuất hiện đầu tiên. Ví dụ nhập "apple" (táo) vào thanh công cụ, người lướt Web sẽ nhận được thông tin về trang chủ của hãng máy tính Apple chứ không được cung cấp thông tin về loại hoa quả.
+Thanh công cụ Google sẽ tự động nâng cấp để tích hợp thêm những tính năng mới nhằm giúp người dùng không cần phải cài đặt phiên bản mới. Tuy nhiên, đến hôm nay, không phải tất cả đều cập nhật được hết. Phát ngôn viên của Google ở London cho biết, phải mất vài ngày người dùng mới có thể cập nhật được tính năng này. 
+

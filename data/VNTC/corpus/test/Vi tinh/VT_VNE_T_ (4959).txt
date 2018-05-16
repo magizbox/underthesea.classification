@@ -1,0 +1,8 @@
+Định dạng Microsoft Office sẽ thành chuẩn mở
+Hãng phần mềm khổng lồ Mỹ vừa khẳng định kế hoạch cung cấp Word, Excel và PowerPoint theo chuẩn mở. Động thái này có khả năng sẽ khơi mào cho một cuộc chiến "định dạng chuẩn" giữa Microsoft và các hãng đối thủ.
+Công nghệ định dạng văn bản Office Open XML sẽ được trình lên Tổ chức tiêu chuẩn quốc tế (ISO) để được công nhận là một chuẩn toàn cầu đúng vào thời điểm Microsoft phát hành phiên bản mới của gói ứng dụng văn phòng Office 12.
+Gần đây, một nhóm đối thủ của Microsoft, dẫn đầu là IBM và Sun Microsystems, cũng đã vận động và đẩy nhanh quá trình đưa ứng dụng OpenOffice và OpenDocument của liên minh OASIS trở thành chuẩn quốc tế nhằm gạt định dạng độc quyền Microsoft Office sang một bên.
+Mặt khác, Microsoft cũng phải chịu nhiều sức ép từ phía chính phủ và tổ chức yêu cầu một chuẩn văn bản tương thích với phần mềm của họ. Tập đoàn tin tưởng bước đi mới nhất sẽ giúp họ giành được nhiều hợp đồng quan trọng với các đơn vị muốn xây dựng phần mềm dựa trên chuẩn mở. Quyết định này cũng cho thấy sự ảnh huởng của Ủy ban châu Âu và các thành viên trong liên minh EU đối với Microsoft.
+Công ty phần mềm cũng đang có kế hoạch cung cấp công cụ chuyển đổi từ định dạng văn bản cũ sang chuẩn mở. "Đã đến lúc chấm dứt tài liệu đóng", Alan Yates, Tổng giám đốc của Microsoft Office, nói. "Office mở sẽ mang đến những cơ hội cải tiến mới mẻ cho mọi nhà phát triển".
+Microsoft đã lôi kéo được nhiều công ty và tập đoàn máy tính ủng hộ chiến dịch của họ như Apple, hãng dầu BP (Anh), Intel và Statoil (Na Uy). OpenDocument và OpenOffice hiện được hậu thuẫn bởi nhiều hãng lớn, trong đó có IBM, Apple, Google, Intel, Novell, Red Hat, và Sun.
+

@@ -1,0 +1,8 @@
+Động cơ nhỏ nhất thế giới
+Một ngày nào đó, những thiết bị tí hon sẽ lăn bánh trong cơ thể người đến sửa chữa cho các tế bào bị trục trặc. Các nhà khoa học đã mở đường cho ý tưởng đó với việc công bố động cơ điện nhỏ nhất thế giới từng được thiết kế.
+Bạn có thể đặt hàng trăm chiếc như vậy vào trong dấu chấm ở cuối câu này. Động cơ làm việc theo nguyên lý xáo trộn các nguyên tử giữa hai giọt kim loại lỏng trong một ống carbon. Hai giọt kim loại có kích cỡ khác nhau, một to một nhỏ. 
+Khi cho một dòng điện yếu chạy qua hai giọt kim loại này, các nguyên tử sẽ từ từ bứt ra khỏi giọt lớn và nhập vào giọt nhỏ hơn. Giọt nhỏ trở nên to ra - nhưng không bao giờ lớn bằng anh bạn bên cạnh - và cuối cùng vỡ tung, hoà vào giọt lớn. Khi chúng chạm nhau, giọt lớn nhanh chóng nuốt lấy các nguyên tử mà nó đánh mất trước đó. Sự chuyển đổi năng lượng nhanh chóng này tạo ra một cú đẩy mạnh mẽ. 
+Kỹ thuật này đã tận dụng một thực tế là sức căng bề mặt - xu hướng chống lại sự phân tách của các nguyên tử hoặc phân tử - càng trở nên quan trọng ở quy mô càng nhỏ. Sức căng cũng chính là lực cho phép các côn trùng bước đi trên mặt nước. 
+Trưởng nhóm nghiên cứu, Alex Zettl tại Đại học Berkeley, California, cho biết mặc dù năng lượng tạo ra là nhỏ (chỉ 200 microwatt), nhưng rất đáng kể so với quy mô tí hon của động cơ. Một chiều của động cơ chưa đầy 200 nanomét, nghĩa là nhỏ hơn bề rộng sợi tóc người hàng trăm lần. Nếu được phóng đại tới kích cỡ của một ô tô bình thường, nó sẽ khoẻ gấp 10 triệu lần động cơ V6 225 mã lực của Toyota Camry. 
+Các nhà nghiên cứu cho biết động cơ siêu nhỏ này có thể được sử dụng trong mạch quang học để chuyển mạch, dùng trong y học để phát hiện bệnh tật và sửa chữa các tế bào hỏng hóc. 
+

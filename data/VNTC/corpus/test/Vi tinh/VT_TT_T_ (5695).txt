@@ -1,0 +1,5 @@
+ OS X 10.4.4 - Bản nâng cấp cho người dùng Mac
+Apple khuyến cáo người dùng nên tải về và cập nhật phiên bản 10.4.4 này với các đặc tính sẽ được bổ sung như: 
+- Các dịch vụ tập tin mạng SMB/CIFS và NFS - Khả năng truy cập Bluetooth không dây - Nhân đồ họa, nhân âm thanh, nhân hình ảnh, hỗ trợ tập tin RAW bao gồm cả việc cập nhật driver của các card đồ họa ATI và nVidia - Chỉ mục và tìm kiếm Spotlight - Cập nhật các ứng dụng AppleScript, iChat, DVD Player và Safari - Dashboard widget: Calendar và Stocks - Cập nhật phần mềm và dịch vụ Sync - Tương thích với các thiết bị USB và FireWire cũng như các ứng dụng thứ ba - Cập nhật hơn 120 lỗi bảo mật được phát hiện trong phiên bản trước 
+Tất cả trong một, các lỗi và cập nhật trong phiên bản 10.4.3 được tích hợp vào nâng số lượng nâng cấp, cải tiến lên đến gần 500. Apple vẫn đang tiếp tục trên con đường phát triển hệ điều hành dành riêng cho phần cứng của họ và cạnh tranh âm thầm với “gã khổng lồ” Windows khi số lượng lỗi bảo mật trong hệ điều hành từ Microsoft này ngày càng được phát hiện và khai thác nhiều hơn. 
+

@@ -1,0 +1,8 @@
+VeriSign tiếp tục quản lý tên miền .com đến 2012 
+Công ty dịch vụ Internet Mỹ vừa tuyên bố họ đã giành quyền kiểm soát hệ thống địa chỉ phổ biến nhất hiện nay sau thắng lợi trong vụ kiện chống độc quyền đối với tổ chức tên miền quốc tế ICANN.
+Theo thỏa thuận mới, VeriSign sẽ quản lý cơ sở dữ liệu của 35 triệu địa chỉ .com thêm 7 năm nữa với lợi nhuận 6 USD/năm cho mỗi tên miền. Công ty này cũng đang điều hànhhệ thống .net với khoảng 6 triệu địa chỉ.
+Kết luận nói trên được đưa ra sau khi mâu thuẫn pháp lý giữa ICANN và công ty mạnh nhất dưới quyền của nó chấm dứt. Vụ tranh chấp diễn ra trong thời điểm không thuận lợi cho tổ chức tên miền quốc tế bởi họ đang chịu nhiều công kích từ Trung Quốc, Iran và nhiều nước khác muốn được tham gia quản lý trực tiếp hơn đối với hệ thống tên miền.
+"Quyết định mới đã xác lập lại mối quan hệ VeriSign - ICANN, và cho phép mọi người tập trung hơn vào những vấn đề quan trọng như khả năng bảo mật, độ ổn định và quá trình toàn cầu hóa của Internet", Mark McLaughlin, Phó chủ tịch VeriSign, phát biểu.
+Công ty có trụ sở tại California (Mỹ) này đã mở dịch vụ SiteFinder vào tháng 9/2003, nhằm thu hồi mọi lệnh truy cập .com và .net mà người sử dụng gõ sai về một trang công cụ tìm kiếm chứa quảng cáo. ICANN đã yêu cầu VeriSign tạm tời đóng cửa dịch vụ đó sau khi một số chuyên gia cho rằng nó có thể ảnh hưởng tới sự ổn định của Internet.
+VeriSign tiến hành kiện ICANN vào tháng 2/2004, cho rằng tổ chức Internet đã vượt quá quyền hạn và cạnh tranh không lành mạnh. Tuy giành phần thắng, McLaughlin cho biết họ chưa có kế hoạch đưa dịch vụ tìm kiếm SiteFinder hoạt động trở lại.
+

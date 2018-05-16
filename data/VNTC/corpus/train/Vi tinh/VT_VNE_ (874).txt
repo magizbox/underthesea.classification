@@ -1,0 +1,7 @@
+Tissot phát triển đồng hồ dùng dịch vụ MSN Direct 
+Hôm qua, Microsoft cho biết hãng đồng hồ Thụy Sĩ đã phối hợp cùng với Fossil (Mỹ) và Suunto Oy (Phần Lan) sản xuất đồng hồ High-T sử dụng công nghệ SPOT (Smart Personal Objects Technology) của họ.
+Người dùng có thể chạm vào màn hình của High-T để nhận tin, xem dự báo thời tiết, lịch hẹn và các thông tin khác nếu đăng ký sử dụng dịch vụ MSN của Microsoft. Đây là model đầu tiên sử dụng công nghệ SPOT của hãng phần mềm, phát huy mạng radio FM để truyền thông tin tới các đồng hồ đã được trang bị công nghệ này.
+Dịch vụ MSN Direct và đồng hồ SPOT hiện đã có mặt ở thị trường Mỹ và Canada. Tuy nhiên, phải đến năm tới, dịch vụ của Microsoft mới được triển khai ở các thị trường ngoài biên giới nước Mỹ. High-T có giá bán lẻ là 725 USD với 6 tháng sử dụng dịch vụ MSN Direct. 
+Chris Schneider, Giám đốc chương trình SPOT của Microsoft, nhận định: "Chỉ trong 3 tháng cuối năm ngoái, chúng tôi đã có hàng triệu khách hàng mua đồng hồ này và đăng ký sử dụng dịch vụ MSN Direct".
+Nhằm mục đích thu hút khách hàng sử dụng đồng hồ SPOT, Microsoft sẽ tích hợp thêm dịch vụ MSN Direct cung cấp thông tin về phim ảnh, bóng đá. Ngoài ra, theo hãng phần mềm khổng lồ, đến cuối năm nay, người dùng sẽ có cơ hội khai thác thêm nhiều dịch vụ khác nữa.
+

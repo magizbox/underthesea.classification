@@ -1,0 +1,6 @@
+Giải nén file .cab (1)
+Xin chào các bạn. Các bạn cho tôi hỏi bằng cách nào để giải nén các file (.cab, ...) trên đĩa IBT. Cảm ơn các bạn nhiều.
+Trong
+Hồi âm:
+Bạn cài  chương trình Winrar vào hệ điều hành, sau khi cài đặt xong,click chuột phải vào file .cab , nhấn chuột fải  xuất hiện shortcutmenu  chọn "extract to [thư mục]" với [thư mục] : là thư mục được tạo ra trong thư mục hiện hành(các file sau khi xả nén sẽ được chứa ở đây).ngoài ra nếu bạn muốn xem chi tiết các file chứa trong .cab thì nhấnchuột phải, chọn "Open With WINRAR archive".
+

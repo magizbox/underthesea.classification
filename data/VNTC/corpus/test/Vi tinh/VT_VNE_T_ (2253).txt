@@ -1,0 +1,6 @@
+Phần mềm giúp tìm lại ảnh kỹ thuật số
+Zero Assumption Digital ImageRecovery  (ZADI) là tiện ích có thể giúp phục hồi những bức ảnh kỹ thuật số đã bị xóa đi trong Memory Stick, Compact Flash, đĩa cứng... ngay cả khi các thiết bị lưu trữ này đã format. 
+Có rất nhiều phần mềm hồi phục các định dạng file khác nhau, nhưng ZADI chuyên nghiệp hơn vì nó chỉ thuần túy tác động đến ảnh kỹ thuật số. 
+Các bước thực hiện trong chương trình này như sau: mở cửa sổ chương trình, trong khung Select device to analyze hãy chọn thiết bị sẽ tác động để phục hồi file hình ảnh. Trong khung Specify folder to Store recoved inmage in hãy bấm vào nút bên cạnh, chỉ vị trí thư mục chứa hình ảnh được phục hồi. Sau đó là bấm nút Proceed để bắt đầu. Cửa sổ thứ hai mở ra sẽ hiển thị tiến trình cũng như số lượng file phục hồi được.
+Phần mềm này có dung lượng 628 KB của tác giả là Alexay V.Gubin và có thể tải miễn phí tại địa chỉ: www.z-a-recovery.com
+

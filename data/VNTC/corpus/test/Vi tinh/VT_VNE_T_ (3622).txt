@@ -1,0 +1,6 @@
+Nguy cơ tấn công DoS không chỉ ở Windows XP 
+Lỗ hổng bảo mật tạo cơ hội cho tin tặc phá sập máy tính Windows từ xa mà Microsoft đã cảnh báo tuần trước không những ảnh hưởng đến XP mà là hầu hết các phiên bản hệ điều hành khác.
+Windows 2000, Windows XP và Windows Server 2003 đều "dính" phải lỗi trong giao thức điều khiển máy tính từ xa (Remote Desktop Protocol - RDP), tạo điều kiện cho tin tặc dễ dàng thực hiện tấn công từ chối dịch vụ.
+Microsoft vẫn đang xây dựng bản vá lỗi và khẳng định hãng chưa nhận được thông báo về trường hợp máy tính bị khai thác nào từ phía khách hàng. Tuy nhiên, các chuyên gia tại viện nghiên cứu SANS (Mỹ) đã nhận thấy sự gia tăng trong các hoạt động rà soát cổng mạng sử dụng RDP. Đây có thể chính là dấu hiệu cho thấy hacker đang cố dò tìm mục tiêu.
+Cho đến khi công bố bản sửa lỗi, Microsoft khuyên khách hàng nên chặn cổng TCP 3389 bằng tường lửa, gỡ bỏ dịch vụ Terminal Services, Remote Desktop và kết nối mạng riêng ảo (VPN) nếu không cần thiết.
+

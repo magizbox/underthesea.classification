@@ -1,0 +1,10 @@
+Cách mua host (3)
+Hiện nay tôi đã có một website riêng và tạm thời đang dùng host free, nhưng chắc các bạn cũng biết host free thì có những bất tiện gì rồi. Cho nên tôi quyết định mua host cho mình. Tôi đọc qua đã có một bài giới thiệu trang web www.ipower.com của anh Đông Ngô, nhưng với sinh viên như tôi mà bỏ ra gần 8 USD/ Tháng thì chịu không nổi.Tôi có biết một vài website việt nam có cung cấp dich vụ hosting như 4rumvn.com, hostqn.com và nhanhoa.com. Nhưng tôi thấy cách làm việc của họ rất thiếu chuyên nghiệp. Website 4rumvn thì như trẻ con làm quản lý, nhanhoa.com thì là website kém nhất về thiết kế mà tôi từng gặp. Tôi vào đó muốn đăng ký để mua mà tôi tìm nửa ngày không biết chỗ nào để nhấn vào link mà mua. (Bạn không tin vào thử mà xem).Vậy ai có biết chỗ nào tốt mà giá cả phải chăng thì chỉ cho tôi với. Chân thành cảm ơn các bạn.
+Quang Huy
+Hồi âm:
+Bạn thử với thiennienky.com xem sao, giá cũng rẻ thôi, lại có cả e-mail đi theo nữa. 
+Thùy
+Anh hãy vào kccvn thử . Trang web này rất tốt, ngoài ra có thể vào host4vn.com để thử Néu có thời gian anh hãy tham khảo Google vì giá cả biến đông, khó chắc chắn. 
+Trí Thông 
+Hy vọng là bạn không mong đợi một có được một host nghiêm chỉnh và lại miễn phí. Nếu bạn xem lại những gì bạn có được thì $8/tháng là rất rẻ. Tuy nhiên nếu muốn rẻ hơn nữa thì sử dụng Pairnic: http://www.pair.com/services/web_hosting/ , chỉ có $6/tháng (nếu bạn trả liền cả một hoặc nhiều năm thì sẽ được giảm giá). Tuy nhiên dịch vụ này sẽ có khá nhiều hạn chế so với Ipower. Nhìn chung không còn dịch vụ nào rẻ hơn nữa đâu. Nếu bạn so sánh thì dịch vụ của FPT đắt hơn cả chục lần.
+

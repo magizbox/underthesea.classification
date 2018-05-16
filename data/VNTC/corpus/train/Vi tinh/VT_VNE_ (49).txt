@@ -1,0 +1,19 @@
+5 trào lưu công nghệ trong năm 2004
+Tập đoàn Intel vừa đưa ra những dự đoán về công nghệ trong năm nay, bao gồm: ngôi nhà kỹ thuật số kết nối không dây; máy tính để bàn - các điểm nóng truy cập không dây; điện thoại sẽ "thông minh" và mạnh mẽ hơn; Wi-Fi tiến tới "Max"; kỹ thuật số trong lĩnh vực y tế.
+Trong suốt 4 thập kỷ qua, đồng sáng lập viên của hãng Intel, ông Gordon Moore, dự đoán rằng cứ hai năm một lần, số lượng các bóng bán dẫn trên từng miếng silicon sẽ được tăng lên gấp đôi. Dự đoán này đã nổi tiếng với tên gọi "Định luật Moore" và nó giúp đẩy nhanh tốc độ phát triển của thị trường máy tính dùng trong gia đình và các thiết bị viễn thông xách tay.
+Dưới đây là 5 trào lưu công nghệ tiên tiến trong năm nay:
+Ngôi nhà kỹ thuật số kết nối không dây
+Ranh giới giữa ngành công nghiệp máy tính và các ngành công nghiệp điện tử tiêu dùng sẽ mờ dần đi trong khi những lợi ích mà người dùng được hưởng sẽ ngày càng rõ nét.
+Các máy tính sẽ có thêm nhiều chức năng của thiết bị điện tử tiêu dùng và ngược lại. Sự hòa trộn này sẽ tạo ra một làn sóng sản phẩm "hội tụ" đầy hấp dẫn bao gồm những thiết bị có khả năng kết nối không dây như: đầu máy DVD và máy quay video xách tay được nối mạng.
+Máy tính để bàn - các điểm nóng truy cập không dây
+Bằng công nghệ di động Intel Centrino, các dòng máy tính xách tay nhẹ hơn, đẹp hơn với khả năng kết nối không dây được tích hợp sẵn, cho phép người tiêu dùng truy cập Internet mà không cần dây dẫn tại các "điểm nóng" được đặt tại quán cafe, sân bay, nhà hàng, khách sạn và các khu công viên trên toàn thế giới.
+Trong những tháng tới, ngôi nhà kỹ thuật số phát triển sẽ dẫn tới trào lưu tích hợp khả năng kết nối không dây vào máy tính để bàn. Một dòng chipset mới của Intel sẽ được trang bị thêm tính năng mang tên "Tích hợp AP", hay còn gọi là tích hợp điểm truy cập. Tính năng này sẽ giúp cho dòng máy để bàn trở thành những trung tâm điều khiển mạng không dây có khả năng "hoạt động độc lập" và tạo ra một "điểm nóng" ngay trong ngôi nhà đó.
+Điện thoại sẽ "thông minh" và mạnh mẽ hơn
+Kiến trúc Intel Personal Internet Client (Intel PCA) đang giúp tạo động lực cho một dòng "điện thoại thông minh" và thiết bị hỗ trợ cá nhân thế hệ mới với các tính năng giống như một máy tính sẽ được ra mắt vào năm 2004. Với sức mạnh sánh ngang notebook thế hệ trước, người tiêu dùng có thể lướt web, tận hưởng âm nhạc, các đoạn phim theo một phong cách hoàn toàn mới.
+Wi-Fi tiến tới "Max"
+Là tên quen thuộc của chuẩn không dây 802.16, WiMax là một mạng đô thị không dây. Một ăngten WiMax có hiệu quả đầu tư cao hơn khi cung cấp băng thông rộng tới các hộ gia đình trong bán kính lên tới gần 50 km, loại bỏ hoàn toàn những chi phí liên quan tới việc triển khai hệ thống dây kết nối. Áp dụng WiMax về cơ bản sẽ mang lại khả năng kết nối không dây cho toàn bộ một thị trấn.
+Việc Intel đưa vào sản xuất các thiết bị silicon dùng cho WiMax, dự kiến được đưa ra thị trường vào nửa cuối năm 2004, sẽ giúp đẩy nhanh quá trình triển khai công nghệ này vào 2005 và những năm tiếp theo.
+Kỹ thuật số trong lĩnh vực y tế
+Máy tính đã tạo ra một ảnh hưởng mạnh mẽ đối với ngành y tế, từ việc các nhà nghiên cứu sử dụng siêu máy tính để tìm ra cách chữa trị các bệnh nan y tới việc bác sĩ có thể dễ dàng tiếp cận thông tin về bệnh nhân trên các máy tính bảng và thiết bị hỗ trợ cá nhân.
+Trong năm 2004, công nghệ sẽ mở ra những mô hình chăm sóc sức khỏe mới. Chẳng hạn, các nhà nghiên cứu tại Trung tâm nghiên cứu bệnh ung thư Fred Hutchinson ở Seattle (Mỹ) đang sử dụng công nghệ của Intel, giúp phát hiện các thành phần hóa học trong quá trình sản xuất bộ vi xử lý, kiểm tra lượng đạm trong huyết thanh của con người và dự đoán khả năng có thể mắc các bệnh khác nhau.
+

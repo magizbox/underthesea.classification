@@ -1,0 +1,4 @@
+Không dùng được font ABC trong Photoshop
+Tôi không thể nào đưa được font ABC (.vn) vào trong phần mềm Photoshop, Illustrator thuộc họ phần mềm Adobe, mặc dù font trong hệ thống Windows vẫn có và tôi đã dùng Adobe Type Manager 4.1 để quản lý và thấy font đã active nhưng cũng không dùng được và chỉ dùng được font VNI thôi.Tất nhiên trong các phần mềm khác thì vẫn xuất hiện và cho gõ font ABC như Corel chẳng hạn. Xin giải đáp giùm, xin cám ơn!
+Nguyễn Đỗ Hiền
+

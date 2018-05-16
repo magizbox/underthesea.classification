@@ -1,0 +1,6 @@
+ Hitachi giới thiệu đĩa cứng DeskStar Monster 500 GB
+DeskStar Monster được xem là loại đĩa cứng thế hệ mới có dung lượng cao hơn nhiều so với các loại đĩa cứng hiện nay mà không cần phải gia tăng mật độ dữ liệu trên bề mặt phiến đĩa. 
+Các loại đĩa cứng điển hình mật độ cao hiện nay thường có dung lượng từ 100 đến 133GB trên một mặt phiến đĩa. Mật độ này đã được xem là mật độ tới hạn của công nghệ ghi đĩa trên bề mặt phẳng nên một số công ty nghĩ đến cách gắn thêm các mặt đĩa vào một khối đĩa cứng và xem là cách để gia tăng dung lượng một cách dễ nhất. 
+Hiện nay Seagate đã giới thiệu loại đĩa cứng có mật độ dữ liệu cao nhất của mình với dung lượng 133 GB trên mỗi mặt đĩa nhưng Hitachi đã thắng trong cuộc đua với Seagate khi cách đây một thời gian đã tung ra loại đĩa cứng dung lượng 400GB sử dụng nhiều mặt đĩa hơn. 
+Loại đĩa cứng DeskStar Monster 7K500 của Hitachi vừa giới thiệu lần này là loại đĩa cứng đầu tiên có đến 5 phiến đĩa và sử dụng công nghệ 100GB trên mỗi mặt đĩa và sẽ được bán ra trong tháng này. Seagate và Maxtor cũng đã nghiên cứu thành công loại đĩa cứng 5 lớp dung lượng 500GB nhưng phải đến đầu quý 4 năm nay mới tung ra thị trường. 
+

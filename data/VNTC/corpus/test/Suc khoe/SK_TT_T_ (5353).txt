@@ -1,0 +1,13 @@
+ 5 "cuộc cách mạng" trong y học
+Thay đổi bộ phận cơ thể hư cũ bằng bộ phận mới là giấc mơ từ bao đời nay của con người. Thực tế thì y học đã làm được bằng cách ghép phủ tạng (con người và động vật lân cận) hoặc ghép một bộ phận nhân tạo. 
+Tuy nhiên, để ghép một bản sao hoàn toàn mới, phù hợp hoàn toàn về mặt di truyền từ chính tế bào bệnh nhân thì ai cũng cho là không thể. Điều này có thể trở thành hiện thực khi Công ty Genzyme ở Cambridge (Mỹ) thành công trong việc thay thế sụn hư hỏng ở khớp gối bằng sụn hoàn toàn mới. Năm nay, Công ty Tengion ở Pennsylvania còn dự định ghép mạch máu cho những bệnh nhân tim mạch bằng mạch máu được “gieo trồng” trong phòng thí nghiệm từ chính tế bào người bệnh. Như thế, khi nằm trong cơ thể, mạch máu ghép không còn sợ bị đào thải. 
+Giết tế bào ung thư bằng viên thuốc cực nhỏ 
+Đây là phương pháp do Viện Công nghệ Massachusetts (Mỹ) đề xuất. Theo đó, người ta sẽ dùng một viên thuốc có kích thước 200 nanômét (1 phần tỉ mét) vào trong khối u nhằm tiêu diệt tế bào ung thư. Viên thuốc gồm một lớp ngoài tan chậm để khi vào trong khối u mới tiết ra một chất phá hủy mạch máu. Một khi tế bào ung thư không còn mạch máu nuôi dưỡng, chúng mới bị giết chết bằng một chất độc từ thuốc tiết ra. Phương pháp rất an toàn và hiệu quả. 
+Phẫu thuật không cần mở ra 
+Hiện nay công nghệ này đã có mặt dưới cái tên “phẫu thuật nội soi”. Trong nay mai, nó còn tiến xa hơn: Qua ống soi, người ta đưa vào nội tạng những tế bào mầm để chúng tạo ra một loạt tế bào mới thay thế tế bào hư hỏng. Trước mắt, phương pháp này có thể ứng dụng trong tim mạch thông qua phương pháp phẫu thuật bằng robot Da Vinci. Chỉ cần khoan 3 lỗ nhỏ bằng hạt đậu trên ngực, người ta sẽ thay được van tim mà không cần mở lồng ngực. 
+Phân tích gene tốc hành 
+Việc phân tích gene hiện nay đòi hỏi rất nhiều công sức và thời gian. Điều này sẽ bị đảo lộn nhờ vào một con bọ ADN, có thể phân tích hàng ngàn đoạn ADN trong thời gian cực ngắn. Ứng dụng của chúng rất đa dạng: Phát hiện những gene mang bệnh, nhận diện người thân... 
+Công nghệ này hoàn toàn có cơ sở để thực hiện, vì trong năm 2005, hãng Affimetrix đã tung ra con bọ FoodExpert-ID giúp phân biệt dấu vết của 32 loại thịt động vật khác nhau trong thực phẩm như bò, gà, cừu, dê, cá... 
+Quần áo “nghe” được nhịp tim 
+Hiện nay, một số bệnh nhân bị loạn nhịp tim phải mang trên người chiếc máy phá rung hoặc tạo nhịp, chúng khá cồng kềnh và cần lắp đặt rắc rối. Trong nay mai, những người này chỉ cần mặc một chiếc áo làm bằng vải sợi thông minh có thể "nghe" được nhịp tim; khi cần thiết, áo sẽ tự động “sửa chữa” mọi bất thường. Dự án châu Âu này có tên MyHeart (trái tim của tôi). 
+

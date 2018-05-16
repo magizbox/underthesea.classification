@@ -1,0 +1,17 @@
+'Giao dịch điện tử chỉ có luật thôi chưa đủ'
+Chiều 31/5, Quốc hội thảo luận về dự án Luật giao dịch điện tử. Theo tiến sĩ Mai Anh, Tổ trưởng Tổ biên tập, việc ban hành luật (dự kiến vào kỳ họp tới) sẽ đẩy mạnh ứng dụng giao dịch điện tử trong các bộ ngành nhất là ngân hàng, thuế, hải quan...
+- Đây là một luật hoàn toàn mới, liệu nó có nhanh chóng đi vào cuộc sống sau khi được ban hành?
+- Hiện đã có rất nhiều cơ quan ban ngành ứng dụng giao dịch điện tử, nhưng hạn chế vì những hoạt động này không có hạ tầng pháp lý. Thuế, hải quan điện tử đã sẵn sàng cơ sở hạ tầng, đào tạo cán bộ song chưa được triển khai. Ngay ngành ngân hàng đã phải "xé rào" thực hiện thanh toán điện tử khiến Thủ tướng phải ra hẳn một quyết định cho phép ứng dụng trước. Tuy nhiên, vì chưa có luật nên một số khách hàng cũng nghi ngại trong việc sử dụng các dịch vụ ngân hàng điện tử.
+Việc ban hành Luật là một yêu cầu khách quan và cấp thiết nhằm tạo điều kiện thuận lợi cho các hoạt động giao dịch dân sự, kinh tế, thương mại, hành chính, quản lý nhà nước cũng như đáp ứng yêu cầu hội nhập quốc tế. Bản thân tôi cho rằng sau khi luật ra đời, ứng dụng giao dịch điện tử sẽ nhảy vọt.
+- Một số ứng dụng như đăng ký kinh doanh, đấu thầu qua mạng đang được triển khai nhưng hiệu quả rất thấp. Theo ông đâu là những nguyên nhân?
+- Có luật sẽ có cơ sở pháp lý nhưng chưa đủ, còn hạ tầng kỹ thuật, đào tạo, đường truyền nữa. Đơn cử như đăng ký kinh doanh qua mạng, chủ trương thì đúng nhưng còn phụ thuộc vào câu chuyện cải cách hành chính, nhân lực... Còn chuyện có nắm được công nghệ hay không tôi tin họ quá rành, hơn cả những người làm luật.
+- Ông nghĩ sao khi chữ ký điện tử, hợp đồng điện tử được công nhận giá trị pháp lý trong khi quy định về bảo mật trong dự luật còn chung chung?
+- Trong giao dịch, lừa đảo luôn luôn tồn tại, ngay cả với hình thức truyền thống như hợp đồng giấy hay bản fax... Vì thế luật chỉ lo cơ chế đảm bảo, còn các bên giao dịch tự lựa chọn dịch vụ, tùy mức độ tín nhiệm nhau mà đưa ra các quy ước riêng. Chẳng hạn, luật không thể bắt buộc hai bà nông dân vay tiền đưa nhau ra phường đóng dấu chứng thực. Giao dịch điện tử cũng vậy, nếu không tin nhau thì anh yêu cầu sử dụng chữ ký điện tử, hay sử dụng dịch vụ chứng thực.
+Tuy nhiên nếu xảy ra tranh chấp, việc giám định cũng dễ dàng, vì đã có địa chỉ email ở nhà cung cấp dịch vụ Internet.
+- Các đại biểu Quốc hội chưa thống nhất về quản lý nhà nước đối với giao dịch điện tử. Theo ông nên lập cơ quan chuyên trách hay giao Bộ Bưu chính Viễn thông?
+- Quản lý Nhà nước về hoạt động giao dịch điện tử có liên quan đến một số bộ ngành, vì thế có ý kiến đề nghị giao Chính phủ thành lập một cơ quan chuyên trách với mô hình tổ chức gọn nhẹ (như kinh nghiệm Thái Lan) hoặc một tốt chức liên ngành làm tư vấn cho Chính phủ. Một số ý kiến lại cho rằng nên giao Bộ Bưu chính Viễn thông. Tôi cho rằng không nhất thiết phải lập cơ quan chuyên trách, vì sẽ làm tăng thêm bộ máy chính phủ, cồng kềnh.
+Điều 43 (dự luật): Bảo đảm an toàn trong giao dịch điện tử
+1. Tổ chức, cá nhân được tự lựa chọn một phương thức phù hợp để bảo đảm an ninh an toàn và bảo mật cho giao dịch của mình.
+2. Tổ chức, cá nhân khi tiến hành giao dịch điện tử có trách nhiệm thực hiện các biện pháp cần thiết nhằm bảo đảm hoạt động thông suốt của hệ thống thông tin thuộc quyền kiểm soát của mình; nếu gây ra lỗi kỹ thuật làm thiệt hại cho tổ chức cá nhân khác thì phải bồi thường theo quy định của pháp luật.
+3. Không được thực hiện bất kỳ hành vi nào nhằm cản trở hoặc gây phương hại đến hoạt động bình thường của hệ thống xử lý thông tin.
+

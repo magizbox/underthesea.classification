@@ -1,0 +1,38 @@
+Cách tính điểm tại Tour de France 
+Vì sao Voeckler chưa hề nhất chặng tại Tour de France 2004 nhưng lại đã khoác áo vàng tới 9 chặng? Còn Robbie McEwen, VĐV duy nhất thắng 2 chặng cho tới lúc này, lại chỉ là ứng cử viên cho chiếc áo xanh? Bạn đọc VnExpress có thể tham khảo dưới đây cách tính điểm của giải đua Vòng quanh nước Pháp. 
+Áo vàng (yellow jersey)
+Vòng quanh nước Pháp là một trong những cuộc tranh tài thể thao khắc nghiệt nhất thế giới, kéo dài 3 tuần, với những chặng leo núi đầy gian nan, vượt qua các dãy Pyrenees và Alps. Người chiến thắng, giành áo vàng chung cuộc, phải hội tụ đầy đủ các yếu tố về khả năng bứt phá tốc độ, sức mạnh bền bỉ, thi đấu thông minh và sự hỗ trợ từ một đội đua mạnh. 
+Áo vàng là phần thưởng dành cho tay đua dẫn đầu trên bảng tổng sắp chung cuộc (GC - General Classification). Bảng này tính tổng thời gian của mỗi tay đua qua các chặng, từ chặng mở màn. Vì vậy, một cuarơ có thể không cần về nhất chặng nào vẫn trở thành vô địch Tour de France nhờ có thành tích chung cuộc tốt nhất. Đó là lý do giải thích vì sao năm 2003, Lance Armstrong chỉ thắng một chặng, chặng 15, nhưng cuối cùng vẫn vô địch năm đó. Giải năm nay, Thomas Voeckler (đội Brioches) thậm chí còn chưa một lần nhất chặng nhưng đã giữ áo vàng tới 9 chặng đua liên tiếp. 
+Trong tổng thành tích của mỗi tay đua có tính cả thời gian thưởng, dành cho việc về nhất một chặng hay khi nhất một đoạn nước rút. Mỗi khi nhất chặng, một tay đua được thưởng 20 giây. Ngoài ra, một chặng đua còn bao gồm một hay nhiều đoạn nước rút (sprint) trung gian. Về nhất mỗi đoạn này được thưởng 6 giây, về nhì 4 giây còn thứ ba là 2 giây. Vì thế, tuần đầu tiên, gồm những chặng đua tương đối bằng phẳng, thường là quãng thời gian mà các tay đua sở trường về nước rút thay phiên nhau mặc áo vàng. 
+Lưu ý, khi một tay đua được thưởng thời gian, có nghĩa là lấy tổng thời gian tính từ chặng mở màn trừ đi thời gian được thưởng.
+Áo xanh (green jersey)
+Đây là phần thưởng dành cho cuarơ có thành tích nước rút tốt nhất (vua nước rút). Tuỳ chặng đua mà điểm số được cho khác nhau. 
+Các chặng đồng bằng cho điểm 25 tay đua về đầu: nhất được 35 điểm, nhì 30, tiếp đó là 26 điểm, 24, 22, 20, 19, 18, ..., và 1 điểm.
+Các chặng leo núi mức độ khó khăn vừa phải cho điểm 20 tay đua về đầu: từ 25, 22, 18, 16, 15, 14, ..., 1 điểm.
+Các chặng leo núi rất khó khăn cho điểm 15 tay đua dẫn đầu: cho điểm 20 tay đua về đầu: lần lượt từ 20, 17, 15, 13, 12, 10, 9, ......, 1 điểm.
+Các đoạn nước rút trung gian cho điểm 3 tay đua, lần lượt là 6, 4 và 2 điểm.
+Sau ngày thi đấu cuối cùng, cộng tổng tất cả các chặng, tay đua nào có điểm số cao nhất sẽ được trao áo xanh chung cuộc. 
+Áo chấm đỏ (polka dot jersey)
+Thực chất tại Tour de France, các vua leo núi cạnh tranh chiếc áo trắng chấm đỏ, một giải thưởng tương tự chiếc áo đỏ ở giải đua xe đạp xuyên Việt. Đây là cuộc đua giành điểm tại các đoạn leo đèo. Người giành nhiều điểm nhất là người thường xuyên vượt qua đỉnh đèo trước tiên. 
+Ban tổ chức chịu trách nhiệm xếp hạng các con đèo, dựa trên độ dài, độ dốc, vị trí của con đèo ở chặng đua, và một phần nhỏ, vào chất lượng mặt đường. Các con đèo được xếp hạng theo mức độ khó khăn tăng dần từ 4 đến 1. Ngoài ra, đèo được xếp là ngoại hạng thì khó khăn nhất, với độ cao so với mực nước biển ít nhất là 1.500 m. 
+Thông thường, độ dốc của một đoạn đèo được xếp hạng phải là khoảng 4-5% (tức là trung bình cứ 100 m, sẽ lên cao 4-5 m). 
+Cho điểm các đoạn leo đèo: 
+- Đèo loại 1: nhất được 15 điểm, nhì 13, tiếp đó là 11, 9, 8, 7, 6, 5. 
+- Đèo loại 2: cho điểm 10, 9, 8, 7, 6, 5.
+- Đèo loại 3: điểm là 4, 3, 2, 1.
+- Đèo loại 4: điểm là 3, 2, 1.
+- Đèo ngoại hạng: điểm là 40, 36, 32, 28, 24, 20, 26, 14, 12, 10.
+Chung cuộc, tay đua có tổng điểm lớn nhất giành được áo đỏ (vua leo núi). 
+Áo trắng (white jersey)
+Cách tính tương tự như với áo vàng. Tuy nhiên, cuộc đua tranh áo trắng chỉ dành cho những cuarơ từ 25 tuổi trở xuống. Trong một vài môn thể thao, chẳng hạn điền kinh, đây là mức tuổi chuẩn bị về hưu. Nhưng với môn đua xe đạp, và đặc biệt đua tính chặng, trước khi bước vào những năm cuối tuổi 20, các tay lái khó có thể hoàn thiện kinh nghiệm hay sức bền cần thiết để thành công. 
+Dẫu vậy, không phải không có ngoại lệ. Huyền thoại người Bỉ Eddy Merckx mới 24 tuổi khi chiến thắng ở Tour de France lần đầu trong số 5 lần, vào năm 1969. Hay Jan Ullrich hiện nay đã tạo nên cơn sốt tập luyện môn xe đạp tại nước Đức khi đoạt áo vàng chung cuộc năm 1997, khi mới ở tuổi 23. 
+Điểm cho các đội
+Thành tích của một đội tại một chặng đua là tổng thời gian của 3 cuarơ đội đó cán đích sớm nhất tại chặng đua nói trên (lưu ý, không phải là cộng thời gian của 3 VĐV cùng một đội đang đứng cao nhất trên bảng xếp hạng cá nhân). Tổng thời gian qua tất cả các chặng sẽ xác định vị trí của đội đó trên bảng tổng sắp. Đội dẫn đầu bảng xếp hạng chung cuộc có tổng thời gian thấp nhất sau toàn bộ 20 chặng đua, cộng thêm chặng mở màn. Nếu một đội có ít hơn 3 tay đua, đội đó sẽ bị loại khỏi cuộc đua dành cho các đội. 
+Trừ điểm
+Có điểm thưởng thì cũng có điểm phạt. Trong cuộc đua áo xanh, một số tay đua còn bị điểm âm. Đó là vì các nhà tổ chức đã quy định mức phạt cho các vi phạm khác nhau, theo nhiều cách. Thông thường, một cuarơ sẽ bị phạt một khoản tiền tính bằng đồng franc Thụy Sĩ. Lỗi nặng hơn sẽ bị trừ thời gian trên bảng tổng sắp của tay đua phạm lỗi, hoặc trừ điểm từ tổng điểm. 
+Thậm chí nếu mắc sai phạm trầm trọng, một VĐV còn có thể bị loại khỏi cuộc đua. Lý do bị phạt cũng rất đa dạnh, do "bám càng" xe ôtô của đội, do "giải quyết nỗi buồn" khi có nhiều khán giả, làm cho một đối thủ khác bị ngã, hoặc lạng lách nguy hiểm khi đang chạy trong đoàn đông các xe,...
+Các tay đua cùng nhóm được tính thời gian như nhau
+Sau mỗi chặng, đôi khi ta thấy có tới khoảng 20-30 cuarơ hay thậm chí hơn nữa có cùng thời gian về đích như nhau. Đó là một điều gây khó hiểu vì rõ ràng ngay cả khi chỉ có hai chiếc xe chạy song song, cũng hầu như không thể cùng lúc vượt qua vạch đích. Nhưng theo quy định, một nhóm tay đua bám sát nhau sẽ được tính cùng một mức thời gian như nhau, dù chiến thắng vẫn thuộc về VĐV có bánh xe lăn qua vạch đích đầu tiên.
+Ví dụ, chặng 9, Robbie McEwen về nhất nhờ hơn Thor Hushovd đúng nửa bánh xe. Tuy nhiên, trên bảng kết quả, cả hai cuarơ trên cùng với 149 xe tiếp theo đều có thời gian vượt qua chặng 9 là 3 giờ 32 phút 55 giây. Tức là có 151 trên tổng số 172 tay đua tham dự chặng 9 có thời gian về đích như nhau. 
+Tương tự như vậy, nhóm thứ hai sẽ được tính cùng thời gian như tay đua dẫn đầu nhóm này. Mục đích của quy định này là tránh một cuộc nước rút của hàng chục VĐV khi về gần tới đích, vừa rất nguy hiểm, vừa không thể tách bạch được khoảng thời gian chính xác giữa các xe. 
+

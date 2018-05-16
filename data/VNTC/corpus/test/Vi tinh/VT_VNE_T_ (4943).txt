@@ -1,0 +1,10 @@
+CPU loại gì? (1)
+Gần đây, tôi có mua một Main Intel 865G và Intel(R) Processor(R) 4 CPU 2,80 GHz. Nhưng khi khởi động máy, ở màn hình đầu tiên(Từ màn hình này ta có thể vào Bios). Thì tôi thấy có hai điều đặc biệt:
+1-Main Processor:intel processor 4 cpu 1,40 GHz
+2-cpu branch name: Intel(R) Processor(R) 4 CPU 2,80 GHz
+Và khi vào mục properties của My computer thì ở mục general tôi thấy xuất hiện thông số: Intel(R) Processor(R) 4 CPU 2,80 GHz1,40 GHz. Hơn nữa, khi khởi động thì tôi thấy máy này nhanh nhưng khi vào dùng các ứng dụng khi tối thấy không nhanh hơn máy cũ 1,80 GHz của tôi.
+Vậy xin hỏi loại CPU này của tôi là loại gì vậy. Và liệu có vấn đề gì với nó không?
+Duong Son Tung
+Hồi âm:
+Gửi bạn Duong Son Tung: Processor P4 2.8G của bạn có FSB 800 Mhz, trong khi đó Mainboard của bạn chỉ có FSB tối đa là 400 Mhz nên tạo ra hiện tượng trên. Do ó CPU của bạn không thể hoạt động với công suất thiết kế. Để khắc phục nó bạn chỉ có thể thay thế Main hoặc CPU để cả hai có FSB tương thích với nhau.
+

@@ -1,0 +1,10 @@
+Nỗi lo an ninh của các doanh nghiệp Anh
+Một tài liệu tổng kết của Bộ Công thương nước này về những lỗ hổng an ninh năm 2003 cho thấy 1/2 số doanh nghiệp xứ sương mù từng phải hứng chịu các cuộc tấn công trực tuyến và nạn virus. Tỷ lệ này đã tăng lên nhiều so với mức 41% của năm 2002 và 16% năm 2000. Virus máy tính vẫn là vấn đề gây bức xúc nhất. 
+Sau đây là một số ghi nhận của báo cáo này:- 72% số doanh nghiệp được khảo sát cho biết đã bị dính sâu, virus hoặc các chương trình Trojan. Con số này tăng 83% trong cộng đồng các công ty lớn.
+- 93% công ty đều có hệ thống phòng ngừa virus. Tỷ lệ này ở những doanh nghiệp lớn là 99%.
+- 68% công ty lớn đều đã bị virus hoặc bị tấn công từ chối dịch vụ.
+- Sâu Blaster đến nay vẫn là thủ phạm lây lan lớn nhất, chiếm tới 1/3 số vụ lây nhiễm, trong đó hơn một nửa tập trung vào các công ty lớn.
+- Trong số những doanh nghiệp thừa nhận có lỗ hổng hệ thống, 2/3 cho rằng virus là nguy cơ lớn nhất đối với hoạt động của họ.
+- Thiệt hại do các sự cố virus rất đa dạng, từ việc hệ thống bị gián đoạn một ngày cho đến tê liệt dịch vụ cả tháng hoặc thậm chí lâu hơn.
+Con số thống kê sơ bộ của nghiên cứu còn xác định được chỉ có 1/3 doanh nghiệp triển khai hệ thống sao lưu ngoại tuyến và chưa đầy 20% backup dữ liệu trên máy để bàn. Chỉ có 8% thực sự kiểm định các biện pháp khắc phục sự cố trước khi áp dụng.
+

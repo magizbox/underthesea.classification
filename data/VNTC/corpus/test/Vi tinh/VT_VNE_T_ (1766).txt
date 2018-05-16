@@ -1,0 +1,8 @@
+Quản lý doanh nghiệp bằng VIP Enterprise
+Với 8 modul chính, sản phẩm dạng ERP này có thể đáp ứng đầy đủ nhu cầu quản lý tổng thể cho các doanh nghiệp hoạt động trong nhiều lĩnh vực, với quy mô tổ chức cũng như địa bàn phân bố khác nhau.
+Các modul chính của VIP Enterprise bao gồm: kinh doanh, sản xuất, tiêu thụ, tài sản cố định, đặc biệt, tài vụ, kế toán và nhân sự. 
+Quan trọng và có nhiều ý nghĩa nhất trong VIP Enterprise là modul Kế toán. Phân hệ này có chức năng vào sổ tự động các chứng từ ở từng tác nghiệp, theo dõi sổ cái, sổ con, tài khoản và có khả năng tự động hiệu chỉnh thuế suất giá trị gia tăng, tạo ra các bảng cân đối tài khoản, báo cáo tài chính. Ngoài ra, phân hệ này cũng cho phép người sử dụng hiệu chỉnh thủ công trong trường hợp cần sữa chữa, bổ sung...
+VIP Enterprise cho phép truy cập cơ sở dữ liệu từ xa qua mạng Intranet hay Internet với một giao diện web, hoạt động theo 2 chế độ tập trung và phân tán. Tính năng này phù hợp với những doanh nghiệp có mạng lưới kinh doanh và kho hàng phân bố trên nhiều địa bàn khác nhau. Người sử dụng có thể xuất các báo cáo, hóa đơn... sang file Excel hay HTML để phù hợp với nhu cầu sử dụng trong thực tế.
+Một ưu điểm của VIP Enterprise là khả năng tương thích và độc lập với hệ thống phần cứng có sẵn, không đòi hỏi cấu hình máy cao. Chương trình có thể sử dụng máy chủ Windows hoặc Linux, việc chuyển đổi dữ liệu qua lại giữa hai hệ thống khá dễ dàng.
+Thao tác với VIP Enterprise khá đơn giản vì đây là phần mềm hỗ trợ đa ngôn ngữ, đa tiền tệ, tương thích với hệ thống kế toán của Việt Nam (VAS) cũng như chuẩn kế toán quốc tế (IAS)& Sản phẩm này được Công ty VIAMI Software nghiên cứu và phát triển trong 2 năm qua và được nhiều hãng như Sony, Honda... sử dụng vào hệ thống phân phối hàng hóa. 
+

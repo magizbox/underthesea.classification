@@ -1,0 +1,8 @@
+Cơ sở dữ liệu mã nguồn mở nới rộng ảnh hưởng
+Quan tâm hơn tới khả năng tích hợp và yếu tố chi phí, nhiều công ty đang hướng tầm mắt sang các phần mềm cơ sở dữ liệu mã nguồn mở. Đây là kết quả khảo sát của hãng nghiên cứu Evans Data tiến hành với 550 công ty, được công bố hôm qua.
+Tỷ lệ sử dụng cơ sở dữ liệu mã nguồn mở MySQL cho các ứng dụng phát triển tăng ở mức 30% trong năm 2003. Trong khi đó, cơ sở dữ liệu Access và SQL Server của Microsoft tăng 6%.
+Trên bình diện tổng thể, Microsoft vẫn thống trị thị trường cơ sở dữ liệu. Song theo nhà phân tích Joe McKendrick của Evans Data, khả năng tích hợp với phần mềm khác của mã nguồn mở phù hợp với thị hiếu của giới lập trình, vốn thích một cơ cở dữ liệu duy nhất cho cả hai công việc: phát triển và triển khai.
+Bên cạnh đó, mã nguồn mở bắt đầu phát huy lợi thế giá thành trong bối cảnh sự lựa chọn cơ sở dữ liệu hướng sang hiệu quả chi phí. Các công ty bán cơ sở dữ liệu, trước thường chào hàng bằng ưu thế tốc độ hay khả năng đáp ứng những yêu cầu khắt khe, nay chuyển sang bán những cơ sở dữ liệu tin cậy và rẻ tiền hơn. 
+Ngoài cơ sở dữ liệu, nghiên cứu của Evans Data cũng cho thấy yếu tố giá thành cũng ảnh hưởng tới sự lựa chọn hệ điều hành nói chung. Có 62% công ty hy vọng sẽ tiết kiệm được chi phí nhờ dùng Linux.
+Một kết quả đáng chú ý khác là cơ sở dữ liệu về các công ty đang được sử dụng ngày càng nhiều trong kinh doanh. Phân tích kinh doanh đứng đầu trong số những phân tích cơ sở dữ liệu trong năm 2003, tăng 20% so với năm 2002.
+

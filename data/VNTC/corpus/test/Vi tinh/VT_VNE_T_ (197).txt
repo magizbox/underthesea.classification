@@ -1,0 +1,6 @@
+Kiểm tra lỗi đĩa CD bằng CDCheck v3.0.1
+Một số nhà sản xuất khẳng định rằng đĩa CD-ROM có thể "thọ" tới 100 năm nếu được chăm sóc tốt. Tuy nhiên, trước khi điều đó được kiểm chứng toàn diện, tại sao bạn lại không thử kiểm tra định kỳ để biết chắc dữ liệu của bạn vẫn "khỏe".
+Phần mềm CDCheck v3.0.1 giúp bạn xác định và khắc phục những file bị hỏng (corrupted) trên đĩa CD-ROM và cũng có thể dùng chương trình để bảo vệ dữ liệu.
+Ngoài đĩa CD-ROM, phần mềm này còn có thể được dùng với các công cụ ngoại vi hoặc nội bộ khác như ổ đĩa, đĩa mềm và các ổ nén ZIP.
+Để tải miễn phí CDCheck v3.0.1, bấmvào đây.
+

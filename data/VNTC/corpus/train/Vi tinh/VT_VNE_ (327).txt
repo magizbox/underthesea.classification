@@ -1,0 +1,7 @@
+Hậu quả đầu tiên của vụ rò mã Windows
+Trong khi người ta còn tranh cãi về tầm quan trọng của các đoạn mã phát tán, mối nguy đã xuất hiện. Hôm qua, hãng bảo mật SecurityGlobal.net vừa cảnh báo một lỗ hổng trong Internet Explorer 5, được xem là hệ quả của những đoạn mã bị phát tán.
+Theo SecurityGlobal, lỗ hổng này cho phép chạy mã kiểm soát hệ thống từ một máy tính ở xa. Họ cho biết đã phát hiện nó khi nghiên cứu mã nguồn bị lộ. Tôi download mã nguồn Windows. Nó lớn hơn Linux, nhưng thời gian tải không lâu vì nhiều người đang cùng nhân bản dữ liệu, một lập trình viên giấu tên của hãng khẳng định. Ông cũng nói thêm là không thấy lỗ hổng nào trên Internet Explorer 6.
+Sau sự việc hôm thứ 5, nhiều chuyên gia bảo mật cho rằng phần mã lộ quá nhỏ để có thể gây nguy hại cận kề. Tuy nhiên, một số khác lại không đồng ý. Tôi nghĩ chúng ta sẽ thấy hàng loạt lỗ hổng bảo mật từ sự cố này, Ken Dunham, Giám đốc bộ phận mã của iDefense, khẳng định. Nếu lời tiên đoán này thành sự thực thì bộ phận bảo mật của Microsoft hẳn sẽ có một năm vất vả.
+Microsoft hiện chưa đưa ra bình luận hay bản vá nào cho lỗi này.
+Nghi phạm vụ rò mã Windows lộ diện(16/02/2004)
+

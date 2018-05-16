@@ -1,0 +1,4 @@
+ Triển khai thuế thu nhập cá nhân cho doanh nghiệp Đài Loan
+Khá nhiều trưởng VPĐD khai thu nhập chỉ khoảng 500 USD/tháng. Năm 2004, trên 200 VPĐD của DN Đài Loan nộp thuế thu nhập 3,37 tỉ đồng. 
+Trong khi đó chỉ với 168 VPĐD DN Nhật Bản đã nộp thuế 90,9 tỉ đồng, còn 278 VPĐD DN Singapore nộp thuế trên 69 tỉ đồng. 
+

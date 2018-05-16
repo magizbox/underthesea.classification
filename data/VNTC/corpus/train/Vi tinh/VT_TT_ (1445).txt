@@ -1,0 +1,14 @@
+ Quản lý tài chính cá nhân bằng Pocket PC
+- Đa ngôn ngữ: English, French, German, Italian, Spanish. 
+- Dễ dàng nhập xuất và trao đổi dữ liệu với các chương trình Quản lý tài chính trên PC như: Quicken(R) or Microsoft Money(R). 
+- Bảo mật và mã hoá dữ liệu. 
+- Quản lý nhiều tài khoản khác nhau. 
+-Tạo báo cáo 1 cách trực quan với nhiều kiểu biểu đồ khác nhau. 
+Giao diện Cash Organizer Điểm khác biệt: 
+Ngoài nhưng đặc tính trên, Cash Organizer lại có những đặc tính nổi trội hơn hẳn so với Mastersoft Money: 
+- Tự động ghi nhớ những nội dung mà bạn nhập vào, sau đó chương trình sẽ dự đoán và hoàn tất những gì bạn định nhập vào. Đặc tính này giúp bạn tiết kiệm được thời gian khi phải nhập những nội dung giống nhau hàng ngày. 
+- Lập kế hoạch chi tiêu trong thời gian sắp tới, tính năng này sẽ giúp cho bạn dự báo trước được tình hình tài chính của bạn trong tương lai. 
+- Có thể quản lý tài chính cho một đơn vị kinh doanh nhỏ (shop bán hàng, quán ăn,…) 
+Tham khảo thêm thông tin về phần mềm Mastersoft Money tại đây . Giá bán phần mềm này là 19,95 USD, nhưng nếu muốn dùng thử trước khi mua bạn hãy bấm vào đây . 
+Tham khảo thêm thông tin về phần mềm Cash Organizer tại đây . Giá bán phần mềm này là 29,95 USD, nhưng nếu muốn dùng thử trước khi mua bạn hãy bấm vào đây . 
+

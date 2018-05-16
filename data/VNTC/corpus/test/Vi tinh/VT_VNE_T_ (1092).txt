@@ -1,0 +1,6 @@
+Biên tập ảnh bằng phần mềm miễn phí GIMP
+Nhiều tạp chí CNTT quốc tế đánh giá GIMP (GNU Image Manipulation Program) là phần mềm miễn phí xuất sắc nhất trong lĩnh vực biên tập ảnh. Những tính năng rất mạnh của nó cho thấy nhận xét đó là có cơ sở.
+Với GIMP, bạn thực hiện được các tác vụ từ tút ảnh, ghép ảnh tới sáng tác. Bạn có thể sử dụng chương trình như một phần mềm vẽ đơn giản, một ứng dụng tút ảnh chất lượng cao, một hệ thống kết xuất ảnh hàng loạt hay một tiện ích chuyển đổi định dạng ảnh& 
+GIMP có khả năng tương thích rất cao với các plug in của những phần mềm khác. Giao diện cao cấp của chương trình cho phép tất cả mọi thứ, từ những tác vụ đơn giản nhất tới những quy trình chỉnh sửa hình ảnh phức tạp nhất đều có thể được lập trình dễ dàng.
+Nhược điểm của chương trình là hơi khó cài đặt. Bạn sẽ phải tải và chạy GTK+ Runtime Environment trước khi cài GIMP. Tuy nhiên, những khó khăn bất tiện này sẽ được tưởng thưởng xứng đáng. Phần mềm có dung lượng 18,3 MB, có thể tải tại đây.
+

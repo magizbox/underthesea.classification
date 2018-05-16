@@ -1,0 +1,5 @@
+ Mã hóa đĩa cứng tốt hơn với Bitlocker?
+Hãng phần mềm lớn nhất thế giới tin tưởng rằng cùng với Window Vista, Bitlocker sẽ đem đến khả năng bảo mật tốt nhất và khẳng định Bitlocker không hề có backdoor (có tin đồn Bitlocker chứa backdoor với mục đích giúp cảnh sát thâm nhập các dữ liệu khả nghi). 
+Cố vấn kĩ thuật bảo mật của Microsoft, ông Steve Lamb còn cho biết Bitlocker sử dụng AES (chuẩn mã hóa nâng cao - Advanced Encryption Standard) vốn được chính phủ sử dụng. 
+Bên cạnh đó, Microsoft cũng phủ nhận khả năng kĩ thuật mã hóa đĩa này giúp tội phạm bảo mật dữ liệu chặt chẽ đến mức cảnh sát cũng không sử dụng được. Ông Lamb nói: “Bạn có thể phá được một thuật toán mã hóa nếu bạn dành đủ “sức mạnh” cho nó”. Ông khẳng định rằng dữ liệu được mã hóa vẫn có nguy cơ bị đánh cắp nhưng hiện nay chỉ có chính phủ mới có đủ điều kiện làm được điều đó. 
+

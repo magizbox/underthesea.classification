@@ -1,0 +1,9 @@
+Công nghệ flash giảm thời gian khởi động PC
+Kỹ thuật mang tên Robson của Intel cho phép máy tính đưa dữ liệu, ứng dụng vào thẻ nhớ flash và phần mềm của hãng sản xuất chip. Ổ flash phản ứng nhanh hơn ổ đĩa cứng, do đó giảm đáng kể thời gian mở một chương trình. 
+Sáng kiến này giúp người sử dụng máy tính xách tay kéo dài thời lượng pin do ổ cứng sẽ không phải vận động nhiều. Tuy không tiết lộ chính xác thời gian, đại diện của Intel cho biết Robson sẽ rút ngắn quá trình một ứng dụng chuyển từ trạng thái tĩnh sang động và thời gian khởi động các chương trình.
+Thẻ Robson, được phát triển dựa trên công nghệ NAND do Samsung, Toshiba và một số hãng khác phát triển, có dung lượng từ 64 MB đến 4 GB và bộ nhớ càng lớn thì quá trình hoạt động càng diễn ra nhanh chóng. Intel đi đầu về flash NOR, nhưng công nghệ này không được sử dụng cho kiểu tính năng đọc - viết - xóa như NAND. Hãng này chưa công bố thời điểm Robson sẽ xuất hiện trên thị trường.
+Công nghệ flash đang thâm nhập sâu hơn vào lĩnh vực máy tính và nhiều thiết bị khác nhờ giá thành rẻ và khả năng tăng mật độ dữ liệu. Đầu năm nay, Samsung và Microsoft đã trình diễn một ổ cứng mô phỏng với chip nhớ flash 1 GB giúp giảm điện năng tiêu thụ. Trong mô hình này, dữ liệu nhập (ký tự, ảnh, bài hát...) được ghi toàn bộ trên thiết bị xử lý flash.
+Intel cũng đang sản xuất các phiên bản mẫu chip Itanium 2, tên mã Montecio, trên nền tảng 64 bit chứa 1,72 tỷ bóng bán dẫn và bộ nhớ đệm 26,5 MB trên mỗi lõi.
+Đây là kế hoạch mà Intel đã đưa ra năm 2002 và họ cũng từng tuyên bố đến tháng 7/2004 sẽ gắn thành công 1 tỷ bóng bán dẫn trên mạch tổ hợp (IC), nhưng tới thời điểm này, Montecio mới vượt ngưỡng 1 tỷ.
+Intel đã từng bước tăng số transistor trên thiết bị xử lý trong 20 năm qua. Chip 386 năm 1985 chỉ có 275.000 bóng bán dẫn, và kỷ lục 1 triệu đã không được lập cho mãi đến 1989 khi chip 486 ra đời. Itanium 2 ban đầu được gắn hơn 220 triệu transistor.
+

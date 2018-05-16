@@ -1,0 +1,6 @@
+Virus đầu tiên trong PSP
+Hãng bảo mật Symantec vừa đưa ra cảnh báo về một virus mới trong thiết bị game cầm tay PlayStation Portable (PSP) của Sony. Tuy nhiên, Trojan mang tên PSPBrick có mức độ nguy hiểm và khả năng phát tán không cao.
+Thông thường, khách hàng không thể cài bất cứ phần mềm nào ngoài những chương trình của Sony, do đó, người sử dụng phải hack chính máy PSP của mình để cài đặt trò chơi khác. Virus PSPBrick giả dạng như một công cụ bẻ khóa, cho phép mọi người tải và chơi những game bất kỳ. Tuy nhiên, một khi xâm nhập vào máy, nó sẽ xóa toàn bộ file hệ thống và khiến thiết bị ngừng hoạt động.
+PSPBrick xuất hiện cách đây vài ngày và đã tạo nên cuộc tranh luận khá sôi nổi trên nhiều diễn đàn PSP. Một số thành viên cho rằng chính nhóm phát triển sản phẩm đã tạo virus này: "Ai đó đã trả tiền Sony và nghĩ rằng họ có thể làm bất cứ điều gì với thiết bị nếu họ muốn". Nghi ngờ này xuất phát từ sự kiện năm 2000 khi Symantec thông báo về virus đầu tiên trong sản phẩm Palm OS, và từ đó, hãng bảo mật này bắt đầu kinh doanh công cụ diệt virus cho thiết bị cầm tay. 
+Tuy nhiên, đơn vị chế tạo PSP đã lên tiếng khẳng định họ không hề phát hành chương trình nào như thế, đồng thời cho biết họ đang nghiên cứu để sớm đưa ra bản vá lỗi. Sony cũng khuyến cáo khách hàng không nên tải bất cứ phần mềm nào về máy nếu chưa có thông báo chính thức.
+

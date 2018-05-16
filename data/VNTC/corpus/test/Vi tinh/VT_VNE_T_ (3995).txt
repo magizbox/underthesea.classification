@@ -1,0 +1,9 @@
+Chip Pentium IV lõi kép ra mắt quá vội vàng
+Một kỹ sư của Intel tại hội thảo Hot Chips diễn ra tuần trước khẳng định thiết bị xử lý lõi kép đầu tiên của Intel thực chất chỉ là sản phẩm pha tạp với mục đích đánh bại AMD một cách quá hấp tấp.
+Jonathan Douglas, kỹ sư thuộc bộ phận Digital Enterprise của Intel, nhóm chuyên sản xuất chip máy tính văn phòng và server, cho biết: "Nhận thấy chip đơn lõi đã gần đi đến điểm dừng, các kỹ sư của Intel đã liều lĩnh thiết kế lõi kép mang tên Smithfield trong năm 2004, nhưng lập tức phải đối diện với hàng loạt thách thức trong việc đưa chip ra thị trường".
+"Chúng tôi đã vấp phải nhiều khó khăn từ việc biến nhóm chuyên xây dựng chip có khả năng vận hành cao thành đội thiết kế đa lõi", Douglas phát biểu trong buổi giới thiệu dòng chip desktop Pentium D 800 và chip máy chủ Paxville cùng dựa trên lõi Smithfield.
+Do không thể thiết kế một bus nhớ mới cho chip lõi kép, Intel giữ nguyên cấu trúc bus trong chip Pentium IV cũ. Bus này có khả năng hỗ trợ hai thiết bị lõi đơn riêng biệt, nhưng không vận hành hiệu quả bằng bus kép hoạt động độc lập, sẽ xuất hiện trong Paxville, hay thiết bị điều khiển bộ nhớ tích hợp của chip AMD. 
+Hơn thế, tất cả những công cụ kiểm định hiện tại của Intel được dùng cho thiết bị xử lý đơn lõi. Điều này đồng nghĩa với việc hãng sản xuất chip số một thế giới phải nhanh chóng xây dựng phương pháp kiểm tra mới nhằm đo đạc chính xác kết nối giữa hai lõi.
+Cũng theo Douglas, Intel cần phải có một gói linh kiện riêng cho Pentium D. "Chúng tôi đang đặt cả 2 lõi vào cùng một gói sản phẩm theo cách bạn cố nhét vừa hai chân vào chiếc quần bạn có từ thời đi học", ông này so sánh.
+Intel đã bắt đầu thực hiện dự án Smithfield vào hồi tháng 5/2004 khi tuyên bố huỷ bỏ kế hoạch phát triển 2 chip đơn và tập trung vào chip đa lõi. Và hãng đã nhanh chóng nhận ra rằng quá trình này đòi hỏi những nỗ lực đáng kể để giải quyết vấn về toả nhiệt của chip.
+

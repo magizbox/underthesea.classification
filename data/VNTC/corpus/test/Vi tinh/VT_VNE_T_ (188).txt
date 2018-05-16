@@ -1,0 +1,6 @@
+Hynix phát triển chip nhớ nhanh nhất thế giới
+Hãng bán dẫn Hàn Quốc tuyên bố, từ tháng 4 sẽ sản xuất loại chip DDR SDRAM tốc độ 550 MHz lần đầu tiên xuất hiện trên toàn cầu. Sản phẩm này được thiết kế dành cho máy tính cá nhân và các thiết bị chơi game cao cấp.
+Theo nhà sản xuất chip nhớ lớn thứ 3 thế giới, giá bán loại chip này sẽ đắt gấp đôi loại DDR SDRAM tốc độ 400 MHz phổ biến hiện nay.
+Hynix dự kiến sản phẩm mới được tiêu thụ mạnh trong nửa cuối năm nay - thời điểm mà hơn 30% máy tính để bàn trên toàn cầu sẽ sử dụng chipset Grantsdale của Intel hỗ trợ DDR và DDR2 SDRAM. 
+Hãng cho biết tháng trước đã cung cấp DDR550 cho một nhóm khách hàng chọn lọc ở Đài Loan dùng thử trước khi sản xuất đại trà.
+

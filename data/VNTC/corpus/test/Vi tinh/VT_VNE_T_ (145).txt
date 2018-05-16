@@ -1,0 +1,12 @@
+Ổ DVD không nhận đĩa (2)
+Toi co mua 1 dia film DVD ( co le khong phai la ban goc), khi bo vao dau DVD player thi film coi binh thuong, nhung khi toi bo vao DVD Player cua PC thi may khong nhan biet duoc la co dia DVD trong may (giong nhu la khong co gi trong may). Toi thu qua nhieu may PC cua ban toi cung giong nhu tinh trang nhu vay. Vay truong hop nay la bi gi, co ban nao biet xin chi dan dum. Cam on (boi vi cac dia film DVD mua khac cung deu khong su dung duoc voi PC).
+tonylee
+Hồi âm:
+O DVD cua ban khong sao ca. Ban vao chinh trong phan DVD Region lai la xem duoc thoi . Ban o quoc gia nao thi chinh no lai quoc gia do, gia su nhu o My thi ban de Region 1, con VietNam la Region 3. The thoi. Truoc tien ban nhan vao My computer roi ban nhan chuot phai vao o dia DVD, chon Properties, tiep do vao phan Hardware roi ban chon vao o dia DVD. Nhan vao Properties, ban se thay DVD Region. Nhan vao do ban se thay phan thay doi quoc gia ma ban dang song. Luc do ban bo dia DVD vao, no se doc duoc thoi. Chuc ban thanh cong. 
+Viet Ho
+1. Ban hay xem lai o DVD drive co tu dong nhan dia hay khong. 
+2. Co le khi thu lai dinh dang phim cua DVD, MPEG (file format) da bi thay doi nen khong thich hop cho may PC.
+3.Phan mem nao ban dang coi phim? Hay vao phan TOOLOPTIONS de doi lai phan ma vung (REGION CODING ) vi doi khi phim o chau Au dem ve xem o chau My hay a chau ban can phai doi lai vung tren o dia DVD. Thuong co 6 khu vuc: REGION 1 -- USA, Canada.REGION 2 -- Japan, Europe, South Africa, Middle East, Greenland.REGION 3 -- S.Korea, Taiwan, Hong Kong, Parts of South East Asia.REGION 4 -- Australia, New Zealand, Latin America (including Mexico).REGION 5 -- Eastern Europe, Russia, India, Africa.REGION 6 -- China.Cuoi cung co the dia ay khong xem duoc tren may PC.
+TOM
+Viec thay doi region code cho o DVD cac ban khac da huong dan roi. O day toi chi muon nhac ban can luu y mot dieu: Cac o DVD thong thuong chi cho phep thay doi region code voi mot so lan han che nao do (thong thuong la 5 lan), sau do o DVD se giu lai region code o lan thay doi cuoi cung. Vi vay ban phai dac biet chu y dieu nay. 
+

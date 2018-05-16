@@ -1,0 +1,11 @@
+Tin vắn ngày 29/8
+Sở Bưu chính viễn thông Hà Nội xét tặng giải thưởng Thăng Long về công nghệ thông tin - truyền thông 2005 FPT Arena công bố học bổng 8X VTI sẽ triển khai hơn 100 trạm VSAT - IP tại Quảng Trị.
+Sở Bưu chính viễn thông Hà Nội cùng Hội Tin học viễn thông thành phố tổ chức tuyển chọn sản phẩm để xét tặng "Giải thưởng Thăng Long về Công nghệ thông tin và truyền thông 2005" cho các lĩnh vực: phân mêm, phân cưng, dịch vu, ứng dung, nghiên cưu, giao duc. Thời gian tiếp nhận hồ sơ tham dự từ 1/9 đến 20/9 và lễ trao giải sẽ diễn ra trong tháng 10. 
+Giải thưởng này do các cá nhân và đại diện các tổ chức có uy tín về công nghê thông tin va truyên thông đánh giá, xét chọn. Chương trình được thực hiện 5 năm một lần.
+N.H.
+"Học bổng 8X" là chương trình của Trung tâm Đào tạo Mỹ thuật đa phương tiện FPT Arena dành cho bạn trẻ sinh từ 1/1/1980 đến 31/12/1989 trên cả nước, kéo dài trong 2 đợt tháng 9 và tháng 10. FPT Arena sẽ tặng 16 suất học bổng của khoá học 2 năm, tổng trị giá 140,8 triệu đồng cho học viên đạt điểm cao nhất 2 môn đầu vào là tiếng Anh và Sáng tạo (kiểm tra năng khiếu mỹ thuật). Mỗi đợt sẽ có 8 suất học bổng được trao, trị giá 8,8 triệu đồng/suất, tương ứng với 58% học phí năm học thứ nhất. 
+Thời gian đăng ký đợt 1 từ 8/9 đến 28/9 (thi ngày 1/10) và đợt 2 từ 8/10 đến 28/10 (thi ngày 29/10). Kết quả sẽ được đăng trên website chính thức của Trung tâm: http://www.arena-vietnam.com/
+D.H.
+Công ty Viễn thông Quốc tế VTI và Bưu điện Quảng Trị vừa bắt đầu chiến dịch đưa điện thoại xuống các xã vùng xa của tỉnh. Bước khởi đầu là triển khai lắp đặt trạm VSAT-IP đầu tiên. Từ nay đến cuối năm, VTI sẽ triển khai hơn 100 trạm VSAT-IP phục vụ các tỉnh Quảng Trị, Quảng Nam, Kon Tum, Bình Định, Bình Thuận, Bình Phước, Lào Cai, Yên Bái, Sơn La, Lai Châu, Hà Giang, Tuyên Quang, Cao Bằng, Lạng Sơn, Bắc Kạn, Thanh Hoá, Nghệ An& Mục tiêu khác là quý IV năm nay, đơn vị này cung cấp các dịch vụ vệ tinh VSAT băng rộng (Internet băng rộng ADSL, mạng dùng riêng, kênh thuê truyền số liệu).
+Việt Nam có hai mạng VSAT đang hoạt động là VSAT SCPC/DAMA và VSAT TDM/TDMA do VTI vận hành, khai thác. Hai mạng trên hiên cung cấp chủ yếu các dịch vụ thoại, fax, truyền số liệu tốc độ thấp, các dịch vụ truy nhập mạng Internet, thiết lập mạng dùng riêng với tốc độ upload đạt 64 KB/giây, download tối đa 128 KB/giây. 
+

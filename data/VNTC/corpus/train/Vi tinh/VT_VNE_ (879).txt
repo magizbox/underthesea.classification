@@ -1,0 +1,7 @@
+Microsoft 'tuyên chiến' với Google trong lĩnh vực search tin 
+Hôm qua, hãng phần mềm số 1 thế giới ra mắt dịch vụ beta mới MSNBC Newsbot trên trang web MSNBC.com. Dịch vụ này cho phép người dùng tìm kiếm hoặc nhận những thông tin cá nhân. 
+MSNBC Newsbot cũng thực hiện nhiệm vụ tìm kiếm tương tự như các dịch vụ của Google. Tuy nhiên, hệ thống này sử dụng công nghệ MSN search bằng cách quét 4.800 nguồn và hiển thị thông tin nhờ sử dụng thuật toán để xác định những nội dung liên quan. Kết quả tìm kiếm là những nội dung và hình ảnh liên quan đến các lĩnh vực như tin tức thế giới, giải trí và thể thao. Khách hàng có thể lựa chọn kết quả bằng cách search theo chủ đề.
+Website MSNBC.com cung cấp đường link "Your history" với 1 bảng danh sách những tin tức gần đây nhất và hiển thị 1 bảng phản hồi. Đại diện của Microsoft cho biết trong giai đoạn thử nghiệm, Newsbot chỉ cung cấp dịch vụ với thời gian nhất định.
+Cả Google và Microsoft đều sử dụng thuật toán máy tính để xác định những thông tin cần thiết trên trang web. Tuy nhiên, mỗi hãng lại sử dụng công nghệ riêng của mình nên kết quả hiển thị hoàn toàn khác nhau.
+Việc Microsoft liên tục tung ra dịch vụ tìm kiếm mới chứng tỏ họ đang cố gắng chiếm ngôi thống lĩnh thị trường tìm kiếm trực tuyến mà Google đang giữ vị trí quán quân.
+

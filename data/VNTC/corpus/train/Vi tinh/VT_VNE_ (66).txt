@@ -1,0 +1,7 @@
+Trojan mang mác Microsoft
+Chú ngựa thành Troa có tên Xombe đang chơi trò "cáo mượn oai hùm" bằng cách ngụy trang dưới dạng bản nâng cấp Windows XP. Nó làm ra vẻ được gửi từ địa chỉ windowsupdate@microsoft.com của hãng phần mềm danh tiếng.
+E-mail chứa Xombe (hay Dloader-L) có tiêu đề "Windows XP Service Pack 1 (Express)--Critical Update". Nó viết: Bạn đang dùng Windows XP Service Pack 2 phiên bản Beta. Để tăng tính ổn định, Microsoft khuyên bạn nên thay thế phiên bản này. Hãy chạy file winxp_sp1.exe gửi kèm và khởi động máy.
+Nếu nạn nhân mắc lừa, trojan sẽ kích hoạt, tự nối với một website và tải về tên đồng bọn Mssvc-A. Chính trojan thứ hai này sẽ thực hiện lệnh tấn công từ chối dịch vụ với các website.
+Microsoft lưu ý khách hàng rằng họ thường xuyên phát hành các thông báo về bảo mật xong không bao giờ gửi kèm file. Các phần mềm này chỉ có thể tải từ những địa chỉ chính hãng.
+Tuy nhiên, theo các công ty bảo mật như Sophos hay Synmantec, Xombe không tự nhân bản nên không nguy hiểm lắm. Các công ty trên đều đang cập nhật danh sách và cung cấp các chỉ dẫn để gỡ bỏ trojan này.
+

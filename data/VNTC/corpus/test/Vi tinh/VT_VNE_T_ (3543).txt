@@ -1,0 +1,7 @@
+PowerPC 970MP chạy đua cùng x86
+IBM vừa tiết lộ thông tin chi tiết về hai chip PowerPC mới cho máy chủ cấp thấp và PC. Đây là bước tiến mới của hãng trong nỗ lực đưa công nghệ Power Architecture thay thế cho hệ thống x86 của Intel và AMD.
+PowerPC 970MP là phiên bản lõi kép của chip PowerPC 970FX, phổ biến trong máy tính Macintosh chạy trên thiết bị xử lý G5. Điểm mới trong thiết kế của PowerPC 970MP là hai lõi 64 bit đều có một bộ nhớ đệm Level 2 (cache) 1 MB. Nhờ đó, mỗi mặt chip có thể vận hành trong trạng thái mà IBM gọi là "ngủ gật", nghĩa là một lõi sẽ tiếp tục hoạt động trong khi lõi kia hạ thấp điện năng xuống. Hãng cho biết công nghệ này giúp giảm lượng tiêu thụ điện và kéo dài tuổi thọ máy tính. Chip có tốc độ từ 1,4 GHz đến 2,5 GHz.
+IBM khẳng định chip mới sẽ có mặt trong nhiều sản phẩm từ siêu máy tính Blue Gene/L đến những thiết bị đòi hỏi dung lượng lớn, khả năng vận hành cao, máy tính bo mạch đơn và sản phẩm mạng.
+IBM cũng tuyên bố sẽ ra mắt phiên bản tiêu thụ ít điện năng cho PowerPC 970FX. Sản phẩm mới này chủ yếu dành cho máy in và máy quay video kỹ thuật số. Thiết bị xử lý được thiết kế để hoạt động với tốc độ lên tới 2,7 GHz, nhưng lại chỉ vận hành ở mức dưới 20 watt.
+Giá thành sản phẩm và thời điểm phát hành vẫn chưa được chính thức công bố.
+

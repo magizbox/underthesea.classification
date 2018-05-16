@@ -1,0 +1,6 @@
+ Khi “dế” bị chai pin?
+- Máy Nokia 7650 sử dụng pin 750 mAh Li-Ion (BLB-2). Bạn nên sử dụng đúng loại pin và đúng dung lượng thì máy mới dùng ổn định được. Bạn có thể mua pin chính hãng Koracel với giá khoảng 140.000 đồng tại các siêu thị điện thoại di động ở TP.HCM và Hà Nội. 
+Tôi đang sử dụng máy hiệu Motorola E398, gọi và nghe đều tốt, kể cả với dịch vụ GPRS. Thế nhưng không hiểu vì sao gửi và nhận MMS (tin nhắn đa phương tiện) thì không thực hiện được. Làm thế nào để khắc phục tình trạng này? (Tạ Tường) 
+- Với trường hợp của bạn, Motorola hướng dẫn bạn làm theo trình tự sau: vào menu, web access, web sessions, di chuyển đến Vina MMS, menu, set default (cài mặc định). Sau khi làm theo những bước này, bạn sẽ gửi được tin nhắn MMS từ mạng Vinaphone. 
+Bạn đọc có thể gửi thư đến tòa soạn báo Tuổi Trẻ hoặc qua địa chỉ mail: phongmachalo@tuoitre.com.vn để được giải đáp chi tiết. 
+

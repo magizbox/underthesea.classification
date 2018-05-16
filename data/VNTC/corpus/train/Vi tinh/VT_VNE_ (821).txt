@@ -1,0 +1,6 @@
+Intel ra mắt chip tiết kiệm điện dành cho laptop
+Hôm qua, Intel giới thiệu 4 bộ vi xử lý tiết kiệm điện năng dành cho laptop nhẹ và máy tính bảng. Tất cả đều dựa trên Dothan, phiên bản mới nhất của Pentium M, được sản xuất bằng công nghệ 90 nm, có tốc độ cao và nhiều tính năng cao cấp.
+Loạt chip mới bao gồm 2 bộ vi xử lý ultralow-voltage Pentium M có tốc độ đồng hồ 1,1 GHz và 1 GHz; 1 chip low-voltage có tốc độ 1,4 GHz. Model thứ tư là chip ultralow-voltage Celeron M tốc độ 900 MHz. Theo Intel, những bộ vi xử lý này sẽ đem lại khả năng xử lý vượt trội cho máy tính xách tay có trọng lượng khoảng 1,4 kg.
+Mặc dù các bộ vi xử lý mới không nhanh như những sản phẩm Dothan khác (chẳng hạn Pentium M 755 có tốc độ 2 GHz), chúng tiêu thụ ít điện năng hơn và cần làm mát ít hơn. Theo hướng dẫn của Intel, các laptop dùng chip ultralow-voltage chỉ cần tiêu thụ 5 watt, trong khi một máy tính xách tay thông thường sử dụng chip Pentium M cần đến 21 watt. Nhờ đó, loạt chip mới rất thích hợp với những nhà sản xuất quan tâm đến việc thu gọn kích thước laptop.
+Các chip mới đều có giá bán buôn (từ 1.000 đơn vị trở lên) dưới 300 USD. Giá Pentium M Low Voltage 738 tốc độ 1,4 GHz là 284 USD, Ultra Low Voltage 733 tốc độ 1,1 GHz 262 USD, Pentium M Ultra Low Voltage 723 tốc độ 1 GHz 241 USD. Chip Celeron M Ultra Low Voltage 353 tốc độ 900 MHz có giá 161 USD. 
+

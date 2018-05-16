@@ -1,0 +1,6 @@
+Báo lỗi trong Win98 (1)
+Máy em lâu nay sử dụng Win98 rất bình thường, nhưng gần đây khi khởi động thì không vào được Win mà vào DOS báo lỗi " error data reading drive C: ". Đã hỏi nhiều người am hiểu máy tính cho rằng đĩa C: đã bị bad sector có đúng không. Xin vui lòng chỉ cách khắc phục và cho biết nguyên nhân báo lỗi. Xin cám ơn. 
+Chí Công
+Hồi âm:
+Khi win 98 bao loi "error data reading drive C: " co the nhung du kien tren o dia bi hu (data damaged or physical damage ). Co the hieu la bad sector. Neu vao duoc Window chon Start Programs Accessories System Tools ScanDisk. Chon C: drive. Chon thoroughnhan Start de sua nhung bad sector. Neu muon chay o DOS MODE. Khoi dong may nhan F8 key khi may vao DOS MODE. O C prompt  ban danh lenh scandisk C: nhan enter.. Hoac dung dia mem 3/5 de chay lenhscandisk neu ban co dia du phong (startup disk). Bien phap cuoi la vao trang nha cua hang san xuat o dia ban dang su dung de download CT (low level format ) de sua lai o dia.
+

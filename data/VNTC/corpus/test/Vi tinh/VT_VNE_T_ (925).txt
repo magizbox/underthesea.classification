@@ -1,0 +1,8 @@
+Xóa ổ cứng bằng Drive Scrubber
+Hẳn có bạn sẽ thắc mắc: Tôi format lại ổ đĩa là xong chứ gì, đâu cần phải nhiêu khê đến thế!. Nhưng mọi chuyện không đơn giản như vậy. Dữ liệu bạn tưởng đã xóa sạch vẫn còn nguyên đó và chỉ có những phần mềm như Drive Scrubber mới đảm bảo những gì bạn muốn xóa hoàn toàn biến mất.
+Một cách hình tượng hóa, ổ cứng của bạn giống như một dãy phố, trong đó dữ liệu là những căn nhà có đánh số. Khi bạn xóa dữ liệu trong đó, kể cả bằng cách định dạng lại, chỉ có số nhà bị bóc đi, còn căn nhà vẫn nằm nguyên đó. Vì thế, khi có phần mềm thích hợp phục hồi lại số nhà như cũ, các ngôi nhà lại hiện lên trên bản đồ và máy tính sẽ xác định được vị trí của chúng. Vì vậy, tình trạng máy tính xách tay bị thất lạc và ổ đĩa đã qua sử dụng chứa bí mật doanh nghiệp bị rao bán trên mạng đang là những lỗ hổng rò rỉ thông tin lớn hiện nay.
+Cách xóa của Drive Scrubber có thể coi như việc dùng xe ủi để san phẳng những ngôi nhà ấy và không phương pháp phục hồi nào, dù là tinh vi nhất, có thể dựng lên một ngôi nhà như cũ từ đống đổ nát.
+Cách sử dụng Drive Scrubber rất đơn giản. Bạn chỉ cần tạo một đĩa boot bằng đĩa mềm, sau đó chọn ổ đĩa muốn xóa và chương trình sẽ làm nốt phần việc còn lại.
+Drive Scrubber đặc biệt thích hợp với những công ty muốn thanh lý máy tính nhưng không muốn thông tin nhạy cảm của mình bị rò rỉ ra ngoài. Với người dùng bình thường, chương trình cũng giúp bạn an tâm khi muốn tặng hay bán lại máy tính cũ.
+Chương trình có dung lượng 736 K. Bạn có thể tải bản dùng thử có thời hạn sử dụng 30 ngày tại đây. 
+

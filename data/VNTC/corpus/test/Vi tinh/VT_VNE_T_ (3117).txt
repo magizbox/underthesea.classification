@@ -1,0 +1,17 @@
+Tận dụng biên tập CD - VCD hết dung lượng
+Bạn thích biên tập những CD - VCD để tặng cho bạn bè người thân như một món quà đầy kỷ niệm? Có một cách đơn giản giúp bạn thực hiện món CD - VCD pha trộn thú vị.
+Trước ghi bước vào bất kỳ quá trình burn đĩa nào, bạn đều phải chọn định dạng kiểu đĩa mà bạn sẽ ghi ra như CD-R, CD-Audio, Video-CD. Nhưng điều này sẽ giới hạn khả năng sáng tạo của bạn nếu muốn làm một chiếc đĩa vừa có thể play trên các đầu máy thông dụng vừa có thể tương tác, truy cập dữ liệu qua máy tính. 
+Chương trình burn đĩa được sử dụng phổ biến nhất hiện nay là Nero 6 có thể giúp bạn làm công việc: biên tập CD-VCD tận dụng hết dung lượng
+Đầu tiên, mở trình Nero Burning Rom 6 (nhớ là đừng chọn cách burn cấp tốc - Nero Express, vì nó không có hỗ trợ VCD kèm dữ liệu). 
+CD EXTRA (Ghi CD nhạc kèm dữ liệu thông tin khác)
+Trong bản New Compilation, bên trái chọn biểu tượng cái đĩa có nốt nhạc đính kèm với tên gọi là CD EXTRA (nếu làm Audio CD tiết kiệm). Gợi ý: để làm ra một chiếc đĩa CD nhạc theo ý riêng của bạn, trong đĩa có kèm cả phần lời bài hát và hình ảnh ca sĩ như một sưu tập đa năng trên 1 đĩa. 
+
+Bạn chuẩn bị đầy đủ các bài hát dưới dạng .wav để không cần bắt Nero phải encoder lại từng bài nhạc nén .mp3, .wma, .ogg... Điều này nhằm để quá trình ghi đĩa diễn ra nhanh hơn và ít gặp lỗi.
+Giao diện chính của CD Extra với 2 thanh nằm ngang Data và Audio.
+Trong giao diện chính của CD Extra, phần nằm bên trái màn hình có 2 thanh nằm ngang là Data và Audio. Bạn nhấn chuột vào hình mũi tên màu xanh hướng xuống để mở ra và rê kéo dữ liệu vào Data. Tận dụng cho thanh trượt dữ liệu tới 700 MB.
+VCD EXTRA (Ghi đĩa hình có kèm tương tác kiểu CD-R)
+Trong New Compilation chọn chế độ ghi đĩa như thông thường là Video CD. Trên giao diện của Nero Burning Rom bạn sẽ vẫn thấy thanh nằm ngang Data phía trên thanh Video. Sau khi đã chọn kéo những video yêu thích, bạn nhấn chuột vào mũi tên xanh hướng xuống để mở phần thuộc thanh Data ra. 
+Phần Data bên trong sẽ có sẵn những thư mục chủ yếu cho việc xem trên các đầu đĩa thông thường. Bạn nhấn vào thư mục gốc, click chuột phải chọn thêm New Folder và đặt tên kiểu VCD Plus, hay bất cứ gì bạn nghĩ ra, để kéo dữ liệu vào đây
+Bạn có thể tận dụng hết dung lượng thừa trên đĩa vừa mang tính tiết kiệm lại có thể sáng tạo thêm những thứ tặng bạn bè, người thân. Sử dụng hết một đĩa 700 MB/80 phút, bạn chỉ mất không đến 5.000 đồng cho một chiếc đĩa Maxell đảm bảo chất lượng ghi tốt CD-VCD.
+Hiện nay, chất lượng các ổ CD-RW là khá tốt nên không dễ xảy ra tình trang rớt dù có ghi tràn dung lượng. Nero đặc biệt có tính năng Finalize (khoá đĩa) cho các đĩa đầy dung lượng trước mỗi quá trình burn nhằm đảm bảo việc ghi đĩa thành công 
+

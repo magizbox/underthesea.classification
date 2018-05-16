@@ -1,0 +1,8 @@
+Các nhà phát triển Microsoft chuyển sang Linux
+Theo nghiên cứu gần đây của công ty Evans Data Corporation, hơn 1/4 nhà phát triển ở Châu Âu sử dụng Visual Studio .Net như là công cụ chính để viết các ứng dụng cho Linux.
+Nghiên cứu cũng cho thấy 2/3 nhà phát triển Visual Studio .Net sử dụng thành phần mã nguồn mở trong các ứng dụng của họ. 
+Một phần mềm nổi bật liên quan đến Visual Studio .Net và mã nguồn mở là Grasshopper. Nó được thiết kế để liên kết Visual Studio với các phiên bản của Linux và J2EE (một phiên bản của Java dùng để phát triển và triển khai các ứng dụng doanh nghiệp). Grasshopper được xây bởi công ty Mainsoft và là bộ công cụ phát triển phần mềm dựa trên Visual Studio dành cho Linux đầu tiên. Đó kết quả nghiên cứu chung trong 2 năm của Mainsoft với Mono, một cộng đồng phát triển mã nguồn mở làm việc trên phiên bản mã nguồn mở của nền tảng Microsoft .Net.
+Lập trình viên có thể phát triển, sửa lỗi, và triển khai ứng dụng web và dịch vụ web dành cho Windows, Linux và trên bất kì nền tảng cho phép chạy Java. Công cụ sử dụng chủ yếu là bộ Visual Studio và các ngôn ngữ như C#, Visual Basic .Net. 
+Các tính năng đầy đủ của J2EE cho máy chủ, khả năng đa xử lý và phần mềm WebSphere, JBoss và WebLogic đều được tích hợp trong phần mềm Visual MainWin của Mainsoft dành cho phiên bản doanh nghiệp của J2EE. 
+Yaacov Cohen, Chủ tịch kiêm giám đốc điều hành của Mainsoft, phát biểu: "Nhiều nhà cung cấp phầm mềm độc lập sử dụng tính hiệu quả cao của Visual Studio để có thể xây dựng nhanh các ứng dụng thương mại nhưng phải trả giá cao vì chỉ triển khai duy nhất trên Windows. Mainsoft đã cung cấp những gì tốt nhất cho cả hai bên: Tính hiệu quả cao của Visual Studio và triển khai đa dạng ứng dụng trên J2EE, cũng như trên cả Windows và Linux." 
+

@@ -1,0 +1,6 @@
+Lỗi khi cài từ điển Nga-Việt (1)
+Tôi dùng Win XP SP2, khi cài từ điển Nga Việt SPbDic thì máy báo lỗi Module C:\WINDOWS\system32\mfc70d.dll failed to register, HRESULT -2147024769. Xin giải thích và giúp tôi khắc phục lỗi này. Chân thành cảm ơn!
+Công Hiếu
+Hồi âm:
+Ban thu dang nhap vao Windows voi tai khoan Admin roi cai dat xem sao.
+

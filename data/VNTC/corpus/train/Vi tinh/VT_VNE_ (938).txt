@@ -1,0 +1,8 @@
+IBM tặng cơ sở dữ liệu cho cộng đồng mã mở
+Đây là thông báo mà Big Blue đưa ra hôm qua nhằm mục đích phát triển các ứng dụng được viết bằng ngôn ngữ lập trình Java. Món quà này trị giá 85 triệu USD
+IBM tặng Hiệp hội phi lợi nhuận Apache hơn 500.000 dòng mã phần mềm cơ sở dữ liệu Cloudscape của mình, viết bằng  ngôn ngữ Java. Phần mềm này sẽ được dự án mã mở đặt tên là Derby, được lập trình nhằm mục đích sử dụng trong các ứng dụng như website nhỏ, ứng dụng văn phòng và các hệ thống bán hàng.
+Đây là một trong những món quà lớn nhất trong sáng kiến mã mở và nó cũng là sản phẩm thương mại đầu tiên của IBM dành tặng cho cộng đồng mã nguồn mở.
+Janet Perna, Tổng giám đốc bộ phận quản lý dữ liệu của IBM, cho biết: Bằng phần mềm mã mở Derby, chúng tôi hy vọng sẽ thúc đẩy phát triển các ứng dụng dựa vào Java và nâng cao quá trình đổi mới của cộng đồng Linux và Java. Theo ông, IBM cũng hy vọng động thái này sẽ tạo ra nhiều cơ hội kinh doanh mới.
+Derby được khai thác trong hơn 70 sản phẩm của IBM, trong đó có dòng WebSphere. Nó có thể được thay đổi và phát hành miễn phí với mục tiêu làm phần mềm thay thế các sản phẩm trước đây của các công ty khác, trong đó có cả Microsoft.
+Theo đại diện IBM, hãng và Apache có kế hoạch hợp tác phát triển Derby như một đợt chào hàng" cơ sở dữ liệu mã mở hàng đầu.
+

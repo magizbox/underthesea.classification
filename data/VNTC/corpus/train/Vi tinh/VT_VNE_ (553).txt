@@ -1,0 +1,20 @@
+Máy bị khởi động lại (1)
+PC của tôi cài Windows XP. Gần đây thỉnh thoảng lại bị tự động Restart kể cả khi không truy cập Internet. Sợ bị virus Sasser hay Blaster, tôi đã sử dụng hết các công cụ quét của Microsoft và phần mềm mới để diệt virus nhưng không thấy bị nhiễm. Trên màn hình hay xuất hiện thông báo "The system has recovered from a serious error" và yêu cầu gửi thông báo về cho Microsoft. Đọc chi tiết thông báo này thấy nói rằng lỗi liên quan đến 2 file:
+- C:\WINDOWS\Minidump\Mini051004-01.dmp.
+- C:DOCUMEN~1\duc\LOCALS~1\Temp\WER5.tmp.dir00\sysdata.xml.
+Xin các bạn chỉ giúp máy tính của tôi bị làm sao và cách khắc phục. Trân trọng cảm ơn.
+Minh Đức
+Hồi âm:
+May cua ban khong phai bi virus, ma day la loi cua XP . Khi XP bao  "The system has recovered from a serious error" va yeu cau ban goi thong tin cho MS . la bo nho phu (paging file) se tao ra mot minidump hay memory dump ....ban phai co SP1 sau do  hay download patch de sua loi cho XP...http://www.microsoft.com/downloads/details.aspx?displaylang=enFamilyID=3D41A046-0E2C-429F-8F40-F30014ADC3BB.......
+tim va xoa file minidump, hay de win tu dong cai dat ( paging file ).. hoac tuy theo dung luong bo nho RAM ban sua doi file ( paging file ) cho phu hop...cach sua doi paging file...
+
+Click Start. 
+Right-click My Computer. 
+Click Properties. 
+On the Advanced tab, in the Performance section, click Settings. 
+In the Virtual Memory section, click Change. 
+For Paging file size for selected drive, click No Paging File and then click Settings. 
+Click Yes after the following warning appears: If the paging file on volume X: has an initial size of less than xx megabytes, then the system may not be able to create a debugging information file if a STOP error occurs. Continue anyway? ( X is the drive letter and xx is the amount of RAM installed on your computer minus 1 megabyte.) 
+Click System Managed Size. 
+Click OK four times, and then restart the computer when you are prompted.
+

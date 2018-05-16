@@ -1,0 +1,6 @@
+Khôi phục file Corel (1)
+Tôi có một file .cdr. Khi mở file này lên trong chương trình Corel (tất cả các phiên bản) thì chỉ xem được nó khi chọn Preview. Sau đó thì nó không cho mở nữa. Có cách nào khôi phục lại file này không? Xin chân thành cảm ơn!
+Quoc Hung
+Hồi âm:
+Nếu là CorelDraw 12. Chọn File /Import - Cũng có thể dùng phương pháp kéo thả (Drag  Drop) vào CorelDraw. Nếu được thì save lại tên khác, chú ý là không nên bỏ dấu. Đã sử dụng nhiều năm nhưng chưa bị qua, trường hợp này do lúc save có phần sai lạc. 
+

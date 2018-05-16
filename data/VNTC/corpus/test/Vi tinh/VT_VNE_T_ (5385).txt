@@ -1,0 +1,9 @@
+Adobe 'để mắt' tới tài liệu được đánh dấu
+Hãng sản xuất phần mềm Adobe đã bổ sung trong sản phẩm Acrobat và Reader một tính năng mới nhằm thông báo cho người sử dụng mỗi khi họ nhận được một tài liệu đã bị đánh dấu (tagging).
+Hồi tháng 6, hãng phát triển phần mềm Remote Approach (Canada) cho biết sản phẩm của họ sử dụng một tính năng trong Adobe Reader để theo dõi việc sử dụng tài liệu. Nếu nội dung bị thay đổi, chương trình sẽ tự động gửi một bản sao về những biến đổi này tới máy chủ của công ty. Điều này sẽ ngăn người dùng tạo thông tin giả mạo và giúp công ty xác định tài liệu đang của họ đang "chu du" đi những đâu.
+Điều này khiến Adobe hoảng sợ bởi họ không hề nghĩ rằng sản phẩm của hãng lại bị sử dụng theo cách đó. Hơn nữa, hành động này đã biến Acrobat và Reader trở thành một dạng công cụ spyware. 
+Mark Phibbs, Giám đốc thị trường khu vực châu Á - Thái Bình Dương, cho biết phiên bản cập nhật 7.05 của Acrobat và Reader sẽ hiển thị hộp hội thoại (pop-up) khi một tài liệu đã đánh dấu với phần mềm của Remote Approach được mở. "Độc giả sẽ tự quyết định liệu họ có muốn tiếp tục đọc tài liệu đã bị đánh dấu hay không", Phibbs nói.
+Remote Approach có thể theo dõi tài liệu bởi Reader 7.0 hỗ trợ JavaScript mặc định. Việc dò tìm không thể thực hiện với những công cụ PDF Reader khác như Kpdf và Xpdf hay phiên bản trước đó.
+Marck Szulc, kỹ sư hệ thống của Adobe tại Mỹ, cho biết họ cũng đã giới thiệu chữ ký điện tử trong phần mềm để tăng khả năng bảo mật, độ tin cậy và chứng minh tính xác thực của tài liệu. Chữ ký sử dụng khóa riêng với phần mềm mã hóa như PGP (Pretty Good Privacy) và GnuPG (GNU Privacy Guard). "Nếu tài liệu bị chặn hoặc thay đổi dưới bất cứ hình thức nào, chữ ký sẽ bị phá", Szulc nói.
+Adobe đang bắt tay với các hãng bảo mật như Entrust, ActivCard, VeriSign, RSA và GeoTrust để mở rộng tính năng này.
+

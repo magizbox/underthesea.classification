@@ -1,0 +1,5 @@
+ Seagate giới thiệu đĩa cứng Barracuda 7200.10 750 GB
+Dòng đĩa cứng Barracuda 7200.10 đời mới nhất là gồm các kiểu sau: Ultra ATA/100; SATA/150 (tốc độ đọc 1,5 GB/giây) và SATA/300 (tốc độ đọc 3 GB/giây). Các kiểu này cũng lần lượt được chia ra kiểu 8 MB cache và 16 MB cache. Loại Barracuda 7200.10 SATA cao cấp nhất có giá đến những 559 USD với thời hạn bảo hành là 5 năm. 
+Dòng Barracuda 7200.10 này được trang bị loại mô tơ quay tuyệt hảo của Seagates SoftSonic, có tác dụng giảm tiếng ồn khi hoạt động đến mức thấp nhất. Ngoài ra Barracuda 7200.10 cũng được trang bị công nghệ chống sốc và bảo vệ đĩa G-Force mới nhất. 
+Vào thời điểm hiện nay, Seagate dường như là công ty luôn dẫn đầu trong việc đưa ra thị trường các kiểu đĩa cứng với dung lượng và công nghệ đột phá, thuộc hạng đứng đầu thế giới. Trong tuần trước, Seagate cũng đã giới thiệu loại đĩa cứng Seagate Cheetah 15K.5 có tốc độ quay được cho là nhanh nhất thế giới hiện nay, với 15.000 vòng quay/phút. 
+

@@ -1,0 +1,5 @@
+ Opera 8.02 được vá lỗi bảo mật và nâng cấp
+Trong 3 lỗi bảo mật được vá lại lần này thì có 2 lỗi đã được công ty bảo mật Secunia phát hiện trước đây. Lỗi đầu tiên cho phép kẻ tấn công có thể chèn hoặc tráo một file giả mạo đầy mã độc vào file mà người dùng đang tải về, đặc biệt là các file hình ảnh. 
+Lỗi thứ hai liên quan đến một lỗi lập trình tên miền và lỗi thứ ba là một lỗi xảy ra trong quá trình kết nối tạo điều kiện cho kẻ tấn công xâm nhập vào trình duyệt. Bản Opera 8.02 cũng được gia tăng khả năng kiểm tra lỗi chính tả và nhận diện các file tải về từ Internet. 
+Người hâm mộ trình duyệt này có thể vào đây để tải Opera 8.02 về dùng. 
+

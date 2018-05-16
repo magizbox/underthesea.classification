@@ -1,0 +1,7 @@
+Thêm những vấn đề từ Service Pack 2
+Microsoft vừa khuyến cáo phiên bản mới nhất của phần mềm quản lý quan hệ khách hàng CRM của hãng sẽ không tương thích với Service Pack 2 dành cho Windows XP. Tuy nhiên, Microsoft đã có bản vá lỗi khắc phục lỗ hổng tại website của hãng.
+Đại diện của Microsoft cho biết người sử dụng phần mềm Business Solutions CRM Sales của hãng trong chương trình Outlook 1.2 sẽ gặp rắc rối nếu họ cài đặt phiên bản vá lỗi sắp tới SP2. 
+Microsoft cho biết khách hàng khai thác CRM sẽ phải nâng cấp phần mềm server và Outlook client của họ. Người dùng cũng phải cấu hình một số tính năng của phần mềm CRM để nó hoạt động tốt hơn.
+Phần mềm quản lý quan hệ khách hàng cần có nhiều chương trình vá lỗi. Năm ngoái, Microsoft đã phát hành bản bịt lỗ hổng ẩn dòng ký tự và số, vì nếu không chúng sẽ hiện lên trên dòng subject của e-mail.
+Service Pack 2 của Windows XP dự kiến sẽ được phát hành vào cuối tháng này. SP2 có nhiều tính năng mới về cải tiến an ninh. Trong đó có tường lửa nâng cấp và chương trình "trung tâm an ninh", bổ sung setting bảo vệ bàn phím PC.
+

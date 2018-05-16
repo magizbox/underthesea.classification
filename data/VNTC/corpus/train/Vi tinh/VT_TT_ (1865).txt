@@ -1,0 +1,5 @@
+ Tại sao không được sử dụng ĐTDĐ trên các chuyến bay?
+TS Hoàng Đình Chiến (bộ môn viễn thông ĐH Bách Khoa - ĐH Quốc gia TP.HCM): 
+- Trên máy bay có rất nhiều hệ thống điện tử, truyền tin vô tuyến để vận hành và liên lạc với mặt đất trong quá trình điều khiển bay. Do đó, nếu hành khách sử dụng những thiết bị thu phát sóng như ĐTDĐ, máy nhắn tin, máy thu phát FM thì sóng vô tuyến từ các thiết bị này sẽ bức xạ sóng điện từ, gây nhiễu loạn các thiết bị điều khiển của máy bay. 
+Trong trường hợp máy bay đã tiếp đất, hệ thống không lưu cảnh báo ở mức bớt nguy hiểm hơn, nhưng toàn bộ hệ thống của máy bay vẫn làm việc, việc sử dụng ĐTDĐ cũng có thể gây ảnh hưởng đến hệ thống. Tốt nhất người đi máy bay chỉ nên mở ĐTDĐ khi máy bay đã hoàn toàn dừng lại và chuẩn bị ra khỏi máy bay. 
+

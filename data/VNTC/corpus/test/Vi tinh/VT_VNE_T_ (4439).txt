@@ -1,0 +1,7 @@
+Thiết bị lưu trữ kết mạng hiệu suất rẻ nhất trên thế giới
+Sản phẩm EtherDrive mà hãng Coraid (Mỹ) vừa công bố cho phép tạo một hệ thống Ethernet SAN dung lượng 7,5 terabyte với chi phí trung bình chỉ có 0,53 USD/gigabyte. 
+Thiết bị sử dụng giao thức ATA-over-Ethernet (AoE) để truyền lệnh và các gói dữ liệu ATA giữa server và vùng lưu ở đĩa serial-ATA. Hệ thống không dùng TCP/IP cũng như SCSI mà thay vào đó, một driver AoE trong hệ điều hành máy chủ sẽ chuyển các lệnh ổ ATA thành những thông điệp gửi qua đường liên kết Ethernet (thông qua một bộ chuyển mạch switch) tới sản phẩm EtherDrive với một giao diện kiểu Ethernet.
+Cơ cấu lưu trữ nói trên chạy bằng Linux, Solaris và một số hệ điều hành khác ngoại trừ Windows nhưng nhà cung cấp cho biết sẽ sớm có phiên bản đó. 
+Theo Jim Kemp, Giám đốc điều hành Coraid, việc bổ sung một kết nối mạng Ethernet vào đĩa SATA trước đây tốn từ 2 USD đến 6 USD/gigabyte. Nếu dùng SAN với kết nối mạng sợi quang thì còn đắt hơn. Hệ thống lưu trữ EtherDrive 15 đĩa của chúng tôi có thể lưu tới 7.500 GB dung lượng đĩa và được bán ra với giá 3.995 USD, quy ra là 0,53 USD/gigabyte, Kemp cho biết. 
+Có khả năng giảm thiểu chi phí lớn nhưng nhiều chuyên gia lưu trữ cho rằng EtherDrive của Coraid khó có thể gây tiếng vang lớn vì việc dựa trên nền mã mở của nó sẽ là một khó khăn cho người sử dụng khi cài đặt.
+

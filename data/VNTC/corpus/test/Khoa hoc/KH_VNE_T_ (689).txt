@@ -1,0 +1,8 @@
+Xe lăn thông minh của tương lai
+Nó trông có vẻ kỳ quặc nhưng có thể cách mạng hoá cuộc sống của những người tàn tật - nếu họ có đủ tiền mua. Một giáo sư Australia đã chế tạo nên chiếc xe lăn 4X4 có gắn cảm ứng laser, hệ thống định vị toàn cầu, video camera và một màn hình TV.
+Chiếc xe đẩy còn có thể nhìn và điều chỉnh hướng để tránh chướng ngại vật. Nó cũng có thể tự lái nếu người chủ mệt hoặc buồn ngủ.
+Chuyên gia robot Ray Jarvis, Giám đốc Trung tâm nghiên cứu robot thông minh, thuộc Đại học Monash, Australia, đã xây dựng mô hình mẫu có gắn cảm ứng laser có thể kiểm tra tình trạng của người lái bằng cách tìm hiểu liệu chiếc xe có đang tránh chướng ngại vật. Thiết bị sẽ tự điều chỉnh hướng xe nếu phát hiện người chủ không tránh được va chạm. "Thay vì theo dõi con người, nó dựa vào hành vi của phương tiện để phán đoán khả năng của người chủ", ông nói.
+Các bộ cảm ứng cũng sẽ nhận biết liệu người lái có đủ tỉnh táo sau khi nghỉ ngơi để trao quyền điều khiển lại cho họ. Mục tiêu của thiết bị là để cho người sử dụng được điều khiển tối đa. "Nếu giúp đỡ quá nhiều, khả năng của họ sẽ bị mai một đi", Javis nói.
+Phương tiện còn có hệ thống định vị toàn cầu theo dõi chiếc xe trên bản đồ và một màn hình tivi. Màn hình được gắn với camera xoay đủ mọi góc độ để họ có thể quan sát phía sau. Người sử dụng cũng có thể xem tivi trên màn hình.
+Thiết bị gặp một vấn đề là máy laser chỉ quét được bề mặt phẳng phía trước, vì vậy nếu có ổ gà lớn hoặc cành cây thấp, nó sẽ không nhận ra. Một máy quét laser lớn hơn có thể giải quyết được vấn đề này. Jarvis cho biết giá cơ bản của chiếc xe lăn bán tự động này là 16.000 USD.
+

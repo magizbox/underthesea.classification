@@ -1,0 +1,7 @@
+Transmeta ra mắt bộ vi xử lý mới
+Hôm qua, hãng sản xuất chip có trụ sở tại Santa Clara (California, Mỹ) giới thiệu hai sản phẩm Crusoe mới: TM5700 và TM5900, nhắm vào các nhà phát triển thiết bị di động và sản phẩm điện toán nhúng.
+Crusoe TM5700 và TM5900 có kích thước chỉ bằng một nửa so với các phiên bản trước, phù hợp với các sản phẩm điện tử, máy khách, máy chủ dạng phiến, thiết bị di động&
+Hai chip mới được trang bị một Northbridge tích hợp (cho phép liên kết với chip dùng bus front-side và kiểm soát được sự tương tác với bộ nhớ), bus PCI (Peripheral Component Interconnect), cache Level 2 và Accelerated Graphics Port.
+TM5700 và TM5900 có khả năng hoạt động với tần số 1 GHz, tương thích với công nghệ x86 - tương đương với TM5800 nhanh nhất hiện nay, đồng thời có các đơn vị tính toán dấu phẩy động và số nguyên, các vùng lưu trữ dữ liệu và chỉ lệnh 64 KB độc lập, các vùng dữ liệu ghi lại L2 512 KB (đối với TM5900) hoặc 256 KB (TM5700). Chúng còn được trang bị công cụ kiểm soát bộ nhớ động RAM với tỷ lệ truyền dữ liệu theo cấu trúc 64 bit và một công cụ kiểm soát PCI (Peripheral Component Interconnect) theo cấu trúc 32 bit.
+Một chuẩn dùng để tham khảo đánh giá các loại motherboard dựa trên bộ xử lý TM5900 sẽ được công bố vào quý I năm nay. Transmeta cho biết nó sẽ bao gồm các giản đồ, hướng dẫn thiết kế, các thông số kỹ thuật và các ổ thiết bị cần thiết để đánh giá kiểu dáng sản phẩm.
+

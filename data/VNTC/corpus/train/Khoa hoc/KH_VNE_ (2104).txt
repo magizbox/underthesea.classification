@@ -1,0 +1,9 @@
+Túi xách nhắc bạn đồ bỏ quên
+Một loại túi vải mới có thể nhận diện được đồ vật chứa bên trong và nhắc cho chủ nhân biết nếu có vật nào đó mất tích. Túi Ladybag nhắm đến những cô gái sành điệu, đôi khi rời nhà mà quên điện thoại di động, chìa khoá cửa hay ví. 
+"Nhóm chúng tôi gồm 6 cô gái. Chúng tôi đưa ra ý tưởng này vì cho rằng tất cả phụ nữ trên thế giới đều cần dùng đến nó", Ginny Mesina, thành viên nhóm nghiên cứu và là sinh viên năm cuối Đại học Simon Fraser ở Canada, cho biết. 
+Để thiết kế chiếc túi này, các sinh viên đã sử dung công nghệ dùng sẵn. Dưới đáy túi họ đặt một máy đo tần số radio, nạp điện bằng một quả pin 9 volt. Chiếc máy đo này được nối với một tấm bảng giống như một màn hình ở phía trước túi, có gắn 3 loại diot phát sáng. 
+Mỗi loại diot là một biểu tượng thể hiện cho đồ vật nào đó mà chủ nhân chiếc túi không muốn bỏ quên khi rời nhà. Trong nguyên mẫu, các đồ vật này bao gồm một chùm chìa khoá, một cái ví và một máy điện thoại. Sau đó, họ gắn một sensor RFID với mỗi đồ vật này. 
+Nếu vật nào đó không có trong Ladybag, biểu tượng tương ứng với nó sẽ phát sáng. Khi chìa khoá, điện thoại hay ví được đặt trả về chỗ cũ, đèn hiệu sẽ tắt. 
+"Tôi luôn luôn quên điện thoại, nhưng lúc nào cũng nhớ mang túi xách. Đây quả là một sáng kiến tuyệt vời", nhà thiết kế công nghiệp Rosanna Kilfedder, tại Đại học Heriot-Watt ở Edinburgh, Scotland nói. Kilfedder đã thiết kế chiếc túi xách tay Suntrap, một loại túi được nạp năng lượng mặt trời bằng cách hấp thụ ánh sáng ban ngày và phát sáng vào ban đêm để chủ nhân dễ dàng nhìn được vật bên trong. 
+Nhóm nghiên cứu Ladybag đang hướng đến mục tiêu tạo ra loại túi nhớ được 20 đồ vật. 
+

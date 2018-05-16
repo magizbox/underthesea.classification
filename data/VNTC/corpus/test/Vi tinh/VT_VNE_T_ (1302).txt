@@ -1,0 +1,6 @@
+Biến thể NetSky mới hay virus Baba?
+Vấn đề có thể chỉ là cách đặt tên nhưng một điều đã được khẳng định là loại sâu phát tán e-mail số lượng lớn này có đường link bắt nguồn từ một trường đại học ở Hàn Quốc. 
+Baba là tên do hãng phần mềm bảo mật Anh Sophos đặt cho loại sâu nói trên. Theo công ty này, Baba phát tán qua e-mail với thủ đoạn giả dạng là thông điệp báo lỗi gửi thư. Nếu người sử dụng click vào một file đính kèm trong mail, virus sẽ lập tức lây nhiễm vào máy tính và cố gắng nhân bản vào các địa chỉ e-mail mà nó tìm thấy trong PC nạn nhân.
+Ẩn bên trong virus là một số dòng chữ như "SoonChunHyang", tên một trường đại học ở Hàn Quốc và "Bucheon", tên địa phương có ngôi trường nói trên. Thật khó hiểu tại sao tác giả của virus lại cho ẩn những dòng chữ này sâu bên trong mã virus, Graham Cluley, chuyên gia công nghệ của Sophos, nói. Trước đây, hacker đã nhận ra rằng rất khó có thể che dấu những thông điệp của chúng bên trong mã và điều đó thường để lộ ra những manh mối giúp truy tìm nguồn gốc của kẻ thiết kế virus. Dù lý do của chúng có thế nào thì người sử dụng máy tính cũng nên đảm bảo nâng cấp phần mềm diệt virus của mình.
+Mặc dù một số hãng cung cấp phần mềm an ninh khác cho rằng đây là một biến thể mới của NetSky nhưng hãng Sophos cho biết, trên thực tế, virus này không có bất cứ liên quan gì đến họ sâu nói trên.
+

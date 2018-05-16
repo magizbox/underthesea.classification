@@ -1,0 +1,8 @@
+Cách dùng Yahoo với Outlook Express 6 (2)
+Em dùng hòm thư Yahoo nhưng bây giờ muốn dùng Outlook Exprsess 6 để check mail thi phải thao tác như thế nào. Em đã lập new account nhưng không biết chọn cái nào: HTTP, POP3, IMAP và làm tiếp như thế nào
+Nguyễn Hoàng Vinh
+Hồi âm:
+Ban khong biet thi vao google hoac vao day tim 
+Nghiem Tuan
+Bạn dùng hòm thư Yahoo khi bạn đăng ký loại Free thì yahoo không cung cấp POP và SMTP, vì vậy bạn không thể nào dùng Outlook Express gửi và nhận thư được. Ngược lại nếu bạn đăng ký hòm thư yahoo với loại có trả phí hàng năm thì Yahoo sẽ cung cấp cho bạn POP và SMTP , khi đó bạn có thể dùng Outlook Express gửi và nhận thư. Mình xin giới thiệu bạn có thể dùng GMAIL để gửi nhận thư, nó vừa FREE và vừa cung cấp POP và SMTP , dung lượng còn lớn hơn yahoo có thể dùng Outlook Express gửi và nhận thư.
+

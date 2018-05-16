@@ -1,0 +1,7 @@
+Virus tấn công dịch vụ IM của Microsoft
+Hôm qua bộ phận MSN của hãng này thừa nhận đang phải đối phó với một trục trặc khiến người sử dụng không thể đăng nhập vào hệ thống nhắn tin nhanh trong 2 ngày cuối tuần trước.
+Những trục trặc nói trên, như lời than phiền của một số khách hàng, đã khiến dịch vụ tiếp tục bị tê liệt mấy tiếng trong sáng thứ 2. Vấn đề có thể liên quan đến sự xất hiện của một loại virus mới có tên Funner, phát tán qua hệ thống nhắn tin nhanh MSN. Chương trình này cố gắng dẫn người sử dụng sang địa chỉ www.78p.com. Tuy nhiên, theo công ty phần mềm an ninh Symantec, chưa phát hiện có bằng chứng nào cho thấy virus (mới chỉ lây lan vào một số lượng không nhiều máy tính) là nguyên nhân chính gây gián đoạn dịch vụ.
+Funner có khả năng làm thay đổi thiết lập cấu hình máy tính bị lây nhiễm, vì thế khi người sử dụng truy cập vào một trong hơn 900 website khác nhau, họ sẽ bị dẫn tới trang web nói trên. Virus này có thể còn mưu toan tải một tính năng bổ sung ở địa chỉ đó. Tuy nhiên, có vẻ như www.78p.com đã không còn hoạt động.
+Qua những gì chúng tôi ghi nhận, virus cố gắng phát tán vào tất cả những mối liên lạc trong danh sách contact ở công cụ MSN Messenger, Oliver Friedrichs, Giám đốc trung tâm phản ứng nhanh của Symantec, cho biết. Tuy nhiên, trong 24 giờ qua, chúng tôi mới chỉ thấy có 34 trường hợp thông báo - một con số không đáng kể.
+Đến đầu giờ chiều hôm qua, một đại diện của Microsoft cho biết công ty đã khắc phục được vấn đề. Người phát ngôn này không bình luận gì về mối liên hệ giữa sự cố và virus Funner.
+

@@ -1,0 +1,10 @@
+Hỏi về RealOne Player (3)
+Tôi đang dùng RealOne Player nhưng không hiểu sao lại bị mất. Tôi đã install phần mềm trên Internet về nhưng khi install thì nó báo lỗi như sau: "You do not have Administrator access to the Windows registry.\n Please your system Administrator to install RealOne Player". Tôi không biết phải làm thế nào. Xin các anh chị giúp tôi. Cảm ơn rất nhiều.
+Nguyen Thanh Tung
+Hồi âm:
+Thứ nhất bạn hãy download và cài đặt với quyền admin nhé, thứ 2 ở phần user accounts computer administrator bạn đừng để trống hảy điền tên bạn hay gì đó mà bạn thích, thứ 3 bản REAL nào bạn đang cài 10 hay 10.5 hảy xóa đi chọn cài bản cũ hơn sau đó chọn update REAL sẽ tự động chọn bản mới nhứt và install giùm cho bạn.
+TOM
+Câu trả lời đã rất rõ ràng (có lẽ bạn chỉ là người dùng có quyền USER), bạn cần phải login bằng quyền Administrator (cao nhất) thì mới có thể cài đặt, thay đổi các phần mềm trong máy. Chúc bạn thành công. 
+Thong NM
+Gửi bạn Nguyen Thanh Tung. Thông báo như bạn nêu có nghĩa là bạn đang sử dụng máy (Win 2000 hoặc XP) với quyền truy cập là 1 user bình thường, không có quyền của 1 administrator. Nghĩa là bạn không thể cài đặt chương trình, không thể chỉnh một số options trong control panel, và nhiều thứ khác nữa. Có thể trước đó, bạn đã cài RealOne Player bằng user có quyền admin. Sau đó, lại log vào bằng 1 user khác. Chương trình vừa cài đặt bỗng dưng biến mất.   Thực ra chương trình vẫn tồn tại trong user mà nó đã được logon vào và cài đặt RealOne Player. Hy vọng bạn vẫn còn có thể log vào bằng user có quyền admin ban đầu. Bạn thử kiểm tra lại xem sao nhé!   Chúc thành công. 
+

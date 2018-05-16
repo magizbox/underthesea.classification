@@ -1,0 +1,9 @@
+Phần mềm quản lý kho hàng SBIC
+Chương trình quản lý hàng hóa này được thiết kế phục vụ các doanh nghiệp nhỏ và hộ kinh doanh cá thể. Nó giúp theo dõi hàng đã bán, hàng đặt mua và hàng đã nhận cùng với chi phí và giá bán. SBIC còn hỗ trợ tính toán giá trị hàng trong kho, tổng số tiền hàng đã bán, tổng lợi nhuận và lời lãi.
+Sử dụng phần mềm shareware này như sau:
+Việc đầu tiên bạn cần làm khi tạo một mục quản lý hàng mới là điền tên nhà cung cấp. Đây là điều cần thiết trước khi bổ sung bất cứ tên mặt hàng nào vào. Tóm lại là viết tên nhà cung cấp trước rồi mới đến tên hàng.
+Sau khi bổ sung các mặt hàng vào thư mục, bạn có thể thực hiện các tính năng khác như bán, đặt mua và nhận. Nếu một danh mục hàng có màu xám tức là bạn đang xem màn hình của chức năng đó. Khi sử dụng chức năng nào thì phải chuyển màn hình (màu xám) sang chức năng đó.
+Đối với danh sách hàng và nhà cung cấp, bạn có thể nhấp đúp chuột trái thẳng vào đó để xem chi tiết hoặc nhấp đúp chuột phải để biên tập lại. Bạn cũng nên sao lưu các file thư mục hàng hóa này thường xuyên và cố gắng ghi cả ngày tháng vào tên file backup để tiện sử dụng khi cần thiết. Không nên dùng tên file quá dài.
+Chức năng tự động đặt mua và nhận Auto-Ordering/Receiving sử dụng những lệnh mang nhiều chọn lựa (multi-selection) từ danh sách hàng hóa. Nó sẽ lướt quanh tất cả các mặt hàng đã chọn lựa và đặt mua/nhận theo những thông tin mà bạn đã quy định khi tạo ra mục hàng này trong chương trình, với cấp độ và số lượng được sắp xếp lại theo thứ tự quy định.
+Để tải miễn phí SBIC, bấm vào đây.
+

@@ -1,0 +1,7 @@
+Làm việc cùng lúc với 2 trang Word hoặc Excel
+Trong trường hợp phải hiển thị cùng lúc hai trang Word để sửa chữa hay so sánh, chắc chắn người sử dụng phải liên tục dùng chuột hoặc phím hay thanh cuộn. Như thế thật bất tiện. Dưới đây là cách dùng tiện ích phân trang trong Word.
+Trên thanh tiêu đề, hãy nháy chuột vào Windows\Split (hoặc bấm vào Windows và nhấn phím S) sẽ xuất hiện vạch ngang trên Word, khi đó có thể di chuyển phân trang tùy ý. Sau đó, nháy chuột trái và sẽ người sử dụng sẽ có ngay 2 trang Word với đầy đủ các thanh cuộn... Khi muốn trở lại 1 trang, chỉ cần nhấp chuột vào Windows\Remove Split (hoặc click vào Windows và nhấn phím S).
+Trong Excel có nhiều lựa chọn hơn. Chẳng hạn, xếp 2 trang Excel theo kiểu lớp (Tiled) hoặc theo kiểu dọc (Horizontal), kiểu ngang (Vertical)... Các bước thực hiện như sau: Nhấp chuột vào Windows\Arrange (hoặc click vào windows và nhấn phím A), khi xuất hiện hộp thoại "Arrange" là có thể tùy lựa chọn click vào "Horizontal" hay "Vertical"... rồi nhấn OK. 
+Muốn trở lại 1 bảng tính Excel click vào Windows of active wordbook\OK.
+(theo Tin Học  Đời Sống)
+

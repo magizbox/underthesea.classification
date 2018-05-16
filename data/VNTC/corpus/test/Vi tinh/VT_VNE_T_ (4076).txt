@@ -1,0 +1,6 @@
+Intel công bố chương trình 'Máy tính cho bước khởi đầu'
+Sản phẩm trong chương trình đều là những PC cấu hình mạnh, do 14 công ty tin học trong nước lắp ráp theo công nghệ của Intel, được cài sẵn các phần mềm và tiện ích phục vụ học tập. Chương trình tiến hành từ 1/9 đến 31/10.
+"Máy tính cho bước khởi đầu" được triển khai theo 3 "gói", tương ứng với 3 mức nhu cầu và điều kiện của khách hàng. Trong đó, gói 1 là những sản phẩm sử dụng bộ xử lý Intel Celeron 310 trở lên, bo mạch chủ Intel D845GVFNL, bộ nhớ 128 MB, đĩa cứng 40 GB. Gói 2 dùng bộ xử lý Intel Pentium 506 2,66 GHz trở lên, bo mạch chủ Intel D915GLVGL, bộ nhớ 256 MB, đĩa cứng 80 GB. 
+Gói 3 khách hàng được lựa chọn: máy xách tay Intel Centrino hoặc máy để bàn có bộ xử lý Intel Pentium 630 trở lên với công nghệ siêu phân luồng. Máy để bàn này tích hợp bo mạch chủ Intel D 915GAV, bộ nhớ 256 MB, đĩa cứng 80 GB. Các máy tính trên đều sử dụng màn hình màu 15 inch.
+Ngân hàng phát triển nhà Đồng bằng sông Cửu Long và Ngân hàng Thương mại Á Châu sẽ cho sinh viên, học sinh, giáo viên 10 tỉnh, thành: Hà Nội, Hà Tây, Hải Phòng, Huế, Đà Nẵng, Khánh Hoà, TP HCM, Bình Dương, Đồng Nai và Cần Thơ, vay tiền trả góp để mua máy. Mức vay từ 6 triệu đồng đến 25 triệu đồng một người, trả trong 12 tháng. Khách hàng được nhận tiền sau 5 ngày hoàn tất thủ tục vay. 
+

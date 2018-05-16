@@ -1,0 +1,8 @@
+Bức ảnh kỹ thuật số lớn nhất thế giới
+Là tác phẩm của một nhóm kỹ sư thuộc Tổ chức nghiên cứu khoa học ứng dụng Hà Lan (TNO) công bố hôm qua. Ảnh có dung lượng 7,5 GB và chứa đựng 2,5 tỷ pixel.
+Bức ảnh, chụp từ trên không quang cảnh thành phố Delft, là sự kết hợp 600 hình ảnh đơn lẻ được ghi liên tục trong khoảng 1 tiếng. Những hình ảnh này sau đó được phối hợp lại trên máy tính. Phải mất khoảng 24 tiếng để so sánh những phần ảnh trùng nhau và tối ưu hóa chúng, thông báo của TNO viết. Liên kết các bức ảnh lại thành một cần đến công suất của 5 máy tính cao cấp chạy suốt 3 ngày.
+Bức ảnh số chụp thành phố Delft
+Mật độ ảnh chính xác của bức hình này là 2,487 tỷ pixel. Nếu in ra với độ phân giải tiêu chuẩn là 300 điểm ảnh/inch, bức ảnh sẽ có kích thước là 6,7m x 2,6m. Máy ảnh số thông thường hiện nay chụp hình với mật độ ảnh từ 3 triệu đến 5 triệu pixel.
+Nhóm nghiên cứu của TNO cũng đã phát triển một phần mềm riêng để phục vụ cho công việc ghép ảnh, trong đó có việc thiết kế một định dạng mới. Hiện nay, TIF là định dạng phổ biến dùng cho những bức ảnh độ phân giải cao ở mức 4GB. TNO giải quyết vấn đề lưu trữ tạm thời bằng cách tạo ra một đường liên kết FireWire giữa máy ảnh và một máy tính xách tay để chụp, bỏ qua công cụ thẻ nhớ của camera.
+Trước TNO, kỷ lục về bức ảnh số lớn nhất thuộc về nhà nhiếp ảnh Max Lyons (Mỹ) với tác phẩm công viên quốc gia Canyon ở bang Utah, chụp năm ngoái với mật độ ảnh là 1 tỷ pixel. 
+

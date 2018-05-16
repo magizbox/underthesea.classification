@@ -1,0 +1,5 @@
+ Duyệt e-mail không cần cài đặt với Portable Thunderbird
+Nếu đã quá “nghiện” Thunderbird, thì bạn nên “xách” nó theo trong thẻ nhớ của mình bằng bộ rút gọn của nó mang tên Portable Thunderbird. Cái độc đáo nhất của trình Thunderbird xách tay này là bạn không cần phải cài đặt mà cứ “vô tư” chạy thẳng nó trong thư mục chứa chương trình, và mọi thư từ gửi đến bạn cũng sẽ được lưu trực tiếp trong thẻ nhở flash để bạn có thể tham khảo ở bất kỳ nơi nào có máy tính. 
+Là bản xách tay nên nó không thể sánh bằng bản Thunderbird nguyên gốc hay Microsoft Outlook, nhưng so vói Outlook Express thì nó hoàn toàn chẳng thua kém gì và tỏ ra hơn hẳn về tính thân thiện và cơ động. Nó cũng có đầy đủ mọi tính năng thông dụng như tùy chọn thư mục lưu thư, tự động đánh dấu thư rác, tìm kiếm, lọc thư, thông báo thư đến, gửi kèm file, tham khảo thông tin địa chỉ đầy đủ, lập address book… 
+Hiện bản mới nhất là Portable Thunderbird 1.0.2 hỗ trợ tốt cho mọi Windows, tương thích hoàn hảo với mọi font chữ tiếng Việt và hoàn toàn miễn phí. Người dùng có thể vào đây để tải Portable Thunderbird 1.0.2 về dùng. 
+

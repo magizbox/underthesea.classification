@@ -1,0 +1,7 @@
+ Registry Repair - "bảo bối" khi máy tính... lề mề
+Registry Repair - đúng như cái tên của nó - sẽ giúp bạn sửa chữa các lỗi trong registry nhằm làm máy tính chạy ổn định hơn, không còn bị phát sinh những trục trặc ngoài ý muốn. 
+Chương trình có giao diện đơn giản và rất dễ sử dụng. Tại khung Select the sections to scan , bạn chọn các thành phần sẽ quét trong Registry, tốt nhất là đánh dấu chọn My Computer để quét toàn bộ hệ thống. Tại khung Tasks , bạn nhấn chọn mục Scan registry for problems . Chương trình sẽ bắt đầu quét và khi quét xong, nó sẽ thông báo cho bạn biết có bao nhiêu lỗi trong registry. Bạn nhấn nút Repair để sửa toàn bộ các lỗi này. 
+Tuy nhiên, như bạn đã biết, registry là một thành phần vô cùng nhạy cảm của Windows, do đó chương trình đã cẩn thận sao lưu lại registry trước khi sửa chữa. Nếu sau này lỡ hệ thống có trục trặc gì do những thay đổi này, bạn có thể chọn mục Restore previous repairs để phục hồi lại trạng thái cũ trước khi sửa chữa. 
+Ngoài ra chương trình còn cung cấp các công cụ trong menu Tools như: StartUp Manager (giúp quản lý các chương trình khởi động cùng Windows), Uninstall Manager (gỡ bỏ các chương trình đã cài đặt trên hệ thống). 
+Registry Repair 1.5 là phần mềm thương mại của GlarySoft, tương thích với Windows 98 trở lên. Bạn có thể tải bản dùng thử tại website http://www.glarysoft.com (dung lượng 1,63 MB) hay tìm mua trên các đĩa CD Software tổng hợp, có bán ngoài thị trường. 
+

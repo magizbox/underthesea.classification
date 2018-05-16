@@ -1,0 +1,5 @@
+ SGI giới thiệu siêu máy tính mới
+Cũng giống như các hệ thống máy Onyx, dòng máy Prism được thiết kế đặc biệt để xử lý các vấn đề ở mức độ chuyên nghiệp rất cao như thăm dò dầu khí, mô phỏng va đập, nghiên cứu y khoa. Dòng máy này cũng sử dụng cùng các bộ tăng tốc đồ họa của ATI và NUMAflex có khả năng chia sẻ cấu trúc bộ nhớ cùng với các hệ thống cấu trúc nền MIPS của SGI. 
+Shawn Underwood, giám đốc tiếp thị của của SGI cho biết: "Dòng máy Prism sẽ chính thức được phân phối trong một vài tháng tới, dòng máy tính này sẽ được trang bị từ 1 đến 2 bộ vi xử lý 512 Itanium 2 và sẽ tương thích với khoảng 16 loại card tăng tốc đồ họa siêu phân luồng. Các hệ thống máy này sẽ có giá khởi điểm khoảng 30.000 USD, đã giảm khoảng 10.000 USD so với các hệ thống máy Onyx đời trước". 
+Underwood cho biết: "Với HP thì 5000 sản phẩm/năm là lý do để rời bỏ thị trường, còn đối với chúng tôi: 5000 sản phẩm/năm là lý do để bước vào thị trường". 
+

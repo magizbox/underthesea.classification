@@ -1,0 +1,22 @@
+Hỏi về kết nối Router - Router (2)
+Em có đọc mấy bài trả lời về router trong phần vi tính. Nhưng em cũng có một vấn đề về chia sẻ Internet. Chỗ bọn em ở có đến 7 người mà một cái router chỉ có thể chia cho 4 người. Bọn em mới mua một chiếc router khác và cố gắng kết nối hai router với nhau, nhưng mọi cố gắng đều thất bại. Em muốn hỏi anh chị rằng có thể kết nối 2 router với nhau được không? Và 2 router cùng một nhãn hiệu có thể kết nối được không? và nếu kết nối được thì anh chị làm ơn chỉ giúp em được không ạ! Em xin chân thành cảm ơn. 
+James Vu
+Hồi âm:
+Bạn không nên mua thêm một router nữa. Điều này rất lãng phí và khiến việc kết nối phức tạp hơn, đặc biệt là nếu bạn lại mua 2 routers cùng loại. Đúng ra bạn chỉ nên mua thêm một hub hoặc swich (loại có 4 cổng LAN) nữa là được rồi. Tuy nhiên, hiện thời bạn làm như sau: 
+Cách 1: 
+1. Giữ nguyên cấu hình của router thứ nhất. 
+2. Ở router thứ 2, trước khi kết nối vào router 1, bạn cần phải loại bỏ chức năng DHCP đi (bạn log on vào router theo hướng dẫn rồi chọn để disable DHCP đi), điều này sẽ khiến router 2 hoạt động như là một hub. 
+3. Kết nối vào router 2 vào router 1 thông qua 1 trong số 4 cổng LAN của của router 2 (bạn không được dùng cổng WAN của router thứ 2). Kết nối các máy tính còn lại vào 3 cổng còn lại của router 2. Nhìn chung với cách này bạn cũng chỉ kết nối tối đa 6 máy với nhau thôi vì mỗi router phải "hy sinh" một cổng LAN để kết nối với nhau rồi. Tuy nhiên tất cả các máy trong mạng sẽ có thể chia sẻ dữ liệu với nhau và cùng chia sẻ Internet.
+Cách 2 (phức tạp hơn một chút): 
+1. Giữ nguyên cấu hình của router thứ nhất. 
+2. Ở router thứ 2, bạn cần phải thay đổi địa chỉ IP gốc (cho khác với của router 1). VD: nếu địa chỉ IP gốc của router 1 là 192.168.01 thì bạn phải chuyển địa chỉ IP gốc của router 2 thành 192.168.254.254. 
+3. Chuyển giá trị kết nối vào Internet của router 2 thành Auto hoặc "IP assigned by DHCP" hoặc tương tự tuỳ vào từng router, tóm lại không phải là PPPoE. Mục đích ở đây là để router 2 nhận một IP từ router 1 và từ đó chia kết nối vào Internet với các máy được kết nối với nó. 
+4. Kết nối vào router 2 vào router 1 thông qua cổng WAN của router thứ 2 
+5. Kết nối các máy tính vào các cổng LAN còn lại của 2 router. Cách này cho phép bạn nối cả 7 máy tính với nhau, tuy nhiên 3 máy tính kết nối vào router 1 sẽ không chia sẻ thông tin được với 4 máy tính kết nối vào router 2. Tất cả các máy đều có thể sử dụng Internet. Các máy kết nối cùng vào một router sẽ có thể chia sẻ thông tin với nhau.
+Dong Ngo
+1) Các bạn có thể nối hai router cùng hay khác nhãn hiệu với nhau. 
+2) Dùng "straight-through network cable", một đầu nối vào một free port (port 1,2,3 hay 4) trên router 1 (router cũ) còn đầu kia thì nối vào port 4 (hay uplink port) của router 2 (router mới). 
+3) Setup router 1 như sau: Local IP address: 192.168.1.1   DHCP Server: Enable 
+4) Setup router 2 như sau: Local IP address: 192.168.1.2   DHCP Server: Disable.   
+Nếu vẫn không chạy được thì cho tôi biết nhãn hiệu cũng như model của hai routers. Chúc các bạn thành công.  
+

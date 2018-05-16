@@ -1,0 +1,9 @@
+Virus Kedebe.F lợi dụng cái chết của Giáo hoàng
+Hôm qua, hãng bảo mật Sophos cảnh báo loại sâu này đang phát tán qua những e-mail với nội dung nói về một âm mưu nào đó xung quanh sự qua đời của vị lãnh tụ Thiên chúa giáo và cả tin Michael Jackson đột tử.
+Sâu Kedebe.F giả dạng như những tin nóng gửi qua e-mail. Khi người dùng mở file đính kèm, virus sẽ vô hiệu hóa phần mềm bảo mật và có thể lây lan sang nhiều máy khác.
+Những thông điệp dính sâu Kedebe.F có nội dung khá đa dạng. Không chỉ gây tò mò bằng những sự kiện mới mẻ đang diễn ra, e-mail còn đề cập đến tài khoản Internet của người dùng, tài liệu người lớn nhạy cảm và nhiều chủ đề khác.
+Một trong những thông điệp mà Sophos nhận được có đoạn: "Ai đó đã gửi cho tôi một tài liệu ăn cắp từ cơ quan mật của chính phủ đề cập đến cái chết bí ẩn của Giáo hoàng John Paul. Tài liệu đó nói rằng Giáo hoàng đã bị giết bởi hai tên giả danh bác sỹ do chính phủ cử đến. Nội dung sự việc và tên tuổi hai kẻ sát nhân nằm trong file đính kèm dưới đây".
+Nực cười hơn, một thông điệp khác tuyên bố đã tóm cổ được tác giả sâu MyDoom: "File này sẽ cho bạn chi tiết về vụ bắt giữ tác giả virus này ngày hôm nay..."
+Việc sử dụng tin giật gân để dụ người dùng mở file đính kèm chứa virus là một thủ thuật khá phổ biến và đã được nhiều chuyên gia bảo mật cảnh báo. Tên tuổi của những người nổi tiếng như Micheal Jackson, cố Giáo hoàng John Paul hay thủ lĩnh al-Qaida Osama Bin laden đã nhiều lần bị lợi dụng trước đây. Tuy vậy, vẫn có rất nhiều người cả tin và mắc bẫy.
+Theo Sophos, mức độ lây lan của sâu Kedebe.F không rộng, tuy nhiên người dùng vẫn nên cập nhật phần mềm diệt virus để bảo vệ khỏi nguy hiểm.
+

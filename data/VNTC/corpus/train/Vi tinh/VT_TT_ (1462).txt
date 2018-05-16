@@ -1,0 +1,6 @@
+ Phần mềm tra cứu thuốc trừ sâu cho nông dân
+Công cụ chuyên dùng để tra cứu tên thuốc cũng như công dụng của các loại thuốc trừ sâu này được thiết kế với giao diện đơn giản và rất trực quan, tạo điều kiện cho bà con nông dân dễ dàng tìm được bất kỳ loại thuốc bảo vệ thực vật nào phù hợp với nhu cầu sử dụng của mình. Phần mềm tra cứu nông dược này cung cấp đầy đủ thông tin về tên thương mại, tên hoạt chất, tính năng, tên công ty bán ra sản phẩm… rất tiện khi tra cứu. 
+Có gần 500 tên thuốc trong Danh mục “Thuốc bảo vệ thực vật được phép sử dụng tại Việt Nam”, 200 tên các loại thuốc được sử dụng trên rau và tên của khoảng gần 1.500 loại nông dược hiện đang có mặt trên thị trường. 
+Phần mềm có 3 danh mục tìm kiếm chính là tìm theo tên thương mại, tìm theo tên hoạt chất và tìm theo công dụng. Dựa theo 3 danh mục tìm kiếm này, người nông dân có thể truy ra được nguồn gốc hoạt chất, công dụng và nơi cung cấp của hầu hết mọi loại thuốc bảo vệ thực vật hiện có trên thị trường hiện nay. 
+“Phần mềm tra cứu nông dược” có dung lượng khoảng 6 MB, người dùng cũng có thể xem “phần hồn” của công cụ tra cứu này bằng cách dùng chương trình Access mở ra xem file DMthuoc2005.mdb dung lượng 1,4 MB nằm trong thư mục cài đặt. 
+

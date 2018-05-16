@@ -1,0 +1,3 @@
+Hãng điện tử Matsushita (Nhật Bản) hôm 23.2 đã trình làng một thiết bị công nghệ giá rẻ nhưng lại có tính năng ưu việt. Thiết bị này được miêu tả như một "con mắt thần", có thể nhìn rõ đường nét trên mặt người trong bóng tối. 
+Khi được lắp tại cửa các tòa nhà, bóng diode gắn trong "mắt thần" sẽ phát ra tia laser ghi lại chi tiết trên mặt người muốn ra vào cửa. Sau đó, thiết bị điện tử sẽ xử lý hình ảnh ghi được để đối chiếu với cơ sở dữ liệu lưu sẵn xem người đó có được phép vào hay không. Thiết bị "mắt thần" này rất hữu dụng trong việc bảo vệ các tòa nhà quan trọng, cơ sở công nghệ bí mật hoặc dinh thự của yếu nhân. (Kyodo News)
+

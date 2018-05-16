@@ -1,0 +1,10 @@
+Bút lông điện tử 'quét' cuộc sống lên màn hình 
+Chiếc bút lông I/O Brush cho phép người nghệ sĩ nhặt màu, phông nền, phim ảnh thậm chí là cả âm thanh từ môi trường thực tế và chuyển vào bức vẽ điện tử trên máy tính.
+Tác giả Kimiko Ryokai, tại Viện Công nghệ Massachusetts, Mỹ, cho biết không giống các chương trình đồ hoạ khác cho phép người dùng nhặt màu từ một bảng vẽ có hạn, I/O Brush giúp mọi người vẽ bằng màu và chất liệu lấy từ một miếng vỏ trái cây, một chiếc áo sơ mi yêu thích, vật lưu niệm từ một chuyến đi, một con gấu bông hoặc những bông hoa.
+Chiếc chổi chứa một microphone, video camera thu nhỏ, những bộ cảm ứng và được nối với một máy tính có màn hình tiếp xúc. Người họa sĩ sẽ nhặt màu từ môi trường bằng cách quét nhẹ chổi lông lên vật được chọn.
+Những bộ cảm ứng nằm tại đáy lông chổi sẽ kích hoạt chiếc camera nhỏ xíu ở giữa sợi lông, ghi lại hình ảnh vật thể trong 5 giây và lưu trữ trong chương trình máy tính. Những điôt phát sáng quanh camera sẽ giúp soi rọi vật thể. Một microphone gắn trong camera ghi lại bất cứ âm thanh nào được tạo ra trong 5 giây trước khi thu lấy màu sắc.
+Để tạo ra bức hoạ, người nghệ sĩ chạm chiếc chổi lông lên màn hình tiếp xúc. Chương trình máy tính sẽ nhận ra phần nào của màn hình đang được tác động và chiếu lên hình ảnh và âm thanh đã ghi lại.
+"Bạn không chỉ tạo ra một tác phẩm hoàn chỉnh với I/O Brush mà còn ghi lại được lịch sử câu chuyện", Kevin Brooks tại Phòng thí nghiệm Motorola ở Lexington, nói. "Đó là một cách khác để ghi lại cuộc sống".
+Người sử dụng có thể chuyển từ những bức tranh tĩnh sang video chỉ bằng một nút bấm. Hoạ sĩ cũng có thể sử dụng ngón tay để quét màu trên màn hình.
+I/O Brush sẽ được trưng bày tại cuộc triển lãm ở Trung tâm Ars Electronica ở Linz, Áo, cho tới tháng 8.
+

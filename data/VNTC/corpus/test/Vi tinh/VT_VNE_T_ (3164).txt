@@ -1,0 +1,55 @@
+Thời của DVD ở Việt Nam
+Đã đến lúc người ta quên đi những chiếc đĩa CD-R 700 MB vì giờ đây chúng không còn đủ sức đáp ứng nhu cầu sao lưu hàng GB dữ liệu. Vì thế, DVD, với dung lượng cao hơn, dù không hoàn toàn mới ở VN, đang khẳng định ảnh hưởng của nó.
+Nếu cách đây 2 năm, việc mua được một ổ ghi DVD vẫn còn là cả một vấn đề so với khả năng tài chính của nhiều người thì hiện nay, họ chỉ cần bỏ ra trên 100 USD một chút là có thể sở hữu những chiếc DVD RW gắn trong tương đối tốt của LG, ASUS, SAMSUNG. Các ổ ghi DVD có thiết bị gắn ngoài qua cổng USB 2.0, hoặc ngõ 1394 trên mainboard thì giá thành cao hơn khoảng 60-70 USD nhưng sử dụng chung cho nhiều PC khác nhau một cách tiện lợi.
+Giá thành của ổ ghi DVD-R phụ thuộc vào tốc độ ghi: loại 8X thì đắt hơn 4X rất nhiều. Dự báo trong khoảng 2 năm tới, DVD-R có tốc độ ghi 16X và loại DVD hai lớp (8,5 GB) sẽ được sử dụng rộng rãi khi nhập về thị trường nội địa nhiều hơn.
+Cấu hình tối thiểu của máy tính để sử dụng được ổ ghi DVD làPentium III, 700 MHz, 128 MB RAM, với một ổ cứng kha khá chừng 40 GB.
+Sức chứa của một đĩa DVD là 4,7 GB, gấp 6 lần đĩa CD, nên rất tiện cho sao lưu dữ liệu. Người sử dụng có thể ghost 2 hay 3 Windows và Linux vào 1 đĩa duy nhất. Các tay "nghiện" nhạc có thể lưu trữ trên 1.000 bài nhạc nén (.mp3, wma, ogg..) hoặc ghi video clip được 50 bài thay vì chỉ tối đa 8 cho dạng SVCD. Đặc biệt, một số phần mềm hỗ trợ kiểu ghi "6 VCD trong 1 DVD" như Ulead Factory DVD cho phép có được 85 tuyển tập các bài hát trên 1 đĩa DVD. 
+Hiện tại ở TP HCM, cả dân nghiệp dư lẫn giới chuyên nghề vẫn thường sử dụng dạng DVD-5 có công suất lưu trữ 4,7 GB do giá thành của loại này khá rẻ. Các chợ điện tử như Nhật Tảo hay Huỳnh Thúc Kháng bán DVD trắng khoảng 25.000 đồng cho đĩa DVD (1-8X) hàng hiệu Maxell, TDK, Sony có hộp. Còn nếu muốn giảm thiểu chi phí và sử dụng nhiều thì chỉ chừng 6.000-9.000 đồng cho các đĩa DVD (1-4X) với vô số nhãn hiệu khác nhau.
+Trên thế giới, công nghệ DVD đang chứng kiến cuộc đua về định dạng khi các hãng sản xuất lớn liên tục tung ra những kiểu DVD với đủ thứ công nghệ khác nhau, dung lượng thì có thể bỏ xa ổ cứng hiện hành. Nhưng ở VN thì việc sử dụng được những chiếc đĩa HD-DVD hay Blu-ray vẫn còn "xa tầm tay với" ngay với dân chuyên nghiệp.
+Giá tham khảo một số sản phẩm Combo DVD tại TP HCM 
+Loại
+Đặc điểm
+USD
+AOPEN-1608 DVD +/- R/RW
+DVD R16 W16 RW8, CD R48 W48 RW32, IDE kèm 3 mặt nạ màu, công nghệ Just Link/Just Speed, tặng 10 DVD
+109
+SAMSUNG H552 DVD +/- R/RW 
+DVD R16 W16 RW8, CD R48 W40 RW32, IDE (TRAY)
+95
+PIONEER 109 DVD +/- R/RW
+DVD R16 W16 RW4, CD R40 W32 RW24, IDE (TRAY) 
+95
+PIONEER 109 DVD +/- R/RW
+DVD R16 W16 RW4, CD R40 W32 RW24 tặng 5 DVD-R (BOX)
+108
+NEC 3500A DVD +/- R/RW 
+DVD R16 W16 RW4, CD R48 W48 RW24, double layer 8.5 GB 4X, tặng 5 DVD, hàng Malaysia
+105
+ASUS 1608P DUAL +/- R/RW 
+DVD R16 W6 RW8, CD R40 W40 RW24, IDE
+128
+ASUS 1604P-DUAL +/- R/RW 
+DVD R16 W16 DL 4X RW4/CDW R40 W32 RW24, USB1394 EXT
+195
+LG DUAL +/- 4163B 
+DVD R16 W16 RW8/CDW R40 W40 RW24 tem chứng nhận LG
+125
+LG DUAL +/- EXT 5163 D
+DVD R16 W12 RW8/CDW R40 W40 RW24, tem chứng nhận, USB1394
+180
+PLEXTOR PX - 712A, Japan
+DVD +/- R/RW DVD+ R16 W12 RW4/DVD - R16 W8 RW4 CD R48 W48 RW24 DUAL FORMAT +/- 
+130
+PLEXTOR PX - 716A 
+DVD +/- R/RW DVD+ R16 W16 RW8/DVD - R16 W16 RW4 CD R48 W48 RW24, double layer 8.5GB 4X 
+135
+TEAC DVD W24ES
+DVD R8 W4 RW2 CD R24 W16 RW8 - EXT, USB 2.0
+220
+NET DVD 3500A 
+DVD R16 W16 RW4, CD R48 W48 RW24, IDE 
+105
+GIGA DVD GO -W1616A 
+DVD R16 W16 RW8, CD R48 W48 RW24, IDE
+130
+

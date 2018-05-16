@@ -1,0 +1,5 @@
+Microsoft sẽ phát hành công cụ tìm kiếm tuỳ biến
+Hôm qua, hãng phần mềm thông báo đến giữa năm tới sẽ ra mắt dịch vụ tìm kiếm được cá thể hoá. Kết quả search sẽ dựa vào sự lựa chọn và sở thích của mỗi cá nhân. Động thái này của họ lại một lần nữa nhằm mục đích hạ bệ Google.Chủ tịch Bill Gates cho biết công cụ tìm kiếm tuỳ biến theo người dùng sẽ cung cấp những kết quả liên quan bằng cách đánh giá những sở thích cá nhân dựa trên những truy vấn tìm kiếm trước đây và các thông tin khác mà người dùng đưa ra.
+Theo Gates, những nỗ lực phát triển công cụ tìm kiếm của Microsoft sẽ giải quyết tình hình ăn cắp bản quyền hiện đang rất phổ biến vì người dùng phải điền thông tin cá nhân thì mới nhận được kết quả tìm kiếm được cá thể hoá.
+Tuần trước, Microsoft phát hành công cụ tìm kiếm hỗn hợp, search thông tin trên ổ cứng máy tính và trên trang web. Công nghệ tìm kiếm tùy biến và search trong ổ cứng được đánh giá là những ứng cử viên trong lĩnh vực tìm kiếm. Các đối thủ nặng ký của Microsoft như Google và Yahoo cũng tích cực nâng cấp công cụ của mình để thu hút nhiều khách hàng hơn và tăng doanh thu của công ty.
+

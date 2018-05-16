@@ -1,0 +1,8 @@
+Khắc phục lỗi IIS (1)
+Tôi đang sử dụng WindowsXP SP2 và đã cài IIS 5.1. Trong thư mục web ngầm định C:/Inetpub/wwwroot tôi có nhiều thư mục trang web động và tĩnh. Khi gõ địa chỉ vào web tĩnh, ví dụ http://localhost/webhtml, thì hiển thị tốt. Nhưng khi vào các trang web động, ví dụ http://localhost/webasp , thì báo lỗi sau:
+" Server Application Error. The server has encountered an error while loading an application during the processing of your request. Please refer to the event log for more detail information. Please contact the server administrator for assistance. " 
+Xin các cao thủ chỉ cách tìm lỗi và khắc phục. Cảm ơn nhiều.
+Linh Nguyen 
+Hồi âm:
+Có thê la ban chưa enable tính năng ASP (Active Server Pages) trong IIS lên hoăc chưa cai đăt. Nếu chưa cai đăt ban vao Window Component ==App server == WWW services == check vao "Active Server Pages" sau đó enable lên la có thê chay đươc web đông ASP. Chúc thanh công.
+

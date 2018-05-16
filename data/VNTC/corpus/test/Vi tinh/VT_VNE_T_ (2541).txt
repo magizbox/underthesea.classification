@@ -1,0 +1,5 @@
+Hitachi hướng tới ổ đĩa 1.000 GB
+Hãng chế tạo thiết bị điện tử Nhật Bản vừa công bố một công nghệ mới cho phép sản xuất các ổ cứng mini hiệu Microdrive dung lượng 20 GB và đặc biệt là loại ổ 3,5 inch chứa được tới 1 Terabyte dữ liệu.
+Hitachi cho biết, bằng cách sử dụng hệ thống ghi dữ liệu trực giao (perpendicular), họ đã đạt được mật độ thông tin 230 Gigabit/inch vuông, tức là gấp đôi so với ở các loại ổ dùng kỹ thuật ghi xoay vòng hướng trục (longitudinal). Hitachi tin rằng, với công nghệ này, mật độ dữ liệu sẽ tăng gấp 10 lần trong 5-7 năm tới.
+Chúng ta đang đi đến điểm chuyển đổi công nghệ quan trọng nhất ở lĩnh vực ổ cứng trong một thập trở lại đây với nhiều điều hứa hẹn cho ngành chế tạo hard drive và hàng điện tử tiêu dùng, Jun Naruse, Giám đốc điều hành Hitachi, nói. Nhu cầu của khách hàng trong việc tăng khả năng lưu trữ thông tin trên các thiết bị nhỏ đã tạo một động lực mạnh mẽ cho chúng tôi theo đuổi kỹ thuật ghi trực giao. Các thương phẩm sử dụng công nghệ này sẽ có mặt trên thị trường vào năm 2007. Tuần trước, Hitachi cũng đã công bố loại ổ đầu tiên đạt dung lượng 500 GB.
+

@@ -1,0 +1,4 @@
+ Tô điểm cho Windows Vista
+Giao diện mặc định của Windows Vista có độ mờ cao, lại không có màu sắc, bạn có thể nhìn xuyên suốt qua các thanh tiêu đề cửa sổ. StyleVista đem đến cho người dùng khả năng tùy biến giao diện. Khác với WindowBlinds thay đổi hoàn toàn skin của Windows, StyleVista chỉ cải thiện những gì giao diện mặc định của Windows Vista chưa hoàn thiện. 
+StyleVista được cung cấp hoàn toàn miễn phí, hoạt động trên phiên bản Windows Vista (beta 1 hoặc hơn) nhưng không hỗ trợ cho Windows 64-bit. Bạn có thể tải về tại đây để dùng thử (bạn phải có phiên bản Windows Vista beta đựơc cài đặt trên máy). 
+

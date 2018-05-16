@@ -1,0 +1,9 @@
+Zafi.D vẫn là virus nguy hiểm nhất
+Thống kê tình hình an ninh máy tính tháng 1/2005 của hãng Sophos (Anh) cho thấy những cái tên cũ vẫn tiếp tục thống trị danh sách các chương trình phá hoại hàng đầu ghi nhận từ cuối năm ngoái.
+Đây là tháng thứ 2 liên tiếp Zafi.D xếp đầu tiên trong 10 virus nguy hiểm mà Sophos đánh giá, chiếm tới gần 1/2 số thông báo mà hãng này nhận được. Đây là một virus khá khó chịu, phát tán bằng cách giả dạng thiệp chúc mừng Giáng sinh. Zafi.D có thể sẽ tiếp tục gây nhiều rắc rối trong năm nay, Graham Cluley, chuyên gia công nghệ của Sophos, nhận định. Nhiều người sử dụng máy tính đã mở e-mail chứa virus trong khi đinh ninh rằng sẽ được xem những lời chúc của người thân. Các doanh nghiệp nếu muốn chấm dứt mối đe dọa này thì nên bảo vệ cổng mail với cơ chế cập nhật tự động phần mềm chống virus.
+Virus phát tán mạnh thứ 2 trong tháng đầu năm nay là NetSky.P. Theo Cluley, công cụ chống loại virus này đã được phát hành từ tháng 3 năm ngoái nhưng khá nhiều máy tính nối mạng trên thế giới vẫn không cập nhật nên đã tạo điều kiện cho nó tiếp tục lây lan trên cộng đồng PC Windows.
+Trong tháng 1/2005, Sophos đã ngăn chặn và phân tích 1.329 virus mới, nâng tổng số chương trình tấn công mà họ phát hiện lên 99.829. Khảo sát của Sophos cho thấy tỷ lệ 4,3% (tương đương 1/23) e-mail lưu thông trong tháng qua có chứa virus. Con số này thấp hơn so với tháng trước khi cứ 18 thư điện tử thì có 1 cái mang phần mềm nguy hiểm.
+10 virus nguy hiểm nhất tháng 1/2005 (trong ngoặc là tỷ lệ thông báo mà Sophos nhận được)
+1. Zafi.D (44%)2. NetSky.P (19,4%)3. Zafi.B (10,1%)4. Sober.I (6,3%)5. NetSky.D (3,2%)6. NetSky.Z (3,1%)7. Bagle.AA (2,1%)8. NetSky.B (1,9%)9. Mydoom.O (1,2%)10. NetSky.C (1,1%)
+Các loại khác: 7,6%
+

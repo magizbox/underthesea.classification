@@ -1,0 +1,7 @@
+Hacker khai thác lỗ hổng trong Outlook Express 
+Nguy cơ tấn công liên quan đến lỗi trong Outlook Express của Microsoft đã gia tăng trong tuần qua, sau khi một loạt trang web đen bắt đầu lưu hành mã độc hại để khai thác chương trình.
+Lỗ hổng này do nhóm phản ứng nhanh Security Incident Response của Pháp phát hiện ngày 20/6 và có thể bị khai thác để kiểm soát toàn bộ máy tính với những phiên bản của chương trình e-mail Outlook Express 5.5, 6.0 của Windows 2000, XP và Server 2003 khi người dùng vô tình ghé thăm những trang web do hacker điều hành.
+Vấn đề xuất phát từ tính năng đọc tin của Outlook, hay giao thức truyền tin Network News Transfer Protocol. Các hãng bảo mật yêu cầu mọi người nên cài bản vá lỗi do Microsoft phát hành tuần trước. 
+"Kẻ tấn công có thể cài chương trình, xem, thay đổi và xóa dữ liệu, hoặc tạo ra một tài khoản mới với đủ các quyền của người dùng", Microsoft cảnh báo. Hãng đã xếp lỗi bảo mật này ở mức độ "nghiêm trọng".
+Tuy nhiên, nhiều chuyên gia đánh giá việc lan rộng của hình thức tấn công này không lớn do nguy cơ chỉ xảy ra khi người dùng ghé vào trang cài mã nguy hiểm. Thêm vào đó, mã khai thác lỗ hổng hoạt động thất thường, không đều.
+

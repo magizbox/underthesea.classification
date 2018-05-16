@@ -1,0 +1,6 @@
+Mất font chữ (1)
+Cháu cài tin học văn phòng vào máy để học, nhưng không hiểu làm sao lại mất font vntime hoặc vntimeH chỉ còn times new roman. Xin các bác cho cháu hỏi làm thế nào để cài lại được vntime.
+Nguyễn Đức Khương
+Hồi âm:
+Trường hợp mà bạn nói nguyên nhân có thể do khi bạn cài AutoCad14 thì Windows tự add thêm máy in vào trong ContrloPanel\Printer. Cách khắc phục: Bạn vào ContrloPanel\Printer và xoá bỏ máy in được tự động add vào trong máy. Sau khi đã xoá bạn khởi động lại máy tính. Chúc bạn thành công! 
+

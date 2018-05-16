@@ -1,0 +1,16 @@
+Tải driver cho card NVIDIA đời cũ (5)
+Em có 1 card NIVIDIA RIVA TNT2 model 64/model 64 Pro. Nhưng em không biết chỗ nào để tải driver. Mong được sự giúp đỡ của mọi người.
+Cám ơn nhiều.
+Pham Huy Nhat
+Hồi âm:
+Ban co thê vao đia chi dươi đây đê tim cho minh môt phiênban driver thich hơp dung cho chip cua Nividia:ftp://sunsite.org.uk/sites/ftp.guru3d.com/download/guru3d.com/nvidia/(Phiên ban khoang 60.xx la đap ưng đươc yêu câu cua ban)Chuc ban thanh công!
+Y.T. Free Care PC
+Ban hay vao trang web muonline.com chon muc download chon graphic driver roi chon NIVIDIA; tiep do chon TNT2 roi chon windowsXP ( hoac windows 9x tuy theo OS ban dang dung) roi chon nut dowload. 
+Tung Sha
+Lên đây tải về: http://www.nvidia.com/content/drivers/drivers.asp 
+Hung Nam
+Ban Phan Huy Nhat thân mên!
+Ban co thê vao đia chi dươi đây đê tim cho minh môt phiênban driver thich hơp dung cho chip cua nVidia:ftp://sunsite.org.uk/sites/ftp.guru3d.com/download/guru3d.com/nvidia/(Phiên ban khoang 60.xx la đap ưng đươc yêu câu cua ban)Chuc ban thanh công!
+Y.T.
+Đối với Nividia thì bạn không cần tìm vì Win có thể tự update cho bạn. Nhấp phải mycomputerpropertieshardwaredevice managernhấp chuột display adaptersnhấp phải chuột NVIDIAupdate drive , win sẻ tự tìm cho bạn.. nếu bạn muốn download http://members.driverguide.com/driver/detail.php?driverid=30728 ID của bạn là "drivers2", pass "all". 
+

@@ -1,0 +1,6 @@
+Kính thông minh giúp tìm đồ vật
+Các nhà khoa học Anh và Đức đang phát triển một loại kính có thể ghi lại tất cả những gì người sử dụng nhìn thấy. Nó sẽ quay lại toàn bộ ký ức để giúp người đeo nhớ lại những gì mình đã quên, chẳng hạn như để chìa khoá ở đâu.
+Nhóm nghiên cứu tại Đại học Bielefeld và Surrey cho biết, hệ thống bao gồm một tấm kính đeo trước mặt và một chiếc mũ đội đầu có gắn 2 camera. Nó không chỉ ghi lại những gì người dùng nhìn thấy, mà còn cho phép họ gắn thông tin miêu tả với từng loại đồ vật. Những thông tin này được lưu trữ và sẽ hiện lên mỗi khi người dùng nhìn thấy đồ vật đó.
+"Một thợ sửa chữa ô tô có thể nhận biết những bộ phận cần sửa chữa trên chiếc xe. Với người đi đường, hệ thống sẽ cảnh báo những điểm nguy hiểm trên lộ trình", phát ngôn viên của dự án nói.
+Trong những trường hợp khác, cặp kính có thể được hướng dẫn viên du lịch sử dụng để nhận biết những địa danh nổi tiếng. Nhóm nghiên cứu hy vọng sẽ cho ra sản phẩm hoàn chỉnh vào năm sau.
+

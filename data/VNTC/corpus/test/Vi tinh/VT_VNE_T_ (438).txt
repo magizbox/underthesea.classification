@@ -1,0 +1,10 @@
+Nối trực tiếp 2 máy từ cáp USB (1)
+Nhà cháu có 2 máy vi tính, cháu có mua 1 cáp USB ( 13 USD), và cháu chỉ biết sử dụng 1 chức năng đó là truyền dữ liệu giữa 2 máy. Còn về thiết lập mạng cục bộ giữa 2 máy, bằng cáp USB để chơi game, hay thiết lập mạng như trong mạng Lan ( khi co Hub) được không ? Chau co sử dung cáp máy In ( cổng LPT) để nối trực tiếp 2 máy rồi, nhưng tốc độ khi truyền dữ liệu, chơi game chậm ( giật). Giờ Cháu sử dụng Cáp USB, không biết thiết lập cấu hinh làm sao , ngay cả khi co đĩa Driver cua cáp USB, kính mong quý báo giúp đỡ. 
+Mong các cô chú chỉ rõ cách cài đặt trong Win XP, và Win 98, và làm sao để biết 2 máy đang kết nối. Và làm sao nối mang 2 máy bằng cáp USB để chơi game , cũng như nghiên cứu về mạng cục bộ. K
+Khi kết nối bằng USB , các máy ngang hàng có hiện lên các tên máy thiết lập , như ngoài quán game hay quán Net. Và cuối cùng là làm thế nào để chia sẻ kết nối internet giữa 2 máy. Mong câu trả lời rõ ràng và đầy đủ của các cô chú. Chân thành cảm ơn.
+Trần Đại Hải
+Hồi âm:
+Ban co the ket noi tu 2 may hoac nhieu hon xuyen qua cong USB hay ( hub ) ban can them cac mang (2 network adapters: the Ethernet Card, the USB Network Adapter ). Vi ban khong noi ro USB cable cua hang nao ma ban dang su dung nen khong the chi dan ro rang hon duoc vi moi cach cai dat rieng cua ho. Ban co the tham khao 2 links duoi day co kem theo hinh anh chi dan cach cai dat cho tat ca cac HDH rat de su dung: http://www.wown.info/j_helmig/usbmain.htm.
+http://www.laplink.com/tutorials/USBCable.asp. 
+O link thu 2 co chi ro phan (ping) de biet giua 2 may duoc ket noi hay khong. Nen nho them XP cua ban nen cai o ban FAT 32 chu dung cai o bang NTFS. Neu khong thi 98 se khong nhin thay XP va nen tat chuc nang firewall cua XP.
+

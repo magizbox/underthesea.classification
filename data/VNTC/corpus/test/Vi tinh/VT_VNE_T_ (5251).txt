@@ -1,0 +1,6 @@
+Oracle mua 2 hãng Thor Technologies và OctetString 
+Với việc sáp nhập một hãng giải pháp phân cấp tài nguyên liên nền tảng và một nhà cung cấp phần mềm danh mục ảo hàng đầu, Oracle đã củng cố đáng kể hệ thống các sản phẩm quản lý truy cập và định danh cao cấp của họ.
+Oracle đang đầu tư mạnh cho sự phát triển nhanh chóng hệ thống các sản phẩm quản lý định danh đa dạng của mình, Thomas Kurian, Phó Chủ tịch cao cấp phụ trách bộ phận Fusion Middleware của Oracle, phát biểu. Với việc mua lại Thor Technologies và OctetString, Oracle có thể cung cấp một bộ sản phẩm mạnh mẽ nhất tích hợp các công nghệ quản lý định danh tiêu chuẩn.
+Đóng vai trò xương sống bảo mật trong Fusion Middleware, chương trình quản lý định danh của Oracle kết hợp các giải pháp hiện có của họ cùng công nghệ của Thor Technologies và OctetString. Bộ phần mềm này mang đến các tính năng hàng đầu về quản lý truy cập, quản trị định danh, kết hợp định danh, phân cấp người dùng, dịch vụ danh mục, và quản trị dịch vụ Web. 
+Tham khảo thêm thông tin tại www.oracle.com/identity.
+

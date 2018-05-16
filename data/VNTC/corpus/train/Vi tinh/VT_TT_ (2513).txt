@@ -1,0 +1,8 @@
+ HP Vietnam đổi chip nhớ bị lỗi cho khách hàng
+Theo đó, khách hàng sẽ nhận được module bộ nhớ với dung lượng từ 128-256-512 MB mà không thêm bất kỳ chi phí nào. Chương trình này được thực hiện từ ngày 25 tháng 06 năm 2004 đến ngày 31 tháng 12 năm 2004, áp dụng cho tất cả những khách hàng có sở hữu máy tính xách tay HP-Compaq thuộc các dòng sản phẩm: Compaq Evo Notebook N610c, N610v, N620c, N800c, N800v, N800w, N1000c, N1000v; dòng Compaq Presario 1500, 2800, x1000, x1200, HP Compaq Bisiness Notebook nx7000 và HP Pavilion zt3000. 
+Các khách hàng tại Việt Nam có thể gọi điện tới Trung tâm Hỗ trợ Khách hàng của HP Việt Nam (Tel: 08-8234530) để được tư vấn và giải quyết việc đổi module bộ nhớ. Thông tin chi tiết có thể xem tại địa chỉ: http://www.hp.com/support/memoryreplacement/ 
+Hiện nay, Intel, Công ty sản xuất chip lớn nhất thế giới, cũng đang tiến hành thu hồi tất cả các chipset Prescott Pentium 4 (mang mã hiệu là Grantsdale) bị lỗi, sản xuất bằng công nghệ 90 nanomet. Sản phẩm này vừa được đưa ra thị trường đầu tuần trước. 
+Intel cho biết hãng đã tìm thấy lỗi liên quan đến công nghệ quản lý năng lượng có thể khiến máy tính đang sử dụng chipset Grantsdale xử lý sai và dẫn đến mất dữ liệu. Theo người phát ngôn của Intel, lỗi do quá trình sản xuất này hiện đã được khắc phục. 
+Khi chipset thực hiện việc quản lý điện năng, nó đưa module nhớ vào “chế độ tự làm mới”. Chip nhớ có thể chuyển vào hoặc thoát ra khỏi tình trạng này hàng nghìn lần mỗi giây. Trục trặc xảy ra khi module nhớ cố thoát ra khỏi chế độ tự làm mới và khởi động lại. Điều này khiến cho chip nhớ bị hỏng và khiến hệ thống bị lỗi. 
+Những chip nhớ này do Công ty Samsung, Infineon, Micron và Winbond sản xuất. Ngoài laptop của HP, nhiều máy tính của hãng khác cũng bị ảnh hưởng. 
+

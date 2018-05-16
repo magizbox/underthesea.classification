@@ -1,0 +1,8 @@
+Doanh nghiệp đau đầu với quản lý từ khoá 
+Hiện nay, rất nhiều người quan tâm đến công nghệ mã hoá để bảo vệ an toàn dữ liệu nhưng lại phải đối mặt với sự phức tạp trong công tác quản lý từ khoá (key). 
+9% những người được phỏng vấn sở hữu tới hơn 10.000 từ khoá trên server, và 11% có cùng số lượng như thế trong máy tính cá nhân. 16% khác quản lý 1.000 từ khoá cho máy chủ và gần 25% có số lượng key tương đương trên desktop. 
+Tuy nhiên, trên 31% những người quản lý hơn 500 key trong các tổ chức thừa nhận rằng họ không biết hoặc biết rất ít về những hệ thống quản lý từ khoá đang có mặt hiện nay.
+Một hệ thống quản lý được đánh giá sẽ phát triển mạnh trong tương lai là mẫu nền tảng tin cậy TPM (Trusted Platform Modules), hoạt động dựa trên phần cứng, được sử dụng để ngăn chặn truy cập dữ liệu trong ổ cứng laptop hoặc PC. Công nghệ này vẫn đang ở giai đoạn chập chững và sẽ có mặt trong phiên bản hệ điều hành mới Windows Vista.
+Mã hoá đang trở thành một công nghệ quan trọng với sự xuất hiện trong nhiều ứng dụng, từ ứng dụng truyền thống như SSL (bảo mật gói) và VPN (mạng riêng ảo), cho đến những mối quan tâm mới về bảo mật "data-at-rest" (lưu trong cơ sở dữ liệu hoặc một phương tiện trung gian nào đó) để đảm bảo thông tin không bị xâm phạm. 82% doanh nghiệp khẳng định sẽ sử dụng công nghệ mã hoá để bảo vệ tài liệu trong vòng 18 tháng tới.
+Nghiên cứu dựa trên kết quả điều tra 237 nhà quản lý trên toàn thế giới, do công ty chuyên về mã hoá dữ liệu nCipher (Anh) thực hiện
+

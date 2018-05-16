@@ -1,0 +1,5 @@
+Khiếm khuyết lớn trong Adobe Reader
+Công ty tư vấn bảo mật NGSSoftware (Anh) vừa khuyến cáo người sử dụng phiên bản 5.1 của phần mềm Acrobat Reader nên nâng cấp sang phiên bản mới nhất sau khi họ phát hiện một lỗi nghiêm trọng có thể dẫn đến rò rỉ dữ liệu.
+Lỗ hổng có thể gây tràn bộ đệm định dạng dữ liệu trong phiên bản phổ biến nhất của phần mềm. Nó còn có thể bị người có mục đích xấu khai thác để vô hiệu hóa và khống chế một máy tính.
+Nguồn gốc của khiếm khuyết là một sai sót về ranh giới trong phạm vi chức năng gỡ rối (debug) khi phân tách các văn bản ở định dạng dữ liệu biểu bảng XML (".xfdf"). Điều này có thể bị khai thác và gây ra tình trạng tràn bộ nhớ đêm bằng cách lừa người sử dụng xem một văn bản XFDF được thiết kế đặc biệt. NGSSoftware cho biết họ đã liên hệ với Adobe và nhà cung cấp này đảm bảo rằng phiên bản mới nhất, 6.0, của họ hoàn toàn không bị lỗi nói trên.
+

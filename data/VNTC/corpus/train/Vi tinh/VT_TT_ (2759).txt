@@ -1,0 +1,4 @@
+ Chuyển nhạc từ DVD sang MP3 
+Với DVD Audio Extractor, bạn có thể dễ dàng copy chúng, đồng thời có thể vừa copy vừa chuyển chúng thành các dạng file như OGG, MP3 hay Wave để tiết kiệm dung lượng ổ cứng, cũng như có thể chép vào các thiết bị nghe nhạc di động. 
+Chương trình có dung lượng 1,14 MB, tương thích với mọi Windows, tải miễn phí tại: http://www.castudio.org/dvdaudioextractor/dvdaudioextractor.exe . 
+

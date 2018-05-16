@@ -1,0 +1,6 @@
+Truyền file lớn bằng Pumpkin TFTP
+Gửi các tập tin lớn thông qua hệ thống e-mail là việc rất khó vì các mail server đều giới hạn kích thước file đính kèm. Khi đó, bạn cần dùng một website FTP, nếu có đủ hiểu biết về giao thức truyền file này, còn nếu không, hãy đơn giản hóa vấn đề bằng phần mềm miễn phíPumpkin TFTP.
+Với Pumpkin TFTP, bạn không cần chút kiến thức nào về FTP và cũng không phải thông qua mail server. Tất cả những gì bạn cần là vị trí của tập tin trong máy tính và địa chỉ IP đích cần gửi. 
+Chương trình có dung lượng 269 KB dưới định dạng zip. Sau khi tải về, bạn giải nén và chạy file setup. Khi muốn gửi tập tin lớn, bạn chỉ cần tìm file trong ổ nội bộ, nhập địa chỉ IP đích và thiết lập liên kết với thông tin tên người dùng và mật khẩu. Bạn cũng có thể nhập vị trí và tên file cùng với địa chỉ IP của nguồn để nhận các tập tin của các hệ thống từ xa. 
+Bạn có thể tải Pumpkin TFTP tại đây.
+

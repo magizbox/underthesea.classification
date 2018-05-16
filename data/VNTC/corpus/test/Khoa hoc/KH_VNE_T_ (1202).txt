@@ -1,0 +1,9 @@
+Lớp phủ nano giúp kính không đọng sương
+Hãy hình dung những tấm kính không bao giờ đọng hơi nước hoặc phản xạ ánh sáng. Các nhà khoa học Mỹ tin rằng họ đã có trong tay công nghệ để biến nó thành hiện thực, cùng với những chiếc kính bảo hộ, kính cửa ôtô, gương nhà tắm... không phản quang và không đọng nước.
+Michael Rubner từ Viện công nghệ Massachusetts ở Boston và cộng sự đã phát triển một lớp phủ nano chỉ phản xạ 0,2% ánh sáng đập tới. Con số này nhỏ hơn nhiều so với mức phản xạ 2-3% của các lớp phủ chống phản xạ ánh sáng hiện tại.
+Lớp phủ mới cũng hút các giọt nước nhỏ liti vốn thường gây ra hiện tượng đọng sương. Nó bao gồm nhiều lớp sợi polymer và các hạt thuỷ tinh nano, tạo thành một mạng lưới chi chít các lỗ rỗng nhỏ. Nước được hút vào những lỗ rỗng này, tương tự như kiểu hút nước của bọt biển. Kết quả là tạo ra một màng nước mỏng (thay vì một số giọt nước nằm rải rác) không tán xạ ánh sáng và làm tối kính. 
+Rubner cho biết các hạt nano này có đường kính chỉ 7 nanomét (nhỏ hơn 100 lần so với bước sóng ánh sáng nhìn thấy) nên nó giữ cho kính trong suốt. 
+Ngoài ra, quy trình chế tạo cũng rất đơn giản. Các nhà khoa học nhúng bề mặt cần phủ vào một loạt dung dịch, được tích điện âm dương xen kẽ để giúp dính các lớp với nhau. Sau đó họ nung lớp phủ này ở 500 độ C để làm nó cứng hơn và tăng cường sức kháng trầy xước. 
+Công đoạn này đồng nghĩa rằng hiện tại lớp phủ chỉ có thể ứng dụng cho những bề mặt (chẳng hạn kính) chịu được nhiệt độ cao. "Chúng tôi đang tiếp tục nghiên cứu để áp dụng lớp phủ cho những vật liệu có nhiệt độ nóng chảy thấp như nhựa", Rubner nói. 
+Cách đây không lâu, các nhà khoa học của Viện Vật lý ứng dụng và Thiết bị khoa học, thuộc Viện Khoa học Công nghệ Việt Nam cũng đã chế tạo ra sơn tự làm sạch TiO2, mà nếu phủ lên kính sẽ giúp kính không đọng nước. 
+

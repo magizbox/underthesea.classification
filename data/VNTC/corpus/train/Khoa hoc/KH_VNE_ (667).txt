@@ -1,0 +1,8 @@
+Robot gấp giấy
+Một sinh viên Mỹ đã sáng tạo ra một robot có thể chơi trò gập giấy. Môn nghệ thuật cổ truyền của Nhật Bản này bao gồm gấp một tờ giấy thành những mô hình 3 chiều tinh xảo. Nó khá đơn giản với nhiều người nhưng lại là một thách thức với robot.
+Thông thường robot chỉ được thao tác trên những vật liệu cứng chứ không phải như giấy mềm và mỏng. Lên chương trình để robot vận hành tạo ra các mô hình cũng cần những tính toán phức tạp.
+Nhưng Devin Balkcom, sinh viên tại Đại học Carnegie Mellon ở Pittsburgh, đã thiết kế và xây dựng nên một robot có thể tạo ra những mô hình bằng giấy đơn giản như máy bay và mũ. Robot giữ tờ giấy bằng một ống hút và tạo ra các nếp gấp bằng cách ấn tờ giấy vào các khe. 
+"Chúng tôi đang tiếp tục tìm hiểu những kỹ năng gấp giấy phức tạp hơn như gấp ngược, gấp nhét... mà cần nhiều thao tác đồng thời để tạo ra nhiều nếp gấp trái chiều nhau", Balkcom cho biết.
+Huosheng Hua, nhà nghiên cứu robot tại Đại học Essex ở Anh, nhận định việc xây dựng những robot có thể thao tác trên các vật liệu khác nhau là rất quan trọng nếu muốn đưa chúng vào môi trường sống của con người.
+"Một đứa bé 5-6 tuổi có thể buộc dây giầy, nhưng chưa robot nào làm được điều đó. Nó quá mềm dẻo", Huosheng Hua nói.
+

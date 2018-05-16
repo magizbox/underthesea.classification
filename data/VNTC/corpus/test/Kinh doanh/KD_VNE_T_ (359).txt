@@ -1,0 +1,28 @@
+Sẽ áp dụng giá cước di động mới từ 1/5
+Một quan chức của Bộ Bưu chính Viễn thông cho biết, bộ đã đồng ý với đề nghị giảm cước mà Tổng công ty Bưu chính viễn thông đệ trình. Tuy nhiên, hiện vẫn chưa có quyết định chính thức vì VNPT xin lùi thời điểm áp dụng đến 1/5, chậm hơn 1 tháng so với đề nghị ban đầu.
+Theo vị quan chức trên, VNPT xin lùi thời điểm áp dụng giá cước mới do chưa điều chỉnh được hệ thống tổng đài. 
+Theo dự kiến ban đầu, năm nay cả hai mạng VinaPhone và MobiFone sẽ có thêm 1,6 triệu thuê bao. Nếu được giảm cước, VNPT sẽ phải tính toán cân nhắc lại số tiền đầu tư cho hai mạng để đảm bảo chất lượng khi số thuê bao tăng vọt. Nhiều chuyên gia trong ngành cho rằng, với hạ tầng mạng và tốc độ đầu tư như hiện nay, VNPT khó có thể mạnh tay giảm cước xuống mức thấp nhất.
+Trong khi đó, các đối thủ của VNPT đang đau đầu tìm biện pháp đối phó, lo nhất là S-Fone. Một quan chức của công ty này bình luận: "Chỉ cần VNPT tính block 40 giây hay 50 giây thì số lượng thuê bao của họ đã tăng rất nhiều, nay họ lại tính block 30 giây. S-Fone dù cố gắng lắm mới chỉ phủ sóng được hơn 12 tỉnh thành và chưa có dịch vụ nhắn tin, nên khó mà cạnh tranh được. VNPT giảm cước, thì không chỉ chúng tôi mà khó có một doanh nghiệp mới nào theo kịp", vị quan chức này nói. Giải pháp duy nhất mà S-Fone có thể áp dụng được là giảm cước hòa mạng và thuê bao.
+Công ty điện tử viễn thông quân đội Viettel cho biết cũng đang cân nhắc kỹ phương án tính cước theo block 10 giây. "Khách hàng sử dụng di động thường rất ngại thay số, vì thế chúng tôi nhắm chủ yếu đến đối tượng thuê bao mới. Tuy nhiên, ra sau (dự kiến quý III năm nay), Viettel phải có cách tính cước hấp dẫn mới thu hút được họ", đại diện công ty cho biết. Tuy có thế mạnh về đường truyền riêng, lại sử dụng cùng công nghệ GSM, Viettel không gặp khó khăn về kết nối nhắn tin nhưng mức độ đầu tư của doanh nghiệp còn hạn chế, do đó phạm vi phủ sóng trong trước mắt không thể rộng bằng 2 mạng VinaPhone và MobiFone.
+Giá cước mới theo đề nghị của VNPT:
+Loại cước
+Giá bao gồm VAT (đồng)
+Cước liên lạc nội vùng trả sau (đồng/30giây)
+800-900
+Cước liên lạc liên vùng trả sau (đồng/30giây)
+1.200-1.350
+Cước liên lạc nội vùng trả trước (đồng/30giây)
+1.300-1.650
+Cước liên lạc liên vùng trả trước (đồng/30giây)
+1.750-2.100
+Cước liên lạc nội vùng trả trước thuê bao ngày (đồng/30giây)
+900-1.050
+Cước liên lạc liên vùng trả trước thuê bao ngày (đồng/30giây)
+1.400-1.550
+Cước thuê bao/tháng (đồng/tháng)
+80.000-120.000
+Cước thuê bao ngày (đồng/ngày)
+2.000-2.700
+Cước đấu nối hòa mạng 
+200.000-400.000
+

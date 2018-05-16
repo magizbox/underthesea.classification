@@ -1,0 +1,55 @@
+Giảm cước thuê kênh quốc tế - thật hay ảo? 
+Trước quyết định hạ cước thuê kênh 10-30% của Bộ Bưu chính Viễn thông, các nhà cung cấp dịch vụ tỏ ra dè dặt khi đề cập đến việc giảm giá Internet. Họ cho rằng mức cước hiện quá thấp, cứ tiếp tục chạy đua giảm giá sẽ kéo nhau cùng chết.
+Ông Vũ Hoàng Liên, Giám đốc VDC, cho hay hiện công ty này chưa quyết định giảm cước. Tuy nhiên, nếu các IXP khác hạ giá, VDC sẽ khẩn trương tính toán để có mức giảm phù hợp.
+Bà Nguyễn Thị Cúc, Phó giám đốc Sài Gòn Postel, cũng cho biết công ty này vẫn phải thuê kênh quốc tế của Công ty viễn thông quốc tế với giá đắt gấp 4 lần VTI thuê từ nước ngoài. Bộ quyết định giảm ít như vậy, doanh nghiệp khó có thể hạ cước Internet nữa.
+Cùng quan điểm này, cách đây 3 tuần, Công ty Truyền thông FPT cũng đã gửi kiến nghị Bộ Bưu chính Viễn thông xin điều chỉnh giá cước thuê kênh quốc tế với mức giảm tối thiểu là 50%. Theo giải trình của công ty, phần cước trả cho phía Việt Nam chiếm tới 79,9% tổng chi phí thuê kênh và hiện cao gấp gần 4 lần mức cước tương tự ở những nước khác trong khu vực.
+Ông Trương Đình Anh, Tổng Giám đốc Công ty Truyền thông FPT, cũng cho biết mức giảm cước như hiện nay chứa đựng những yếu tố rất mập mờ nhằm trấn an dư luận và bảo vệ quyền lợi của Tổng Công ty Bưu chính Viễn thông Việt Nam (VNPT) như báo chí trước đây đã nêu về những đợt giảm giá ảo.
+Dẫn chứng là mức giảm giá trên 30% chỉ áp dụng cho các kênh tốc độ thấp như 2 Mbps còn đối với kênh tốc độ cao như 34 Mbps, 45 Mbps thì mức giảm cước đều ở mức 8%. Cho nên, đợt giảm cước này hầu như không có tác dụng thúc đẩy thị trường Internet khi các IXP đều hướng tới việc thuê các kênh tốc độ cao nhằm đáp ứng nhu cầu kết nối Internet băng rộng.
+Ông Anh cũng nói hài hước: "Các đợt giảm cước viễn thông quốc tế gần đây, Bộ Bưu chính Viễn thông đã áp dụng một chiến thuật như câu chuyện ngụ ngôn về người nông dân và con quỷ. Người nông dân trồng ngô khi con quỷ đòi ăn củ, trồng khoai khi con quỷ đòi bắp...".
+Cách đây vài năm khi các IXP mới đủ sức thuê các kênh tốc độ thấp thì Bộ giảm giá các kênh tốc độ cao. Khi các IXP thuê kênh chính ở Hà Nội, TP HCM thì Bộ giảm giá thuê kênh ở Đà Nẵng, Vũng Tàu. Còn giờ khi các IXP cần thuê kênh tốc độ cao thì Bộ giảm giá các kênh tốc độ thấp. Bộ giảm giá cước thuê kênh ở Hà Nội, TP HCM. nhưng cước thuê kênh ở các điểm cập bờ cáp quang (Đà Nẵng, Vũng Tàu) - nơi các IXP đang thuê kênh thì gần như không có sự thay đổi.
+Nói cách khác, theo Ông Trương Đình Anh, Bộ Bưu chính Viễn thông chỉ giảm những loại cước, ở những nơi mà các doanh nghiệp viễn thông ngoài VNPT không thuê hoặc không có khả năng thuê.
+Theo dự báo của các chuyên gia viễn thông, doanh nghiệp có thể không thông báo giảm cước nhưng họ sẽ tiếp tục tung ra các chương trình khuyến mại hấp dẫn. Đây thực tế là cách hạ giá linh hoạt, tùy thực tế doanh nghiệp có thể điều chỉnh cho phù hợp.
+Một số giá thuê kênh quốc tế mới: 
+Bảng giá cước thuê kênh quốc tế tại Đà Nẵng, Vũng Tàu
+Tốc độ kênh
+Cước cũ (USD)
+Cước mới (USD)
+Tỷ lệ giảm
+2 Mbps
+10,000
+9,000
+10.00%
+34 Mbps
+96,000
+88,300
+8.02%
+45 Mbps
+132,000
+121,400
+8.03%
+155 Mbps
+310,000
+285,200
+8.00%
+Bảng giá cước thuê kênh quốc tế tại Hà Nội, TP HCM
+Tốc độ kênh
+Cước cũ (USD)
+Cước mới (USD)
+Tỷ lệ giảm
+2 Mbps
+15,897
+11,200
+29.55%
+34 Mbps
+152,611
+99,100
+35.06%
+45 Mbps
+209,840
+141,200
+32.71%
+155 Mbps
+500,756
+341,900
+31.72%
+

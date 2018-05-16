@@ -1,0 +1,13 @@
+Phần mềm kế toán MISA-AD
+Chương trình có khả năng đáp ứng đầy đủ các nghiệp vụ của kế toán hành chính sự nghiệp với một quy trình gồm 9 phân hệ. Phiên bảnMISA-AD 6.0đã dành cup bạc tại triển lãm công nghệ thông tin và truyền thông 2004 tại Hà Nội.
+So với phiên bản cũ, MISA-AD 6.0 có nhiều cải tiến lớn cả về hình thức cũng như nghiệp vụ kế toán. Giao diện chương trình có nhiều hình ảnh trực quan và ngôn ngữ hiển thị bằng tiếng Việt. 
+Các phân hệ trong chương trình này bao gồm: Hạn mức, Thu chi, Mua hàng-bán hàng, Kho, Tài sản, Tiền lương, Thuế, Dự án và Sổ cái.
+Có ý nghĩa trung tâm và quan trọng nhất trong cấu trúc củaMISA-AD 6.0 là phân hệ Sổ cái. Module này có chức năng kết chuyển nguồn kinh phí từ năm nay về năm trước khi báo cáo tài chính của đơn vị chờ duyệt quyết toán, nhập các bút toán tổng hợp như: quyết toán, thanh toán tạm ứng nhân viên... Nó cũng có khả năng khoá sổ toàn bộ chứng từ đã nhập thuộc một hoặc nhiều phân hệ kế toán trong khoảng thời gian do người dùng lựa chọn. 
+Trong MISA-AD 6.0mỗi phần hành chính kế toán có một quy trình hạch toán riêng trên các giao dịch liên quan như: dự toán chi, tiền mặt tại quỹ, tiền gửi ngân hàng, kho bạc, vật tư hàng hoá, công cụ dụng cụ tài sản cố định tiền lương...
+Phần mềm cũng cung cấp biểu mẫu, báo cáo hoạt động có thu và cho phép nhập các chỉ tiêu dự toán phục vụ cho báo cáo. Người sử dụng có thể dễ dàng thực hiện thao tác thêm mới, sửa đổi hoạt động sản xuất, cung ứng dịch vụ.
+Ngoài ra, MISA- AD 6.0còn đáp ứng thêm các báo cáo bổ sung, bảng tính khấu hao tài sản cố định, sửa đổi báo cáo tài chính tổng hợp tình hình kinh phí và quyết toán đã sử dụng.
+Sau khi thực hiện các nghiệp vụ kết toán trên phần mềm, MISA-AD 6.0 cho phép người sử dụng thiết lập lịch sao lưu tự động dữ liệu định kỳ theo ngày, tuần hoặc tháng mỗi khi thoát khỏi chương trình. Vì vậy, số liệu kế toán luôn được bảo đảm đã được lưu giữ. Trong trường hợp cơ sở dữ liệu đang làm việc bị hỏng hoặc mất mà không thể khắc phục, chức năng phục hồi database sẽ giúp lấy lại số liệu tại thời điểm sao lưu gần nhất.
+Bên cạnh đó, hệ thống mục lục ngân sách sẽ quản lý và hạch toán theo chương, loại khoản, mục, tiểu mục do Bộ Tài chính ban hành. Khi các số liệu kế toán được cập nhật, hệ thống sẽ tự động tổng hợp số liệu lên các báo cáo.
+MISA-AD 6.0 tương thích với các hệ điều hành Windows 95, 97, 98, 2000 hoặc NT cùng bộ font chữ tiếng Việt và bộ gõ ABC. Để chạy được phần mềm này, cấu hình PC cần: CPU 100 MHz trở lên, RAM từ 16 MB, ổ cứng còn trống ít nhất 20 MB.
+Công ty MISA, nhà thiết kế sản phẩm này, cho biết giá bán toàn bộ chương trìnhMISA-AD (có kèm đào tạo và bảo hành) là 9.350.000 đồng.
+

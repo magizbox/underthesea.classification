@@ -1,0 +1,8 @@
+Chuyển vùng sóng di động bằng chip điều khiển
+Intel vừa tuyên bố đạt được thành công trong việc tạo ra một thiết bị điều khiển các tín hiệu không dây. Chip này được phát triển để đáp ứng nhu cầu về khả năng chuyển vùng qua nhiều mạng khác nhau ở bất cứ đâu trên thế giới.
+Manny Vara, nhà chiến lược công nghệ của Intel, cho biết chip này bao gồm một radio, bộ khuếch đại năng lượng và nhiều thành tố khác giúp giảm kích cỡ và giá thành chip không dây.
+Loại chip này có thể điều chỉnh nhiều tín hiệu khác nhau như Internet không dây WiMax, tín hiệu trong phạm vi nhỏ Wi-Fi, tín hiệu Bluetooth và sóng di động cùng lúc. Nếu một mạng nào đó bị nghẽn, điện thoại sẽ tự động chuyển sang mạng khác.
+"Chúng tôi muốn tạo ra một công nghệ cho phép bạn chỉ cần sử dụng một chip có khả năng tự cấu hình lại được", Vara cho biết. "Người dùng sẽ không phải thực hiện bất cứ điều gì để chuyển đổi".
+"Đây là sự phát triển mang tính cách mạng", Sam Lucero, chuyên gia phân tích tại hãng nghiên cứu thị trường In-Stat (Mỹ), nhận định. "Tuy nhiên, còn rất nhiều việc phải làm để kết hợp tất cả các tính năng, như bộ khuếch đại..., vào trong một chip đơn".
+Nhiều nhà quan sát cũng khẳng định điện thoại di động tích hợp Wi-Fi sẽ sớm xuất hiện với loại chip truyền thống. Thời gian cần để phát triển chip tinh xảo cho phép chuyển mạng không dây vẫn chưa thể dự đoán trước được.
+

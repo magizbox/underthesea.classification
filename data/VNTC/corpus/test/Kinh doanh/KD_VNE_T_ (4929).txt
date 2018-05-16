@@ -1,0 +1,31 @@
+VN-Index loạn số trên bảng điện tử
+Theo thông báo phát đi chiều thứ 6 tuần trước của TTGDCK TP HCM, từ phiên giao dịch sáng nay, các sai sót của chỉ số VN-Index từ 22/7 sẽ được điều chỉnh. Nhưng trong buổi sáng, bảng giao dịch tại các công ty chứng khoán vẫn chưa được sửa và chỉ số nhảy loạn xạ, có lúc giảm tới 13 điểm.
+Kết thúc đợt 1, chỉ số VN-Index hiện trên bảng là 250,27 điểm, giảm 11,31 điểm; kết thúc đợt 2 là 248,87 điểm, giảm tới 12,71 điểm. Do chưa cập nhật lại chỉ số các ngày từ 22/7 đến 5/8 nên đã có sự sai khác về hiệu số. Nhà đầu tư phản ánh tình trạng loạn số này chưa bao giờ xảy ra.
+Đến hết phiên giao dịch, chỉ số vẫn chưa được sửa.
+Trưởng phòng giao dịch một công ty chứng khoán lớn cho hay, nguyên nhân của tình trạng trên là do TTGDCK TP HCM đã thông báo điều chỉnh chỉ số và lấy khởi điểm mới để tính toán, trong khi hệ thống phần mềm vẫn chưa được thay đổi khiến máy ngầm hiểu là chỉ số cũ và tính mức chênh lệch VN-Index tăng vọt. Trong khi đó, do đẩy tự động nên dữ liệu từ TP HCM đổ ra thế nào các công ty đẩy lên mạng y như thế. Muốn đúng, họ phải sửa lại bằng tay, nhưng đây là việc tối kỵ trong giao dịch chứng khoán. Theo ông này, do hệ thống tính chỉ số nhập từ Thái Lan nên TTGDCK TP HCM sẽ phải chờ chuyên gia của họ sang sửa thì mới khắc phục được.
+Một chuyên viên kỹ thuật của công ty chứng khoán lại cho rằng do trung tâm thông báo điều chỉnh chỉ số quá muộn, mãi cuối giờ chiều ngày 5/8 tuần trước, sau đó lại là 2 ngày nghỉ, nên dù có muốn điều chỉnh bảng giao dịch bằng tay họ cũng không có nhân lực để làm.
+Theo nhận xét của khá đông nhà đầu tư, tuy giao dịch của họ không bị ảnh hưởng do giá cổ phiếu vẫn hiển thị chính xác nhưng việc theo dõi bảng điện tử rất khó khăn, tạo tâm lý khó chịu khi đặt lệnh. Hơn nữa, với một TTGDCK, lỗi như vậy thể hiện sự nhếch nhác trong hệ thống máy móc - vốn được coi là rất hiện đại trong mắt công chúng.
+Trước đó, theo thông báo của TTGDCK TP HCM, chỉ số các ngày từ 22/7/2005 đến 5/8/2005 được điều chỉnh lại như sau: 
+Ngày 22/7
+Ngày 25/7
+Ngày 26/7
+Ngày 27/7
+Ngày 28/7
+245,77
+246,31
+245,95
+244,24
+243,67
+Ngày 29/7
+Ngày 1/8
+Ngày 2/7
+Ngày 4/8
+Ngày 5/8
+245,53
+245,48
+247,96
+253,51
+250,93
+Vn-Index nhảy số do sử dụng sai hệ thống tính(02/08/2005)
+Thị trường bất ngờ phiên cuối tuần(23/07/2005)
+

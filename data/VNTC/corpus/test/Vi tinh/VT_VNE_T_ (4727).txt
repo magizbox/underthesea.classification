@@ -1,0 +1,8 @@
+Oracle phát hành gói cơ sở dữ liệu miễn phí 
+Chỉ vài ngày sau khi MySQL được nâng cấp lên phiên bản 5.0, hãng Oracle tuyên bố sẽ phát hành phần mềm database miễn phí với một số tính năng hạn chế nhằm cạnh tranh hiệu quả hơn tại thị trường cấp thấp.
+Bản thử nghiệm Oracle Database 10g Express Edition, dành cho hệ thống Linux và Windows 32 bit, có thể được tải miễn phí hoặc thông qua sản phẩm của bên thứ ba. Bản chính thức sẽ ra mắt vào cuối năm. Công ty hy vọng sẽ thu hút được một lượng lớn "những người mới sử dụng" là các nhà phát triển, các hãng cung cấp phần mềm độc lập (ISV), giảng viên và sinh viên... 
+Phần mềm mới được phát triển trên cùng một mã cơ sở như database 10g hiện nay của Oracle, nhưng có những giới hạn nhất định như 4 GB dữ liệu, RAM 1 GB và chỉ được sử dụng trên một thiết bị xử lý cho mỗi server. Tập đoàn phần mềm Mỹ cho rằng khách hàng sẽ dùng thử bản miễn phí và nâng cấp lên sản phẩm thương mại nếu cần thêm dung lượng lưu trữ trong quá trình quản lý.
+Oracle hiện dẫn đầu thị trường cơ sở dữ liệu với đối thủ chính là IBM. Nhưng SQL Server của Microsoft cũng đang nhanh chóng giành được vị trí đáng kể. Hãng phần mềm của Bill Gates đang chuẩn bị cung cấp bản cập nhật SQL Server 2005 với gói SQL Server Express miễn phí. 
+Database 10g Express Edition cũng sẽ giúp Oracle đối phó với MySQL 5.0, gồm nhiều tính năng quan trọng cho doanh nghiệp và hứa hẹn sẽ chiếm một thị phần lớn của nhà cung cấp Thụy Điển MySQL AB.
+Tháng trước, Oracle đã mua Innobase, công ty mã nguồn mở Phần Lan chuyên phát triển công cụ lưu trữ sử dụng MySQL phổ biến. Oracle khẳng định Innobase sẽ tiếp tục hoạt động với MySQL, tuy nhiên giới quan sát nhận thấy động thái đó chỉ nhằm mục đích làm suy yếu niềm tin vào cơ sở dữ liệu mã mở.
+

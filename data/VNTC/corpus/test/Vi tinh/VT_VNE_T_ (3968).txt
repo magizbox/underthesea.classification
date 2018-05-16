@@ -1,0 +1,10 @@
+Sẽ có chuẩn mới thay thế VGA và DVI
+Người tiêu dùng sắp cơ hội dùng PC, TV và máy chiếu với hình ảnh sắc nét hơn nếu chuẩn kỹ thuật mới cho màn hình qua được vòng kiểm tra cuối cùng.
+Hiệp hội các chuẩn điện tử video VESA đang xem xét đề án phát triển mới nhằm tăng màu, độ phân giải và tốc độ refresh, cũng như đơn giản hoá phương pháp máy tính kết nối tới màn hình LCD, Plasma, CRT và máy chiếu.
+Bộ thông số này mang tên DisplayPort, cho phép âm thanh chất lượng cao vẫn có thể chia sẻ chung dây cáp với tín hiệu video và hỗ trợ tốc độ truyền dữ liệu lên tới 10,8 Gb/giây chỉ qua 4 đường, ít hơn so với số đường dây cáp hiện nay.
+Chất lượng hình ảnh cũng được cải thiện đáng kể do băng thông rộng hơn và sử dụng cơ chế refresh hình ảnh thay vì tải lại (reload), giúp nâng cao khả năng hiển thị.
+"Chuẩn mới được thiết kế để thay thế bộ nối DVI (giao diện ảo số - digital visual interface) và VGA (dãy đồ hoạ video - video graphics array) đã được công nhận từ nhiều năm nay", Bill Lempesis, thành viên của VESA, cho biết.
+Bộ nối VGA và DVI là cổng cắm nhiều chân phía sau PC và những thiết bị điện tử khác. VESA cho rằng VGA chiếm quá nhiều diện tích và không phù hợp với nội dung HD (chất lượng cao). Giao diện DVI hỗ trợ TV chất lượng cao nhưng lại không cho phép tương tác giữa các thiết bị như DisplayPort.
+Các công ty ATI, Dell, Genesis Microchip, Hewlett-Packard, Molex, Nvidia, Royal Philips, Samsung và Tyco đã soạn thảo chuẩn nói trên từ tháng 5 và vừa đệ trình lên VESA đầu tuần này.
+Tuy nhiên, Paul Semenza, chuyên gia phân tích của iSuppli, không tán thành sự ra đời của một chuẩn mới: "Với DisplayPort, sẽ có nhiều vấn đề phát sinh trong quá trình thay đổi kết nối và nó khó có thể thế chân DVI hay HDMI (giao diện đa phương tiện chất lượng cao)".
+

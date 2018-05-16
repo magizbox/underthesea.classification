@@ -1,0 +1,6 @@
+Chuyên file .jpg vao điên thoai Nokia 6800 (1)
+Em muôn hoi la phai dung phân mềm nao đê mơi co thê chuyên file .jpg vao may điên thoai Nokia 6800 qua công hông ngoai cua may tinh xach tay (dung XP).
+phungminhhieu
+Hồi âm:
+Để chuyển dữ liệu sử dụng cổng hồng ngoại, bạn không cần phầm mềm nào khác ngoài hệ điều hành. Bạn chỉ cần đặt máy ĐT vào cạnh máy tính, để 2 cổng hồng ngoại của 2 thiết bị này gần và "nhìn thấy" nhau. Tiếp theo, bạn sẽ thấy có một biểu tượng xuất hiện trên desktop của máy tính, bạn nhấn đúp chuột vào biểu tượng này và thực hiện một số thao tác đơn giản để chuyển dữ liệu. 
+

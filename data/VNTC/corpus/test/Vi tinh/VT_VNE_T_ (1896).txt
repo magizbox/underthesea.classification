@@ -1,0 +1,7 @@
+Virus lợi dụng tiêu đề tin tức của CNN
+Một chương trình tấn công vừa bắt đầu phát tán qua e-mail, lừa nạn nhân bằng cách giả dạng là bản tóm lược tin tức (headlines newsletter) của hãng truyền thông Mỹ.
+Hãng bảo mật Anh Sophos đặt tên virus này là Crowt.A và cho biết nó không có một dòng chủ đề (subject) cố định hoặc những đặc điểm tiêu biểu khác. Thay vào đó, virus phát đi những bức thư với tiêu đề và cả nội dung cùng phần đính kèm đều được lấy từ những tin tức mới nhất trên website của CNN. 
+Khi người nhận e-mail mở file đính kèm chứa virus, Crowt.A sẽ cài một chương trình cho phép kẻ tấn công từ xa khai thác PC nạn nhân. Một chương trình chuyên ghi lại hoạt động bàn phím cũng sẽ được cài vào máy tính và rình chộp thông tin đăng nhập các tài khoản bí mật của người sử dụng. Hiện chưa có nhiều người thông báo bị nhiễm virus này.
+Hacker luôn luôn tìm ra những thủ đoạn mới để lừa người sử dụng máy tính kích hoạt virus. Đây là trường hợp mới nhất nhắm vào những người hay đăng ký nhận bản tóm lược tin, Carole Theriault, chuyên gia an ninh của Sophos, phát biểu.
+Sự kiện bảo mật liên quan đến CNN gần đây nhất là năm 2000 khi website của công ty chủ quản Time Warner cùng một số trang web khác trở thành nạn nhân của các cuộc tấn công từ chối dịch vụ.
+

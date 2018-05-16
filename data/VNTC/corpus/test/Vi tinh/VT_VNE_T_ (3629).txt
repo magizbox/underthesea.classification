@@ -1,0 +1,9 @@
+1 USD cho tên miền .org tại nước đang phát triển 
+Khách hàng ở những quốc gia nghèo và đang phát triển sẽ có cơ hội sở hữu địa chỉ đuôi .org giá rẻ qua hệ thống đăng ký phi lợi nhuận PIR (Public Interest Registry).
+Dự án này sẽ mang lại lợi ích cho chính PIR khi có khả năng phân phối được nhiều hơn tên miền .org mà nhà cung cấp này đã kiểm soát từ tháng 1/2003. Với gần 4 triệu địa chỉ đang tồn tại, .org là hệ thống tên miền lớn thứ 5 trên mạng Internet.
+Giá duy trì địa chỉ .org mỗi năm là 6 USD, nhưng chúng thường bị tăng thêm vài USD khi đến tay khách hàng. Bắt đầu từ tháng 7, PIR đã cho phép hạ bớt hẳn 5 USD đối với mọi địa chỉ ở khu vực Mỹ Latin và Ấn Độ. 
+Nhà cung cấp này không bị bắt buộc phải hạ giá thành cho người sử dụng, nhưng Edward Viltz, Chủ tịch và Giám đốc điều hành PIR, khẳng định ông đang nỗ lực để mang lại nhiều cơ hội hơn cho những ai muốn sở hữu riêng một không gian trên mạng.
+PIR sẽ cung cấp địa chỉ với 8 phiên bản ngôn ngữ, bao gồm Đan Mạch, Hungari, Iceland, Hàn Quốc, Latvia, Lithuania, Ba Lan và Thụy Điển bắt đầu từ ngày 23/7, song song với hệ thống tiếng Đức có sẵn, mở ra một chân trời mới cho các tên miền quốc tế hóa(IDNs).
+Tất cả những địa chỉ đăng ký thuộc 8 ngôn ngữ mới trong khoảng thời gian từ 23/7 đến 22/8 sẽ được lưu lại tới 21/9 để các công ty có cơ hội kiểm tra lại những vấn đề về sở hữu trí tuệ trước khi xuất hiện trên thị trường.
+IDNs hiện tại không tương thích với Internet Explorer (IE), nhưng trình duyệt này đang mất dần thị trường vào tay Firefox vốn hỗ trợ IDNs. Giới quan sát dự đoán rằng Microsoft sẽ tích hợp chương trình cho IDNs trong phiên bản Beta IE 7 xuất hiện vào mùa hè này.
+

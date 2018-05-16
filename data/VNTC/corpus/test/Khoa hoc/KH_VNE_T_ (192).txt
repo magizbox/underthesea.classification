@@ -1,0 +1,8 @@
+Sẽ 'dán nhãn' tất cả các sinh vật sống
+Các nhà khoa học chuẩn bị thiết lập một catalogue khổng lồ về sự sống, trong đó tất cả các loài trên trái đất, từ những sinh vật phù du tí hon tới những con cá voi xanh khổng lồ, đều được gắn mã số mã vạch. 
+Bước đầu dự án sẽ tập trung vào các loài chim và cá, ghi lại những thông tin chi tiết về gene của chúng - thông tin có thể giúp xác định một loài đã tiến hoá từ loài nào khác. 
+Dự án được công bố tại Hội thảo quốc tế về việc Mã hoá Sự sống, diễn ra tại London. Các nhà nghiên cứu thừa nhận phải mất nhiều năm mới có thể hoàn tất công trình đồ sộ này. 
+"Khoảng 1,7 triệu loài hiện đã được biết tới. Chúng tôi phỏng đoán có khoảng 10 đến 30 triệu loài trên trái đất", tiến sĩ Richard Lane, giám đốc khoa học tại Bảo tàng Lịch sử Tự nhiên ở London, cho biết. 
+Chi phí cho mỗi mẫu xét nghiệm gene khoảng 1,8 đôla. Dữ liệu sau đó sẽ được đưa vào một kho thông tin khổng lồ để cung cấp cho các nhà khoa học nghiên cứu trên những loài cụ thể. 
+Mỗi mã vạch là những thông tin mà các nhà phân loại loài, các nhà lịch sử tự nhiên và sinh thái học đã tích luỹ trong 200 năm qua. Mã vạch ADN sẽ khiến cho việc phân loại loài dễ dàng hơn, đặc biệt khi các phương pháp truyền thống không hiệu quả. Chỉ nguyên việc biết rõ các loài trên trái đất cũng sẽ giúp trả lời một số câu hỏi kinh điển trong sinh thái học và tiến hoá. Cùng với những thông tin đó, chúng ta sẽ đưa ra những chính sách tốt hơn trong việc quản lý và bảo tồn thế giới. 
+

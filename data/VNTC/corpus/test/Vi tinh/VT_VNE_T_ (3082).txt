@@ -1,0 +1,8 @@
+Trang web cập nhật thông tin về zombie mới
+Người dùng Internet thường được cảnh báo về máy tính nhiễm virus qua mạng giờ đã có thể xác định được mức độ nguy hiểm là bao nhiêu bằng việc ghé thăm nguồn ZombieMeter mới của hãng CipherTrust (Anh).
+Hãng bảo mật này đã thêm một công cụ đo mới cho trang web, để cập nhật thông tin từng giờ cho mọi người về hoạt động của những zombiemới trên toàn thế giới, bằng cách thu thập dữ liệu nhận được qua ứng dụng bảo mật IronMail. 
+Zombie là những máy tính kết nối Internet đã nhiễm mã nguy hiểm, bị hacker điều khiển từ xa để tạo ra các cuộc tấn công từ chối dịch vụ hoặc gửi thư rác.
+Mặc dù CipherTrust chỉ quản lý hoạt động của zombie dựa trên dữ liệu từ ứng dụng e-mail trong mạng, hãng đã tổng hợp được trung bình 172.009 zombie mới mỗi ngày chỉ trong 3 tuần thử nghiệm đầu tiên trong tháng 5. 
+Trong số này, Mỹ chiếm tới 20% và Trung Quốc là 15%. Liên minh châu Âu EU được coi là "căn nhà ảo" chứa chấp zombie bởi có tới 26% hệ thống máy tính ở đây bị nhiễm chỉ trong 3 tuần với 6% ở Đức, 5% tại Pháp, và 3% ở Anh. Zombie cũng là nỗi ám ảnh của Hàn Quốc khi chiếm tới 10% tỷ lệ máy tính mới bị nhiễm virus. 
+Các nhà quản lý tin học cho rằng những thông tin này hoặc sẽ làm cho người dùng máy tính tại nhà luôn trong trạng thái nghi hoặc, lo sợ về zombie, hoặc sẽ thuyết phục được họ nâng cấp phần mềm chống virus.
+

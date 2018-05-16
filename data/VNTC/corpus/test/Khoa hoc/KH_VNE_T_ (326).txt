@@ -1,0 +1,7 @@
+Thanh toán bằng vân tay
+Một siêu thị trong chuỗi siêu thị thực phẩm Edeka hàng đầu tại Đức đã đi tiên phong trong phương thức thanh toán mới: bằng vân tay. Khi tính tiền, khách hàng chỉ cần đặt ngón tay vào một máy quét, máy sẽ đọc các thông tin sinh trắc học của họ. 
+Máy tính sẽ đối chiếu vân tay thu được với những thông tin đã lưu trữ. Sau đó, người thu ngân sẽ tiến hành giao dịch bình thường như loại thanh toán thẻ. Nhờ đó, khách hàng không phải mất công lục tìm thẻ tín dụng trong ví, và cũng không lo mất thẻ ở nơi đông người. Kỹ thuật được áp dụng tại thị trấn Ruelzheim, tây nam Đức kể từ tháng 11/2004. 
+Để thực hiện thanh toán bằng vân tay, khách hàng phải đăng ký các chi tiết cá nhân gồm chứng minh thư, tài khoản ngân hàng, bản sao dấu vân tay với hệ thống siêu thị. Các mẫu vân tay được lưu trữ trên một máy chủ cục bộ, mà theo nhà sản xuất là không thể truy cập từ bên ngoài.Nhiều nhóm tiêu dùng đã bày tỏ e ngại về phương pháp này. Họ cho biết vấn đề bảo mật còn lớn hơn những tiện ích mà hệ thống thanh toán mới mang lại.
+Song các khách hàng tại chi nhánh Ruelzheim vui vẻ đón nhận hình thức thanh toán độc đáo này. Đến nay đã có 100 người đăng ký sử dụng, và trong tháng 4 tới, hệ thống thanh toán tương tự sẽ được lắp đặt cho các siêu thị của Edeka trong toàn vùng. 
+Lãnh đạo Edeka cho biết họ tin tưởng hệ thống sẽ không bị lợi dụng vào mục đích xấu, bởi xác suất để hai người có cùng dấu vân tay chỉ là 1 phần 220 triệu. 
+

@@ -1,0 +1,11 @@
+Tin vắn ngày 8/9
+Ngày phần mềm tự do và mã nguồn mở tại Hà Nội Công ty cổ phần phát triển đầu tư công nghệ FPT và Hệ thống thông tin FPT trở thành đối tác cao nhất của Oracle Sài Gòn Tiếp Thị ra mắt báo điện tử.
+Sáng 10/9, tại Viện Công nghệ thông tin (IOIT), Viện Khoa học và công nghệ Việt Nam (18 Hoàng Quốc Việt, Hà Nội) sẽ diễn ra Ngày phần mềm tự do và mã nguồn mở.Nội dung chương trình xoay quanh vấn đề môi trường phát triển Java trong Linux, quy trình phát triển phần mềm mã nguồn mở, kinh doanh phần mềm nguồn mở... Bên cạnh đó là hoạt động trưng bày sản phẩm, giải pháp công nghệ, trao đổi kinh nghiệm, tư vấn kỹ thuật, giải đáp thắc mắc...
+Sự kiện này nhằm mục đích nâng cao nhận thức về vấn đề tôn trọng bản quyền, thúc đẩy sử dụng phần mềm mã nguồn mở, kỷ niệm 20 năm ngày thành lập Quỹ phần mềm tự do (FSF).
+D.H.
+Công ty cổ phần phát triển đầu tư công nghệ FPT và Công ty Hệ thống thông tin FPT (FIS) vừa đạt chứng nhận Certified Advantage Partner (CAP) của Oracle và trở thành đối tác cấp cao nhất của hãng này. Theo đó, FPT đat chưng nhân CAP cho linh vưc phân phôi và cung cấp các sản phẩm Oracle, FIS đạt CAP cho triển khai và tích hợp các công nghệ của hãng.
+Đối tác CAP của Oracle được đáp ứng các yêu cầu hỗ trợ qua web, điện thoại và sử dụng bản quyền cho phát triển, trình diễn ứng dụng công nghệ không giới hạn. Ngoài ra, Công ty FPT còn được tạo cổng giao tiếp riêng với Oracle, cung cấp tài liệu hỗ trợ sản phẩm, phát hành các tài liệu và tiếp cận phương pháp luận triển khai cho những phần mềm ứng dụng Oracle.
+N.H.
+Báo Sài Gòn Tiếp Thị vừa ra mắt phiên ban điện tử với 9 chuyên mục gồm Đời sống, Kinh doanh, Mua sắm, Dịch vụ, Nhà đất, Vui chơi, Văn hoá, Khám phá và Quyền lợi người tiêu dùng. Saigontiepthi online cập nhật thường xuyên những thông tin về hàng hoá, giá cả, tiêu dùng và mọi mặt đời sống. Các chuyên mục này phần nhiều vốn là những nội dung của báo giấy. 
+Saigontiepthi online cũng là nhịp cầu liên thông của Sài Gòn Tiếp Thị, Cẩm nang tiêu dùng dành cho đàn ông và Khám phá.
+

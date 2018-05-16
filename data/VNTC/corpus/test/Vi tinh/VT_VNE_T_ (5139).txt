@@ -1,0 +1,17 @@
+Zafi.D là virus phổ biến nhất năm 2005
+Trong bảng xếp hạng 10 virus nguy hiểm 12 tháng qua, Netsky.P, sâu khó đánh bại nhất của năm 2004 đã bị hạ bệ xuống vị trí thứ hai, trong khi Sober.Z, dù mới xuất hiện giữa tháng 11, đã leo lên hàng thứ 3.
+Zafi.D, virus số một của năm, tròn 1 tuổi vào 14/12.
+Cố vấn bảo mật Graham Cluley của Sophos khẳng định nếu xuất hiện trước tháng 11, Sober.Z sẽ nhanh chóng trở thành sâu được phát tán rộng nhất 2005.
+Tháng 11 cũng phá kỷ lục về lượng virus, spyware... (xét từ khi Sophos thiết lập hồ sơ vào giữa năm 1980) với 1.940 file chữ ký bảo mật được bổ sung vào thư viện. Trong khi đó, năm 2005 đón nhận tới hơn 16.000 virus mới, tăng 48% so với năm trước.
+Các tác giả viết chương trình nguy hiểm hiện nay có nhiều cơ hội hơn nhờ kết nối băng thông rộng. Dù phát tán thông qua những chủ đề về đại dịch cúm gà, trò lừa 419, vụ đánh bom London hay giả danh bản vá lỗi phần mềm, chúng đều có khả năng khởi tạo thành công một chiến dịch khai thác lỗ hổng chỉ trong vài giờ.
+Chương trình chứa mã độc, trong đó có spyware, tăng từ 54,2% trong tháng 1 lên 66,4% tại thời điểm này. Ngoài ra, 60% lượng thư rác trên toàn thế giới được gửi đi qua các hệ thống máy tính bị khống chế (zombie). 
+Trojan đã đánh bại sâu mạng với tỷ lệ 2/1. "Không như virus và sâu, Trojan không thể tự nhân bản. Nghĩa là chúng phải gửi gửi hoặc cài trên website một cách có chủ đích. Sự tăng nhanh những 'con ngựa thành Troa' một lần nữa cho thấy những băng nhóm tội phạm có tổ chức đang lợi dụng mạng Internet để trục lợi", Cluley nhận xét.
+Cluley đánh giá cao Windows Service Pack 2 và khẳng định đó là chương trình an toàn cho người dùng Internet. Ngược lại, máy tính nối mạng chạy trên hệ điều hành Windows XP không được bảo vệ chỉ có 6% cơ hội tránh được nguy cơ lây nhiễm trong một giờ.
+Hệ thống Apple hay Linux có tỷ lệ ảnh hưởng rất thấp. Điều này không có nghĩa là Mac OS X và Linux không chứa virus, nhưng chương trình nguy hiểm tấn công Windows quá nhiều đã lấn át chúng.
+Microsoft cũng có nỗi lo ngại riêng khi chỉ có khoảng 30% khách hàng cài phần mềm diệt virus, nếu có thì cũng không hề được cập nhật.
+Nguy hiểm hơn, nhiều người cho rằng cung cấp nền tảng an toàn là nhiệm vụ của Microsoft. 35% doanh nghiệp đổ lỗi cho hãng phần mềm này về làn sóng Zotob hồi tháng 8. Tuy nhiên, Cluley khẳng định việc xây dựng một hệ thống hoàn hảo, không tỳ vết chỉ là ảo tưởng.
+Theo Cluley, Microsoft thực ra đang hoạt động rất hiệu quả, khiến hacker bắt đầu chùn bước và quay sang tấn công các ứng dụng, chương trình plug-in phổ biến, như công cụ Desktop Searchcủa Google hay MSN.
+10 virus nguy hiểm nhất năm 2005 (trong ngoặc là tỷ lệ thông báo mà Sophos nhận được):
+1. Zafi.D (16,7%)2. Netsky.P (15,7%)3. Sober.Z (6,0%)4. Sober.N (4,3%)5. Zafi.B (4,0%)6. Mytob.BE (3,9%)7. Mytob.AS (3,8%)8. Netsky.D (3,0%)9. Mytob.GH (1,9%)10. Mytob.EP (1,8%)
+Các loại khác: 38,9%
+

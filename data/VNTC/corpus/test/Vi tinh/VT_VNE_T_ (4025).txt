@@ -1,0 +1,9 @@
+Người Việt Nam tự tạo máy nội soi giá rẻ từ PC
+Bằng chiếc máy tính cũ kỹ của mình cùng một số bộ phận phụ trợ khác, bác sĩ Nguyễn Phước Huy đã xây dựng thành công thiết bị nội soi với chi phí thấp.
+Bác sĩ Huy cho biết nơi làm việc của ông (Trung tâm y tế huyện Hồng Ngự, tỉnh Đồng Tháp - VnExpress) chưa bao giờ có đủ khả năng tài chính để trang bị hệ thống nội soi giá khoảng 480 triệu đồng. Hiện nay, trung bình mỗi tỉnh thành Việt Nam cũng chỉ có một thiết bị như thế. Để khắc phục tình trạng thiếu thốn này, ông đã dành 2 năm tự mày mò và phát triển hệ thống riêng hỗ trợ khám nội tạng cho bệnh nhân mà không cần qua phẫu thuật.
+Thiết bị chụp hình ảnh cơ thể người bệnh, sau đó được truyền qua webcam đến một máy phân tích chuyên dụng. "Bộ điều hợp này gần như không tốn bất cứ khoản chi phí nào, vì nó đơn giản là một hệ thống kính hiển vi kết nối tới webcam giá khoảng 400.000 đồng", bác sĩ Huy trả lời phỏng vấn chương trình Go Digital của kênh BBC. "Nói chung, tôi chỉ phải sắm một thiết bị soi hơn 12,5 triệu đồng".
+Bác sĩ Huy cho biết thêm: "Một máy tính Pentium IV sử dụng hệ điều hành Windows với máy in màu là tất cả những gì cần thiết cho quá trình xử lý hình ảnh. Bây giờ tôi có thể tự tạo một hệ thống nội soi chỉ trong vòng một tuần".
+Gần đây ông cũng đã xây dựng một thiết bị cho chính mình và hai hệ thống khác cho đồng nghiệp.
+Bác sĩ Nguyễn Phước Huy không phải là một chuyên gia trong lĩnh vực kỹ thuật. Ông đã tự nghiên cứu những kiến thức cơ bản về máy tính, quang học và toán học trong thời gian rảnh rỗi. "Ban đầu, ngay cả việc cài đặt phần mềm mới với tôi cũng là cả một vấn đề lớn, tôi phải nhờ một giáo viên dạy Tin học gần nhà giúp đỡ. Tôi cũng thường xuyên nhờ một số giáo viên Vật lý giải đáp thắc mắc để thiết kế dụng cụ quang học cho thiết bị nội soi", bác sĩ tâm sự.
+Bác sĩ Nguyễn Phước Huy dự định sẽ thiết kế những hệ thống tương tự nhằm hỗ trợ các bệnh viện nghèo tại Việt Nam và thậm chí cho một số trung tâm y tế ở các nước khác.
+

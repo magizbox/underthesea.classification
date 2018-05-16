@@ -1,0 +1,6 @@
+Trung bình mỗi website lừa đảo tồn tại trong 5,5 ngày
+Thông kê này là dấu hiệu khả quan cho thấy những biện pháp đối phó với phishing đã có tác dụng và đây được coi là chiến thắng lớn của cộng đồng an ninh mạng.
+Theo báo cáo gần đây của tổ chức chống lừa đảo trực tuyến APWG, số trang phishing được ghi nhận vào giai đoạn cao điểm là 5.259 trong tháng 8, còn tháng 6 có tổng cộng 4.564 site được phát hiện.
+18 tháng trước đây, những kẻ xây dựng trang web với mục đích xấu có thể tương đối tự tin rằng "công trình" của chúng sẽ có hơn 1 tuần để hoành hành, đủ cho chúng thu thập thông tin cá nhân, ví dụ tên người dùng, mật khẩu đăng nhập và những số liệu nhạy cảm khác. Tuy nhiên, hiện nay các trang phishing được dò ra khá nhanh và nhà cung cấp dịch vụ Internet sẽ lập tức khống chế site đó ngay khi được thông báo.
+Những kẻ lừa đảo cũng đang tìm nhiều thủ thuật để đối phó như thiết lập nhiều site một lúc, để khi một trang bị vô hiệu hóa, trang khác sẽ xuất hiện, hoặc liên tục chuyển hướng (redirect) người dùng sang địa chỉ khác, thậm chí theo từng phút. Tuy nhiên, phương pháp này đồng nghĩa với chi phí cho một vụ phishing trót lọt cũng sẽ rất cao. "Nhưng trừ khi cái giá phải trả đắt hơn cả việc buôn bán ma túy hay ăn cắp xe hơi, những kẻ lừa đảo trực tuyến sẽ không bao giờ từ bỏ mục tiêu", Peter Cassidy, Tổng thư ký của APWG, nói.
+

@@ -1,0 +1,34 @@
+Hỏi về drawing và dây cáp RJ-45 (1)
+Toi muon hoi cac thao tac dung cong cu ve Drawing. Thiet ke mot to roi quang cao san pham bang cong cu Drawing. 
+Toi cung xin hoi ve cac loai cap chinh co the dong vai tro nhu la phuong tien truyen tin hieu giua cac may tinh tren mang (cau tao, cach noi ). Neu cach bam dau day mang RJ-45 trong ket noi giua 2 may tinh co Hub va khong co Hub phai lam nhu the nao? Xin chi giup toi 2 cau hoi tren . Toi xin chan thanh cam on va chuc cac ban manh khoe.
+Tran Men
+Hồi âm:
+Nối từ PC vào Hub/Router/Switch Hai đầu giống nhau như sau:
+1- Sọc CAM 
+2- CAM
+3- Sọc XANH LÁ CÂY
+4- XANH DƯƠNG
+5- Sọc XANH DƯƠNG
+6- XANH LÁ CÂY
+7- Sọc NÂU
+8- NÂU
+Nối từ PC vào PC (CrossOver) 
+Một đầu (A) như sau:
+1- Sọc CAM 
+2- CAM
+3- Sọc XANH LÁ CÂY
+4- XANH DƯƠNG
+5- Sọc XANH DƯƠNG
+6- XANH LÁ CÂY
+7- Sọc NÂU
+8- NÂU
+Một đầu (B) như sau:
+1- Sọc XANH LÁ CÂY 
+2- XANH LÁ CÂY
+3- Sọc CAM 
+4- XANH DƯƠNG
+5- Sọc XANH DƯƠNG
+6- CAM
+7- Sọc NÂU
+8- NÂU
+

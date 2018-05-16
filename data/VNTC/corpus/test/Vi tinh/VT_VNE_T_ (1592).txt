@@ -1,0 +1,6 @@
+Website kiểm tra lỗi trình duyệt
+Người sử dụng Internet muốn biết công cụ lướt web của mình, dù là browser loại nào, có bị một khiếm khuyết rất nghiêm trọng hay không, có thể truy cập vào trang web của hãng phần mềm bảo mật Đan Mạch Secunia.
+Lỗi nói trên, được công bố tuần qua, có thể bị lợi dụng để khống chế trình duyệt và thay đổi nội dung website. Ví dụ, khi một cửa sổ pop-up xuất hiện trên một trang hợp lệ, website của hacker có thể bắt cóc pop-up đó. Khi điều này xảy ra, cửa sổ pop-up đã được mở nói trên sẽ hiển thị thông tin từ trang web của hacker chứ không phải từ website gốc. Lỗi này có thể được sử dụng để khiến người truy cập Internet tin rằng thông tin mà họ đang nhìn thấy là của website hợp pháp.
+Secunia cho biết lỗ hổng nói trên đã được xác định trong cả những phiên bản đã vá lỗi của Internet Explorer 6.0 và Microsoft Windows XP SP1/SP2, Netscape 7.2, Mozilla 1.7.3, Mozilla Firefox 1.0, Apple Safari 1.2.4, Opera 7.54 và KDE Konqueror 3.2.2-6.
+Duy nhất có một công ty ở Anh tên là Deepnet Explorer, với sản phẩm trình duyệt cùng tên, tuyên bố phiên bản browser mới nhất của họ không bị lỗi tương tự.
+

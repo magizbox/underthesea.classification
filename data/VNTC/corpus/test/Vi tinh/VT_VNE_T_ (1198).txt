@@ -1,0 +1,8 @@
+Lỗi phần mềm làm PayPal tê liệt
+Dịch vụ thanh toán trực tuyến của hãng đấu giá eBay đã liên tục gặp trục trặc kể từ thứ 6 tuần trước khiến nhiều người dùng không truy cập được tài khoản và nhiều thương vụ không thể hoàn tất.
+Sự gián đoạn xảy ra trong một thời điểm nhạy cảm với eBay, sở hữu PayPal từ năm 2002. Hãng vừa bước vào quý quan trọng nhất trong năm về mặt doanh thu, khi người tiêu dùng tích cực mua sắm cho nhau những món quà lễ hội trên eBay. Về mặt thời điểm, những vấn đề như thế này không bao giờ là điều tốt đẹp, nhưng nó có thể còn tồi tệ hơn nữa nếu PayPal kéo dài tình trạng này trong 1 hoặc 2 tháng, tới sát đỉnh điểm của mùa mua sắm, nhà phân tích Joseph Levine của hãng Yankee Group nhận định. Lúc này, PayPal vẫn còn thời gian để vãn hồi mọi thứ trước dịp lễ cuối năm. 
+Trong một thông cáo tại website của hãng, eBay tuyên bố các vấn đề kỹ thuật xuất hiện 1 tháng sau khi nâng cấp phần mềm của PayPal là nguyên nhân của mọi trục trặc và họ đang nỗ lực giải quyết. 
+Các đây 4 tháng, eBay cũng gặp một loạt các vấn đề về thanh toán và tìm kiếm, khiến giao dịch của một số khách hàng bị gián đoạn.
+eBay đã nỗ lực tích hợp PayPal vào website của mình kể từ khi mua dịch vụ thanh toán này cách đây 2 năm. Hãng mới bổ sung tính năng Buy It Now, cho phép người bán nhận thanh toán trực tiếp chỉ thông quay PayPal.
+PayPal có trên 50 triệu tài khoản người dùng trên toàn thế giới. Trong quý 2, dịch vụ này xử lý gần 78 triệu thương vụ với tổng trị giá 4,4 tỷ USD, tăng 53% so với cùng kỳ năm trước.
+

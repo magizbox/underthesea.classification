@@ -1,0 +1,3 @@
+Các nhà khoa học thuộc Đại học Southampton (Anh) vừa chế tạo một loại bàn tay giả có thể thực hiện các cử động như bàn tay thật với mức độ chính xác vượt trội so với các loại bàn tay nhân tạo hiện nay.
+Bàn tay thông minh trên sử dụng tới 6 motor nên 5 ngón tay có thể cử động độc lập. Mang tên Southampton Remedi-Hand, bàn tay này có thể kết nối với các cơ cánh tay, giúp người sử dụng có thể nắm chặt các đồ vật như quả bóng, hoặc phối hợp các ngón tay để cầm chìa khóa mở cửa hoặc co nắm bàn tay lại để cầm một cái búa hay micro. Ngoài ra, không như các loại bàn tay giả nặng nề khác thường gây tổn thương cho cánh tay, Southampton Remedi-Hand chỉ nặng 400g, tức còn nhẹ hơn trọng lượng khoảng 500g của bàn tay thật.
+

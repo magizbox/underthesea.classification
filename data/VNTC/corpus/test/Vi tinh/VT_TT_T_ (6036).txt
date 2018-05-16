@@ -1,0 +1,10 @@
+ Microsoft tiết lộ một số chi tiết về bộ Office 12
+Mặc dù bộ Office 12 chưa chắc được tung ra trước quý 3 năm 2006, nhưng vào hôm 19-5, kiến trúc sư trưởng của Office 12 là Bill Gates cũng chính thức tiết lộ một số chi tiết về bộ công cụ đã lừng danh toàn cầu từ bao năm qua. 
+Gates đã miêu tả Office 12 là “thế giới công việc mới” để nhấn mạnh đến khả năng tổ chức công việc với các nhu cầu xử lý thông tin doanh nghiệp ở tầm mức rất cao mà Office 12 có khả năng thực hiện được. 
+Office 12 sẽ tập trung sức mạnh của mình vào các lĩnh vực như cộng tác theo nhóm, xử lý thông tin doanh nghiệp và giảm thiểu được mức độ phức tạp trong các tính toán… 
+Trong lĩnh vực cộng tác theo nhóm, Microsoft đang cố gắng đơn giản hóa quy trình thiết lập và chia sẻ phần việc trong Microsoft Office SharePoint Portal Server, cho phép người dùng kết hợp và trao đổi thông tin mạnh mẽ với nhau trong quá trình cộng tác xử lý. Office 12 cũng kết hợp khả năng sử dụng công nghệ mạng ngang hàng vào hệ thống xử lý cộng tác của mình bằng công nghệ của Groove Networks. 
+Office 12 cũng nhắm vào khả năng đào sâu tìm hiểu thông tin thông qua hệ thống dữ liệu ảo, đây là tính năng mới nằm trong Excel, cho phép người dùng tạo nên các bảng tính từ các dữ liệu có độ biến đổi cao được cập nhật theo thời gian thực. Người dùng cũng có khả năng chia sẻ thông tin thông qua các trang web, gia tăng khả năng làm việc cộng tác theo nhóm. 
+Office 12 sẽ giúp người dùng tạo nên các tài liệu có tính năng động rất cao, với các công cụ mới được tích hợp trong PowerPoint có khả năng đưa ra nhiều định dạng phức tạp với các chuyển động trình diễn công phu. 
+Ngoài ra bộ Office 12 cũng được gia tăng tối đa khả năng tương thích với XML, giúp cho người dùng có thể tạo được các biểu mẫu Microsoft Office InfoPath chuyên dùng để phân tích dữ liệu mà không cần phải rời khỏi giao diện Office. 
+Microsoft sẽ tung ra bản thử nghiệm beta của bộ Office 12 trong quý 3 năm nay, cho phép người dùng tiếp cận gần hơn với công nghệ mới này. 
+

@@ -1,0 +1,5 @@
+Giải pháp mới quản trị nhân sự và tiền lương
+Sáng nay, tại TP HCM, Công ty Giải pháp phần mềm FPT (FSS) ra mắt phần mềm iHRP, giúp người sử dụng có thể cập nhật và khai thác thông tin vừa tập trung, vừa phân tán, vận hành trên cả mạng LAN và WAN. 
+FPT.iHRP bao quát mọi hoạt động nhân sự và tính toán, quản lý lương cho các đơn vị, đặc biệt là những doanh nghiệp đông nhân viên và nhiều chi nhánh. Riêng lĩnh vực tiền lương, nó có thể lập công thức linh động bằng nhiều cách khác nhau, theo thời gian, sản phẩm, theo khoán. Phần mềm này không chỉ dành cho người quản lý mà còn cho phép toàn bộ nhân viên khai thác thông tin thiết thực cho mình như: đào tạo, tuyển dụng, quyết định nhân sự, chính sách lao động... 
+Chị Nguyễn Ngọc Thảo Hiếu, phụ trách dịch vụ khách hàng của FSS, cho biết sản phẩm là hệ thống mở, thuận tiện cho việc mở rộng hệ thống và dễ kết nối các phân hệ khác với giao diện chuẩn, nhất quán, đa ngôn ngữ, dễ sử dụng. iHRP hiện được cài trong các máy FPT Elead.
+

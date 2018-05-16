@@ -1,0 +1,9 @@
+Giết spam bằng ChoiceMail
+Bạn rất khó chịu vì thư rác chào mời đủ thứ, từ Viagra đến thuốc giảm béo, thẻ tín dụng... và phần mềm lọc spam của bạn vẫn để lọt lưới quá nhiều? ChoiceMail là một hướng tiếp cận hoàn toàn mới và hiệu quả 100%.
+Những kẻ gửi spam lọc lõi luôn biết cách đánh lừa phần mềm lọc spam, đơn giản nhất là cố tình viết sai chính tả từ khóa, ví dụ Viagra sẽ được viết thành V!(at)gra. Nhưng ChoiceMail không lọc mà chặn thư rác với cơ cấu hoàn toàn khác. Phần mềm này sử dụng tất cả những cái tên trong sổ địa chỉ điện tử của bạn để tạo thành một danh sách trắng những người mà bạn muốn nhận thư. E-mail gửi tới từ những địa chỉ này sẽ qua cổng tự động. Nếu bạn gửi thư tới một người khác, ChoiceMail sẽ tự bổ sung địa chỉ mới vào danh sách trắng - một tính năng bạn có thể tắt đi nếu muốn.
+Khi có người không nằm trong danh sách trắng gửi e-mail cho bạn, thư điện tử đó sẽ được chuyển tới thư mục "Unknown senders". Tiếp đó, ChoiceMail phúc đáp người gửi bằng một bức thư, yêu cầu họ truy cập một trang web và điền vào một biểu mẫu đơn giản gồm các trường tên người gửi cùng 1 con số xuất hiện trên màn hình để ngăn chặn khả năng trả lời tự động.
+Người gửi có 4 ngày để trả lời e-mail. Quá hạn đó, thư của họ sẽ bị gửi vào thùng Junk Box, giữ lại đó vài ngày - thời gian tùy thuộc thiết lập của bạn - trước khi bị xóa tự động. Nếu họ điền vào biểu mẫu, một thông điệp sẽ hiện lên màn hình để báo cho bạn biết. Lúc đó, bạn có thể quyết định chấp nhận duy nhất e-mail đó hay cả những thư tương lai từ cùng người gửi, đưa họ vào danh sách đen để tự động xóa toàn bộ e-mail. 
+ChoiceMail cũng cho phép bạn nhận tất cả email từ một tên miền cụ thể, ví dụ @vnexpress.net, bất kể người gửi thư cho bạn là ai. 
+Bản miễn phí của chương trình bảo vệ 1 hộp thư POP duy nhất. Nếu muốn chặn spam cho nhiều địa chỉ, bạn phải sử dụng bản ChoiceMail Enterprise với giá 40 USD. 
+Phần mềm có dung lượng 8,58 MB. Bạn có thể tải bản miễn phí tại đây.
+

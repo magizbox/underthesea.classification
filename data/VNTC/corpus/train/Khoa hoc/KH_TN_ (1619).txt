@@ -1,0 +1,3 @@
+J.Tarara, một nhà khoa học thuộc Phòng nghiên cứu nông nghiệp ở Washington (Mỹ) vừa đưa ra một kỹ thuật mới giúp những người trồng nho xác định chính xác và nhanh chóng thời điểm nho chín để thu hoạch mà không phải mất công đến tận vườn nho khảo sát.
+Việc xác định quả nho chín được thực hiện dựa vào kết quả đo lường sức nặng của mạng lưới hứng nho chín rụng. Trên mạng lưới này có gắn những bộ cảm biến nối với một hệ thống máy tính. Nhờ đó, nhà trồng nho không phải đến tận vườn mà chỉ việc ngồi bên máy tính xác định sức nặng của mạng lưới này một lần vào đầu mùa trồng nho và nhiều lần sau đó theo định kỳ. Khi mạng lưới nặng đến một độ đã được quy định thì cũng là lúc nhà trồng nho thu hoạch.
+

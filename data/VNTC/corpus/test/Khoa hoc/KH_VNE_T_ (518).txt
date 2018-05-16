@@ -1,0 +1,12 @@
+Kỹ thuật mới thu dấu vân tay trên giấy bạc
+Các nhà khoa học pháp y đang hy vọng sẽ nhận diện được tội phạm qua dấu vân tay chúng để lại trên giấy bạc, bằng một công nghệ chụp ảnh mới và keo siêu hạng. 
+Công nghệ do các nhà nghiên cứu từ Đại học Công nghệ Sydney và Cảnh sát liên bang Australia hợp tác phát triển, kết hợp kỹ thuật chụp ảnh hoá chất dưới ánh sáng hồng ngoại và chất keo siêu hạng ở dạng khói - ethyl cyanoacrylate.
+Giảng viên hoá học cao cấp, tiến sĩ Brian Reedy, cũng từ ĐH công nghệ Sydney, cho biết phương pháp mới sẽ cho phép các nhà khoa học phát hiện ra hoá chất trên bề mặt của một tờ giấy bạc mà thông thường mắt người không nhìn thấy. 
+Tất cả các kỹ thuật phát hiện vân tay hiện nay đều dựa trên sự tương phản giữa dấu nổi của vân tay với bề mặt xung quanh. Nhưng các bề mặt có màu sắc hoặc in hoa văn, như tờ giấy bạc polymer, sẽ làm giảm độ tương phản và khiến cho dấu vân tay khó bị phát hiện. 
+Thông thường chúng tôi xem xét độ tương phản trong bước sóng nhìn thấy được đối với mắt người. Nhưng nếu không nhìn thấy dấu vân tay, điều đó không có nghĩa là không có dấu vân tay nào ở đó, Reedy nói. 
+Chính vì vậy, các nhà nghiên cứu đã thử nghiệm kỹ thuật chụp ảnh hoá chất hồng ngoại Fourier, cho phép phát hiện ra sự tương phản hoá chất trên tờ giấy bạc dưới ánh sáng hồng ngoại. 
+Đầu tiên, tờ giấy bạc được đặt trong một thùng chứa đầy hơi chất siêu keo bị đốt nóng. Chất keo sẽ dính vào các đường gờ nổi của dấu vân tay nhưng không dính vào khoảng trống giữa chúng, Reedy nói.
+Tờ giấy bạc sau đó được đặt dưới một máy dò ảnh hoá chất và kính hiển vi hồng ngoại để chụp ảnh, làm nổi chất siêu keo. Điều này cho phép dấu vân tay hiện lên màn hình máy tính. 
+Khi có được ảnh trên máy tính, chúng tôi có thể in ra và so sánh nó với các dấu vân tay khác, Reedy cho biết.
+Các nhà khoa học cho biết mất khoảng 4 tiếng là có được ảnh vân tay hoàn chỉnh. Bước tiếp theo là phát triển loại siêu keo mới cho phép hiện ảnh dễ dàng hơn. 
+

@@ -1,0 +1,5 @@
+ Flash Player Pro: công cụ chơi file Flash đa dụng
+Ngoài việc chơi được toàn bộ nội dung file Flash .SWF, Flash Player Pro còn cung cấp rất nhiều công cụ để người dùng có thể thưởng thức các file Flash ở nhiều cách thú vị nhất như: chụp lại một hình ảnh nào đó trong file Flash để tạo thành dạng ảnh BMP; thiết lập file Flash thành màn hình nền; tạo file màn hình nền .SCR từ file Flash; biên tập file Flash thành file .EXE để có thể chơi trực tiếp từ Windows… 
+Flash Player Pro cũng có đầy đủ mọi chức năng của một công cụ trình diễn media chuyên nghiệp như: phóng to, thu nhỏ, tua tới, tua lui, tạm ngưng, xem ở chế độ toàn màn hình hoặc chế độ nguyên thủy, tạo Favorite, sao chép, di chuyển, xóa, duyệt file v.v 
+Chương trình rất thân thiện, dễ cài đặt và sử dụng. Người dùng có thể vào đây để tải về xài bản dùng thử với dung lượng khoảng 1,5 MB và có giá trị trong 15 ngày. Hiện Micromedia đang bán ra Flash Player Pro 2.6 với giá là 30 USD. 
+

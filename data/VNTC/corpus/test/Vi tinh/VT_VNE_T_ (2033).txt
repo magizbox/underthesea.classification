@@ -1,0 +1,6 @@
+Tuần sau Microsoft vá 13 lỗi 
+Số chương trình nâng cấp này sẽ được phát hành vào ngày 8/2, trong đó 9 bản dành để khắc phục những vấn đề ở Windows và một số lỗi nghiêm trọng khác.
+Hai lỗ hổng lớn, một ở Windows, Windows Media Player và MSN Messenger, một ở Office và Visual Studio cũng đã được ghi nhận. Hai khiếm khuyết khác, được đánh giá ở mức ít nguy hiểm hơn, liên quan đến .NET framework, Microsoft SharePoint Services và Office.
+Một lỗ hổng nguy hiểm sắp được khắc phục lần này đã tồn tại suốt 185 ngày qua trong Windows kể từ khi được hãng eEye Digital Security phát hiện đầu tháng 8/2004. Lỗi khai thác hệ thống từ xa này cho phép những kẻ tấn công vô hiệu hóa cài đặt mặc định của phần mềm khiếm khuyết mà không cần sự tương tác của người sử dụng, đồng thời chúng cũng có thể giành quyền khống chế toàn bộ máy mục tiêu.
+Hầu hết các chương trình cập nhật này đều đòi hỏi phải khởi động lại hệ thống sau khi cài đặt.
+

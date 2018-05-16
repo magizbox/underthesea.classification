@@ -1,0 +1,6 @@
+Lỗi Gmail mở đường truy nhập thư trái phép
+Một trục trặc trong hệ thống thư điện tử 1 GB của hãng dịch vụ trực tuyến có thể cho phép bất kỳ ai truy vấn máy chủ để lấy thông tin từ thông điệp gửi mới nhất.
+Đây là phát hiện được 2 lập trình viên thuộc nhóm phát triển hệ điều hành miễn phí FreeBSD thông báo hôm qua. Bất kỳ người dùng Gmail nào cũng có thể lấy nội dung bức thư theo định dạng HTML trên máy chủ. Hậu quả là quyền riêng tư đã bị đe dọa, 2 tác giả của phát hiện nhận xét. Nội dung các bức thư và thông tin địa chỉ của chúng rất dễ bị mở ngỏ cho những đối tượng không mong muốn.
+Google xác nhận vấn đề trên và thông báo đã khắc phục ngay. Vấn đề là lỗ hổng này đã tồn tại bao lâu trước đó. Mọi chuyện lộ ra khi e-mail mà một trong 2 lập trình viên nói trên để lại một dấu  ở cuối địa chỉ người nhận. Điều đó có nghĩa là máy chủ của Google có thể gửi trả lại những thông tin bất kỳ mà kẻ tò mò biết là từ thư của người khác. 
+Dịch vụ thư điện tử miễn phí Gmail của Google được triển khai tháng 4 năm ngoái và đã nhanh chóng thu hút sự ưa thích của nhiều người. Mặc dù vẫn còn trong giai đoạn thử nghiệm kỹ thuật, nhiều khách hàng đã bắt đầu phụ thuộc vào hệ thống này. Tuy nhiên, vì hầu hết các dịch vụ của Google chạy trên máy chủ của họ chứ không dùng phần mềm cài trên PC của khách hàng nên các bản vá lỗi an ninh được triển khai rất nhanh.
+

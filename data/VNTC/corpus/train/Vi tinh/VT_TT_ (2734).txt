@@ -1,0 +1,6 @@
+ Oracle® mua lại công ty phần mềm nguồn mở Sleepycat
+Ông Mike Olson, Tổng Giám đốc điều hành của Công ty phần mềm Sleepycat cho biết “Các sản phẩm của Sleepycat, cơ sở khách hàng và mô hình kinh doanh đã được chứng minh, kết hợp với các chuyên gia giỏi, công nghệ bổ sung và các tài nguyên của Oracle, sẽ cho phép Sleepycat phục vụ tốt hơn những yêu cầu của khách hàng và cộng đồng nguồn mở” 
+Sản phẩm Berkeley DB là cơ sở dữ liệu nguồn mở được sử dụng rộng rãi nhất thế giới với khoảng 200 triệu sản phẩm được triển khai. Berkeley DB được phân phối dưới hình thức cấp phép kép, nghĩa là cả dưới hình thức cấp phép rộng rãi lẫn bản quyền thương mại. Các dự án nguồn mở nổi tiếng như là Linux và hệ điều hành BSD UNIX, máy chủ web Apache, OpenLDAP Directory, phần mềm sản xuất OpenOffice, và nhiều công nghệ Berkeley DB nhúng khác. 
+Theo Công ty nghiên cứu IDC “Trong năm 2005, thị trường cơ sở dữ liệu nhúng có giá trị hơn 2 tỷ đô la và được dự báo sẽ tăng trưởng lên hơn 3,2 tỷ đô la vào khoảng năm 2009. Thị trường này rất đa dạng và các công nghệ có xu hướng chuyên môn hóa. Berkeley DB của Sleepycat bổ sung vào sản phẩm Oracle TimesTen và Oracle Lite cho phép Oracle đáp ứng trên phạm vi rộng các mảng thuộc thị trường cơ sở dữ liệu nhúng” 
+Các điều khoản về giao dịch này chưa được công bố chi tiết. 
+

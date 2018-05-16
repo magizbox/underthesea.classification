@@ -1,0 +1,4 @@
+ Màn hình LCD nối mạng
+Với các mẫu màn hình này, người dùng có thể nối mạng nó với máy chủ, sau đó gắn thêm chuột và bàn phím trực tiếp lên màn hình để sử dụng. Hoặc cũng có thể dùng nhiều màn hình kết nối với một server, mỗi màn hình sẽ hiển thị các hình ảnh và làm việc độc lập rất tiện lợi. 
+Cả hai mẫu màn hình này đều có sẵn cổng USB, thời gian hiển thị là 8 mili giây, độ sáng 300cd/m2. 
+

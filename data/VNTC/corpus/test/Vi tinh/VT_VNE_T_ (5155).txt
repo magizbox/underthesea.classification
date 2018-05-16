@@ -1,0 +1,7 @@
+Lỗi Excel bị rao bán trên eBay với giá 0,01 USD
+Người khởi xướng cuộc đấu giá chi tiết lỗ hổng trong chương trình bảng tính phổ thông của Microsoft cho rằng 1 cent là "mức giá xứng đáng cho bất cứ sản phẩm nào của hãng phần mềm".
+Tính đến thời điểm này, số tiền đã tăng lên hơn 60 USD.
+Lỗ hổng được tìm thấy trong ngày 6/12 vẫn chưa được công bố rộng rãi. Nhân vật rao bán cho biết: "Tất cả các thông tin đã được gửi tới Microsoft. Nội dung thư hồi âm chứng tỏ họ mới bắt đầu nghiên cứu sửa lỗi. Tôi có thể khẳng định rằng sẽ không có bất cứ bản vá nào trong vòng vài tháng tới".
+Người này tuyên bố một phần trong số tiền thu về sẽ được đóng góp cho những dự án mã mở, đồng thời sẽ "chiếu cố" giảm 10% nếu có vị quan chức nào của Microsoft chốt giá. "Để chứng minh đúng là người thuộc hãng phần mềm, quý ngài cần giao dịch bằng địa chỉ e-mail có đuôi @microsoft.com và phải đề cập đến mã 'hạ giá' LINUXRULZ trong quá trình thanh toán", nhân vật trên yêu cầu.
+Bất cứ ai tham gia đấu giá đều phải cam kết không sử dụng thông tin với mục đích xấu mà chỉ để phục vụ quá trình học tập và nghiên cứu. Người chiến thắng sẽ nhận hai file Excel, một tài liệu gốc và một bản sao đã được biên tập để thể hiện lỗ hổng.
+

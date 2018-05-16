@@ -1,0 +1,20 @@
+ Cobian Backup - Trình sao lưu dữ liệu hoàn hảo
+Sau đây là một số ưu điểm của Cobian Backup: 
+- Cobian Backup còn có khả năng sao lưu các dữ trên Internet theo cả hai chiều - Download và Upload, hỗ trợ cả giao thức SSL. 
+- Cobian Backup còn có một ưu điểm so với các trình sao lưu dữ liệu khác là không ngốn nhiều tài nguyên khi chạy ngầm trong máy tính của bạn, nhưng dù sao bạn cũng nên tắt nó đi khi chạy những thứ cần nhiều tài nguyên như xử lý đồ họa khi chơi game. 
+- Khi sao lưu dữ liệu, Cobian Backup cũng đồng thời nén nó lại và mã hóa nó để tránh người dùng khác táy máy xóa mất dữ liệu. 
+- Cobian Backup sử dụng giao thức mã hóa dữ liệu lên đến 128bit theo Blowfish (128 bit), Rijndael (128 bit) và DES (64 bit). 
+- Hỗ trợ nén file cực lớn, lên đến 2GB. 
+- Tự động nhắc nhở nếu bạn quên mất nhiệm vụ sao lưu dữ liệu thường xuyên. 
+- Cho phép điều khiển Cobian Backup từ một máy khác thông qua Internet thông qua Plug-in Remote tool. 
+- Sao lưu nhiều dữ liệu cùng một lúc - tiết kiệm cho bạn rất nhiều thời gian. 
+- Giao diện thân thiện, không rối rắm. 
+- Tự động tháo bỏ các bản sao lưu cũ không cần thiết. 
+- Hỗ trợ nén file bằng hai định dạng: Zip64 và SQX. 
+- Hỗ trợ điều khiển bằng dòng lệnh (command line) mà không cần phải vào cửa sổ chính của Cobian Backup. Điều này cũng đồng nghĩa với việc bạn có thể tạo một shortcut để sao lưu dữ liệu nhanh chóng hơn. 
+Cobian Backup là phần mềm miễn phí (Freeware), tương thích với mọi phiên bản Windows, có thể được download tại http://www.educ.umu.se/~cobian/programz/Cb7Setup.exe . Ngoài ra bạn cũng nên để ý đến một số plug-in khá thú vị của nó: 
+- Translator ( http://www.educ.umu.se/~cobian/programz/CobTranslator7.zip ): Dùng để phiên dịch Cobian Backup sang ngôn ngữ khác. 
+- DeCompressor ( http://www.educ.umu.se/~cobian/programz/CobDecompressor7.zip ): Dùng để giải nén các file sao lưu được tạo bởi Cobian Backup. Thực ra bạn vẫn có thể dùng WinZip để đảm nhiệm chức năng này. 
+- Decrypter ( http://www.educ.umu.se/~cobian/programz/CobDecrypter7.zip ): Dùng để giải mã những file sao lưu đã được Cobian Backup mã hóa lại. 
+- Remote tool ( http://www.educ.umu.se/~cobian/programz/Remote_Backup.zip ): Dùng để điều khiển Cobian Backup từ một máy tính bất kỳ. 
+

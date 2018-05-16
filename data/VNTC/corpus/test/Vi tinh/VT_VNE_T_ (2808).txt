@@ -1,0 +1,13 @@
+Tin vắn ngày 6/5
+HP Việt Nam công bố Chương trình kết nối khách hàng GfK châu Á công nhận ThinkPad IBM là máy tính xách tay số 1 Việt Nam Virus Sober đã lây lan tại 40 nước.
+Chương trình kết nối khách hàng của HP tập trung chủ yếu vào các vấn đề phần mềm quản lý, đặc biệt là quản lý mạng phức hợp và IP, quản lý thay đổi và giải pháp HP OpenView phục vụ cho chiến lược Thích ứng doanh nghiệp (Adaptive Enterprise) do tập đoàn này khởi xướng gần đây.
+Tham gia chương trình (website tại đây), các doanh nghiệp sẽ được cập nhật những kiến thức tăng cường giao thức web, thông tin hàng tháng, các khóa đào tạo định kỳ về web, nhận sự tư vấn trực tiếp từ các chuyên gia HP.
+Trong năm 2004, HP đã cho ra đời thêm 9 phần mềm doanh nghiệp mới. Theo hãng nghiên cứu thị trường IDC, HP hiện là nhà cung cấp số 1 thế giới về phần mềm quản trị các dịch vụ mạng và đạt mức tăng trưởng 2 con số tại Đông Nam Á về các giải pháp phần mềm quản lý.
+P.K.
+Những thống kê dựa trên khái niệm kiểm toán bán lẻ theo doanh số từng tháng của GfK cho thấy IBM đạt doanh số bán máy tính xách tay cao nhất trong năm 2004.
+Andy Drake, Giám đốc điều hành GfK châu Á, cho biết ThinkPad là thương hiệu hàng đầu được tiêu thụ trong lĩnh vực sản phẩm notebook với thị phần khoảng 25%. Máy tính ThinkPad sẽ có thể sử dụng chứng nhận thương hiệu số 1 được GfK trao sáng nay tại Hà Nội vào các hoạt động marketing tại Việt Nam trong 2005.
+Đây là lần đầu tiên GfK châu Á trao giải thưởng thương hiệu cho các công ty sản xuất kinh doanh hàng điện tử và công nghệ thông tin. Trong đợt này, tập đoàn nghiên cứu thị trường bán lẻ sẽ trao 21 chứng nhận tương tự tại một loạt quốc gia châu Á - Thái Bình Dương, trong đó có Việt Nam.
+P.K.
+Kể từ khi bùng phát trở lại đầu tuần này, phiên bản N của sâu Sober liên tục đứng đầu danh sách những virus phát tán rộng nhất và chưa hề có dấu hiện thuyên giảm. Nghiên cứu của hãng bảo mật Anh Sophos cho thấy Sober.N (một số công ty an ninh khác gọi là Sober.S) chiếm tới gần 80% số virus mà hãng này theo dõi trên toàn thế giới. Hiện nay, 4,5% tổng số e-mail lưu thông trên Internet có chứa loại virus này.
+Theo Graham Cluley, chuyên gia công nghệ của Sophos, với mật độ 1/22 e-mail gửi đi trên mạng thông tin toàn cầu bị nhiễm Sober.N, virus này đã trở thành đợt bùng phát lớn nhất tính đến thời điểm này của năm nay. Họ sâu Sober hiện có tới 18 biến thể khác nhau.
+

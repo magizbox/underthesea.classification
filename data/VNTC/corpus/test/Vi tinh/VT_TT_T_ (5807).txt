@@ -1,0 +1,6 @@
+ Một vài tính năng mới của Gmail
+Đầu tiên có thể kể đến là tính năng xem các file đính kèm (attachment) một cách trực tiếp bằng HTML mà không cần phải download các attachment về. Chức năng này hiện hỗ trợ cho các file của Office và PDF. Người dùng có thể thấy dòng View as HTML ngay bên dưới các file đính kèm. 
+Thêm nữa, Google sẽ quét thư điện tử của bạn và tìm hiểu giúp bạn môt số thông tin về các link có trong email ( about these link… ), thường nằm dưới phần quảng cáo của Gmail. Thêm một số tính năng trong mục more Option trên cửa sổ đọc mail. 
+Một chức năng mà chúng tôi chưa kiểm nghiệm đó là Web Clips được thông báo là hỗ trợ cho người dùng thiết lập một danh sách RSS, giúp cho việc tra cứu nhanh các Website mà bạn hay truy cập, các thông tin mà bạn cần. 
+Điều cuối cùng, khá nhiều các tính năng được thêm vào mục What's new , giúp người dùng tìm hiểu dễ dàng và nhanh chóng hơn về Gmail. 
+

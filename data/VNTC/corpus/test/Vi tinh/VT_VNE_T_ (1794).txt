@@ -1,0 +1,5 @@
+Chip nhớ tích hợp có dung lượng lớn nhất
+Được tạo nên từ 8 thành phần, bộ nhớ đa chip (MCP - Multi Chip) của Samsung, có tổng dung lượng lên đến 3,2 Gb trong kích thước vẻn vẹn 11 x 14 x 1,4 mm, hứa hẹn tạo ra bước đột phá vào thế giới điện thoại và thiết bị di động thông minh.
+8 chip thành phần bao gồm 2 chip NAND flash 1Gb, 2 chip DRAM 256 Mb, 2 chip NOR flash 254 Mb, 1 chip UtRAM 128 Mb và 1 chip UtRAM 64 Mb. Tất cả được ghép lại để tạo thành một chip nhớ lớn nhất từ trước đến nay. 
+Với không gian lớn như vậy, đây sẽ là một giải pháp bộ nhớ quan trọng dành cho điện thoại và thiết bị di động thông minh. Các tính năng như nghe nhạc, xem phim, chơi game và lướt web trên thiết bị sử dụng loại chip này sẽ trở nên dễ dàng, nhanh chóng và có chất lượng cao hơn.
+

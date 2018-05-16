@@ -1,0 +1,8 @@
+Lỗi kết nối modem dial-up (2)
+Kính gửi các anh chị, xin vui lòng cứu giúp dùm trường hợp sau đây của tôi. Máy tôi là desktop, Dell 731 Mhz, 250 Mb, toi dang su dung tốt dial up- modem 56k thi bong nhiên không thể lên mạng được nữa (tôi không rành vi tính, không biết giải thích sao cho rõ). Khi dial thi nó vẫn dial có tín hiệu, nhưng khi nó nối vào mạng thì không nối được mà nó hiện ra cửa sổ báo lổi số ... và thông báo là " Access was denied because the user name and / or password was invalid on the domain", trong khi cũng đường dây đó, cũng mạng dail up đó mà dùng máy khác của người nhà thì lên mạng bình thường. Tôi không biết là modem bị hư hay là phần mềm bị lỗi, liệu có cài lại phần mềm của modem được không và nó sẽ dùng lại được hay là phải thay mới modem, tôi không rành vi tính, có thể tôi không biết cách hỏi, xin quí anh chị đừng cười và vui lòng hướng dẫn dùm. Chân thành cảm ơn.
+Khang Huy
+Hồi âm:
+Có lẽ khi bạn đăng nhập tên và mật khẩu user name/ và pass word không đúng. Hãy để ý chữ hoa và chữ thường (caplock) có được bật lên không? Khi đăng nhập nhớ tắt các bộ gõ VN. Có thể bạn chỉ cài lại phần mềm của modem, nếu modem không hoạt động thì không thấy dòng chữ báo từ domain.
+TOM
+Khang Huy thân. Tôi cũng không rành như bạn và tôi cũng đã gặp trường hợp như bạn vậy, truy cập được vào mạng, nhưng không vào được bất cứ trang Web nào, kể cả không nhận được thư trong OE. Tôi gọi điện thoại đến số 18001260 (gọi miễn phí). Tại đây hướng dẫn tôi là xoá kết nối cũ và thiết lập lại kết nối mới, rồi truy cập vào mạng một lần nữa và kết quả ngon lành là nhận được thư và được tất cả các trang Web mình thích. Từ đó đến nay không có gì trục trặc, trong khi chờ đợi các anh em rành hơn hướng dẫn, Huy làm thử như mình xem sao ! Chúc thành công. 
+

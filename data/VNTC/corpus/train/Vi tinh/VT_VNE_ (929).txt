@@ -1,0 +1,6 @@
+Tin Nick Berg còn sống chứa Trojan Hackarmy
+Những ngày qua, hàng chục nghìn diễn đàn đã đưa tin Nick Berg, công dân Mỹ bị du kích Iraq cắt đầu, vẫn còn sống khỏe mạnh tại Iraq. Bản tin chứa đường link tới đoạn video quay cảnh sinh hoạt của nhân vật này nhưng thực ra đó chỉ là một cái bẫy có cài virus Trojan.
+Tin về Berg là miếng mồi mới nhất của nhóm hacker Hackarmy nhằm phát tán những đoạn mã độc hại cho phép chúng kiểm soát máy tính của người dùng. Những lần trước, chúng tung tin giả về vụ tự tử của tài tử điện ảnh kiêm thống đốc bang California Arnold Schwarzenegger và trùm khủng bố Osama Bin Laden. 
+Bản tin khẳng định, kênh truyền hình Ảrập Al Jazeera đã phát đi một video clip ghi hình ảnh sinh hoạt của Berg tại Iraq, đoạn video được đặt trên một trang web của cộng đồng Hồi giáo ở Malaysia. Nếu người dùng tò mò click vào đường link này, virus Trojan sẽ xâm nhập vào máy tính của họ.
+Hãng bảo mật Sophos (Anh) khuyến cáo người dùng nên cập nhật phần mềm chống virus và tránh mở những tin không rõ nguồn gốc.
+

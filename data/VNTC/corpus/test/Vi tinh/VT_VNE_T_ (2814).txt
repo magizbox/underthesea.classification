@@ -1,0 +1,25 @@
+Liên kết 2 phòng máy dùng ADSL (1)
+Tôi hiện đang thử việc cho một Công ty Tin học và gặp vấn đề như sau: Một Dịch vụ Internet có hai phòng máy riêng biệt (cách nhau một căn nhà), mỗi phòng đều có 20 máy, HĐH XP, sử dụng modem ADSL ring (họ đăng ký 2 line ADSL), Hub ring. Nay, họ yêu cầu phải làm sao để các máy trong 2 phòng có thể "nhìn thấy" nhau, chia sẻ dữ liệu và dùng chung máy in với điều kiện không mua sắm thêm hay loại bớt modem.
+Do tôi mới vào nghề, thiếu kiến thức và kinh nghiệm. Kính mong các anh chị hướng dẫn kỹ sớm nhất có thể. Mong lắm thay. Xin chân thành cảm ơn trước ! Trân trọng. 
+Huỳnh Thanh Liêm
+Hồi âm:
+Bạn Huỳnh Thanh Liêm thân mến. Bạn chưa cho biết mỗi phòng máy có sử dụng server gì không, hay chỉ đơn giản là cắm modem ADSL thẳng vào HUB? Trong trường đơn giản: modem ADSL cắm thẳng vào Switch, bạn cần tiến hành như sau:
+Liên kết 2 phòng máy: 
+Kiểm tra khoảng cách kéo cáp từ phòng máy 1 (PM1) sang phòng máy 2 (PM2) xem có vượt quá chiều dài tối ưu cho loại cáp UTP-CAT5 hay không? Nên dưới 100m.
+Kiểm tra switch hiệu gì, có các port uplink hay không?
+Nếu có port uplink, bạn bấm đầu RJ45 cho sợi cáp link 2 switch với nhau theo kiểu straight, rồi cắm 1 đầu vào port uplink của switch ở PM1, đầu kia cắm vào 1 port bất kỳ (bỏ port uplink ra) của switch ở PM2.
+Nếu không có port uplink, bạn phải bấm cáp link này theo kiểu cross over, rồi cắm 2 đầu vào 2 port bất kỳ của 2 switch.
+Đối với các switch mấy năm gần đây đều cho phép uplink hết.
+Cấu hình cho máy giữa 2 phòng nhìn thấy nhau và chia sẻ máy in, files,&: 
+Để 2 phòng máy đều nhìn thấy nhau, nhất thiết phải có cùng tên WORKGROUP và IP Address phải cùng subnet. 
+Nếu cả 2 modem ADSL cùng đăng ký dịch vụ của FPT chẳng hạn, thì 2 modem sẽ có IP là 192.168.1.1, như vậy sẽ phải đổi 1 IP sang số khác, chẳng hạn: 192.168.1.2 (cho modem ADSL ở PM2)
+Tất cả các máy trong 2 phòng máy nên đặt IP tĩnh 192.168.1.x (trừ .1 và .2).
+Như vậy thì 2 phòng máy sẽ nhìn thấy nhau như 1 WorkGroup và bạn muốn share máy in hay gì cũng được.
+Để dễ dàng kiểm tra, bạn nên tắt 1 modem ADSL đi. Dùng lệnh ping để kiểm tra xem các máy có đúng là đã có thể nhìn thấy nhau hay chưa.
+Thiết lập thông số để mỗi phòng dùng đường ADSL như cũ: 
+Với các máy ở PM1, bạn đặt default gateway là 192.168.1.1, các máy ở PM2 có default gateway là 192.168.1.2
+Như vậy, khi truy cập Internet, các máy nào có default gateway gì sẽ đi theo modem ADSL đó ra Internet.
+Chúc bạn thử và kiểm tra thành công!
+Vui lòng báo lại kết quả.
+Thân chào.
+

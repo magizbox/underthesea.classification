@@ -1,0 +1,26 @@
+ ChemLab: Phòng thí nghiệm hóa học ảo 
+Phần mềm ChemLab của Model Science. Có thể tải về bản dùng thử có dung lượng 2,81MB tại đây . Bản dùng thử này cho phép chúng ta làm 7 thực nghiệm khác nhau đó là: 
+- Chuẩn độ Acid-Baz thông qua phản ứng trung hòa và đo độ pH. 
+- Hòa tan và kết tinh một vài loại muối. 
+- Nén khí để minh họa cho mối quan hệ giữa thể tích và áp suất của chất khí trong môi trường nhiệt độ không đổi. 
+- Generic Lab: Thử một vài thiết bị trong phòng thí nghiệm. 
+- Gravimetric Analysis of Chloride Introduction: Một vài thực nghiệm hóa phân tích để xác định thành phần của một hóa chất có gốc muối chlorid (Cl-). 
+- Reaction kinetics in redox reaction (Iodine &amp; hydrogen peroxide): Nghiên cứu phản ứng oxy hóa-khử thông qua phản ứng giữ Iod và nước oxy già. 
+- Specific head lab Introduction: Thử nghiệm về nhiệt. 
+Thực hành với Chemlab 
+1. Nén khí: 
+Bấm menu file&gt;&gt;New trong hộp Chemlab Simulation Modules chọn Gas compression, bấm OK. 
+Trong cửa sổ làm việc, chúng ta thực hành ở phần bên trái. Còn phần bên phải là lý thuyết gồm các thẻ: Introduction-Giới thiệu khái quát; Procedure-các bước trong trình tự thực hành; Observation-Quan sát và báo cáo lại kết quả thực hiện. Với Gas compression chúng ta sẽ thực nghiệm để hiểu trong cùng một điều kiện nhiệt độ để hiểu định luật Boyle. 
+Bấm nút phải chuột trên khoảng trống ở cửa sổ bên phải, menu xuất hiện, chọn Gas Syringe&gt;&gt; 60ml syringer with Gauge. Hộp thoại Initial Gas Syringer Volume, khung Syringer volume (ml) chọn 50, bấm OK. Một chiếc bơm có vạch định chuẩn ở đầu gắn thiết bị đo áp suất xuất hiện. 
+Bấm nút phải chuột vào syringer, trong hộp thoại, giảm thể tích từ 50 xuống còn 40. Tương tự lần sau giảm còn 30, rồi còn 20, cuối cùng là 10. Mỗi lần như vậy bấm OK và quan sát sự thay đổi áp suất trong thiết bị đo ở đầu syringer. Cuối cùng bấm thẻ Observations để đọc kết quả hiển thị. 
+2. Phản ứng trung hòa Acid-Baz: 
+Bấm menu File&gt;&gt;New trong hộp Chemlab simulation Modules chọn Acid-Base Titration, bấm OK để vào môi trường làm việc. 
+Bấm chọn thẻ Procedure và thực hành theo hướng dẫn trong thẻ này. 
+Bên cửa sổ phải, bấm nút phải chuột ở khoảng trống, trong menu, chọn Erlenmayer flask&gt;&gt; 100ml flask (Bình nón có dung tích 100ml). Thêm vào bình nón này 35ml dung dịch HCl 0.2M bằng cách. Bấm nút phải chuột vào bình nón, chọn Chemicals để có hộp Chemicals. Bấm khung Chemicals chọn (0.2M) NaOH. Khung Volume chọn 35ml, bấm OK sẽ thấy một lượng dung dịch không màu xuất hiện trong bình. 
+Thêm vào bình nón hai giọt chất chỉ thị màu Phenolphthalein bằng cách bấm nút phải chuột vào bình nón, trong menu chọn Indicators để có hộp Indicators. Chọn chất chỉ thị là Phenolphthalein, khung Drops to Add chọn 2, bấm OK. 
+Hiển thị thước đo độ pH bằng cách bấm nút phải chuột vào bình nón chọn pH Meter. Dưới đáy bình xuất hiện khung nhỏ màu xanh ghi pH: 0.7. 
+Bấm nút phải chuột vào bình, đánh dấu chọn Collect Titration Data. Bấm nút phải chuột lần nữa, đánh dấu chọn View Titration Data để hộp Titration Data hiển thị. 
+Bấm nút phải chuột lên khoảng trống, trong menu chọn Buret 50ml. Bấm nút phải chuột vào Buret, chọn Chemicals. Trong hộp Chemicals chọn (0.2M) NaOH quy định Volume là 50ml. Bấm OK Buret lúc này đã chứa đầy dung dịch NaOH 0.2M do đó nó từ màu xám chuyển qua màu trắng. Di chuyển cho Buret lên phía trên và bình nón hứng phía dưới. 
+Trong hộp Titration-Unlab xuất hiện cùng lúc với Buret, gõ vào Start Vol 50 (ml) và End Vol (50ml). Kế tiếp ở thanh trượt phía trên cùng, bấm chuột kéo từ tái qua phải, đầu tiên là chậm sau đó nhanh dần, thả chuột ra, quan sát dung dịch NaOH nhỏ từ buret xuống bình nón và ghi nhận điểm chuyển từ không màu sang màu hồng (do chỉ thị màu Phenolphthalein). Khi chảy đến giọt cuối cùng, ghi nhận pH lúc này là 12,55. Cùng trong tiến trình đó, hộp Titration Data cũng hiển thị đồ thị theo diễn biến của quá trình phản ứng. 
+Với ChemLab, một lần nữa tin học đã một phần đóng góp cho giáo dục. Các bạn hãy bỏ chút thời gian vừa học vừa chơi với Chemlab. 
+

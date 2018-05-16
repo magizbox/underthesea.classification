@@ -1,0 +1,14 @@
+Onspeed tăng tốc độ lướt web 500%
+Giải pháp tối ưu cho người sử dụng dial-up modem để lướt web, sử dụng công nghệ nén "độc nhất vô nhị" là Content Sentive Compression (CSC) để "gói" các thành phần cấu thành một trang web hoặc nội dung của thư điện tử. Kết quả là tốc độ tải về của website và gửi thư gia tăng lên 5 lần. 
+Phiên bản mới nhất Onspeed (OS) 3.6.68 có dung lượng 3,01 MB, tương thích với mọi Windows, hỗ trợ hầu hết thiết bị kết nối như dial-up modem, IDSN, DSL, cable modem... Có thể tải bản dùng thử tại: www.onspeed.com/download/trial/ONSPEED_download_trial.zip. 
+Sau khi cài đặt, chương trình sẽ nạp chung vào quá trình khởi động Windows và có biểu tượng quả bóng màu xanh trên khay đồng hồ. Click phải chuột vào biểu tượng đó và chọn Settings để thiết lập một số tính năng quan trọng cho chương trình. 
+Trong cửa sổ Settings, ở tab Image Quality, hãy kéo thanh trượt về tận cùng bên trái (phía Accelerator: Maximum) để gia tăng tối đa khả năng nén hình ảnh của OS. Khi trang web được tải xong, chất lượng nguyên thủy của hình ảnh sẽ vẫn giữ nguyên. 
+Ở tab Connection, gõ vào tên và password đăng nhập bất kỳ cho chương trình. Tên và password này sẽ luôn xuất hiện mỗi khi người dùng kết nối vào mạng, nó chỉ mất đi khi chương trình bị gỡ bỏ.
+Ở tab Features, đánh dấu cho cả hai thẻ Enable Macromedia Flash Compression (nén dữ liệu với các file Macromedia flash) và Block in-page advertisements (ngăn chặn toàn bộ quảng cáo xuất hiện trong một trang web) để cải thiện hơn nữa tốc độ lướt web.
+Sau khi thiết lập xong các tính năng, chọn OK để hoàn tất.
+Tiếp đó, hãy click phải chuột vào biểu tượng quả bóng và chọn thẻ Pop-Up Blocker để thiết lập một số thông số khác của chương trình. Tại tab Options, đánh dấu cho hai thẻ Enable PopUp Blocker (ngăn chặn pop up tự bung) và Block floating Flash-Ads (ngăn chặn các quảng cáo dạng flash động). Tab Logging cho biết chi tiết số pop-up mà chương trình đã ngăn chặn. Cuối cùng, chọn OK để hoàn tất. 
+Chương trình còn có công cụ chẩn đoán tốc độ đường truyền. Hãy click phải chuột vào biểu tượng quả bóng và chọn Help  Diagnostic. Trong cửa sổ, Diagnostics xuất hiện, nếu muốn đo lường tốc độ đường truyền hiện thời của modem thì nhấn General. Kết quả sẽ được thể hiện tại cửa sổ Diagnostics.
+Cần lưu ý là OS chỉ tăng tốc lướt web, không làm tăng kích thước các thông số kết nối nên sẽ không tăng tốc download file. Do đó, nên sử dụng thêm một chương trình tăng tốc download song song với OS, tốt nhất là Internet Download Manger. Bên cạnh đó, OS không tương thích để tăng tốc cho các webite bảo mật (HTTPS). Tính năng tăng tốc của chương trình sẽ tự động tắt khi người sử dụng truy cập vào các trang web loại này. 
+Trong khi lướt web, không nên chạy thêm bất cứ một chương trình thứ ba nào khác như nghe nhạc chẳng hạn. 
+Nên kết hợp sử dụng trình duyệt Mozilla Firefox với OS để đạt được tốc độ duyệt web tối ưu nhất. 
+

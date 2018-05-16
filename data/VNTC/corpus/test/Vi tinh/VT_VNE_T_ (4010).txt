@@ -1,0 +1,7 @@
+Dùng Wi-Fi ăn cắp chính ngân hàng của mình 
+Một nhân viên an ninh vừa bị bắt sau khi ăn trộm 245.000 USD bằng cách sử dụng máy tính xách tay để tấn công vào hệ thống ngân hàng GE Money (Phần Lan) mà hắn đang làm việc.
+Cảnh sát cho biết Trưởng ban bảo mật 26 tuổi của GE Money đã lấy cắp phần mềm dữ liệu ngân hàng và tiếp tay cho tòng phạm truy cập tài khoản qua một laptop sử dụng mạng Wi-Fi không cài chương trình bảo vệ từ một toà nhà gần đó.
+Chúng dùng mật khẩu ăn cắp để chuyển tiền đến tài khoản lập 6 tháng trước đây trong chính ngân hàng này, và tưởng rằng lợi dụng mạng không dây của ai đó sẽ giúp chúng xoá dấu vết dễ dàng.
+Nghi ngờ bắt đầu tập trung vào người chủ mạng Wi-Fi cho đến khi cảnh sát lục tìm toà nhà và khẳng định người này vô can. Tuy nhiên, trong quá trình điều tra, họ đã phát hiện một laptop MAC thuộc GE Money có dấu vân tay của một cán bộ an ninh trong ngân hàng. Cảnh sát vẫn đang tiếp tục điều tra và nhân viên này cùng 3 kẻ tình nghi khác vẫn chưa bị đưa ra toà.
+"Có thể khẳng định nhân viên bảo mật của chúng tôi chắc chắn liên quan đến vụ việc và hắn đã lập tức bị sa thải", Pekka Pattiniemi, Tổng giám đốc của GE Money, tuyên bố. "Không có thiệt hại đáng kể nào xảy ra do cơ chế điều chỉnh từ bên trong của ngân hàng hoạt động hiệu quả và đã thu hồi số tiền ngay sáng hôm sau".
+

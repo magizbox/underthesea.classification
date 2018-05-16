@@ -1,0 +1,12 @@
+Google phát hành hệ thống tin nhắn nhanh
+Hãng tìm kiếm số một thế giới vừa công bố chương trình "chát chít" miễn phí mang tên Google Talk cho phép thực hiện hội thoại dạng text (ký tự) và giọng nói (voice) tương tự như Yahoo Messenger. 
+Giao diện cửa sổ hội thoại.
+Giao diện cửa sổ chính.
+Google Talk hoạt động trên chuẩn mã mở Jabber, cho phép khách hàng kết nối với những hệ thống khác cùng sử dụng Jabber như ICQ của America Online (AOL) hay iChat của Apple.
+Phần mềm có dung lượng 900 KB, chỉ cần vài giây với kết nối băng thông rộng và 3 phút cho modem dial-up để tải về máy. Chương trình tương thích Windows XP và 2000. Người dùng sẽ đăng nhập (Sign-in) với tên và mật khẩu của Gmail (không có phần Đăng ký). Sử dụng các tính năng trong Google Talk tương đối đơn giản và khá giống với những dịch vụ khác, tuy khác biệt về biểu tượng và kiểu hiển thị status. Xem mô tả chi tiết tại đây.
+Tuy nhiên, giới quan sát nghi ngờ khả năng Google có thể lôi kéo được hàng triệu người từ bỏ những ứng dụng quen thuộc hiện nay như AIM, Yahoo Messenger và MSN Messenger. Hơn nữa, để sử dụng chương trình này, khách hàng bắt buộc phải có tài khoản ở Gmail. 
+"Nếu công cụ của Google không thể nối trực tiếp tới AOL để người sử dụng Google Talk nói chuyện được với khách hàng AIM, hãng dịch vụ tìm kiếm sẽ gặp nhiều khó khăn", Danny Sullivan, thành viên của tổ chức Search Engine Watch (Mỹ), khẳng định.
+Kết hợp cả hai tính năng text và voice, dịch vụ của Google đang ở vị thế cạnh tranh trực tiếp với Skype, vốn thu hút 10 triệu người dùng, đặc biệt ở châu Âu. "Đây có thể là thông tin tệ nhất cho những đối thủ như Skype, bởi giờ không chỉ có 2 mà là 3 gã khổng lồ cùng muốn chứng tỏ sự mờ nhạt và yếu kém của hãng này", Om Malik, phóng viên tự do ở Mỹ, viết trên trang web cá nhân của mình.
+Trước sự ra đời của hệ thống IM mới ra mắt, những tập đoàn như Yahoo, AOL hay Microsoft sẽ phải nhanh chóng nâng cấp hệ thống tin nhắn nhanh hiện nay và mở rộng hơn nữa dịch vụ gọi điện thoại qua mạng VoIP. AIM và ICO của AOL hiên nay thu hút hơn 40 triệu người dùng chỉ riêng ở Mỹ. Yahoo đứng thứ hai với 20 triệu khách hàng và MSN Messenger của Microsoft bám buổi ngay sau với 14 triệu người sử dụng.
+Đầu tuần này, Google từng tuyên bố đang thiết lập một chương trình hỗ trợ quản lý e-mail, tin nhắn nhanh, tin tức và âm nhạc. Hãng cũng đã ra mắt dịch vụ mới Google Sidebar, phần mềm độc lập trên máy tính người dùng có khả năng cập nhật thông tin trực tiếp.
+

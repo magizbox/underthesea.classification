@@ -1,0 +1,5 @@
+ Mozilla giới thiệu FireFox 2.0 Alpha 1
+Phiên bản Bon Echo Alpha 1 này được tung ra nhằm mục đích thu hút thông tin phản hồi để Mozilla có thể sửa chữa nhằm hoàn thiện cho bản FireFox 2.0. Một chức năng mà Mozilla đã cải tiến khá nhiều là chức năng bảo lưu liên kết (bookmark), mang tên Places, sử dụng lớp lưu trữ dữ liệu mới với SQLlite. Ngoài ra, việc cải tiến thêm ở phần duyệt theo thẻ, hỗ trợ SVG sử dụng svg:textPath, mở rộng, bổ sung phần định dạng tìm kiếm và cập nhật hàng tá lỗi bảo mật ở các phiên bản trước. 
+Hiện tại, Mozilla vẫn không khuyến cáo người dùng sử dụng rộng rãi thường xuyên phiên bản FireFox 2.0 Alpha 1 này. Chủ yếu vẫn là thử nghiệm và thu nhận kết quả phản hồi từ người dùng. “FireFox 2.0 Alpha 1 là cột mốc đầu tiên cho chặng đường phát triển FireFox 2.0”, Mike Schroepfer, phó chủ tịch của Mozilla cho biết. 
+Hoạt động trên nhiều hệ điều hành như Windows, Linux và cả Mac OS X, FireFox 2.0 Alpha 1 Bon Echo có thể tải về dùng thử tại đây . 
+

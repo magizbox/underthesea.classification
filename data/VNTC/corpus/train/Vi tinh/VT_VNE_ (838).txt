@@ -1,0 +1,7 @@
+Yahoo cung cấp dịch vụ chia sẻ ảnh qua ĐTDĐ
+Hôm nay, Yahoo ra thông báo về một tính năng mới - Yahoo Photos - cho phép khách hàng đẩy ảnh từ điện thoại di động của mình lên trang web chia sẻ ảnh.
+Yahoo Photos cho phép điện thoại chụp ảnh được truy cập hình lưu trữ trong Yahoo Photos. Trước đây chỉ những thiết bị sử dụng kết nối Internet có dây mới được khai thác những tính năng này. Để sử dụng dịch vụ mới, người dùng cần phải nhập thông tin về model, tên công ty sản xuất thiết bị và hãng cung cấp dịch vụ. Sau đó, khách hàng đã đăng ký sử dụng Yahoo sẽ nhận được một địa chỉ e-mail để gửi ảnh từ điện thoại của mình lên tài khoản trực tuyến Yahoo Photos. Tuy nhiên, tính năng này chỉ được áp dụng với những điện thoại chạy được phần mềm Java.
+Số người sử dụng điện thoại chụp ảnh đang tăng mạnh và Yahoo cố gắng thuyết phục họ sử dụng dịch vụ của mình. Bên cạnh đó, hãng cũng cho phép các thuê bao của Sprint và ATT xem và tải hình ảnh từ tài khoản Yahoo Photos. Ngoài ra, Yahoo cũng đang phối hợp cùng các nhà cung cấp dịch vụ điện thoại di động như Cingular và ATT phát triển dịch vụ nhắn tin từ máy tính sang điện thoại.
+Theo đại diện của hãng, người dùng Yahoo được sử dụng miễn phí dịch vụ này. Khách hàng thuê bao của hãng Sprint Communications, ATT, T-Mobile, Cingular Wireless và Verizon mỗi tháng phải trả 3 USD.
+Hạn chế hiện nay của dịch vụ điện thoại di động là chỉ những khách hàng cùng sử dụng 1 nhà cung cấp dịch vụ thì mới có thể gửi ảnh được cho nhau. Yahoo nhận thức được điểm yếu đó nên đã nhanh chóng ra mắt tính năng mới này.
+

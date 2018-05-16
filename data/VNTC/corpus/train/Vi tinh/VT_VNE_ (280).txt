@@ -1,0 +1,11 @@
+Cách nào để biết người nhận đã đọc mail (2)
+Làm ơn chỉ giúp em làm thế nào để biết người bạn của mình đã đọc mail mình gửi.
+levanthong
+Hồi âm:
+Bạn có thể sử dụng tính năng "Notify me when recipient gets this card" trong các website gửi thiệp.
+Mỗi lần bạn gửi thư hãy check vào mục đó, thì khi người bạn của bạn đọc thư, bạn sẽ nhận được thông báo từ trang web mà bạn gửi thư. Bạn có thể tham khảo thêm cách làm và các website gởi thiệp có tính năng này tại trang web http://ho-xi.web1000.com/thuthuat/xemmailchua.htm
+Hoặc www.hoxi.web1000.com 
+Hồ Xị
+Để biết được người nhận có đọc mail của mình hay không thì bạn làm như sau:   Đối với Outlook Express: Bạn vào Tools\Options, chọn tab Receipts, sau đó nhấn chọn hộp kiểm (check box) "Request a read receipt for all send messages", rồi nhấn OK.   
+Đối với Microsoft Outlook: Bạn vào Tools\Options. Tại tab Preferences, bạn nhấn nút "E-Mail Options", kế tiếp bạn nhấn nút "Tracking Options", sau đó bạn nhấn vào hộp kiểm "Read receipt" - Rồi nhấn OK nhiều lần.   == Khi đó các mail của bạn gởi đi sẽ được hồi âm báo cáo rằng người nhận đã đọc chúng.   Chúc bạn thành công,   
+

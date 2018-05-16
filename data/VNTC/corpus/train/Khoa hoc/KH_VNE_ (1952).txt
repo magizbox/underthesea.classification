@@ -1,0 +1,12 @@
+Laser biến vật rắn thành vô hình
+Một chùm sáng kiểu laser chiếu vào một vật rắn độc nhất vô nhị đã khiến vật liệu này trở nên gần như biến mất. Hiệu ứng xảy ra ở bước sóng hồng ngoại, vì thế mắt thường không thể quan sát thấy. 
+Tuy nhiên, thành viên nhóm nghiên cứu Chris Phillips, một nhà vật lý tại Đại học Hoàng gia London, cho biết: "Nếu hiệu ứng này xảy ra ở bước sóng nhìn thấy đối với các phân tử cấu thành bàn tay bạn, thì khi chùm laser này chiếu vào, tay bạn sẽ trở nên trong suốt". 
+"Và nếu sau đó bạn tăng cường chùm laser thêm một ít, thì cảnh vật nhìn thấy xuyên qua phía sau bàn tay sẽ trở nên sáng hơn, nhờ hiệu ứng phóng đại ánh sáng trong chùm", ông nói. 
+Phillips và cộng sự từ Đại học Neuchatel, Thụy Sĩ, tin rằng phương pháp này một ngày nào đó có thể áp dụng với ánh sáng ở bước sóng nhìn thấy, và đưa tới những công nghệ mới giúp nhìn thấu gạch đá vụn trong khi tìm kiếm nạn nhân của các vụ thảm họa, hoặc quan sát nội tạng trong cơ thể bị xương che khuất. 
+Trong báo cáo công bố mới đây trên tạp chíNature Materials, các nhà khoa học cho biết đã thực hiện kỳ công của mình trên loại vật liệu vốn được dùng để chế tạo các chip bán dẫn. Thông thường, các electron trong nguyên tử của vật liệu này tương tác với những chùm sáng theo một cách ôn hoà. 
+Nhưng Phillips và cộng sự đã tái xắp xếp vật liệu sao cho nó chứa các nguyên tử nhân tạo - những tinh thể có cấu trúc đặc biệt, dài chỉ vài phần tỷ mét. Vì những nguyên tử này là nhân tạo, nên các nhà khoa học có thể điều chỉnh hoạt động của các electron - mang đặc điểm của sóng - trong đó. 
+Khi chùm sáng chiếu lên vật liệu, nó tương tác với trạng thái dạng sóng của electron bên trong nguyên tử nhân tạo, vì thế chúng huỷ lẫn nhau và tạo ra một dạng vật liệu mới, trong suốt, có tính chất nửa vật chất nửa sóng. 
+Các nhà khoa học tiếp tục khuyếch đại chùm sáng, mặc dù 80% nguyên tử nhân tạo ở trong trạng thái kích thích thấp. Điều này đi ngược với một giả thuyết do Albert Einstein đưa ra, rằng để khuyếch đại chùm sáng trong một chùm laser, đa số các nguyên tử phải ở trạng thái kích thích cao.
+"Họ đã chứng tỏ rằng hiệu ứng này có thể xảy ra trong môi trường trạng thái rắn, yếu tố rất quan trọng cho những ứng dụng thực tiễn", Lene Vestergaard Hau, giáo sư về vật lý ứng dụng tại Đại học Harvard nhận xét. 
+Mục tiêu tiếp theo của nhóm nghiên cứu là kiểm soát và khuyếch đại chùm sáng tốt hơn, sao cho không cần đến cấu trúc đặc biệt vẫn có thể tạo ra hiệu ứng nhìn xuyên vật rắn. 
+

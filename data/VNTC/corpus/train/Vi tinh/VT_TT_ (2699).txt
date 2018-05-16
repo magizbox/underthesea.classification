@@ -1,0 +1,4 @@
+ VNPT và Viettel đã thống nhất biện pháp khắc phục sự cố
+Tại buổi làm việc, VNPT và Viettel đã đồng ý với kết quả đo chất lượng cuộc gọi thực hiện tại Ninh Bình với tỉ lệ cuộc gọi thành công đạt trung bình 70%, tỉ lệ thành công giờ cao điểm (từ 19g- 21g) đạt 20%. Trên cơ sở đó, hai bên thống nhất cùng kiểm tra lại mạng của mình để có biện pháp khắc phục. 
+Ngoài ra, VNPT và Viettel cũng cam kết sẽ trao đổi bảng thống kê các cuộc gọi do tổng đài mỗi bên ghi được để cùng phối hợp giải quyết trong trường hợp phát hiện tỉ lệ cuộc gọi không thành công tăng cao quá mức bình thường. 
+

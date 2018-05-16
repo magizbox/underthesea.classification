@@ -1,0 +1,7 @@
+Lộ dữ liệu, giám đốc nhịn lương 6 tháng
+Softbank, nhà cung cấp dịch vụ băng rộng lớn nhất Nhật Bản, cuối tuần qua thừa nhận có sự rò rỉ thông tin cá nhân của 4,52 triệu thuê bao. Ngay sau khi công bố tin này, Chủ tịch Masayoshi Son của hãng tuyên bố sẽ góp 6 tháng lương để bồi thường cho khách hàng. 
+Những dữ liệu bị khai thác bao gồm tên, số điện thoại, địa chỉ bưu điện, địa chỉ e-mail và mã số ID Yahoo của khách hàng. Tuy nhiên, không có dấu hiệu cho thấy những thông tin về số tài khoản ngân hàng, số thẻ tín dụng và password bị lọt ra ngoài.
+Báo giới Nhật Bản mô tả vụ việc này như trường hợp thất thoát thông tin khách hàng lớn nhất từ trước đến nay. Cảnh sát Tokyo đầu tuần qua thông báo họ đã bắt giữ 4 người đàn ông vì nghi ngờ là thủ phạm ăn cắp những dữ liệu bí mật nói trên và có âm mưu tống tiền hãng Softbank với lời đe dọa công bố tin tức.
+Softbank cho biết họ cũng đã chuẩn bị trả 4 tỷ yen (khoảng 36 triệu USD) để bồi thường cho nạn nhân, tức các thuê bao Yahoo thuộc mạng băng rộng ADSL do họ cung cấp trong khuôn khổ một hợp đồng liên doanh với chi nhánh Yahoo tại Nhật (hiện là cổng Internet lớn nhất nước này).
+Những thông tin bị ăn cắp là của các khách hàng đang sử dụng dịch vụ và cả của những người trong giai đoạn đăng ký tham gia. Softbank có mục tiêu đến tháng 9/2005 sẽ đạt tổng số 6 triệu thuê bao.
+

@@ -1,0 +1,6 @@
+Phần mềm gián điệp là hiểm họa số 1
+Theo một cuộc thăm dò do hãng WatchGuard (Mỹ) thực hiện, 66% nhà quản lý công nghệ thông tin và quản trị mạng đánh giá spyware sẽ là mối đe dọa lớn nhất đến an ninh của hệ thống trong năm 2005, nhiều hơn cả virus lẫn phishing. 
+65% số người được hỏi cho biết, trong số 3 hiểm họa thường trực là virus, phishing và spyware, khả năng chống lại phần mềm gián điệp của hệ thống là yếu kém nhất. 
+Thậm chí, các nhà quản lý còn phàn nàn rằng cả người điều hành lẫn người sử dụng của họ đều không hiểu hoặc ít quan tâm đến mối nguy hiểm tiềm tàng của spyware. 54% coi virus là mối đe dọa chung, trong khi chỉ 38% đặt spyware lên hàng đầu. 
+Ngoài ra, 3/4 số nhà quản lý công nghệ thông tin cho biết hơn một nửa số người sử dụng trong hệ thống của họ không hề biết spyware là gì. 
+

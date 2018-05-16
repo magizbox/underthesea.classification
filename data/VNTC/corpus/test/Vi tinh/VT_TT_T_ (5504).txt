@@ -1,0 +1,4 @@
+ Xử lý hình ảnh cho Mobile
+Khi chụp một bức ảnh từ điện thoại, có thể bạn sẽ gặp tình trạng mắt đỏ, mờ nhạt hay thiếu ánh sáng, độ tương phản cũng như bóng không chính xác… nếu vậy chất lượng tấm ảnh sẽ bị giảm đi rất nhiều. Shorcut PhotoMobile được thiết kế để sửa chửa và tăng chất lượng hình ảnh. Những khoảnh khắc yêu thích của bạn sẽ được lưu giữ mãi mãi với Shorcut PhotoMobile. 
+Shorcut PhotoMobile là công cụ chỉ dành cho điện thoại di động hỗ trợ camera, hỗ trợ in ảnh không khung, dễ dàng sử dụng với giao diện thân thiện, chạy trên hầu hết các phiên bản hệ điều hành Windows: 95, 98, 2000, NT4, XP, 2003 có thể tải về bản dùng thử tại đây . 
+

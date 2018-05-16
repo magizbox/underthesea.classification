@@ -1,0 +1,7 @@
+ Linux Mandriva phát hành phiên bản 2006
+Cuộc chiến của Linux và Windows còn chưa ngã ngũ thì ngay trong “nội bộ” cộng đồng Linux cũng có một cuộc chiến khác. 
+Đáp trả việc phát hành phiên bản SUSE 10, Mandriva cho phát hành bản Linux Mandriva 2006 với nhiều tính năng nâng cao như cải thiện công cụ tìm kiếm, tính năng tường lửa tự động và máy chủ tự động cài đặt. 
+Phiên bản 2006 của Linux Mandriva dựa trên Kernel 2.6.12, gcc 4.0, X.org 6.9, bao gồm cả giải pháp OpenOffice.org 1.1.5 và công cụ Akregator hỗ trợ sử dụng RSS. Ngoài ra, Mandriva cũng tích hợp phiên bản mới của trình duyệt Opera và Skype cho truyền thông liên lạc. 
+Giao diện đồ họa của Mandriva 2006 dựa trên KDE 3.4 và GNOME 2.10, được tổ chức khoa học hơn giúp người dùng dễ sử dụng. Mandriva cũng cho biết phiên bản này tương thích tốt với mạng không dây và Centrino của Intel. 
+Muốn tải về phiên bản Linux Mandriva 2006 thì phải đăng ký thành viên tại đây . Linux Mandriva 2006 được phát hành theo 2 nền là i586 và x86-64, phân phối qua mạng chia sẻ ngang hàng P2P BitTorrent, HTTP hay máy chủ FTP. 
+

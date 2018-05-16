@@ -1,0 +1,6 @@
+Lỗi Win98Se khi kết nối Internet (1)
+Máy tính của em đang dùng Win98Se và nối mạng Internet ADSL. Không hiểu sao máy tự nhiên báo lỗi như sau: "This program has performed an illegal operation and will be shut down..If the problem persisk contack the program vendor" và kèm theo hai nút lệnh: CLOSE và DETAIL. Kích vào Close thì những chương trình đang chạy tắt luôn, ví dụ đang chạy Internet hoặc đang soạn thảo văn bản chẳng hạn. Em mong các anh chị chỉ giúp em.
+Nguyễn Văn Huấn
+Hồi âm:
+That su toi cung da gap loi nhu may cua ban lam luc cung buc lam khong the vao duoc mot truong trinh nao cua may het, may cua toi con nang hon, co khi an chuot vao mycomputer cung khong duoc va lai bao loi nhu vay,theo kinh nghiem cua toi thi ban nen dung mot phan mem quet virus that manh nhu Norton antivirus khong han la may cua ban bi virus ma sau khi quet no se tu fix cac loi system cho ban. Toi da lam nhu vay cung duoc roi va toi thay rat hieu qua, chuc vui nhe.
+

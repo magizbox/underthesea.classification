@@ -1,0 +1,8 @@
+Utt_maker: Tối ưu hoá việc xếp thời khoá biểu
+Việc sắp xếp Thời khoá biểu (TKB) và giảng đường đối với các trường đại học lớn là công việc tương đối khó khăn và phức tạp. Tuy nhiên, Utt_maker sẽ giúp mọi thứ sẽ trở nên dễ dàng hơn.
+Được ITEG-VN, một nhóm chuyên nghiên cứu giải pháp tin học hoá các hoạt động giáo dục (website:http://www.iteg-vn.net), phát triển từ năm 2000, Utt_maker là phần mềm chuyên hỗ trợ xếp TKB cho các trường ĐH, CĐ và THCN ở Việt Nam.
+Utt_maker có các tính năng như hỗ trợ xếp tự động hoàn toàn theo nhiều tiêu chí khác nhau (ưu tiên theo lớp, giáo viên, khoa, khoá học, hệ đào tạo, môn học...). Bên cạnh việc xếp tự động, phần mềm cũng cho phép thực hiện các thao tác thủ công như: xoá, sửa, thay đổi(giáo viên, phòng học), chuyển tiết, đổi tiết... Người sử dụng cũng có thể xếp TKB các lớp trước rồi xếp giáo viên sau, tính năng này thích hợp cho các trường thiếu giáo viên hoặc lịch giảng dạy của giáo viên không cố định. 
+Kết quả của việc xếp thời khoá biểu có thể xuất sang file HTML và được liên kết với nhau để tiện cho việc tra cứu, đưa lên website... Ngoài ra, dữ liệu còn được xuất sang dạng Exel để dễ dàng tính toán khối lượng giảng dạy của giáo viên, khối lượng học tập của sinh viên.
+Giao diện chương trình được thể hiện bằng tiếng Việt, việc cài đặt khá dễ dàng và không đòi hỏi cấu hình máy cao.
+Hiện tại, phiên bản mới nhất, 2004.12, sẽ được phát hành vào cuối tháng này. Có thể download bản dùng thử (version 2003.10, dung lượng 31,3 MB)tại đây.
+

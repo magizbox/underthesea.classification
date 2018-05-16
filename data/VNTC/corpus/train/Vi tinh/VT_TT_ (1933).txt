@@ -1,0 +1,7 @@
+ Yahoo SMS Messenger qua Vinaphone
+Nếu đăng nhập từ máy tính, trong cửa sổ YM, bạn chỉ cần trỏ con chuột vào chữ Messenger trên thanh công cụ và chọn "Sign in to Mobile Device". Nếu đây là lần đầu tiên bạn sử dụng dịch vụ này, bạn phải cung cấp tên mạng di dộng và số di động của mình. Từ các lần tiếp theo bạn vào mục Messenger trên thanh công cụ và chọn mục có hiện số di động của mình. 
+Nếu không có máy tính bên cạnh, bạn vẫn có thể dùng máy điện thoại di động để đăng nhập vào chế độ "Messenger qua SMS". Muốn vậy bạn gửi một tin nhắn có nội dung: "in [địa chỉ YM của bạn] [mật khẩu của bạn]" tới số 8269. Ví dụ: Địa chỉ YM của bạn là lanhuong, mật khẩu là 123456 thì bạn soạn tin nhắn "in lanhuong 123456" gửi đến 8269 (lưu ý sử dụng chữ thường khi đánh mật khẩu). 
+Sau khi đă đăng nhập vào chế độ "Messenger qua SMS", bạn sẽ nhận được danh sách những người bạn đang online. Những người bạn đang online bằng máy tính của bạn sẽ nhìn thấy bên cạnh địa chỉ YM của bạn dòng chữ "I'm on SMS" (tôi đang online bằng SMS). 
+Lúc này, bạn đã ở chế độ sẵn sàng "chat" với bất cứ user YM nào khác thông qua tin nhắn SMS hai chiều gửi đi và gửi đến số 8269 (giá cước 2.000đ/tin nhắn). Để thoát ra khỏi chế độ "Messenger qua SMS" từ máy điện thoại di động, chỉ cần soạn tin nhắn có nội dung "out" và gửi tới số 8269. 
+Nếu đăng nhập nhưng không sử dụng dịch vụ trong một tuần, Yahoo! sẽ tự động đăng xuất bạn ra khỏi chế độ "Messenger qua SMS" và gửi đến bạn một tin nhắn thông báo. Sau đó, nếu muốn sử dụng dịch vụ này, bạn sẽ phải đăng nhập lại. 
+

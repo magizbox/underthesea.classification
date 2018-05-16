@@ -1,0 +1,7 @@
+Thêm một bí quyết bơi nhanh của cá heo 
+Các nhà vật lý Nhật Bản vừa khám phá ra cách thức mới giúp cá heo lao đi nhanh hơn: liên tục lột da. Phát hiện này đã bổ sung vào danh mục những đặc điểm tiến hoá kỳ diệu hỗ trợ việc bơi trong nước, như thuôn nhọn cơ thể theo dạng khí động học, nhằm giảm áp lực của nước lên da và giảm ma sát.
+Giáo sư Yoshimichi Hagiwara cùng cộng sự tại Viện Công nghệ Tokyo đã quan sát thấy lớp da cá heo tróc vảy liên tục, và cứ sau khoảng 2 giờ con vật lại khoác một bộ da hoàn toàn mới. Quá trình này làm giảm đáng kể hai loại lực cản nói trên và giúp chúng lao đi nhanh hơn. 
+Để tìm hiểu vai trò của lớp da mềm, dễ tróc này, các nhà nghiên cứu đã sáng chế ra một mô hình máy tính chi tiết mô phỏng dòng chảy của nước qua da cá heo, cũng như quan sát đến từng miếng vảy da và cách thức mà nó rơi ra. Họ nhận thấy sự gợn sóng của lớp da làm giảm lực ma sát. Ngoài ra, những mảng da khi bị lột xuống sẽ phá huỷ các xoáy nước vốn xuất hiện xung quanh bề mặt cá heo và cản đường bơi của nó. 
+Nhằm kiểm nghiệm mô hình, nhóm đã lập một thí nghiệm mô phỏng bộ da cá heo, bằng cách dùng một chiếc đĩa gợn sóng, trên có gắn các miếng phim nhỏ xíu có thể rơi ra khi nước chảy qua. 
+Nghiên cứu mở ra hy vọng sẽ giúp chế tạo các con thuyền, tàu biển và tàu ngầm có tốc độ cao hơn, sử dụng công nghệ dựa trên các giải pháp tự nhiên. Hagiwara và cộng sự nay đang cải tiến mô hình dựa trên một vật liệu thí nghiệm bằng caosu-silicon mềm, với mục tiêu mô phỏng bộ da cá heo chính xác hơn. 
+

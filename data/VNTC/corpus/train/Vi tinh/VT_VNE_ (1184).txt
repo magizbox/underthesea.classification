@@ -1,0 +1,7 @@
+Những khiếm khuyết lớn trong PHP
+Nhóm phát triển ngôn ngữ scripting phổ biến này vừa tung ra bản nâng cấp cho một số lỗi có nguy cơ cao. Người sử dụng được khuyến cáo nên cập nhật lên bản PHP 4.3.10 ngay lập tức vì những lỗ hổng nói trên rất dễ khai thác.
+Stefan Esser, chuyên gia của Dự án tăng cường PHP, nơi phát hiện ra khiếm khuyết trong quá trình phát triển một số bổ sung an ninh cho PHP, cho biết những lỗi mà họ công bố thuộc nhiều dạng, từ gây tràn bộ nhớ đệm, rò rỉ thông tin, cắt cụt đường dẫn (path truncation), cho đến lẩn tránh sự hạn chế ở safe mode&
+Những kẻ tấn công có thể sử dụng một số khiếm khuyết để truy hồi dữ liệu bí mật từ hoạt động ở quy trình máy chủ web "apache", tránh được những hạn chế an ninh và giành quyền ưu tiên ngày càng cao hơn. 
+Hãng phần mềm bảo mật Đan Mạch Secunia đánh giá những khiếm khuyết trên thuộc dạng rất nghiêm trọng. Bản nâng cấp mà nhóm phát triển PHP vừa đưa ra còn vá hơn 30 lỗi không nguy hiểm khác. Danh sánh cụ thể được liệt kê ở đây.
+PHP là một trong những ngôn ngữ lập trình scripting được sử dụng rộng rãi nhất trên Internet và thường được nhúng trong các trang HTML.
+

@@ -1,0 +1,10 @@
+Modem kêu dài (3)
+Xin chào. Mình đang dùng int. modem dial-up Generic Soft56K Data Fax Voice - CNXT (XP Pro.), connect bình thường nhưng khi disconnect thì modem vẫn kêu rè rè, reset vẫn không hết, mình chỉ còn cách rút line ra mới yên lặng được, dù mình đã disable speakerfone và dùng driver-CD kèm theo! Khi shutdown xong mở PC lại thì ổn, tóm lại là chỉ connect xong mới gặp tình trạng như vậy.Vui lòng giúp mình cách khắc phục. Chân thành cảm ơn. 
+Khánh Quốc
+Hồi âm:
+Toi cung chua gap truong hop nhu cua ban bao gio nhung theo kinh nghiem ban than de tat tieng modem thi ban phai lam nhung buoc sau. Vao device manager con modem cua ban. Chon Properties Chon tab Advance Trong Hop chon Comand gho vao: M0 (chu M va so 0). Hi vong canh lam tren se co the giup ban.
+TrongTB
+Chao ban. Ban thu lam nhu sau: Ban vao: Device Manager  bam vao Modem (chon Properties)  chon Advanced  trong o "Extra innitialization commands" ban hay bam vao chu~ M0 sau do bam OK. Chuc thanh cong.
+Ryan Chau
+Ban Quoc men. Van de ban neu toi da gap qua. Trieu chung: modem khong the tu ngat mach mac du ban da disconnect internet, luc do neu ban nhat phone thi ban se van nghe tieng "re re", va neu co ai phone den nha ban nguoi do se nghe duong line dang bi ban. Do do, co the duong day phone cua ban co van de cham day o nhung cho noi day, hay giua nhung o cam va dau cam, cung co the ngay tai o modem line in va day dien thoai (nhung day phone bi noi tac khong thuong xuyen do bi am uot hay chat dan dien dang keo nao do o moi noi cua day phone}. Cach thu xem bi o noi nao ban co the lam tuan tu nhu sau - doi day cam khac. -dem computer den cam o phone khac trong nha. - mang computer den nha nguoi khac de thu may. - dung mot computer khac de thu line dang dung cho computer cua ban. Chuc ban thanh cong.
+

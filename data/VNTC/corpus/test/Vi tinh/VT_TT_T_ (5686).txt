@@ -1,0 +1,6 @@
+ Mã hóa thông điệp bí mật trong ảnh số
+Cách mã hóa thông điệp bí mật trong Secret Messenger vô cùng đơn giản. Sau khi cài đặt thành công, người dùng bật ứng dụng và gõ nội dung thông điệp bí mật của mình vào ô thông điệp. Dung lượng tối đa mà bạn có thể nhập vào ô này đến những 8 trang giấy A4 cỡ chữ 12. Lưu ý rằng dung lượng ảnh càng cao thì càng có khả năng chứa nhiều thông tin mật. 
+Sau khi nhập xong nội dung, bạn nhắp vào nút “Hide”, Secret Messenger sẽ cho phép bạn chọn bất kỳ một tấm ảnh số định dạng JPG nào để nó chèn thông điệp mật của bạn vào ảnh. Khi chọn xong bạn phải nhập password rồi nhắp vào ô “Retrieve” để hoàn tất quá trình mã hóa. Sau đó bạn có thể tha hồ gửi bức ảnh chứa thông điệp mật của mình đến bất kỳ nơi đâu mà không sợ cặp mắt tò mò nào dò xét. Để giải mã, người nhận cũng phải cài đặt Secret Messenger và biết được password của người gửi. 
+Hiện nay đã xuất hiện rất nhiều công cụ hiệu quả chuyên giải mã bảo mật của mọi ứng dụng như Word, Excel, Access, Zip, RAR… chính vì vậy Secret Messenger đang được xem là công cụ bảo mật thông tin đặc biệt hiệu quả trong môi trường kinh doanh nhiều cạm bẫy hiện nay. 
+Hiện công ty Usingit đang bán ra Secret Messenger với giá là 30 USD. Người dùng có thể vào đây để tải về bản dùng thử có dung lượng khoảng 1,3 MB. Secret Messenger cũng đã có mặt tại các cửa hàng phần mềm tin học tại TP Hồ Chí Minh. 
+

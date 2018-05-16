@@ -1,0 +1,6 @@
+Các loa không hoạt động tốt (1)
+Tôi có bộ loa Creative 5.1. Mọi cài đặt của Sound Effect đều đúng, máy tính của tôi nhận được phan cứng rồi. Nhưng không hiểu sao lúc nghe nhạc, chỉ có 2 loa là hoạt động( mỗi loa phát ra 2 kiểu âm thanh). Xin nhờ chỉ giúp cho tôi. Xin chân thành cảm ơn.
+Lê Hoàng
+Hồi âm:
+Đó là do phần Sound của bạn đang định dạng kiểu 2 loa thay vì 5 loa Surround.Cách khắc phục rất đơn giản: Vào Start - Control Panel - Sound and Audio Devices - Advanced của Speaker Setting - chỉnh lại thành "5.1 surround sound speakers". Chúc bạn thành công.
+

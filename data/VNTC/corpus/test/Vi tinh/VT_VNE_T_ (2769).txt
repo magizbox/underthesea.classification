@@ -1,0 +1,8 @@
+600 lỗi bảo mật được phát hiện trong quý I/2005
+Theo nghiên cứu do Viện SANS (Mỹ) công bố hôm qua, Microsoft vẫn sở hữu tới 20 khiếm khuyết an ninh nghiêm trọng nhất trong 3 tháng qua. Tuy nhiên, hacker đang chuyển dần sự chú ý sang các ứng dụng nghe nhìn và cơ sở dữ liệu.
+Những lỗ hổng trong Internet Explorer, Windows Logon và cơ chế xử lý file PNG của Microsoft đứng đầu trong danh sách nói trên. Phần mềm diệt virus của các nhà cung cấp tiếng tăm như McAfee, Trend Micro, Symantec cũng đều nằm trong nhóm dễ bị tấn công.
+Những khiếm khuyết nghiêm trọng này rất phổ biến và phần nhiều trong số chúng đang bị khai thác trên máy tính gia đình và văn phòng, Alan Paller, Giám đốc nghiên cứu của SANS, phát biểu. Chúng tôi đưa ra danh sách trên như một tín hiệu báo động cho cả người sử dụng gia đình và các nhà quản lý hệ thống ở doanh nghiệp.
+Báo cáo của SANS cho thấy nhiều phần mềm nghe nhìn đã trở thành con đường để hacker tiến hành khống chế các hệ thống máy tính. Windows Media Player, RealPlayer, dịch vụ nhạc số iTunes của Apple và Winamp đều bị lỗi tràn bộ nhớ đệm và trên thực tế đang bị lợi dụng.
+SANS cho biết danh sách nói trên của họ chỉ bao gồm các khiếm khuyết an ninh đã được phát hiện và khắc phục trong quý I vừa qua. Cơ quan chuyên nghiên cứu về an ninh thông tin này trước đây thường công bố danh sách 20 lỗ hổng bảo mật lớn nhất hàng năm nhưng nay đã chuyển sang cơ chế thông báo hàng quý nhằm giúp các tổ chức và doanh nghiệp ý thức và phòng chống tốt hơn những nguy cơ an ninh tiềm tàng. 
+Tham khảo thêm chi tiết về 20 lỗi an ninh lớn nhất quý I tại đây.
+

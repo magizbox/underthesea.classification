@@ -1,0 +1,7 @@
+Tội phạm mạng không còn chuộng virus
+Nhằm đối phó với các công ty bảo mật, những tay hacker nguy hiểm đang thay đổi chiến thuật từ tấn công bằng virus qua e-mail sang tạo dựng các trang web giả mạo để tìm kiếm nạn nhân.
+Khi mục tiêu số một của tội phạm công nghệ cao là tài chính, chúng sẽ tăng cường xây dựng các phần mềm gián điệp, nhằm thu thập thông tin cá nhân để đem ra rao bán hoặc tự khai thác về sau. Thống kê của hãng bảo mật Sophos của Anh cho thấy số virus trong e-mail đã giảm mạnh trong 5 tháng liên tiếp. Những loại sâu thống trị bảng xếp hạng như Netsky và Mytob, chủ yếu phát tán qua thư điện tử, nay cũng đã góp mặt trong spyware.
+Ngoài ra, phần mềm giả danh là những ứng dụng cao cấp hoặc bản vá lỗi bảo mật cho những chương trình phổ biến như Windows, Outlook cũng tăng cao.
+Sau khi được cài vào máy, những phần mềm nguy hiểm này sẽ tấn công nạn nhân bằng hàng loạt quảng cáo khó chịu, hoặc theo dõi thói quen duyệt web và tập hợp thông tin cá nhân của họ.
+"Ngày càng nhiều mã độc xuất hiện qua quá trình duyệt web thay vì trong e-mail", Mark Sunner, Giám đốc công nghệ của công ty MessageLabs (Mỹ), khẳng định. "Ví dụ, nhiều vụ lừa đảo trực tuyến đưa người dùng đến website giả để ăn cắp thông tin đăng nhập, thay vì yêu cầu họ điền trực tiếp vào một thông điệp e-mail".
+

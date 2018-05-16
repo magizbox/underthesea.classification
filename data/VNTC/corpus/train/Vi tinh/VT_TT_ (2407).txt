@@ -1,0 +1,5 @@
+ Sun: Cửa vẫn mở cho Java
+Trong cuộc gặp của Sun Software ở Menlo Park, Cali, ông Rich Green, phó chủ tịch nhóm phát triển phần mềm của công ty cho biết sẽ xem xét đề nghị của IBM về việc cung cấp mã nguồn mở Java. Nhưng ông nhấn mạnh rằng sẽ có nhiều rắc rối trong việc phát hành liên quan đến việc bảo đảm sự tương thích nếu Java được đề nghị mở nguồn. 
+Tuy nhiên Sun vẫn tiếp tục thảo luận với IBM về vấn đề này. Một thành viên khác của Sun, John Loiacono phát biểu Sun sẽ mở mã nguồn của Java ngay khi IBM cũng làm tương tự với sản phẩm của họ ví dụ như Websphere. Các viên chức của Sun cũng nói về nhiều vấn đề khác bao gồm những sản phẩm nổi bật của công ty trên thị trường, bảo mật, kỹ thuật mới Looking Glass 3D. 
+Vào đầu tháng tư này, Sun có kế hoạch phát hành version 3.6 của NetBeans - mã nguồn mở của Java IDE. Version này bao gồm nhiều cải tiến nổi bật chẳng hạn như giao diện được thiết kế lại cho trực quan hơn, tăng khả năng định hướng khi viết code. Loiacono cũng đề cập đến Janus, phần mềm giúp các ứng dụng của Linux có thể chạy ổn định mà không cần biên dịch lại trên hệ điều hành Solaris của Sun . 
+

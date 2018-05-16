@@ -1,0 +1,11 @@
+Xuất hiện thị trường đen cho máy tính 'ma'
+Hình thức tấn công mới sử dụng đồng thời ba loại phần mềm nguy hiểm - biến PC thành cỗ máy bị khống chế (zombie) và có nguy cơ bị rao bán cho những tổ chức tội phạm mạng - đã bắt đầu xuất hiện trên Internet tuần này.
+Một phiên bản của sâu Bagle mà hãng bảo mật Mỹ CA đặt tên là Glieder có thể tạo điều kiện cho hacker cài phần mềm nguy hiểm vào máy tính với mức độ rất nghiêm trọng. 
+Sau khi xâm nhập vào máy, sâu Glieder sẽ hướng PC bị nhiễm tới một website để tải loại Trojan Fantibag, hướng mũi tấn công vào mạng máy tính để ngăn cản hệ thống tiếp cận công cụ nâng cấp của các hãng phần mềm chống virus cũng như website cập nhật của Microsoft. Sau đó, máy tính sẽ tiếp tục tải Trojan Mitglieder để vô hiệu hóa firewall, phần mềm chống virus và mở cổng hậu, cho phép tin tặc điều khiển PC từ xa.
+Theo CA, sự "phối hợp" chiến thuật giữa Glieder và hai chương trình còn lại có tốc độ và khả năng vô hiệu hóa nạn nhân ở mức tối đa. 
+"Máy tính bị biến thành zombie nhờ ba phần mềm 'đặc công' vô cùng nguy hiểm. Và mục đích duy nhất ở đây là để kiếm tiền", Roger Thompson, Giám đốc trung tâm nghiên cứu phần mềm nguy hiểm của CA, nhấn mạnh.
+Vừa khi các hãng chống virus nâng cấp chương trình để ngăn chặn một phiên bản mới của Glieder thì những kẻ tấn công đã điều chỉnh ngay chương trình download để ứng phó, khiến tình hình trở thành một cuộc chạy đua quyết liệt giữa hai bên. 
+Việc sử dụng ba loại phần mềm nguy hiểm riêng biệt cho thấy hình thức tấn công của hacker đã nâng lên một mức độ tinh vi mới. CA cảnh báo đây có thể là hoạt động của một nhóm tội phạm chuyên nghiệp và khẳng định đã xuất hiện một thị trường đen đứng đằng sau để điều khiển hành động của hacker. Chúng thuê tin tặc viết phần mềm kiểm soát máy tính, và sẽ mua lại những zombie này để gửi spam hoặc lấy thông tin cá nhân nhằm mục đích trục lợi riêng...
+Tương tự, hãng McAfee đã phát hiện nhiều dấu hiệu cho thấy tội phạm sử dụng tiền để thuê hacker phân tán phần mềm nguy hiểm. "Giá cả có thể lên tới khoảng 100 cho đến dưới 1.000 USD. Rõ ràng đã xuất hiện chợ đen zombie", McAfee khẳng định.
+AC và McAfee khuyến cáo người dùng nên tránh mở bất cứ file không rõ nguồn gốc nào họ nhận được qua e-mail.
+

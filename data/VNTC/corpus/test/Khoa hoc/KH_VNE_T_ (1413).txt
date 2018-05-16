@@ -1,0 +1,11 @@
+Công nghệ xe hơi nhận biết khách bộ hành
+Một công nghệ mới, chi phí thấp, giúp chống va chạm dành cho xe hơi sẽ giúp những người đi bộ và đi xe đạp cảm thấy an toàn hơn.
+Các nhà nghiên cứu tại công ty Cambridge Consultants ở Anh đã kết hợp radar với video cảm ứng để tạo ra hệ thống CCL-Softcar. Hệ thống sẽ nối với máy tính của phương tiện và được lập trình để kích hoạt phanh hay bật túi khí, làm giảm hậu quả nguy hiểm của tai nạn. 
+Hệ thống chống va chạm hiện thời chỉ dựa trên một công nghệ duy nhất là radar, laser hoặc camera. Radar và laser quét môi trường tốt, nhưng dù chúng có thể nhận ra chướng ngại vật, lại không thể nói lên đó là gì. Camera sẽ tạo nên hình ảnh rõ rệt nhưng cần phần mềm phức tạp và đắt tiền để làm việc hiệu quả.
+Công nghệ an toàn của Cambridge Consultants kết hợp radar tầm ngắn với một camera và phần mềm hình ảnh - những thiết bị trị giá chưa tới 100 USD - có khả năng quét đường phố hiệu quả và phân biệt các mối nguy tiềm ẩn.
+"Lợi thế của việc kết hợp radar và camera cho phép bạn tối ưu hoá hệ thống", nhà tư vấn độc lập Patrick Brunett nói. "Cambridge Consultants đang làm việc hướng tới điều đó".
+Khi tiến hành thử nghiệm với tốc độ thấp, radar liên tục quét khu vực. Nó không chỉ nhìn ra hiện vật và khoảng cách trong vòng 20-25 m phía trước ôtô, nó còn đo vị trí trái phải, trước sau tương ứng với ôtô. Camera sẽ sử dụng thông tin để tập trung năng lượng xử lý vào khu vực cụ thể.
+"Nếu radar nói có vật thể ở bên trái, hệ thống hình ảnh sẽ không tốn thời gian nhìn sang bên phải", Gordon Oswald, giám đốc công nghệ của công ty nói.
+Phần mềm hình ảnh kết hợp dữ liệu do radar và camera thu được, bao gồm sự dịch chuyển, hình dáng màu sắc, với dữ liệu lập trình sẵn trong hệ thống để phân biệt vật thể đó là người hay không. Nếu là người, phần mềm sẽ kích hoạt hệ thống an toàn trong xe như phanh, bật túi khí hay nghiêng mui xe để giảm sự va chạm.
+Cambridge Consultants sẽ làm việc để tích hợp phần mềm CCL-Softcar vào một máy tính trong xe và hy vọng sẽ có sản phẩm hoàn thành trong 5 năm tới.
+

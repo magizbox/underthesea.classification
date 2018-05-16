@@ -1,0 +1,11 @@
+Không thể thiết lập màn hình desktop (2)
+Desktop của tôi bị thay đổi hình nền, tôi nghĩ máy bị nhiễm spy nên chạy chương trình Microsoft Antispyware và đã xoá được wallpaper đó và màn hình chỉ còn background đen. Tôi vào menu Start\Setting\Control panel\Display để set lại hình mới. Tuy nhiên, tab Desktop trong phần Display của Control Panel không còn nữa, chỉ còn tab Screensaver, Effect và Setting. Do đó, tôi không thể cài đặt wallpaper cho màn hình. Tôi đang sử dụng máy tính với cấu hình sau: P4-2.8, 1,024 RAM, WINDOWS Pro. 2000. Xin các bạn cho biết cách thức sửa chữa. Cám ơn rất nhiều.
+Vũ N Trâm
+Hồi âm:
+Chào bạn Trâm. Nếu bạn dùng MS Antispyware và đã có diệt được spyware (nhưng chưa hẳn đã diệt được hết) thì máy bạn đã nhiễm spyware, đồng thời chương trình spyware đó đã cấm không cho bạn thay đổi hình nền. Để khắc phục, bạn làm như sau:   
+1. Vào Start\Run, gõ regedit rồi nhấn OK. Một cửa sổ Registry Editor xuất hiện 
+2. Bạn lần lượt kiểm tra theo 2 các đường dẫn dưới đây để xoá hoặc thay đổi khoá sau (NoDispBackgroundPage)   HKEY_CURRENT_USER\Software\Microsoft\Windows\Current Version\Policies\System HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\policies\system   
+3. Để xoá, bạn nhấn chuột phải vào dòng "NoDispBackgroundPage" ở cửa sổ bên phải rồi chọn Delete. Để sửa giá trị thì bạn chọn Modify, rồi sửa số 1 thành số 0 4. Đóng cửa sổ Registry Editor lại rồi restart Windows. Chúc bạn thành công. 
+Van Truoc
+Trong truong hop Windows Pro 2K cua ban bi truc trac, thi ban co the dung "Restoration" de di nguoc lai ve trang thai truoc khi may vi tinh bi truc trac. Hoac ban khong muon lam nhu vay, thi ban co the lam theo khac. Ra File Explorer, chon 1 tam hinh nao ban thich, hinh nao cung duoc, right click con chuot, chon Set as Desktop Background. Chi vay thoi :) chuc ban thanh cong.
+

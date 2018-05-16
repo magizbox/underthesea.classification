@@ -1,0 +1,7 @@
+Star Downloader trợ giúp tải file nhanh
+Chương trình quản lý này được thiết kế để hỗ trợ tăng tốc độ tải file theo phương pháp chia nhỏ dữ liệu thành nhiều phần riêng lẻ và tải chúng đồng bộ. 
+Quá trình download sẽ được khôi phục tự động nếu xảy ra trục trặc về kết nối hoặc máy tính bị tắt đột ngột. Tuy nhiên, người dùng chỉ được tải file vào những thời điểm nhất định trong ngày theo thời gian biểu.
+Hệ thống danh mục cải tiến và tiện ích tích hợp có thể mở khoá (unzip) và tự động cài file đã tải xong, tăng hiệu quả trong việc tổ chức và quản lý download. Phần mềm cũng được xây dựng kèm chương trình diệt virus để quét file nhằm đảm bảo an toàn cho máy tính. 
+Star Downloader hỗ trợ FTP, HTTP và proxy. Giao diện đơn giản, dễ dùng, cho phép người sử dụng lựa chọn 50 ngôn ngữ khác nhau. Sản phẩm có kích thước 1,58 MB, hoạt động trên Windows 95/98//2000 và XP.
+Tải miễn phí Star Downloader tại đây.
+

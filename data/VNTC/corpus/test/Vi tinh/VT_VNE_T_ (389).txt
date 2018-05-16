@@ -1,0 +1,5 @@
+Đào tạo chuyên gia hệ thống mạng
+Hôm qua, tại TP HCM, Trung tâm Nghiên cứu công nghệ kỹ thuật Sài Gòn (SaigonCTT) khai giảng khóa đầu tiên của chương trình đào tạo dài hạn chuyên gia hệ thống mạng - eSYSTEMS Network Professional Program (eN2P) - dành cho sinh viên và học sinh tốt nghiệp THPT.
+Ông Vương Mạnh Sơn, Giám đốc SaigonCTT, cho biết, chương trình này kéo dài 2 năm, được xây dựng dựa trên nền tảng các chương trình đào tạo của hãng Cisco Systems, Sun Microsystems và Microsoft. Học viên được trang bị những kiến thức va ky năng thiết thực, toàn diện về phần cứng máy tính, mạng Internet/Intranet, hệ điều hành máy chủ Unix, Linux va Windows, ngôn ngữ lập trình Java...
+Theo ông Sơn, Trung tâm còn có những suất học bổng giá trị nhằm khuyến khích tinh thần học tập của học viên.
+

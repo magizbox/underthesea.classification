@@ -1,0 +1,14 @@
+15 nước EU chống lại Microsoft
+Mọi thành viên đều phê chuẩn cáo buộc sơ bộ của chúng tôi, phát ngôn viên Ủy ban châu Âu (EC), Amelia Torres, thông báo kết quả cuộc họp của EC với các chuyên gia chống độc quyền từ 15 quốc gia EU, bàn kế hoạch chống lại Microsoft.
+Sự ủng hộ này chưa phải là tiếng nói quyết định. Song nó khiến việc thỏa hiệp giữa EC và Microsoft trở nên xa vời, trong bối cảnh phán quyết cuối cùng sẽ đưa ra trong 8 ngày tới.
+Cáo buộc của EC dựa trên hai luận điểm. Thứ nhất, Ủy ban cho rằng Microsoft đã tích hợp Windows Media Player vào Windows, gây hại cho các đối thủ trên thị trường phần mềm nghe nhìn. Thứ hai, Microsoft cung cấp quá ít thông tin về công cụ máy chủ cấp thấp (low-level servers), khiến các công cụ này của Microsoft chạy tốt hơn đối thủ trên nền Windows.
+Để giải quyết, EC yêu cầu Microsoft đưa ra bản Windows thứ hai, không có ứng dụng nghe nhìn. Hãng cũng cần chia sẻ thông tin để đối thủ nắm được các giao thức. Ngoài ra, Microsoft có thể bị trừng phạt tài chính. Số tiền lúc này chỉ là dự đoán, bởi chúng tôi chưa tính toán cụ thể. Tuy nhiên, nó có thể lên tới hàng trăm triệu euro, Torres tiết lộ.
+Nếu những phán quyết trên được thực hiện, chúng sẽ tác động tới Microsoft mạnh hơn vụ kiện tương tự tại Mỹ, hồi năm 2001. Khi đó, tòa án Mỹ chỉ yêu cầu Microsoft chia sẻ một phần mã nguồn, nhưng không giới hạn những ứng dụng được phép đưa vào Windows.
+Sau cuộc họp, người phát ngôn của Microsoft là Tom Brookes cho biết công ty vẫn đang tìm cách dàn xếp với Ủy ban. Tuy nhiên, nhiều người cho rằng điều này là vô vọng. 
+Dù vậy, không giống hệ thống luật pháp Mỹ, nơi quan tòa đưa ra quyết định đầu tiên, tại châu Âu, Ủy ban sẽ đưa ra phán quyết, rồi người ta có thể kháng án tại tòa. Do đó, Microsoft có thể đề nghị tòa trì hoãn quyết định của Ủy ban tới khi vụ việc chấm dứt hoàn toàn. Điều đó có thể mất từ 3 tới 4 năm và kéo theo nhiều kháng án khác.
+Trên thị trường chứng khoán, giá và lượng giao dịch cổ phiếu của Microsoft có xu hướng suy giảm.
+Windows có thể không có Media Player tại châu Âu(04/03/2004)
+Một loạt phần mềm của Microsoft 'về hưu non'(09/12/2003)
+Microsoft đồng ý trả 202 triệu USD cho bang Florida(16/04/2003)
+Microsoft đồng ý thay đổi trình đơn Start của Windows(07/04/2003)
+

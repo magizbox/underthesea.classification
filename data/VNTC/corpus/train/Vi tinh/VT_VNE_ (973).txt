@@ -1,0 +1,6 @@
+Samsung ra mắt SRAM dung lượng gấp đôi
+Hãng điện tử Hàn Quốc tuyên bố đã phát triển thành công bộ nhớ truy cập ngẫu nhiên dạng tĩnh (SRAM) có công suất cao nhất trên thế giới hiện nay, 72 MB, trên kiến trúc Quad Data Rate (QDR) II.
+Được thiết kế dành cho các hệ thống nối mạng tốc độ cao thế hệ mới, sản phẩm của Samsung có thể đồng thời xử lý tới 4 luồng dữ liệu khác nhau. Samsung cho biết SRAM mới của họ hoạt động ở tốc độ 300 MHz, cao hơn 20% so với loại QDR II 36 MB hiện hành. Điều này làm tăng đáng kể hiệu suất hoạt động của các ứng dụng mạng. Việc sản xuất đại trà QDR II SRAM 72 MB dự kiến sẽ bắt đầu trong nửa đầu năm 2005. 
+RAM tĩnh (SRAM - Static Random Access Memory) là một dạng bộ nhớ truy cập ngẫu nhiên có tốc độ nhanh và ổ định hơn so với loại RAM động (DRAM - Dynamic RAM) thông thường. Thuật ngữ tĩnh bắt nguồn từ việc SRAM không cần phải refresh như DRAM. 
+SRAM luôn duy trì dữ liệu trong bộ nhớ của nó miễn là nguồn điện vẫn được đảm bảo. So với DRAM, SRAM nhanh hơn nhưng lại không lưu được nhiều dữ liệu bằng và giá cả cũng khá đắt vì SRAM đòi hỏi từ 4 đến 6 transistor/bit (DRAM chỉ có 1 transitor/bit).
+

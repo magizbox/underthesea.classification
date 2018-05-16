@@ -1,0 +1,15 @@
+Download các file film trên mạng (5)
+Tôi có xem một số phim online dùng Real Player. Nhưng thỉnh thoảng đường dẫn bị trục trặc không thể xem được. Có cách nào để download các file film trên online về máy tính của mình để có thể xem bất cứ khi nào mình thích được không. Nhờ các bạn chỉ giúp. 
+tiểu ngọc
+Hồi âm:
+Dieu nay con tuy vao loai file ma ban dang coi, neu file do la file real media (.rm, .ram) thi khong the down load duoc vi no chi luu vao bo nho tam thoi, sau do se bi xoa mat, con neu file mp3, wmv thi co the vao c:\documents and settings\User\Local Settings\Temporary Internet files de tim (truong hop nay cho Win XP, voi User la ten cua username ban dang xai tren may tinh, con voi Win98 thi C:\Temp\ de tim.
+Sinh Chu
+Bạn dùng Idman download nhé ,download từ : http://www.internetdownloadmanager.com/idman401.exe Sau khi cài đặt IDMan ,bạn chỉ cần config lại cho nó nhận được loại file cần download thì khi bạn mở trang nào có file loại nầy nó đều tự downb về cho bạn,đây là trình hỗ trợ download mà theo mình là 1 trình hay nhất để download . Chúc bạn thành công ,nếu có thắc mắc có thể liên lạc với Minh Phong. YM : phongtrh. 
+Minh Phong 
+Ban co the dung chuong trinh "CoCsoft StreamDown" de download cac file nay ve. 
+Thanh Trung 
+Neu ban can xem film, thi thu tim trang web cua www.divx.com ma download, hy vong xe coi duoc tat ca. Chuc ban thanh cong.
+Tuan Le
+Để xem phim trực tuyến, thông thường bạn click chuột trực tiếp lên link mà bạn muốn xem. Thay vì như vậy, bạn nhấn chuột phải vào link đó rồi chọn Save Target As& là có thể lưu tập tin phim đó lại vào máy. Tuy nhiên, không phải lúc nào cũng thành công, đôi khi bạn phải thao tác thêm một tí. Nếu tập tin được save lại có kích thước nhỏ xíu (.ram,.pls&) thì trong phần lớn các trường hợp, đó chính là tập tin chứa đường dẫn thực sự của tập tin phim, bạn dùng một chương trình sọan thảo văn bản (VD: Notepad) để mở ra xem và copy đường dẫn trong đó, sau đó dùng chương trình download thích hợp chép phim về (VD như dùng Flashget).
+Trong trường hợp khác, nếu phim xem trực tuyến tự động gọi chương trình Windows Media Player, thì có thể dùng tính năng xem Properties để biết đường dẫn thực sự tới tập tin phim, dựa vào đó để dùng chương trình download thích hợp chép phim về (VD như dùng Flashget). Nếu cái link này không download được trực tiếp thì bạn phải chịu khó xem xong tòan bộ phim rồi mới dùng chức năng Save Media As& để lưu lại tập tin. Chúc bạn thành công.
+

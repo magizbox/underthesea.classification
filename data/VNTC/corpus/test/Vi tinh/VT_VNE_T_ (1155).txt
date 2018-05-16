@@ -1,0 +1,8 @@
+Sáp nhập ổ đĩa (2)
+Các bạn thân mến. Tôi có chiếc máy vi tính ở nhà, nó chỉ có một ổ cứng thôi, nhưng không hiểu người chủ trước đã làm thế nào mà trong My computer tôi thấy có 1 ổ C (dung luợng 5.84 Gb), và hai ổ ảo tên là Data Volume I (Dung lượng 15.6 Gb), Data Volume II (15.7 Gb). Bây giờ tôi muốn sáp nhập 3 ổ đó lại thì tôi phải làm thế nào? Rất mong được các bạn chỉ dẫn. Chân thành cảm ơn các bạn.
+Tran Tin Nghia
+Hồi âm:
+Thông thường người ta chia một ổ cứng vật lý ra làm nhiều ổ khác (ổ luận lý) để thuận tiện cho việc sử dụng : 1 để chứa HĐH như Windows chẳng hạn và 1 hay nhiều hơn cho nhu cầu cất giữ dữ liệu. Làm như vậy để dễ bề quản lý. Mặt khác khi ổ đĩa chứa HĐH bị nhiễm virus không khắc phục được hay khi Windows bị hỏng người ta có thể format và cài lại nhưng không làm mất dữ liệu ...? Tôi khuyên bạn nên để như vậy. 5G để chứa hệ điều hành. Nếu bạn kiên quyết quản lý theo ý của bạn thì ra Dos Fdisk và format cài lại HĐH hay tìm một tiện ích như Patision Magic để chia lại ổ cứng. Ngoài ra WindowXP cũng hỗ trợ việc này. 
+bt m 
+Tin Nghia,Computer cua ban dang su dung OS gi??? neu la windows 2000 or XP thi ban co the vao DiskManagement de sat nhap hai vol1 va vol1 lai voi nhau neu ban khong muon xoa het cac du lieu trong computer cua ban. Con neu ban muon reformat hay partition lai thi ban co the dung DOS hoac boot tu Windows 2000 or XP CD roi delete tat ca va gom lai thanh mot. Hy vong giup ban duoc phan nao. 
+

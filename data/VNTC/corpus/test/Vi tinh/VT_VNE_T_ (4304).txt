@@ -1,0 +1,7 @@
+Máy tính chỉ dừng lại ở chế độ safe mode (1)
+Máy tính của tôi dùng Main Intel D845HV, CPU Pen IV 1,5 GBHệ điều hành Win XP pack 1. Mọi thứ đang hoạt động bình thường.Sau khi tôi thay CPU Celeron 1,8 GB thì có hiện tượng máy chỉ vào được Windows ở chế độ Safe Mode, còn nếu khởi động ở chế độ bình thường, máy bị treo khi logo Win XP xuất hiện. Khi máy treo, quạt chip vẫn quay. Đã fomat ổ cứng, thay đĩa cài đặt, nhưng không được.
+Xin giải thích giúp hiện tượng này. Nếu không tôi chỉ còn nước thay máy khác.
+Vương Hiển
+Hồi âm:
+Bạn thử sử dụng cách này xem sao. Khi bạn vào khởi động máy vào Windows thì sau khi trên bàn phím ba đèn Num Lock, Caps Lock và Scroll Lock sáng lên đồng thời thì bạn gõ Enter liên tục càng nhanh càng tốt. Khi đó bạn sẽ vào được Windows. Chúc bạn may mắn.
+

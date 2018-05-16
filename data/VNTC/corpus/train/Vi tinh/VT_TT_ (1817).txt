@@ -1,0 +1,10 @@
+ Các tổ chức Phising “vô hình” bị đòi bồi thường 18 triệu USD
+Để có thể khởi kiện, AOL đã phải nhờ tới một bộ luật chống phishing, ra đời vào tháng 7 năm 2005, của bang Virginia. Vụ kiện tụng này cũng sử dụng luôn những luật của liên bang có liên quan đến lĩnh vực thương hiệu và phòng chống spam. 
+Mục tiêu của AOL chính là hơn 30 tổ chức chuyên thực hiện các hành vi lừa gạt, trong đó có rất nhiều tổ chức bên ngoài nước Mỹ. Thông qua vụ kiện, AOL hy vọng có thể làm rõ hơn hoạt động của các tổ chức này. Họ cũng cho biết, có thể số lượng “bị cáo” sẽ không dừng lại ở con số 30 nếu như vụ kiện tiến triển. 
+Công ty cáo buộc một số tổ chức phishing gởi những e-mail với mục tiêu lừa gạt đến người dùng AOL và Compuserve. Trong email có chứa liên kết đến những trang web mà nếu thoạt trông thì rất giống trang web của các công ty nổi tiếng khác. Mục tiêu chính là thông tin về tài khoản ngân hàng, thẻ tín dụng, thậm chí cả “nick” AOL cũng là mục tiêu. 
+Một điều khá “buồn cười” là luật của ban Virginia lại không cho phép cá nhân được khởi kiện các tổ chức phishing. Cho nên, nếu AOL thắng kiện thì cũng sẽ không có lợi gì cho khách hàng đã bị lừa gạt. Số tiền có được sẽ chi dùng vào việc…tiếp tục kiện tụng để xóa bỏ dần tình trạng phishing như hiện nay. 
+AOL đã thu thập hơn 10 ngàn thư điện tử nặc danh để làm bằng chứng cho vụ kiện. Mặc dù vậy, công ty vẫn chưa xác định được “lai lịch” của các tổ chức này. 
+Phishing hiện đang là một vấn đề hết sức trầm trọng đối với các xã hội như nước Mỹ, nơi mà Internet trở thành một trong những yếu tố không thể thiếu của đời sống xã hội, nơi mà thương mại điện tử là một trong những “dịch vụ” mũi nhọn. 
+Anti-Phishing Working Group đã xác định hơn 50.000 trang web lừa gạt nói trên trong nằm vừa qua, chỉ riêng tháng 12 đã có 7000 trang được phát hiện. 
+AOL sẽ không đơn độc trong cuộc chiến này. 
+

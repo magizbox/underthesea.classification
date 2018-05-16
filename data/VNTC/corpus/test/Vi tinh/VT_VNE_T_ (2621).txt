@@ -1,0 +1,6 @@
+Đánh máy font tiếng Việt trên bàn phím chữ Pháp (1)
+Toi dang su dung computer man hinh hieu Liteon, intel pentium 3, WIN ME. Ban phim go tieng phap (co 3 chuc nang tren cung 1phim chu so phia tren ma chung ta thuong go dau mu cua tieng Viet. Co 1 phim ALT thong thuong va 1 phim "ALT Gr" de go dau mu dac trung cua tieng Phap). Toi co the doc duoc unicode tren internet, in font chu Viet cua nhung file tieng Viet Download tu Internet. Da install font chu unicode, may hien ro tren o font chu VN times, VNI times... nhung toi khong the danh may tieng Viet duoc. Cac anh chi co the giup toi giai quyet kho khan nay khong? Cam on rat nhieu.
+Phuc
+Hồi âm:
+Bạn hãy thử dùng bộ gõ VPSKeys 4.3 hay WinVNKey 5.0, nó cho phép bạn sửa nút dấu để thích hợp với bàn tính bạn có.http://www.vps.org/rubrique.php3?id_rubrique=69http://winvnkey.sourceforge.net/http://vietunicode.sourceforge.net/howto/
+

@@ -1,0 +1,6 @@
+Thu phí cấp phép tên miền và địa chỉ Internet
+Kể từ đầu tháng 6 tới, mọi tổ chức cá nhân trong và ngoài nước khi đăng ký tên miền và địa chỉ Internet tại VN sẽ phải nộp khoản phí cấp phép theo một văn bản mới do Bộ Tài chính mới ban hành.
+Mức thu phí cấp tên miền theo quy định mới là 450.000 đồng/lần. Đối với trường hợp muốn thay đổi tên miền, mức phí phải nộp sẽ là 250.000 đồng/lần.
+Phí duy trì tên miền theo quy định mới sẽ là 480.000 đồng/năm đối với tên miền cấp 3 và 24 triệu đồng/năm đối với tên miền cấp 2.
+Phí cấp và quản lý địa chỉ Internet được thu theo mức sử dụng vùng địa chỉ IPv4 (lớp C) và IPv6 (khối 48) với mức thu thấp nhất đối với phí cấp là 1 triệu đồng, cao nhất là 29,5 triệu đồng. Đối với phí duy trì hàng năm, mức thấp nhất là 8 triệu đồng và cao nhất là 285 triệu đồng. Ngoài ra, khi thay đổi mức sử dụng địa chỉ Internet cũng phải nộp mức thu từ 1 đến 7,5 triệu đồng/lần.
+

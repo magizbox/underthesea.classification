@@ -1,0 +1,14 @@
+Tin vắn ngày 1/11
+SaigonCTT đào tạo lập trình Java cho sinh viên Điện thoại CDMA sử dụng Sim Card có mặt ở Việt Nam Hitachi giới thiệu thiết bị thông minh trình chiếu văn bản Lạc Việt bán phần mềm trả góp.
+Trung tâm nghiên cứu công nghệ kỹ thuật Sài Gòn (SaigonCTT) vừa ký thỏa thuận với hãng Sun Microsystems và Khu công nghệ phần mềm ĐH Quốc gia TP HCM triển khai chương trình đào tạo dài hạn "Chuyên gia lập trình viên Java" cho sinh viên các đại học. Khóa đầu tiên sẽ khai giảng vào ngày 5/12.
+Học viên sẽ được trang bị kiến thức nền tảng về ngôn ngữ lập trình Java, ứng dụng công nghệ này vào việc phát triển các tiện ích trên nền J2EE và sử dụng những thiết bị sẵn có, xây dựng ứng dụng theo dây chuyền trong môi trường J2EE. Thời lượng một khoá học là 240 giờ. Văn bằng do chính hãng Sun Microsystems cấp. 
+T.N.
+Trang bị CPU Qualcomm MSM 6000, công nghệ CDMA 2000 - 1X, điện thoại di động Hisense 312, do Tập đoàn Hisens, Trung Quốc, sản xuất, vừa được giới thiệu tại Việt Nam. Sản phẩm này có thể sử dụng với sim S-Fone, giá khoảng 1.600.000 đồng và sẽ được Công ty TNHH Anh Tú cung cấp vào tháng 11 tới.
+C312 thiết kế nhỏ, gọn với kích thước 80 x 42 x 21 (cm), trọng lượng 82 gram. Điện thoại này có vỏ trắng bạc, màn hình 65.000 màu, độ phân giải 128 x 128, có khả năng lưu 500 số điện thoại và lưu tối đa 250 số trên sim 32 K hoặc nhiều hơn, tuỳ dung lượng sim. Sản phẩm dùng pin Lion 880 mAh, thời lượng chờ 144 giờ và đàm thoại 180 phút.
+T.L.
+Hệ thống trình chiếu đa năng Starboard, do hãng chuyên cung cấp sản phẩm về điện tử - kỹ thuật số Hitachi vừa giới thiệu tại Việt Nam, cho phép người thuyết trình có thể trực tiếp chỉnh sửa, vẽ bảng biểu, cập nhật thông tin lên bảng... không cần qua PC. 
+StarBoard được thiết kế chuyên dụng cho các buổi hội họp, thuyết trình, đào tạo. Hệ thống gồm máy chiếu LCD và bảng trình chiếu điện tử trắng, máy tính PC. Bảng trình chiếu hình ảnh từ máy tính, nối qua USB Wireless. Người sử dụng sẽ dùng bút điện tử Pen, có tác dụng như chuột máy tính để viết chữ, vẽ hình, chỉnh sửa... Sản phẩm do Công ty TNHH Tin học và Thương mại Hồng Cơ cung cấp. Giá một bộ Starboard 60 inch khoảng 1.300 USD, bộ 75 inch khoảng 1.600 USD.
+Thanh Lương
+Công ty cổ phần Tin học Lạc Việt vừa tung ra gói sản phẩm về dịch vụ quản lý hoạt động doanh nghiệp GSme, với chi phí chuyển giao là 4.000 USD. Đơn vị sử dụng có thể trả góp trong 1 năm, chỉ cần trả lần đầu 800 USD. 
+GSme góp phần tháo gỡ những vướng mắc về hệ thống thông tin, phần mềm, phần cứng, nối mạng... trong thu thập, xử lý, truyền đạt thông tin kinh doanh chọn lựa giải pháp CNTT cho phù hợp với điều kiện doanh nghiệp. Một số phần mềm trong gói giải pháp có thể nâng cấp theo nhu cầu doanh nghiệp. Sản phẩm được bảo hành miễn phí 3 năm. 
+

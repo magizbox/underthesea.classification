@@ -1,0 +1,6 @@
+Cách share VGA (1)
+Em hiện đang sử dụng bo mạch chủ ASROCK Mainboard P4I845GV 5.0, VGA onboard có thể up to 64MHz nhưng em chỉ share được có 8MHz (DDR 256, Bus333). Mong các anh chị giúp đỡ chỉ cho em cách upto 64MHz. 
+Như Trang
+Hồi âm:
+Với cấu hình của bạn thì : Kiểm tra trong BIOS chỉ share được có 8MHz là đúng. Còn VGA onboard có thể up to 64MHz là công nghệ DVMT của Intel. Bạn muốn share được 64MB thì bạn phải cài WinXP hoặc Win2000 thì mới được.
+

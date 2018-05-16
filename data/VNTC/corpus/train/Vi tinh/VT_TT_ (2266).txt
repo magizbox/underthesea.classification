@@ -1,0 +1,6 @@
+ Intel sẽ tung ra chip lõi tứ đầu tiên vào đầu năm 2007
+Justin Rattner, giám đốc công nghệ của Intel cho biết rằng Intel đã đặt mục tiêu phấn đấu tiêu thụ cho được khoảng 60 triệu bộ chip lõi kép trong năm nay, tức số lượng chip lõi kép đã chiếm đến 25% trong tổng số chip bán ra của Intel. 
+Loại chip lõi tứ đầu tiên sẽ xuất hiện trên thị trường mang tên Clovertown, đây là loại chip có chứa đến 4 bộ vi xử lý biệt lập cùng được đặt trên một bản mạch silicon, cho phép máy tính có thể xử lý được thêm nhiều dữ liệu nặng hơn với thời gian nhanh hơn hoặc chạy cùng lúc được nhiều ứng dụng hơn… nhưng lại sử dụng ít năng lượng hơn so với loại chip xử lý lõi đơn đang thịnh hành hiện nay. 
+Ban đầu chip Clovertown sẽ chủ yếu được trang bị cho các máy chủ mạng và các máy chủ vận hành website. Các máy chủ mạng dạng này sẽ được trang bị loại bản mạch có thể gắn cùng lúc được 2 bộ chip xử lý lõi tứ này để tăng khả năng xử lý, tức đây là loại máy tính cực mạnh có đến những 8 bộ vi xử lý hoạt động đồng thời. 
+Chưa rõ khi nào đối thủ “truyền kiếp” của Intel là AMD sẽ tung ra loại chip xử lý lõi tứ đầu tiên của mình, nhưng vào ngày 14-2 AMD đã công bố rằng sẽ tung ra loại chip xử lý lõi kép Opteron đạt “siêu tốc độ” 3GHz vào đầu quý 2 năm nay. 
+

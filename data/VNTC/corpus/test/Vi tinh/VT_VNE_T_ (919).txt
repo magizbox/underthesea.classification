@@ -1,0 +1,7 @@
+Hạn chế quyền các máy trạm khi chia sẻ Internet (1)
+Tôi đang quản lý phòng mạng theo kiểu chia workgroup, chia sẻ Internet sử dụng ZoomX5 (không dùng server), các máy tính và modem được mối với nhau qua 01 switch, nay tôi muốn các máy chỉ truy cập được Internet và nhìn thấy (hoặc chỉ truy cập) được các máy khác thuộc cùng nhóm.Các bạn có thể giúp tôi được không. Chân thành cảm ơn.
+Nguyễn Việt Hưng
+Hồi âm:
+Khong ro la co duoc hay khong nhung toi nghi ban khai bao cac Workgroup khac nhau, vi du may 1 - 5 thi gan cho Group A, may 6 - 10 thi gan cho Group B... Khi do chi cac may cung Workgroup moi thay duoc nhau. Khai bao Workgroup trong WinXP: Control Panel/System Properties/Computer Name/Change/Workgroup
+Nguyen Truong Son
+

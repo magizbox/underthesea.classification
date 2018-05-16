@@ -1,0 +1,8 @@
+Lỗi Win98 SE khi khởi động (2)
+Sau khi tôi ghost từ máy khác rồi gắn lại máy cũ dùng thì xẩy ra hiên tượng như sau: Tôi đang sử dụng Win98. Mỗi lần khởi động máy rất hay bị treo khi chạy đến logo Window98. Khi treo tôi nhấn Ctrl+Alt+Del mà cũng không khởi động lại được. Nhấn Reset khởi động lại thì máy lại vào chế độ "Safe Mode". Sau đó chọn "Shut down\Restart" thì lại chạy bình thường mặc dù tôi đã cài lại window rồi dùng phần mềm Fix-it Utilities 4.0 nhưng khi khởi động lại vẫn xẩy ra hiện tượng đó. Mong các bạn chỉ cho hiện tượng gây sự cố và cách giải quyết.Xin chân thành cảm ơn.
+Vũ Hường
+Hồi âm:
+Bạn nên chạy scandisk và defragment sau những lần xóa và cài đặt lại xem có khởi động lại dược bình thường hay không? nếu không , bạn vào startrunmsconfigok chọn selective startup.. tuần tự chọn khởi động một trong 3 bảng boot a, boot b, boot c. nếu khởi động được 1 trong 3 nói trên thì bạn tham khảo thêm dưới đây đế sửa lại. http://support.microsoft.com/kb/188867/EN-US/.. bạn không nên ghost ở máy nầy rồi dem ổ đỉa sang gắn ở máy khác điều đó chỉ tạo thêm rắc rối nhiều hơn.
+TOM
+Bạn có thể làm như sau: dùng một đĩa boot khởi động máy, sau đó bạn đánh lệnh sau: a:\fdisk /mbr có khả năng máy bạn bị nhiễm vius boot record. Chúc bạn thành công.
+

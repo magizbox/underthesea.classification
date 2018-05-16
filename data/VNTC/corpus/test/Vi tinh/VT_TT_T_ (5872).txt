@@ -1,0 +1,6 @@
+ PcMedik - thuốc tăng lực cho máy tính
+PcMedik là tiện ích tối ưu hóa máy tính, làm cho nó hoạt động trơn tru và ít bị lỗi hơn. Không những thế, với những thuật toán độc đáo, chương trình còn giúp tăng tốc máy tính của bạn để bạn luôn “lướt êm" trên xa lộ thông tin, không còn chịu cảnh ngồi đợi máy tính hoạt động với tốc độ “một trăm cây chuối/giờ”. 
+Cách sử dụng chương trình rất đơn giản, không đòi hỏi phải có nhiều kiến thức về tin học. Sau khi chạy chương trình, bạn chọn hệ điều hành mà mình đang sử dụng tại mục Operating System, chọn bộ vi xử lý tại mục Processor Type. Tại thanh trượt Repair Setting, nếu bạn kéo về phía Heal, PcMedik sẽ tối ưu hóa để máy tính của bạn hoạt động trơn tru hơn; nếu kéo về phía Heal &amp; Boost, chương trình không những làm cho máy tính của bạn ổn định mà còn tăng tốc để máy chạy nhanh hơn. 
+Tuy nhiên nếu bạn chưa đăng ký với nhà sản xuất thì chỉ có thể sử dụng được chức năng Heal mà thôi. Sau đó nhấn nút Go. Khi chương trình tối ưu xong, bạn cần khởi động lại máy tính để thấy được hiệu quả. 
+PcMedik tương thích với mọi Windows. Tải bản dùng thử 28 ngày tại website http://www.majorgeeks.com/download85.html hay tìm mua tại các cửa hàng bán đĩa CD Software. 
+

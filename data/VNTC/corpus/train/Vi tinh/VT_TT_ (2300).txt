@@ -1,0 +1,5 @@
+ Chương trình đào tạo Oracle Database 10G đầu tiên tại VN
+Khóa học 4 tháng, gồm 2 cấp độ OCA và OCP (Oracle Database 10G chưa đào tạo cấp độ OCM). Cung cấp cho người học đầy đủ kiến thức về cài đặt, tạo và quản lý Oracle Database 10G, quản lý tài nguyên người dùng và bảo mật trong cơ sở dữ liệu; cách ứng dụng các công cụ chuyên dụng trong quản lý và tối ưu hóa việc xử lý của cơ sở dữ liệu,… 
+Học xong OCA, học viên có khả năng quản trị Oracle Database 10G ở mức độ cơ bản. Tiếp tục học lên OCP, người học sẽ được trang bị đầy đủ kiến thức đảm bảo quản trị tốt một hệ thống Oracle Database 10G của công ty. Học viên có thể đăng ký thi lấy chứng chỉ quốc tế OCA, OCP về Oracle Database 10G của Oracle ngay tại Trung tâm khảo thí quốc tế VUE. 
+Oracle Database 10g là hệ thống cơ sở dữ liệu đầu tiên được thiết kế nhằm tăng sức mạnh lưu trữ và xử lý dữ liệu dựa trên công nghệ tính toán mạng lưới (Grid Computing). Ưu điểm là, thông tin luôn luôn sẳn sàng, tính bảo mật cao và dễ dàng nâng cấp với nền tảng công nghệ là Grid computing. Hệ thống có khả năng tự quản lý, tự động phát hiện và hiệu chỉnh các lỗi không nghiêm trọng, giúp giảm chi phí và tăng hiệu quả kinh doanh. 
+

@@ -1,0 +1,8 @@
+ Ổ cứng Scorpiro chạy êm hơn và không sinh nhiệt
+Dòng ổ cứng Scorpiro có 3 loại, với dung lượng 40GB, 60GB và 80GB. Ổ cứng có tốc độ tìm kiếm trung bình là 12ms, bộ nhớ đệm 2MB (có thể nâng cấp lên 8MB) và số vòng quay trong một phút là 5.400 rpm. 
+Để giữ cho tiếng ồn phát ra từ ổ đĩa ở mức thấp, nhóm Western Digital đã áp dụng thuật toán SoftSeek (thuật toán này không có tiếng lách cách điển hình trong khi ổ đĩa thực hiện việc định vị một khu vực xác định trên đĩa và đặt đầu từ đọc ghi vào) cùng với kỹ thuật WhisperDrive (kỹ thuật này giúp ổ cứng chịu đựng động lực chuyển động và đặc biệt là làm ẩm vỏ bọc con quay/đầu từ). 
+Công ty khẳng định dòng Scorpio là ổ cứng di động hoạt động không gây ồn ào nhất trên thị trường. Phát ngôn Westerm Digital, ông Darrin Bulik cho biết “Chúng tôi đã thử nghiệm Scorpioso với các ổ cứng cạnh tranh có tốc độ quay 4200 rpm và 5400 thì ổ cứng Scorpio sau khi chạy thử nghiệm vẫn êm và mát hơn”. 
+Western Digital cho biết ổ cứng Scorpio rất ít tiêu hao năng lượng, ổ cứng này tiêu hao số lượng năng lượng bằng ổ cứng có tốc độ quay 4200rpm trong khi đó tốc độ lại nhanh hơn nhiều. 
+Chống va đập cũng được cải tiến, Scorpio có mức chịu đựng va đập là 250Gs trong khi đang hoạt động và 900Gs khi không hoạt động. Công ty khẳng định kỹ thuật DuraStep Ramp cho phép ổ đĩa thực thi ít nhất 600.000 chu trình nhập vào/ngưng nhập vào mà không làm bẩn không khí đã được làm sạch bên trong của ổ đĩa. 
+Bulik còn cho biết, các ổ đĩa đã bắt đầu được chuyển cho các nhà sản xuất máy vi tính xách tay và sẽ bán máy vi tính xách tay với ổ cứng Scorpio ra thị trường trong tháng tới. 
+

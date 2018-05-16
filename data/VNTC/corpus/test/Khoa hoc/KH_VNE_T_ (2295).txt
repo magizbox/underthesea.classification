@@ -1,0 +1,7 @@
+Pin nhiên liệu hoạt động liên tục 15 giờ cho laptop
+Samsung vừa tuyên bố đã phát triển thành công pin nhiên liệu cho máy tính xách tay với thời lượng dài gấp 2 lần, nhẹ và mỏng hơn so với sản phẩm của các đối thủ Nhật Bản.
+Hãng điện tử Hàn Quốc cho biết pin của họ có thể khai thác 200 watt giờ năng lượng từ mỗi lít nhiên liệu tiêu thụ. Trong khi đó, mẫu mô phỏng của hai công ty Nhật Toshiba và NEC chỉ đạt 100 - 130 watt giờ/lít.
+Sản phẩm có kích thước 23 x 8,2 x 5,3 cm, trọng lượng dưới 1 kg, chứa 200 cm3 nhiên liệu methanol, sản sinh điện năng tối đa 50W và sẽ ra mắt trong năm 2007.
+Giống như những pin nhiên liệu khác, công nghệ của Samsung sử dụng một chất xúc tác để phản ứng với methanol và nước trong điện cực dương. Quá trình này sản sinh hydro và electron, chúng lại kết hợp với oxy trong điện cực âm để tạo ra nước. Sau đó, pin chuyển đổi một lượng nước trở lại cực dương để tiếp tục phản ứng, hút hydro tới cực âm và tạo thành nước. Pin đồng thời cũng sinh ra khí CO2.
+Pin nhiên liệu không chỉ có tuổi thọ dài mà còn có thể xạc lại nhanh chóng và không chứa chất độc hóa học. Viện nghiên cứu Nomura của Nhật dự đoán thị trường này sẽ đạt doanh thu 237 triệu USD năm 2008 và 569 triệu USD năm 2010. 
+

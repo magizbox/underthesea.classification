@@ -1,0 +1,13 @@
+Thiết bị cầm tay hợp nhất PC và ĐTDĐ
+Công ty DualCor (Mỹ) chuẩn bị giới thiệu cPC, một máy tính "cầm tay" chạy trên Windows XP, đồng thời tích hợp điện thoại thông minh hoạt động với Windows Mobile 5.0.
+DualCor cPC. Ảnh: MSMobile
+cPC có kích thước 16,5 x 8,4 x 3 cm và màn hình 5 inch. Steven Hanley, Giám đốc điều hành của DualCor, cho biết khách hàng tiềm năng của sản phẩm sẽ là các nhà quản lý kinh doanh thường xuyên phải đi xa.
+Theo Hanley, cPC thực chất là "nhét hai thiết bị vào trong một gói". Phần "máy tính" chứa hệ điều hành Windows XP Tablet, thiết bị xử lý C7-M 1,5 GHz của Via Technologies và bộ nhớ 1 GB DDR 2. 
+DualCor chọn chip của Via bởi nó tiêu thụ lượng điện năng tối đa là 7,5 watt nhưng vẫn mang đến khả năng hoạt động như một máy tính thông thường. "Trước đây chúng tôi dùng chip Transmeta nhưng nó khiến hệ thống mất đến 7,5 - 9 giây để tải xong tài liệu", Hanley giải thích.
+Phần "di động" bao gồm phiên bản Windows Mobile 5.0 dành cho Pocket PC, thiết bị xử lý thông tin PXA của Intel, DRAM 128 MB và bộ nhớ flash 1 GB.
+Thiết bị di động và máy tính này dùng chung một ổ cứng 40 GB. Trong chế độ điện toán x86, thời lượng pin sẽ kéo dài 3 - 4 giờ, tương đương với chuẩn cho laptop trên thị trường. Tuy nhiên, sản phẩm có thể hoạt động liên tục từ 8 - 12 giờ nếu chuyển sang cơ chế điện thoại thông minh.
+Màn hình cPC sử dụng một loại kính đặc biệt của LG với độ sáng 200 nit và là một trong những màn hình smart phone sáng nhất.
+cPC hứa hẹn sẽ là một sản phẩm gây chú ý bởi hiện nay, nhiều nhân viên văn phòng bắt đầu từ bỏ notebook và chuyển sang sử dụng BlackBerry hoặc những thiết bị cầm tay khác.
+Sony và công ty OQO cũng đã giới thiệu máy tính Windows cầm tay hoàn chỉnh. Nhưng khách hàng không mấy quan tâm bởi thiết bị có thời lượng pin và khả năng xử lý thao tác hạn chế. Trong khi đó, nhờ một số cải tiến về thiết kế và kỹ thuật, pin của cPC đủ lâu để người sử dụng chạy đồng bộ các ứng dụng trong hơn 8 giờ.
+Tuy nhiên, giá cả của cPC không hề dễ chịu. Hệ thống sẽ ra mắt tại triển lãm CES ở Las Vegas (Mỹ) tháng tới với giá 1.500 USD.
+

@@ -1,0 +1,5 @@
+ Motorola giới thiệu điện thoại thông minh MPx200
+Motorola MPx200 có bộ vi xử lý Intel PXA240 200 MHz, cùng với SDRAM 32 MB và ROM 32MB, có kích thước 3,5 (chiều dài)x 1,9 (chiều rộng)x 1,1 (bề dày) inches và nặng 113,4g. Điện thoại di động này có khe cắm card SD hoặc card MultiMedia lên đến 1GB. Giao tiếp với máy tính qua cổng USB. 
+MPx200 có màn hình màu TFT (176x 220 pixel) với các phím bấm có biểu tượng lớn để truy cập nhanh đến lịch biểu, danh sách các cuộc hẹn, hộp thư điện tử, và các chức năng trình duyệt Internet Explorer. 
+Hãng AT&amp;Wireless cho biết MPx200 có giá 409,99 USD và nếu mua máy trong tháng này mỗi máy sẽ được giảm 70 USD. 
+

@@ -1,0 +1,10 @@
+ Chế tạo robot thay thế 2 chân người Một nhóm nhà khoa học Nhật Bản đang phát triển một loại robot hai chân, hứa hẹn thay thế đôi chân người trong việc di chuyển dành cho người lớn tuổi cũng như người thiểu năng. 
+Phiên bản hiện tại của robot này cao 1,28 m. Hình dạng thực tế là một chiếc ghế di động trên 2 chân bằng cơ khí. 
+Người ngồi trên ghế có thể điều khiển việc di chuyển thông qua hai cần điều khiển. 
+Đây là một sự kết hợp tuyệt vời giữa cơ khí chính xác và công nghệ thông tin. 
+Chính công nghệ thông tin sẽ làm cho thao tác điều khiển robot dễ dàng và tiện lợi hơn. 
+Cũng chính công nghệ số sẽ là chìa khoá cho các phương pháp điều khiển sinh học, sẽ được trang bị dần cho các thế hệ tiếp theo của robot. 
+Người điều khiển có thể dùng ý nghĩ để điều khiển robot di chuyển hết sức linh hoạt, có thể không thua gì một đôi chân thường. 
+Nhóm phát triển cho biết, phải tốn thêm ít nhất 5 năm nữa, Robot này mới có thể thích hợp hoàn toàn cho người già sử dụng. 
+Hiện tại, thiết bị này có tốc độ đáp ứng, di chuyển khá chậm và cần được gia cố để có thể chịu được tải trọng lớn hơn. Mục đích chính khi phát triển loại robot này là giúp đỡ những người già và người thiểu năng về sức khoẻ, để họ có thể hoà nhập tốt hơn vào cộng đồng. 
+

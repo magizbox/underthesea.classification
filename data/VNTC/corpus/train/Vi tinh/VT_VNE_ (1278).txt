@@ -1,0 +1,6 @@
+Trình duyệt tích hợp tính năng chống phishing 
+Netcraft, công ty chuyên cung cấp số liệu thống kề về Internet, vừa giới thiệu một ứng dụng bổ sung cho trình duyệt Internet Explore, có khả năng cảnh báo các trang weblừa đảo trực tuyến bằng cách cung cấp thông tin chi tiết về địa chỉ  mà người dùng đang truy cập.
+"Thanh công cụ của Netscraft cung cấp cho người sử dụng những thông tin cập nhật về site mà họ truy cập, đồng thời khóa các trang phishing đã bị phát hiện trước đó", Giám đốc của Netcraft, Mike Prettejohn, cho biết.
+Thanh công cụ cung cấp thông tin về tính phổ biến, nơi đặt máy chủ và địa chỉ Internet của trang web mà người dùng đang duyệt. Ứng dụng này còn đánh dấu những trang có dấu hiệu lừa đảo mà những người sử dụng khác đã phát hiện trước đó. Đây được xem là một vũ khí mới chống lại nạn lừa đảo trực tuyến đang gia tăng nhanh cùng với sự phát triển của Internet và thương mại điện tử. 
+Hiện tại, ứng dụng này được cung cấp dưới dạng plug-in dành cho Internet Explore của Microsoft. Phiên bản cho trình duyệt Firefox của Mozilla đang được Netcraft phát triển. Có thể tải miễn phítại đây. 
+

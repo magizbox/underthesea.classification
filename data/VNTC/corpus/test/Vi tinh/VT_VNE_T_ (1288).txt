@@ -1,0 +1,8 @@
+Font Unicode hay VIQR? (2)
+Toi dung. I.E 5.2 Macintosh, khi mo Safari thi doc duoc cac chu nhung khi mo I.E thi chi toansymbol. Xin hoi nen lamsao de doc duoc UNICODE (cho may vi tinh Macintosh) va neu toi danh theo VIQR, nguoi khac co doc duoc binh thuong khong?
+Vo Anh Dung
+Hồi âm:
+May tinh nao cung theo 1 nguyen tac: neu ban chon khong dung font thi khong the hien thi dung van ban nao ca, vi vay ban phai cau hinh lai font cho IE. De doc duoc Unicode thi ban phai co font Unicode. Neu ban danh VIQR, va neu may ban co font cho bo ma VIQR thi se hien thi duoc tieng Viet co dau, tuy nhien neu khong thi van ban do van co the doc duoc voi bat ki font nao nhung hoi kho, "vi' du. nhu the^' na`y". Bo font cua ma VIQR hoi hiem, trong phan mem GVSBK co rat nhieu font cho cac loai bo ma, nhung toi khong biet co font cho MAC khong. 
+Nam Nguyen 
+Bạn không thể dọc Unicode với IE trên máy Mac, tuy nhiên Safari tốt hơn IE nhiều lần vì thế tốt nhất là bạn sử dụng Safari để duyệt web. VIQR, không sử dụng font chữ riêng (mà sử dụng các ký tự của bảng mã ASCII để hiển thị tiếng Việt) và vì thế bất cứ ai cũng có thể đọc được nếu họ không cảm thấy quá rối mắt.
+

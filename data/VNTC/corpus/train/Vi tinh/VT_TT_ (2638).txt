@@ -1,0 +1,6 @@
+ Số người tải Firefox về dùng đã vượt qua 100 triệu lượt
+Hiệp hội Mozilla nhận định rằng số lượt người tải Firefox về dùng đã vượt quá mọi mong đợi của đội ngũ phát triển Firefox, kể từ lúc giới thiệu bản Firefox 1.0 vào cuối tháng 11-2004 và đến cuối mùa thu năm nay bản chính thức của Firefox 1.5 sẽ chính thức ra đời. 
+Mặc dù đã đạt được số lượt tải về ở mức khổng lồ nhưng Firefox vẫn phải đang cạnh tranh quyết liệt để mong kiếm thêm được vài phần trăm ít ỏi từ trình duyệt thống soái Internet Explorer của Microsoft. 
+Trong tháng 9 vừa qua thị phần của Firefox đã giảm khoảng 0,75% từ 8,27 % trong tháng 8-2004, thị phần của Firefox đã lên đến đỉnh điểm là 8,71% trong tháng 6-2004, trong khi dù có suy giảm nhưng thị phần của Internet Explorer vẫn cứ “tàn tàn” chiếm hơn 85% thị phần trình duyệt toàn cầu. 
+Các chuyên gia dự đoán rằng Firefox sẽ “không có cửa” ngoi lên hơn nữa trong thị phần trình duyệt khi Microsoft chính thức tung ra trình duyệt Internet Explorer 7.0 với nhiều tính năng tiện dụng hơn và bảo mật hơn, tuy rằng các tính năng nổi bật của Internet Explorer 7.0 cũng chỉ là lặp lại những gì đã có từ lâu của các trình duyệt đối thủ. 
+

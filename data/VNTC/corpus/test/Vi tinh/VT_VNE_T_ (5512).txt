@@ -1,0 +1,19 @@
+Chiêu thức viết một e-mail thông cáo báo chí
+Cùng với sự lên ngôi của Internet, các doanh nghiệp có thêm một phương tiện hữu hiệu để chuyển tải nội dung thông cáo báo chí của mình đến đối tượng cần được cung cấp.
+Thông cáo báo chí là một công cụ quan trọng trong việc đưa thông tin về các hoạt động, sự kiện của doanh nghiệp, tổ chức đến với công chúng thông qua các phương tiện truyền thông, đại diện trực tiếp là các phóng viên. Cùng với sự lên ngôi của Internet, các doanh nghiệp có thêm một phương tiện hữu hiệu để chuyển tải nội dung thông cáo báo chí của mình đến đối tượng cần được cung cấp. Theo đây, nội dung thông cáo báo chí cũng phải có những tiêu chí và cách thức viết riêng khi đưa lên Internet, đặc biệt là được gửi qua thư điện tử (e-mail). Tham khảo các giáo trình về khoá học Quan hệ công chúng tại Thames Business School , bài viết này cung cấp cho bạn những kỹ năng quan trọng để viết một e-mail thông cáo báo chí. 
+Luôn hướng đối tượng gửi thông cáo
+1. Trước hết cần chắc chắn xem phóng viên có muốn nhận một thông cáo báo chí qua e-mail hay không. Tuyệt đối tránh nếu phương tiện qua e-mail không được chào đón. Nếu có thể, hãy cá nhân hoá thông cáo đó bằng cách đề tên thật của họ, sau đó mới đề bút danh nếu cần thiết. Vì nhiều người cho rằng gửi thư điện tử là cách không mấy trang trọng.
+2. Tránh tuyệt đối gửi thông cáo báo chí cùng lúc cho nhiều phóng viên bằng cách đánh một danh sách các địa chỉ phóng viên vào dòng To, rồi gửi e-mail. Không phóng viên nào muốn nhìn thấy tên các phóng viên khác cũng được nhận thông cáo. Bởi vì các phương tiện truyền thông chỉ sẵn sàng đưa những ý trong thông cáo mà họ cho rằng chỉ có một số ít các cơ quan truyền thông như họ mới có các ý này.
+3. Bạn lưu ý không gửi e-mail theo kiểu Attachment để phòng trường hợp người bạn gửi thư đến không mở được file đính kèm. Hơn nữa, những phóng viên bận rộn nhiều khi sẽ để sót thông tin của bạn vì mở Attachment tốn thời gian, chưa kể đến trường hợp Attachment nhiễm Virus.
+4. Để xác đinh người phóng viên bạn gửi đã nhận được e-mail hay chưa, bạn không nên sử dụng câu hỏi Bạn đã nhận được thư chưa? trong e-mail. Thay vào đó, bạn hãy trực tiếp gọi điện hỏi người phóng viên đó xem còn cần thêm thông tin gì nữa không. 
+9 bước trình bày e-mail thông cáo báo chí
+1. Thông cáo báo chí gửi qua e-mail, trước hết phải ngắn gọn hơn so với một thông cáo báo chí giấy để thông tin đăng tải có thể hiện trên một hoặc nhiều nhất là hai trang hình. Như vậy, độ dài của một thông cáo báo chí gửi qua e-mail nên chỉ nhiều nhất là 400 từ. 
+2. Viết một tiêu đề ngắn gọn về nội dung của thông cáo báo chí trên phần tiêu đề của e-mail.
+3. Đưa tên của công ty, thông tin liên lạc lên ngay phần đầu của thông cáo, đặc biệt đối với thông cáo nhanh và ngày thông cáo. Hãy cách dòng trước khi viết tiêu đề. 
+4. Viết tiêu đề ngắn gọn, rõ ràng. Tiếp tục cách dòng. 
+5. Viết phần tóm tắt với những thông tin cơ bản: Ai tổ chức sự kiện? Về cái gì ? Ở đâu? Khi nào? Và phải đảm bảo những thông tin này có ngay ở trang hình đầu tiên. 
+6. Hãy sử dụng tựa đề cho các mục thông tin khi cần thiết.
+7. Tránh sử dụng tính từ và những từ thể hiện mức độ tuyệt đối. Hãy viết theo phong cách đơn giản, dễ hiểu và có giá trị tin tức. 
+8. Có thể nêu lại thông tin liên lạc bao gồm: số điện thoại, fax, e-mail và bất cứ thông tin nào liên quan đến website ở phần cuối của thông cáo. 
+9. Đặc biệt, e-mail sẽ tạo ra ấn tượng không tốt nếu nội dung của email mắc nhiều lỗi về chính tả hay đánh máy& Một e-mail được viết không cẩn thận sẽ gây cho người nhận một hình ảnh phản cảm về tổ chức của bạn.
+

@@ -1,0 +1,5 @@
+TP HCM có 'nhân viên xét nghiệm' là robot
+Trung tâm chẩn đoán y khoa TP HCM vừa đưa 3 chú robot vào làm nhân viên phòng xét nghiệm, thay cho kỹ thuật viên và bác sĩ. Trong một giờ, chúng có thể cho ra 4.300 kết quả xét nghiệm, tương đương với khối lượng công việc của gần 20 kỹ thuật viên.
+Dược sĩ Nguyễn Thanh Tòng, Trưởng khoa Xét nghiệm, cho biết, hệ thống robot này có tổng trị giá trên 1,5 triệu USD, bao gồm các máy sinh hóa ghép với máy miễn dịch. Robot có thể làm các xét nghiệm về miễn dịch hoặc sinh học phân tử như: tìm dấu ấn ung thư, ADN trong viêm gan virus B,C, xét nghiệm HIV, lao, tìm chỉ số đường huyết, urê, chức năng gan... 
+Với các robot trên, thời gian chờ lấy kết quả xét nghiệm của bệnh nhân rút ngắn được một nửa, chỉ còn 1 giờ 30 phút. Không chỉ làm nhanh, robot còn góp phần giữ gìn vệ sinh môi trường nhờ sử dụng ít máu và hóa chất. Cụ thể, lượng huyết thanh sử dụng cho một lần xét nghiệm chỉ bằng 1/10-1/20 so với kỹ thuật thông thường, nhờ đó hóa chất sử dụng cũng ít đi, giảm được lượng chất thải.
+

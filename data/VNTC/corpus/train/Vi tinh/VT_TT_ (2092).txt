@@ -1,0 +1,6 @@
+ VMware cung cấp miễn phí phiên bản cho máy chủ
+VMware Server miễn phí là phiên bản thay thế cho VMware GSX mà trước đây, người dùng phải trả đến 1400 USD để có được phiên bản GSX Server cho vi xử lý kép và 2800 USD cho các hệ thống nhiều vi xử lý. VMware ESX có giá đắt hơn tùy theo các yêu cầu từ người dùng và có thể xử lý nhiều các tính năng cao cấp hơn. Một trong những tính năng này là GSX Server yêu cầu được hoạt động dưới một hệ điều hành ví dụ như Windows. Còn ESX Server có thể tự vận hành mà không cần đến hệ điều hành. 
+Đây được xem như là một phương thức mới của VMware nhằm thu hút người dùng tiếp cận các phần mềm của mình và kế tiếp là các tùy chọn bổ sung cho nó cũng như các phiên bản thương mại khác. Do đó, VMware sẽ mở rộng được thị phần của mình trên thị trường phần mềm so với các đối thủ. Hơn nữa, người dùng sẽ có xu hướng nâng cấp từ phiên bản GSX Server miễn phí lên phiên bản ESX Server để có được những tính năng cao cấp hơn. 
+Phần mềm ảo sẽ trở thành một phần của Red Hat Enterprise Linux và SUSE Linux Enterprise Server của Novell trong một phiên bản kế tiếp của các hệ điều hành này. Microsoft cũng đã có kế hoạch bổ sung công nghệ này vào LongHorn Server. 
+VMware Server tham gia cùng VMware Player có mặt trong danh sách những ứng dụng miễn phí cung cấp từ VMware Inc. Thông tin tham khảo và tải phiên bản miễn phí tại đây . 
+

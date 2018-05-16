@@ -1,0 +1,12 @@
+Quản lý sinh viên chỉ bằng một 'click'
+Những thiết bị tương tự như bộ điều khiển TV có thể giúp giáo viên biết được sinh viên có đang tập trung hay không, và từ đó có điều chỉnh cách giảng của mình.
+Khi mà lớp học ngày càng mở rộng, lượng sinh viên đôi khi lên tới hàng trăm người, việc quản lý sẽ khó khăn, và giáo viên luôn phải tự hỏi: "Liệu có những ai đang nghe giảng? Bao nhiêu người đủ tỉnh táo để học?".
+Giáo sư tại các trường đại học Mỹ đang áp dụng một công nghệ giúp họ giải đáp những thắc mắc luôn khiến họ đau đầu đó. Ý tưởng này đã được dùng từ nhiều năm trước đây trong các chương trình định lượng khán giả, sản phẩm hoặc trong chính trị... nhưng tương đối mới mẻ với ngành giáo dục. Nó cho phép giáo viên đặt ra câu hỏi và nhận phản hồi nhanh chóng từ lớp học. 
+Thiết bị "clicker", tương tự như điều khiển vô tuyến, sẽ truyền phản ứng của sinh viên qua tín hiệu hồng ngoại tới hệ thống máy tính hiển thị kết quả nhanh của giáo viên.
+Giáo viên có thể linh hoạt trong việc sử dụng thiết bị này: họ sẽ đưa ra một câu hỏi nhanh cho cả lớp để biết sinh viên có chú ý nghe giảng, danh sách 20 câu hỏi, hoặc một mẫu các quan điểm về bài giảng để đánh giá mức độ hiểu bài của người nghe. Sinh viên chỉ cần đơn giản nhấn nút để gửi thông tin đi. 
+Kết quả sẽ hiển thị ngay trên đồ thị để tất cả đều có thể nhìn thấy. Câu trả lời đúng được tô đậm giúp sinh viên biết mình đúng hay sai, cũng như bao nhiêu người trả lời giống mình. Hơn thế, họ không cần phải lo lắng vì thiết bị này không hiển thị tên người trả lời.
+"Tôi đưa câu hỏi lên màn hình, và tất cả sinh viên bắt đầu click vào đó", Jeffrey Henriques, giảng viên tâm lý tại trường đại học Winconsin (Mỹ), cho hay. "Chỉ trong vòng khoảng 1 phút, tôi đã nhận được phản hồi từ hơn 200 sinh viên". 
+Nhờ đó, Henriques có thể biết ngay tức thì ai đang theo dõi và ai đang lơ là. Ông cho biết kết quả nhận được đôi khi khiến ông rất hài lòng về lớp học, nhưng đôi khi lại thật đáng thất vọng.
+Hầu hết sinh viên cũng rất chú ý tới công nghệ này vì nó khiến họ cảm thấy "được khích lệ" hay "ít cảm thấy buồn ngủ hơn".
+Mỗi thiết bị clicker giá 25 USD và hầu hết được kèm theo trong danh sách tài liệu sinh viên cần mua cho chương trình học. 
+

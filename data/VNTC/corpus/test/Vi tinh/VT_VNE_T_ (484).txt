@@ -1,0 +1,8 @@
+Diệt spyware bằng Spybot Search and Destroy v1.3
+Chương trình này sẽ quét ổ cứng để xác định những phần mềm do thám hoặc những module phần mềm chuyên làm hiển thị các mục quảng cáo hoặc gửi thông tin từ máy của bạn về cho chủ của nó.
+Nếu tìm được những đối tượng này, Spybot Search and Destroy sẽ gỡ bỏ và thay thế chúng bằng những adware giả, trống rỗng, vì thông thường, phần mềm chủ của chúng vẫn sẽ hoạt động sau khi adware đã bị gỡ đi.
+Trong số các mục tiêu mà Spybot Search and Destroy xử lý có Aureate, CLPRS, Comet Cursors, eZula HotText, Gator, GoHip, Radiate, WebHancer và WildTangent. 
+Chương trình an ninh này còn loại bỏ phần lưu hồ sơ sử dụng (track) chẳng hạn như các trang web mới truy cập, những file đã mở, các chương trình đã kích hoạt hoặc cookies. Vì thế, ngay cả những loại spyware mà chương trình chưa biết cũng không thể khai thác và truyền đi thông tin cá nhân được. 
+Spybot Search and Destroy hỗ trợ cả 3 loại trình duyệt phổ biến nhất: Internet Explorer, Netscape Communicator và Opera. 
+Để tải miễn phí Spybot Search and Destroy v1.3, bấmvào đây.
+

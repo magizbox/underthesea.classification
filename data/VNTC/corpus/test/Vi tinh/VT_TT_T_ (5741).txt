@@ -1,0 +1,4 @@
+ Toshiba chế tạo pin nhiên liệu nhỏ nhất thế giới
+Pin mới có kích thước 22 x 45 mm và nặng 8,5 gam, hoạt động bằng cách trộn methanol với không khí và nước để tạo ra 100 milliwatts. Nói tạo ra điện bằng cách chuyển đổi hydro và ôxi thành nước, không cần sử dụng bơm hay quạt để tản nhiệt. Dự tính sản phẩm này sẽ có mặt trên thị trường trong năm 2005. 
+Hiện nay, có rất nhiều công ty trên thế giới đang phát triển pin nhiên liệu (trong đó có NEC và Toshiba) để thay thế pin thông thường nhằm tăng cường sức mạnh cho các thiết bị điện tử, đồng thời tiết kiệm chi phí. Loại pin này hoạt động tốt, trong khi ít gây ô nhiễm môi trường. 
+

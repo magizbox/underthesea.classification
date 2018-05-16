@@ -1,0 +1,13 @@
+Công nghệ nhiếp ảnh 3D đầu tiên của Việt Nam
+Lần đầu tiên một kỹ thuật chụp ảnh 3 chiều tích hợp xuất hiện tại Việt Nam cho phép bạn sở hữu những bức ảnh có độ sâu hệt như thật. Đó là thành quả của nhóm nghiên cứu tại Viện khoa học Vật liệu, thuộc Viện KHCN Việt Nam.
+Theo tiến sĩ Phạm Hồng Dương, người đứng đầu nhóm nghiên cứu, công nghệ 3D không còn xa lạ trên thế giới và đã được ứng dụng rộng rãi trong phim ảnh 3D, trò chơi 3D hay đồ hoạ 3D, nhưng nhiếp ảnh 3D thì vẫn còn là một lĩnh vực mới mẻ, chưa được khai thác nhiều. Sau 10 năm nghiên cứu và kết hợp giữa vật lý quang học chính xác và công nghệ xử lý hình ảnh số hóa, một studio chụp ảnh người bằng công nghệ 3D đầu tiên trên thế giới đã ra mắt.
+Ảnh nổi 3D - còn gọi là ảnh tích hợp - chứa lượng thông tin gấp 10-20 lần một bức ảnh thông thường. Khi nhìn vào một bức ảnh 3D được in ra, người xem có thể cảm nhận chiều sâu và cả độ nổi của từng đối tượng trong cảnh vật. 
+Đầu vào của công nghệ ảnh tích hợp 3D là một chuỗi gồm nhiều ảnh chụp đồng thời ở các góc chụp liên tiếp nhau, theo một quy trình chụp đặc biệt, nhằm lấy được đầy đủ ba chiều không gian của sự vật. Các bức ảnh này sau đó được xử lý theo một quy trình mã hóa phức tạp để tạo thành một bức ảnh tích hợp đầu ra.
+Khác với điện ảnh 3D, khi xem ảnh nổi 3D, không cần phải dùng kính hay bất cứ thủ thuật trợ giúp nào. Tiên tiến hơn so với ảnh cắt lớp giả 3D, ảo ảnh không gian 3 chiều, hay ảnh lật (có trên các thước kẻ Trung Quốc), công nghệ tích hợp 3D tạo chiều sâu liên tục và thực sự của từng chi tiết trong ảnh bằng sự tích hợp của nhiều góc nhìn khác nhau. Nói cách khác, ảnh nổi 3D chính là sự tích hợp của một đoạn phim trong một bức ảnh.
+Chất lượng ảnh tích hợp xét về độ nét, độ mịn, màu sắc, bố cục... không khác gì ảnh 2D truyền thống, còn độ bền thì gấp 10 lần. Hạn chế duy nhất của ảnh 3D là có giá thành tương đối cao. Một bức ảnh người có kích cỡ 12x13 cm có giá là 200.000 đồng.
+Tiến sĩ Phạm Hồng Dương cho rằng công nghệ ảnh tích hợp 3D sẽ có tiềm năng ứng dụng rất lớn nếu kết hợp với các lĩnh vực khác như thiết kế mỹ thuật, đồ hoạ vi tính, quảng cáo... và hứa hẹn mở ra một hướng đi mới cho nghệ thuật nhiếp ảnh.
+Hiện nhóm tiếp tục nghiên cứu kỹ thuật mô phỏng 3 chiều nổi ứng dụng trong các phòng tập lái xe hay phòng chiếu phim. 
+Tuy nhiên, ông Dương cũng cho biết một số ít người sẽ gặp khó khăn trong việc xem ảnh 3 chiều, họ sẽ chỉ thấy các lớp ảnh nhoè nhoẹt, đan xen vào nhau. Bạn đọc có thể vào trang web giới thiệu công nghệ nàyhttp://www.cooplab3d.comđể biết rõ hơn về lịch sử ảnh 3D, sự ra đời của công nghệ mới và các ưu việt của nó.
+Liên hệ: Phòng 222 nhà A2, Viện Khoa học Vật liệu, 18 Hoàng Quốc Việt, Hà Nội. Tel: 04.7913065.
+Anh Thi
+

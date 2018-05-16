@@ -1,0 +1,8 @@
+Không thể bấm Ctrl+Alt+Del (1)
+Chào mọi người! Giúp em với, em đang dùng WinXP 2, khi nhấn Ctrl+Alt+Del thì chỉ xuất hiện 1 màn hình Dos trong vòng 1s rồi biến mất luôn. Bấm chuột phải vào thanh taskbar thì dòng "Task Manager" bị mờ đi và không kích hoạt đươc. Làm cách nào để khắc phục? Cám ơn nhiều!
+Tuan Anh
+Hồi âm:
+Chào em,
+1. Em dùng câu lệnh này "taskmgr", start  run  gỏ vào "taskmgr".  Nếu hiện ra lỗi "another program is currently using this file." thì có thể là bị virus đó . Chạy chương trình vét virus xem sao. 2. Em cũng có thể kết nối bàng phím và máy tính lại3. Em có thể mượn bàng phím khác xem nó có bị như vậy không.Nếu các cách trên không thành công em thử "Windows XP repair".
+Chúc em thành công
+

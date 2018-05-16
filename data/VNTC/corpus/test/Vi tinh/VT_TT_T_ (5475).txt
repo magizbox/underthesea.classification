@@ -1,0 +1,23 @@
+ Cách chọn máy quay phim kỹ thuật số
+Hệ thống ống kính là bộ phận đầu tiên của máy quay tiếp nhận ánh sáng và hình ảnh. Chất lượng ống kính được quyết định bởi công nghệ và truyền thống của các nhà sản xuất ống kính trên thế giới, đây là yếu tố quan trọng cho chất lượng thu hình. 
+Ngoài sự phụ thuộc vào công nghệ sản xuất các thấu kính, ống kính máy quay còn phải đáp ứng một số nhu cầu sau: 
+- Khả năng đóng mở và độ bền cơ học của màn chập, khẩu độ, tiêu cự và khả năng tăng sáng điện tử (Gain) để có thể thu hình ở ngay cả trong môi trường ánh sáng yếu. 
+- Khả năng của độ mở góc rộng và độ phóng đại của ống kính có đáp ứng nhu cầu khi thu hình trong công việc của bạn. 
+- Ngoài các yếu tố trên còn một vấn đề nữa không kém phần quan trọng đó là công nghệ chế tạo hệ thống thấu kính chống rung (OIS) của nhà sản xuất, giúp cho người sử dụng máy quay KTS thu được những hình ảnh độ nét cao. 
+Chip xử lý hình ảnh 
+Nếu có điều kiện bạn nên mua loại máy có 3 chíp xử lý hình ảnh Kích thước của chíp xử lý ánh sáng được nhận biết qua các chỉ số: 1-inch, 3/4-inch, 2/3-inch 1/2-inch, 1/3-inch, 1/4-inch và 1/6 inch (1-inch tương đương 25mm). Khi kích thước của chíp càng lớn khả năng xử lý ánh sáng càng chính xác. 
+Các máy quay KTS chuyên dùng cho các phim trường và đài truyền hình sử dụng chíp từ 2/3-inch đến 1-inch như DVCam của Sony hay DVCPro của Panasonic. Loại chíp có kích thước 1/3 và 1/4-inch được trang bị cho các máy quay như: AG-DVC30, AG-DVC60 và AG-DVX100 của Panasonic hay DCR-VX2100, DSR-PD170 của Sony với giá thành từ 2.000 USD đến 4.000USD. Còn những CCD nhỏ hơn được trang bị cho các dòng máy quay KTS gia đình. 
+Thông số thứ hai cũng không kém phần quan trọng, đó là xử lý ánh sáng bằng 1 chíp(1CCD) hay 3 chíp (3CCD). Máy quay phim KTS phân tích ánh sáng thông qua ba màu cơ bản là: màu đỏ, màu xanh lá cây và xanh da trời. Máy quay phim 1CCD phân tích ánh sáng 3 màu sắc trên chỉ bằng 1 chíp do đó chất lượng màu sắc hình ảnh chưa cao. 
+Còn dòng sản phẩm máy quay 3CCD phân tích ánh sáng bằng 3, với mỗi chíp xử lý riêng biệt một màu khác nhau. Nên các dòng sản phẩm máy quay phim 3CCD cho chất lượng hình ảnh rõ, đẹp hơn nhiều so với dòng máy quay 1CCD. 
+Một số máy quay KTS được trang bị 3CCD (1/3-inch) thế hệ mới loại progesssive 470.000 điểm ảnh, giống như các CCD trong các máy quay chuyên dùng trong ngành truyền hình. Nên rất nhạy sáng có thể thu hình ngay cả khi ánh sáng yếu dưới 3 Lux. 
+Riêng các máy quay KTS của hãng Panasonic còn được trang bị bộ xử lý RGB Gamma. Kỹ thuật này giúp chúng ta dễ dàng thu hình khi quay ngược sáng và hình ảnh thu được có tone màu giống phim nhựa hơn các máy quay cùng loại. 
+Bộ chuyển đổi A/D (chuyển tín hiệu từ Analog sang kỹ thuật số) 
+Sau khi ánh sáng được phân tích qua các chíp xử lý ánh sáng sẽ được chíp A/D xử lý, chuyển đổi từ tín hiệu tương tự sang tín hiệu số. Chỉ số bit của chíp A/D lớn cho chất lượng của hình ảnh được ghi hình trên băng DV càng cao. Đây là một yếu tố quan trọng và cần thiết khi chọn mua máy quay KTS. 
+Các yếu tố khác 
+- Cân bằng trắng, cân bằng đen, nhanh và chính xác. Điều này giúp máy quay ghi lại hình ảnh có màu sắc đẹp và trung thực hơn. 
+- Xử lý ánh sáng, màu sắc, độ nét nhanh giúp cho thao tác dễ dàng khi quay. 
+- Các nút điều khiển, cân bằng trắng, khẩu độ, tốc độ, tiêu cự… được thiết kế như thế nào để người cầm máy tiện dụng khi thao tác. 
+- Chất lượng, độ bền của các hệ thống cơ, đầu từ của máy cũng như thời gian hoạt động của pin sẽ là một yếu tố khá quan trọng khi chọn mua máy. 
+- Không nên chọn các loại máy có cùng lúc 2 chức năng, vừa quay phim vừa chụp ảnh. Vì khi làm song song hai nhiệm vụ, thì mục đích chính là ghi hình sẽ bị giảm chất lượng. 
+- Nên chọn mua các sản phẩm được cung cấp bởi những công ty là nhà phân phối chính thức. 
+

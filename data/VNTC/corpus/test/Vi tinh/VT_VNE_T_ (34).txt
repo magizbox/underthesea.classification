@@ -1,0 +1,6 @@
+Công cụ chuyển đổi file nhạc dBpowerAMP v9.0a
+Đừng ngại cái tên nghe giống như một lỗi đánh máy của phần mềm này. dBpowerAMP là một chương trình khá tiện dụng trong việc chuyển đổi định dạng các tệp nhạc từ đĩa CD audio sang WAV, MP3 hoặc ngược lại.
+Phần mềm có tính tùy chọn này giúp bạn chuyển các định dạng đĩa nhạc thường (Long Playing - LP) sang định dạng số và chuyển các file tiếng sang định dạng của Windows Media Audio v8 hay dạng nén OGG. 
+Chương trình có một tính năng cân bằng volume, đảm bảo tất cả các track đều chạy cùng ở một âm lượng. Ngoài ra, nó còn có tính năng bảo tồn đuôi nhận dạng file (ID-tag) và khả năng truyền tiếng sang đầu máy nghe nhạc cá nhân MP3.
+Để tải miễn phí dBpowerAMP v9.0a, bấmvào đây.
+

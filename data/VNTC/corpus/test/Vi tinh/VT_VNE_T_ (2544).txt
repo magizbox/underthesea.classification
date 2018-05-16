@@ -1,0 +1,5 @@
+80% website khiêu dâm sử dụng virus và spyware
+Phân tích của hãng bảo mật Aladdin Knowledge Systems cho thấy đại bộ phận các trang web cung cấp nội dung sex đang cài đủ loại chương trình do thám vào máy tính của những người truy cập thiếu cảnh giác.
+Lựa chọn ngẫu nhiên khoảng 2.000 - 3.000 địa chỉ trong tổng số 30.000 website loại này, đơn vị khảo sát phát hiện ra một số lượng rất lớn đang được các nhóm tội phạm trực tuyến sử dụng như những bệ phóng cho các chương trình phần mềm nguy hiểm. 70% các loại virus và sâu Internet được viết ra với mục đích phát tán các chương trình đi kèm như Trojan, phần mềm sao chép hoạt động bàn phím (keylogger), lái lệnh truy cập sang địa chỉ khác& 
+Virus đang trở nên chuyên nghiệp hơn, Shimon Gruper, Phó chủ tịch phụ trách công nghệ của Aladdin, phát biểu. Đã có sự chuyển đổi mạnh mẽ về tính chất của các loại phần mềm này. Chúng được thiết kế ngày một tinh vi hơn, theo hướng khai thác tài chính chứ không còn là những chương trình phá hoại đơn thuần.
+

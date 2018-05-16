@@ -1,0 +1,6 @@
+Modem nào thì chơi được game? (1)
+Tôi hiện đang sử dụng MODEM ADSL ZOOM X5 (Mới) tất cả các thông số cài đặt đã hoàn thành và đã vào được mạng. Nhưng có một chương trình game (Gunz) không chơi được tôi đã thử đối với rất nhiều modem đó rồi kết quả vẫn không chơi được. Khi vào trò chơi các nhân vật trên mạng đều đứng yên và có vòng tròn đỏ trên đầu như biểu tượng đường một chiều, chỉ có mỗi nhân vật mà minh chơi là di chuyển được. Vậy tôi phải cấu hình Modem như thế nào mới chơi được.
+Phan Văn Dương
+Hồi âm:
+Game online không liên quan gì đến Modem cả.Modem chỉ có nhiêm vụ kết nối nhận và tải dữ liệu từ máy bạn lên Internet mà thôi. Lỗi game của bạn có thể là do chương trình game bị lỗi download mới về và cài lại xem.
+

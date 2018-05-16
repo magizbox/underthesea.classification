@@ -1,0 +1,10 @@
+Sony hoàn thiện đĩa Blu-ray độ dài chuẩn đầu tiên
+Giám đốc Benjamin S. Feingold của Sony Pictures Home Entertainment (SPHE) tuyên bố họ vừa kết thúc quá trình xây dựng đĩa quang thế hệ mới, có khả năng lưu toàn bộ phim Charlie's Angels: Full Throttle với độ phân giải cao.
+Bộ phim được nén theo chuẩn 1920 x 1080 MPEG 2 và đang được phân phối tới các công ty phần cứng BD để kiểm nghiệm. Với khả năng lưu trữ chưa từng có, đĩa phim Thiên thần của Charlie có menu động, đồ họa và hoạt họa HD, âm thanh vượt trội và chất lượng hình ảnh "có một không hai". 
+"Chúng tôi tự tin rằng thành công này sẽ góp phần giúp mọi người hiểu rằng Blu-ray không chỉ là lý thuyết mà đang tồn tại thực và chuẩn bị có mặt trên thị trường", Feingold nói. ""Đây là bước tiến quan trọng cho ngành công nghiệp băng đĩa bắt đầu bước vào giai đoạn sản xuất hàng loạt phim độ phân giải cao, sử dụng định dạng Blu-ray trong tương lai không xa", Don Eklund, Phó giám đốc SPHE, tin tưởng. 
+Cũng liên quan đến Sony, hai nhà nghiên cứu thuộc trường Princeton (Mỹ) vừa phát hiện một rắc rối mới trong đĩa nhạc của Sony BMG Music Entertainment, tạo cơ hội cho hacker tấn công máy tính của người sử dụng.
+Gần 3 tuần qua, hãng thu âm này đã bị chỉ trích mạnh vìcài phần mềm có cơ chế hoạt động tương tự rootkit vào trong 4,7 triệu CD, khiến PC sử dụng Windows của khách hàng có nguy cơ bị khống chế và tấn công từ xa. Công ty First 4 Internet (Anh) đã cung cấp công cụ gỡ bỏ chương trình chống sao chép của Sony. Tuy nhiên, bản vá lại tiếp tục mở một cửa mới cho hacker thâm nhập hệ thống. 
+Sony đã thay thế bằng phần mềm gỡ bỏ cài đặt của SunnComm (Mỹ). Đáng tiếc, họ cũng gặp phải lỗi tương tự như First 4 Internet vài ngày trước. 
+Edward Felten, Giáo sư khoa học máy tính trường Princeton, và nhà nghiên cứu Alex Halderman cho biết công cụ của SunnComm sẽ trả lời lệnh của website chủ quản, nhưng đồng thời cũng phản hồi trước những hướng dẫn nguy hiểm từ các site khác.
+Ngày 18/11, Sony khẳng định SunnComm đã tháo bỏ công cụ này trên trang web của họ và đang phát triển một chương trình mới thay thế. Bên cạnh đó, hãng cũng đang liên hệ với hơn 200 khách hàng đã tải công cụ lỗi về.
+

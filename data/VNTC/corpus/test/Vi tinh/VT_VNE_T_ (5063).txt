@@ -1,0 +1,7 @@
+Công nghệ RSS tạo cơ hội phát tán virus
+Trong bản phân tích "The Future of Bot Worms" (Sâu mạng trong tương lai), David Sancho, kỹ sư của hãng bảo mật Trend Micro, chỉ ra rằng việc hỗ trợ RSS trong Internet Explorer 7.0 sẽ là một mối nguy hiểm lớn cho máy tính.
+RSS cho phép trình duyệt tự động cập nhật nội dung mới từ các website. Trong một ví dụ đơn giản nhất, Sancho lo ngại những link hợp pháp sẽ bị chỉnh sửa để điều hướng người dùng vào site chứa mã tấn công. Từ đó, sâu và những phần mềm nguy hiểm khác sẽ nhanh chóng thâm nhập vào PC mà không đòi hỏi bất cứ sự can thiệp nào của người sử dụng.
+Công nghệ tường lửa và diệt virus hiện nay sẽ không thể ngăn chặn những vụ tấn công kiểu này do các RSS feed bị chỉnh sửa vẫn có vỏ ngoài hợp pháp. Việc biến đổi một feed không phải thao tác quá khó bởi RSS hiện còn nhiều lỗi và chưa trở thành chuẩn chính thức.
+RSS đã được tích hợp hạn chế trong Mozilla Firefox từ tháng 11/2004. Khi Microsoft trang bị công nghệ này vào phiên bản mới của Internet Explorer, RSS chắc chắn sẽ trở thành một tính năng phổ thông.
+Sancho khuyến cáo các công ty nên sớm có kế hoạch quét và bảo vệ quá trình lưu thông http khắt khe hơn.
+

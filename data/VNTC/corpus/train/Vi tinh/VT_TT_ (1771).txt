@@ -1,0 +1,8 @@
+ Giải phóng bộ nhớ hiệu quả với Memory Washer
+Công cụ Memory Washer sẽ giải quyết vấn đề này qua nhiều công đoạn giải phóng bộ nhớ, dồn (defrag) bộ nhớ để tối ưu quá trình truy xuất, tự động quét và làm sạch bộ nhớ khi bộ nhớ ở mức “low”… 
+Khi cài đặt thành công, đầu tiên bạn nhấn “Clean now” để Memory Washer tiến hành quét và làm sạch bộ nhớ máy tính. 
+Chức năng “Process Manager” sẽ giúp bạn quản lý các ứng dụng đang chạy hiệu quả. Bạn có thể tắt đi toàn bộ các ứng dụng ẩn hoặc hiện không còn cần dùng trên máy tính để giải phóng thêm bộ nhớ. 
+Tính năng “Startup Manager” sẽ giúp bạn quản lý trình Startup hiệu quả, bạn nên tắt đi những ứng dụng không còn cần thiết để nó không cùng khởi động với Windows làm choán bộ nhớ hoặc gây rắc rối không cần thiết. Phần System Info sẽ cung cấp cho bạn các thông số cơ bản về hệ thống Windows và CPU. 
+Mục cuối cùng là Program Settings sẽ giúp bạn thiết lập các tính năng vận hành của Memory Washer như khởi động cùng Windows, đặt Memory Washer vào khay hệ thống, thiết lập chế độ quét theo giờ hay tự động… 
+Có thể vào địa chỉ http://www.rightutilities.com/downloads/memwasher/memorywasher-setup.exe để tải về bản dùng thử hoặc tìm mua ở cửa hàng phần mềm. 
+

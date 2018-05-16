@@ -1,0 +1,10 @@
+Hiển thị kết quả khi chưa gõ xong từ khóa
+Hôm qua, hãng dịch vụ trực tuyến lớn nhất thế giới Yahoo đã phát hành phiên bản thử nghiệm công cụ tìm kiếm mới có khả năng cung cấp nội dung tương ứng khi người dùng vẫn chưa hoàn thành khâu nhập thông tin vào hộp search.
+Khi một từ đang được nhập, Yahoo Instant Search sẽ kiểm tra và nếu đã có ngay kết quả tương ứng, công cụ sẽ hiển thị ngay kết quả dưới hộp tìm kiếm theo dạng "speech bubble" (ô hội thoại thông tin).
+Ví dụ, gõ từ "Harry" sẽ hiện ra kết quả về Daniel Radcliffe, diễn viên đóng vai chính trong loạt phim về cậu bé phù thủy. Khi nhập hoàn chỉnh khóa "Harry Potter", Instant Search sẽ đưa ra trang web chính thức Harrypotter.warnerbros.com của hãng phát hành phim Warner Brothers. Hoặc gõ "bos" sẽ xuất hiện link về điều kiện hiện tại của sân bay Logan ở Boston (Mỹ) và trang Boston.com sau khi nhập từ "Boston". Nếu những nội dung trong bubble không chứa kết quả chính xác, khi đó người dùng mới phải bấm "Enter" hay click vào ô tìm kiếm "Search the Web" để lấy kết quả mình cần.
+Instant Search sử dụng công nghệ AJAX, cho phép máy khách web không cần phải kết nối lại với web server mỗi khi tải thông tin. Yahoo cho biết công cụ vẫn đang trong giai đoạn phát triển và sẽ giới thiệu nhiều đặc điểm hoàn thiện hơn trong thời gian tới.
+Sự cạnh tranh giữa các công ty tìm kiếm đang ngày càng gay gắt với hàng loạt những tính năng mới xuất hiện. Ngày 14/9, Google cũng ra mắt phần mềm search cho blog, sử dụng chương trình RSS để tổ chức nội dung.
+Google Blog Search.
+Google Blog Search tìm kiếm trang web cá nhân theo thời gian thực. Nhờ tính năng RSS, nội dung mới sẽ luôn được cập nhật và kết quả được phân bổ theo ngày tháng. Hiện nay, tin blog cũ nhất mà công cụ tìm kiếm hiển thị là vào tháng 6/2005, nhưng Google khẳng định họ đang xây dựng giải pháp mới để có thể giới thiệu những tin từ thời gian trước đó.
+Blog Search cũng có trang tìm kiếm nâng cao theo tác giả, tiêu đề, trình tự thời gian... Kết quả search được lưu lại và sẽ thông báo cho người dùng ngay khi có tin mới.
+

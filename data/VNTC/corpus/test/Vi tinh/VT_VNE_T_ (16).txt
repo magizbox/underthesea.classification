@@ -1,0 +1,7 @@
+Intel trình làng chip Pentium 4 mới
+Hôm nay, hãng sản xuất bộ vi xử lý lớn nhất thế giới tung ra sản phẩm dành cho máy tính để bàn, được tích hợp thêm nhiều bộ nhớ và chức năng. Động thái này nhằm tiến tới ra mắt loại chip có tốc độ kỷ lục 4 GHz vào cuối năm nay.
+Bill Siu, Phó chủ tịch kiêm Tổng giám đốc nhóm Desktop Plattforms của Intel, cho biết bộ vi xử lý mới, tên mã là Prescott, có tốc độ từ 2,8 GHz đến 3,2 GHz. Ngoài ra, một model 3,4 GHz cũng sẽ xuất hiện trong vài tháng tới.
+Dòng Pentium 4 mới sẽ có 125 triệu transitor, tăng từ 55 triệu trong các sản phẩm trước. Hầu hết chip mới cũng tăng gấp đôi bộ nhớ, từ 512 KB lên 1 MB, và có kích cỡ nhỏ hơn.
+Các nhà sản xuất máy tính cá nhân, trong đó có Dell và HP, sẽ tung ra thị trường loại máy dùng bộ vi xử lý Prescott.
+Giá bán sỉ dòng chip mới sẽ từ 178 USD (đối với loại 2,8 GHz) đến 417 USD (loại 3,4 GHz).
+

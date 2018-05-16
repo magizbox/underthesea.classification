@@ -1,0 +1,6 @@
+Sách và từ điển miễn phí cho điện thoại di động
+Hai ứng dụng do nhóm 7BIT (TP HCM) phát triển dành cho điện thoại di động có hỗ trợ Java.
+Who Was Who là một cuốn sách giới thiệu về các nhân vật nổi tiếng thế giới. Nếu máy di động có hỗ trợ Java thì "tác phẩm" gọn nhẹ này có thể cung cấp kiến thức bổ ích về các vĩ nhân có ảnh hưởng đến tri thức nhân loại hoặc các nhân vật thần bí trong thế giới truyện tranh... Chương trình có menu tìm kiếm theo từng nhân vật, giúp người sử dụng tra cứu nhanh thông tin về nhân vật cần tìm. Who Was Who dùng cho các máy di dộng có hỗ trợ Java như: Nokia 6800, 7210, 7250, 7250i, 3650, 6600, 7650, Motorola i85, Siemens M55...
+Từ điển Anh - Việt nhỏ gọn với dung lượng 110 KB, chứa hơn 6.000 từ, giúp người sử dụng tra cứu nhanh các từ thông dụng trong cuộc sống hăng ngày. Chương trình này dành cho điện thoại di động có hỗ trợ Java như: Nokia series 40 (6100, 6800,7210, 7250, 7250i...), Nokia series 60 (3650, 6600, 7650...), Motorola i85, Siemens SL45, M55, Samsung V200, X100....
+Có thể download hai chương trình trên tại địa chỉ: http://www.7bit.biz/ hay dùng ngay chính điện thoại di động của mình để tải về từ WAP tại http://www.7bit.biz/wap/wap.wml hoặc http://www.7bit.biz/wap/wap.htm
+

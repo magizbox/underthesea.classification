@@ -1,0 +1,18 @@
+Hệ thống cảnh báo động đất: Đủ thời gian để náu xuống bàn
+Có thể phỏng đoán gần đúng cường độ của một trận động đất ngay khi các rung lắc bắt đầu, một nghiên cứu mới cho biết. Công nghệ này hứa hẹn sẽ giúp con người có được vài giây quý giá để cảnh báo trước khi thảm họa thực sự xảy ra.
+Dự báo động đất được xem là một việc khó khăn. Các nhà khoa học không thể chỉ ra thời điểm một đứt gãy bắt đầu trong vài ngày, vài tháng hoặc thậm chí hàng năm trước khi sự kiện xảy ra. Nhưng phương pháp mới sẽ cung cấp một cái nhìn chớp nhoáng, chính xác về điều gì sẽ xảy ra chỉ trong một phút sắp tới.
+"Chúng tôi có thể xác định cường độ động đất chỉ trong vài giây trước khi có rung chấn đầu tiên và dự báo về sự dịch chuyển của mặt đất từ vài giây đến hàng chục giây trước khi nó được cảm thấy", Richard Allen, một nhà địa chấn học tại Đại học Berkeley, California, cho biết.
+Nếu một hệ thống cảnh báo tự động như vậy được lắp đặt, trẻ em trong các trường học sẽ có đủ thời gian để náu mình xuống dưới bàn và những người khác có đủ thời gian để lao ra cửa, Allen suy đoán.
+Mô hình của sóng P, sóng S và sóng bề mặt. 
+Việc dự báo được thực hiện dựa trên thực tế là một trận động đất điển hình sẽ phát đi 3 loại sóng.
+- Sóng sơ cấp, hay sóng P, xuất hiện đầu tiên. Chúng chuyển động giống như một sóng áp suất, thường tạo ra một cú xóc. Sóng P có độ phá hủy ít nhất.
+- Xuất hiện sau đó là sóng thứ cấp, hay sóng S. Nó khiến cho lòng đất trượt theo chiều ngang và thẳng đứng.
+- Sau cùng là sóng bề mặt, có sức phá hủy mạnh mất. Chúng lắc giật mặt đất sang hai bên và sau đó cuộn lại giống như sóng biển.
+Allen và cộng sự đã tìm hiểu hồ sơ về sóng địa chấn phát sinh trong 71 trận động đất lớn. Họ phát hiện thấy tần số của sóng P có liên quan đến cường độ của sóng bề mặt xuất hiện sau cùng.
+Lập luận này đối nghịch hoàn toàn với quan điểm thông thường - cho rằng cường độ của một trận động đất phụ thuộc vào chuỗi các sự kiện ngẫu nhiên trải dọc theo một đứt gãy, xảy ra sau sự bộc phát ban đầu.
+Kết quả nghiên cứu mới cũng "có nghĩa rằng độ mạnh chung cuộc của một rung lắc địa chất phụ thuộc phần nào vào những gì xảy ra trong vài giây đầu tiên", Rachel Abercrombie, một chuyên gia về động đất tại Đại học Boston, người độc lập với nghiên cứu, nhận định.
+"Kiểu dự báo này không phải là một hệ thống hoàn hảo", Allen nói. Nhưng ông cũng lưu ý rằng tất cả những trận động đất mạnh mà nhóm nghiên cứu để tìm hiểu đặc điểm vài giây đầu tiên đã cho phép đưa ra dự báo có ích. "Cường độ động đất dự đoán trong nghiên cứu chỉ chênh lệnh trên dưới 1 độ richter so với thực tế".
+Một nhân tố quan trọng khác cho hệ thống dự báo là không phải tất cả mọi người đều ở ngay trên vị trí mà động đất xảy ra, và sóng chấn lan truyền chậm hơn nhiều so với tốc độ truyền tín hiệu bằng tốc độ sóng ánh sáng. 
+Chẳng hạn, nếu một động đất xảy ra ở tận cùng cực bắc của đứt gãy San Andreas dài 1.280 km, rung động sẽ mất 80 giây (đi với tốc độ khoảng 3,2 dặm mỗi giây) để tới San Francisco. Tất nhiên, một sự kiện như vậy không phá hủy Thành phố bên bờ vịnh. Nhưng dù tâm động đất ở đâu đi nữa, sẽ có một khoảng thời gian để cảnh báo cho hầu hết các nạn nhân cuối cùng.
+Allen cho biết ít nhất phải thử nghiệm một năm nữa trước khi một hệ thống cảnh báo thực sự có thể đi vào hoạt động. Ông hình dung sẽ sử dụng Internet để truyền thông tin về một trận động đất. Một máy tính tại nửa bên kia thế giới sẽ dịch mã cảnh báo này tới một địa bàn cụ thể và dự báo thời gian cũng như cường độ của rung lắc sắp xảy ra. Người ta cũng có thể gọi điện thoại để thông báo.
+

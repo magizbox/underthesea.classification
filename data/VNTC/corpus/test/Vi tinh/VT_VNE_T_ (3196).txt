@@ -1,0 +1,22 @@
+LifeCard - phao cứu sinh cho hệ thống máy tính
+Bạn phải mất bao lâu để phục hồi Windows bằng các chương trình cài đè tập tin ảnh (ghost, drive image)? Có cách nào chỉ sau vài phút khởi động là máy tính của bạn có thể hồi sinh dù trước đó bị chết cứng vì tài "lọ mọ" của bạn?
+LifeCard có hình dáng như một thanh RAM. Nó được xem như người bảo vệ máy tính cá nhân, hay toàn bộ mạng LAN trước sự xâm nhập của virus, giữ cho ổ cứng an toàn. Đặc biệt, còn có thể chứa ổ cứng được 40 phân vùng (partition). Ổ cứng của bạn, dù có bị định dạng (format) mất trắng toàn bộ, nhưng vẫn không sao. Life Card chỉ không thể phục hồi hệ thống nếu bị format cấp thấp mà thôi. 
+Đây là lần đầu tiên thị trường tin học TP HCM biết qua một dạng phần cứng có chức năng sử dụng như những phần mềm kiểu NortonGoBack, Deep Freeze, để phục hồi hệ thống chỉ sau vài phút khởi động. Nếu NortonGoBack mang lại nhiều rối rắm vì sự phức tạp trong tinh chỉnh, Deep Freeze dù có đơn giản hơn nhưng lại bị hạn chế trong quyền đăng nhập 15 user  password trong hệ thống mạng. LifeCard mang tập hợp cả thảy tính đơn giản, an toàn và bảo mật cao cho hệ thống mạng máy tính cá nhân, gia đình và cơ quan 
+LifeCard là sản phẩm của Đài Loan, được phân phối qua Công ty Thái Khải Kiến (TP HCM). Giá của các dòng sản phẩm LifeCard:
+Sản phẩm
+Đặc điểm
+Giá (USD)
+Bảo hành 
+Life Card
+Gắn qua PCI, sử dụng trong mạng LAN (chống virus, bảo vệ hệ thống máy tính), có thể sử dụng như card mạng.
+40
+3 năm
+Life Card
+Gắn qua PCI, không sử dụng được trong mạng LAN (chống virus, bảo vệ hệ thống máy tính), thích hợp cho máy tính đơn.
+25
+nt
+Life Card
+Gắn qua PCI, sử dụng dễ dàng và thân thiện,(chống virus, bảo vệ hệ thống máy tính), hỗ trợ boot có nhiều chọn lựa, phân vùng lại ổ cứng.
+20
+nt
+

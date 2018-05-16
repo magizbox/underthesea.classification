@@ -1,0 +1,8 @@
+Hỏi địa chỉ tải hoặc bán driver (2)
+Tôi có 1 chiếc card buz (có giới thiệu trong bài biên tập video tap chí PCWorld VN 5/99 ) nhưng không có driver cho Windows XP. Tôi đã tìm trong iomega.com nhưng không thấy. Vậy xin các anh chị nếu biết địa chỉ bán hoặc download thì chỉ giùm. Chân thành cảm ơn ! (chip zoran ZR36057).
+Nguyen Dien
+Hồi âm:
+Bạn lên Google.com gõ vào search engine tên , số chủng loại, hay vào driverguide.com tìm như ở google, ID: drivers. Password: all. chúc thành công. 
+bpham
+Bạn vào trang web http://www.driverguide.com/ và đăng kí 1 tài khoản miễn phí, sau đó đăng nhập để tải drive. Rất nhiều drive cho bạn chọn.
+

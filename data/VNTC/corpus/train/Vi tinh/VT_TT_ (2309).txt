@@ -1,0 +1,6 @@
+ HP thu hồi pin bị lỗi của 135.000 máy xách tay
+Theo Uỷ ban này cho biết thì một số lỗi xuất hiện trong quá trình sản xuất một dòng pin chuyên dùng cho máy xách tay của HP đã gây nên hiện tượng phát sinh nhiệt bất thường này và có thể làm nóng chảy vỏ nhựa của pin đến mức bùng cháy thành ngọn lửa. 
+Trước đó, Uỷ ban an toàn đã chính thức nhận được 16 thông báo về hiện tượng máy tính bỗng nhiên nóng lên đột ngột đến nỗi người dùng phải tắt máy ngay lập tức nhưng may mắn rằng chưa có trường hợp nào phát sinh hỏa hoạn. 
+HP đã ra quyết định thu hồi và đổi lại pin mới miễn phí cho khoảng 135.000 máy tính xách tay đã bán ra được trang bị loại pin lỗi này. Loại pin này được sản xuất trong khoảng thời gian từ tháng 3-2004 đến tháng 9-2004 và có mã số pin bắt đầu bằng GC, IA, L0 và L1. Người dùng máy xách tay của HP có thể tự kiểm tra mã số pin ở mặt đáy của máy xách tay hoặc vào đây để tham khảo chi tiết mọi thông tin trước khi đưa ra quyết định đổi lại pin mới nếu có nhu cầu. 
+Vào giữa tháng 6-2005, Fujisu-Siemens cũng đã ra quyết định thu hồi 250.000 bộ pin máy xách tay cũng bị lỗi tương tự . 
+

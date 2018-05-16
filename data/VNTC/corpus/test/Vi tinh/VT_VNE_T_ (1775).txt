@@ -1,0 +1,8 @@
+Hỏi về DVD-RW + Nero 6.0 (2)
+Hiện tôi đang gặp phải một vấn đề: Tôi mới mua một chiếc NEC DVD-RW, và dùng phần mềm NERO 6.0 . Nhưng không hiểu sao khi tôi muốn ghi dữ liệu vào đĩa DVD thì phần mềm NERO báo làđĩa nằm ở trong máy chỉ là đĩa CD. Nhưng đĩa tôi bỏ vào làđĩa DVD. Xin các bạn giúp đỡ làm thế nào để cho máy DVD-RW/NERO 6.0 nhận ra đĩa DVD. Xin cám ơn. 
+Lê Anh Tuấn 
+Hồi âm:
+Chào bạn Tuấn. Bạn có Sử dụng Nero Startsmart trong nero 6.0?? khi click icon Nero Startsmart bạn sẽ thấy góc phải trên cùng có 2 tab DVD và CD nếu bạn muốn burn DVD thì click DVD tab cho nó kéo dài xuống một chút rồi mới chọn DATA-Make data disk, hay bất cứ chương trình khác (make dvd video chẳng hạn) Nếu muốn biết đĩa đang sử dụng là đỉa cd hay dvd loại gì tình trạng ra sao thì click Extra- Disk Info để xem. Funtion này cho biết chính xác loại dĩa có thể copy được hay không. Bạn có thể test bằng cách cho vào đĩa DVD phim đã burn rồi để xem tình trạng của dỉa này.. Nếu nero báo sai là "CD" thì nên đi đổi burner khác. 
+Thien My
+Xin chào, Nero báo lỗi có lẽ là do khi anh bắt đầu chọn loại sao chép "Data Iso", "VCD", "Music" ... anh đã không chọn loại đĩa CD hoặc DVD mà theo mặc định, Nero xem như là anh sẽ sử dụng CD để chép ! Khi anh chọn loại đinh dạng đĩa, có 1 menu cuốn cho phép anh chọn CD hoặc DVD, anh chọn Cd thì sẽ không bị báo lỗi nữa. hy vọng đã giúp được bạn.
+

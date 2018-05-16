@@ -1,0 +1,5 @@
+Xây dựng thư viện điện tử liên trường đại học, cao đẳng
+Sở Kế hoạch và Đầu tư TP HCM vừa phê duyệt dự án "Hệ thống thông tin thư viện điện tử liên kết các trường đại học" do ĐH Khoa học tự nhiên (ĐH Quốc gia thành phố) làm chủ đầu tư. Tổng giá trị của dự án là 2,145 tỷ đồng.
+Dự án trên nhằm lập một trung tâm liên kết thông tin thư viện, kết nối thí điểm giai đoạn đầu với thư viện của 9 trường đại học và cao đẳng tại TP HCM.
+Đồng thời, dự án cũng hình thành cổng truy cập trên mạng Cityweb kết nối qua mạng máy tính diện rộng để trao đổi, quản lý và khai thác nguồn thông tin trong hệ thống thông tin thư viện.
+

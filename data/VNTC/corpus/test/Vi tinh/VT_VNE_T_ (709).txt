@@ -1,0 +1,22 @@
+Khôi phục Control Panel (5)
+Toi dung phan mem TweakUI de "Hide" Control Panel, nhung khong may thay chinh ban than TweakUI lai nam trong Control Panel nen bay gio khong the nao goi TeakUI ra de khoi phuc lai Control Panel duoc nua. Hien toi dang dung WinXP. Cac anh chi nao biet xin chi giup. Xin chan thanh cam on. 
+Tran Tuan Hung
+Hồi âm:
+Neu control panel chi bi 'hide' vi ngo registry thi day la cach : Kich vao Start bar cua windows, roi 'execute'. Type : regedit + 'Entry'. Ban lan theo thu tu sau de tim entry cua registry : HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer.NoControlPanel. Neu gia tri cua Dword =1 thi chi viec doi lai =0 nua la xong ! Chuc ban thanh cong !
+yahoo
+Anh co the copy config.pol hoac amd.pol tu mot CD XP vao floppy A, dung config.pol de noi vao local machine. dieu chinh ve nhung UI (Control panel: enable). Save vao may xong reboot.
+Teo Nguyen
+De khoi phuc lai Control Panel lam nhu sau: - Nhan chuot vao phim 'Start', - Chon chuc nang 'Run', - Go vao 'gpedit.msc' roi nhan chuot vao OK de cahy chuong trinh nay. - Chon 'User Configuration' trong cua so ben trai, sau do chon 'Administrative Templates' - Chon 'Control Panel'. - Nhay chuot kep vao muc 'Disable Control Panel' trong cua ro ben phai. - Chon 'Not configured' hoac 'Disable' de hien lai control panel. (Chon 'Enable' de dau Control Panel). - Ra khoi chuong trinh. - Logout roi login lai. Ban se thay control panel nhu binh thuong Chuc may man.
+Nguyen Cong Son
+Chao ban, Van de la TweakUI cua ban cai vao may lau chua? ban hay dung cach System restore, thi lam nhu sau: 
+Log on Administrator. (hay ban. chi la nguoi dung may nay thi chac la ban la Admin) 
+Start -- All Programs -- Accessories -- System Tools ---System Restore 
+( hien ra "Welcome to System Restore" ) Chon Restore my computer to an earlier time (neu no' chua duoc chon), sau do bam Next. 
+( hien ra "Select a Restore Point" ) ban hay chon nhung ngay ma ban muon restore ( truoc khi ban install TweakUI), sau do bam Next. roi bam OK. 
+(hien ra "Confirm Restore Point Selection" ) bam Next. Vi tinh cua ban se khoi dong lai. 
+Vao lai Administrator. (cho khoang 30 giay - 1 phut hien ra "Restoration Complete" ) bam OK. 
+Vay la xong. Chuc ban may man. Neu khong lam cach nay duoc vi ban da install lau roi thi lien lac voi minh ryan_chaw2004@yahoo.ca minh se chi ban cach khac. 
+Ryan Chau     
+Trong windows , ban co the nhan phim F3 de mo cua so tim kiem , sau do go vao trong o Search do`ng : TweakUI.cpl hoac Tweakui thoi
+Sau khi tim duoc , Ban nhan du'p vao file nay roi Unhide Control Panel, moi chuyen tro lai nhu cu Cach khac, nhung mu.c trong Control Panel deu co' phan mo rong la .cpl, ban co the tim tha tat ca muc minh can de thiet lap. 
+

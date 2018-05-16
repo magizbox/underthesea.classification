@@ -1,0 +1,7 @@
+Hệ thống giám sát khủng bố thông minh
+Các nhà khoa học Australia đang phát triển một hệ thống cho phép lọc ra một người nếu phát hiện hành vi khả nghi của người đó và báo động để các nhà chức trách ứng phó kịp thời. 
+Hệ thống này sử dụng phần mềm nhận dạng hành vi để xác định những cử chỉ bất thường, như di chuyển xung quanh trên một chiếc xe buýt, giáo sư Barney Glover, thuộc Đại học công nghệ Curtin ở Tây Australia, tác giả hệ thống cho biết. "Chẳng hạn, những kẻ móc túi trên xe thường đi từ ghế này đến ghế khác để tìm mục tiêu, trong khi hầu hết mọi người yên vị trên xe", Glover nói. 
+Glover thừa nhận công nghệ này can thiệp sâu vào các vấn đề riêng tư, song nó có thể giúp ngăn ngừa tội phạm và khủng bố, như những vụ đánh bom London gần đây. 
+Hệ thống giám sát thông minh có thể nhập một lượng lớn dữ liệu, dựa trên các chỉ tiêu về những hành vi thông thường để từ đó lọc ra các cử động có tính chất kỳ quặc. Sau đó, nó sẽ thông báo đến nhà chức trách nếu phát hiện ra hành vi bất thường. 
+Công nghệ, hiện vẫn ở giai đoạn nghiên cứu sơ khởi, sẽ kết hợp với các công nghệ nhận dạng khác như hệ thống nhận diện hành lý vô chủ và nhận diện mặt. Glover cho biết, nó có thể được dùng ở các sân bay, các khu công nghiệp và trạm giao thông. Công nghệ nhận dạng hành vi cũng có tiềm năng ứng dụng trong việc giám sát người già hoặc người tàn tật ở nhà. 
+

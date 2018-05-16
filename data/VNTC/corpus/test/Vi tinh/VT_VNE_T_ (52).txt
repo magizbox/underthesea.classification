@@ -1,0 +1,6 @@
+Tây Ban Nha xây dựng siêu máy tính lớn thứ 2 thế giới
+Chính phủ nước Nam Âu này vừa quyết định chi 70 triệu euro (87 triệu USD) để phát triển một đại computer mà họ dự tính sẽ có sức mạnh chỉ kém mỗi Earth Simulator và tất nhiên sẽ đứng đầu châu Âu. Đó là kết quả một thỏa thuận giữa nhà nước và chi nhánh của hãng máy tính IBM tại xứ sở đấu bò tót. 
+Cỗ máy này có công suất 40 teraflop, tức 40 nghìn tỷ phép tính dấu phẩy động/giây. Toàn bộ hệ thống nặng 60 tấn với 4.500 bộ xử lý, dung lượng lưu trữ đạt 128 terabyte và sử dụng hệ điều hành Linux. Thiết bị sẽ được đặt tại một trung tâm siêu máy tính quốc gia chuyên nghiên cứu dược phẩm, sự biến động của khí hậu, vật liệu mới cho ngành hàng không và công nghệ cơ khí.
+Juan Costa, Bộ trưởng Khoa học  Công nghệ Tây Ban Nha, nói: Catalonia là địa điểm lý tưởng để mở một trung tâm siêu máy tính quốc gia như vậy. Khu vực này thuộc đông bắc Tây Ban Nha, giáp biên giới Pháp và có một cộng đồng khoa học gia đông đảo.
+Trên thế giới hiện nay, máy tính mạnh nhất vẫn là Earth Simulator do hãng NEC xây dựng và đặt tại Yokohama (Nhật), sử dụng 5.104 bộ xử lý và dùng vào việc nghiên cứu khí hậu và hoạt động địa chấn.
+

@@ -1,0 +1,6 @@
+PC ma tạo ra 80% thư rác
+4/5 số spam ngập tràn máy chủ mail của các ISP và làm giảm năng suất lao động của doanh nghiệp bắt nguồn từ cái gọi là máy zombie ở hộ gia đình. Đó là những chiếc máy tính đã nhiễm Trojan, bị khống chế từ xa và trở thành kênh phát tán thư không mời.
+Theo hãng quản lý lưu thông mạng Sandvine (Anh), những chương trình do thám đủ loại, sau khi được lén lút cài vào máy nạn nhân, bắt đầu khai thác những lỗ hổng trong hệ thống để tuồn vào đó hàng tá thông điệp quảng cáo không mời.
+Rất nhiều trong số những vụ tấn công bằng sâu từng được báo chí công bố những tháng gần đây là nhằm mục đích cài Trojan phát tán spam vào máy tính của những người kém cảnh giác và chờ đợi để sử dụng về sau như một trạm trung chuyển thư rác.
+Nghiên cứu của Sandvine còn phát hiện ra rằng tác động của Trojan spam đã gây thiệt hại kinh tế rất nhiều đối với hạ tầng của các nhà cung cấp dịch vụ Internet, đặc biệt là những ISP nhỏ. Hộp thư của người sử dụng bị oanh tạc hằng ngày và bất chấp sự hiện diện của những công cụ lọc hiện nay, quy mô và sự phát triển của nạn thư rác đòi hỏi phải liên tục có thêm những giải pháp mới, Marc Morin, Giám đốc công nghệ của Sandvine, nhận định. Bổ sung vào server mail hiện hành và những công cụ dựa trên ứng dụng khách, các nhà cung cấp dịch vụ cần trang bị cho mình một hàng rào phòng vệ chống spam trên nền mạng.
+

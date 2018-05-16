@@ -1,0 +1,7 @@
+NEC và Panasonic phát triển nền Linux cho ĐTDĐ
+Hai nhà sản xuất hàng điện tử khổng lồ của Nhật Bản đã quyết định hợp tác với nhau trong việc phát triển hệ điều hành  mã mở làm môi trường hoạt động cho các phần mềm ĐTDĐ thế hệ thứ ba (3G). 
+"Lợi ích chính của hệ điều hành mới là dễ dàng tích hợp các ứng dụng đa phương tiện và khả năng sử dụng phần mềm có hiệu quả hơn", Akiko Shikimori, người phát ngôn của NEC, phát biểu. "Người sử dụng sẽ được tận hưởng nhiều dịch vụ hấp dẫn hơn trên điện thoại của mình vì Linux là phần mềm mã nguồn mở. Những người phát triển có thể hiệu chỉnh và làm những gì họ muốn để có được sản phẩm tốt hơn phục vụ khách hàng".
+Nền ứng dụng mới trước hết sẽ được sử dụng trong 3 loại điện thoại FOMA(R) 3G của NTT DoCoMo, loại N901iC và N900iL của NEC cũng như dòng máy P901i do Panasonic chế tạo.
+Trên thực tế, ý tưởng xây dựng phần mềm trên nền Linux đã được công ty điện thoại hàng đầu của Nhật Bản là NTT DoCoMo đưa ra từ tháng 8/2001. DoCoMo cũng đã được mời tham gia dự án nói trên.
+Với thế hệ điện thoại 3G, việc phát triển các ứng dụng là vấn đề cốt lõi. Do vậy, trong xu thế mã nguồn mở như hiện nay, phát triển phần mềm trên nền Linux được xem là một giải pháp hiệu quả và ít tốn kém. 
+

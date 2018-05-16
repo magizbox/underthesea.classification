@@ -1,0 +1,7 @@
+Dùng robot kiểm tra cống thoát nước 
+Ngày 7/4, Công ty Thoát nước Hà Nội chính thức đưa robot kiểm tra đường ống thoát nước vào sử dụng trên đường Trần Khát Chân. Thiết bị do các kỹ sư của công ty tự nghiên cứu, sáng chế.
+Thiết bị gồm có: một robot có gắn camera hồng ngoại có thể quay ngang 360 độ và quay chiều thẳng đứng 180 độ, dùng để đưa xuống cống; Phía trên bờ gồm có một bộ điều khiển, một màn hình video tinh thể lỏng. Màn hình này được kết nối với máy tính xách tay.
+Ông Võ Tiến Hùng, Giám đốc Xí nghiệp thi công cơ giới và xây lắp, Công ty Thoát nước Hà Nội cho biết, robot hoạt động dưới lòng cống và ghi lại toàn bộ các dữ liệu liên quan đến tình trạng cống, sau đó các dữ liệu được lưu lại trên máy tính bằng các thông số và hình ảnh. Việc đưa robot vào kiểm tra hệ thống cống giúp giảm thiểu sức lao động vất vả của công nhân, thêm nữa robot sẽ thâm nhập được các ống cống nhỏ mà con người không thể vào được, đồng thời có những số liệu chính xác.
+Hệ thống thiết bị này do tập thể kỹ sư của Xí nghiệp nghiên cứu sáng chế, giá khoảng 100 triệu đồng. Nhược điểm của robot là mới hoạt động trong điều kiện mực nước, bùn trong cống ít (10 cm - 15cm).
+Độc giả có thể trao đổi kinh nghiệm tại đây.
+

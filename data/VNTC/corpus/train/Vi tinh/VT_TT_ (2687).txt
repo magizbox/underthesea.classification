@@ -1,0 +1,7 @@
+ Kết nối "dế" với máy tính ?
+- Để giao tiếp máy tính với Siemens C62, bạn cần có chương trình PC Suite và cáp COM. Bạn có thể mua cáp này tại siêu thị thegioididong.com (Nguyễn Đình Chiểu, Q.3, TP.HCM) với giá 90.000đ, khi mua bạn sẽ được tặng CD chương trình giao tiếp và rất nhiều hình ảnh, nhạc chuông… 
+Tôi có một điện thoại di động hiệu Sony Ericsson T610. Nay tôi muốn tải nhạc đa âm về điện thoại của mình và lấy những ảnh chụp trong điện thoại chép vào máy vi tính thì cần những thiết bị nào, bán ở đâu và giá cả từng loại? (Dương Anh Tuan) 
+- Để tải được nhạc chuông đa âm từ các trang web về, máy của bạn phải đăng ký dịch vụ GPRS. Bạn có thể vào trang web: http://www.sonyericsson.com/spg.jsp?cc=vn&amp;lc=vi&amp;ver=4000 &amp; 
+template=ps3&amp;zone=ps để cài đặt tự động. 
+Bạn có thể mua cổng hồng ngoại (IrDA) với giá là 250.000đ hoặc cổng Bluetooth với giá 300.000đ tại thegioididong.com. 
+

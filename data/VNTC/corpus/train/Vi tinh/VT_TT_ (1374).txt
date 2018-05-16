@@ -1,0 +1,4 @@
+ Làm việc công suất cao với MTXT Acer TM 4082
+Được thiết kế đáp ứng nhu cầu làm việc công suất lớn, Acer TM 4082 trang bị bộ vi xử lý tốc độ cao Intel Centrino Sonoma PM 740 1.73Ghz, 2Mb L2 cache, 533Mhz FSB. Bộ nhớ 512MB, sử dụng DDR thế hệ 2 (DDR2) và Dual Channel giúp nâng cao tốc độ đường truyền lên đến 2 lần, dung lượng đĩa cứng 60GB. Máy được thiết kế mỏng gọn, màn hình rộng ứng dụng công nghệ Acer GridVista có thể chia thành nhiều ô cửa sổ làm việc cùng lúc để tiết kiệm thời gian. 
+Ngoài ra, với công nghệ Hypermemory và chíp xử lý đồ hoạ riêng GPU 90nm cao cấp của ATi, bộ nhớ rời của Card tăng tốc đồ họa có thể dễ dàng kết hợp với bộ nhớ riêng của máy để nâng bộ nhớ tổng thể lên đến 256MB phục vụ tối đa cho các loại game 3D cỡ nặng. Kết nối không dây Intel Pro/Wireless 2200BG chuẩn 802.11b/g, cổng Modem V92, NIC 10/100Mbps dễ dàng chơi game trực tiếp trên mạng không tốn thời gian download. 
+

@@ -1,0 +1,12 @@
+Bảo mật tháng 9: Người sử dụng 'nhờn' mọi cảnh báo
+Đã 19 tháng kể từ khi virusNetsky.P, thành quả của cậu thiếu niên người Đức S.Jaschan, bị phát hiện, sâu này vẫn tiếp tục dẫn đầu danh sách 10 virus nguy hiểm nhất tháng qua mà hãng bảo mật Anh Sophos vừa công bố.
+Hơn thế, Sophos cũng bày tỏ lo ngại về tính "trơ lì" của virus bởi trung bình, thời gian ngự trị trên bảng xếp hạng của chúng kéo tài tới 8 tháng. Thực tế này cho thấy nhiều người vẫn hài lòng với phần mềm bảo vệ lạc hậu và lỏng lẻo của mình.
+Netsky.Plần thứ 3củng cố ngôi vô địch khi tăng số lần xuất hiện từ 14,7% lên 18,6%. Việc chương trình của Jaschan tiếp tục thống lĩnh đã cho thấy mức độ bảo mật đang được triển khai tại doanh nghiệp và gia đình là không thể chấp nhận được, Carole Theriault, cố vấn an ninh của Sophos, nhận xét. Cả hai đối tượng này có tới một năm rưỡi để nâng cấp phần mềm, nhưng dường như chẳng ai để mắt tới. Đã đến lúc cần tiến hành nhiều biện pháp tuyên truyền hơn để người dùng tránh gây hậu quả cho chính mình và doanh nghiệp chỉ vì thái độ coi thường như thế. 79% chuyên gia công nghệ thông tin tham gia vào một điều tra gần đây của Sophos cũng đồng ý rằng nhân viên đang gián tiếp đe dọa tổ chức khi không thực hiện những quy định về lướt web an toàn.
+Không chỉ đảm bảo chương trình chống virus, spyware và spam luôn cập nhật, mà các nhà quản trị mạng cũng nên đề ra những chính sách nghiêm ngặt, ngăn cấm nhân viên gây hại cho hệ thống, Theriault nói thêm.
+Zafi.Dvà Netsky.Dcũng chứng tỏ mối nguy hiểm lớn khi đứng hàng số 4 và 5. Toàn bộ 7 vị trí còn lại là họ hàng nhà Mytob - loại sâu đã bắt đầu chen chân vào bảng xếp hạng top 10 virus của Sophos từ tháng 3/2005.
+Theo chuyên gia Theriault, bên cạnh những virus ra đời vì mục đích kiếm tiền mà các chuyên gia đã cảnh báo thời gian qua, vẫn còn một vài loại phát tán nhanh và rộng qua e-mail chỉ để có thứ hạng cao trong các bảng tổng sắp.
+Dấu hiệu khả quan nhất 30 ngày qua là số e-mail nhiễm virus đã giảm đáng kể. Trung bình cứ 65 thư điện tử lưu thông trong tháng 9 mới có 1 bị nhiễm virus, tương ứng với tỷ lệ 1,53%. Sophos thống kê được tất cả 1.233 virus mới trong tháng 9.
+10 virus nguy hiểm nhất tháng 9 (trong ngoặc là tỷ lệ thông báo mà Sophos nhận được):
+1. Netsky.P (18,6%)2. Mytob.BE (7,6%)3. Mytob.AS (6,8%)4. Zafi.D (4,3%) 5. Netsky.D (3,3%)6. Mytob.CX (2,8%)7. Mytob.EP (2,7%)8. Mytob.CJ (2,6%)9. Mytob.C (2,5%)10. Mytob.CN (2,0%)
+Các loại khác: 46,8%
+

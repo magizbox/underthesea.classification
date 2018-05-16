@@ -1,0 +1,10 @@
+ Card xử lý đồ họa “siêu tốc” cho máy xách tay
+Trong trò chơi Doom 3, ProStar 9095 được đặt so sánh với máy để bàn có tốc độ 3,66GHz, được trang bị card màn hình GeForce 6600 GT. Tại độ phân giải 1024x768, máy xách tay đạt tốc độ xử lý 46 khung hình/giây còn máy để bàn là 55 khung hình/giây. 
+Nhưng khi chuyển qua chế độ khử răng cưa để làm mịn hình ảnh thì khoảng cách giữa 2 máy chẳng còn đáng kể: máy xách tay đạt tốc độ 32 khung hình/giây còn máy để bàn chỉ nhỉnh hơn chút ít là 33 khung hình/giây. 
+Khả năng xử lý của GeForce Go 6800 cũng gây ấn tượng ở tất cả các trò chơi đem ra thử nghiệm. Khi đặt độ phân giải là 1024x768 với chế độ khử răng cưa ở trò Far Cry thì chip này đạt được tốc độ 39 khung hình/giây, còn nếu tắt chế độ khử răng cưa thì tốc độ tải hình đạt đến những 60 khung hình/giây. 
+Các tính năng công nghệ ưu việt của chip GeForce Go 6800 đã qua mặt nhiều công nghệ chip card đồ họa 3D khác. Chip GeForce Go 6800 được được chế tạo để tương thích hoàn toàn với trình Shader Model 3.0 trong Microsoft DirectX 9.0. 
+Trình Shader Model 3.0 cho phép bộ vi xử lý đồ họa tối ưu hoá khả năng xử lý hình ảnh khi chạy các chương trình có các dữ liệu dạng 3D cực nặng, nó cũng cho phép các nhà phát triển tạo ra các loại mã có hiệu suất cao để có thể thực hiện các hiệu quả dựng hình tốt hơn với độ sâu màu cực đại. 
+Hãng Nvidia giới thiệu 2 loại chip GeForce Go 6800. Loại đầu tiên có khả năng xử lý đồ họa và video đạt đến tốc độ 300 MHz, còn loại thứ hai cao cấp hơn: xử lý đồ họa đạt tốc độ cực đại đến 450MHz còn xử lý video đến những 600 MHz. Trong cuộc thử nghiệm nói trên, máy xách tay được trang bị loại chip đầu tiên (300/300), nếu được trang bị loại chip 450/600 thì kết quả sẽ còn khả quan hơn rất nhiều. 
+Con chip mới này cũng chứa đựng công nghệ gọi là PureVideo (hình ảnh thuần khiết) cho phép gia tăng chất lượng hình ảnh tối đa khi trình diễn DVD hay các file video. PureVideo bao gồm rất nhiều các tính năng giải mã DVD cũng như tăng tốc xử lý các loại file như MPEG4 hay WMV HD của Microsoft. 
+ATI (đối thủ chính của Nvidia trong thị trường chip đồ họa) cũng đã lên kế hoạch tung ra loại chip đồ họa đời mới nhất của mình trong tuần này. 
+

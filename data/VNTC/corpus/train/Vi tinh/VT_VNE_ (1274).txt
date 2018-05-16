@@ -1,0 +1,6 @@
+Nâng cấp Internet Explorer (1)
+Tôi đang sử dụng máy tính có HDH Win98 với IE 4.0, tôi muốn nâng cấp thành IE 5.0 thì phải làm thế nào? Có nên cài đặt lại HDH?
+Le Minh Hau
+Hồi âm:
+Ban khong can phai cai lai he thong, chi can cai dat IE 5.0 vao nhu thuong. Nhung tai sao khong dung IE 6.0? Ban co the download IE 5.0 hoac 6.0 tai http://www.microsoft.com/windows/ie/default.mspx. 
+

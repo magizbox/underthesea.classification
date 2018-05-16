@@ -1,0 +1,9 @@
+Trục trặc liên quan đến Main? (1)
+Câu hỏi 01: Em có một chiếc máy tính tại sao khi tháo Main ra khỏi Case và cách điện giữa Main và Case thi hoạt động bình thường.Còn để nguyên trong Case thì không chạy và phát ra tiếng kêu bip bip xin cho em biết như vạy là vì lí do gì? Cách khắc phục ra sao?
+Câu hỏi 02: Màn hình của em mầu rất là nhoè,như vậy có phải là hỏng card hình không? Liệu có liên quan đến Main không?Em xin cảm ơn.
+Bùi Văn Thường
+Hồi âm:
+1. Ban nen check lai xem tat ca cac cable da cam chat giua main va cac bo phan chua. Ngoai ra thi check quat gan vao main, check ram va tat ca cac bo phan khac. Mot so truong hop main keu ma khong khoi dong duoc la do linh kien bi long. Ngoai ra ban nen xem lai power supply (nguon) vi\ neu nguon khong du manh main se khong the hoat dong binh thuong. Neu chay pentium 4 HT thi nen dung nguon 400W se on dinh. 
+2. Ban nen kiem tra ranh AGP xem da duoc cam dung cach chua. Ban dang dung card do hoa cam vao AGP hay la built in? Doi khi co the la loi do man hinh nua. Nen tranh de cac vat co tu tinh gan manh hinh va thu lai. Loi ve do hoa nhu vay co the do Main, card do hoa, hoac manh hinh. 
+Chuc ban thanh cong. 
+
