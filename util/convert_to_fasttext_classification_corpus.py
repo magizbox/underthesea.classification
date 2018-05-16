@@ -20,7 +20,6 @@ def convert_to_fasttext_classification_corpus(corpus_folder, corpus_file_path):
     corpus_file = open(corpus_file_path, "a")
     categories = listdir(corpus_folder)
     for category in categories:
-        print(category)
         category_folder = join(corpus_folder, category)
         files = listdir(category_folder)
         for file in files:
