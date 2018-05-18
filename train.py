@@ -2,7 +2,7 @@ import argparse
 from os.path import join
 import os
 import fasttext
-from sklearn.metrics import confusion_matrix, classification_report, precision_score, recall_score, f1_score
+from sklearn.metrics import confusion_matrix, classification_report, precision_score, recall_score, f1_score, accuracy_score
 
 from util.convert_to_fasttext_classification_corpus import convert_to_fasttext_classification_corpus
 
@@ -14,6 +14,31 @@ parser.add_argument("--train-test-split", type=float,
                     help="train/test split ratio")
 parser.add_argument("--cross-validation", type=int, help="cross validation")
 args = parser.parse_args()
+
+
+def print_cm(cm, labels, hide_zeroes=False, hide_diagonal=False, hide_threshold=None):
+    """pretty print for confusion matrixes"""
+    columnwidth = max([len(x) for x in labels] + [5])  # 5 is value length
+    empty_cell = " " * columnwidth
+    # Print header
+    print("    " + empty_cell, end=" ")
+    for label in labels:
+        print("%{0}s".format(columnwidth) % label, end=" ")
+    print()
+    # Print rows
+    for i, label1 in enumerate(labels):
+        print("    %{0}s".format(columnwidth) % label1, end=" ")
+        for j in range(len(labels)):
+            cell = "%{0}.1f".format(columnwidth) % cm[i, j]
+            if hide_zeroes:
+                cell = cell if float(cm[i, j]) != 0 else empty_cell
+            if hide_diagonal:
+                cell = cell if i != j else empty_cell
+            if hide_threshold:
+                cell = cell if cm[i, j] > hide_threshold else empty_cell
+            print(cell, end=" ")
+        print()
+
 
 if args.mode == "train-test":
     if not (args.train and args.test):
@@ -30,19 +55,26 @@ if args.mode == "train-test":
     classifier = fasttext.load_model("tmp/model.bin.bin")
     y_true = []
     y_predict = []
+    print("Evaluation")
+    print("Confusion Matrix")
     for line in open("tmp/test.txt"):
         index = line.find(" ")
         label = line[:index]
-        text = line[index+1:]
+        text = line[index + 1:]
         y_true.append(label)
         y_predict.append(classifier.predict([text])[0][0])
-    report = classification_report(y_true, y_predict)
+    labels = sorted(set(y_true))
+    cm = confusion_matrix(y_true, y_predict, labels=labels)
+    print_cm(cm, labels=labels)
+    print("Classification Report")
+    report = classification_report(y_true, y_predict, labels=labels)
     print(report)
+    print("Score")
+    print("Accuracy:", accuracy_score(y_true, y_predict))
     print("Precision:", precision_score(y_true, y_predict, average='micro'))
     print("Recall   :", recall_score(y_true, y_predict, average='micro'))
     print("Micro F1 :", f1_score(y_true, y_predict, average='micro'))
 quit(0)
-
 
 if args.cross_validation:
     print(args.cross_validation + 1)
