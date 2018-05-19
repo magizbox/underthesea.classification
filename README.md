@@ -64,10 +64,20 @@ To be updated
 $ cd classification
 $ source activate classification
 $ python train.py --mode train-test \
-     --train data/VNTC/corpus/train
+     --train data/VNTC/corpus/train \
      --test data/VNTC/corpus/test
 ```
 
+**Train and save model**
+
+```
+$ cd classification
+$ source activate classification
+$ python train.py --mode train \
+     --train data/VNTC/corpus/train \
+     --s tmp/model.bin 
+
+```
 ### 2.3 Sharing a model
 
 To be updated
