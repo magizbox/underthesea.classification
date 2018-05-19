@@ -2,7 +2,8 @@ import argparse
 from os.path import join
 import os
 import fasttext
-from sklearn.metrics import confusion_matrix, classification_report, precision_score, recall_score, f1_score, accuracy_score
+from sklearn.metrics import confusion_matrix, classification_report, precision_score, recall_score, f1_score, \
+    accuracy_score
 
 from util.convert_to_fasttext_classification_corpus import convert_to_fasttext_classification_corpus
 
@@ -12,6 +13,7 @@ parser.add_argument("--train", help="train folder")
 parser.add_argument("--test", help="test folder")
 parser.add_argument("--train-test-split", type=float,
                     help="train/test split ratio")
+parser.add_argument("-s", help="path to save model")
 parser.add_argument("--cross-validation", type=int, help="cross validation")
 args = parser.parse_args()
 
@@ -39,6 +41,15 @@ def print_cm(cm, labels, hide_zeroes=False, hide_diagonal=False, hide_threshold=
             print(cell, end=" ")
         print()
 
+
+if args.mode == "train":
+    if not (args.train and args.s):
+        parser.error("Mode train-test requires --train and -s")
+    train_path = os.path.abspath(args.train)
+    convert_to_fasttext_classification_corpus(train_path, "tmp/train.txt")
+    model_path = os.path.abspath(args.s)
+    fasttext.supervised("tmp/train.txt", args.s)
+    print("Model is saved in {}".format(model_path))
 
 if args.mode == "train-test":
     if not (args.train and args.test):
