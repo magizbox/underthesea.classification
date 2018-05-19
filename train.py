@@ -85,7 +85,3 @@ if args.mode == "train-test":
     print("Precision:", precision_score(y_true, y_predict, average='micro'))
     print("Recall   :", recall_score(y_true, y_predict, average='micro'))
     print("Micro F1 :", f1_score(y_true, y_predict, average='micro'))
-quit(0)
-
-if args.cross_validation:
-    print(args.cross_validation + 1)
