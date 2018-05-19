@@ -76,7 +76,6 @@ $ source activate classification
 $ python train.py --mode train \
      --train data/VNTC/corpus/train \
      --s tmp/model.bin 
-
 ```
 ### 2.3 Sharing a model
 
