@@ -62,7 +62,7 @@ To predict labels for a file, use option `--fin` and `--fout`
 
 ```
 $ python classication.py \
-    --fin tmp/vntc_test.txt
+    --fin tmp/vntc_test.txt \
     --fout tmp/output.txt
 ```
 
