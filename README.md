@@ -49,7 +49,21 @@ $ pip install -r requirements.txt
 ```
 cd classification
 $ source activate classification
-$ python classication.py -fin tmp/input.txt -fout tmp/output.txt
+```
+
+To predict label for a text
+
+```
+$ python classification.py "Tái phát chấn thương, Neymar không thể tập luyện"
+'the_thao'
+```
+
+To predict labels for a file, use option `--fin` and `--fout`
+
+```
+$ python classication.py \
+    --fin tmp/vntc_test.txt
+    --fout tmp/output.txt
 ```
 
 ### 2.2 Train a new dataset
