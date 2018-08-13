@@ -61,7 +61,7 @@ $ python classification.py "Tái phát chấn thương, Neymar không thể tậ
 To predict labels for a file, use option `--fin` and `--fout`
 
 ```
-$ python classication.py \
+$ python classification.py \
     --fin tmp/vntc_test.txt \
     --fout tmp/output.txt
 ```
