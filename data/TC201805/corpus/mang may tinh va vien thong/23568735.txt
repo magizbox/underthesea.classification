@@ -1,2 +1,0 @@
-Phát hiện phần mềm tống tiền cực kỳ nguy hiểm trên Android có thể mã hóa cả điện thoại chưa root
-Điều khiến DoubleLocker nguy hiểm đó là nó không quan tâm đến thiết bị đã bị root hay chưa, chỉ cần người dùng lỡ tay tải Adobe Flash về, thế là 'dính'.

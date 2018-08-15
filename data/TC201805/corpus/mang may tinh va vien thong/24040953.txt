@@ -1,2 +1,0 @@
-Lỗ hổng bảo mật CPU Intel đe dọa người dùng máy tính toàn cầu
-Intel vừa phát hành cảnh báo bảo mật rằng phần mềm quản lý trên hàng triệu máy tính, máy chủ và Internet of Things mới ra mắt dễ bị tấn công từ xa.

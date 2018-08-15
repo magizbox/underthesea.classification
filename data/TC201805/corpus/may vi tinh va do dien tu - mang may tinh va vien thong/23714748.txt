@@ -1,2 +1,0 @@
-Dùng kính thực tế ảo HTC Vive điều khiển robot như điều khiển con rối
-Các nhà khoa học của Đại học Tokyo đã tìm ra được một phương pháp điều khiển robot giống như điều khiển một con rối với khả năng mô phỏng và mức độ tương tác cao, thông qua việc sử dụng kính thực tế ảo Vive của HTC.

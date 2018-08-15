@@ -1,2 +1,0 @@
-Lỗ hổng bảo mật nghiêm trọng trong chip của Intel
-Mỗi lỗi rất nghiêm trọng về bảo mật trên các Chip máy tính của Intel vừa được các chuyên gia phát hiện.

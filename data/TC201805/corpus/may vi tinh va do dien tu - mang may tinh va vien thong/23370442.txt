@@ -1,2 +1,0 @@
-Vai trò của cơ học tính toán
-Cơ học tính toán, toán học tính toán, vật lý tính toán, hóa học tính toán…, được xem là một trong những nền tảng cốt yếu cấu thành và tạo động lực cho cuộc cách mạng 4.0. Cơ học tính toán là điểm giao thoa quan trọng giữa cơ học, kỹ thuật và phương pháp tính toán, trong đó, các hiện tượng vật lý và bài toán kỹ thuật tuân theo các định luật cơ học sẽ được mô phỏng và phỏng đoán dựa trên các thuật toán số và tính toán hiệu năng cao.

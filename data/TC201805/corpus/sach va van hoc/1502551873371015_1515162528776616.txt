@@ -1,9 +1,0 @@
-“ MỘT BÀI HỌC "GIÁ TRỊ" khác MỘT BÀI HỌC "CÓ GIÁ TRỊ THỰC" ở chỗ: 
-
-Bài học "giá trị": kết thúc ngay tại nơi nó được tiếp thu. 
-
-Bài học "có giá trị thực": ngay sau khi được học, người tiếp thu nó lập tức ỨNG DỤNG và "DẠY LẠI" nó cho người khác. ”
-
-- Hạ Phong -
-
-Admin: Hạ Phong

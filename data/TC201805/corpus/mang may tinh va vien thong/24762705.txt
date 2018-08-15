@@ -1,2 +1,0 @@
-Intel sẽ ra mắt dòng CPU mới tích hợp bản vá lỗi bảo mật Meltdown và Spectre
-Dòng CPU thế hệ mới được sản xuất trên qui trình vi mạch 10nm được tích hợp bản vá lỗi hai lỗ hỏng bảo mật nghiêm trọng Meltdown và Spectre ngay trên bảng mạch silicon.

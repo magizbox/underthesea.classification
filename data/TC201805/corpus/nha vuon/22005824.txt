@@ -1,2 +1,0 @@
-Những công trình kiến trúc lập dị thách đố người sử dụng
-Sáng tạo luôn là điều được khuyến khích trong thiết kế, nhưng sự đổi mới quá đà có thể dẫn đến những thảm họa kiến trúc không thể cứu vãn.

@@ -1,2 +1,0 @@
-Nokia sẽ dùng chip do Xiaomi sản xuất trong một số mô hình sắp ra mắt
-Đầu năm nay, nhà sản xuất Trung Quốc Xiaomi đã công bố mẫu chipset mới Surge S1, một bộ xử lý lõi tám, gồm 4 lõi Cortex-A53 2.2GHz để thực hiện các tính toán đòi hỏi xử lý cao hơn và 4 lõi Cortex-A53 1.4GHz cho các tác vụ nhẹ hơn. Nó được ghép nối với đơn vị đồ họa Mali-T680 MP4. Đây là một giải pháp tốt dành cho phân khúc smartphone tầm trung trên thị trường như Xiaomi Mi 5c sử dụng chipset Surge S1.

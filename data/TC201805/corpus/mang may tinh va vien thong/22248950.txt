@@ -1,2 +1,0 @@
-Google tung hệ điều hành Fuchsia mới nhằm hạ bệ 'Android'
-Google hiện có 2 hệ điều hành Android và Chrome. Thông tin về hệ điều hành thứ 3 đã xuất hiện từ tháng 8 năm ngoái, đó là Fuchsia OS. Hệ điều hành mới này được kỳ vọng có thế thay thế Android trong tương lai và thậm chí có thể thay thế Chrome. Tuy nhiên, những hình ảnh của hệ điều hành Fuchsia đến nay mới lần đầu tiên được rò rỉ.

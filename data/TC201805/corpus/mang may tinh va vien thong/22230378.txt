@@ -1,2 +1,0 @@
-HSBC triển khai đăng nhập tài khoản bằng dấu vân tay
-Ngày 9.5, Ngân hàng TNHH một thành viên HSBC VN (HSBC VN) chính thức triển khai công nghệ nhận diện vân tay.

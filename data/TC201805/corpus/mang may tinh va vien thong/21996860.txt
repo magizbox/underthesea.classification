@@ -1,2 +1,0 @@
-Cẩn trọng loại phần mềm gián điệp cực kỳ nguy hiểm
-Mới đây, các nhà nghiên cứu bảo mật tại Lookout và Google đã phát hiện ra một loại phần mềm gián điệp có thể theo dõi nhật ký cuộc gọi, tin nhắn SMS và lịch sử lướt web của người dùng.

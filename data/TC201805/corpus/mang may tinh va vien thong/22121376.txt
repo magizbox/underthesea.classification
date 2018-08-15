@@ -1,2 +1,0 @@
-Tại sao bạn không nên sử dụng Mocha của Viettel?
-Rất nhiều bạn trẻ yêu thích Mocha, nhưng không phải ai cũng nên dùng. Vậy trong trường hợp nào thì bạn lại không nên sử dụng Mocha?

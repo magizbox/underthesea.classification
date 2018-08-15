@@ -1,2 +1,0 @@
-TP.HCM: Bùng nổ nhu cầu thiết bị cảm biến nhờ phát triển đô thị thông minh
-Trước xu thế phát triển mạnh mẽ của công nghệ vạn vật kết nối Internet (IoT), đô thị thông minh, dữ liệu lớn… nhu cầu về cảm biến (Sensor), vi cơ điện tử (MEMS) sẽ nhanh chóng tăng lên con số hàng nghìn tỷ.

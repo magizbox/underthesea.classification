@@ -1,2 +1,0 @@
-Lỗ hổng mới trên Android khiến dễ bị đánh cắp mật khẩu và dữ liệu
-Các nhà nghiên cứu đã phát hiện ra một lỗ hổng mới trên Android mà từ đó các hacker có thể chiếm quyền điều khiển thiết bị của bạn mà bạn không hề hay biết.

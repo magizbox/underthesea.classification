@@ -1,2 +1,0 @@
-Lý giải công nghệ đằng sau thuật toán phân tích hình ảnh của Apple và Google
-Nếu có những bức ảnh 'khêu gợi' trên iCloud hay Google Photos thì bạn đừng lo, Apple và Google không biết gì hết, nhưng đồng thời vẫn có thể bảo đảm an toàn tuyệt đối cho hình ảnh cá nhân của bạn.

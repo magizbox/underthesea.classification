@@ -1,2 +1,0 @@
-Sacombank áp dụng giải pháp xác thực giao dịch mới
-Khác với những phương thức nhận mã xác thực giao dịch OTP bằng thiết bị token hoặc SMS, giải pháp mới của Sacombank giúp duyệt giao dịch nhanh chóng hoặc cung cấp mã xác thực OTP thuận tiện hơn.

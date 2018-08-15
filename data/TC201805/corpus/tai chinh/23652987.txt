@@ -1,2 +1,0 @@
-Các ngân hàng cần ưu tiên tính toán tài sản theo rủi ro tín dụng (RWA)
-Thông tư 41/2016/TT-NHNN được cho là quy định Basel II đầu tiên ở Việt Nam, nhưng thông tư này có điểm cải cách nổi bật là cách tính rủi ro tín dụng theo phương pháp chuẩn hóa dựa trên các nội dung sửa đổi mới nhất về RWA của Ủy ban Basel, mà giới ngân hàng quốc tế thường gọi là 'Basel IV'.

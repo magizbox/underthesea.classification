@@ -1,2 +1,0 @@
-Cục An ninh mạng: Mã độc sẽ đe dọa cả các mạng đóng lưu trữ tài liệu mật
-Cùng phần mềm gián điệp, malware (mã độc) sẽ trở thành mối đe dọa thực sự, kể cả với các mạng đóng lưu trữ và xử lý tài liệu mật do sự lây lan của dòng mã độc này qua USB hoặc CD, smartphone và các thiết bị kết nối không dây.

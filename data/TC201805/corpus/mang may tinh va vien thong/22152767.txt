@@ -1,2 +1,0 @@
-Kaspersky Lab phát hành bản cập nhật chính cho Anti Targeted Attack Platform
-Kaspersky Lab vừa công bố phiên bản mới của Kaspersky Anti-Target Attack Platform, một giải pháp để phát hiện các mối đe dọa cấp cao và các cuộc tấn công mục tiêu cho các doanh nghiệp. Giải pháp này kết hợp các thuật toán machine learning tiên tiến, thông tin tình báo về các mối đe dọa và khả năng thích ứng với cơ sở hạ tầng của khách hàng để giúp các doanh nghiệp lớn phát hiện ra các cuộc tấn công tinh vi và phá hoại ở bất kỳ giai đoạn phát triển nào.

@@ -1,2 +1,0 @@
-Xe hơi tự lái biết 'cứng-mềm' tùy hoàn cảnh để bảo vệ người đi đường khi xảy ra tai nạn
-Tai nạn giao thông là điều không ai muốn, và Waymo - một công ty chuyên về xe hơi tự lái của Google - đã nghĩ một giải pháp tiềm năng để giảm thiểu tối đa sức sát thương một cú va chạm xe hơi gây ra cho người đi bộ.

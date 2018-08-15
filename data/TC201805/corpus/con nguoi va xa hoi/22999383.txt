@@ -1,2 +1,0 @@
-Mỗi đối tượng có 1 mã số trên Hệ thống quản lý tiêm chủng quốc gia
-Theo Quy chế mới được Bộ Y tế ban hành, việc quản lý, sử dụng Hệ thống quản lý thông tin tiêm chủng quốc gia phải đảm bảo nguyên tắc mỗi một đối tượng tiêm chủng chỉ có duy nhất một mã số trên Hệ thống.

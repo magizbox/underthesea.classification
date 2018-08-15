@@ -1,2 +1,0 @@
-Đổi mã vùng điện thoại cố định các tỉnh thành giai đoạn 3
-Trong số các địa phương có tên trong danh sách chuyển đổi mã vùng điện thoại cố định lần này, có cả Hà Nội và thành phố Hồ Chí Minh.

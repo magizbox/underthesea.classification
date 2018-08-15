@@ -1,2 +1,0 @@
-Gói nâng cấp giúp tiêm kích F-22 tăng gấp đôi tầm diệt mục tiêu
-Cấu hình Increment 3.2B của F-22 khắc phục lỗi của phiên bản trước, đồng thời tích hợp tên lửa mới cho phép tăng gấp đôi tầm bắn của tiêm kích này.

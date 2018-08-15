@@ -1,2 +1,0 @@
-Cảnh báo: 70% thiết bị IoT tại Việt Nam có nguy cơ bị tấn công mạng
-Theo thống kê của Cục ATTT, trong 316 ngàn camera giám sát được kết nối và công khai trên mạng Internet thì có hơn 147 ngàn thiết bị có lỗ hổng, chiếm 65%; về các thiết bị router, Việt Nam có khoảng 28 ngàn địa chỉ của thiết bị IoT đã bị tấn công bằng mã độc mirai và các biến thể mirai. Đây là nguy cơ rất lớn đối với Việt Nam.

@@ -1,6 +1,0 @@
-" Có nhiều khi người ta phải chạy đâm đầu vào một bức tường gạch, hay ngã sõng xoài dưới đất vì không chịu thay đổi một giới hạn nào đó, rồi họ mới nhận ra rằng họ cần phải thay đổi. Khi người ta chuẩn bị chệch đường, đó là thời điểm - hay thời cơ - để can thiệp và tác động với một kế hoạch huấn luyện và phát triển lãnh đạo. Họ cần phải nhận được thông điệp rằng nếu như họ không chịu thay đổi, họ sẽ chết. Và khi bị đặt trong tâm thế đó, họ có thể nhìn thấy những điều tốt đẹp khi chịu sửa đổi những ranh giới. "
-
-[ Trích: Trí óc, Trái tim, Khí phách ]
-
-Tác giả: David L. Dotlich, Peter C. cairo, Stephen H. Rhinesmith
-Admin: Hạ Phong

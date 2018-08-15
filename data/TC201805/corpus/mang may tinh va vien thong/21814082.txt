@@ -1,2 +1,0 @@
-iOS 11 có thể 'giết chết' gần 200.000 ứng dụng trên App Store
-Khoảng 187.000 ứng dụng 32-bit trên App Store sẽ không thể sử dụng và bị loại bỏ, do iOS 11 chỉ tương thích hoàn toàn với các ứng dụng hỗ trợ nền tảng 64-bit.

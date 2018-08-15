@@ -1,2 +1,0 @@
-Xuất hiện 'WannaCry' trên hệ điều hành Android
-Một trojan mang tên Svpeng vừa được Kaspersky phát hiện, nó có khả năng cập nhật chức năng để hoạt động như một keylogger và khai thác hệ điều hành Android nhằm ăn cắp dữ liệu.

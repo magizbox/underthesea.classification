@@ -1,2 +1,0 @@
-Mê đào tiền ảo, nhiều người dùng đã bị 'hack' hàng trăm ngàn USD
-Nhóm nghiên cứu Anti-Malware của Kaspersky Lab đã xác định được hai botnet đào tiền ảo lây nhiễm phần mềm độc hại trên các máy tính. Ước tính, bọn tội phạm mạng đã thu về đến 30.000 USD cho một mạng lưới với 4.000 máy tính.

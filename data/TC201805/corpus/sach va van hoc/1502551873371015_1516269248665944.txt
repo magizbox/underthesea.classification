@@ -1,5 +1,0 @@
-“ Cứ coi cuộc đời là một trò xác suất may rủi đi. Vậy thì hãy chơi theo luật chơi của xác suất: Để chắc chắn rút được quân Át chủ bài, hãy đảm bảo rằng bạn kiên trì rút đủ 52 quân. ”
-
-- Hạ Phong -
-
-Admin: Hạ Phong

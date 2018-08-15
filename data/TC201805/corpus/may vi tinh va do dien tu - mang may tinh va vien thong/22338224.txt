@@ -1,2 +1,0 @@
-Triển khai đô thị thông minh cần cả những giải pháp phi công nghệ
-(ICTPress) - CNTT-TT (ICT) đóng một vai trò quan trọng trong triển khai đô thị thông minh (ĐTTM). Tuy nhiên, cũng cần triển khai những giải pháp phi công nghệ cho ĐTTM.

@@ -1,2 +1,0 @@
-Hẹn giờ đăng bài trên Facebook cá nhân
-Hiện tại, người dùng cá nhân không có tính năng hẹn giờ đăng bài như fanpage, tuy nhiên bạn có thể khắc phục hạn chế này bằng cách cài đặt ứng dụng Buffer tại https://buffer.com/ (tương thích Android, iOS và trình duyệt).

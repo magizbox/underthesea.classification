@@ -1,2 +1,0 @@
-Công nghệ giúp nhìn xuyên qua mọi bức tường
-Không cần biết bức tường được làm bằng gì, các nhà nghiên cứu tại đại học Duke (bang North Carolina) vẫn có thể nhìn xuyên qua chúng với sự trợ giúp của một dải tần số hẹp và một thuật toán đặc biệt.

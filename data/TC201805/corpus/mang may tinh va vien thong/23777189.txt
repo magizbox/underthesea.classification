@@ -1,2 +1,0 @@
-Android 8.1 cho phép gửi tin nhắn SMS từ Chromebook
-Ngoài ra, một nguồn tin mới đây cũng khẳng định phiên bản Android 8.1 cũng cho phép khôi phục dữ liệu sau khi đưa máy về chế độ xuất xưởng (factory reset).

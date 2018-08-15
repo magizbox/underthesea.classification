@@ -1,2 +1,0 @@
-Phát hiện mã độc Android có thể lây nhiễm sang router Wi-Fi
-Các chuyên gia bảo mật vừa đưa ra cảnh báo về một loại mã độc mới, sử dụng thiết bị chạy Android để làm nguồn phát tán mã độc sang router Wi-Fi, sau đó điều hướng mạng kết nối tới máy chủ độc hại.

@@ -1,2 +1,0 @@
-Phẫu thuật nội soi bằng cánh tay robot
-Bác sĩ phẫu thuật chăm chú nhìn vào màn hình 3D, điều khiển cánh tay robot uyển chuyển tiếp cận vào tận góc hẹp vùng dưới cùng của khoang bụng bệnh nhân. Cách đó không xa, cánh tay robot xoay trở linh hoạt, bóc tách các phần mô, cơ trước khi đưa lưỡi kéo cắt đứt khối u tuyến tiền liệt. Những thao tác phẫu thuật bằng cánh tay robot tại Bệnh viện Bình Dân (TPHCM) đang ngày một thuần thục.

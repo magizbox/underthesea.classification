@@ -1,2 +1,0 @@
-52% máy tính tại Việt Nam có thể bị tấn công bởi WannaCry
-Theo thông tin mới nhất từ Tập đoàn công nghệ Bkav, nghiên cứu mới nhất từ Bkav cho thấy, tại Việt Nam hiện có tới 52% máy tính tồn tại lỗ hổng EternalBlue.

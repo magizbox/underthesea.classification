@@ -1,2 +1,0 @@
-"Vật vã" gần 10 năm Google mới tìm ra lời giải cho vấn đề phân mảnh của Android?
-Hãy nhìn vào mô hình kiến trúc Android mới được Google công bố và bạn sẽ hiểu vì sao từ trước đến nay những chiếc Galaxy hay Xperia của bạn lại ít được cập nhật đến vậy. Thật may mắn, khi nhìn rõ bản chất, Google cũng đã tìm ra câu trả lời.

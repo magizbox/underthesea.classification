@@ -1,2 +1,0 @@
-DJI Goggles - thiết bị lắp trên đầu để kiểm soát drone
-DJI Goggles trông giống một chiếc kính VR, nhưng khi đeo trên đầu, thiết bị này lại dùng để kiểm soát máy bay điều khiển từ xa (drone).

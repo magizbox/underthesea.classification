@@ -1,2 +1,0 @@
-Thuật toán của Google tự động xóa watermark khỏi ảnh có bản quyền
-Watermark có thể là logo hay một dòng chữ được các nhiếp ảnh gia chèn vào để bảo vệ bản quyền cho ảnh của họ, không cho người khác sử dụng mà chưa có sự cho phép.

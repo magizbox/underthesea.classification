@@ -1,2 +1,0 @@
-Google bắt tay MIT phát triển thuật toán "chỉnh ảnh như nhiếp ảnh gia"
-Gã khổng lồ công nghệ Google đã bắt tay cùng MIT phát triển thuật toán thông minh giúp tự động retouch (làm đẹp ảnh) trước khi chụp.

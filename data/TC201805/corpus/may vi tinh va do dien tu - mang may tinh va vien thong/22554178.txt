@@ -1,2 +1,0 @@
-Đà Nẵng: 4 vấn đề cần giải quyết để phát triển thành phố thông minh
-Cần có một hướng dẫn về mô hình, tiêu chuẩn kỹ thuật cho thành phố thông minh, xây dựng một Cổng chia sẻ dữ liệu quốc gia hay giải quyết những vướng mắc trong triển khai chữ ký số là những kiến nghị mà UBND TP Đà Nẵng đề xuất để phát triển thành phố thông minh.

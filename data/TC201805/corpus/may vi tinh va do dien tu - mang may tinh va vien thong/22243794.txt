@@ -1,2 +1,0 @@
-Robot có thể dạy các kỹ năng mới cho các robot khác
-Tất cả những bộ phim về robot tham gia vào thế giới và tiêu diệt nhân loại mang đến cho chúng ta một số suy nghĩ đáng sợ về tương lai tiến bộ của robot. Rốt cuộc, nhờ những tiến bộ nhanh chóng trong lĩnh vực trí tuệ nhân tạo (AI) và Robotics, chúng ta sẽ thấy những chú robot ngày càng thông minh hơn. Và nếu những chú robot đó có thể tự dạy cho nhau những thủ thuật mới thì sẽ dẫn đến tình huống gì?

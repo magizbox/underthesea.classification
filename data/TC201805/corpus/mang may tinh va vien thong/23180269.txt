@@ -1,2 +1,0 @@
-Giải phóng bộ nhớ Android với các mẹo đơn giản
-Những tập tin tạm thời trong các thư mục như Tải về, Bản đồ ngoại tuyến hay Dữ liệu lưu trữ có thể chiếm đến vài GB trong bộ nhớ. Dưới đây là các mẹo nhỏ để xóa chúng dễ dàng.

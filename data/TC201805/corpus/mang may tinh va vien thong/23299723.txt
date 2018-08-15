@@ -1,2 +1,0 @@
-Chuẩn bị thử nghiệm Giai đoạn 1 đề án Smart City tại Phú Quốc
-- Hiện nay có 5 dự án thuộc giai đoạn I của đề án gồm: dự án chính quyền điện tử, dự án giám sát môi trường, dự án camera giám sát, dự án smart wifi, dự án quản lý lưu trú trực tuyến và xây dựng trung tâm vận hành tích hợp tập trung cũng bắt đầu được triển khai.

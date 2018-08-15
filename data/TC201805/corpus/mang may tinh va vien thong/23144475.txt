@@ -1,2 +1,0 @@
-Hướng dẫn kích hoạt tính năng theo dõi trên laptop Windows
-Giống như smartphone, trên laptop Windows 10 cũng có chức năng Find My Device (tìm thiết bị). Chức năng này cho phép người dùng có thể theo dõi vị trí thiết bị và giúp tìm thiết bị khi bị mất cắp. Bài viết sẽ hướng dẫn bạn bật chức năng Find My Device trên laptop.

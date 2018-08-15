@@ -1,2 +1,0 @@
-Bản cập nhật Windows 10 sắp tới sẽ có dung lượng giảm hơn 35%
-Trong tuyên bố mới nhất trên trang Windows Blog, Microsoft khẳng định sẽ sớm hạ dung lượng của các bản cập nhật sắp tới xuống thấp hơn 35% so với trung bình bằng tính năng Unified Update Platform được phát hành từ bản cập nhật build 14959.

@@ -1,2 +1,0 @@
-4 sai lầm phổ biến khi tăng tốc Wi-Fi
-Nhiều người cho rằng việc xóa cache, vô hiệu hóa IPv6 hay cài đặt phần mềm tăng tốc sẽ giúp đẩy nhanh tốc độ truy cập Internet, tuy nhiên, việc này hoàn toàn sai lầm.

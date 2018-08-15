@@ -1,2 +1,0 @@
-Chip Intel Pentium mới sẽ tích hợp công nghệ siêu phân luồng
-Trong quá khứ, dòng vi xử lí Pentium 2 nhân được đánh giá cao bởi hiệu năng khá ổn cùng với đó là việc tiêu tụ ít điện năng, song vẫn còn một vài điểm đáng tiếc của dòng vi xử lí này nằm ở việc thiếu đi công nghệ siêu phân luồng (Hyper-Threading).

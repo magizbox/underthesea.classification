@@ -1,2 +1,0 @@
-Ứng dụng gọi xe như Uber có thể xóa sổ nhu cầu sở hữu xe
-Nghiên cứu chỉ ra rằng dịch vụ gọi xe như Uber và Lyft làm hạn chế mức độ thường xuyên sử dụng xe ô tô cá nhân của người dân.

@@ -1,2 +1,0 @@
-Apple khắc phục lỗi bảo mật nghiêm trọng trên các dòng máy Mac, iPhone, iPad
-Apple vừa chính thức xác nhận tất cả các dòng máy tính chạy hệ điều macOS (Macbook) và các thiết bị di động chạy iOS (iPhone, iPad), đều bị ảnh hưởng bởi các lỗ hổng bảo mật nghiêm trọng Meldown và Spectre xuất hiện trên các bộ vi xử lý do Intel, ARM và AMD sản xuất. Tuy vậy, công ty nhấn mạnh không có trường hợp nào được ghi nhận lợi dụng lỗ hổng để tấn công người dùng.

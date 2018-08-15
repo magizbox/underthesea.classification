@@ -1,2 +1,0 @@
-Thiết bị phát hiện động đất và những chuyển động vô hình
-Raspberry Shake 4D giúp tạo mối liên kết của con người với môi trường xung quanh bằng cách cung cấp cho người dùng thông báo về động đất với các chi tiết như cường độ, vị trí, độ sâu, thời gian chính xác… và hiển thị tất cả trên một bản đồ tương tác.

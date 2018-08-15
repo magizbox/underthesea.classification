@@ -1,2 +1,0 @@
-Việc đổi chỗ ngay trong chuyến bay sẽ dễ dàng với ứng dụng này
-ExpertFlyer là một ứng dụng theo dõi các chỗ ngồi của hãng hàng không trong thời gian thực, cho phép du khách có thể thay đổi chỗ ngồi khi có ghế trống.

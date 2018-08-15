@@ -1,6 +1,0 @@
-“ Giá trị của những quyết định phụ thuộc vào sự can đảm để thực hiện nó. Những quyết định vĩ đại làm nền móng cho văn minh nhân loại đã được đưa ra bất chấp những rủi ro lớn, thậm chí có khả năng phải hi sinh tính mạng của người dám đưa ra quyết định. ”
-
-[ Trích: Think and grow rich ]
-
-Tác giả: Napoleon Hill
-Admin: Hạ Phong

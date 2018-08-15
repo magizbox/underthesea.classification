@@ -1,2 +1,0 @@
-Phát hiện malware mới nhắm vào các máy ATM
-Cơ quan cảnh sát châu Âu (Europol) và Trend Micro phát hiện ra một chủng phần mềm độc hại mới – Alice - nhắm mục tiêu đến máy ATM, cho phép kẻ gian truy cập các máy và rút tiền mặt.

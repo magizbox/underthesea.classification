@@ -1,2 +1,0 @@
-Cập nhật ngay iOS 10.3 nếu không muốn bị tống tiền
-Mới đây, Apple đã vá thành công lỗ hổng JavaScript nghiêm trọng trên trình duyệt Safari để ngăn chặn tội phạm mạng tống tiền người dùng iOS.

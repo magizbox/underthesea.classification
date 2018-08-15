@@ -1,2 +1,0 @@
-Hai mảng "bắt buộc" và "khuyến khích" trong cấu trúc Đô Thị Thông Minh
-Đi tìm một định nghĩa có cấu trúc cho đô thị thông minh Hệ thống thông minh - Nền tảng cốt lõi cho đô thị thông minh

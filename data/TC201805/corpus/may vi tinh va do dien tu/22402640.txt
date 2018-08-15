@@ -1,2 +1,0 @@
-Mẹo tăng không gian lưu trữ cho thiết bị Android
-Thay vì phải loại bỏ ứng dụng, gửi hình ảnh và video lên đám mây, xóa tập tin cũ… bạn hoàn toàn có thể mở rộng không gian lưu trữ bộ nhớ nội bộ của Android một cách dễ dàng.

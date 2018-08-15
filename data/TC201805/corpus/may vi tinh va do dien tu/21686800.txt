@@ -1,2 +1,0 @@
-Mẹo kiểm tra số lần sạc trên iPhone
-Theo khuyến cáo của Apple, người dùng nên thay pin cho iPhone và iPad sau 1.000 lần sạc (cycle count), bởi lẽ lúc này dung lượng pin chỉ còn khoảng 80% hoặc thấp hơn so với công suất ban đầu.

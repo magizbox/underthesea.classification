@@ -1,2 +1,0 @@
-Fuchsia sẽ không thay thế Android
-Cách đây gần hai tuần, thông tin về một hệ điều hành mã nguồn mở mới mà Google đang lặng lẽ phát triển đã được nhiều trang tin công nghệ đề cập đến. Hệ điều hành mới có tên gọi Fuchsia, hiện tại đã có giao diện người dùng phù hợp cho điện thoại thông minh và máy tính bảng.

@@ -1,2 +1,0 @@
-Khoa học giúp phát hiện tranh giả
-Trong giám định nghệ thuật, đôi khi các kỹ thuật làm giả siêu đẳng vẫn có thể đánh lừa được những con mắt sành sỏi. vì thế, Sau hàng loạt những bê bối giả mạo khiến nhiều phòng tranh lâu đời lao đao, thậm chí đóng cửa, giới sưu tầm nghệ thuật đã bắt đầu tìm đến những nhà giám định ứng dụng khoa học công nghệ.

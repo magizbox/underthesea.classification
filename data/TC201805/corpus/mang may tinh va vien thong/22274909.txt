@@ -1,2 +1,0 @@
-Danh sách tập tin, máy chủ chứa mã độc WannaCry và cách phòng chống
-Ngay sau khi xảy ra vụ tấn công mạng tống tiền trên toàn cầu, Trung tâm ứng cứu khẩn cấp máy tính Việt Nam (VNCERT) đã đưa ra danh sách tập tin, máy chủ chứa mã độc WannaCry thực hiện vụ tấn công cũng như khuyến cáo các biện pháp phòng chống rủi ro.

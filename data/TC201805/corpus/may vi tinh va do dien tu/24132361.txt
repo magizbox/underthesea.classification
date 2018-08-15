@@ -1,2 +1,0 @@
-Windows 10 sắp có tính năng Quick Pair, tự động kết nối Bluetooth khi để gần
-Microsoft đang bí mật nghiên cứu một phương thức kết nối hoàn toàn mới trên Windows 10. Với tính năng có tên Quick Pair, người dùng chỉ cần để thiết bị gần máy tính Windows 10 có hỗ trợ Bluetooth để kết nối thành công.

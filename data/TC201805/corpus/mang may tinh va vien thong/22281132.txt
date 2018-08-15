@@ -1,2 +1,0 @@
-Làm sao để kiểm tra và chặn máy tính nhiễm mã độc nguy hiểm nhất hiện nay?
-WannaCry được đánh giá là một trong những mã độc nguy hiểm nhất lịch sử và đang có tốc độ lây nhiễm chóng mặt trên toàn cầu, trong đó có cả Việt Nam. Vậy làm cách nào để biết được máy tính của bạn có đang bị lây nhiễm loại mã độc này hay không và đề phòng mã độc này lây nhiễm? Bài viết dưới đây sẽ giúp bạn.

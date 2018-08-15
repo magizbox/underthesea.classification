@@ -1,2 +1,0 @@
-Giao thức kết nối WPA2 bị hack, BẤT KÌ thiết bị nào có kết nối Wi-Fi đều có thể đã bị tấn công
-Vụ tấn công KRACK lớn này đã được một nhóm nghiên cứu bảo mật phát hiện, các biện pháp khắc phục đang được đưa ra.

@@ -1,2 +1,0 @@
-Mua dung lượng data của MobiFone đơn giản hơn với thẻ nạp Datacode
-Khách hàng của MobiFone hoàn toàn có thể sử dụng thẻ nạp dung lượng data (hay còn gọi là Datacode) để thoải mái lướt web với chi phí hợp lý mà không cần đăng ký cố định gói cước 3G, 4G.

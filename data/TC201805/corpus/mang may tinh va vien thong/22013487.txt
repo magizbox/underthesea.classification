@@ -1,2 +1,0 @@
-Lượt cài đặt ứng dụng trên iOS có giá trị cao hơn 40% so với Android
-Một nghiên cứu từ Clickky đã chỉ ra rằng khả năng thu hút người dùng trên iOS vẫn cao hơn so với Android. Các công ty sẵn sàng trả nhiều hơn 40% cho mỗi lần cài đặt (cost per install – CPI) trên iOS.

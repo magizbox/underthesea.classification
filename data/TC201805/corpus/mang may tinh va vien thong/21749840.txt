@@ -1,2 +1,0 @@
-Các thiết bị thông minh thực chất rất "ngu" về bảo mật
-Bảo mật chưa bao giờ là một vấn đề "hết nóng", nhất là trong thời đại ngày nay, khi các thiết bị IoT đang ngày càng phổ biến, nhưng tính bảo mật lại rất yếu.

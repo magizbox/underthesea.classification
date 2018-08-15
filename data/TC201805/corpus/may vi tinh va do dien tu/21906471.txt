@@ -1,2 +1,0 @@
-RAM DDR5 đang được phát triển, nhanh gấp đôi DDR4 hiện tại
-Ngày 30/3/2017, JEDEC - tổ chức chuyên quản lý và thiết lập các tiêu chuẩn bộ nhớ tuyên bố rằng, họ đang phát triển các yêu cầu kỹ thuật cho bộ nhớ DDR5 tốc độ cao, sẽ hoàn thiện trong năm 2018.

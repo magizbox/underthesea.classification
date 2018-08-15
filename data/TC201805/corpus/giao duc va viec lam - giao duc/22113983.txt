@@ -1,2 +1,0 @@
-Hoàn thiện ngân hàng câu hỏi chuẩn hóa phục vụ công tác ra đề thi
-Bộ triển khai xây dựng bộ đề thi thử nghiệm theo năm bài thi giúp các cơ sở giáo dục và thí sinh tập dượt, làm quen với định dạng đề thi và phương thức thi theo bài để tiếp tục ôn luyện, chuẩn bị thi.

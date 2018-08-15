@@ -1,2 +1,0 @@
-Biến màn hình thường thành màn hình cảm ứng
-AirBar có thiết kế tương đối đơn giản, kích thước nhỏ gọn chỉ bằng cây thước kẻ thông thường và sử dụng nguồn cấp thông qua cổng USB trên máy tính.

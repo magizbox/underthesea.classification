@@ -1,2 +1,0 @@
-TPHCM: Giới thiệu hệ thống đỗ xe ôtô tự động tại Việt Nam
-Ngày 22/9, Sở Khoa học và Công nghệ Thành phố Hồ Chí Minh tổ chức Hội thảo giới thiệu kết quả nhiệm vụ khoa học và công nghệ “Nghiên cứu thiết kế và triển khai hệ thống đỗ xe ôtô tự động tại Việt Nam.

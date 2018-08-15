@@ -1,2 +1,0 @@
-Tay nhỏ khó sử dụng iPhone, vậy hãy dùng cách này
-Đối với những phiên bản Plus hay iPhone X có kích thước to khó để sử dụng bằng một tay, có thể kích hoạt tính năng tầm với (Reachability) hoặc sử dụng chế độ 'bàn phím một tay'.

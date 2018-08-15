@@ -1,2 +1,0 @@
-Mạng cáp quang ngầm có thể là phương thức hiệu quả để phát hiện động đất
-Những thảm họa động đất trên thế giới đã gây ra rất nhiều thiệt hại cả về tính mạng và tài sản cho con người, một phần cũng bởi chúng ta chưa có những cảnh báo sớm và chính xác về những trận động đất đó. Nghiên cứu của Giáo sư Biondo Biondi và cộng sự sử dụng các bộ cảm biến trên các sợi cáp quang ngầm mở ra một triển vọng cực kỳ khả quan về một hệ thống cảnh báo sớm chính xác các trận động đất lớn nhỏ, góp phần hạn chế những thiệt hại mà động đất gây ra cho con người.

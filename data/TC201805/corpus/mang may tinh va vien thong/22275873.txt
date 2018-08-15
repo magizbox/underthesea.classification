@@ -1,2 +1,0 @@
-Công cụ miễn phí kiểm tra Wanna Cry
-Theo thông tin từ Tập đoàn Công nghệ Bkav, công cụ miễn phí của Bkav giúp người sử dụng quét xem máy tính có đang bị nhiễm Wanna Crypt không. Quan trọng hơn, công cụ này có thể kiểm tra và cảnh báo nếu máy tính có chứa lỗ hổng EternalBlue – lỗ hổng mà WannaCry đang khai thác để xâm nhập máy tính.

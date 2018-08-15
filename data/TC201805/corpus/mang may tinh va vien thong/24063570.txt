@@ -1,2 +1,0 @@
-Đọc mã QR trực tiếp trong trình đơn trình duyệt Chrome với QRreader
-Bạn nhận được một mã QR được gửi từ bạn bè trên máy tính, để đọc nó bắt buộc bạn phải dùng đến điện thoại di động. Thay vì mất công như vậy, phần mở rộng QRreader sẽ giúp bạn 'giải mã' nội dung trong mã QR chỉ với cú nhấp chuột phải từ trình duyệt Chrome.

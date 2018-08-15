@@ -1,2 +1,0 @@
-Hàng tỷ điện thoại và laptop dính lỗ hổng Bluetooth mới, kể cả iPhone
-Một lỗ hổng bảo mật có tên BlueBorne vừa bất ngờ được phát hiện, đặt nguy cơ cao khiến hàng tỷ thiết bị Android hay Windows, Linux, thậm chí một số phiên bản iOS có thể bị hacker tấn công thông qua giao thức Bluetooth.

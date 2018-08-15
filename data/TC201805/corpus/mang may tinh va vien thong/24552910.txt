@@ -1,2 +1,0 @@
-Lỗ hổng cho phép truy xuất số điện thoại từ tài khoản Facebook
-Facebook có dữ liệu về rất nhiều người và làm cho dữ liệu này có thể tiếp cận được với các nhà quảng cáo thông qua nhiều tính năng phong phú.

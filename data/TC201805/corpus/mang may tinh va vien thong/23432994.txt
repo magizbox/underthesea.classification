@@ -1,2 +1,0 @@
-Máy ATM có nguy cơ bị hack từ xa
-Khác với những vụ tấn công trước đây, tin tặc đã tìm ra phương pháp đột nhập qua cổng kết nối của các ngân hàng để điều khiển hệ thống ATM từ xa nhằm trục lợi.

@@ -1,2 +1,0 @@
-Trình chặn quảng cáo dựa trên VPN bị cấm trên App Store
-Một số trình chặn quảng cáo dựa trên VPN được cung cấp cho iOS thông qua App Store, sẽ không còn được cập nhật sau khi Apple thực thi các nguyên tắc thiết kế.

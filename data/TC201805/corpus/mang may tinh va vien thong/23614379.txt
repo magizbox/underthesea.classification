@@ -1,2 +1,0 @@
-Thiết bị mạng không dây có nguy cơ mất an toàn thông tin
-Tin tặc có thể lợi dụng nhóm lỗ hổng trong giao thức an toàn nhất với mạng không dây Wi-Fi tấn công vào thiết bị của người dùng.

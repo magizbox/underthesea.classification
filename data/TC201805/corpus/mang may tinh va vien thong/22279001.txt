@@ -1,2 +1,0 @@
-Nguy cơ tiềm ẩn khi thanh toán bằng thẻ tại máy POS
-Hiện nay việc thanh toán bằng hình thức cà thẻ trở nên phổ biến tại các cửa hàng, quán ăn, shop quần áo, trung tâm mua sắm. Tuy nhiên, thời gian gần đây, có khá nhiều vụ việc liên quan đến các hoạt động thanh toán của hệ thống ngân hàng xảy ra như đột nhiên bị trừ tiền trong tài khoản mặc dù không thực hiện thanh toán đã gây lo ngại cho khách hàng sử dụng dịch vụ.

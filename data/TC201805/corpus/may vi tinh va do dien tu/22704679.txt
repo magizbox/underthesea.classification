@@ -1,2 +1,0 @@
-Blocks: trợ thủ thiết kế đối tượng 3D cho thực tế ảo
-Blocks là một ứng dụng thực tế ảo của Google dành cho HTC Vive và Oculus Rift, giúp người dùng tạo ra các đối tượng 3D tuyệt đẹp gần như ngay lập tức.

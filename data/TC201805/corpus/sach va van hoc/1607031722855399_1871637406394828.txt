@@ -1,8 +1,0 @@
-Miki là ứng dụng đọc sách điện tử có bản quyền, nó cho phép chúng ta đọc những quyển sách tiếng Việt theo hướng văn minh và hiện đại hơn.
-
-Với Miki, bạn có thể:
-- Chọn hiển thị những hạng mục sách mà bạn thích.
-- Trải nghiệm đọc rất tốt so với hầu hết các nền tảng đọc sách khác trên thị trường.
-- Hình thức thanh toán đa dạng:  SMS, nạp tiền, hoặc thanh toán bằng thẻ tín dụng thông qua Apple Store, Play Store.
-
-Tại sao bạn lại không tải ngay để trải nghiệm nhỉ? :3

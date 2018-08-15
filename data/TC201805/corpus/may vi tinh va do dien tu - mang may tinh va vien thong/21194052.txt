@@ -1,2 +1,0 @@
-Cơ chế triệt tiêu tiếng súng của nòng giảm thanh
-Nòng giảm thanh làm giảm áp suất và nhiệt độ của luồng khí nóng sinh ra trong nòng súng, giúp vũ khí khai hỏa ở độ ồn thấp hơn mức bình thường.

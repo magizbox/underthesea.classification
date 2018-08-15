@@ -1,2 +1,0 @@
-Dữ liệu và bảo mật: Mối quan hệ ngày càng lộ rõ nhiều bất ổn
-Chưa bao giờ dữ liệu được lưu trữ ở nhiều nơi như hiện nay và cũng chưa bao giờ chứa nhiều thông tin cá nhân đến vậy. Chính đó là lí do khiến việc bảo vệ những dữ liệu đó đang trở nên phức tạp hơn bao giờ hết.

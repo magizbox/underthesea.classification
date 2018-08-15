@@ -1,2 +1,0 @@
-FPT công bố ra mắt nền tảng trí tuệ nhân tạo FPT.AI
-Tập đoàn FPT vừa chính thức ra mắt FPT.AI, nền tảng trí tuệ nhân tạo để các lập trình viên tạo ra giao diện tương tác bằng ngôn ngữ tự nhiên trong khuôn khổ sự kiện FPT Techday diễn ra sáng nay (6/6) ở Hà Nội.

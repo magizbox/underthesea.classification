@@ -1,2 +1,0 @@
-Gmail bổ sung nhiều tính năng bảo mật cho khách hàng doanh nghiệp
-3 tính năng bảo mật mới dành cho người dùng doanh nghiệp của Gmail bao gồm phát hiện tấn công lừa đảo bằng máy học; cảnh báo khi click vào link nhiễm độc và cảnh báo khi trả lời.

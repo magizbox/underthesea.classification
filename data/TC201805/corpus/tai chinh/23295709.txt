@@ -1,2 +1,0 @@
-Nghiên cứu chỉ tiêu đánh giá rủi ro tín dụng của các ngân hàng thương mại
-Hoạt động tín dụng là hoạt động cơ bản của ngân hàng, đem lại nguồn thu chủ yếu của ngân hàng hiện nay; Rủi ro tín dụng có thể gây tổn thất về tài chính, giảm giá trị thị trường về vốn, trong trường hợp nghiêm trọng hơn có thể làm hoạt động kinh doanh của ngân hàng bị thua lỗ, thậm chí là phá sản ngân hàng. Bài viết phân tích các yếu tố tác động đến rủi ro tín dụng, từ đó đưa ra các chỉ tiêu đánh giá rủi ro tín dụng của các ngân hàng thương mại hiện nay.

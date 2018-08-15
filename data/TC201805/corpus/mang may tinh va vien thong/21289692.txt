@@ -1,2 +1,0 @@
-Bkav: Cứ 10 email người dùng nhận được có 1,6 thư chứa virus mã hóa dữ liệu tống tiền
-Thống kê từ hệ thống giám sát virus của Bkav cho thấy, có tới 16% lượng email lưu chuyển trong năm 2016 là email phát tán Ransomware (mã độc mã hóa dữ liệu tống tiền - PV), nhiều gấp 20 lần năm 2015.

@@ -1,2 +1,0 @@
-Tất cả máy tính và smartphone đều dính lỗ hổng này?
-Các nhà nghiên cứu của Google vừa phát hiện ra hai lỗ hổng bảo mật quan trọng là Meltdown và Spectre trên vi xử lý của Intel, AMD và ARM.

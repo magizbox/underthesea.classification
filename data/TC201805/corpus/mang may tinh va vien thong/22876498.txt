@@ -1,2 +1,0 @@
-Diễn tập an ninh mạng về phòng chống virus tống tiền kéo dài đến hết ngày 30/7
-Theo nguyện vọng của nhiều đội chưa có điều kiện tham gia buổi diễn tập chính thức WhiteHat Drill 04 chủ đề “Ransomware: Xử lý và phòng chống” được tổ chức trực tuyến từ ngày 26/7, Ban tổ chức quyết định mở hệ thống diễn tập trực tuyến đến hết 30/7/2017.

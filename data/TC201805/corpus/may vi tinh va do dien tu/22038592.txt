@@ -1,2 +1,0 @@
-Hướng dẫn xem và chỉnh sửa dữ liệu EXIF trên Android
-Dữ liệu EXIF là nơi chứa các thông tin của bức ảnh như: khẩu độ, tốc độ màn trập/thời gian phơi sáng, thời gian chụp, vị trí cùng nhiều thứ khác nữa. Bạn có thể trực tiếp xem, thậm chí là chỉnh sửa hoặc xóa dữ liệu này ngay chính trên chiếc smartphone của mình.

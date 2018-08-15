@@ -1,2 +1,0 @@
-VNCERT phát lệnh rà soát mã độc 'đào' tiền ảo bất hợp pháp
-Qua công tác theo dõi sự cố trên không gian mạng Việt Nam, VNCERT đã ghi nhận được rất nhiều sự cố an toàn thông tin về mã độc khai thác tiền ảo Coinhive ẩn mình trên các website.

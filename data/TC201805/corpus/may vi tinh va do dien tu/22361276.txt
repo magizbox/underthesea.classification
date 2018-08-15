@@ -1,2 +1,0 @@
-Review NhacCuaTui 6.0: giao diện mới, cho phép thay đổi theme theo sở thích
-NhacCuaTui (hay NCT) là một ứng dụng nghe nhạc hàng đầu Việt Nam được phát hành cách đây 5 năm, sở hữu kho nhạc phong phú, với hơn 10 triệu người dùng mỗi tháng

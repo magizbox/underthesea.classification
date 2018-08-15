@@ -1,2 +1,0 @@
-Trung Quốc đặt mục tiêu trở thành cường quốc IPv6 vào năm 2025
-Với IPv6, máy tính, điện thoại di động, các thiết bị và cảm biến điện tử kết nối Internet cần một địa chỉ IP duy nhất để tự nhận dạng và giao tiếp với nhau.

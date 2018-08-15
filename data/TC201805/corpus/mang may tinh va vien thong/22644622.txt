@@ -1,2 +1,0 @@
-Microsoft: 'Trí tuệ nhân tạo là giải pháp chống mã độc'
-Microsoft đang phát triển một mô-đun AI (trí tuệ nhân tạo) có thể tự phát hiện và bảo vệ các máy tính cá nhân kết nối mạng trước những mã độc chưa biết trước đó.

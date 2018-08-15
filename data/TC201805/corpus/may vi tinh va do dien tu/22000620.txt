@@ -1,2 +1,0 @@
-Bản cập nhật iOS 10.3.2: Nỗi ám ảnh của hàng triệu người dùng iPhone
-Mặc dù mới cung cấp bản beta cho các nhà phát triển cũng người dùng trải nghiệm thử, nhưng phần mềm cập nhật iOS 10.3.2 đã được cho là một phiên bản “chưa từng có” và không hề dễ chịu chút nào. Dường như Apple đang làm một điều gì đó rất bất bình thường và đang tắt mọi hỗ trợ với các phiên bản iPhone cũ.

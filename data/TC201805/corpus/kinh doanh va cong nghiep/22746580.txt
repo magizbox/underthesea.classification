@@ -1,2 +1,0 @@
-Chung tay giữ giá trị cộng đồng
-Một nhóm kiến trúc sư trẻ ở Hà Nội đang triển khai dự án hỗ trợ những người phụ nữ người dân tộc Mông là xã viên Hợp tác xã Lùng Tám (HTX Lùng Tám) theo phương pháp “cộng đồng cùng kiến tạo”, với mong muốn cơ sở mới giúp họ duy trì, phát triển những giá trị truyền thống quý giá.

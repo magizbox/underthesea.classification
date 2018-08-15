@@ -1,2 +1,0 @@
-Hướng dẫn cách phòng, chống mã độc WannaCry
-Cục An toàn thông tin (Bộ Thông tin và Truyền thông) đã gửi thông báo đến các tổ chức, doanh nghiệp và cá nhân về biện pháp xử lý khẩn cấp chống mã độcWannaCry để tránh thiệt hại do mã độc này gây ra. Mã độc WannaCry đã khai thác một số lỗ hổng trên hệ điều hành Windows để tấn công vào các máy tính với mục tiêu mã hóa dữ liệu, đòi tiền chuộc, ảnh hưởng tới nhiều tổ chức, cá nhân trên phạm vi toàn cầu.

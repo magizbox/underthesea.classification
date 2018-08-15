@@ -1,2 +1,0 @@
-Ứng dụng Arduino trong in nhựa 3D và máy khắc Laser
-Đây là giải pháp ứng dụng nhằm phục vụ công tác giảng dạy thực hành điện tử - cơ khí tại trường Đại học Công nghệ Đồng Nai do giảng viên Võ Thanh Tùng và các cộng sự của mình thực hiện.

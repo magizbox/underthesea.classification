@@ -1,2 +1,0 @@
-Vụ tấn công mạng toàn cầu: Phát hiện vụ tấn công mạng quy mô lớn hơn WannaCry
-Công ty an ninh mạng toàn cầu Proofpoint cho biết một vụ tấn công mạng khác đang xảy ra với quy mô có thể lớn hơn vụ tấn công hồi tuần trước nhằm vào các máy tính trên toàn thế giới.

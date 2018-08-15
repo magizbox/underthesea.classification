@@ -1,2 +1,0 @@
-Apple ra mắt dock GPU rời cho Mac, hỗ trợ VR và 3D
-Cùng với công nghệ đồ họa Metal 2, macOS High Sierra còn mang đến khả năng hỗ trợ card đồ họa rời dành cho máy tính Mac với kết nối Thunderbolt 3.

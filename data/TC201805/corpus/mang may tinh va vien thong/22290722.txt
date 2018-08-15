@@ -1,2 +1,0 @@
-Cách lưu các dòng lệnh Command Prompt sang file văn bản
-Lưu lại phần xuất của các dòng lệnh Command Prompt là cách tuyệt tốt nhất để đưa chúng đến bộ phận kĩ thuật, phân tích bằng một trình soạn thảo hoặc có thể tương tác với chúng linh hoạt hơn so với trên bảng gõ lệnh.

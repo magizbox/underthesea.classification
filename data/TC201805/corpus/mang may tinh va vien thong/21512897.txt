@@ -1,2 +1,0 @@
-Viettel nói gì về sự cố hy hữu gửi tin nhắn ký tự lạ cho khách hàng?
-Ngày 10/2/2017, một số thuê bao của Viettel phản ánh đã nhận được tin nhắn với ký tự lạ gần giống với chữ Trung Quốc từ tổng đài quảng cáo của nhà mạng này. Viettel cho biết do nhân viên kỹ thuật trong quá trình cấu hình đầu số quảng cáo 198 bị sai font chữ.

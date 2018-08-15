@@ -1,2 +1,0 @@
-FPT khởi động cuộc thi lập trình xe tự hành
-Cuộc đua số do FPT tổ chức lần thứ hai có chủ đề 'Lập trình xe tự hành', dành cho sinh viên thuộc các trường đại học trên cả nước.

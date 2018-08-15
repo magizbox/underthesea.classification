@@ -1,2 +1,0 @@
-5 chiến thuật phổ biến trong cuộc chiến đường phố
-Trên thực tế, một cuộc chiến đường phố thường rất khó lường và khó để áp dụng chiến thuật cụ thể nào để đánh bại đối thủ. Dưới đây là 5 chiến thuật phổ biến mà nhiều người hay áp dụng.

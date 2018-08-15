@@ -1,2 +1,0 @@
-Những lỗi cơ bản trên Windows mà Microsoft không muốn sửa
-Windows 10 S mới ra mắt nhưng vẫn phụ thuộc vào Windows Store và "cấm cửa" các phần mềm bên thứ ba.

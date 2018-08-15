@@ -1,2 +1,0 @@
-Bùng nổ startup trong lĩnh vực sản xuất robot
-Việc nuTonomy bắt đầu triển khai thử dịch vụ taxi tự hành tại Singapore vào cuối tháng Tám là một ví dụ sống động, thể hiện rõ sự phát triển vượt bậc của công nghệ tự động hóa.

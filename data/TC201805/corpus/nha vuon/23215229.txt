@@ -1,2 +1,0 @@
-Quiz: Đoán tên quốc gia qua quốc hoa
-Mỗi nước đều chọn riêng cho mình một loài hoa tượng trưng cho vẻ đẹp của quốc gia đó, bạn có biết hết các quốc gia đó không?

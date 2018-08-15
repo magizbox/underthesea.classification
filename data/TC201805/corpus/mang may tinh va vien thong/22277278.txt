@@ -1,2 +1,0 @@
-Hướng dẫn chi tiết 4 biện pháp khẩn cấp phòng ngừa mã độc WannaCry
-Theo Công ty bảo mật an ninh mạng SecurityBox, 4 biện pháp khẩn cấp để phòng ngừa mã độc WannaCry hiện nay đó là cập nhật bản vá hệ điều hành, tắt tạm dịch vụ SMB trong máy tính, cập nhật phần mềm diệt virus và không click mở các file tài liệu từ email lạ.

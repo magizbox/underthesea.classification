@@ -1,2 +1,0 @@
-Công nghệ điện toán nhận thức hỗ trợ điều trị ung thư chính thức triển khai tại Việt Nam
-Ngày 12/12, tại Hà Nội, đã diễn ra lễ công bố hợp tác triển khai IBM Watson for Oncology- công nghệ điện toán biết nhận thức hỗ trợ bác sỹ đưa ra các lựa chọn ung thư dựa trên bằng chứng của Tập đoàn IBM và Công ty Five9 Việt Nam. Chương trình có sự tham dự của Thứ trưởng Bộ y tế Nguyễn Viết Tiến cùng nhiều đại diện đến từ các cơ sở y tế và cơ quan truyền thông trên cả nước.

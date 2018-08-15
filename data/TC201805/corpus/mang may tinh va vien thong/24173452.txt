@@ -1,2 +1,0 @@
-Apple khẳng định Face ID chỉ hỗ trợ một người dùng
-So với cảm biến Touch ID cho phép thiết lập nhiều dấu vân tay khác nhau để đăng nhập, tính năng nhận dạng khuôn mặt Face ID trên iPhone X sẽ không hỗ trợ đa người dùng.

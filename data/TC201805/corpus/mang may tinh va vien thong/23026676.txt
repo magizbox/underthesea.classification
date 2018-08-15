@@ -1,2 +1,0 @@
-Xây dựng thành phố thông minh không thể thiếu Trung tâm Điều hành An ninh mạng
-Trong bối cảnh tình hình an ninh mạng diễn biến phức tạp, xây dựng các Trung tâm Điều hành An ninh mạng đang được coi như một phần quan trọng trong lời giải cho bài toán an toàn thông tin.

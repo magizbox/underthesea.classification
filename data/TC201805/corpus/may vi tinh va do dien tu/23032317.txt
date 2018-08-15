@@ -1,2 +1,0 @@
-FrontRow: Camera "nhật ký" trong hình dạng mặt dây chuyền
-Công ty Ubiquiti vừa qua đã giới thiệu thiết bị có tên là FrontRow: Một chiếc camera hình dạng một chiếc dây chuyền được thiết kế để ghi lại các khoảnh khắc trong cuộc sống của bạn một cách tự động.

@@ -1,2 +1,0 @@
-Apple tung bản cập nhật iOS 10.3.1 vá lỗi bảo mật Wi-Fi
-Chỉ chưa đầy một tuần sau khi tung ra bản cập nhật iOS 10.3, rạng sáng 4.4 (theo giờ Việt Nam), Apple đã tiếp tục phát hành bản cập nhật iOS 10.3.1 vá lại một lỗ hổng liên quan đến Wi-Fi.

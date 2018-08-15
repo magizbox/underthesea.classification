@@ -1,2 +1,0 @@
-TPBank: Phát hành thành công thẻ chip ATM và thẻ contactless
-TPBank phát hành thành công thẻ ghi nợ nội địa (ATM) công nghệ chip, giúp chống lại rủi ro ăn cắp dữ liệu thẻ bằng phương pháp cài thiết bị đọc trộm thẻ (skimming) khi giao dịch tại các cây ATM.

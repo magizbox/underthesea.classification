@@ -1,2 +1,0 @@
-Mozilla thử nghiệm công cụ mới cho phép gửi 1GB miễn phí, tự hủy
-Mozilla hiện đang thử nghiệm hàng loạt các công cụ và tính năng mới cho browser open-source nổi tiếng này. Trong đó có tính năng Send, một tính năng cho phép chia sẻ 1GB file và dữ liệu tự xóa giữa các ứng dụng web browser.

@@ -1,2 +1,0 @@
-Kalashnikov phát triển module chiến đấu hoàn toàn tự động nhờ thần kinh nhân tạo
-Kalashnikov Concern, tập đoàn sản xuất súng trường AK huyền thoại của Nga, vừa phát triển một module chiến đấu hoàn toàn tự động dựa vào các mạng lưới thần kinh nhân tạo, cho phép nó xác định mục tiêu, học hỏi, và tự đưa ra quyết định.

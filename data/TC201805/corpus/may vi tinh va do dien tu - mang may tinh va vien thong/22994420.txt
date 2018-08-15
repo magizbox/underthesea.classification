@@ -1,2 +1,0 @@
-Loại pin mới hoạt động bằng... nước bọt
-Loại pin mới được phát triển này có thể sử dụng trong những điều kiện khắc nghiệt mà pin bình thường không hoạt động.

@@ -1,2 +1,0 @@
-Valve phát triển AI săn lùng hack trong Counter-Strike để thay thế cho "máy chạy bằng cơm"
-Mới đây, Valve đã chính thức thông báo về việc công ty game này đang tập trung phát triển một phần mềm AI phát hiện hack mới nhằm giảm thiểu tình trạng hack trong CS:GO, tựa game bắn súng eSport đang làm mưa làm gió trên thế giới.

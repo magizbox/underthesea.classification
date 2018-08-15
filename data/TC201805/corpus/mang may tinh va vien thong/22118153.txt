@@ -1,2 +1,0 @@
-Cẩn thận với lỗi gây "đóng băng" iPhone trên phiên bản iOS 10.2 trở lên
-iPhone đang gặp một lỗi gây đóng băng iOS khi người dùng vô tình nhấn vào đồng thời các tùy chọn của trình đơn. Trước khi bạn bắt đầu lo lắng, đây không phải là kiểu lỗi có thể gây đóng băng thiết bị được thực hiện chỉ với một tin nhắn văn bản.

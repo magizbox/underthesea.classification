@@ -1,2 +1,0 @@
-Sếp Apple: Face ID sẽ thành công như Touch ID
-Face ID không hề gặp lỗi trên sân khấu mà đó là một tính năng hỏi mật khẩu khi quét sai quá nhiều lần. Ngoài ra Apple còn cho biết cách ứng phó khi bị người khác uy hiếp mở máy.

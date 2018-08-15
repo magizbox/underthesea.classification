@@ -1,2 +1,0 @@
-Kaspersky: Thư rác chiếm 56% lưu lượng email toàn cầu
-Trong quý đầu tiên của năm 2017, giới phát tán thư rác có xu hướng làm phức tạp các kỹ thuật chống phát hiện bằng nhiều cách, đơn cử là 'ngụy trang' phần mềm độc hại trong các tập tin đã được bảo vệ bằng mật khẩu.

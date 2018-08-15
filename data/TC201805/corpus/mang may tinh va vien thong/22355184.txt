@@ -1,2 +1,0 @@
-Có hay không 'thuốc đặc trị' mọi biến thể WannaCry?
-Trong tâm bão mã độc WannaCry, việc tập đoàn công nghệ CMC (CMC InfoSec) tuyên bố tìm ra “thuốc đặc trị” mọi biến thể của vi rút tống tiền (ransomware) khiến dư luận thực sự bất ngờ.

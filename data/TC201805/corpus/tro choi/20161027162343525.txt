@@ -1,2 +1,0 @@
-Hướng dẫn khắc phục các lỗi xảy ra khi cài đặt MU Legend
-Trong bài viết này, chúng tôi sẽ tổng hợp các lỗi xảy ra khi cài đặt MU Legend và cách khắc phục.

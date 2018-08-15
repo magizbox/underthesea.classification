@@ -1,2 +1,0 @@
-Benchmark nhanh Adata XPG SX950: ổ SSD dành cho game thủ
-Đây là dòng ổ SSD dùng công nghệ NAND 3D MLC được Adata ra mắt hồi tháng 3/2017. Hướng đến đối tượng người dùng thích chơi game, sản phẩm tiếp dụng khai thác giao tiếp SATA III nhằm mang lại hiệu năng đọc/ghi gần như tối đa đối với chuẩn này.

@@ -1,2 +1,0 @@
-Cảnh báo hình thức lây nhiễm mới của virus mã hóa dữ liệu
-Ngày 9-3, Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam (VNCERT) đã phát đi cảnh báo về cảnh báo về hình thức lây nhiễm mới của mã độc mã hóa tài liệu (Ramsomware). Biện pháp được khuyến nghị là người dùng cần tắt chế độ tự động mở, chạy tập tin đính kèm thư điện tử.

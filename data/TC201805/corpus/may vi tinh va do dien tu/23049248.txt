@@ -1,2 +1,0 @@
-Chip Qualcomm sẽ giúp camera điện thoại nhận diện độ sâu 3D
-Hồi năm 2016, Qualcomm đã tung ra hệ thống camera kép Clear Sight. Hệ thống này được phát triển dựa trên bộ xử lý hình ảnh Spectra ISP (image signal processor) của hãng, kết hợp cả 2 cảm biến hình ảnh RGB cùng monochrome.

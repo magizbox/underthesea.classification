@@ -1,2 +1,0 @@
-Chế tạo thành công robot tí hon có thể nhảy gấp 10 lần cơ thể
-Salto-1P được thiết kế để mô phỏng khả năng nhảy của nhiều loài động vật.

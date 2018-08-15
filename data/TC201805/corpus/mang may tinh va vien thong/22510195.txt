@@ -1,2 +1,0 @@
-Tin tặc sử dụng công cụ của Intel để vượt tường lửa Windows
-Một nhóm tin tặc có tên gọi PLATINUM đã sử dụng công cụ Active Management Technology (AMT), có sẵn trên các bộ vi xử lý và chipset vPro của Intel để vượt qua tường lửa Windows.

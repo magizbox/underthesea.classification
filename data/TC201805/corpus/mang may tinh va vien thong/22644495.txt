@@ -1,2 +1,0 @@
-Hướng dẫn khóa SMB để ngăn chặn dạng virus Petya, WannaCry
-Petya có điểm giống với mã độc tống tiền WannaCry từng làm cả thế giới chao đảo hơn 1 tháng trước, đó là khả năng lây lan nhanh qua mạng nội bộ LAN bằng cách lợi dụng lỗ hổng của SMB v1, vì thế chúng ta cần vô hiệu hóa giao thức này.

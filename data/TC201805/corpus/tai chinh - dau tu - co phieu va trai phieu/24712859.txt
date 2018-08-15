@@ -1,2 +1,0 @@
-HOSE mất kết nối vào cuối phiên, thị trường 'treo cứng' phiên ATC
-Các lệnh giao dịch không thể khớp đối ứng trong phiên ATC và bảng giá của các CTCK vẫn ở trạng thái tê liệt.

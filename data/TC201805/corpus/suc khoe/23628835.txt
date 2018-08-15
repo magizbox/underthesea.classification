@@ -1,2 +1,0 @@
-Lần đầu tiên ứng dụng hệ thống O-ARM và T2 Altitude trong chấn thương cột sống
-NDĐT – Mặc dù hệ thống định vị không gian ba chiều chính xác O-ARM được đưa về ứng dụng tại Bệnh viện Bạch Mai từ cuối năm 2016 nhưng mới đây, Bệnh viện Bạch Mai mới tiến hành ứng dụng hệ thống T2 Altitude trong chấn thương cột sống và thay thân đốt sống nhân tạo cho một bệnh nhân đầu tiên.

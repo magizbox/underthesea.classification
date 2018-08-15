@@ -1,2 +1,0 @@
-Nguy cơ bị hacker tấn công khi xem phim bật phụ đề
-Tin tặc có thể lợi dụng các tập tin phụ đề phim (subtitle) để kiểm soát máy tính người dùng mà nạn nhân không hề hay biết.

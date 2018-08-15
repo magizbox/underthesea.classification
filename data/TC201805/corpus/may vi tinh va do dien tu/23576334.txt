@@ -1,2 +1,0 @@
-Đã có thể điều khiển Chromecast bằng Google Assistant
-Google xác nhận rằng bạn có thể sử dụngGoogle Assistant được cài đặt trên điện thoại để điều khiển việc phát các nộidung trên điện thoại thông qua thiết bị Chromecast.

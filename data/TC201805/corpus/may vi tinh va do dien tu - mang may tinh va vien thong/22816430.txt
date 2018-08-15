@@ -1,2 +1,0 @@
-TPHCM: Ứng dụng GIS và mạng xã hội vào quản lý giao thông
-Viện Khoa học và Công nghệ Tính toán TPHCM đã dành ngân sách 580 triệu trong năm 2017, để triển khai “Ứng dụng hệ thống thông tin địa lý ( GIS) và mạng xã hội trong quản lý giao thông đô thị với điều kiện thời tiết khắc nghiệt” với tên gọi Smart Saigon.

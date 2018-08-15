@@ -1,6 +1,0 @@
-" Khi sinh ra, mỗi chúng ta đều được đưa cho một mảnh giấy trắng để viết những điều chúng ta muốn. Một số chỉ viết rất ít, một số viết rất nhiều, còn một số lại cho phép người khác viết thay mình. Vậy lỗi này thuộc về ai? ".
- 
-[ Trích : Dám thất bại ]
-
-Tác giả : Billi P.S. Lim
-Admin : Cát Bụi

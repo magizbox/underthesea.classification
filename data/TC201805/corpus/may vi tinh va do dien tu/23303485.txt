@@ -1,2 +1,0 @@
-Cách chữa lỗi Touch ID xử lý chậm trên iPhone
-Touch ID gặp sự cố ảnh hưởng rất nhiều đến các hoạt động trên iOS được gắn với tính năng này, như mở khóa iPhone, cho phép kết nối máy tính hay xác thực Apple Pay.

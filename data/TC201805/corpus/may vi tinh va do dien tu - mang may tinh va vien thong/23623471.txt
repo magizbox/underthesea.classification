@@ -1,2 +1,0 @@
-Cấu trúc & xây dựng Thành phố thông minh
-Gần đây, nhiều lãnh đạo từ trung ương đến địa phương đã nói về xây dựng các TPTM (hoặc ĐTTM). Chúng ta sẽ sử dụng 2 thuật ngữ TPTM và ĐTTM như 2 thuật ngữ tương đương. Bài viết bên dưới sẽ nói rõ hơn về quá trình xây dựng và triển khai ĐTTM hay TPTM.

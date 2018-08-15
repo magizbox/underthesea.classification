@@ -1,2 +1,0 @@
-Bản vá lỗi Spectre của Google sẽ không làm chậm hiệu năng thiết bị
-Google vừa khẳng định, bản vá có tên Retpoline sẽ khắc phục được lỗ hổng Spectre, vốn được coi là khó xử lý nhất trên tất cả các thiết bị sử dụng nền tảng của mình.

@@ -1,2 +1,0 @@
-Đồ chơi thông minh làm lộ hàng triệu thông tin đời tư về người dùng
-Một lỗ hổng bảo mật nghiêm trọng đã khiến hàng triệu thông tin cá nhân, ảnh và đoạn ghi âm giọng nói trẻ em và người lớn của người dùng thú nhồi bông thông minh, do hãng CloudPets sản xuất, bị rò rỉ ra bên ngoài.

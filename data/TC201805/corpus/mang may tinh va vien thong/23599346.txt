@@ -1,2 +1,0 @@
-Apple, Google, Microsoft cùng đưa ra biện pháp xử lý lỗ hổng bảo mật Wi-Fi
-Theo tin đã đưa, các mạng Wi-Fi đã xuất hiện những lỗ hổng để tin tặc có thể tấn công và ăn cắp thông tin. Trước tình trạng mất an toàn khi sử dụng kết nối Internet không dây, các 'ông lớn' trong lĩnh vực công nghệ có động thái gì để bảo vệ khách hàng của mình?

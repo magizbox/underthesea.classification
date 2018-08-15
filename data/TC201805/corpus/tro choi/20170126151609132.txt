@@ -1,2 +1,0 @@
-Overwatch có thể "biến" thành game ô vuông, bạn cũng làm được đấy
-Overwatch có thể thiết lập đồ hoạ xuống 100 x 105 pixels và các hình ảnh sẽ bị... vỡ nát thành ô vuông trông rất buồn cười.

@@ -1,2 +1,0 @@
-Hacker 'cảnh báo' nhiều lỗ hổng website sân bay Tân Sơn Nhất
-Không can thiệp vào dữ liệu trong hệ thống thông tin của sân bay Tân Sơn Nhất và Rạch Giá, hacker chỉ "muốn cảnh báo bạn là website của bạn có nhiều lỗ hổng" đồng thời để lại địa chỉ liên lạc mà "hồn nhiên" không biết rằng họ đang vi phạm pháp luật.

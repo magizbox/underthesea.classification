@@ -1,2 +1,0 @@
-Hệ thống trí tuệ nhân tạo giúp phát hiện nhiễm trùng máu
-Các nhà vi trùng học tại Trung tâm Y tế Beth Israel Deaconess (BIDMC) ở Boston, Mỹ đã phát triển một hệ thống trí tuệ nhân tạo có khả năng phát hiện các nhiễm trùng máu để hỗ trợ chẩn đoán bệnh. Các kết quả được công bố trên Tạp chí Journal of Clinical Microbiology.

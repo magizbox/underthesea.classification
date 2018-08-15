@@ -1,2 +1,0 @@
-Ứng dụng Runtastic thêm tính năng để kêu gọi người chạy bộ bảo vệ đại dương
-Người chạy tại TP.HCM và nhiều địa địa điểm khác toàn thế giới đã cài Runtastic để cùng nhau tạo một đường chạy "số", với mục đích nâng cao ý thức bảo vệ đại dương.

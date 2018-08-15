@@ -1,6 +1,0 @@
-" Một nhóm và tổ chức sáng tạo hàng đầu cần giữ được tinh thần tôn trọng lẫn nhau, nhưng vẫn tranh biện mạnh mẽ về ý tưởng. "
-
-[ Trích: Ý tưởng kỳ quặc tạo ra đột phá ]
-
-Tác giả: Robert I.Sutton
-Admin: Hạ Phong

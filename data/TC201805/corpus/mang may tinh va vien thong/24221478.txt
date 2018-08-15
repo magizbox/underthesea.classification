@@ -1,2 +1,0 @@
-Teamviewer dính lỗ hổng bảo mật cực kỳ nghiêm trọng
-Cả ba hệ điều hành Windows, Mac và Linux đều xuất hiện một lỗ hổng bảo mật nghiêm trọng với Teamviewer, phần mềm nổi tiếng giúp người dùng điều khiển máy tính từ xa.

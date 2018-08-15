@@ -1,2 +1,0 @@
-Ứng dụng công nghệ điện toán vào điều trị ung thư
-Công nghệ điện toán giúp các bác sĩ ung bướu lựa chọn phác đồ điều trị hiệu quả cho bệnh nhân ung thư.

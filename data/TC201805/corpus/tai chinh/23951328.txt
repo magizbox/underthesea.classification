@@ -1,2 +1,0 @@
-Hạn chế dịch vụ 'cơi nới' rút tiền qua máy POS
-Dịch vụ rút tiền mặt từ thẻ tín dụng qua máy POS đang rất phổ biến. Tuy nhiên, đa số những người chấp nhận rút tiền từ thẻ tín dụng với hạn mức lên đến 100% thường có khả năng không trả được nợ rất cao, nhiều trường hợp, khách hàng bế tắc buộc phải đi vòng qua kênh này để xoay bằng được tiền mặt trả khoản nợ đến hạn khác.

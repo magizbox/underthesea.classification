@@ -1,2 +1,0 @@
-Tập tin phụ đề có thể khiến máy tính bị hack
-Công ty bảo mật Check Point vừa phát hiện ra một lỗ hổng trên các ứng dụng media player, cho phép tội phạm mạng chiếm quyền điều khiển máy tính, smartphone hoặc smart TV.

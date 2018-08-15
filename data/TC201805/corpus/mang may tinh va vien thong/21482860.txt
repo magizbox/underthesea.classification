@@ -1,2 +1,0 @@
-Hệ thống thăm dò ý kiến về loa phường ngừng hoạt động
-Sau khi số liệu "nhảy múa" từ vài nghìn bình chọn lên hàng chục nghìn, hệ thống thăm dò ý kiến về loa phường của Cổng giao tiếp điện tử Hà Nội không còn truy cập được.

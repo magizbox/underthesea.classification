@@ -1,2 +1,0 @@
-Phẫu thuật robot tại Bệnh viện Chợ Rẫy
-Ngày 23/10/2017, lễ khánh thành 'Triển khai phẫu thuật robot tại Bệnh viện Chợ Rẫy' diễn ra tại đơn vị y tế này. Đây là một trong những ứng dụng khoa học công nghệ tân tiến nhất của thế giới vào lĩnh vực y khoa. Hệ thống phẫu thuật robot của BV. Chợ Rẫy là hệ thống hiện đại nhất hiện nay và đang được ứng dụng rộng rãi trên toàn thế giới, đặc biệt là tại châu Âu và Mỹ.

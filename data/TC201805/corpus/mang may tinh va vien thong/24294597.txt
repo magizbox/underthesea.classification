@@ -1,2 +1,0 @@
-Cách gỡ bỏ phần mềm keylogger trên 460 laptop HP
-Nhà nghiên cứu bảo mật Michael Myng vừa phát hiện ra keylogger, phần mềm ghi lại mọi thao tác trên bàn phím, được phát hiện cài sẵn trên 460 mẫu laptop HP bao gồm các dòng EliteBook, ProBook, Pavilion và Envy.

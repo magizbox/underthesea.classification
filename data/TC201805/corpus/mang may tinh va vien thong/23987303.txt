@@ -1,2 +1,0 @@
-Người dùng Facebook không còn xóa được status trên web
-Trên phiên bản web, người dùng không còn được cung cấp tùy chọn xóa bài đăng nữa. Trong khi đó, ứng dụng Facebook trên mobile vẫn còn mục này.

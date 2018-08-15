@@ -1,2 +1,0 @@
-Ứng dụng bàn phím GO chuyển thông tin 200 triệu người dùng về Trung Quốc
-Ứng dụng bàn phím GO hiện có tới hơn 200 triệu người dùng trên thế giới đang bị cho là gián điệp truy cập thông tin để gửi về máy chủ ở Trung Quốc.

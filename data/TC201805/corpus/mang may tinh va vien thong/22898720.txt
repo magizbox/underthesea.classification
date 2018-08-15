@@ -1,2 +1,0 @@
-Những điều kiện cần thiết để doanh nghiệp chuyển hóa lên điện toán đám mây
-Theo nhận định của Gartner, với bối cảnh dịch vụ điện toán đám mây dự kiến tăng trưởng gần gấp ba lần từ 23,3 tỷ USD trong năm 2016 lên tới 68,4 tỷ USD vào năm 2020, cơ sở hạ tầng điện toán đám mây hiện đang là xu hướng mới với sự phát triển mạnh mẽ. Khi các doanh nghiệp đang dần chuyển đổi lên Cơ sở hạ tầng như một dịch vụ (IaaS), việc cân nhắc lựa chọn giải pháp điện toán đám mây phù hợp là điều cần thiết.

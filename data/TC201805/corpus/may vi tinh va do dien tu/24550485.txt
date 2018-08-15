@@ -1,2 +1,0 @@
-Hướng dẫn cách cải thiện pin đáng kể cho máy tính Windows 10
-Giống như các phiên bản trước, Windows 10 đi kèm với một loạt các tính năng giúp tăng thời lượng pin, bao gồm cả tùy chọn Battery Saver mới. Tuy nhiên, nếu bạn muốn kéo dài thêm thời lượng pin sử dụng thì có thể sử dụng một số biện pháp dưới đây:

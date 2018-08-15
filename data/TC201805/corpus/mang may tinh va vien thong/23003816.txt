@@ -1,2 +1,0 @@
-Đổi khóa DNSSEC, đảm bảo an toàn cho máy chủ tên miền gốc
-(ICTPress) - Để đảm bảo an toàn cho hệ thống máy chủ tên miền DNS gốc (DNS ROOT) đang sử dụng tiêu chuẩn DNSSEC, Cơ quan quản lý tên miền và địa chỉ Internet quốc tế (ICANN) đã lên kế hoạch và thông báo thay đổi khóa DNSSEC KSK trên hệ thống DNS ROOT trong tháng 10/2017.

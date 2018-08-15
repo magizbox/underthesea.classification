@@ -1,2 +1,0 @@
-VTC Intecom triển khai Microsoft Azure
-VTC Intecom và Microsoft chính thức công bố việc triển khai thành công Microsoft Azure tại VTC Intecom.

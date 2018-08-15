@@ -1,2 +1,0 @@
-Nhận diện lòng bàn tay Palm ID chính xác hơn cả nhận diện khuôn mặt
-Công nghệ nhận diện lòng bàn tay tuy khá mới nhưng hứa hẹn có độ chính xác cao hơn nhận diện khuôn mặt và rất dễ tích hợp lên bất cứ thiết bị nào có camera.

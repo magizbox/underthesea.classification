@@ -1,2 +1,0 @@
-EXIF.co, trang web giúp các nhiếp ảnh gia bảo vệ bản quyền ảnh
-EXIF.co là một dịch vụ lưu trữ ảnh của các nhiếp ảnh gia. Trang web này sẽ tự động "đóng" vào các hình ảnh một smart watermark và cung cấp các phương thức bảo vệ khác khi người dùng tải các hình ảnh lên.

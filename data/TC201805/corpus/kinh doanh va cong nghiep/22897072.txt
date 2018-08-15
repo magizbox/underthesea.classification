@@ -1,2 +1,0 @@
-Bài toán tính lãi bán bò khiến nhiều người chào thua, còn bạn?
-Mua một con bò giá 10 triệu, bán 12 triệu, sau đó mua lại con bò đó 15 triệu, bán 17 triệu. Hỏi người bán lãi hay lỗ?

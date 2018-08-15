@@ -1,2 +1,0 @@
-Windows 10 dính lỗi bảo mật có thể làm lộ mật khẩu
-Bản cài đặt Windows 10 cho các nhà phát triển có thể bị bất kỳ trang web nào lấy trộm dữ liệu mật khẩu.

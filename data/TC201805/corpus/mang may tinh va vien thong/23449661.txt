@@ -1,2 +1,0 @@
-Đảm bảo an ninh, an toàn dữ liệu cho đô thị thông minh
-Việc bảo đảm an ninh, an toàn dữ liệu tập trung, dữ liệu của các cơ quan, doanh nghiệp cũng như an toàn đường truyền, kết nối là rất quan trọng trong việc triển khai xây dựng đô thị thông minh.

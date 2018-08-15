@@ -1,2 +1,0 @@
-Robot đã học được cách làm việc với nhau và tạo ra ngôn ngữ riêng
-Một báo cáo nghiên cứu mới cho thấy các robot đã học được cách giao tiếp với nhau bằng cách tạo ra ngôn ngữ riêng của chúng.

@@ -1,2 +1,0 @@
-Nghiên cứu các yếu tố tác động đến cấu trúc kỳ hạn nợ của doanh nghiệp bất động sản
-Khảo sát hiện nay cho thấy, ở Việt Nam rất ít công trình nghiên cứu chuyên sâu về vấn đề cấu trúc kỳ hạn nợ đối với doanh nghiệp thuộc nhóm ngành bất động sản. Bài viết nghiên cứu vấn đề này bằng việc xác định các yếu tố ảnh hưởng đến cấu trúc kỳ hạn nợ của 47 công ty kinh doanh bất động sản niêm yết trên Sở Giao dịch Chứng khoán TP. Hồ Chí Minh trong giai đoạn từ năm 2010 đến 2016 bằng việc sử dụng phương pháp Sys-GMM hai bước trên dữ liệu bảng.

@@ -1,2 +1,0 @@
-Apple "ém" tính năng kéo-thả trong iOS 11 để dành cho iPhone 8
-Bộ mã nguồn trong iOS 11 đã vô tình hé lộ iPhone 8 sắp ra mắt sẽ trang bị tính năng Drag and Drop cho phép người dùng có thể kéo thả dữ liệu hình ảnh, văn bản, link liên kết dễ dàng giữa nhiều ứng dụng.

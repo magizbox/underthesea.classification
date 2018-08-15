@@ -1,2 +1,0 @@
-Cục An toàn thông tin xây dựng công cụ kiểm tra lộ lọt mật khẩu email
-NDĐT – Cục An toàn thông tin thuộc Bộ Thông tin và Truyền thông vừa xây dựng trang web cho phép người dùng có thể kiểm tra xem email của mình có nằm trong danh sách 1,4 tỷ tài khoản bị lộ mật khẩu hay không.

@@ -1,2 +1,0 @@
-Uber sẽ dùng AI để tính tiền dịch vụ
-Thuật toán máy học (machine learning) của Uber sẽ sử dụng thông tin điểm đến và điểm đi để xác định số tiền tối đa mà người dùng có thể chi trả.

@@ -1,2 +1,0 @@
-Phần mềm độc hại mới nhắm vào webcam và camera giám sát
-Lấy cảm hứng từ Mirai, phần mềm độc hại nhắm vào các thiết bị webcam và camera để kết nối và đặt chúng dưới sự kiểm soát của tin tặc.

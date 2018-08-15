@@ -1,2 +1,0 @@
-Dùng thử ứng dụng camera của Google Pixel trên các máy Android khác
-Được đánh giá rất cao trên các thiết bị Pixel và Nexus, nhưng Google Camera lại không hỗ trợ những thiết bị chạy Android khác dù có thông số vi xử lý hay camera tương tự nhau.

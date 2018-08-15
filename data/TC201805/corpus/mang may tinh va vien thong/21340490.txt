@@ -1,2 +1,0 @@
-Ứng dụng tìm mạng wifi và mật khẩu tại các sân bay lớn trên thế giới
-WiFox là ứng dụng liên tục cập nhật các thông tin mới nhất về mật khẩu wifi của các sân bay trên khắp thế giới.

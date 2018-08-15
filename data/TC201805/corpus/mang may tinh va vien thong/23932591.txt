@@ -1,2 +1,0 @@
-Cần làm gì khi 'Dữ liệu Lớn' quá lớn?
-Vào những năm 1950, các nhà khoa học đã đưa ra kết luận rằng, bộ não con người chỉ có thể nhớ lại một danh sách khoảng bảy vấn đề. Năng lực của não từ đó không có nhiều thay đổi - nhưng lượng dữ liệu dội vào trí óc chúng ta thì chắc chắn đã lớn hơn trước rất nhiều.

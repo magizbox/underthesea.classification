@@ -1,2 +1,0 @@
-Tận mắt robot có khả năng chăn bò
-Swag Bot là robot có khả năng chăn bò, chạy vượt địa hình với vận tốc 20 km/h. Sản phẩm đang được phát triển ở Australia để hỗ trợ công việc ở các trang trại lớn.

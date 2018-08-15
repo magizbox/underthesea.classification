@@ -1,2 +1,0 @@
-Những tính năng ẩn bí mật trên hệ điều hành iOS
-Mặc dù đã xuất hiện khá lâu và qua nhiều lần nâng cấp, nhưng vẫn còn một số tính năng như cử chỉ, camera, bổ trợ,...vẫn chưa được khai thác hết.

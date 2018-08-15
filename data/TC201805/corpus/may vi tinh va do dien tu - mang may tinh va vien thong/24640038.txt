@@ -1,2 +1,0 @@
-Robot phục vụ trong gia đình
-Nhóm tác giả Lê Tấn Đức, Nguyễn Trung Hướng, Lương Thành Đạt – sinh viên Trường đại học sư phạm kỹ thuật TP.HCM - đã sáng chế ra robot với mục đích phục vụ nhu cầu quản lý, hỗ trợ, giải trí … trong gia đình.

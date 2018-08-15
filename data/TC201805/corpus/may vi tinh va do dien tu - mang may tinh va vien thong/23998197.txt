@@ -1,2 +1,0 @@
-Phân tích phần tử hữu hạn phi tuyến cho kết cấu bê tông cốt thép và thí nghiệm kiểm chứng
-Ứng xử phi tuyến của kết cấu bê tông cốt thép (BTCT) vẫn là một thách thức trong nghiên cứu do các đặc trưng phân tán và không đồng nhất của các vật liệu cấu thành, do khả năng mô phỏng sự tương tác giữa bê tông và cốt thép cũng như sự hình thành và phát triển của các vết nứt.

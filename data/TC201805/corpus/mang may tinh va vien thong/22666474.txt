@@ -1,2 +1,0 @@
-CIA có thể xâm nhập vào máy tính cả khi không có Internet?
-Bằng cách xâm nhập vào các máy tính kết nối Internet trong cùng hệ thống, Brutal Kangaroo có thể lấy cắp thông tin từ các máy tính bị cô lập thông qua USB.

@@ -1,2 +1,0 @@
-Trung Quốc sắp sử dụng trí tuệ nhân tạo để dự đoán tội phạm
-Hệ thống trí tuệ nhân tạo sẽ tiến hành nhận diện khuôn mặt, phân tích hình vi của những kẻ tình nghi xuất hiện trên camera giám sát, từ đó dự đoán khả năng phạm tội của các đối tượng này.

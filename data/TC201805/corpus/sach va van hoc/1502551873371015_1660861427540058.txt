@@ -1,3 +1,0 @@
-Giống như nhện xây tổ vậy một bên kiên trì xây 1 bên đợi để cản trở. Nếu số lần xây vượt qua số lần cản trở kết quả là thành công. Nếu số lần xây không vượt qua được số lần bị cản trở nghĩa là thất bại. Thất bại tồn tại không chỉ một lần. Chúng ta cũng vậy nếu ta kiên trì vượt qua cản trở nghĩa là chúng ta thêm một lần chiến thắng không vượt qua là tự thêm cho mình một lần thất bại. Chiến thắng bản thân là chiến thắng vinh quang nhất. 
-
-Admin: cá

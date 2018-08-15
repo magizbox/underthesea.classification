@@ -1,2 +1,0 @@
-Sinh viên chế tạo máy hỗ trợ ăn uống
-Chứng kiến các cụ già, trẻ em và bệnh nhân mắc bệnh parkinson (bệnh liệt rung) bị run tay, khó khăn trong việc ăn uống, nhóm sinh viên đến từ Trường đại học Sư phạm Kỹ thuật TP Hồ Chí Minh đã cùng nhau thiết kế, chế tạo máy hỗ trợ ăn uống với tên gọi Feedbot. Sản phẩm đã được thực nghiệm tại mái ấm Thiên Ân (quận Thủ Đức) và được đánh giá là thiết thực, hiệu quả và giàu tính nhân văn.

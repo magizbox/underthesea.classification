@@ -1,2 +1,0 @@
-Gần 82% ứng dụng Android khởi chạy dù không được yêu cầu
-Trung bình mỗi người dùng có khoảng 66 ứng dụng trên thiết bị Android của họ. Khi thực hiện một bài kiểm tra cho 66 ứng dụng phổ biến này, 54 ứng dụng khởi chạy trong khi người dùng không hề chạm vào chúng, tiêu tốn 22MB dung lượng mỗi ngày mà người dùng không hề hay biết.

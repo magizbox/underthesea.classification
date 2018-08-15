@@ -1,2 +1,0 @@
-FPT vận hành hệ thống ngân hàng lõi cho Ngân hàng Nhà nước Việt Nam
-Ngày 11-7, Tập đoàn FPT phối hợp với Ngân hàng Nhà nước (NHNN) Việt Nam công bố vận hành hệ thống ngân hàng lõi, kế toán, lập ngân sách và tích hợp hệ thống của NHNN. Hệ thống này thuộc hợp đồng SG3.1, Dự án FSMIMS sử dụng vốn vay của Ngân hàng thế giới.

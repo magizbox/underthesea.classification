@@ -1,2 +1,0 @@
-Dùng graphene phát hiện tế bào ung thư não
-Bằng cách dùng graphene, các nhà khoa học đã có thể phân biệt tế bào ung thư với tế bào khỏe mạnh

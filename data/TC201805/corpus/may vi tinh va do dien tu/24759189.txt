@@ -1,2 +1,0 @@
-CNTTT: Cách chuyển dữ liệu không cần dây cáp
-Send Anywhere cho phép người dùng chuyển dữ liệu qua lại giữa smartphone và máy tính hoặc ngược lại mà không cần phải dùng đến cáp kết nối, giúp tiết kiệm thời gian hơn so với cách thông thường.

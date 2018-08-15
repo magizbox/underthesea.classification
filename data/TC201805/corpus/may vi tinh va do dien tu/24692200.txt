@@ -1,2 +1,0 @@
-Hình ảnh đầu tiên về hệ điều hành bí mật của Google sẽ thay thế Android
-Google hiện vẫn giấu nhẹm thông tin về hệ điều hành (OS) thứ ba của hãng, do nó vẫn chưa phải là một OS hoàn thiện. Tuy nhiên, khi Fuchsia sẵn sàng trình làng, hệ điều hành mới này được tin có đủ khả năng hủy diệt Android và Chrome OS, mang tới cho người dùng trải nghiệm thống nhất ở mọi thiết bị.

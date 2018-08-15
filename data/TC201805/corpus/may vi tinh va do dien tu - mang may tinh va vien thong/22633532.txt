@@ -1,2 +1,0 @@
-Những điều cần biết về kiến trúc xanh công nghệ cao
-Kiến trúc công nghệ cao và kiến trúc xanh là hai phạm trù riêng biệt của thiết kế kiến trúc. Tuy nhiên, sự kết hợp của hai yếu tố này đem lại những hiệu quả thiết kế thiết thực, giúp giảm chi phí và tiết kiệm năng lượng hơn so với kiến trúc thông thường. Bài viết đi sâu vào định nghĩa, giải thích và đánh giá loại hình kiến trúc xanh công nghệ cao, một khái niệm khá mới mẻ.

@@ -1,2 +1,0 @@
-eBank của TPBank mở tính năng thanh toán mua vàng đón ngày Thần tài
-Tính năng thanh toán mua vàng qua ứng dụng ngân hàng số eBank của TPBank, giúp khách hàng có thể dễ dàng mua vàng SJC tại bất kỳ thời gian nào, sau đó nhận vàng tại các quầy giao dịch của TPBank. Tính năng này đặc biệt có nhiều tiện lợi, an toàn, trong những thời điểm mà nhu cầu thanh toán mua vàng lên cao như ngày Thần tài - mùng 10 tháng Giêng sắp tới

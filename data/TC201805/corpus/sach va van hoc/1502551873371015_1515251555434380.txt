@@ -1,8 +1,0 @@
-“ Mọi đứa trẻ từ bé đã được dạy rằng khi ở trường, nếu được thầy cô hỏi, chúng phải tự trả lời câu hỏi: Thầy cô muốn câu trả lời thế nào? Bằng việc đưa ra câu trả lời giáo viên mong muốn, bạn học và được lên lớp.
-
-Tuy nhiên, vấn đề là những câu trả lời đó, chẳng có chút sáng tạo vì nó đã có sẵn rồi. Điều chúng ta cần làm với bọn trẻ là khiến chúng đưa ra câu trả lời mà chúng ta không ngờ đến - thể hiện rõ sự sáng tạo. Thế nhưng chúng ta giết chết sự sáng tạo ấy trong chính trường học.”
-
-[ Trích: Nền giáo dục của người giàu ]
-
-Tác giả: Michael Ellsberg
-Admin: Hạ Phong
