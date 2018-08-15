@@ -1,6 +1,0 @@
- Khai trương cổng chính phủ điện tử
-Cổng chính phủ điện tử tại địa chỉ www.egov.gov.vn , là nơi tích hợp các hệ thống thông tin điện tử của Chính phủ (từ các bộ, ngành, địa phương) nhằm tạo điều kiện cho việc trao đổi, phổ biến thông tin giữa chính quyền đến với các tổ chức, doanh nghiệp và công dân một cách thuận tiện. 
-Đây cũng là diễn đàn để Chính phủ, các cơ quan và người dân có thể thảo luận, giải đáp các thắc mắc nhanh chóng và đơn giản. 
-Cổng chính phủ điện tử có cả phiên bản tiếng Anh và tiếng Việt, cập nhật thông tin về tình hình kinh tế - xã hội, hợp tác quốc tế cũng như các thông tin liên quan đến dịch vụ hành chính công hoặc chính sách đối với người dân. 
-Hiện tại, website cung cấp 23.000 văn bản qui phạm pháp luật được ban hành từ năm 1945 đến nay. 
-

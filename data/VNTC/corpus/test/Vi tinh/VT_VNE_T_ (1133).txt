@@ -1,8 +1,0 @@
-Lỗi hình ảnh tác động nhiều trình duyệt web
-Hãng phần mềm an ninh Secunia (Đan Mạch) khuyến cáo người dùng về 6 lỗ hổng trong định dạng hình ảnh mã nguồn mở. Những lỗi này giúp hacker khai thác máy tính chạy Linux, Windows và máy  Mac chạy OS X.
-Các lỗ hổng an ninh trong thư viện hỗ trợ định dạng đồ họa mạng di động - libPNG - bị khai thác trong các chương trình như trình duyệt Mozilla, Opera và các client e-mail. Khiếm khuyết nghiêm trọng nhất là tình trạng tràn bộ đệm, cho phép đồ họa PNG được tạo ra chạy chương trình nguy hiểm khi ứng dụng này tải hình ảnh.
-Theo nhà nghiên cứu an ninh độc lập Chris Evans, ứng dụng mail trên máy Mac chạy hệ điều hành OS X, các trình duyệt Opera và Internet Explorer trên Windows, trình duyệt Mozilla và Netscape chạy hệ điều hành Solaris là những mục tiêu bị tấn công. Tuy nhiên, Apple và Microsoft không bình luận thêm về vấn đề này.
-Cả Microsoft và Linux trước đây cũng đã có vấn đề về an ninh liên quan đến định dạng PNG. 8 tháng trước, Microsoft đã vá lỗi xử lý ảnh PNG của Internet Explorer. Cách đây hai năm, lỗi định dạng nén trong Linux chứa hình ảnh PNG làm gián đoạn những chương trình chạy hệ điều hành cùng tên.
-Đại diện của Secunia cho biết: "Những khiếm khuyết này có thể bị khai thác bằng cách lừa người dùng truy cập vào website nguy hiểm hoặc đọc e-mail có ứng dụng đã bị nhiễm được gắn với libPNG.
-Người dùng có thể tải phiên bản vá lỗi libPNG tại trang web PNG.
-

@@ -1,8 +1,0 @@
-Microsoft tiếp thêm sức mạnh cho Internet Explorer
-Hôm qua, hãng phần mềm vừa đưa ra bản vá lỗi mới nhằm sửa ba lỗ hổng trong bộ trình duyệt của họ. Những khiếm khuyết này xuất hiện trên mọi phiên bản của Internet Explorer. Microsoft khuyến cáo người sử dụng nên cài chúng ngay lập tức.
-Lỗ hổng thứ nhất được liệt vào hàng nghiêm trọng. Lợi dụng nó, kẻ tấn công có thể tạo một đường link quen thuộc, chẳng hạn www.cnn.com. Nhưng khi người dùng click vào địa chỉ đó, một website lạ sẽ nhảy ra thay vì hãng truyền thông của Mỹ. Lỗ hổng này phát hiện từ năm ngoái và Microsoft bị lên án do không chịu khắc phục sớm hơn. Đại diện của hãng nói họ sẽ làm việc này ngay khi có thể, song phải đợi kiểm tra cẩn thận.
-Hai lỗi còn lại là đáng kể". Một trong số chúng nằm trong hệ thống an ninh liên miền (Cross-domain security model), vốn được thiết kế để hỗ trợ Windows từ các miền khác nhau chia sẻ dữ liệu. Nó giúp kẻ tấn công chạy những đoạn mã tại một máy tính từ xa khi hắn lừa được người dùng thăm trang web lạ hay mở e-mail HTML. Lỗi thứ hai cho phép hắn lưu một file trên máy tính nạn nhân. File này không tự động chạy.
-Ngoài ra, bản vá mới cũng thay đổi tính năng nhận dạng cơ bản của Internet Explorer. Sau khi cài, trình duyệt sẽ không hỗ trợ điều khiển tên tuy cập và mật khẩu lưu trong web URLs sử dụng ký hiệu @.
-Theo hệ thống phân loại của Microsoft, lỗ hổng cho phép sâu mạng phát tán tới một bộ phận người dùng mà không cần bất cứ hành động nào bị liệt vào hàng nghiêm trọng. Các lỗi chưa dẫn đến tình cảnh trên, song có thể gây hại cho tài nguyên hệ thống hay moi dữ liệu của nạn nhân, được xem là đáng kể.
-Bản vá lỗi định kỳ hằng tháng của Microsoft dự kiến phát hành vào 10/2. Song do cấp thiết nên hãng đã tung ra bản vá lỗi đột xuất này.
-

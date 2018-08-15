@@ -1,7 +1,0 @@
-Phả hệ khủng long còn nhiều chỗ trống
-Khoảng 500 nhóm khủng long chưa được khoa học biết đến, trong khi những thông tin về chúng và mối liên quan giữa chúng với nhau gần như đã rõ ràng. Con số 500 có vẻ quá lớn, nhưng nó thực sự là số lượng maximum có thể.
-Julia Heathcote, một sinh viên tốt nghiệp Đại học Washington ở St Louis, Mỹ, đã phân tích dữ liệu trên hơn 250 nhóm khủng long (dữ liệu thu thập được trong 150 năm qua) và cây gia đình của chúng để xác định mảng dữ liệu còn bỏ trống so với mảng dữ liệu mà khoa học thực sự có. Cô cũng tính toán sự tương thích giữa hệ thống phân tách trong cây gia đình khủng long với các bằng chứng hóa thạch về chúng.
-Nghiên cứu đã tính ra rằng, cho tới nay, chúng ta mới chỉ điền đủ gia phả của khoảng 1/2 cho đến 2/3 họ khủng long. 
-Heathcote nhấn mạnh công trình của mình có thể được bổ sung bởi những khám phá mới về khủng long, và những đánh giá về sự phù hợp của các phát hiện đó với những nghiên cứu trước.
-Nhiều nghiên cứu trước kia cũng nhằm mục đích cung cấp cây gia đình trọn vẹn của khủng long. Các nhà khoa học tại Đại học Bristol đã kết hợp 150 công trình được công bố để tạo nên một siêu cây gia đình có 277 nhóm.
-

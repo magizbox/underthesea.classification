@@ -1,8 +1,0 @@
- Mozilla tung ra Firefox 1.5 bản chính thức
-Christopher Beard, phó chủ tịch phụ trách sản phẩm của Mozilla cho biết rằng Mozilla đã tung ra bản Firefox 1.5 chính thức đúng theo thời điểm đã hứa hẹn và Mozilla cũng tung ra một chiến dịch tiếp thị lớn nhất từ trước đến nay dành cho trình duyệt có khả năng thay thế hoàn hảo cho Internet Explorer. 
-Cái độc đáo của chiến dịch tiếp thị cho Firefox 1.5 là mọi nguời dùng ở khắp nơi trên thế giới có thể tự mình tạo ra những video clip đặc tả cho độ hữu dụng của Firefox. Khi nhận được những video clip này thì Mozilla sẽ tung lên trang web của mình và kết nối địa chỉ của video clip đến các trang web của từng quốc gia phù hợp. 
-Mozilla cũng hứa hẹn rằng những video clip nào quảng cáo cho Firefox 1.5 hay nhất do người dùng tạo nên ở thời lượng 30 giây sẽ nhận được những phần thưởng đặc biệt từ Mozilla và tác giả của video clip quảng cáo đó sẽ được Mozilla vinh danh ở tầm mức toàn cầu. 
-Tất cả mọi tính năng ưu việt của Firefox 1.5 đều đã được người dùng biết đến thông qua nhiều phiên bản Firefox mà Mozilla đã tung ra suốt một năm qua, nhưng trong bản chính thức 1.5 này tất cả mọi tính năng đều đã được tinh chỉnh và nâng cấp ở mức độ cao nhất. 
-Mozilla đã lên kế hoạch tung ra bản Firefox 2.0 vào khoảng giữa năm 2006 và Firefox 3.0 vào đầu năm 2007. Chỉ sau một năm tung ra bản Firefox 1.0 đầu tiên, đến nay thị phần của trình duyệt Firefox đã vươn lên đến hơn 10% thị phần trình duyệt toàn cầu, điều mà ngay cả những nhà phân tích lạc quan nhất cũng không thể ngờ đến. 
-Hiện nay Mozilla “chưa đủ thời gian” để tung Firefox 1.5 lên trang web chính thức của Firefox nên người dùng có thể vào đây để tải Firefox 1.5 bản chính thức về dùng. 
-

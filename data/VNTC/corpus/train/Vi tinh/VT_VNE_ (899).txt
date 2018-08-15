@@ -1,8 +1,0 @@
-Microsoft thử nghiệm công cụ tìm kiếm hỗn hợp
-Hôm qua, lần đầu tiên hãng phần mềm lớn nhất thế giới chạy thử công cụ tìm kiếm có thể tra cứu thông tin trên các ổ cứng máy tính của mạng cục bộ cũng như trên web.
-Trong buổi trình diễn công nghệ, Phó chủ tịch Microsoft Yusuf Mehdie gõ vài từ khóa tìm kiếm vào trong phiên bản mẫu của MSN Toolbar, phần bổ sung cho trình duyệt Internet Explorer. Các kết quả tìm kiếm, bao gồm e-mail, bản đính kèm, ảnh và tài liệu... hiện lên hầu như tức thời. Kết quả tra cứu từ web với cùng nội dung được hiện lên trên một panel riêng bên tay phải. 
-Microsoft từng có những tuyên bố cho thấy họ quan tâm đến công nghệ tìm kiếm vượt ra ngoài khuôn khổ của web, nhưng thử nghiệm hôm qua là tín hiệu rõ ràng nhất cho thấy hãng đã sẵn sàng tham gia vào cuộc cạnh tranh gay gắt trên thị trường này. 
-Mehdie khẳng định: "Chúng tôi có khả năng tìm kiếm ngoài web một cách nhanh chóng và đã đạt rất nhiều tiến bộ".
-Microsoft, Google và Yahoo đang nỗ lực chuẩn bị cho những nâng cấp lớn vào năm tới bằng cách tăng cường sức mạnh của công cụ tìm kiếm nhằm thu hút thêm nhiều người dùng và các hãng quảng cáo. Những đối thủ cạnh tranh này đang chuyển hướng từ cung cấp công cụ tìm kiếm trên web sang tra cứu các thông tin ẩn sâu trong các ổ cứng máy tính. 
-Đầu tháng 7, Microsoft mua Lookout, một chương trình nhỏ cho phép người dùng sử dụng từ khóa để lọc e-mail, danh sách liên hệ và các thông tin khác. Phần mềm này còn có khả năng tìm kiếm các tập tin trên ổ cứng và cung cấp kết quả gần như tức thời. Mặc dù vậy, Microsoft không cho biết có sử dụng Lookout trong công nghệ tìm kiếm mới của mình hay không. 
-

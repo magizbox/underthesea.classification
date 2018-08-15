@@ -1,6 +1,0 @@
-Da nhân tạo giúp robot 'cảm nhận'
-Một loại da điện mềm dẻo có thể cảm nhận áp suất và nhiệt độ đang được các chuyên gia Nhật Bản phát triển, với mục đích làm vỏ bọc ngoài cho robot, ghế ngồi và thậm chí cả thảm.
-Nhóm nghiên cứu cho biết loại "da" mới không chỉ nhận biết được nhiệt và áp suất, mà còn dẻo dai, rẻ tiền và dễ sản xuất. Công bố sản phẩm trên tạp chí Proceedings of National Academy of Sciences, họ khẳng định thậm chí có thể uốn dẻo loại da này để thực hiện chức năng của da người.
-"Những loại da người nhân tạo có khả năng co giãn hiện vẫn được bán rộng rãi trên thị trường, song chúng thiếu chức năng truyền điện", Takao Someya từ Đại học Tokyo và cộng sự viết.
-Someya và cộng sự sử dụng các mạch điện làm sensor cảm biến áp suất và vật liệu bán dẫn làm sensor đo nhiệt. Họ lồng các sensor này trong lớp phim nhựa mỏng để tạo ra mạng lưới các sensor.Các loại sensor khác cũng có thể gắn vào dễ dàng. "Vì thế trong tương lai gần, chúng ta hoàn toàn có thể tạo ra loại da điện có những chức năng mà da người còn thiếu, bằng cách gắn những sensor khác nhau, không chỉ cảm nhận nhiệt và áp suất, mà còn ánh sáng, độ ẩm, sự căng thẳng và siêu âm", các tác giả nhận định. 
-

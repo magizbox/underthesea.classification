@@ -1,6 +1,0 @@
-Tìm ra gene điều khiển sự phát triển của thực vật
-Các nhà khoa học tại Đại học Utah đã tìm ra một loại gene điều khiển rễ cây phát tín hiệu ra lệnh cho lá ngừng phát triển khi điều kiện sống trở nên bất lợi - chẳng hạn như khi thiếu nước hoặc đất bị nén quá chặt.
-Loại gene này - được đặt tên BPS1 - có chức năng điều khiển sự phát triển của lá cây. Tác động vào gene này có thể làm thay đổi sự phát triển của lá, ngay cả khi cây có đầy đủ thức ăn và nước.
-Khi nhìn vào các cây, bạn thường chỉ quan tâm đến những phần nằm trên mặt đất. Nhưng nghiên cứu này cho thấy chính rễ cây mới là bộ phận đóng vai trò quan trọng trong việc điều khiển sự phát triển của cây ngoài chức năng cung cấp nước và dưỡng chất", Leslie Sieburth, trưởng nhóm nghiên cứu, nói.
-Phát hiện thú vị này giúp chúng ta hiểu được cơ chế hoạt động của cây cối khi gặp hoàn cảnh sống bất lợi. Nó cũng giúp các nhà khoa học tìm ra cách thức tác động về mặt di truyền lên thực vật để chúng phát triển bình thường trong điều kiện khô hạn
-

@@ -1,5 +1,0 @@
- Thêm một lỗi bảo mật Quicktime
-Lỗi bảo mật nằm trong trình chơi các tập tin media của Quicktimes, chạy trên cả hai phiên bản dành cho Windows và Mac OS. Công ty Cupertino, chi nhánh của Apple tại California cho biết, những kẻ tấn công có thể lợi dụng lỗi này bằng cách lừa người dùng mở một tập tin mã độc hại, và sau đó chiếm quyền kiểm soát máy tính. 
-Apple đã cho phát hành bản QuickTime 7.0.4 để chặn đứng lỗi này. Lỗi này được French Security Incident Response Team đánh giá ở mức độ nguy hiểm nhất. 
-Dù vậy, Apple vẫn không đánh giá mức độ nguy hiểm của lỗi này là cao. Họ vẫn khuyến cáo người dùng, đừng bao giờ mở một tập tin media ở một nguồn không đáng tin cậy, bởi vì rất có thể nó sẽ dẫn bạn đến với một hacker. Lỗi kiểu này cũng đã từng xuất hiện trong iTune và QuickTime và được phát hiện lần gần đây nhất là tháng 11 và tháng 12 năm 2005. 
-

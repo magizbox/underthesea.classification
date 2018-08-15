@@ -1,6 +1,0 @@
-GNU/GPL chuẩn bị được điều chỉnh
-Tổ chức phần mềm tự do (FSF) đang rục rịch xúc tiến việc thay đổi nội dung hệ thống luật GNU General Public License phiên bản 2 đã tồn tại hơn 13 năm qua.
-FSF cho rằng nội dung của hệ thống luật này đã có phần hơi lạc hậu và họ sẽ chỉnh sửa, cập nhật cho phù hợp với thiên niên kỷ mới.
-Phiên bản GPL 3 sẽ tập trung vào các vấn đề bằng sáng chế, sở hữu trí tuệ và bản quyền mà vụ kiện đầy tranh cãi của công ty SCO đã xới lên, đồng thời cố gắng làm rõ những khác biệt về luật bản quyền của Mỹ và châu Âu.
-FSF tỏ ra khá kín kẽ về các chi tiết của luật mới mặc dù luật sư chưởng của họ là Eben Moglen nói rằng ông đang cùng Richard Stallman soạn thảo nội dung của hệ thống cấp phép mới và bản dự thảo sẽ sớm được công khai để cả cộng đồng góp ý.
-

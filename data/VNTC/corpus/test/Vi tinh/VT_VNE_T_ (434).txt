@@ -1,5 +1,0 @@
-Truy cập Internet phải xuất trình chứng minh thư
-Các dịch vụ Internet tại Biên Hòa (Đồng Nai) sẽ phải niêm yết công khai nội dung truy cập mạng tại điểm khai thác, đồng thời thông tin liên quan đến người sử dụng phải được lưu tại máy chủ của đại lý trong 30 ngày. 
-Đây là yêu cầu nằm trong Quyết định số 71 do Bộ trưởng công an ban hành hôm 29/1. Theo đó, các dịch vụ Internet phải có sổ đăng ký sử dụng dịch vụ Internet, trong đó thống kê chi tiết thông tin về khách hàng gồm: họ tên, địa chỉ, số chứng minh nhân dân hoặc hộ chiếu, thời gian sử dụng dịch vụ...
-Quyết định cũng yêu cầu các đại lý có giải pháp ngăn chặn việc truy cập đến các trang web mang nội dung xấu và cài đặt chương trình phần mềm có thể quản lý tức thời nội dung thông tin của khách hàng.
-

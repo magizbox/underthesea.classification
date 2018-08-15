@@ -1,5 +1,0 @@
-Hai sinh viên chế tạo máy bay điều khiển từ xa
-Hai sinh viên Vũ Ngọc Ánh và Phạm Đình Chí, đã tốt nghiệp ngành kỹ thuật hàng không ĐH Bách khoa - ĐH Quốc gia TP HCM, vừa thiết kế, chế tạo và bay thử nghiệm thành công chiếc máy bay điều khiển từ xa có trọng tải 10 kg. 
-Chiếc máy bay không người lái này có thể mang được camera quan sát phục vụ tuần tra, kiểm soát tình trạng giao thông, phát hiện kẹt xe, cháy rừng... Ngoài ra, nó có thể chuyên chở thuốc men để cứu trợ trong trường hợp khẩn cấp. 
-PGS Nguyễn Thiện Tống - trưởng bộ môn kỹ thuật hàng không, khoa kỹ thuật giao thông, ĐH Bách khoa - nói rằng điều đáng trân trọng là hai sinh viên này thiết kế toàn bộ chiếc máy bay ngay từ đầu, không dựa trên mô hình có sẵn. Ngọc Ánh cho biết kết quả bay thử nghiệm cho thấy máy bay có thể bay ở độ cao khoảng 100-150 m với vận tốc từ 70 đến 140 km/h.
-

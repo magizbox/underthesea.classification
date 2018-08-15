@@ -1,6 +1,0 @@
-Sâu Atak làm tê liệt công cụ gỡ rối
-Hãng phần mềm bảo mật Panda (Tây Ban Nha) cho biết đây không phải là một nguy cơ quá nghiêm trọng nhưng cũng gây khó chịu cho cộng đồng chống virus vì nó tắt hết các chương trình debug. 
-Atak được phát hiện hôm 12/7. Nó được thiết kế để phá hủy trình gỡ rối debugger vốn được các chuyên gia an ninh dùng để phân tích mã những virus mà họ bắt được. Đây là một âm mưu khập khiễng, nhằm mục đích cản trở những người làm nghề bảo vệ hệ thống, Patrick Hinojosa, Giám đốc công nghệ của Panda, nói. Tất cả các chuyên gia an ninh cứng tay đều dễ dàng bẻ gẫy dạng tấn công này.
-Mặc dù không phải là một mối đe dọa đáng kể, Atak là một ví dụ nữa chứng minh việc hacker ngày càng có xu hướng tấn công và hạn chế khả năng hoạt động của các phần mềm an ninh cũng như của các nhà chuyên môn trong lĩnh vực bảo mật khi khắc chế nguy cơ phá hoại.
-Trong khi đó, phân tích sơ bộ của hãng F-Secure lại cho thấy khả năng sâu Atak tấn công nhiều loại virus khác, trong đó có Netsky, Bagle, MyDoom và Lovegate. Nhà cung cấp giải pháp an ninh Phần Lan chưa xác định được mức độ lan rộng của cuộc tấn công này. 
-

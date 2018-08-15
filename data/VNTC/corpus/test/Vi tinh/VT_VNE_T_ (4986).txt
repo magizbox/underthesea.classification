@@ -1,8 +1,0 @@
-Chụp ảnh bằng ổ USB
-Hãng Transcend (Mỹ) vừa giới thiệu một ổ nhớ flash tích hợp camera mang tên JetFlash DSC. Sản phẩm cho phép khách hàng chụp ảnh mà không cần sử dụng cáp hay thiết bị đọc để kết nối tới PC.
-Transcend JetFlash DSC.
-JetFlash, kích thước 80 x 29 x 6 mm, trọng lượng 26 g, được trang bị thấu kính quang học với tiêu cự cố định 45 cm, góc nhìn 53. 
-Bên cạnh đó, JetFlash tích hợp bộ cảm biến CMOS 0,25 inch, lưu file ảnh JPG với độ phân giải VGA 640 x 480, dung lượng 55 KB. Người dùng có thể cắm trực tiếp USB vào máy tính và chỉnh sửa, biên tập ảnh trên một phần mềm đi kèm trong gói sản phẩm.
-Ổ của Transcend sử dụng pin lithium có thể xạc nhiều lần qua cổng USB. JetFlash cũng hỗ trợ chuẩn USB 1.1 và không yêu cầu phải cài bất cứ trình quản lý nào để nhận dạng ổ, trừ phi khách hàng sử dụng máy tính Windows 98.
-JetFlash ra mắt với phiên bản 128 MB (46 USD) và 256 MB. 
-

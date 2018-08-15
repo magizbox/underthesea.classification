@@ -1,8 +1,0 @@
-Trojan ăn cắp mã khóa tài khoản game 'Lineage'
-Hãng bảo mật Sophos (Anh) đang cảnh báo về một chương trình mới có khả năng ăn cắp thông tin của người đăng ký tham gia một trong những game trực tuyến phổ biến nhất thế giới.
-Trojan này có tên LegMir.Y, được thiết kế để ăn cắp username và password của người tham gia Lineage, game online đang thu hút tới 4 triệu người đăng ký chơi trả tiền, chủ yếu là ở Hàn Quốc và một số quốc gia châu Á. Ngoài ra, LegMir.Y còn tắt bỏ tất cả các phần mềm diệt virus trên PC bị lây nhiễm.
-Nhờ những trò như Lineage, game trực tuyến đã trở thành một ngành công nghiệp béo bở ở châu Á, nơi hàng triệu khách hàng sẵn sàng móc hầu bao 15-20 USD mỗi tháng để truy nhập vào thế giới kỳ ảo của các trò chơi nối mạng.
-Theo Graham Cluley, chuyên gia công nghệ của Sophos, LegMir.Y là chương trình tấn công mới nhất sau một loạt Trojan tương tự nhắm vào việc khai thác thông tin liên quan đến game. Chúng tôi phát hiện ngày càng nhiều những phần mềm loại này. Ngoài nguy cơ gây gián đoạn, chúng còn ăn cắp mã khóa đăng ký, password và dữ liệu của người tham gia game, Cluley cho biết. Sự ganh đua trong cộng đồng các gamer trên mạng cũng sẽ dẫn đến sự ra đời thêm nhiều Trojan tương tự với mục đích hỗ trợ những hành động kiểu ăn cắp như vậy. 
-Trong các loại rệp game trước đây có một số biến thể của sâu Randex, được thiết kế để biến máy tính bị lây nhiễm thành PC "ma" (zombie), giúp hacker giành thêm điểm khi chơi trò Outwar. Các phiên bản trước của LegMir cũng tập trung vào việc ăn cắp mật khẩu và những thông tin đăng ký của người chơi trò Legends of Mir 2.
-Sophos khuyến cáo người dùng máy tính Windows nên nâng cấp phần mềm chống virus và tránh mở những file không rõ nguồn gốc.
-

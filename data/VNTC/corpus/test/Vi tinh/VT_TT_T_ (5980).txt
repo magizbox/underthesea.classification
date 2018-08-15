@@ -1,6 +1,0 @@
- Blinkx giới thiệu dịch vụ tìm kiếm mới
-Blinkx nhận các video clip từ người dùng chuyên nghiệp cũng như nghiệp dư gởi các đoạn video clip của mình lên. Sau khi tập tin được gởi lên, Blinkx sẽ chuyển sang định dạng Flash bao gồm cả ngày tháng, tiêu đề, tên của người gởi và những thông tin khác liên quan đến tập tin được gởi lên. Những tập tin này sẽ được chia sẻ cho tất cả người xem trực tiếp. 
-Tuy nhiên, dịch vụ mới, được gọi là MyBlinkx.tv có những tính năng mới. Người dùng sẽ có thể xem video clip của chính họ, cũng như chỉ định các kênh dựa trên những từ khóa tìm kiếm. Theo cách này, với những từ khóa chính xác, rõ rang, ví dụ như “bão Katrina”, các kênh của họ sẽ bao gồm tất cả những video clip có liên quan đến bão Katrina. 
-Bằng cách lưu trữ cookie trên ổ đĩa cứng của người dùng, Blinkx.tv có khả năng ghi nhớ các kênh đã được chỉ định từ người dùng và cập nhật chúng khi có video clip mới tương ứng với từ khóa. Nếu cookie bị xóa, những kênh này sẽ biến mất, nhưng Blinkx.tv còn hoạt động dựa trên hệ thống mật khẩu cá nhân cho thành viên. 
-Dịch vụ hiện tại chỉ chấp nhận các video clip cá nhân. MyBlinkx.tv cũng sẽ giới thiệu các nội dung thương mại, cung cấp với sự đồng ý về bản quyền từ người dùng. 
-

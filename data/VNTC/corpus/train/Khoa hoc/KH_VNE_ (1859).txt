@@ -1,5 +1,0 @@
-Ống cứu hoả... phát điện
-Một phát minh được tài trợ bởi Hải quân Mỹ đã mô tả một cách thức đơn giản để phát điện trong trường hợp khẩn cấp hoặc duy trì liên lạc sau một thảm họa. Giải pháp này không cần dùng đến các máy phát cồng kềnh hoặc bộ pin nặng nề. 
-Lực lượng đặc nhiệm khẩn cấp sẽ mang theo một ống cứu hoả ở trạng thái cuộn xẹp, với một cái bơm chân ở một đầu ống và van không khí ở đầu kia. Chiếc ống sau đó được dỡ ra và người ta sẽ đạp bơm chân để bơm không khí đầy vào ống. Sau cùng, van được mở ra ở đầu bên kia để hướng không khí đi qua một turbine nhỏ, đóng vai trò như máy phát điện. 
-Cứ tiếp tục bơm trong khi vẫn kiểm soát độ an toàn của van sao cho áp suất trong ống giữ không đổi. Điều này đảm bảo cho tốc độ của turbine và lượng điện sản sinh ra ổn định, không bị ngắt quãng, ngay cả khi người đạp bơm đã mệt, được thay bằng người khác. 
-

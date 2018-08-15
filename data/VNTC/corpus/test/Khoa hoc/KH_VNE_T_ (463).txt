@@ -1,6 +1,0 @@
-Robot phá mìn dùng công nghệ không dây
-Một loại robot do các nhà nghiên cứu Australia sáng chế có thể được dùng vào việc kiểm soát quá trình phá bom và kiểm tra các phương tiện an ninh. 
-Tiến sĩ Jun Jo, giảng viên cao cấp tại Đại học Griffith, đã tạo ra nguyên mẫu một chiếc "xe phá bom" với sự giúp đỡ của các sinh viên sau đại học. Chiếc xe robot được điều khiển từ xa bằng công nghệ mạng không dây Bluetooth, cho phép người vận hành đứng ở khoảng cách an toàn trong khi robot tiến vào vùng nguy hiểm. 
-Camera gắn phía đầu robot gửi hình ảnh liên tiếp về cho người điều khiển. Người điều khiển sau đó sẽ hướng xe chạy đến một vị trí đặc biệt, xác định các khối nghi ngờ và bứng lên bằng một cái xẻng gài trên xe. "Thông qua camera, tôi có thể nhìn thấy những gì robot thấy, và có thể điều khiển nó ở khoảng cách 100 mét", Jo nói. 
-Với chiều dài 20 cm, chiếc xe robot này chỉ nhỏ như một món đồ chơi. Song tác giả cho biết sẽ thiết kế một cái lớn hơn. 
-

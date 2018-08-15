@@ -1,5 +1,0 @@
- Chip xử lý 48 lõi sẽ xuất hiện vào năm 2007
-Azul Systems, hiện là công ty con của Taiwan Semiconductor Manufacturing Company (TSMC), cho biết chip xử lý Vega 2 64 bit được chế tạo bằng công nghệ chip 90 nanomet, với 48 lõi xử lý được đặt trên cùng một bản mạch, chứa đến 812 triệu transistor bán dẫn, tăng được gấp đôi số lõi xử lý trên cùng một bản mạch silicon so với dòng chip Vega 1 24 lõi trước đây. 
-Với dòng chip xử lý Vega 2 64 bit này, Azul System có thể tự mình chế tạo nên những siêu máy tính đa xử lý đối xứng được tích hợp đến 768 con chip xử lý 48 lõi, với 768 GB bộ nhớ. Dòng siêu máy tính hiện tại của Azul được trang bị hệ thống chip xử lý bao gồm 384 con chip xử lý 24 lõi với 256 GB bộ nhớ. 
-Azul Systems cho biết sẽ chính thức bán ra dòng chíp Vega 2 48 lõi này vào khoảng đầu năm 2007. 
-

@@ -1,6 +1,0 @@
- Chuẩn WiMax di động chính thức được thông qua
-Chuẩn 802.16e vừa hoàn thiện vào 2 tháng trước nhưng chỉ vừa mới được Hội kỹ sư điện - điện tử quốc tế (IEEE – Institute of Electrical and Electronics Engineers) thông qua. Điều này có thể đánh dấu một bước tiến quan trọng trong việc đưa công nghệ kết nối Internet băng thông rộng WiMax đến điện thoại di động. 
-WiMax sẽ xứng đáng như là một thế hệ kế tiếp của công nghệ không dây vì nó hỗ trợ truyền tải dữ liệu cao và trong một không gian rộng lên tới 3 km. “Công nghệ này hỗ trợ tốc độ truyền tải dữ liệu cực kỳ nhanh với 20 Mb/giây, tốc độ trung bình từ 1-4 Mbps”, Paul Sergeant, giám đốc kinh doanh cho WiMax tại Motorola cho biết. 
-Hiện nay, tốc độ truyền tải của mạng không dây 3G chi khoảng 400 – 700 Kb/giây cho mỗi người dùng. Các nhà phát triển WiMax tin tưởng rằng sẽ đưa công nghệ này vào ĐTDĐ nhằm làm tăng khả năng truyền tải dữ liệu ứng dụng như duyệt web, email. Hãng Sprint Nextel cũng đang thử nghiệm công nghệ này trong các phòng thí nghiệm của mình. 
-Các sản phẩm và dịch vụ hỗ trợ WiMax di động sẽ có thể bắt đầu được phát hành vào cuối năm 2006 hay đầu năm 2007. 
-

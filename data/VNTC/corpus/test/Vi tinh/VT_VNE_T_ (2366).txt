@@ -1,6 +1,0 @@
-Epson phát triển 4 vi mạch giao tiếp
-Tập đoàn Seiko Epson vừa công bố đã chế tạo thành công vi mạch tích hợp (IC) S1R77000 mới. Dòng sản phẩm phẩm này gồm 4 vi mạch giao tiếp analog dành cho máy quét, in đa chức năng, photocopy và máy fax.
-Trong số 4 IC thuộc dòng sản phẩm này, Epson đã xuất hàng mẫu và bắt đầu sản xuất với số lượng lớn loại S1R7701. Epson sẽ xuất IC S1R77013, S1R77021, S1R77081 vào cuối tháng 4.
-Dòng S1R77000 bao gồm phần xử lý analog (mạch CDS - kiểm toán tín hiệu và chuyển đổi A/D) dành cho các bộ cảm biến bán dẫn CCD bên cạnh đồng bộ xung nhịp điều khiển các cảm biến này.
-Công dụng của dòng sản phẩm này là giúp tạo ra những hệ thống đáp ứng yêu cầu chất lượng hình ảnh cao một cách nhanh chóng. Nó cũng góp phần tiết kiệm không gian và chi phí tổng thể nhờ có sự tích hợp sẵn một mạch đồng hồ hỗ trợ bộ cảm biến hình. IC S1R77013 còn có tính năng khuếch đại tín hiệu, S1R77021 và S1R77081 thì được trang bị các chuẩn giao tiếp RSDS - TM (1) dựng sẵn, giúp giảm hiện tượng nhiễu điện từ một cách hiệu quả.
-

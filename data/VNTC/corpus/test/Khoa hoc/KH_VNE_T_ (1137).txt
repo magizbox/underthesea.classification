@@ -1,7 +1,0 @@
-Phát điện từ... nước tiểu
-Các nhà khoa học Singapore đã phát minh ra một loại pin chạy bằng nước tiểu, có kích cỡ bằng chiếc thẻ tín dụng. Chỉ một giọt cũng đủ để nó phát ra 1,5 volt, tiến sĩ Ki Bang Lee thuộc Viện cơ khí sinh học và công nghệ nano cho biết. 
-Rẻ tiền, dùng một lần và có thể tái tạo, pin nước tiểu có thể là nguồn năng lượng hoàn hảo cho những bộ kit kiểm tra sức khoẻ như thiết bị xét nghiệm nước tiểu hoặc các dịch khác trong cơ thể. Hiện tại, những bộ kit trên sử dụng pin lithi hoặc nguồn điện từ bên ngoài, song với hệ thống mới này, các dịch trong cơ thể sẽ được kiểm tra bằng chính bản thân thiết bị. 
-Để tạo ra pin, Lee và cộng sự ngâm một mảnh giấy lọc trong đồng clorua và rồi kẹp nó giữa hai tấm magie và đồng. Sau đó họ dát mỏng nó trong nhựa dẻo trong suốt. Pin hoạt động khi có một giọt nước tiểu rơi trên bề mặt. Nước tiểu ngấm qua giấy, tạo ra điều kiện cần thiết để phát điện. Tấm magie sẽ hoạt động như cực dương, trong khi đồng clorua là cực âm. 
-Nhà nghiên cứu vật lý của tổ chức CSIRO, tiến sĩ Cathy Foley cho biết phát minh này là quan trọng, vì nó mở ra khả năng chế tạo những thiết bị tự cấp điện cho mình, đặc biệt hữu ích trong sinh học, y tế. 
-Foley cho biết năng lượng sinh ra từ pin nước tiểu có thể đủ để chạy một đồng hồ đeo tay hoặc một máy tính, nhưng với những thứ lớn hơn thì không thực tế. Người ta có thể cải thiện điều này bằng cách lắp ghép nhiều quả pin như vậy. "Song để phát điện trên quy mô lớn, bạn sẽ phải trải cả lục địa Australia lên điện cực và tè vào đó", Foley nói.
-

@@ -1,8 +1,0 @@
-Một loạt máy tính dùng chip lõi kép được công bố
-Một số hãng chế tạo PC trong đó có Dell, Alienware vào đầu tuần tới sẽ bắt đầu bán ra các sản phẩm dùng bộ xử lý lõi đôi do Intel sản xuất. Công ty chip số 1 thế giới dự kiến đến cuối năm 2006, 70% số bộ vi xử lý của server và 85% của máy để bàn và notebook sẽ là lõi kép.
-Bộ PC dùng chip lõi kép Intel của hãng Alienware.
-Các chip Intel lõi kép có tốc độ 3,2 GHz (chậm hơn so với Pentium IV hiện hành) và có kênh dẫn bus đạt 800 MHz. Mỗi lõi có 1 MB bộ nhớ tạm thời cache, thấp hơn mức 2 MB của các chip lõi đơn. Tuy nhiên, Intel khẳng định công suất tổng thể của các sản phẩm mới tốt hơn so với những loại vi xử lý hiện hành.
-Dòng chip lõi kép mới cũng áp dụng công nghệ siêu phân luồng HyperThreading, cho phép các lõi thực hiện đồng thời nhiều tác vụ hơn. Một phiên bản chip Pentium IV Extreme Edition (có tên mã là Smithfield) của Intel không dùng HyperThreading sẽ ra mắt cuối quý này.
-Việc phát hành chip lõi kép của Intel được tiến hành trùng dịp kỷ niệm 40 năm ra đời định luật Moore (19/4), lý thuyết nổi tiếng về quá trình tăng gấp đôi số bóng bán dẫn (transistor) trên chip theo chu kỳ 2 năm.
-Trong khi đó, đối thủ AMD cũng có kế hoạch phát hành chip Opteron lõi kép cho server và máy trạm vào ngày 21/4. HP hiện đã đặt trước một số đơn hàng cho sản phẩm này. Giới quan sát bình luận AMD khó có thể làm hỏng bữa đại tiệc lần này của Intel. Vào năm 2000, Intel lặng lẽ rút ngắn thời hạn phát hành chip 1 GHz đầu tiên của họ từ tháng 6 xuống ngày 8/3. Sau khi tin này bung ra, AMD cũng đã lùi ngay ngày trình làng một sản phẩm tương tự xuống vài tháng để công bố vào 6/3, gây tiếng vang trước Intel.
-

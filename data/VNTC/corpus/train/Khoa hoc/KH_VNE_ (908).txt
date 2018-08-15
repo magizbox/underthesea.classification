@@ -1,6 +1,0 @@
-Dùng gián đoạn hay liên tục làm pin hết nhanh hơn?
-Một thiết bị chạy pin liên tục 4 giờ liền sẽ làm pin hết nhanh hơn là dùng nó trong 1 giờ, sau đó tắt đi một giờ, bốn lần như vậy. Nguyên nhân là pin có xu hướng khôi phục lại chút ít nếu không bị sử dụng trong một khoảng thời gian.
-Dòng điện của pin xuất phát từ các hạt điện tử được sinh ra từ một phản ứng hóa học giữa hai chất. Thời gian nghỉ cho phép các thành phần tham gia phản ứng hóa học quân bình lại.
-Dù việc sử dụng liên tục cũng vẫn có sự phục hồi, nhưng không nhiều bằng việc dùng gián đoạn. Sự chênh lệch giữa dùng gián đoạn và dùng liên tục thể hiện rõ hơn ở một thiết bị làm pin nhanh hết, chẳng hạn, một đồ chơi dùng pin để chạy bánh xe so với một chiếc đồng hồ với những cái kim rất nhẹ chạy liên tục.
-Việc sử dụng không đúng cách cũng làm pin nhanh bị hỏng, bị chai. Ví dụ, nếu một viên pin được thiết kế để sử dụng trong nhiều giờ nhưng được dùng trong có 10 phút, sau đó đem sạc lại và nếu quá trình này lặp lại vài lần, đến lần tiếp theo viên pin được dùng tới một giờ, nó sẽ hết nhanh hơn so với một viên pin khác cùng loại được sạc đầy đủ, sau đó dùng trong 1 giờ rồi mới được đem ra sạc lại để dùng cho lần sau.
-

@@ -1,6 +1,0 @@
-Việt Nam đoạt giải quốc tế thiết kế chip thông minh
-Nữ kỹ sư Phan Minh Tân, Phòng Công nghệ tự động hóa thuộc Viện Công nghệ thông tin, đã được trao giải "Grand Prize" trong cuộc thi quốc tế về thiết kế và tạo chip thông minh trên công nghệ PSoC (hệ thống có thể lập trình được trên chip) 2003-2004. Trị giá giải thưởng này là 10.000 USD.
-Với công nghệ PSoC, kỹ sư Tân đã thiết kế thiết bị đo độ ẩm, nhiệt độ và điểm sương THDP-1 dùng cho các kho tàng, phòng thí nghiệm cần cảnh báo về nhiệt độ và độ ẩm một cách tự động, giá thành rẻ
-Cuộc thi do các công ty: Cypress MicroSystem CMP Media và LLC (Mỹ) phối hợp tổ chức. Tổng trị giá toàn bộ các giải thưởng của cuộc thi là 30.000 USD.
-Theo ông Michael Chan, đại diện Cypress, PSoC của Cypress sau 3 năm ứng dụng vào thực tế trên phạm vi toàn cầu đã đoạt doanh số 10 triệu USD và có mức tăng trưởng 17%/năm.
-

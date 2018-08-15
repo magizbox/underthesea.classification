@@ -1,7 +1,0 @@
-Mạng Kazaa bị yêu cầu chặn ít nhất 3.000 từ khóa
-Tòa án Mỹ vừa yêu cầu hệ thống chia sẻ file ngang hàng Kazaa không được phân phối bất hợp pháp nhạc và video của những ca sỹ nổi tiếng, trong đó có Kylie Minogue, Eminem và Madonna. 
-Thẩm phán Murray Wilcox đã yêu cầu công ty Sharman Networks, chủ sở hữu Kazaa, phải chỉnh sửa phần mềm P2P để chặn một danh sách những từ khóa tìm kiếm, chủ yếu là tên nghệ sỹ và bài hát. Tuyên bố này là bước tiếp theo sau chiến thắng của các hãng thu âm hồi tháng 9 chống lại những cá nhân và tổ chức liên quan đến Kazaa.
-Tòa án lệnh cho phiên bản mới của hệ thống phải được ra mắt trước 5/12, bao gồm một bộ lọc keyword nhằm ngăn người sử dụng truy cập và tải file lậu.
-Các hãng ghi âm cũng có thể cập nhật từ khóa mới 2 tuần một lần. Sharman sẽ phải thay đổi phần mềm trong vòng 48 tiếng sau khi nhận được danh sách. 
-Bản thống kê ban đầu lên tới 10.000 keyword và Tony Bannon, luật sư của các công ty thu âm cho rằng con số 3.000 là một sự "thiếu hụt trầm trọng".
-

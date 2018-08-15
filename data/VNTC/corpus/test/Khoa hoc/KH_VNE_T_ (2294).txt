@@ -1,6 +1,0 @@
-Sản xuất pin nhiên liệu an toàn với methanol thể rắn
-Hãng Kurita Water của Nhật vừa tuyên bố đã phát triển thành công một phương pháp mới, biến chất methanol, từng bị coi là độc hại, thành nguồn năng lượng an toàn cho thiết bị di động.
-Pin nhiên liệu methanol cho phép máy tính xách tay và điện thoại di động có thể hoạt động trong vài ngày, thậm chí vài tuần. Những công ty như Toshiba, IBM và Sanyo cũng đã thử nghiệm công nghệ cho laptop và nhiều sản phẩm khác, nhưng chất này có tỷ lệ độc hại cao, dễ cháy và có khả năng gây nổ trong một số tình huống. Tuy nhiên, bằng việc kết hợp methanol với một chất mà Kurita chưa tiết lộ, hãng này đã tạo ra pin nhiên liệu "methanol thể rắn" hoạt động ổn định và không ảnh hưởng đến người sử dụng. 
-Hợp chất "bí ẩn" được lưu dưới dạng bột hoặc theo những hình dạng khác nhau tùy ý. Chúng giữ methanol trong một mạng lưới phân tử và giải phóng chất này khi kết hợp với nước. Pin cũng có thể được xạc và sử dụng lại.
-Kurita dự định phát hành rộng rãi sản phẩm vào năm 2007.
-

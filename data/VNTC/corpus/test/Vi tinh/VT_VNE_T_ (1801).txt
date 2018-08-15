@@ -1,7 +1,0 @@
-Acer trình làng laptop Travelmate 8100
-Máy tính xách tay mới nhất của Acer sử dụng công nghệ Intel Sonoma có tích hợp CPU Pentium M, sản xuất theo công nghệ 90 nm (trước là 130 nm), 2 MB L2 cache và 533 MHz FBS nên công suất nhanh, mạnh hơn mà vẫn tiết kiệm điện.
-TM8100 sử dụng chipset 915PM Express, công nghệ hỗ trợ đồ họa mới nhất của Intel, đồng thời cũng được gắn chipset WLAN là PRO/Wireless 2915ABG, hỗ trợ các chuẩn 802.11a/b/g. Ngoài ra, WLAN của TM8100 còn hỗ trợ công nghệ WLAN Signal Up Wireless độc quyền của Acer. Nhờ đó, khả năng bắt tín hiệu và liên lạc bằng sóng vô tuyến tăng lên 25% so với các máy khác.
-Màn hình của TM8100 rộng 5,4" có độ sáng 200 nit - HB, hỗ trợ độ phân giải lên tới 1680 x 1050 với 16,7 triệu màu. 
-Sản phẩm mới của Acer có hệ thống bảo mật và quản lý password bằng card điện tử thông minh Acer TravelMate Smart Card, giúp bảo mật dữ liệu, bảo vệ máy tính và chống mất cắp tốt hơn.
-Theo nhà sản xuất máy tính Đài Loan, TM8100 dự kiến có mặt tại thị trường Việt Nam vào cuối tháng 1 với giá khoảng 2.199 USD.
-

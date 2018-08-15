@@ -1,5 +1,0 @@
-Chương trình gia tăng tốc độ download
-Download Accelerator Manager (DAM) là công cụ quản lý và cải thiện tốc độ cho quá trình tải file trên Internet. Nó có thể khôi phục những quy trình tải bị ngắt quãng ngang chừng do sự cố bất ngờ như lỗi chương trình, mất kết nối, ngắt điện... 
-DAM hỗ trợ proxy, HTTP, HTTPS và FTP, thậm chí có thể lấy file từ các trang cài chương trình bảo vệ. Những tính năng phong phú khác bao gồm cookie, quản lý dung lượng trống và tắt tự động. Ngoài ra, công cụ tương thích với Microsoft Internet Explorer, MSN Explorer, Avant Browser, Maxthon (MyIE2), Firefox, Netscape, Mozilla, Opera và nhiều trình duyệt khác. DAM đồng thời tích hợp chương trình diệt spyware, adware, virus và phần mềm nguy hiểm.
-Tải miễn phí DAM, dung lượng 1,23 MB, tại đây.
-

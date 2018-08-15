@@ -1,7 +1,0 @@
-Tấn công trình duyệt gia tăng
-Một khảo sát trên gần 900 tổ chức của Hiệp hội Công nghệ tin học Mỹ (CompTIA) cho biết 36,8% số doanh nghiệp này là nạn nhân của làn sóng các vụ xâm nhập thông qua web browser trong vòng 6 tháng qua. Con số này cao hơn đáng kể so với mức 25% ở cuộc khảo sát năm ngoái.
-Những vụ tấn công trình duyệt tiêu biểu thường xảy ra khi một người lướt mạng ghé vào một website mang mã tấn công. Kết quả của những hoạt động này có thể đơn giản chỉ là làm hỏng trình duyệt hoặc nghiêm trọng hơn là ăn cắp thông tin cá nhân hoặc làm mất những dữ liệu quan trọng. 
-Virus và sâu máy tính, mặc dù vẫn là mối nguy lớn nhất đối với an ninh công nghệ thông tin, lại đang có chiều hướng giảm bớt so với một năm trước. Số doanh nghiệp coi virus là mối lo an ninh hàng đầu đã giảm từ 80% năm 2003 xuống còn 68,6% trong năm nay.
-Vấn đề xâm nhập mạng cũng giảm từ 65,1% xuống 39,9%. Hầu hết các tổ chức được thăm dò đều cho biết có sự thay đổi đáng kể về các vấn đề liên quan đến khả năng truy cập từ xa, chẳng hạn như các mạng ảo riêng và đường kết nối quay số, từ 49,9% xuống 41,7%, cũng như các thủ đoạn lừa đảo thông qua giao tiếp với nạn nhân để lừa lấy thông tin (social engineering) từ 21,9% xuống 17,9%.
-Tìm hiểu về việc sử dụng các công nghệ và dịch vụ an ninh, nghiên cứu cho thấy đại bộ phận các tổ chức được khảo sát (95,5%) đều sử dụng công cụ chống virus. 90,8% đối tượng là cửa hàng đều có tường lửa. Trong khi đó, 61% chuyên viên quản lý IT của doanh nghiệp đã thực hiện chính sách kiểm tra xâm nhập và theo dõi an ninh (tăng 8%).
-

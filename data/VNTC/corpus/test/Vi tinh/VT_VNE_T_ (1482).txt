@@ -1,5 +1,0 @@
-Đưa hình ảnh lên mặt đĩa
-Công nghệ MediaCoat của hãng Spectra Systems (Mỹ) sẽ cho phép in tiêu đề, hình ảnh trang trí hay mã vạch lên mặt các loại đĩa quang học như CD, DVD.
-Với loại đĩa hai mặt và đĩa DVD thế hệ mới, bạn không thể trang trí nhãn lên bề mặt của chúng ngoại trừ một vài chữ được in lên vòng tròn nhỏ ở giữa bởi các đĩa này lưu trữ thông tin dưới dạng các kí tự quang học. Nhưng khi sử dụng MediaCoat, chiếc đĩa không những trở nên đẹp hơn mà còn nâng cao khả năng chống xước. Kĩ thuật mới này có thể áp dụng với những đĩa quang đã ghi trước đó và cũng thích hợp với các định dạng mới như HD-DVD và Blue-ray.
-MediaCoat là một bước bổ sung thêm vào giai đoạn cuối của quá trình sản xuất đĩa. Một lớp hợp chất đặc biệt sẽ được phủ lên và bám chặt vào bề mặt đĩa. Các hình ảnh, chữ viết hay mã vạch được in lên lớp hợp chất này bằng cách sử dụng chùm tia cực tím. Tiếp đó, một lớp thứ hai sẽ được phủ lên để bảo vệ bề mặt đĩa khỏi tác hại của ánh sáng mạnh và chống trầy xước.
-

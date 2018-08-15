@@ -1,5 +1,0 @@
-Windows Genuine Advantage bị bẻ khoá
-Chương trình kiểm tra tính hợp pháp của hệ điều hành Windows đã bị vô hiệu hoá chỉ vài ngày sau khi Microsoft chính thức bắt đầu chiến dịch chống phần mềm lậu từ ngày 25/7.
-Khách hàng được yêu cầu cài một chương trình điều chỉnh ActiveX để kiểm tra tính hợp pháp của phần mềm Windows. Nếu qua được khâu này, Windows Genuine Advantage (WGA) sẽ lưu và cung cấp cho khách hàng một khoá download trên PC để nhập cho những lần xác thực sau. Tuy nhiên, tin tặc chỉ cần viết một dòng mãđơn giản window.g_sDisableWGACheck='all' là có thể tắt chế độ kiểm tra, cho phép người dùng qua mặt hệ thống WGA và sử dụng chương trình Windows Update.
-Microsoft đã dự định chỉ những người tham gia vào chương trình xác thực WGA mới được nhận bản nâng cấp phần mềm từ Microsoft Download Centre (Trung tâm cung cấp dịch vụ tải các chương trình của Microsoft) hay Windows Update (các bản nâng cấp Windows).
-

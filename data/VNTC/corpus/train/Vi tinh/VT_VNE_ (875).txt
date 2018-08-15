@@ -1,7 +1,0 @@
-Longhorn sẽ hỗ trợ công nghệ HD DVD
-Hôm qua, Microsoft Nhật Bản khẳng định hệ điều hành thế hệ tiếp theo, Longhorn, sẽ tương thích với công nghệ HD DVD (DVD phân giải cao - High Definition DVD). 
-Tuy nhiên, Giám đốc điều hành Microsoft ở Nhật Bản cho biết hãng vẫn chưa quyết định liệu Longhorn có nên hỗ trợ công nghệ Blu-ray của các đối thủ khác như Sony và Philips Electronics hay không.
-DVD sử dụng laser xanhdo tập đoàn NEC và hãng Toshiba hậu thuẫn cùng với Microsoft phát triển. Công nghệ laser xanh với bước sóng ngắn (chứ không phải là laser đỏ) sử dụng trong máy ghi DVD có thể đọc và lưu trữ dữ liệu với mật độ lớn hơn trong những bản ghi có độ phân giải cao.
-Phó tổng giám đốc DVD Yoshihide Fujii của Toshiba cho biết hãng dự định năm tới sẽ xuất xưởng DVD dựa vào định dạng HD DVD. Tuy nhiên, Toshiba vẫn chưa cung cấp thông tin về giá cả.
-Năm ngoái, Sony giới thiệu đầu ghi DVD đầu tiên sử dụng công nghệ laser xanh, còn hãng Matsushita dự kiến sẽ trình làng DVD phát huy công nghệ Blu-ray trong tuần này.
-

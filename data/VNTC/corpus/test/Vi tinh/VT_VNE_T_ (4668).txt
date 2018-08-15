@@ -1,8 +1,0 @@
-Microsoft ngừng hỗ trợ Exchange Server 5.5 và 2000
-Hãng phần mềm Mỹ sẽ chấm dứt việc phát triển và nâng cấp sản phẩm vào cuối năm nay, đồng thời yêu cầu người sử dụng chuyển sang phiên bản Exchange Server 2003 an toàn và ổn định hơn. 
-Theo Microsoft, số người sử dụng Exchange Server 5.5 đã giảm 40% trong năm qua và hãng quyết định ngừng hoàn toàn mọi hỗ trợ với sản phẩm này. 
-Exchange Server 2000 sẽ không còn được hỗ trợ chủ đạo - giải quyết vấn đề khi có tình huống xảy ra, cập nhật bảo mật và vá lỗi - bắt đầu từ cuối 2005. Khi chuyển sang chế độ mở rộng, khách hàng sẽ phải trả một khoản chi phí nhất định cho những bản sửa lỗi không liên quan đến bảo mật.
-Hãng phần mềm sẽ không chấp nhận những yêu cầu về bảo hành, thay đổi thiết kế hoặc nâng cấp tính năng mới trong giai đoạn mở rộng. Chính sách này cũng chỉ được thực hiện đối với doanh nghiệp và sản phẩm phần mềm, không áp dụng cho người tiêu dùng, phần cứng hay những sản phẩm đa phương tiện.
-Gần đây, Microsoft đã phát hành gói Service Pack 2 cho Exchange Server 2003, bao gồm nhiều công nghệ cải tiến cho e-mail di động, có thể chuyển e-mail trực tiếp từ Exchange vào thiết bị di động, cũng như tính năng bảo mật mạnh nhằm chống spam...
-Tập đoàn dự định sẽ phát hành phiên bản mới Exchange 12 vào cuối 2006 hoặc đầu 2007. Xem thông tin nâng cấp lên Exchange Server 2003 tại đâyvà chính sách hỗ trợ sản phẩm của Microsofttại đây.
-

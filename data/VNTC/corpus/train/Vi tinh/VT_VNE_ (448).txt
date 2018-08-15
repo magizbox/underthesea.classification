@@ -1,8 +1,0 @@
-Không login được vào Yahoo Messenger (2)
-Tôi và ông xã tôi dùng chung một địa chỉ email yahoo, cả tôi và anh ấy đều vào email được, nhưng tôi thì vào yahoo messenger được dù tôi đang ở bất kỳ máy tính nào, kết nối bằng bất kỳ network nào, anh ấy không vào được mặc dù gõ đúng password, anh ấy kết nối bằng modem tại nhà (không vào cùng một lúc với tôi). Hãy chỉ cho tôi cách khắc phục hiện tượng này. Cảm ơn !
-Quynh Diep
-Hồi âm:
-Cháu dùng Yahoo messenger lâu lắm rồi và chưa bào giờ gặp tình trạng như của cô. Nhưng cháu thử đưa ra vài gợi ý xem có cải thiện được tình hình không.Thứ nhất cô nói cô có thể login được trong mọi trường hợp, nhưng cô đã thử login vào Yahoo ngay tại nhà cùng với chú chưa ạ? Điều này gợi cho cháu một ý là có thể máy tính ở nhà bị đè phím Caps lock hoặc một sự trùng hợp ngẫu nhiên xảy ra là bàn phím của cái máy ở nhà bị hỏng ngay chữ mà có trong pass word. Nhưng cả hai trường hợp này khó có thể xảy ra được.Thứ hai: Đăng ký địa chỉ email là hoàn toàn miễn phí, thì tại sao cô chú không đăng ký thêm một địa chỉ email nữa và thử cái mới này xem sao? Trong trường hợp có địa chỉ email mới mà vẫn không login vào được thì cháu gợi ý là nên cài đặt lại Yahoo messenger hoặc nhờ một "nhóc tì" nào đó đến xem xét vấn đề cho. Tụi nhỏ bây giờ rành về mấy vụ này lắm!Chúc cô thành công.
-Vũ Thành Công
-Khong the khac phuc duoc dau. Yahoo messenger khong cho mot ID online tai hai may khac nhau ( hai dia chi IP) o cung mot thoi diem (do cung la mot cach bao mat ma). Neu nguoi nay vao duoc thi nguoi kia se bi out va nguoc lai. Tot nhat nen lap moi nguoi moi ID de tien cho khi su dung messenger .
-

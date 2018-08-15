@@ -1,6 +1,0 @@
-Vì sao có người nhiễm SARS mà không ốm?
-Các nhà khoa học Hong Kong vừa phát hiện một tật gene giúp giải thích hiện tượng có người dễ ốm khi nhiễm SARS, trong khi những người khác hoàn toàn khỏe mạnh.
-Đại học tổng hợp Hong Kong đã kiểm tra hồ sơ ADN của 285 người nhiễm SARS và so sánh với dữ liệu liên quan của hơn 800 người khỏe mạnh. Kết quả cho thấy, những người có đoạn mã của gene tên là CLEC4M lặp lại nhiều lần sẽ dễ bị SARS "đánh gục" với nguy cơ cao hơn 30% - trưởng nhóm nghiên cứu Lin Chen-Lung khẳng định trên tạp chí Nature Genetics. Trong khi đó, những người có sự lặp lại này ở cả hai nhiễm sắc thể trong gene CLEC4M lại an toàn. 
-CLEC4M mã hóa một protein tên là L-SIGN, đóng vai trò như một cảm thụ thể bám trên bề mặt của tế bào. Nhóm nghiên cứu tin rằng, ở những người có CLEC4M mang tính năng bảo vệ, virus SARS sẽ nhanh chóng bị suy yếu khi gắn vào L-SIGN. Cảm thụ thể này có mặt trong gan và các hạch bạch huyết. 
-Vào năm 2003, dịch SARS bùng phát và làm khoảng 800 người tử vong. Trung tâm dịch là Hong Kong và Trung Quốc.
-

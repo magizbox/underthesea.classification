@@ -1,7 +1,0 @@
-Giá vẽ điện tử ArtStudio
-ArtStudio là một chương trình đồ họa đơn giản nhưng mạnh. Không khác gì một giá vẽ thông thường, phần mềm cung cấp mọi chất liệu cần thiết cho tác phẩm của bạn. Hơn nữa, nó còn cho phép bạn ghi quá trình sáng tác của mình rồi chơi lại. 
-Có giao diện đơn giản, mục đích của ArtStudio là giúp bạn vẽ và bôi màu nhanh chóng, dễ dàng mà không phải bận tâm nhiều đến các nhát cọ và những cú nhấp chuột. 
-Một trong những tính năng thú vị của Art Studio là bảng màu Color Palette. Bạn có thể bổ sung màu và hòa trộn chúng với nhau để tạo ra màu mới, giống như trong bảng pha màu thật. Sau đó, bạn có thể chọn bất cứ màu nào trong bảng bằng cách nhấp chuột phải. Bạn cũng có thể đặt tên cho bảng màu và lưu lại để sử dụng sau.
-Từng nhát cọ của bạn đều được chương trình ghi trong một tập tin có thể chơi lại với Artwork Player hoặc Artwork Screen Saver đi kèm, hay chơi trên ngay trang web của bạn. 
-ArtStudio là một phần mềm chơi mà học rất thú vị, đặc biệt thích hợp với thiếu niên và những bạn thích vẽ. Chương trình có dung lượng 2,47 MB. Bạn có thể tải phiên bản miễn phí bị hạn chế một số tính năng tại đây.
-

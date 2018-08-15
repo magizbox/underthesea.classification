@@ -1,6 +1,0 @@
-IBM nhận giải thưởng nhà cung cấp chất lượng
-Hãng máy tính Mỹ vừa được Intel trao giải Nhà cung cấp liên tục nâng cao chất lượng (Supplier Continuous Quality Improvement - SCQI) năm 2003. Đây là giải thưởng danh tiếng nhất của nhà sản xuất chip ghi nhận những cam kết nổi bật về hoạt động cũng như chất lượng sản phẩm và dịch vụ của các nhà cung cấp. 
-Giải thưởng trao cho IBM ghi nhận việc công ty này cung cấp cho Intel máy tính xách tay ThinkPad, máy để bàn ThinkCentre, máy trạm IntelliStation và máy chủ eServer xSeries. IBM cùng 15 công ty khác được trao giải SCQI tại Burlingame, California, Mỹ.
-"Intel đánh giá cao những nỗ lực của IBM nhằm liên tục nâng cao chất lượng cũng như khả năng đáp ứng hơn cả mong đợi của chúng tôi ông Martin Menard, Giám đốc về hiệu suất công nghệ thông tin của Intel, nhận định.
-Giải SCQI nằm trong quy trình liên tục nâng cao chất lượng đối với nhà cung cấp của Intel, được xây dựng nhằm khuyến khích các nhà cung cấp chủ chốt của hãng sản xuất chip lớn nhất thế giới nỗ lực hơn nữa trong việc nâng cao chất lượng cũng như đáp ứng tốt các nhu cầu của công ty. Để có thể đủ tiêu chuẩn nhận giải SCQI, các nhà cung cấp phải đạt ít nhất 95% trên các báo cáo đánh giá về khả năng hoạt động cũng như đáp ứng mục tiêu về chi phí, chất lượng, tính sẵn sàng, thời hạn, công nghệ và độ phản hồi. 
-

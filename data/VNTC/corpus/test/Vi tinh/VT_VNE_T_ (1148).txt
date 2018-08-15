@@ -1,6 +1,0 @@
-Microsoft thử nghiệm dịch vụ nhắn tin trên nền web
-Hãng phần mềm lớn nhất thế giới đang hoàn thiện một phiên bản mới của trình nhắn tin nhanh MSN Messenger, với tính năng sử dụng trên web mà không cần cài đặt. Cuối năm nay, dịch vụ sẽ chính thức ra mắt.
-Hôm thứ sáu tuần trước, phát ngôn viên của Microsoft cho biết, bộ phận MSN Internet của hãng đang thử nghiệm và chuẩn bị phát hành trên diện rộng MSN Web Messenger vào cuối năm nay, cả phiên bản thử nghiệm và bản chính thức đều miễn phí. Dịch vụ này là nỗ lực mới nhất của Microsoft trong việc vươn ra thị trường nhắn tin, thường được sử dụng để gửi đi những thông điệp tức thời bằng văn bản giữa người dùng đăng nhập trên những máy tính và thiết bị khác nhau. 
-Nhắn tin trên nền web thường có tính năng giới hạn hơn so với chương trình cài đặt trên PC. Loại hình nhắn tin này được thiết kế để hướng tới người dùng truy cập thông qua máy tính công cộng hoặc máy tính công sở, những nơi không cho phép cài đặt phần mềm. 
-Công cụ nhắn tin mới của MSN có tại địa chỉ: http://webmessenger.msn.com, và đang được thử nghiệm tại các website của Microsoft ở Mỹ, Anh, Pháp, Đức, Nhật Bản.
-

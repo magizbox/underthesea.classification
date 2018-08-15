@@ -1,4 +1,0 @@
-Giảm 50% cước dịch vụ truyền số liệu mạng Frame Relay
-Ngày mai, Tổng công ty Bưu chính viễn thông Việt Nam (VNPT) sẽ chính thức áp dụng bảng giá mới. Theo đó, cước dịch vụ Frame Relay đi quốc tế cũng hạ xuống hơn 50% cho tất cả các loại hình thuê cổng, thuê kênh PVC/CIR từ mỗi điểm liên lạc của Việt Nam. 
-VNPT cũng cho phép Công ty VDC tự quyết định các mức cước cài đặt, giảm giá thuê cổng, thuê kênh (giảm trên mức quy định của thời điểm hiện tại) cho các khách hàng đặc biệt. Cụ thể, giảm 30% phí cài đặt cho khách hàng thuê nhiều cổng, nếu họ tự cài đặt chỉ thu 20%. Những thuê bao thay đổi tốc độ cổng thì mức cước cài đặt chỉ tính cao nhất là 50%. Đồng thời, giảm 30% giá thuê cổng, thuê kênh PVC/CIR cho các hợp đồng nhiều cổng, dài hạn và trả tiền trước.
-

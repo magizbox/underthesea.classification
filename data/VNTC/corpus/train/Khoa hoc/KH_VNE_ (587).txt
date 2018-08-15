@@ -1,6 +1,0 @@
-Chế tạo thành công thiết bị mô phỏng phương tiện giao thông
-Chỉ cần ấn nút khởi động, con tàu sẽ rẽ sóng chuyển động và kèm theo đó là âm thanh của sóng, gió; những ngôi nhà hàng cây như cũng đang chạy như thực. Đây là mô hình dùng để mô phỏng quá trình vận hành phương tiện giao thông thủy vừa được nghiệm thu vào sáng nay.
-Công trình trên là đề tài khoa học cấp nhà nước do các giảng viên Đại học Giao thông vận tải TP HCM thực hiện với kinh phí 1,7 tỷ đồng, tiến hành trong 3 năm. Mô hình này dùng làm phương tiện đào tạo trong các trường đại học, dạy nghề, hoặc chuyển giao để cập nhật kiến thức kỹ thuật, công nghệ cho đội ngũ kỹ sư thực hành hoặc ứng dụng vận hành các phương tiện giao thông.
-Theo tiến sĩ Trần Hoài An, chủ nhiệm đề tài, qua thực nghiệm, những thiết bị mô phỏng này có giá trị tương đương với thiết bị của các nước có truyền thống sản xuất sản phẩm mô phỏng như Na Uy, Canada, Nhật Bản& mà giá thành chỉ ở mức 400.000-1.000.000 USD, bằng khoảng 20% giá hàng ngoại.
-Cũng theo ông An, khâu điều khiển hệ thống thiết bị hoàn toàn do đội ngũ giáo viên của trường thiết kế, từ phần cứng tới card giao tiếp với máy tính. Phần dựng hình sử dụng công nghệ 3D tạo hình ảnh giống thật mà không cần hỗ trợ của kỹ thuật video. 
-

@@ -1,6 +1,0 @@
-Bảo Việt khai trương mạng WAN
-Sáng nay, tại Hà Nội, Tổng công ty Bảo hiểm Việt Nam (Bảo Việt) chính thức ra mắt mạng diện rộng (WAN) đa dịch vụ. Đây là một trong những mạng cục bộ quy mô đầu tiên của Việt Nam, cho phép thực hiện các dịch vụ trên nền công nghệ cao. 
-Dự án này hình thành từ năm 2002 với vốn đầu tư 4,5 triệu USD và được sự hỗ trợ của tập đoàn Cisco Systems, Công ty ISP. Giai đoạn đầu hoàn thiện năm 2003 đã kết nối Hà Nội và TP HCM, cho phép trao đổi dữ liệu nhanh và đơn giản, hỗ trợ đắc lực cho hệ thống chứng khoán nói riêng và liên lạc nói chung của công ty. Theo dự kiến, trong hai giai đoạn tới (2004-2005 và sau 2006), Bảo Việt sẽ mở rộng mạng lưới tới các chi nhánh tại 64 tỉnh, thành và nâng cấp công nghệ cho toàn bộ hệ thống.
-Theo ông Trịnh Thanh Hoan, Tổng giám đốc Bảo Việt, mạng WAN là một trọng tâm trong chiến lược phát triển của Tổng công ty nhằm xây dựng Bảo Việt thành một tập đoàn tài chính hùng mạnh, đủ thế và lực để hội nhập quốc tế trong thời gian tới.
-Ngoài Bảo Việt, ngành bảo hiểm nói chung của Việt Nam hiện cũng rất nỗ lực trong việc ứng dụng CNTT vào hoạt động kinh doanh. 
-

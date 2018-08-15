@@ -1,7 +1,0 @@
- HP giới thiệu máy tính bỏ túi có chuột cảm ứng
-Sử dụng bộ vi xử lý của Intel PXA270, 624Mhz, tích hợp công nghệ Compact Flash Type (CF) cũng như các khe cắm kỹ thuật số bảo mật (SD) cho dung lượng lớn hơn và khả năng mở rộng. 
-Ngoài ra iPAQ hx4700 còn tích hợp công nghệ không dây WLAN 802.11b (Wi-Fi) cho phép người dùng kết nối mạng mọi lúc mọi nơi. Đặc biệt iPAQ hx4700 còn được trang bị thêm khả năng mật hóa thông tin, phần mềm in di động. 
-Dịp này HP cũng giới thiệu một loạt các lựa chọn và các chương trình phụ nhằm bổ sung và gia tăng sự đa dạng của các sản phẩm iPAQ. Một loại bàn phím dành cho máy HP iPAQ sử dụng công nghệ Bluetooth có thể gấp lại được cho phép việc truy cập dữ liệu vào các máy iPAQ nhanh hơn. 
-Bàn phím này nâng cao những giải pháp năng động của HP bằng việc sử dụng công nghệ Bluetooth không dây và kết hợp với hệ thống định vị toàn cầu (GPS) đã được công bố trước đây. 
-Để biết thêm thông tin chi tiết về dòng máy hx4700 và các sản phẩm iPAQ khác, có thể bấm chuột vào đây . 
-

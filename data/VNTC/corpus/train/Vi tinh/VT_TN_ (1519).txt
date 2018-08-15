@@ -1,4 +1,0 @@
-Tại cuộc Triển lãm Thương mại Kỹ thuật hàng năm CeBIT, công ty máy tính Intel đã cho giới thiệu sản phẩm máy tính mới: đó là máy tính cá nhân nhỏ có tên Origami.
-Origami có dạng tương tự như một máy tính xách tay nhưng không có bàn phím. Màn hình tiếp xúc cảm ứng của Origami rộng 7 inch, phản ứng với cái chạm của một bút trâm hay một ngón tay. Origami chạy với hệ điều hành Windows XP và không nối dây. 
-Công ty phần mềm máy tính Microsoft cho biết 2 nhà sản xuất sẽ tung ra thị trường 2 mẫu mã Origami vào mùa Xuân này. Mỗi mẫu nặng khoảng 1,1kg, dày khoảng 2,5cm. Kích thước bằng một quyển sách lớn, bìa mềm. Thiết bị sẽ được bán lẻ với giá từ 600 USD đến 1.000 USD.
-

@@ -1,7 +1,0 @@
- Bản vá Wi-fi cho Windows, còn rất lâu mới hiện hữu
-Lỗi Wi-fi của Microsoft cho phép hacker truy xuất đến toàn bộ thông tin trên đĩa cứng của các máy tính sử dụng Windows XP. Lỗi này do Mark Loveless tìm ra và công bố vào ngày thứ bảy tuần rồi tại hội thảo hacker tại ShmooCon. 
-Thứ tư vừa qua, Microsoft công bố họ nghiên cứu kĩ lưỡng về lỗi bảo mật trên và xác nhận rằng có nhiều khả năng bị xâm phạm trên các hệ thống chạy Windows XP. Tuy nhiên họ chưa có kế hoạch phát hành bản và thích hợp. 
-Bởi vì đây là lỗi do cơ chế vận hành, chính vì vậy, lỗi này phải được sửa chữa lại trên toàn các hệ thống Windows, bao gồm luôn cả Windows Vista. Microsoft cũng cho biết, họ chưa có kế hoạch phát hành bản vá dành cho Windows, đặc biệc là bản SP3 (Service Pack 3), ít nhất là đến nửa cuối năm 2007. 
-Microsoft khuyến cáo khách hàng nên cập nhật tất cả các bản sửa lỗi của Windows, nhất là bản Service Pack 2 vì bản này có mặc định mở chức năng tường lửa, là công cụ tốt nhất để phòng tránh lỗi này. Nếu không, khách hàng có thể sử dụng các chương trình tường lửa của các hãng thứ ba. 
-Lỗi này tuy được đánh giá là nghiêm trọng, tuy nhiên đối với những người dùng máy tính có kinh nghiệm, đây không phải là một điều gì "ghê gớm" cả. 
-

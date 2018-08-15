@@ -1,8 +1,0 @@
-Dell thu hồi 38.000 máy xách tay bị lỗi
-Nhà sản xuất máy tính Mỹ, kết hợp với hãng chế tạo adapter Mobility Electronics, vừa công bố việc thay thế dây dẫn điện bộ điều hợp cho số máy trên nhằm tránh khả năng gây giật điện cho người sử dụng.
-Dell đã bắt đầu liên hệ với những khách hàng mua thiết bị Dell Combination Auto/Air Power Adapter, vốn là một phần linh kiện được cung cấp kèm theo các loại máy Dell Inspiron và Latitude. Số adapter này - có thể hoạt động cả trên xe hơi và máy bay - được Dell đưa vào kinh doanh từ tháng Giêng năm nay với giá 90 USD và 110 USD. 
-Hiện chưa có thông báo sự cố nào đối với những sản phẩm trên song các cuộc kiểm tra trong phòng thí nghiệm cho thấy có khả năng người sử dụng bị giật điện nếu dùng các adapter này với bất kỳ loại dây dẫn nào khác mà không phải loại được đóng gói cùng sản phẩm chính hãng.
-Đại diện của Dell cho biết hôm qua, họ đã bắt đầu cung cấp cho khách hàng một bộ công cụ nâng cấp, trong đó có dây thay thế và một thiết bị để tránh không cho những loại dây khác có thể dùng trên thiết bị, giảm thiểu nguy cơ đối với chủ máy.
-Tuy nhiên, do Mobility Electronics chỉ sản xuất bộ Combination Auto/Air Power Adapter dành riêng cho Dell nên chương trình thay thế chỉ áp dụng hạn chế cho những khách hàng mua sản phẩm của Dell. Trong số máy tính xách tay nói trên, gần 28.000 chiếc được bán ở thị trường Mỹ.
-Trong mấy năm qua đã xảy ra khá nhiều vấn đề liên quan đến bộ điều hợp điện năng trên máy tính notebook, trong đó có vụ Compaq thu hồi 1,4 triệu chiếc năm 2001.
-

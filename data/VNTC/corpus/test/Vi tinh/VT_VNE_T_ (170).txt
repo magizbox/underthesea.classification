@@ -1,7 +1,0 @@
-Lỗi trong Outlook không nhẹ như thông báo
-Microsoft vừa quyết định nâng mức cảnh báo nguy cơ từ khiếm khuyết trong chương trình gửi thư này lên nghiêm trọng, tức là mức cao nhất sau khi họ nhận thấy khả năng bị khai thác của lỗ hổng này có thể rộng hơn nhiều.
-Lỗi Outlook 2002, được công bố hôm 9/3 và Microsoft đã có bản nâng cấp, có thể cho phép hacker sử dụng một website bẫy để máy tính mang khiếm khuyết tải về và chạy một chương trình của chúng.
-Khi Microsoft đưa ra bản vá lỗi này, họ tin rằng khả năng tấn công chỉ có thể xảy ra nếu người sử dụng dùng folder Outlook Today làm nền chính trong Outlook 2002. Bây giờ, sau khi nhận được lời cảnh báo của Jouko Pynonnen, chuyên gia an ninh Phần Lan phát hiện ra lỗi này, Microsoft đã xác nhận nguy cơ bị khai thác có thể lớn hơn nhiều. Theo Pynonnen, khiếm khuyết nói trên còn có thể bị khai thác để phát tán virus qua e-mail sang các máy cùng dùng Outlook 2002. 
-Tuy nhiên, Stephen Toulouse, Giám đốc trung tâm phản ứng nhanh của Microsoft, nhấn mạnh rằng bản vá lỗi mà họ đã phát hành hoàn toàn có thể ngăn ngừa bất kỳ cuộc tấn công nào kể cả khi lỗ hổng có to hơn.
-Phần mềm khắc phục khiếm khuyết cho Outlook 2002 hiện được cung cấp tại đây hoặc người sử dụng có thể áp dụng bản nâng cấp Service Pack 3 dùng cho Office XP, cũng được phát hành hôm 9/3.
-

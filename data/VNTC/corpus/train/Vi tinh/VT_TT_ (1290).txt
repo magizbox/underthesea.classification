@@ -1,4 +1,0 @@
- Hình thức thanh toán mới trong game online
-Khi đăng ký một tài khoản và nạp tiền, ngoài việc trừ dần tài khoản của người chơi theo thời gian chơi game, ở PTV còn có thêm chức năng giao dịch và giữ tiền tương tự như một ngân hàng. 
-Với tài khoản này, người chơi có thể chuyển khoản, giao dịch với nhau, cho vay... Đặc biệt, người chơi có thể rút tiền mặt từ tài khoản này tại các điểm rút tiền đối tác của FPT. 
-

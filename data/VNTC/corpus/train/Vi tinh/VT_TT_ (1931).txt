@@ -1,4 +1,0 @@
- Aptech mở khóa đào tạo chuyên gia hệ thống thông tin ACNP 
-Đây là chương trình đào tạo mới nhất của Aptech, tập trung vào việc thiết kế, xây dựng, quản lý hệ thống mạng máy tính và thiết lập các tuyến phòng thủ, chính sách bảo mật thông tin. Đối tượng học viên là những người mong muốn trở thành chuyên gia trong lĩnh vực quản trị và bảo mật mạng máy tính; các chuyên viên quản trị mạng trong các doanh nghiệp. 
-Chương trình ACNP gồm hai học phần kéo dài sáu tháng: quản trị hệ thống (ACNA) và bảo mật thông tin (ACSP). Nhà trường ưu đãi 10% học phí cho 50 học viên đầu tiên nhập học ACNP. Đối với các học viên đã và đang học tại các cơ sở của Aptech ưu đãi 20% học phí. 
-

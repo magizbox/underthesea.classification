@@ -1,7 +1,0 @@
- Cung cấp truyền hình qua Internet ADSL
-Từ nay đến 10-03-2006, sẽ có 500 người được chọn là những người đầu tiên tại Việt Nam sử dụng thử nghiệm Truyền hình Internet với 1 trong 2 phương thức: 
-- Download phần mềm để có thể xem được 32 kênh truyền hình trong nước và quốc tế qua máy tính nối mạng ADSL của FPT. 
-- Xem 32 chương trình truyền hình trong nước và quốc tế qua TV của khách hàng bằng hình thức FPT cho mượn thiết bị giải mã (IPTV Set Top Box – STB) gắn giữa modem ADSL với TV của khách hàng. 
-Truyền hình Internet (viết tắt là IP TV - Internet Protocol Television) là hệ thống dịch vụ truyền hình kỹ thuật số được truyền đến khách hàng thuê bao bằng giao thức Internet băng rộng qua ADSL. 
-Dịch vụ này thường được cung cấp kèm theo với Video on Demand (xem phim theo yêu cầu) và có thể bao gồm luôn các dịch vụ Internet như truy cập web và VoIP (điện thoại Internet). 
-

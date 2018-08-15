@@ -1,7 +1,0 @@
-Hàng loạt site BitTorrent đóng cửa
-Trong kỳ nghỉ cuối tuần qua, những website hàng đầu sử dụng công nghệ chia sẻ file ngang hàng (P2P) BitTorrent đã đồng loạt ngừng dịch vụ. Đây là thắng lợi lớn của Hollywood trong cuộc chiến pháp lý chống lại nạn trao đổi bất hợp pháp các tập tin phim, nhạc trên mạng P2P.
-Quản trị của site Suprnova.org, "nhà kho" lớn nhất hiện nay chứa liên kết đến các tập tin download sử dụng công nghệ BitTorrent, đã ra thông báo đóng cửa vĩnh viễn dịch vụ này: Chúng tôi rất lấy làm tiếc vì điều đó, nhưng không còn cách nào khác, chúng tôi đã thử hết mọi thứ có thể.
-Một site khác chứa các liên kết BitTorrent là N4p.com, tuyên bố đóng cửa vì có khiếu nại liên quan đến Luật bản quyền kỹ thuật số thiên niên kỷ. Các site Torrentbits.org và Phoenix-torrents.com cũng chấm dứt hoạt động. 
-Trước đó 1 tuần, Hollywood đã khởi kiện hàng trăm nhà điều hành của những server cung cấp dịch vụ P2P tại Mỹ và châu Âu. Nhà chức trách Phần Lan đã bắt giữ những nhà điều hành website BitTorrent lớn nhất của đất nước Bắc Âu này trong một hoạt động hợp tác với Hiệp hội Điện ảnh Mỹ (MPAA). 
-BitTorrent nổi lên rất nhanh trong năm nay và chiếm tới hơn 1/3 dung lượng lưu thông mạng trên toàn Internet. Chương trình này thu hút người dùng như vậy một phần là nhờ khả năng miễn dịch trước những tập tin mồi nhử do ngành công nghiệp điện ảnh và ghi âm tung ra tràn ngập các mạng P2P khác. BitTorrent cũng cho phép trao đổi file một cách hiệu quả với tốc độ cao.
-

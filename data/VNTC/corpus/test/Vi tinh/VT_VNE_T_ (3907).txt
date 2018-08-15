@@ -1,9 +1,0 @@
-Tấn công PC kết hợp 19 phần mềm nguy hiểm 
-Hãng Panda ngày 12/8 phát hiện những vụ tấn công dây chuyền rất tinh vi, thâm nhập qua Trojan SpamNet.A. "Con ngựa thành Troa" này xuất phát từ một trang web được đặt trên máy chủ tại Mỹ nhưng có tên miền đăng ký từ Moscow (Nga).
-Giám đốc Luis Corrons của Panda cho biết quá trình khai thác máy tính diễn ra rất phức tạp và có thể cài vào hệ thống tới gần 20 phần mềm chứa mã độc khác nhau. Mục tiêu của kẻ viết chương trình kết hợp này là để gửi thư rác.
-PC của người dùng Internet sẽ bị lây nhiễm khi họ ghé thăm website và sử dụng thẻ Iframe để mở trang mới. Chương trình sẽ đồng thời mở ra 6 trang khác có nội dung khiêu dâm. Nó cũng dẫn họ đến một site khác kèm virus khai thác khai thác lỗ hổng và thực hiện kiểu tấn công Ani/anr và Htmredir. 
-Sau khi thâm nhập hệ thống, nó sẽ cài một trong hai file giống hệt nhau Web.exe hoặc Win32.exe trên máy tính. Những file này tiếp tục tạo ra 7 tệp khác, và một trong số đó có khả năng tự nhân bản chính nó.
-"Hiện nay đã có hơn 3 triệu địa chỉ e-mail bị virus này sử dụng để gửi thư rác. Đây là dấu hiệu rõ ràng cho thấy kẻ viết chương trình đang rất thoả mãn với thành quả mà hắn thu được", Corrons khẳng định. "Động lực cơ bản của những vụ khai thác không đơn thuần là để tạo tiếng vang, mà nói thẳng ra là vì tiền. Spam là một trong những nguồn thu nhập chính của kẻ đứng đằng sau SpamNet.A".
-Cũng theo Corrons, đây là một trong những vụ tấn công có quy mô tổ chức phức tạp nhất mà họ từng chứng kiến.
-Corron khuyến cáo người sử dụng thường xuyên cập nhật chương trinh diệt virus do SpamNet.A chủ yếu dựa vào việc khai thác lỗ hổng trong máy tính của nạn nhân để tiến hành các vụ tấn công.
-

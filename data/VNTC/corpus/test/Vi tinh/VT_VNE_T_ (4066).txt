@@ -1,7 +1,0 @@
-Tốc độ phát triển mạng đang chậm dần 
-Sau 10 năm, Internet bắt đầu được thừa nhận là ngành công nghiệp trưởng thành. Tuy nhiên, giao thông mạng qua những đường cáp chính giữa các quốc gia chỉ đạt gần 49% trong năm 2005 trong khi một năm trước đó là 104%.
-Sự thay đổi này có thể là hệ quả của việc giảm số lượng người đăng ký dịch vụ Internet tốc độ cao trong năm nay.
-Alan Mauldin, chuyên gia phân tích cao cấp của hãng Linx (Anh), cho biết, ở bất cứ lĩnh vực nào, tốc độ tăng trưởng hàng năm 49% là "không thể tin nổi", nhưng Internet vốn vẫn "lớn nhanh như thổi" ngay từ khi ra đời khiến con số này trở thành sự kiện "không mấy dễ chịu" với giới quan sát.
-Tốc độ phát triển vẫn tương đối cao ở một số khu vực như châu Á (76%) và châu Mỹ Latinh (70%) nhưng cũng có phần giảm so với năm trước. 
-Hiện nay, lưu lượng giao thông mạng giữa các quốc gia là khoảng 1 terabit/giây và có khả năng năng lên 3 terabit vào năm 2008. Theo Mauldin, Internet lớn mạnh trong những năm qua là nhờ sự phổ biến ngày càng rộng của chương trình chia sẻ file, cho phép mọi người tìm và phân phối những tệp nghe nhìn dung lượng lớn.
-

@@ -1,5 +1,0 @@
- Đứt tuyến cáp quang biển SMW3
-Khi xảy ra đứt cáp, VTI đã nhanh chóng chuyển sang tuyến dự phòng nên sự cố này chỉ ảnh hưởng đến lưu lượng điện thoại quốc tế và làm chậm đường truyền Internet của VDC. 
-Theo ông Khánh, khi sự cố xảy ra, tàu bảo dưỡng cáp quang SMW3 không thể vào sửa chữa ngay được vì phía Trung Quốc không cho phép với lý do bảo vệ an ninh cho hội nghị WTO đang diễn ra tại Hong Kong. Đến 14g40 chiều qua (26-12), đoạn cáp này mới được hàn nối xong và hoạt động trở lại. 
-Tuyến cáp quang SMW3 đã từng bị đứt vào tối 24-5-2004 và được khắc phục sau hơn nửa tháng. 
-

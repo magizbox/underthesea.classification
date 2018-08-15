@@ -1,7 +1,0 @@
- AllPeer, công cụ peer-to-peer dành cho Firefox
-Đây được xem như là một điều tuyệt vời nhất dành cho trình duyệt Firefox kể từ khi Firefox chào đời. 
-Theo như giới thiệu, AllPeers là một sự kết hợp tuyệt vời thế mạnh của FireFox và BitTorrent, làm cho trình duyệt của bạn thành một công cụ tuyệt vời để chia sẻ các tập tin media qua Internet. 
-Công cụ này tuy chưa có mặt chính thức, tuy nhiên các fan của Firefox đều rất quan tâm. Theo như công cụ tìm kiếm blogs (một loại nhật ký trên mạng) là Technoraty, chỉ trong một vài ngày gần đây, giới làm blogs trên mạng đã thực hiện hơn 50 blogs nói về công cụ này. Phần lớn đều cho rằng, công cụ này sẽ làm tăng số người sử dụng Firefox, chính vì thế sẽ tăng thị phần của FireFox trước đối thủ chính là Internet Explorer của Microsoft. Tuy nhiên cũng có một số chưa đưa ra chính kiến cụ thể vì cho rằng, dù sao thì AllPeers vẫn chưa ra đời. 
-Theo ghi nhận cho thấy, những người viết blog bằng tiếng Hoa, Đức, Ý, Nga và Tây Ban Nha cũng có quan tâm đến phần mở rộng mới này. 
-Bạn có thể vào tham khảo thêm thông tin về phần mềm này tại địa chỉ http://www.allpeers.com/more_f.htm 
-

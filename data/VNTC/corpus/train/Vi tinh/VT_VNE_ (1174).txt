@@ -1,7 +1,0 @@
-Giải pháp bảo mật cho công tác văn phòng của HP 
-Các lỗ hổng phổ biến nhất hiện nay liên quan đến bảo vệ dữ liệu, ứng dụng, mạng và quản lý bảo mật, sẽ được nhà cung cấp giải pháp và thiết bị văn phòng HP hỗ trợ khắc phục bằng những phương pháp mang tính tổng thể tương ứng.
-Trong đó, bộ xử lý Protect Tools Embedded Security Chips cung cấp các tính năng cấp quyền truy cập hệ điều hành và tính năng mã hóa bằng phần cứng bằng cách tạo ra những khóa mã độc nhất và lưu chúng vào các bộ phận silicon.
-Giải pháp HP Digital Content Security Solution cùng một số máy quét HP Scanjet đem lại các tính năng in chìm, giúp ngăn chặn tình trạng làm giả hoặc sao chép bất hợp pháp tài liệu. Giải pháp này cũng có thể giúp tạo ra các tài liệu điện tử có chứng thực.
-Tăng cường tính bảo mật trong việc quản lý các nội dung kỹ thuật số bằng những tính năng như chống thư rác, chống virus máy tính, e-mail, cổng giao tiếp mạng, tính năng tường lửa và xác định nguy cơ xâm nhập từ xa,... là dịch vụ HP SAFE SC. Khi được hoàn chỉnh, sản phẩm này có tác dụng như một công cụ bảo mật với các dịch vụ bảo dưỡng, tự động cập nhật và dịch vụ cài đặt.
-Có tính năng tương tự nhưHP SAFE SC, giải pháp HP SAFE IP tích hợp giữa ứng dụng mạng ảo cá nhân và các ứng dụng tường lửa, tính năng cân bằng tải và hỗ trợ ISP Link Failover. 
-

@@ -1,7 +1,0 @@
-Netsky vẫn tiếp tục xuất hiện
-Biến thể mới nhất của loại sâu này xuất hiện tuần qua và lây lan đặc biệt mạnh vào ngày 14/10, khiến nhiều hãng phần mềm an ninh phải nâng mức báo động đối với người sử dụng.
-Phiên bản mang tên NetSky.AG phát tán chủ yếu ở Brazil và Argentina, song các chuyên gia virus cho biết nhiều bản sao của nó đã được ghi nhận ở các nơi khác trên thế giới chứ không chỉ có Nam Mỹ. 
-Rất dễ dàng phát hiện ra NetSky.AG bởi vì dòng chủ đề của những e-mail chứa virus được viết bằng tiếng Bồ Đào Nha, trong đó có một số nội dung như "bra rapido isso!!!!" (Hãy mở ra xem ngay) và "receitas de bolo" (Công thức làm bánh).
-NetSky.AG, giống như các loại sâu e-mail khác, gửi bản sao của nó tới các địa chỉ mail mà nó thu lượm được từ những máy bị lây nhiễm, đồng thời cũng phát tán qua các folder ở mạng chia sẻ và mạng ngang hàng. Nếu file đính kèm (có dạng .pif, .com, .scr, .bat hoặc .zip) được kích hoạt, một hộp thoại sẽ nhảy ra với dòng chữ thông báo File bị lỗi. Hãy thay thế.
-Hãng bảo mật McAfee đã nâng mức báo động về NetSky.AG từ thấp lên trung bình vì số bản sao của virus mà khách hàng gửi về cũng như thu thập được trên hệ thống theo dõi của họ tỏ ra cao bất thường.
-

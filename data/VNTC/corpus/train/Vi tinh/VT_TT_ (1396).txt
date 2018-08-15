@@ -1,4 +1,0 @@
- Chip Sempron chủ bài mới của AMD 
-Dòng chip di động Sempron được sản xuất dựa trên nền của bộ vi xử lý di động Athlon 64. Tuy nhiên cache bộ nhớ của Sempron sẽ thấp hơn cache bộ nhớ của dòng Athlon 64 di động chính gốc và sẽ không có đầy đủ tính năng của hệ thống di động Athlon 64bit. 
-Chip di động Sempron 3000+ chạy ở tốc độ 1,8 GHz với 128Kb cache bộ nhớ Level 2, có giá là 134USD/cái nếu mua sỉ ở mức độ 1.000 cái trở lên và đã được AMD phân phối rộng rãi từ ngày 22-11. Sempron 3000+ được đánh giá là khá rẻ và cũng là con át chủ bài của AMD để cạnh tranh với dòng chip Celeron của Intel. 
-

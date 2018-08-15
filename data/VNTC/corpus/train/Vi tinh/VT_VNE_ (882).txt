@@ -1,8 +1,0 @@
-Hỏi về đèn ổ cứng và ổ cứng (1)
-Xin chào các anh chị. Em mua một máy tính hiệu Toshiba: (PIII, hard disk 14GB chia làm 3 partions, Ram 248) đã được 3 năm. Máy của em cài winme ở ổ C, còn winxp ở ổ E, ổ D dự trữ dữ liệu. Gần đây khi vào winxp thì thầy lúc nào đèn đọc ổ cứng cũng nháy liên tục (trước đây đôi lúc nó mới đọc) Nếu vào winme đèn đó làm việc ít hơn (tuy nhiên vẫn nhiều hơn hồi mới mua về nhiều). Em rất lo lắng không biết có phải ổ cứng của em sắp hỏng phải không? Đèn nháy liên tục như vậy ngoài hỏng ổ cứng còn có thể hỏng bộ phận nào nữa không (vì nếu bắt buộc phải thay ổ cứng)? Em đã format và cài lại cả hai win vì em nghĩ window hỏng nhưng cài lại hiện tượng vẫn như củ (đèn vẫn nháy như thế). Khi đèn hoạt động nếu em vào các chương trình ứng dụng thì nó hay bi treo hoặc chạy chậm lắm. Em rất mong các anh chị chỉ dẫn cho em. Em cảm ơn nhiều.
-Thành
-Hồi âm:
-Dear questioner, 
-Your hard drive has no problem at all. Don't reformat and re-install your Windows because you waste your time and the problem can't be solved. The symptom you described was likely a virus problem. Do following steps. 
-1. Make sure you have anti-virus program loaded with latest virus definition. 2. Take a look the processess on Task Manager and find out which one takes highest CPU resources. If there is a strange processess with high load, then it must be virus. 3. Disable all programs on the Startup group including TSR 4. Apply the latest Windows SP and security patches. Good luck. 
-

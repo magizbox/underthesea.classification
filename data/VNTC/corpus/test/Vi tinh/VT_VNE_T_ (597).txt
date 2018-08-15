@@ -1,7 +1,0 @@
-Ổ cứng laptop đạt ngưỡng 100GB
-Toshiba vừa giới thiệu loại ổ cứng cho máy tính xách tay đầu tiên trên thế giới, có kích cỡ chỉ 6,35 cm, song có thể chứa 100GB dữ liệu.
-Theo Midori Suzuki, phát ngôn viên của hãng, thiết bị này dùng công nghệ phim mỏng. Nó khiến đầu ghi nhạy cảm hơn, đồng thời tăng mật độ dữ liệu lên tới 80GB mỗi inch vuông. So với nó, ổ cứng laptop hiện đại nhất Toshiba đang bán ra chỉ lưu tối đa 80GB, mật độ dữ liệu là 65GB/inch vuông. 
-Ngoài ra, ổ cứng mới có độ chống va đập lên tới 325G, cao gấp rưỡi loại ổ 80GB. Nó mang giao diện ATA-6, đạt tốc độ 4.200 vòng quay mỗi phút. Mặc dù công suất mạnh như vậy, mức tiêu thụ điện năng của nó lại giảm trung bình 20%. 
-Toshiba dự định thương mại hóa sản phẩm này từ quý III năm nay. Hãng chưa ước tính giá bán, song có lẽ sẽ khá cao, do giá thành sản xuất thử nghiệm số lượng nhỏ đã là 1096 USD. 
-Hãng Nhật Bản hiện cũng đang giữ kỷ lục Guiness về ổ cứng nhỏ nhất thế giới, có kích cỡ bằng đồng xu, và lưu được 2-4 GB dữ liệu.
-

@@ -1,9 +1,0 @@
-Trục trặc ở ổ cứng Maxtor (1)
-Chao cac anh chi va cac ban. Toi co mot may bo Pentium II 400, o cung trong may la Maxtor 6.4GB. Tu nhien khi khoi dong may bao khong nhan duoc o cung. Toi da dung dia CD boot lai nhung van khong nhan duoc o D. Tuy nhien, sau khi dem o cung do qua may khac thi van doc duoc binh thuong. Toi co xoa mot so file khong can thiet va scan virus roi gan lai may cu thi may cu lai hoat dong duoc.Toi khong hieu do la hien tuong gi, vi sao lai bi nhu the? Rat mong cac ban hieu biet chi giup! Co cach nao de may nhan duoc o cung do trong khi khong can thao dem qua may khac khong? Xin chan thanh cam on cac ban!
-Pham Anh Dung
-Hồi âm:
-Việc máy không nhận được ổ đĩa không liên quan gì đến nội dung của dữ liệu trên đĩa, vì thế bạn đừng mất công xoá các file đi làm gì. Bạn cần kiểm tra lại việc lắp ổ cứng đó vào máy cho chính xác. Các yếu tố cần kiểm tra như sau: 
-1. Đảm bản là các Jumper được cắm đúng (nếu là ổ chính thì phải để là Master, nếu là ổ phụ thì phải để là Slave). Điều này phải được thực hiện ở cả ổ đĩa còn lại nếu bạn sử dụng 2 ổ đĩa trên cùng một cáp IDE. Ổ có jumper là master nên nằm ở đầu ra ngoài cùng của cáp IDE. 
-2. Đảm bảo là cáp IDE lắp chính xác (rìa có màu đỏ (hoặc xanh, nhhìn chung là khác màu) của cáp phải quay về phía gần vị trí của Jumper). 
-3. Nếu vẫn không được thì kiểm tra lại các thiết lập trong BIOS của máy có chính xác không. Trong hầu hết các trường hợp thì tốt nhất là để ở chế độ Auto. Nếu vẫn không được thì hoặc là cáp IDE của bạn bị hỏng hoặc là mainboard của bạn bị hỏng. 
-

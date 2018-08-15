@@ -1,9 +1,0 @@
-Doanh thu chip phá kỷ lục năm 2000
-Doanh thu ngành công nghiệp bán dẫn toàn cầu sẽ đạt 235 tỷ USD cuối năm nay, vượt mức kỷ lục 223 tỷ USD cách đây 5 năm và tăng 6,9% so với 2004.
-2005 là năm bội thu của NAND flash.
-"Tốc độ phát triển mạnh trên thị trường bộ nhớ thể rắn dùng công nghệ NAND đã làm thay đổi thứ hạng và thị phần các công ty", Andrew Norwood, Phó giám đốc nghiên cứu của Gartner, cho biết. "Nhu cầu lớn về thẻ flash, ổ USD, cùng sự thành công của iPod Shuffle đầu năm và iPod nano mới phát hành vừa qua đã tác động không nhỏ đến thị trường. Doanh thu chip dự đoán sẽ đạt mức cao nhất trong vòng 5 năm".
-Intel dẫn đầu với tốc độ phát triển 14,3%. Samsung đạt 7,6%, đứng vị trí thứ 2. Tập đoàn điện tử Hàn Quốc vẫn chiếm ưu thế trong các lĩnh vực DRAM, SRAM và NAND flash.
-Texas Instruments (Mỹ) xếp hạng 3 còn Hynix Semiconductor (Hàn Quốc) lần đầu tiên xuất hiện trong top 10 với doanh thu 1,5 tỷ USD, tăng vọt từ 212 triệu USD năm trước.
-Lần thứ 5 trong 25 năm, hãng điện tử Philips bị đánh bật khỏi danh sách 10 công ty lớn nhất do không bắt kịp sự bùng nổ của thị trường bộ nhớ.
-"Các nhà sản xuất bán dẫn cần theo dõi sát sao hơn nữa nhu cầu của người tiêu dùng. Đánh mất thị phần trên thị trường một ứng dụng, sản phẩm đầu cuối nào đó như điện thoại di động, máy nghe nhạc đủ gây ảnh hưởng sâu sắc đến quá trình kinh doanh của mỗi công ty", Norwood nhận định.
-

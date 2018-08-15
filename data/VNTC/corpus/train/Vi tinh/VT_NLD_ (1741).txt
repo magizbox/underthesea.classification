@@ -1,7 +1,0 @@
- Call SMS Blocker 1.2 giúp chặn cuộc gọi, tin nhắn quấy rối Có thể nói tình trạng quấy rối điện thoại di động hiện nay khá phổ biến, gây rất nhiều phiền toái cho người sử dụng. 
-Đã đến lúc chúng ta phải tự bảo vệ mình khỏi những kẻ quấy rối “ở không” này và công cụ bạn cần có là Call SMS Blocker 1.2. 
-Đây là chương trình chặn tin nhắn và các cuộc gọi không mong muốn, dành cho các máy PDA sử dụng hệ điều hành Windows Mobile 2003/2003SE và 2005. 
-Chương trình có các lựa chọn khá linh hoạt cho phép bạn từ chối tất cả những số gọi đến (Reject all), chỉ nhận những cuộc gọi trong danh sách (Accept from lists), từ chối những cuộc gọi trong danh sách (Reject from lists), chỉ nhận những cuộc gọi có trong sổ địa chỉ (Accept from contacts). 
-Sau đó bạn có thể thiết lập danh sách các số điện thoại mà mình muốn hay không muốn nhận. Ngoài ra chương trình cho phép chặn các số điện thoại gọi giấu số (Block hidden numbers). Hình thức chặn cuộc gọi có thể là từ chối (người nhận gọi đến sẽ nghe tiếng bận máy), im lặng không đổ chuông (Mute), hay trả lời bằng một tin nhắn định sẵn (Reply with SMS). Tương tự, bạn có thể chặn các tin nhắn không mong muốn để nó không thể vào được Inbox của bạn. 
-Bạn có thể tải và mua bản quyền sử dụng chương trình Call SMS Blocker 1.2 tại địa chỉ www.winmobileapps.com/device/pocketpc/csb/csb_download.aspx. Ngoài ra bạn cũng có thể đến các cửa hàng dịch vụ điện thoại di động và yêu cầu họ cài đặt chương trình này vào máy cho bạn. 
-

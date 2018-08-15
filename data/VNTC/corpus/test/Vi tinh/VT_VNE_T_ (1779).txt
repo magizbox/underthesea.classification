@@ -1,8 +1,0 @@
-Xuống dòng tự động viết hoa trong MS Word (2)
-Lam on cho toi hoi mot chut ve phan Microsoft Word: Lam the nao de moi khi xuong dong hoac sau dau cham thi Word tu dong viet hoa. Xin chan thanh cam on!
-Hai Van Nguyen
-Hồi âm:
-Bạn thử mở Word rồi vào Insert, Auto text, Auto correct, bấm vào ô vuông của Capitalize first letter of sentences, OK. Chúc bạn thành công. 
-Tuan Hong
-Bạn chỉ cần chọnTool\Autorrect... Hộp thoại hiện ra Trên Tab Autocorrect bạn chọn Capitalizze First letter of sentences. Như vậy bạn thể tự động viết chữ hoa đầu câu. Tuy nhiên với tiếng Việt chỉ đúng khi bàn dùng Font chữ Unicode.
-

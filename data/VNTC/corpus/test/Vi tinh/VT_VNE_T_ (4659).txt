@@ -1,7 +1,0 @@
-IE7 được trang bị cơ chế mã hóa mạnh hơn
-Hãng phần mềm Microsoft dự định đưa giao thức mật mã TLSv1 (Transport Layer Security) trong thiết lập HTTPS mặc định, thay thế SSLv2 (Secure Socket Layer) cho phiên bản 7 của trình duyệt mới nhất.
-Điều này sẽ mang lại khả năng bảo mật cải tiến cho giao dịch thương mại điện tử. Microsoft nhận thấy chỉ có một số trang web sử dụng SSLv2, trong khi đó, việc thêm khả năng hỗ trợ SSLv3 hay TLSv1 đối với một website chỉ là quá trình thay đổi cấu hình đơn giản. Người dùng Internet Explorer 6 (IE 6) cũng có thể tự cấu hình những thiết lập này qua tuỳ biến Tools  Internet Options  Advanced menu.
-Bên cạnh đó, IE 7 sẽ chặn truy cập tới những trang có vấn đề, và người sử dụng sẽ nhận thông báo nếu họ mở một site không an toàn, tuy nhiên họ có thể bỏ qua cảnh báo đó. 
-Bản Beta 2 của IE 7 không hiển thị những nội dung thiếu an toàn, nhưng khách hàng vẫn được phép gỡ bỏ thiết lập mặc định này bằng cách sử dụng Information Bar.
-Microsoft cũng tiết lộ nền tảng Windows Vista sẽ hỗ trợ chuẩn cải tiến AES, cho phép mã hóa tới 256 bit. 
-

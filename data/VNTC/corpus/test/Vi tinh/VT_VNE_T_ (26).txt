@@ -1,7 +1,0 @@
-Bảo vệ máy chủ bằng AnalogX PortBlocker
-Khi bạn chạy một server trên PC của mình, nó sử dụng các cổng để cho phép máy khác có thể kết nối. Vì thế, nếu bạn dùng một server vốn chỉ dành cho liên lạc nội bộ, thì việc ngăn cản người ngoài truy cập máy chủ là điều không đơn giản. 
-Với AnalogX PortBlocker, bạn có thể phong tỏa cổng Internet của hầu hết các loại máy chủ, khiến chúng trở nên không thể tiếp cận đối với những máy tính khác trên Internet. Bên cạnh việc khóa các port này, bạn còn có thể xác định được tất cả những mưu toan truy cập được thực hiện từ các máy khác.
-Phần mềm được lập trình để bảo vệ những loại máy chủ phổ biến nhất cho nên nó không đòi hỏi bất cứ sự điều chỉnh nào đối với hầu hết người sử dụng. Tuy nhiên, nếu loại server mà bạn đang dùng không có trong danh mục sẵn có của chương trình thì bạn vẫn có thể điều chỉnh để thực hiện việc khóa cổng.
-Người viết AnalogX PortBlocker lưu ý chương trình này chưa đủ mạnh để đóng cả vai trò của một tường lửa phòng vệ toàn diện. Nhưng chắc chắn nó sẽ cho phép bạn yên tâm chạy một server được truy cập duy nhất trên mạng nội bộ. 
-Để tải miễn phí AnalogX PortBlocker, bấm vào đây.
-

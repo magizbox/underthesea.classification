@@ -1,5 +1,0 @@
- Mã nguồn của Cisco bị đánh cắp
-Mã nguồn luôn được các công ty như Cisco, Microsoft bảo vệ chặt chẽ bởi đây được coi là là huyết mạch trong kinh doanh của họ. Tuy nhiên, phần mã nguồn tình nghi bị phát tán thuộc Hệ điều hành mạng Internet (IOS) hiện đang được Cisco phát triển ở nhiều phiên bản. Chính vì vậy, việc bị đánh cắp mã nguồn có thể không ảnh hưởng tới tất cả các thiết bị của Cisco. 
-Ngay sau thông báo của Cisco, website về bảo mật của Nga (SecurityLab.ru) đăng tải thông tin nhận định, mã nguồn bị đánh cắp xuất phát từ một số mạng có lỗ hổng của tập đoàn Cisco. Trang web này cũng ước tính có khoảng 800Mb mã nguồn đã bị đánh cắp. 
-Năm 2003, Cisco cũng đã kiện hãng sản xuất thiết bị viễn thông lớn nhất của Trung Quốc (Huawei Technologies) về việc hãng này sao chép bất hợp pháp các phần mềm điều hành của hãng. 
-

@@ -1,6 +1,0 @@
-AMD sẽ từ bỏ dòng chip Athlon XP
-Nhằm cạnh tranh với Intel trên thị trường vi xử lý, AMD sẽ cho ra đời dòng chip mới sử dụng công nghệ 90 nm thay vì 130 nm như hiện nay. 
-Theo lộ trình phát triển được hãng sản xuất phần cứng này đưa ra, dòng chip Athlon XP sẽ chấm dứt sứ mệnh của mình vào đầu năm tới để nhường chỗ cho loại chíp sử dụng công nghệ 90 nm SOI (Silicon-on-ilsulator). Sản phẩm mới vẫn tên là Sempron nhưng sẽ thay đổi cơ bản về kĩ thuật chế tạo, được sử dụng cho cả 2 loại máy: để bàn và xách tay. 
-Công ty này vẫn tiếp tục bán ra các vi xử lý thuộc dòng 64 bit như Opteron, Athlon MP và Athlon XP cho đến khi sản xuất xong loại chip mới. Chip Althlon XP với 939 chân thay vì 754 chân như trước đây, sẽ chiếm tỉ lệ 65% tổng số sản phẩm vi xử lý của AMD.
-Hãng này sẽ đưa ra loại chip 2 lõi (dual-core) dành cho server có tên là Egypt và một loại tương tự dành cho máy để bàn vào khoảng giữa năm 2005.
-

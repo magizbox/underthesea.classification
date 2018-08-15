@@ -1,8 +1,0 @@
-HP mở rộng giải pháp cấu trúc ngoại vi thế hệ mới
-Đơn vị kinh doanh ProCurve Networking trực thuộc HP vừa công bố tiếp tục thúc đẩy chương trình mang tên "Câu truc ngoại vi tương thích" với việc trình làng một số dong thiết bị và ứng dụng giúp thiết lập mang an toan va linh hoạt hơn. 
-Sản phẩm cung câp trong chương trình bao gôm các bộ chuyên mạch cơ cấu tương kết (ICF) ProCurve 8100fl và ProCurve 8116fl, bản nâng câp phần mềm quan ly đinh hương nhân diên phô biên ProCurve 2.0, phần mềm quan ly di đông ProCurve 1.0 và bộ chuyên mạch ProCurve 2600-8-PWR vơi đương truyên tốc độ cấp gigabit.
-Gia của bộ chuyên mạch ProCurve 8108fl la 29.781 USD và ProCurve 8116fl là 41.481 USD. 
-Phần mềm quan ly đinh hương nhân diên ProCurve 2.0 dư kiên se được phát hành vào ngày 1/12 cùng với phần mềm quan ly di đông ProCurve 1.0 vơi gia 2.398 USD. 
-Bộ chuyên mạch ProCurve 2600-8-PWR cũng se có mặt trên thị trường trong tháng 10 vơi gia 956 USD. 
-Xem thêm thông tin tại www.procurve.com.
-

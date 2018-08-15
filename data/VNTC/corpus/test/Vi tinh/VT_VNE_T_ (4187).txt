@@ -1,7 +1,0 @@
-Làm thế nào để tổ chức họp trực tuyến (1)
-Hiện nay, công ty tôi sử dụng đường truyền ADSL, các máy dùng hệ điều hành WinXP. Tôi muốn tổ chức họp trực tuyến (các thành viên trong mạng LAN), tôi phải làm như thế nào? Xin các bạn cho chúng tôi giải pháp và hướng dẫn chúng tôi các bước thực hiện cụ thể.
-Trân trọng.
-Nguyễn Dũng
-Hồi âm:
-Bạn vào website dưới đây để tải về phần mềm cho mỗi máy trong mạng: http://www.skype.com. Bạn cài đặt phần mềm và tạo tên riêng cho mỗi máy. Mỗi khi bạn muốn tổ chức họp trực tuyến bạn chỉ cần khởi động phần mềm skype và gọi những thành viên mà bạn muốn họp bằng cách nhấn vào tools--Create Conference và lần lược cho (Add) tên những thành viên mà bạn đã có trong danh sách. Sau cùng nhấn Start. Chúc bạn bố trí buổi họp trực tuyến thành công.
-

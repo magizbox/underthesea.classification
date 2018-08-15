@@ -1,6 +1,0 @@
-Tạo album ảnh trên web với JAlbum
-JAlbum là một phần mềm miễn phí thông dụng giúp bạn tạo ra những bộ sưu tập ảnh đẹp trên web. Nếu có ý định xây dựng web site, bạn nên thử qua công cụ có tính năng rất mạnh này.
-JAlbum rất dễ sử dụng. Bạn chỉ cần chọn hoặc kéo - thả các thư mục chứa ảnh vào giao diện của chương trình và nó sẽ tạo ra các thumbnail cùng trang HTML để xuất bản bộ ảnh của bạn như một slideshow hoặc gallery.
-Các bộ sưu tập ảnh do JAlbum tạo ra được đặt trên các template đa đạng và có giao diện tùy biến. Chương trình còn có một số tính năng hữu ích khác như hỗ trợ dữ liệu IPTC/EXIF, chỉnh sửa ảnh không giảm chất lượng, các bộ lọc cài thêm, giao thức truyền file FTP gắn trong& Phiên bản mới nhất 4.5.1 hỗ trợ 17 ngôn ngữ và nhanh hơn các bản trước đây rất nhiều. 
-Chương trình tương thích với Windows 95/98/Me/NT/2000/XP, có dung lượng 10 MB. Tuy nhiên, máy tính của bạn cần có Java 1.3 trở lên mới có thể cài đặt được. Nếu chưa có Java, bạn có thể tải tại đây, còn nếu đã có, bấm vào đây để download.
-

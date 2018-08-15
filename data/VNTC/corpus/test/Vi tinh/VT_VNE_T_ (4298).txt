@@ -1,9 +1,0 @@
-Hai đợt spam liên tiếp của virus Bagle
-Chỉ trong 2 ngày 20 và 21/9, biến thể mới nhất Bagle.DI-U đã mở hai cuộc tấn công, vô hiệu hóa các phần mềm diệt virus, chặn truy cập tới website bảo mật nhằm mở đường cho hacker điều khiển máy tính mà không bị cản trở.
-Bagle.DI-U lây lan qua thư rác chứa tiêu đề trống, phần nội dung chỉ là dòng chữ "new price" (giá mới) và file đính kèm có tên như "09_price.zip," "price_new.zip," và "price2.zip". Khi người dùng mở những tệp trên, virus này sẽ nhanh chóng thâm nhập máy tính, thay đổi registry, mở cổng hậu và tắt chương trình bảo mật.
-Bắt đầu xuất hiện từ tháng 1/2004, dòng sâu Bagle đã mở rộng ít nhất 70 biến thể có mức độ nguy hiểm tương đương nhau. 
-Một đợt e-mail virus khác, giả dạng thiệp điện tử từ "một người thầm ngưỡng mộ bạn", cũng đã khiến hàng loạt máy tính bị lây nhiễm chỉ trong vài ngày tuần này.
-Sâu có tên Dloader.UT sẽ ngay lập tức tải về máy khi người dùng bấm vào link tới trang chứa e-card. Trojan này sau đó kiểm soát toàn bộ máy tính, cho phép tin tặc cài phần mềm bất kỳ trên hệ thống để gửi spam hoặc làm vũ khí tấn công trực tuyến những mục tiêu khác.
-Nguy cơ ẩn sau những tấm thiệp điện tử đã được cảnh báo khá nhiều gần đây. Ví dụ điển hình của mánh khóe này là sâu Zafi.D, đính kèm trong e-card mừng Giáng sinh, đã thống lĩnh các bảng xếp hạng những virus nguy hiểm nhất trong suốt thời gian qua.
-Hãng bảo mật Sophos của Anh khuyến cáo người sử dụng tránh mở file kèm trong thư rác và đảm bảo phần mềm chống virus của họ luôn được cập nhật. "Mọi người cần nghĩ kỹ trước khi bấm vào một thư rác nào đó. Chúng thường khiến ta 'tưởng bở' để rồi bị ăn cắp thông tin cá nhân và tài chính", Carole Theriault, cố vấn bảo mật của Sophos, nói. "Ngày càng nhiều những kẻ viết chương trình Trojan, spyware sử dụng phương pháp spam để tối đa hóa số lượng nạn nhân".
-

@@ -1,6 +1,0 @@
- Đề xuất phương án đơn giản hóa việc "trói" thuê bao trả trước
-Theo đó, khách hàng đăng ký thuê bao trả trước mới sẽ không phải đến cơ sở của nhà cung cấp dịch vụ để khai báo thông tin mà khi kích hoạt sim chỉ cần khai số CMND của mình và gửi về tổng đài của nhà cung cấp dịch vụ. Nhà cung cấp dịch vụ sẽ kiểm tra thông tin đó tại kho dữ liệu của Bộ Công an để xác định tên, tuổi của khách hàng. 
-Tuy nhiên, đây cũng không hoàn toàn là giải pháp tốt trong trường hợp khách hàng không có chứng minh thư. 
-Các nhà cung cấp dịch vụ cho rằng biện pháp “trói” thuê bao trả trước sẽ không đáp ứng được yêu cầu đảm bảo an ninh mà trên thực tế, thông qua các biện pháp kỹ thuật, nhà cung cấp vẫn có thể xác định được các thuê bao có hành vi vi phạm pháp luật. 
-Ngoài ra, việc “trói” thuê bao trả trước cũng sẽ ảnh hưởng nghiêm trọng tới mục tiêu phát triển 32 - 42 triệu thuê bao điện thoại (cả di động và cố định) vào năm 2010. 
-

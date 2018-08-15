@@ -1,9 +1,0 @@
-Cách cài WinXP từ DOS (1)
-Xin chỉ giúp tôi cách cài WinXP từ Dos với. Cài bằng CD thì tôi biết qua qua rồi nhưng có máy không có CDRoom tôi phải làm gì? Có người nói chỉ cần chạy file winnt.exe trong i386 là cài được nhưng tôi làm vậy nó vẫn không chạy. Mong mọi người giúp tôi. Tôi cảm ơn rất nhiều!
-Nguyễn Luân
-Hồi âm:
-Muon cai duoc win xp tu Dos ma k co o dia CDROM thi ban phai lam nhu sau: 
-1. bo dia mem khoi dong duoc lam tu win98 vao, khoi dong vao dau nhac DOS (truoc do phai vao BIOS set cho khoi dong tu dia mem truoc da), danh linh A:\ format C: /s, cho format cho den khi hoan tat, sau do copy file SMARTDRV.EXE (thuong co trong cac dia hiren boot tu dia mem vao) 
-2. dem o cung nay gan vao may nao do co chua bo nguon WINXP, nho set cho dia cung cua ban la master. khoi dong vao dau nhac dos va copy toan bo thu muc cai dat win xp vao dia D cua dia cung ban 
-3.Lap o cung vao may cua ban, khoi dong tu dau nhac DOS, danh linh D: roi tiep chuyen den file winnt.exe va` Enter (trong thu muc I386 cua bo nguon cai dat WINXP), nho la truoc do ban phai danh linh SMARTDRV.EXE de tang toc do truy xuat cho o dia cung chay, doi voi cac may co cau hinh thap thi top nhat k nen cai theo kieu nay.
-

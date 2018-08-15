@@ -1,6 +1,0 @@
- Phần mềm thông dịch tiếng nói trực tiếp
-Trong thư viện của phần mềm hiện nay có khoảng 50.000 từ tiếng Nhật và 36.000 ngàn từ tiếng Trung Quốc. Những từ này là những từ thường được dùng nhất bởi các khách du lịch. Điều khá đặc biệc là phần mềm này cũng phân biệt được sự khác nhau về trọng âm và chất giọng của tiếng nói từ những miền khác nhau của Trung Quốc. 
-Theo những lời giải thích từ e-mail gởi cho những người quan tâm, chương trình dịch này sẽ có hai phiên bản là audio (âm thanh) và text (văn bản). Tuy nhiên, chương trình này chỉ tương thích trên nền của hệ điều hành Windows Mobile CE, và hiện tại, NEC chưa có kế hoạch phát triển bản hổ trợ cho các hệ điều hành khác. 
-Công ty NEC cũng đã từng giới thiệu một chương trình dịch thuật trực tiếp Anh - Nhật vào năm 2002 trên PDAs. 
-Người phát ngôn của NEC chưa tiết lộ thời điểm cụ thể để thương mại hóa phần mềm, nhưng nói rằng, họ vẫn đang phát triển để hoạn thiện phần mềm hơn, nâng cao độ chính xác khi nhận dạng tiếng nói và dịch thuật. 
-

@@ -1,7 +1,0 @@
- VoodooPC: máy để bàn dung lượng đĩa cứng đến 8.000 GB
-Như vậy chiếc máy để bàn siêu cấp này có thể chứa được một lượng thông tin văn bản có thể in lên một lượng giấy làm ra từ 400.000 thân cây. 
-Khi được tung ra vào cuối năm nay, chiếc máy tính VoodooPC này sẽ được trang bị hệ điều hành Windows Vista, và nó có khả năng xử lý các công việc liên quan đến video độ nét cao ở tốc độ từ 11 GB đến 120 GB/giờ tùy theo tác vụ. 
-Raul Sood, chủ tịch của VoodooPC chưa tiết lộ gì về cấu hình chi tiết của chiếc máy để bàn siêu cấp này nhưng cho biết rằng nó sẽ là loại máy để bàn thuộc loại hùng mạnh và gan lì nhất thế giới hiện nay với giá từ 8.000 đến 9.000 USD. Hiện VoodooPC đang bán ra loại máy để bàn có tổng dung lượng đĩa cứng là 1.000 GB với giá là 3.000 USD, chuyên dùng cho những game thủ hàng đầu hoặc những chuyên gia chuyên xử lý video. 
-Dave Reinsel, chuyên gia phân tích của IDC nhận định rằng giá đĩa cứng hiện đang giảm mạnh hơn bao giờ, với tốc độ giảm khoảng từ 15 đến 20%/năm và hiện giá trung bình của 1 GB đĩa cứng thông thường chỉ còn khoảng 0,55 USD. 
-Microsoft sẽ chính thức bán ra Windows Vista vào khoảng cuối năm 2006 và đây là hệ điều hành dành cho PC đầu tiên trên thế giới “thuần chủng” 64bit, tuy nhiên nó vẫn hỗ trợ hoàn hảo cho các phần mềm 32 bit. 
-

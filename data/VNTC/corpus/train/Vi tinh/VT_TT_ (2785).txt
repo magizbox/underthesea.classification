@@ -1,9 +1,0 @@
- Microsoft tung ra bản vá 12 lỗi bảo mật
-Đây cũng là lần đầu tiên Microsoft tung ra các bản vá lỗi có kèm theo các công cụ và dịch vụ vá lỗi chuyên dùng cho cả doanh nghiệp lẫn người dùng cá nhân. 
-3 trong số 12 lỗi bảo mật được xếp hạng ở mức độ “nghiêm trọng”, mức độ cao nhất trong 4 mức độ cảnh báo của Microsoft. 3 lỗi bảo mật này đều ảnh hưởng đến hệ điều hành và Internet Explorer. 
-Trong bản tin MS05-025, 026 và 027 Microsoft đã công bố chi tiết về 3 lỗi bảo mật này. 3 lỗi trên ảnh hưởng đến Internet Explorer; hệ thống trợ giúp trong Windows 2000 - XP - Server 2003; giao thức Server Message Block (SMB) trong Windows 2000 - XP - Server 2003. 
-Mike Murray, giám đốc nghiên cứu bảo mật của nCircle nhận định rằng 3 lỗi bảo mật trên đã từng được khắc phục trong quá khứ nhưng lần này Microsoft phải vá lại lần thứ hai chính vì đã xuất hiện một số biến thể lỗi trong Internet Explorer, XML và một số biến thể lỗi khác. 
-Lỗi bảo mật ở giao thức SMB ở bản tin MS05-027 là thuộc dạng nghiêm trọng. SMB là giao thức mà Windows sử dụng để chia sẻ tập tin, máy in, các cổng nối tiếp và kết nối giữa các máy tính. 
-Trong 7 bản tin còn lại Microsoft cũng công bố chi tiết về 4 lỗi bảo mật được xếp vào hạng “hết sức chú ý” và 4 lỗi bảo mật ở mức độ “vừa phải”. Các lỗi này ảnh hưởng đến Outlook Web Access, Exchange Server 5.5, Microsoft Internet Security và Acceleration (ISA) Server 2000. 
-Người dùng quan tâm có thể vào đây để tìm hiểu và tải các bản vá lỗi cũng như công cụ về sử dụng. 
-

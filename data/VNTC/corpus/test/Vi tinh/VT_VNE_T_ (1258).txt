@@ -1,6 +1,0 @@
-Chip desktop 2 lõi của Intel sẽ mang tên x?
-Các bộ vi xử lý lõi kép thuộc họ "Smithfield" được tung ra vào quý III năm tới có thể sẽ được gọi là x20, x30 và x40, trong đó loại đầu tiên là một chip với bộ nhớ cache kép L2, dung lượng 1MB, hỗ trợ kiến trúc EM64T.
-Tốc độ đồng hồ của x20, x30 và x40 sẽ lần lượt là 2,80 GHz, 3 GHz và 3,20 GHz. Tất cả sẽ có cổng (bus) hệ thống 800 MHz và sử dụng chân cắm socket LGA 775. 
-Trong khi đó, các bộ xử lý 630, 640, 650 và 660 của Intel, với 2MB bộ nhớ truy cập nhanh (cache) L2 và bus hệ thống 800 MHz, sẽ được giới thiệu vào quý I năm sau. Tuy nhiên, giới quan sát cho rằng phải đến quý II các sản phẩm này mới được bán đại trà. Giá của nhóm chip này lần lượt là 225 USD, 270 USD, 400 USD và 600 USD. Riêng loại 670 với tốc độ 3,8 GHz sẽ có giá khoảng 850 USD.
-Những loại chip cho máy để bàn mà Intel sẽ phát hành nốt trong năm nay là 570J, tốc độ 3,8 GHz, bus hệ thống 800 MHz, dự kiến ra mắt vào tháng 11 với giá 640 USD. Thứ hai là chip Pentium IV Extreme Edition, tốc độ 3,46 GHz, bus hệ thống 1.066 MHz, theo kế hoạch sẽ có mặt trên thị trường vào cuối tháng 10 này với giá gần 1.000 USD.
-

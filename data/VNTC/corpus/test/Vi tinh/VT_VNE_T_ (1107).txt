@@ -1,6 +1,0 @@
-Xuất bản web nhanh chóng với Macromedia Contribute 3.0
-Nếu có ý định xây dựng trang web, chắc chắn bạn đã dùng qua một số công cụ xuất bản FTP client và thấy hết được sự phức tạp của nó. Nay, với Macromedia Contribute 3.0, công việc của bạn được đơn giản hóa rất nhiều.
-Sử dụng Macromedia Contribute, ngay cả những người dùng có hiểu biết hạn chế về kỹ thuật cũng có thể dễ dàng cập nhật và duy trì nội dung của các website có sẵn mà không cần có kiến thức về HTML. Với những chuyên gia web, chương trình giúp bạn rút ngắn thời gian cập nhật nội dung web, trong khi vẫn duy trì kiểm soát với thiết kế, mã và cấp phép. Dễ cài đặt và dễ sử dụng, Contribute tương thích với bất kỳ web site HTML nào, bao gồm Macromedia Dreamweaver, Microsoft FrontPage, và kể cả những trang web tự viết code.
-Giao diện quản trị và Draft Console của Macromedia Contribute 3.0 đã được cải thiện rất nhiều, đồng thời bổ sung nhiều tính năng cao cấp. Bạn có thể duyệt và biên tập mà không cần chờ các tập tin liên quan tải xuống, quản lý và cấp quyền cho người dùng theo các mức độ khác nhau một cách nhanh chóng.
-Để sử dụng Macromedia Contribute 3.0, bạn cần cấu hình tối thiểu là Windows 98/Me/NT/2000/XP, Internet Explorer 5.0. Chương trình có dung lượng 26,4 MB, bạn có thể tải bản dùng thử bị hạn chế một số tính năng tại đây. 
-

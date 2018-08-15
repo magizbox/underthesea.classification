@@ -1,7 +1,0 @@
-Singapore có chip phát hiện nhanh bệnh sốt xuất hiện
-Các nhà khoa học ở quốc đảo hôm qua thông báo đã phát triển thành công bộ vi xử lý, có thể tiết kiệm chi phí và thời gian chẩn đoán bệnh sốt xuất huyết.
-Bộ vi xử lý có kích cỡ đồng xu, có tên là AttoChip, do nhóm phát triển Attogenix Biosystems chế tạo. Chip này sẽ phân tích ADN trong mẫu máu để đánh giá gene và virus, đồng thời tiến hành nhiều test cùng một lúc để nhận dạng các chủng virus khác nhau. Thời gian chẩn đoán là 2 tới 3 ngày, thay vì 6-7 ngày như biện pháp kiểm tra phản ứng miễn dịch hiện nay.
-"Thay vì dựa vào kháng thể, chúng tôi phát hiện chính virus", tiến sĩ Ting Dor Ngi, Giám đốc kỹ thuật của công ty công nghệ sinh học Attogenix, cho biết. Kỹ thuật kiểm tra gene hiện nay không mới, song nó chỉ được dùng trong các bệnh viện chuyên ngành do quá trình thu thập và đánh giá mẫu khá tốn kém về thời gian và tiền bạc.
-Nhóm phát triển hy vọng sẽ kinh doanh chịp mới tại thị trường ở các quốc gia đang phát triển Đông Nam Á như Malaysia, Thái Lan và Việt Nam - nơi có số ca nhiễm sốt xuất huyết gia tăng trong những tháng gần đây làm hàng chục người thiệt mạng.
-Sốt xuất huyết là căn bệnh do muỗi lây truyền bệnh, với các triệu chứng sốt cao, đau đầu, đau khớp và mẩn ngứa. Một số chủng còn gây xuất huyết trong và tử vong. Phần lớn bệnh nhân sống sót nếu được điều trị sớm. Bệnh ảnh hưởng tới khoảng 100 triệu người mỗi năm, song hiện nay vẫn chưa có văcxin phòng bệnh.
-

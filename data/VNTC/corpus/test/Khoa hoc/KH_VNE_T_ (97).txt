@@ -1,4 +1,0 @@
-Cách xác định kính thật phẳng? 
-Có những hoạt động rất cần các tấm kính thật phẳng, ví như ngành kỹ thuật quang học. Muốn biết tấm kính đã đáp ứng yêu cầu hay chưa, cách kiểm tra phổ biến là áp dụng hiện tượng giao thoa ánh sáng.
-Người ta dùng một tấm kính có mặt đảm bảo rất phẳng để làm mẫu, rồi đặt tấm kính cần xác định lên. Khoảng cách giữa hai tấm tồn tại một lớp không khí cực mỏng. Sử dụng một chùm sáng đơn sắc, chẳng hạn ánh sáng vàng natri, chiếu vào hai tấm kính đó rồi xem xét các vân giao thoa xuất hiện. Nếu các vân giao thoa thẳng và song song thì mặt tấm kính cần xác định đúng là phẳng. Nếu tấm kính cần kiểm tra có chỗ gồ ghề dù chỉ 0,0001 mm thôi thì tại đó, vân giao thoa sẽ cong. Để kiểm tra mặt cầu của các thấu kính, người ta cũng dùng phương pháp tương tự.
-

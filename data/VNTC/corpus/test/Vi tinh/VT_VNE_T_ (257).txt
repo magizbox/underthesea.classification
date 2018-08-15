@@ -1,6 +1,0 @@
-Bảo hiểm mã mở
-Khi SCO tấn công người sử dụng Linux, họ không biết mình sẽ vô tình khai sinh một loại hình bảo hiểm mới: Bảo hiểm rủi ro vì bị SCO khởi kiện.
-Dịch vụ này vừa được hãng Open Source Risk Management (OSRM), trụ sở tại NewYork, thông báo sẽ tiến hành nay mai. Mức phí bảo hiểm khoảng 3% số tiền bảo hiểm. Không chỉ giới hạn với SCO, OSRM có thể bồi thường cho khách hàng về nhiều thứ rắc rối pháp lý về sáng chế hay bản quyền phần mềm mã mở.
-Ngoài OSRM, hiện đã có vài công ty như Hewlett-Packard hay Novell cung cấp một số hình thức bảo vệ khách hàng dùng sản phẩm Linux của họ. Open Source Development Labs thì tổ chức thành lập quỹ hỗ trợ pháp lý trị giá 10 triệu USD. Theo nhà phân tích Laura DiDio của hãng Yankee Group, động thái trên cho thấy cộng đồng mã mở đang cảm thấy bất an với Linux. Thông điệp của chính sách bảo hiểm rất rõ ràng, đó là chẳng thứ gì miễn phí cả, bà nói.
-Về phía SCO, hãng nhận xét rằng số tiền bản quyền 699 USD của họ có khi còn rẻ hơn mua bảo hiểm.
-

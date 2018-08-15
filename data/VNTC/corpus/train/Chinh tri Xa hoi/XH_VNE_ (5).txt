@@ -1,6 +1,0 @@
-Thi xe robot Chinh phục dãy Trường Sơn 
-Cuộc thi này dành cho những ai yêu thích bộ môn điều khiển tự động, do Nhà văn hóa Thanh niên TP HCM tổ chức, sẽ diễn ra vào tháng 4. Mỗi đội tham dự phải cho xe vượt qua khu xuất phát, đường đồng bằng, khu đầm lầy, chướng ngại vật và "đỉnh Trường Sơn" để về đích trên lộ trình dài 30 m, rộng 20 m.
-Kích thước của xe là 400 x 400 mm, chiều cao không giới hạn, tổng trọng lượng là 5,5 kg. Sau khi xe xuất phát có thể mở rộng kích thước nhưng không được vượt quá 700 x 700 mm, tổng trọng lượng không vượt quá 100 gram.
-Cuộc thi dành cho các đối tượng từ Đà Nẵng trở vào. Mỗi đội phải có 4 thành viên. Nếu sinh viên ở các tỉnh xa lọt vào vòng chung kết sẽ được ban tổ chức hỗ trợ một phần kinh phí để tham dự vòng chung kết.
-Thời hạn đăng ký đến hết ngày 10/4. Vòng chung kết diễn ra vào ngày 2/5. Các bạn trẻ muốn tham gia có thể đăng ký tại Phòng Khoa học giáo dục - Nhà văn hóa Thanh niên, hay thắc mắc gọi về Bộ môn cơ điện tử, khoa Cơ khí, ĐH Bách khoa TPHCM. Điện thoại: (08)8660724. Email: mechatronics@dme.hcmut.edu.vn.
-

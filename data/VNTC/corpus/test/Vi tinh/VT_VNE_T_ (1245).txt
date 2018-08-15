@@ -1,6 +1,0 @@
-Nero 6.0 không khởi động được (1)
-Chào các bạn, tôi có một vấn đề nhỏ xin được giải đáp. Tôi dùng Nero 6.0 để chạy ghi đĩa, máy chạy bình thường nhưng hiện nay không thể khởi động được chương trình Nero mặc dù đã cài lại nhiều lần theo như hướng dẫn. Tôi đã chạy chương trình quét vi rút nhiều lần trước khi cài lại nhưng vẫn không chạy được sau khi cài.Có cách nào để chạy được Nero mà không cần phải Format lại ổ cứng không. Xin các bạn chỉ bảo cho tôi.
-Phan Duy Hoa 
-Hồi âm:
-Than gui ban Phan Duy Hoa. Theo nhu ban mieu ta thi co le trong may cua ban co mot Program nao do KHONG tuong thich voi Nero. Nero rat ky voi "Clone CD/DVD". Ban thu deinstall nhung Programs ma ban da cai trong thoi gian gan day xem, sau do ban cai lai Nero, roi tiep tuc cai lai nhung Programs khac. Neu sau khi cai mot Program nao do ma Nero khong chay duoc nua thi ban se rat vui.
-

@@ -1,6 +1,0 @@
-20 tháng tù cho 'hacker' VN tại Singapore
-Sáng nay, phiên tòa xét xử Nguyễn Văn Phi Hùng, sinh viên khoa Công nghệ máy tính, ĐH Quốc gia Singapore (NUS), bị buộc tội sử dụng máy tính trái phép đã kết thúc tại quốc đảo sư tử. Không có mức phạt tiền nào dành cho Hùng. 
-Phiên xử diễn ra rất nhanh chóng vì Phi Hùng đã nhận hết trách nhiệm. Khoảng 20 người Việt Nam đã tham dự phiên tòa này.
-Phan Phi Long, Chủ tịch Hội sinh viên VN của trường NTU (Singapore), bày tỏ: "Tôi và các bạn bên này rất mừng cho Hùng và hy vọng cậu ấy sẽ mau chóng kết thúc hạn tù để có thể làm lại từ đầu".
-Nhờ trojan "bubble.exe" mang tên Perfect Keylogger, một phần mềm ẩn sau chương trình game ghi nhớ các phím gõ rồi tự động gửi lại thông tin của người chơi, Hùng đã nắm được tài khoản ngân hàng trực tuyến cùng mật khẩu máy tính của 2 bạn học là Wong Ming Liang (người Malaysia) và Lim Xiao Jing (người Singapore). Cậu đã dùng mật khẩu của Lim để truy cập vào máy chủ nhà trường và tài khoản ngân hàng của Wong mua hàng loạt thẻ điện thoại quốc tế trả trước, đăng ký sử dụng tạp chí HardwareMAG... Tổng cộng số tiền Hùng lấy cắp được là 638 USD.
-

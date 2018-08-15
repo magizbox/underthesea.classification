@@ -1,6 +1,0 @@
- Camera P45 lập kỷ lục với 39 megapixel
-Nếu chụp ở chế độ phơi sáng đơn thì P45 cho ra các hình ảnh với độ phân giải ở mức 7.216 x 5.412 pixel, còn nếu chụp hình ở chế độ phơi sáng kép thì P45 sẽ cho ra hình ảnh ở độ phân giải đến kinh hoàng: 10.600 x 7.216 pixel. 
-P45 có thể tạo ra các hình ảnh với độ sâu màu đến 16 bit ở phạm vi đến 12 f-stop. P45 hỗ trợ các độ nhạy sáng ISO 50, 100, 200 và 400, ngoài ra nó cũng có thể quay phim ở tốc độ 35 khung hình/giây với tốc độ ghi dữ liệu nhanh ở mức 20 MB/giây. 
-P45 được trang bị màn hình LCD 2,2 inch, pin của P45 có thể có thời lượng hoạt động trong khoảng 4 giờ hoặc có thể chụp liên tục 250 tấm hình với độ phân giải cực cao. Phase One vẫn chưa tiết lộ thời điểm chính thức bán ra P45 cũng như giá ban đầu của nó. 
-Cách đây khoảng hơn một tuần, hãng Mamiya của Nhật cũng đã giới thiệu loại camera kỹ thuật số Mamiya ZD có độ phân giải đến 22 megapixel, nhưng đáng tiếc kỷ lục của Mamiya ZD chỉ tồn tại được khoảng hơn một tuần và Phase One đã phá kỷ lục của Mamiya ZD đến gần gấp đôi. 
-

@@ -1,4 +1,0 @@
- Thành lập Trung tâm phản ứng nhanh sự cố máy tính quốc gia
-Đây là một phần trong kế hoạch đẩy mạnh vấn đề bảo mật, chống tội phạm mạng mà Hiệp hội các quốc gia Đông Nam Á vừa thống nhất thực hiện. Dự kiến VietCERT sẽ ra mắt vào đầu năm 2006. 
-Theo Thứ trưởng Lê Nam Thắng, VietCERT có chức năng nghiên cứu, cảnh báo các nguy cơ, lỗ hổng bảo mật, virus mới xuất hiện, biện pháp đề phòng; làm đầu mối trao đổi thông tin trực tuyến 24/24 với các trung tâm xử lý máy tính quốc gia, quốc tế; đưa ra những biện pháp đề phòng an ninh và tổ chức khắc phục sự cố xảy ra trên diện rộng. 
-

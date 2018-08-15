@@ -1,6 +1,0 @@
- Ngăn chặn bệnh nhân thức tỉnh khi phẫu thuật
-Đề hiểu sâu về vấn đề này và tìm ra cách khắc phục nó giáo sư Paul Myles thuộc bệnh viện Alfred, Melbourne thực hiện 1 cuộc khảo sát trên 2500 bệnh nhân. 
-Ông và các đồng nghiệp đã sử dụng máy phân tích sống não (BIS) để theo dõi độ sâu của quá trình hôn mê của các bệnh nhân. 
-Kết quả cho thấy nguy cơ hồi tỉnh bất chợt ở bệnh nhân đang được phẫu thuật là rất cao (trên 80%) và rơi vào đa số các bệnh nhân mổ tim, thai phụ mổ đẻ và người nghiện rượu, chất kích thích. 
-Giáo sư Paul nói rằng sử dụng máy BIS có thể giúp các nhà phẩu thuật can thiệp đúng lúc và kịp thời, ngăn không cho bệnh nhân thức tỉnh trước khi ca phẫu thuật được thực hiện xong. 
-

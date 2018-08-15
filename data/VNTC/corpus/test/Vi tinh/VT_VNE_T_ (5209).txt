@@ -1,9 +1,0 @@
-Dự án laptop 100 USD có nhà sản xuất chính thức
-Chương trình phổ cập máy tính cho trẻ em OLPC (One Laptop per Child) đã chọn hãng gia công máy tính xách tay hàng đầu Đài Loan Quanta làm nhà sản xuất thiết kế gốc (ODM) của dự án laptop giá rẻ cho trẻ em nghèo toàn cầu.
-Dù ít người nghe đến danh tiếng công ty này, phần lớn khách hàng tại Mỹ đang sở hữu một sản phẩm của Quanta, đơn vị sản xuất máy tính xách tay cho Hewlett-Packard, Dell và nhiều tập đoàn lớn khác.
-Thỏa thuận với Quanta cũng không phải một bất ngờ lớn do đầu năm nay, hãng này và viện nghiên cứu MIT (Mỹ) đã ký kết hợp đồng nghiên cứu 5 năm, trị giá 20 triệu USD, liên quan đến dự án nói trên. 
-Theo những người ủng hộ, việc phối hợp với hãng sản xuất máy tính cho những thương hiệu hàng đầu thế giới càng chứng minh tính khả thi của dự án. "Mọi nghi ngờ về laptop giá rẻ sẽ bị xóa bỏ", Nicholas Negroponte, người khởi xướng máy tính 100 USD, tin tưởng.
-Hệ thống hoạt động trên Linux, sử dụng nguồn năng lượng thấp và có khả năng truy cập Internet. Khoảng 5 - 15 triệu sản phẩm đầu tiên sẽ được phân phối tại Trung Quốc, Brazil, Ấn Độ, Ai Cập, Argentina, Nigeria và Thái Lan. Những công ty khác tham gia dự án là AMD, Brightstar, Google, News, Nortel và Red Hat.
-Trong khi nhiều người tán dương laptop 100 USD, Chủ tịch Intel Craig Barrett gần đây cho rằng dự án sẽ chết yểu bởi người tiêu dùng ở các thị trường mới nổi mong chờ những hệ thống máy tính hoàn thiện.
-Lịch sử cũng cho thấy ước muốn phân phối PC tới những khu vực lạc hậu là rất khó khăn. Mục tiêu PC giá rẻ của Brazil đã trôi vào quên lãng. Máy tính Simputer của Ấn Độ cũng thất bại trong khi thiết bị Internet của AMD không được đón nhận nồng nhiệt.
-

@@ -1,6 +1,0 @@
-Linux dẫn đầu doanh số hệ điều hành toàn cầu
-Theo hãng khảo sát thị trường Gartner, Chim cánh cụt đứng thứ nhất cả về doanh thu và số lượng sản phẩm bán ra với mức tăng của 2 khía cạnh này lần lượt là 55,7% và 45,2% trong quý III/2004.
-Thị trường server vẫn chủ yếu dựa trên động lực là nền x86, Mike McLaughlin, nhà phân tích cao cấp của Gartner, nhận xét. Bên cạnh đó, sự chấp nhận Linux ở nhiều ứng dụng bổ sung trong các doanh nghiệp cũng góp phần tiếp tục thúc đẩy nhu cầu sử dụng. Lượng máy chủ bán ra trên toàn thế giới đã vượt 1,6 triệu đơn vị trong quý III, tăng 16,3% so với cùng kỳ năm ngoái.
-Gartner cho biết IBM vẫn dẫn đầu về doanh thu từ kinh doanh máy chủ với thị phần chiếm 1/3. Dell đứng đầu các hãng cung cấp lớn xét về mức tăng trưởng với 17% cao hơn trong quý III. Xét về tổng khối lượng hàng bán ra, HP dẫn đầu với 468.924 sản phẩm. Dell có mức tăng mạnh nhất trong số 5 nhà cung cấp hàng đầu với lượng hàng bán ra cao hơn 25% so với năm ngoái. 
-Unix và các hệ điều hành khác tiếp tục giảm với tỷ lệ lần lượt là 3,6% và 5,8%. Windows giành thêm 2% trên tổng thị phần các loại hệ điều hành và chiếm 36,5% tổng doanh thu, tương đương 4,3 tỷ USD cả quý.
-

@@ -1,5 +1,0 @@
- Dịch vụ chia sẻ thông tin Google Base
-Các giới chức của Google cho biết rằng mọi người dùng Internet đều có thể đưa lên dịch vụ Google Base bất kỳ thông tin hoặc hình ảnh nào mình thích một cách hết sức dễ dàng. Có thể xem Google Base là một dịch vụ chia sẻ thông tin vô cùng hiệu quả, tương tự như các webblog. 
-Dựa vào Google Base người dùng có thể tìm hiểu và chia sẻ mọi loại thông tin với nhau, nhất là các thông tin độc đáo mà đôi khi không thể tìm đâu ra trên mạng. Người dùng cần phải có một tài khoản Google, như Gmail, để sử dịch vụ chia sẻ thông tin này. 
-Google Base hiện đang ở dạng bản thử nghiệm beta, mọi người có thể vào đây để đăng ký và sử dụng dịch vụ. 
-

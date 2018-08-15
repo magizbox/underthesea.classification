@@ -1,9 +1,0 @@
- Opera tung ra bản thử nghiệm Opera 9.0 Merlin
-Bản chính thức của Opera 9.0 sẽ được tung ra miễn phí trong tháng 11 tới. 
-Opera Merlin đã được trang bị thêm một số tính năng và tiêu chuẩn mới. Một trong những thay đổi lớn nhất của trình duyệt Opera lần này là khả năng tùy biến giao diện kiểu mới hết sức chuyên nghiệp. 
-Người dùng có thể vào chức năng View để điều khiển tùy biến giao diện của Merlin bằng rất nhiều hình thức uyển chuyển và linh động đến mức không ngờ. Có thể nói đây là tính năng tùy biến giao diện đầy mê hoặc mà không trình duyệt nào có được. 
-Merlin còn có tính năng mới là tương thích hoàn toàn với kiểu biên tập văn bản Rich Text ngay trên trình duyệt, tương tự như tính năng soạn thảo trong Gmail. Ngoài ra, Merlin cũng tương thích hoàn toàn với các tiêu chuẩn của IMAP, XSLT, Canvas 2D và Web Forms 2.0. Tính năng hỗ trợ tải thông qua ứng dụng BitTorrent cũng được giữ lại trong Merlin. 
-Tuy rằng đây là bản thử nghiệm nhưng qua quá trình thử sử dụng ban đầu thì mọi tính năng của Merlin đều tỏ ra khá hoàn hảo. Nhưng một số nhược điểm về thể hiện font chữ vẫn chưa được khắc phục triệt để, nhất là thể hiện font chữ tiếng Việt vẫn còn xấu như cũ. 
-Ngoài ra, các trang web được thiết kế cho Internet Explorer khi thể hiện trên Merlin vẫn còn hiện tượng chồng lấn chữ. Nhưng dù sao, các fan của Opera vẫn nên tự hào rằng mình đang sử dụng một trình duyệt có nhiều tính năng nhất và nhanh nhất thế giới hiện nay. 
-Những người yêu thích Opera có thể vào đây để tải bản thử nghiệm của Merlin về dùng. 
-

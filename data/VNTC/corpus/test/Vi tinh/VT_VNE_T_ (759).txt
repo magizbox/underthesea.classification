@@ -1,7 +1,0 @@
-Không mở file đươc trong Autocad (1)
-Khi tôi khởi động máy tính thì máy báo là:
-Error Staring programexport MSVC RT.DLL???_U@YAPAXI@ZNhưng tất cả các chương trình phần mềm khác đều chạy tốt nhưng chỉ riêng Autocad là không hoat động được. Khi mở AUTOCAD lên thì máy Hiện ra 2 bảng thông báo là:Bảng 1Error Staring programexport MSVC RT.DLL???_U@YAPAXI@ZBảng 2C:\Program Files\Autocad R14\ Acad.exeA device attached to the system is not funtioningTôi đã tìm File thiếu và chép đè lên mà không được. Tôi tiếp tục cài lại Autocad. khi cài xong Autocad và mở chạy Autocad thì vẩn hiện lên 2 bảng như trên. Tôi tiếp tục diệt Virus và cài lại WINDOWS, cài lại Auto cad nhưng khi mở ra thì vẫn như vậy. Máy của tôi dùng Win 98. Vậy kính mong Anh Chị nhiều kinh nghiệm chỉ giúp. Tôi cảm ơn nhiều.
-Truong Van Dung
-Hồi âm:
-File Autocad đó của bạn có thể được tạo ra từ Cad2004, nhưng bạn lại mở Cad2000. Do vậy không mở được file cad này. Bạn hãy thử mở bằng Cad2000 xem! Bạn cũng có thể mở Cad2004, sau đó save về Cad2000 rồi đưa file Cad đó mở trên Cad2000 bình thường. Chúc thành công! 
-

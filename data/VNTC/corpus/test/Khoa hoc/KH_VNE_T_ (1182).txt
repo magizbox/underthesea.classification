@@ -1,7 +1,0 @@
-Chế tạo thành công thiết bị khống chế tốc độ đầu máy
-Lần đầu tiên tại Việt Nam, các chuyên gia đã nghiên cứu sản xuất thành công thiết bị hỗ trợ giám sát và khống chế vượt tốc đoàn tàu có sử dụng hệ thống định vị vệ tinh GPS, nhằm tăng cường độ an toàn cho các đoàn tàu. 
-Thiết bị được chế tạo bởi Xí nghiệp đầu máy Hà Nội, Trung tâm Công nghệ thông tin Đại học Giao thông Vận tải và Công ty phần mềm tự động hóa thiết kế CadPro, theo nguyên lý: thu tín hiệu từ vệ tinh GPS và tín hiệu đầu trục để theo dõi, kiểm soát tốc độ tức thời của đầu máy theo lý trình cho phép 
-Hệ thống này sẽ cảnh báo cho người lái khi tốc độ đoàn tàu đến sát tốc độ lớn nhất cho phép (khoảng 95-98% tốc độ cho phép) và khi vượt quá 98% tốc độ cho phép để anh ta chú ý giảm tốc. Nếu vận tốc vẫn không giảm, hệ thống sẽ tự động xả gió để dừng đoàn tàu, đồng thời ghi lại lỗi này của người lái tàu.
-Thiết bị còn có khả năng lưu số liệu trong quá trình 15.000 km vận hành của đầu máy để phục vụ công tác nghiên cứu, điều tra, kiểm tra, đánh giá chất lượng trình độ tay nghề của người lái tàu.
-Sau bốn ngày thử nghiệm, đánh giá đợt đầu, cả hai thiết bị chống vượt tốc độ đầu máy của hai đơn vị kể trên đã đảm bảo các yêu cầu đặt ra. 
-

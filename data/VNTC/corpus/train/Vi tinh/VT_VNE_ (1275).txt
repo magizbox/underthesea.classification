@@ -1,4 +1,0 @@
-Cách tạo file LYRICS (.lrc) cho MP3 từ file text 
-Hiện tôi có máy nghe nhạc MP3 có chức năng hiển thị Lyrics Show và đã có file lời bài hát dạng text dùng trong JetAudio thì được nhưng trong máy MP3 thì không được. Hãy chỉ cho tôi cách tạo file Lyrics có đuôi là .lrc bằng chương trình miễn phí nào? Cám ơn nhiều.
-Bùi Hải Trung
-

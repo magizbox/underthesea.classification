@@ -1,5 +1,0 @@
- Mobifone tung ra dịch vụ nhạc chuông cho người gọi
-Với một mức cước rất hợp lý, bao gồm cước thuê bao ngày 300đ/ngày và cước thay đổi nội dung dịch vụ là: 2000đ/1 nội dung, khách hàng của MobiFone có thể sử dụng một dịch vụ rất tiện ích và hợp túi tiền. 
-Dịch vụ FunRing được cung cấp cho tất cả khách hàng là thuê bao trả sau của mạng MobiFone. Việc đăng ký sử dụng dịch vụ được thực hiện rất đơn giản bằng cách gửi SMS (soạn tin nhắn: "FunRing"), truy nhập vào MobiFone Wap (truy cập vào mạng và lựa chọn mục đăng ký) hoặc gọi vào hệ thống trả lời tự động của dịch vụ thông qua số 9224. 
-Sau khi đăng ký, hệ thống sẽ tự động gửi SMS xác nhận việc đăng ký thành công và cung cấp cho khách hàng mật khẩu gồm 4 ký tự, khách hàng sẽ sử dụng mật khẩu này để truy nhập Web và hệ thống IVR. Thông tin chi tiết được giới thiệu trên trang web tại địa chỉ: http://www.mobifone.com.vn/funring/ 
-

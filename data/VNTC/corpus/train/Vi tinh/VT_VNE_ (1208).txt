@@ -1,8 +1,0 @@
-Dự thi TTVN 2004: Phần mềm ngăn chặn web xấu 
-Depraved Web Killer (DWK) là sản phẩm dự thi của Vũ Lương Bằng, nhân viên công ty Điện thoại Đông, quận 10 (TP HCM). Với vốn kiến thức và kỹ thuật lập trình tự học, tác giả đã hoàn thành phần mềm sau 18 tháng mày mò nghiên cứu.
-Vũ Lương Bằng cho biết DWK được viết bằng ngôn ngữ lập trình Visual Basic 6. Hiện tại, phiên bản DWK 3.1 đã khá hoàn thiện với khả năng ngăn chặn hiệu quả, ít xảy ra 'nhầm lẫn' hơn. Không như một số sản phẩm cùng loại, sản phẩm này áp dụng chính sách quét triệt để nội dung trang web từ tiêu đề, địa chỉ liên kết cho đến các từ khóa để nhận diện site đen cần "hạ gục". 
-Theo Bằng, để tránh gây phiền toái cho người sử dụng, chương trình cũng đưa ra một số tùy chọn như: điều hướng đến trang web bất kỳ hoặc đóng lập tức cửa sổ trình duyệt, định nghĩa loại trừ cho các trang web "trắng" thay vì lúc nào cũng ngăn chặn một cách cực đoan.
-Bên cạnh đó, DWK cũng là một công cụ hỗ trợ cho các bậc phụ huynh kiểm soát việc sử dụng máy tính của con em mình qua hàng loạt chức năng như: ghi nhật ký sử dụng máy, định kỳ chụp ảnh, khóa màn hình, gửi nội dung báo cáo theo e-mail được thiết lập trước. "Bằng cơ chế thiết lập khoá ở cấp thấp chương trình còn có thể khoá Registry, Msconfig, Command, cấm chế độ Safe Mode khi khởi động lại máy tính nhằm ngăn chặn hành vi vô hiệu hoá chương trình", Bằng nói.
-Hiện tại, DWK mới chỉ kiểm nghiệm và hoạt động tốt trên IE và Nescape. Tác giả cho biết tương lai sẽ nâng cấp sản phẩm để có thể hoạt động cho cả Opera, Mozillar và các trình duyệt phổ biến khác.
-Sản phẩm được cung cấp hoàn toàn miễn phí tại: http://www.cuocsong.net/. Sau khi cài đặt, chương trình sẽ tự động cập nhật các từ khoá và danh sách các trang web cấm. 
-

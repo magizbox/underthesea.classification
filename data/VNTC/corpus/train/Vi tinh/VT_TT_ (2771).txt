@@ -1,6 +1,0 @@
- Nhúng kết PC và ĐTDĐ vào thiết bị cầm tay
-Chiếc cPC có chiều dài 6.5 inches (16.5 cm) và rộng 3.3 inches (8,3 cm) hơi lớn hơn ĐTDĐ thông thường một chút, tuy nhiên nó chưa quá khổng lồ trong tay bạn. cPC dùng hệ điều hành Windows XP Tablet, bộ xử lý 1.7Ghz C7 (Công nghệ của Via Technology) và bộ nhớ 1GB DDR-2. 
-ĐTDĐ trong cPC có bộ vi xử lý PXA communications của Intel, chạy hệ điều hành Windows Mobile 5.0 Pocket PC phone, 128MB bộ nhớ DRAM và 1GB bộ nhớ flash. Cả hai thiết bị chia sẻ chung một ổ đĩa cứng 40GB. 
-Nhờ những cải tiến trong thiết kế và công nghệ mà chiếc cPC này có thể cho phép người dùng chạy thoải mái các ứng dụng trong vòng 8h liên tục. Ở chế độ đầy đủ chức năng, máy có thể chạy được từ 3- 4 giờ, tương đương với một máy laptop bình thường. Khi là ĐTDĐ, máy có thể hoạt động suốt 12h liên tục. Việc chuyển chế độ hoạt động giữa PC và ĐTDĐ được thiết lập rất tiện lợi và khoa học. Bạn sẽ không có cảm giác đây vốn là 2 thiết bị vì thông tin và dữ liệu của chúng có thể chia sẻ và liên thông với nhau. cPC được trang bị một màn hình LCD của LG, chất lượng giống như màn hình của máy PC. 
-Những chiếc cPC sẽ có mặt trên thị trường vào khoảng tháng 3-2006 với giá khoảng 1.500 USD. Chưa biết sự đón nhận của thị trường sẽ thế nào, nhưng xu thế chung của các thiết bị cầm tay hiện nay là "tất cả trong một" nên tiềm năng của thiết bị này còn rất dồi dào. 
-

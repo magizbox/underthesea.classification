@@ -1,7 +1,0 @@
-Lỗi phần mềm giúp phạm nhân ra tù sớm
-Một khiếm khuyết trong khâu xử lý dữ liệu thuộc hệ thống tư pháp tại bang Michigan (Mỹ) đã khiến 23 phạm nhân được trả tự do sớm hơn thời hạn và cũng đồng thời kéo dài thêm số ngày bóc lịch của nhiều tù phạm khác.
-Vụ việc được phát hiện sau khi một kiểm toán viên địa phương phát hiện sai sót về lập trình liên quan đến ngày mãn hạn tù của các phạm nhân trong khoảng thời gian từ giữa tháng 10/2003 đến tháng 3/2005.
-8 phạm nhân trong số may mắn nói trên - đang thụ án tù liên quan đến các tội danh biển thủ công quỹ, gian lận thẻ thanh toán và buôn bán ma túy - đã được phóng thích sớm từ 39 đến 161 ngày, tùy theo từng đối tượng. 
-Con số 8 là quá nhiều nhưng cũng vẫn còn may vì những kẻ tự dưng được về sớm kia không phải là những tên giết người, Rick Jones, đại diện cơ quan tư pháp địa phương, thở phào. 
-Cơ quan hữu trách của Michigan đang hối hả khắc phục lỗi phần mềm nói trên để tránh nguy cơ một cuộc đào thoát hợp lệ tái diễn.
-

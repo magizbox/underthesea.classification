@@ -1,5 +1,0 @@
- Phần mềm ngăn chặn máy bay khủng bố cao ốc
-Hệ thống được thiết kế dựa trên chương trình đặc biệt trong đó tập hợp dữ liệu từ các bản đồ chi tiết về vị trí địa lí, sơ đồ các cao ốc tọa lạc và kể cả những điểm tiềm ẩn nguy cơ xảy ra tắt nghẽn hay sự cố. Thậm chí hệ thống còn ngăn chặn các máy bay mạo hiểm tiến vào không phận bị cấm hoặc hạn chế bay. 
-Phần mềm còn giúp kiểm tra tọa độ máy bay thông qua các chỉ số do hệ thống rađa ghi nhận được. Nếu phát hiện có nguy cơ va chạm phía trước, rađa sẽ phát tín hiệu khiến các đèn đỏ sẽ phát sáng và hú chuông báo động cho phi công trong vòng hai giây khi máy bay tiến về khu vực. Trong trường hợp phi công không nhận được tín hiệu báo động trên thì hệ thống sẽ tự động điều chỉnh hướng bay thích hợp. 
-Đây là phần mềm an toàn, hiệu quả và chi phí rẻ giúp hỗ trợ đài không lưu và ngăn ngừa tai nạn máy bay đâm vào nhau trên không rơi hoặc lao vào các tòa nhà. Ngòai ra nó còn giúp tăng cường mức độ an tòan trong ngành hàng không dân dụng thế giới. 
-

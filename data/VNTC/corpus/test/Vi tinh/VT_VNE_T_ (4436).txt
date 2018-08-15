@@ -1,8 +1,0 @@
-i-RAM duy trì dữ liệu 16 giờ sau khi ngắt điện
-Hãng công nghệ Đài Loan Gigabyte vừa công bố sản phẩmi-RAMmới, một giải pháp thay thế ổ đĩa cứng máy tính dựa trên chip xử lý DDR SDRAM tốc độ cao, thay vì dùng thiết bị nhớ flash ổn định nhưng chậm.
-Gigabyte i-RAM.
-i-RAM là một thẻ PCI bao gồm 4 rãnh DIMM, có khả năng hỗ trợ 4 GB DDR SDRAM 200, 266, 333 và 400 MHz. Đối với máy chủ PC, nó hoạt động như một ổ cứng ATA 1,5 Gb/giây. Ổ lưu trữ này kết nối tới hệ thống máy chủ qua cáp SATA. Bảng mạch chứa một thiết bị xử lý FPGA Xilinx Spartan để chuyển đổi những chỉ dẫn ATA thành yêu cầu dạng đọc/ghi và ngược lại.
-Ngoài ra, sản phẩm mới cũng được trang bị pin có thể xạc lại 1700 mAh để cung cấp điện năng cho bộ nhớ trong trường hợp hệ thống máy chủ tắt đột ngột. Gigabyte cho biết nguồn năng lượng riêng này có khả năng duy trì dữ liệu trong vòng 10 - 16 giờ trước khi chúng bị xóa.
-Gigabyte khẳng định việc lưu Windows XP trên i-RAM, thay vì trên ổ cứng, sẽ cho phép hệ điều hành khởi động chỉ bằng 1/15 thời gian nó cần với ổ SATA 7200 vòng/phút. Samsung cũng đang tìm kiếm phương pháp để trang bị bộ nhớ flash cho ổ cứng với mục tiêu tương tự.
-Trước đây, việc lấy một phần bộ nhớ máy tính và biến nó thành ổ cứng ảo đã được nhiều người thực hiện trên một số hệ điều hành và các ứng dụng độc lập. Tuy nhiên, mức độ tiện dụng của thủ thuật này khá hạn chế bởi nó đòi hỏi người dùng phải sao chép dữ liệu tới một bộ phận ổn định trước khi nguồn điện máy tính bị ngắt. 
-

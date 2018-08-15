@@ -1,7 +1,0 @@
-Mã mở chưa thể làm suy yếu Windows
-Theo hãng nghiên cứu thị trường IDC, Windows đang thống lĩnh thế giới hệ điều hành máy chủ, và Linux không còn bất cứ hy vọng nào có thể đuổi theo kịp.
-Cuộc điều tra của IDC gần đây cho thấy tổng thu nhập từ máy chủ Microsoft Windows trong quý vừa qua thậm chí đã ngang bằng với doanh thu từ lĩnh vực server của Unix.
-Máy chủ Linux đã có quý thứ 11 liên tiếp với tỷ lệ phát triển đạt 2 con số - doanh thu tăng 35,2% và doanh số là 31,1% so với năm ngoái. Nhiều doanh nghiệp đang tiếp tục mở rộng và nâng cao vai trò của máy chủ chạy trên hệ Linux để thực thi những khối công việc lớn cả về thương mại và kỹ thuật.
-Tuy nhiên, IDC cho biết máy chủ Microsoft Windows cũng đạt tốc độ tăng trưởng đáng nể không kém - doanh số tăng 10,7% và doanh thu tăng 12,3% - nhưng có sơ sở ban đầu mạnh hơn rất nhiều so với Linux. Tổng thu nhập quý vừa qua của Windows server lên tới 4,2 tỷ USD, tương đương với 34,4% doanh thu của toàn bộ lĩnh vực công nghiệp này, và sánh ngang với thu nhập theo quý của thị trường Unix server.
-IDC cũng khẳng định Windows Server 2003, DataCenter Server, và Windows Server 2003, Enterprise Edition đang rất thịnh hành trên thế giới. Hãng nhận định rằng Linux khó có thể vượt qua Windows hay Unix trong tương lai gần, bởi hệ điều hành này có điểm xuất phát thấp, và cần phải mất nhiều thời gian nữa mới tiến xa được.
-

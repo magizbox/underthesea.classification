@@ -1,5 +1,0 @@
- Chìa khóa chữa bệnh ung thư
-Theo họ, trong thành phần tế bào ung thư có một phân tử, gọi là P-glicoproteine, đẩy bất kỳ loại thuốc nào ra khỏi tế bào ung thư trước khi thuốc bắt đầu tương tác. 
-Hiện nay, các nhà khoa học đã có thể giải mã được cấu tạo phân tử nói trên. Nhiệm vụ tiếp theo của họ là tìm biện pháp vô hiệu hóa phân tử P-glicoproteine. Phần lớn các bệnh ung thư được điều trị bằng hóa trị. Do đó, việc loại bỏ khả năng kháng thuốc của tế bào ung thư là biện pháp tối ưu khi áp dụng hóa trị. 
-Nếu như việc vô hiệu hóa phân tử P-glicoproteine được thực hiện thành công thì rất nhiều người mắc bệnh ung thư sẽ được cứu sống. 
-

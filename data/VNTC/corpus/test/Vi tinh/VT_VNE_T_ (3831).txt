@@ -1,7 +1,0 @@
-Chưa có 'virus đầu tiên' trong Vista 
-Microsoft hôm qua khẳng định Monad, công cụ scripting mới - đang bị coi là mục tiêu tấn công của một kẻ viết chương trình virus - sẽ không được xây dựng trong Windows Vista.
-Thay vào đó, nhà sản xuất phần mềm này dự định cung cấp hàm hệ thống Monad như là một phần trong hệ điều hành máy chủ Longhorn Server ra mắt trong năm 2007.
-"Monad sẽ không xuất hiện trong phiên bản cuối cùng của Windows Vista", Stephen Toulouse, quản lý chương trình nhóm bảo mật của Microsoft, khẳng định. "Do đó, nguy cơ tiềm tàng về kiểu virus này sẽ không ảnh hưởng đến hệ điều hành".
-Lee Holmes, thành viên trong nhóm xây dựng Monad, cũng chỉ trích hãng F-Secure về những thông tin liên quan đến cái gọi là virus Vista đầu tiên: "Đây là một tuyên bố sai lầm, bởi vấn đề này có thể ảnh hưởng tới bất cứ bộ máy nào, bất cứ mã nào trên bất cứ hệ điều hành nào".
-Toulouse không lý giải lý do vì sao Monad sẽ không có mặt trọng hệ điều hành Vista chính thức.
-

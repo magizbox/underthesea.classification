@@ -1,5 +1,0 @@
-Vinaphone khắc phục được lỗi mạng 
-Ông Phạm Quang Hảo, Phó giám đốc Vinaphone vừa cho VnExpress biết công ty đã khắc phục được lỗi phần mềm dẫn tới việc một số máy điện thoại gọi dưới 1 phút không bị tính cước.
-Ông Hảo thừa nhận, phần mềm mạng Vinaphone chưa quản lý được tất cả các cuộc gọi từ nhiều dòng máy khác nhau, do vậy hiện tượng trên mới xảy ra ở các máy có chung phím tắt nguồn và tắt cuộc gọi. "Nhiều khách hàng phát hiện ra nhược điểm này, khi thực hiện cuộc gọi, họ cứ để tay trên phím nguồn và gần hết 1 phút thì tắt nguồn để không bị tính cước", ông Hảo nói.
-Tuy nhiên, Giám đốc kỹ thuật của Nokia Trương Minh Tứ khẳng định: "Hãng không có sản phẩm nào dùng chung phím tắt nguồn và tắt cuộc gọi. Nokia đã trao đổi với Vinaphone về thông tin sai lệch trên và hai bên nhất trí đó hoàn toàn là do lỗi mạng Vinaphone".
-

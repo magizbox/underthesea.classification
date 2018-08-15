@@ -1,5 +1,0 @@
-Ổ cứng dung lượng 400 GB của Seagate
-Biên tập video, download phim, thu các chương trình ti vi... đòi hỏi không gian nhớ tương đối lớn. Cùng với việc tăng dung lượng, chiếc ổ cứng còn phải có khả năng đọc, ghi nhanh hơn nhằm phù hợp với các ứng dụng thời gian thực.
-Chiếc ổ cứng mới là thành viên thứ tư trong serie Barracuda 7200.8 của Seagate sử dụng công nghệ Ultra ATA. Tốc độ của ổ cứng mới vẫn là 7200 vòng/phút với thời gian tìm kiếm dữ liệu trung bình là 8 phần triệu giây. Thiết bị lưu trữ mới này gồm 3 đĩa từ, mỗi đĩa có có dung lượng133 GB, bộ nhớ đệm cũng được tăng lên 16 MB.
-Phiên bản mới hỗ trợ công nghệ Serial gọi là NQC (Native Command Queuing), cho phép quản lý nhiều lệnh của PC nhằm nâng cao hiệu quả hoạt động. NQC giúp ổ cứng Serial ATA của Barracuda có thể đạt tốc độ lên tới 10.000 vòng/phút thay vì 7.200 vòng/phút như hiện nay. Điều này phù hợp với công nghệ siêu phân luồng đang được áp dụng rộng rãi, thực hiện cùng lúc nhiều thao tác đọc/ghi dữ liệu.
-

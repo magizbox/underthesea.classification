@@ -1,7 +1,0 @@
-Chạy ứng dụng lưu động trên ổ USB
-Những ổ USB nhỏ xíu chuyên dùng để chứa thông tin đang trở nên thông minh hơn.Công nghệ mới của hãng U3 (Mỹ) cho phép thiết bị có thể lưu và nối với máy tính để mở ứng dụng an toàn mà không để lại dấu vết dữ liệu trên PC.
-Những chương trình, dữ liệu và thiết lập cá nhân trong U3 cho phép người sử dụng tạm thời biến bất cứ hệ thống Windows 2000 hay Windows XP nào thành một máy trạm cá nhân mà không sợ ảnh hưởng đến bảo mật thông tin.
-Ổ Memorex Mini TravelDrive 256 MB của U3 trông như một USB chuẩn. Tuy nhiên, nó được cài trước phần mềm đồng bộ desktop Migo, công cụ e-mail Mozilla Thunderbird và chương trình McAfee VirusScan riêng. Khi cắm vào cổng USB trên PC, My Computer sẽ hiển thị hai dòng: ổ USB chuẩn và "U3 System", có chức năng như một CD-ROM ảo, cho phép chương trình trong U3 mở tự động như những ứng dụng trong một CD. Nhiều công ty đã công bố phần mềm riêng cho U3 như America Online, ArcSoft, Cerulean Studios (công ty phát hành Trillian), McAfee, Nullsoft (nhà sản xuất chương trình nhạcWinAmp) và Skype.
-Biểu tượng U3 cũng đồng thời xuất hiện trong khay hệ thống. Biểu tượng này mở ra danh mục của U3 desktop (trông gần giống như menu Start của Windows XP), hiển thị những ứng dụng có sẵn trên một cột và một số tiện ích, công cụ quản lý ổ trên cột còn lại. 
-Hầu hết thiết bị U3 được bán ra thị trường theo hai mẫu 512 GB và 1 GB, giá dao động từ 42 USD đến 100 USD. Ngoài ra còn có ổ Memorex 256 MB (30 USD) và 2 GB (180 USD).
-

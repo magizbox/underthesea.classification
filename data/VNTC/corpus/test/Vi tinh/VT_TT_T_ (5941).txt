@@ -1,7 +1,0 @@
- RIAA cảnh cáo và đóng các mạng P2P
-Không mất nhiều thời gian để thấy được kết quả: WinMX, một chương trình chia sẻ tập tin phổ biến đã bị khóa. FrontCode Technologies, công ty phát hành và thu lợi nhuận từ ứng dụng WinMX này cũng đã ngưng hoạt động. Kevin Hearn, chủ tịch FrontCode Technologies đã biến mất, không có cuộc gọi hay tin nhắn nào được hồi âm. 
-Một công ty khác cũng là mục tiêu của RIAA là eDonkey đã đóng cửa văn phòng ở New York, không thể liên hệ với bất cứ thành viên quản trị nào. 
-BearShare và LimeWire cũng chịu chung số phận, đều nằm trong danh sách “đen” của RIAA. Văn phòng đại diện của họ cũng chưa đưa ra lời bình luận chính thức nào. RIAA cho rằng bất cứ mạng chia sẻ tập tin nào cũng nên nghĩ về vị trí của họ, sau khi Grokster và Kazaa thất bại trong việc kiện tụng. 
-Các công ty cũng như các mạng có hai lựa chọn: cài đặt các bộ lọc ngăn chặn người dùng chia sẻ các tập tin bất hợp pháp, vi phạm luật bản quyền hoặc không sẽ bị khóa, không cho hoạt động. 
-Mạng P2P đã từng là nơi lý tưởng để có thể chia sẻ bất kỳ tập tin nào cho người dùng Internet. Từ âm nhạc cho đến video, phần mềm … nhưng việc chia sẻ các tập tin bất hợp pháp, nhạc, phim ảnh vi phạm bản quyền đã dẫn đến “cái chết” của hàng loạt trình ứng dụng như trên. Mạng P2P cũng không còn an toàn mà là nơi hacker truyền tải các tập tin nguy hiểm, virus mở rộng phạm vi hoạt động … Đây cũng là một “cái chết” được dự đoán trước. 
-

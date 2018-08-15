@@ -1,5 +1,0 @@
- Wolfson phát triển thành công chip tiết kiệm năng lượng
-Các giới chức của Wolfson cho biết rằng chip xử lý âm thanh WM8985 có khả năng tiết kiệm đến 70% năng lượng cho các máy iPod hiện thời. 
-Việc tiết kiệm đến 70% năng lượng này không có nghĩa rằng các máy iPod sẽ có khả năng sẽ kéo dài thời gian hoạt động thêm được 70% so với thời lượng cũ, nhưng việc gia tăng thời lượng thêm khoảng 30% so với trước đây là điều hoàn toàn có thể thực hiện đuợc. 
-Chưa rõ khi nào Wolfson sẽ ứng dụng công nghệ chip mới này vào các dòng iPod được sản xuất ra trong thời gian tới. 
-

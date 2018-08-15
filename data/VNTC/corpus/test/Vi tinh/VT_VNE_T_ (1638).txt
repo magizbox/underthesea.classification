@@ -1,8 +1,0 @@
-Dự thi TTVN 2004: Ứng dụng tương tác qua điện thoại 
-HS-IVR được thiết kế như một công cụ trực quan giúp giải quyết các bài toán tương tác tự động qua điện thoại cho cả hai mô hình thoại và tin nhắn (SMS) với nhiều quy mô và lĩnh vực áp dụng khác nhau.
-Tác giả của HS-IVRlà nhóm Tích hợp hệ thống và điều khiển từ xa gồm 5 thành viên là Hồ Văn Sang, Lê Phước Bình, Lê Tấn Phú, Hoàng Thế Phước, Bùi Xuân Tiến. Cả nhóm hiện công tác tại Trung tâm Công nghệ phần mềm Thừa Thiên-Huế. "Chúng tôi hiểu rằng xây dựng một phần mềm chuyên nghiệp theo đúng nghĩa của nó là rất khó. Và cả nhóm đã quyết tâm chiến thắng bản thân, vận dụng những kiến thức đã học để làm điều mình mơ ước", Phước Bình tâm sự.
-Mô hình tương tác HS-IVRhình thành và hoạt động dựa trên nhiều module hỗ trợ độc lập thuộc các lớp của hệ thống. Trong đó, trình thiết kế kịch bản, trình quản lý nguồn dữ liệu và trình thực thi kịch bản là 3 module chính.
-Phước Bình mô tả: "Tính trực quan của HS-IVR thể hiện ở chỗ hệ thống đưa ra một tập hợp các "nút thông tin" và người dùng có thể kéo thả tùy ý trong quá trình "thiết kế kịch bản". Do tính mở dựa trên nền tảng của .NET nên tập hợp các nút thông tin này cũng có thể dễ dàng được bổ sung (Plug-in) trong tương lai tùy theo yêu cầu phát sinh".
-Hệ thống HS-IVR có thể được dùng trong các lĩnh vực dịch vụ ngân hàng, trả lời điểm tự động, tìm kiếm thông tin cá nhân, tìm đường, thông tin du lịch...
-Cả nhóm cho biết họ rất mong muốn được kết hợp với các tổ chức, ban ngành có liên quan để triển khai rộng rãi hệ thống này nhằm khai thác tiềm năng về du lịch và giáo dục của Huế, nơi mà họ đã quyết định gắn bó cuộc đời mình. 
-

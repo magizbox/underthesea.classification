@@ -1,6 +1,0 @@
-Lỗi khi kết nối USB hub với laptop (1)
-Em đang dùng máy tính IBM Thinkpad T20, Pentium IV. Vì máy chỉ có một cổng USB trong khi đó em cần dùng cả webcam và modem(cả hai đều kết nối bằng cổng USB). Em đã mua một USB hub 1.1 để chia ra. Lúc em kết nối hub với laptop, do sơ ý em đã tắt chương trình Add Hardware. Bây giờ khi em kết nối thì máy kô chạy chương trình đó nữa nên em không thể dùng cái hub đó vì máy luôn báo Unknown Device. Có cách nào để khắc phục được không ạ vì khi mua cái hub đó không hề có kèm CD để cài đặt nên em không biết làm thế nào. 
-Le Huyen
-Hồi âm:
-Đối với laptop chỉ có 1 cổng USB thì bạn không nên chia thành 2 bằng cách gắn thêm hub để sử dụng cho webcam và modem nếu muốn gắn thêm thì bạn cần loại USB external PCI hub (self power)sử dụng nguồn điện riêng chứ không sử dụng nguồn điện ( power supply) của laptop, vì khi bạn cài modem thì drive đa đuợc cài trên cổng USB giờ bạn muốn cài thêm webcam thì bạn phải disable drive của modem truớc do vậy trong 2 bạn chỉ có thể sử dụng đuợc một mà thôi, thông thuờng XP đều nhận diện đuợc tất cả các USB drive. Khi bạn thấy unknown device bạn hảy thử update drive bằng cách vào device manager. 
-

@@ -1,9 +1,0 @@
-Kỹ thuật thu dấu vân tay không phá huỷ
-Các phương pháp truyền thống để thu dấu vân tay thường dùng đến bột, chất lỏng hoặc hơi nước, và chúng có thể phá huỷ dấu vân tay cho những phân tích về sau. Một kỹ thuật mới sử dụng tia X sẽ khắc phục điều đó. 
-Kỹ thuật này nhằm phát hiện ra muối trong mồ hôi người - vốn tạo nên đường viền của dấu vân tay. Nếu dấu vân tay lưu lại đủ lượng muối, máy sẽ nhận dạng được nó mà không cần can thiệp vào mẫu. 
-Các nhà khoa học từ Phòng thí nghiệm quốc gia Los Alamos đã sử dụng một chùm tia X mỏng để rọi sáng các dấu vân tay - kỹ thuật có tên gọi huỳnh quang vi tia X (MXRF). Các nguyên tố như natri, kali, clo có mặt trong mồ hôi người sẽ hấp thụ tia X và phát ra ánh sáng, hay "huỳnh quang", ở dạng tần số thấp. 
-Kỹ thuật trên cũng có thể xác định được những chất này khi ngón tay bị phủ bởi mỹ phẩm, đất, nước bọt hoặc kem chống nắng - là những chất ô nhiễm làm mất sự chính xác của phương pháp điều tra tội phạm truyền thống. 
-Phương pháp mới có thể thu dấu vân tay trên những chất liệu khác nhau, như giấy, gỗ, da thuộc, plastic và thậm chí trên da người. Nó cũng có ích trong việc nhận dạng vân tay trẻ em, là đối tượng có ít dầu trên da. Ngoài ra, các chuyên gia còn có thể thu được nhiều thông tin từ vân tay. Chẳng hạn, mẩu thức ăn cuối cùng của nghi phạm giết người. 
-"Đây là một công cụ mới của các nhà điều tra pháp y, cho phép họ phát hiện dấu vân tay bằng phương pháp không phá huỷ, mà theo kỹ thuật truyền thống có thể bị bỏ qua", Chris Worley, trưởng nhóm nghiên cứu cho biết. 
-Phương pháp MXRF cần 2-5 năm nữa mới được áp dụng vào thực tế. Hạn chế của nó là đôi khi lượng vật liệu có thể phát hiện được quá nhỏ. Các tia X không nhận ra những nguyên tố nhẹ hơn (và phổ biến hơn) như carbon, nitơ và ôxy. 
-

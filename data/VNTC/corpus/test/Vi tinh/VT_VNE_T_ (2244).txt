@@ -1,6 +1,0 @@
-Không có bản vá lỗi Windows trong tháng này
-Microsoft cho biết họ không có kế hoạch phát hành bất kỳ bản nâng cấp an ninh nào trong tháng 3 bất chấp ý kiến của các công ty bảo mật công nghệ thông tin cho rằng có nhiều lỗi cần được khắc phục.
-Vào các ngày thứ 3 của tuần thứ hai mỗi tháng, Trung tâm phản ứng an ninh của hãng này đều cung cấp những bản tin (bulletin) kiểu này để chỉ ra những vấn đề bảo mật trong phần mềm của họ, từ công cụ biên tập text cho đến server, đồng thời cung cấp bản update để xử lý. Tháng 2 vừa qua, Microsft đã phát hành 12 bản tin an ninh để vá 17 lỗ hổng. 
-Thông thường, khách hàng của Microsoft được thông báo 3 ngày trước khi việc phát hành bản nâng cấp được thực hiện, tức là vào các ngày thứ 6 của tuần trước. Đây là lần thứ 2 Microsoft quyết định không đưa ra bản sửa lỗi định kỳ hàng tháng. Lần trước là tháng 12/2003. 
-Theo hãng bảo mật Đan Mạch Secunia, các nhà quản lý an ninh hệ thống không nên coi việc Microsoft không phát hành bản nâng cấp đồng nghĩa với sự tồn tại của ít nguy cơ. Secunia cho biết, riêng trong trình duyệt Internet Explorer, đã có 30 khiếm khuyết chưa vá hoặc mới chỉ được khắc phục một phần.
-

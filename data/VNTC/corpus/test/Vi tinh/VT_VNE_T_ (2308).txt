@@ -1,8 +1,0 @@
-Puppy - hệ điều hành Linux 'tất cả trong một'
-Một nhóm nhà phát triển phần mềm vừa tung ra phiên bản Linux trọn gói với tất cả những ứng dụng tiêu biểu nhất với dung lượng đĩa chỉ chiếm có 50 MB.
-Thực chất, phiên bản hệ điều hành mã nguồn mở serie 1.0.0 này được nâng cấp từ bản alpha 0.9.9. Puppy Linux có thể được nạp (boot) từ CD, ổ USB, ổ flash hoặc ổ mạng nội bộ. Nếu cài từ CD, Puppy sẽ nạp toàn bộ vào RAM do đó ổ CD sẽ nhanh chóng được giải phóng phục vụ các tác vụ khác. 
-Cuối mỗi session, tất cả các file bị thay đổi trong thư mục home directory của người sử dụng sẽ được viết lại vào CD. Điều này có nghĩa là lần sau, khi hệ điều hành được nạp từ CD đó, tất cả những cài đặt (setting) cụ thể của người dùng sẽ tự động được khôi phục.
-Khi Puppy nạp, mọi thứ được giải nén vào vùng RAM mà chúng tôi gọi là RAMDISK. Đĩa CD sẽ nạp vào hệ thống chỉ với 32 MB RAM. Tất nhiên, bạn càng có nhiều dung lượng RAM, Puppy càng giữ được nhiều file trên RAMDISK và do đó tốc độ càng nhanh hơn. 128 MB là yêu cầu tối thiểu về RAM của PC khi dùng, nhà phát triển cho biết trên website giới thiệuPuppy Linux.
-Bao gồm trong toàn bộ dung lượng 50 MB của Puppy còn có công cụ biên tập text, phần mềm xử lý văn bản, trình duyệt web, 2 ứng dụng đồ họa, một chương trình thuyết minh WYSIWYG, các trò chơi, công cụ quản lý thông tin cá nhân và nhiều tiện ích khác. 
-Tải Puppy Linux tại đây.
-

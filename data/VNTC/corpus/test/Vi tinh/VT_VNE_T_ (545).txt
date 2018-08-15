@@ -1,6 +1,0 @@
-Hỏi về Web (1)
-Em co 1 trang web (đã mua Hosting). Nay em có 1 số form đưa lên mạng, em muốn mọi người sau khi điền đầy đủ và gửi thẳng đến hộp mail của em, giống như gửi e -card vậy. Hiện em đang học ở Ấn Độ, nên không biết hỏi ai, cũng như tìm tài liệu hướng dẫn. Vậy xin các anh chị cố gắng giải quyết vấn đề cho em. Thành thật cám ơn.
-Dong Thuan
-Hồi âm:
-Khi anh tạo được trang web tôi đoán anh cũng biết ít nhiều về ngôn ngữ hiển thị siêu văn bản (HTML). Vậy anh làm như sauAnh viết đoạn code này vào phần form của anhform method="post" action="mailto:tên_anh@yahoo.com"Form có hai phương thức post và get, do anh muốn form gửi về địa chỉ email cho nên ta dùng post"action" quyết định cho hành động của form khi nút send được nhấn. và trong trường hợp này email sẽ đưọc gửi tới địa chỉ: tên_anh@yahoo.comNếu anh muốn học thêm về thiết kế website hoặc có những thắc mắc anh có thể tham gia một vài diễn đàn tin học. Hoặc anh ghé thăm 2 địa chỉ website này ở đó họ chỉ dẫn khá kỹ càng và có cả ebook nữawww.manguon.con và www.tridung.deChúc anh thành công
-

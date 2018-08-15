@@ -1,7 +1,0 @@
-Mã sử dụng trong virus Sober bị phá 
-Hãng bảo mật Phần Lan F-Secure tuyên bố đã crack thành công một đoạn mã trong Sober. Điều đó cho phép họ có thể chặn lại âm mưu tự động cập nhật phiên bản mới của sâu này.
-Một trong những đặc điểm khiến Sober trở nên nguy hiểm là khả năng tự tải biến thể mới và tốc độ lây lan nhanh chóng trên toàn thế giới. Công ty diệt virus iDefense (Mỹ) cho rằng phiên bản xuất hiện tháng 11 sẽ tự kích hoạt chính nó vào ngày 5/1 nhằm tuyên truyền cho phe cực hữu.
-"Mẫu virus này đã 'chơi khó' các chuyên gia bởi nó sử dụng thuật toán bí mật, tạo URL giả ngẫu nhiên liên tục thay đổi theo ngày. Những URL này nằm trên hệ thống máy chủ miễn phí hoạt động tại Đức và Áo", Mikko Hypponen, Giám đốc F-Secure, nói. "Tác giả virus có thể tính toán trước URL cho bất cứ ngày nào. Khi muốn chạy một đoạn mã nhất định trên máy bị nhiễm, hắn chỉ cần đăng ký URL đúng, cài chương trình và tấn công".
-F-Secure khẳng định họ đã bẻ khóa được thuật toán và có thể xác định những URL thực mà biến thể sâu Sober cố tải về. Điều này sẽ giúp các nhà cung cấp dịch vụ và quản trị mạng chặn lại URL trên những site chứa mã độc.
-Sober hoạt động trên 15 site, với tên miền đơn thuần chỉ là các chữ cái. Hypponen cho biết F-Secure đã tìm thấy thuật toán lần đầu tiên từ tháng 5/2005 nhưng không công bố rộng rãi nhằm tiếp tục theo dõi tác giả viết virus này.
-

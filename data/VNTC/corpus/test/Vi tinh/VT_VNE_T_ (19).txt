@@ -1,7 +1,0 @@
-Hai máy tính cầm tay Clie mới của Sony
-Ngày 14/2, hãng điện tử Nhật Bản sẽ ra mắt người dùng hai thiết bị hỗ trợ kỹ thuật số cá nhân (PDA) mới, PEG-TH55 và PEG-TJ37 ở cả thị trường trong nước và nước ngoài. Giá bán lần lượt là 378 USD và 283 USD.
-PEG-TH55 lần đầu tiên được tích hợp phần mềm ứng dụng mới do Sony phát triển có tên Clie Organizer.  này sử dụng bộ vi xử lý Handheld Engine có tốc độ đồng hồ 123 MHz và chạy hệ điều hành Palm OS 5.2.1 của PalmSource. Sản phẩm có 32 MB RAM và màn hình LCD màu với độ phân giải 320 x 480 pixel, hỗ trợ 65.536 màu. Ngoài ra, nó còn có cổng USB, MemoryStick Pro và mạng LAN không dây IEEE802.11b.
-Camera trong PEG-TH55 sử dụng một bộ cảm ứng hình ảnh CMOS độ phân giải 310.000 pixel. PDA này cũng có thể ghi âm. Sản phẩm có kích thước 7,3 x 12 x 1,5 cm và nặng 185 gram. Pin có thể xạc lại và hoạt động trung bình 30 phút mỗi ngày. 
-PEG-TJ37 tương tự như model PEG-TJ35 mà Sony tung ra thị trường Mỹ năm ngoái và có thêm tính năng chụp ảnh như PEG-TH55.
-Sản phẩm này dùng chip i.MXL 200 MHz của Motorola, 32 MB RAM, màn hình TFT LCD độ phân giải 320 x 320 pixel và có thể nghe nhạc MP3. Thiết bị có kích cỡ 7,6 x 11,5 x 1,3 cm, trọng lượng 145 gram.
-

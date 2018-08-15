@@ -1,8 +1,0 @@
-Phần mềm nối chữ thông minh cho PDA
-Ý tưởng ghi nhớ mẫu chữ và kết nối các điểm có vẻ khó áp dụng khi soạn e-mail. Nhưng các nhà nghiên cứu của IBM quả quyết rằng việc dò tìm chữ kiểu mới trên màn hình cảm ứng sẽ trở thành chuẩn mực cho PDA hay điện thoại di động trong thời gian tới.
-"Về lâu dài, đây sẽ là một trong những phương pháp soạn văn bản chính của thiết bị di động", Shumin Zhai, chuyên gia kỹ thuật của IBM, khẳng định. Một phần mềm  mang tên Shark tích hợp trong PDA của IBM sẽ có mặt trên thị trường trong vài tháng tới.
-Shark được phát triển dựa trên phương pháp hình học để hiển thị từ vựng. Thay vì gõ bằng bàn phím hay viết lên màn hình, người sử dụng xác định các chữ cái và nối chúng với nhau qua một nét đơn để hình thành từ có nghĩa. Bàn phím ảo sẽ ngay lập tức hiển thị hình dạng chữ đó. 
-Với chương trình này, mọi người có thể viết 60, 70 chữ chỉ trong vòng 1 phút. Phần mềm tương thích với bàn phím Qwerty cũng như Atomik của IBM.
-Những thiết bị như PDA hay máy tính bảng đang khẳng định thế mạnh của mình, nhưng vẫn gặp nhiều trở ngại do khó sử dụng hơn bàn phím kích thước chuẩn. Quá trình viết trên màn hình PDA tương đương với việc gõ tốc ký vào một bàn phím ảo. "Vấn đề ở đây là ta muốn có một sản phẩm vừa nhanh vừa có độ chính xác cao, nhưng ta lại không muốn bỏ thời gian ra học quy tắc sử dụng hệ thống viết tắt sẵn có hiện nay", Zhai nói. 
-Zhai và một sinh viên tên là Per-Ola Kristensson quyết định tìm hướng đi mới và sản phẩm Shark đã ra đời. Bản thử nghiệm phần mềm sẽ được đăng tải và sử dụng miễn phí trên trang Alphaworks của IBM trong vòng 1 năm.
-

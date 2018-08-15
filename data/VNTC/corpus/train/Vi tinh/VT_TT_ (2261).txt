@@ -1,9 +1,0 @@
- Lớp học miễn phí về giải pháp tổng thể cho thiết bị di động 
-Lớp học sẽ diễn ra từ ngày 29-03 đến 31-03-2006 tại Novotel Garden Plaza Saigon, 309B - 311 Nguyễn Văn Trỗi, Quận Tân Bình, TP.HCM. 
-Các chuyên gia của QUALCOMM sẽ trực tiếp trình bày về bộ phát triển phần mềm BREW, tính năng và đặc điểm kỹ thuật, ứng dụng mẫu của BREW, việc ứng dụng triển khai giải pháp BREW tại VN như thế nào… 
-Giải pháp BREW là một công cụ được thiết kế đặc biệt để phát triển những ứng dụng trên các thiết bị di động 3G. Hiện có 35 nhà sản xuất thiết bị thương mại đang hỗ trợ BREW và phát triển nhiều thiết bị di động dành cho hàng trăm triệu người sử dụng trên khắp thế giới. Tính đến tháng 6-2005, BREW đã có 45 nhà khai thác của 24 nước ứng dụng và phát triển trên nền BREW, tạo ra giá trị trên 350 triệu USD. Các thông tin về giải pháp công nghệ BREW có tại địa chỉ http://brew.qualcomm.com/brew/en/ . 
-Đăng ký tham dự: 
-• Hội Tin Học TP.HCM (HCA): 79 Trương Định, Q.1, TP.HCM Tel: (08) 822 2876 - Fax: (08) 825 0053 - email hca@hcm.vnn.vn 
-Hoặc: 
-• Công ty Vietcomm, 77 Trần Nhân Tôn, Q.5, TP.HCM Tel: (08) 830 8261 - Fax: (08) 830 8262 
-

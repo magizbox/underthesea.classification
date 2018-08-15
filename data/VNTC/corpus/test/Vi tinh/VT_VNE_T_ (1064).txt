@@ -1,7 +1,0 @@
-RAM từ sắp trở thành tương lai của bộ nhớ
-Hai công ty Infineon và IBM vừa giới thiệu một mẫu thử nghiệm chip RAM từ tính (MRAM) 16 MB, đưa công nghệ tiết kiệm năng lượng này tiến thêm một bước gần hơn tới giai đoạn thương phẩm.
-MRAM là một công nghệ bộ nhớ phi bất định (non-volatile), có khả năng lưu trữ thông tin với thời gian lâu hơn mà không cần năng lượng. Kỹ thuật này đang được coi là sự thay thế tương lai cho thẻ nhớ flash (cũng là một công nghệ nhớ phi bất định khác) trong các ứng dụng di động như điện thoại. Về lâu dài, MRAM thậm chí còn có thể thay thế cả DRAM trên PC.
-Được chế tạo từ các vật liệu phản ứng từ, MRAM lưu trữ dữ liệu bằng cách tạo ra một từ trường để đưa các khoang bộ nhớ (cell) nhập vào một trong 2 trạng thái từ. Các công nghệ nhớ hiện nay như flash, SRAM và DRAM sử dụng sự tích điện để lưu dữ liệu.
-Bên cạnh các đặc điểm phi bất định, một yếu tố hấp dẫn khác của MRAM là giá cả. Không giống với công nghệ nhớ flash (đòi hỏi phải có một chu trình CMOS đặc biệt khi sản xuất), chip MRAM có thể được chế tạo bằng cách dùng các quy trình CMOS phổ thông. Điều này khiến chi phí sản xuất MRAM rẻ hơn nếu so với hiệu suất hoạt động cao có được từ công nghệ này (tức là tỷ lệ chip hoạt động gắn trên một tấm wafer silicon đơn). 
-Infineon và IBM cho biết việc sử dụng MRAM thay thế cho DRAM trong máy tính xách tay còn có thể tăng thời lượng pin. Hai công ty đã phối hợp phát triển chip MRAM từ năm 2000 và họ hy vọng công nghệ này sẽ được áp dụng đại trà trong vài năm tới.
-

@@ -1,9 +1,0 @@
-Intel XScale tiếp sức cho các thiết bị số xách tay
-Tập đoàn sản xuất chip lớn nhất thế giới cho biết hãng đang hợp tác với các công ty điện tử tiêu dùng Creative Labs, iRiver America và Samsung để tạo ra "Thiết bị xử lý đa phương tiện xách tay" (PMP) dựa trên công nghệ Intel XScale, cho phép kéo dài tuổi thọ pin với âm thanh và hình ảnh chất lượng cao.
-Những sản phẩm này dự kiến mang lại cho người tiêu dùng khả năng truy cập mọi lúc, mọi nơi tới những bản nhạc, bộ phim và hình ảnh đã được đăng ký bản quyền mà họ thích ngay trên chiếc PMP. Chúng sẽ được các nhà sản xuất tung ra thị trường trong năm nay.
-Intel đưa ra ý tưởng về dòng sản phẩm PMP này nhằm mang lại cho người dùng khả năng cá nhân hóa những nội dung đa phương tiện và sử dụng chúng khi đang ở nhà cũng như đang đi trên đường, Peter Green, Tổng giám đốc phụ trách bộ phận điện toán mở rộng của Intel, nói.
-Một chiếc PMP với ổ cứng 20 GB dự tính lưu được tới 70 giờ phim, 700 giờ nghe nhạc và quản lý 2 triệu bức ảnh. Công nghệ XScale với tính năng tiết kiệm điện sẽ giúp kéo dài thời gian sử dụng pin lên tới 4-6 giờ.
-Để thúc đẩy sự phát triển của dòng sản phẩm này, Intel đã đưa ra một thiết kế tham khảo cho PMP dựa trên bộ vi xử lý ứng dụng PXA255 với màn hình tinh thể lỏng màu, ổ cứng, một hệ thống âm thanh tương thích với chuẩn AC 97 và một giao diện USB 2.0. 
-Đồng thời, tại Triển lãm điện tử tiêu dùng quốc tế ở Las Vegas (Mỹ), Chủ tịch kiêm Tổng giám đốc Intel, ông Paul Otellini, công bố công nghệ silicon, có tên mã là Cayley, được dự kiến sẽ tạo ra các TV màn ảnh lớn cho độ sắc nét cao hơn những hệ thống hiện nay và có giá dưới 2.000 USD.
-Hãng dự định đưa các chip vi hiển thị sử dụng công nghệ Cayley ra thị trường vào nửa cuối năm nay. Hiện nay, một loạt nhà sản xuất hàng đầu như Infocus (Mỹ), TCL, Skyworth (Trung Quốc) và Primax PDC (Đài Loan) đang phát triển các sản phẩm dựa trên chip vi hiển thị mẫu của Intel.
-

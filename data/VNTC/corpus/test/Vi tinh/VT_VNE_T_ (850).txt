@@ -1,8 +1,0 @@
-Anh áp dụng công cụ chống đạo văn
-Những sinh viên sao chép luận văn trên Internet có thể dễ dàng bị phát hiện bởi một phần mềm đang được áp dụng tại một số trường đại học ở nước này. 
-Chương trình mang tên Turnitin có khả năng quét 4,5 tỷ trang trên tổng số 800 triệu website để soi hàng nhái. Biện pháp này được đưa ra khi mà nền văn hóa cắt-dán đang ngày một lan rộng cùng với sự phổ dụng của Internet, cho phép sinh viên bịt mắt các thày giáo dễ dàng hơn. 
-Phần mềm Turnitin hiện được thử nghiệm tại Đại học Kent và Đại học Robert Gordon. Trong khuôn khổ dự án thí điểm này, tất cả sinh viên được yêu cầu tình nguyện nộp bài làm và sau đó những tài liệu này sẽ được đưa vào so sánh trên công cụ phát hiện sao chép. 
-Năm ngoái, giáo sư Justin Greenwood ở Đại học Robert Gordon đã nhận được khá nhiều tác phẩm sao chép từ các nguồn trên web. Phản ứng đầu tiên của tôi lúc đó là thay đổi cơ chế tính điểm, ông cho biết. Sau khi tham gia một hội thảo về vấn đề này, tôi quyết định thiết kế lại toàn bộ quy trình đánh giá bài làm. 
-Tuần trước, Michael Gunn, một sinh viên ở Đại học Kent, người thừa nhận có tham khảo tài liệu ở chỗ khác, tuyên bố sẽ kiện nhà trường vì đã tước đoạt điểm của mình. Gunn cho rằng lẽ ra anh ta nên được cảnh báo trước rằng hành động như vậy là sai quy định.
-Sao chép tài liệu trong cộng đồng sinh viên ở Anh đang phát triển khá nhanh. Hiện nay, thậm chí còn có một số website chuyên cung cấp những bài luận viết sẵn cùng nhiều công cụ hướng dẫn cắt dán thông tin.
-

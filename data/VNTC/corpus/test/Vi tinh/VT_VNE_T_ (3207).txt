@@ -1,5 +1,0 @@
-Internet Explorer 6 cũng có tính năng duyệt tab
-Vài tuần sau khi tuyên bố sẽ tích hợp tính năng này trong phiên bản trình duyệt 7, Microsoft đã bắt đầu cung cấp tab browsing - một tiện ích rất được chờ đợi ở Internet Explorer 6 (IE 6) - với thanh công cụ MSN toolbar.
-Với phiên bản MSN Search Toolbar được phát hành bắt đầu từ hôm qua, IE 6 sẽ có khả năng mở nhiều trang web trên cùng một cửa sổ và chuyển đổi bằng một phím nhỏ phía trên màn hình.
-Duyệt theo tab từ lâu đã xuất hiện trong các đối thủ cạnh tranh của IE như Opera, Safari hay Firefox và là một trong nhiều tiện ích trình duyệt mà người lướt web còn thấy thiếu ở phiên bản hiện hành của browser phổ biến nhất thế giới. IE đã không có đợt nâng cấp chức năng lớn nào trong hơn 3 năm qua. Đến tháng trước, Microsoft mới khẳng định rằng họ sẽ cung cấp tab trong IE 7.
-

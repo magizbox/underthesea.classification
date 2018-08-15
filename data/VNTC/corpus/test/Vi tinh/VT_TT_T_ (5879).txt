@@ -1,7 +1,0 @@
- Google giới thiệu dịch vụ Google Local for Mobile
-Đây có thể được xem là dịch vụ Google Local chuyên dùng cho thiết bị di động, tạo điều kiện cho người dùng điện thoại di động, PDA, Pocket PC … sử dụng dịch vụ bản đồ của Google rất dễ dàng và hiệu quả. Cái độc đáo của dịch vụ này là nó tương thích với hơn 100 loại điện thoại di động sử dụng ngôn ngữ Java Brew đang phổ biến hiện nay. 
-Các model điện thoại di động do Cingular, Sprint Nextel và T-Mobile đều tương thích rất tốt với dịch vụ bản đồ dành cho mobile này của Google, nhưng đáng tiếc rằng một số thiết bị di động của Verizon, BlackBerrys và Palm do hệ điều hành được viết bằng ngôn ngữ khác với Google nên không thể sử dụng dịch vụ hiện đại này. 
-Dịch vụ tìm kiếm thông tin chuyên dùng cho điện thoại di động của Google cũng đã được tung ra một thời gian nhưng đây là lần đầu tiên Google đưa ứng dụng dịch vụ đồ bản này vào các thiết bị di động không dây. 
-Các chuyên gia đánh giá rằng rằng dịch vụ Google Local for Mobile này là một trong những dịch vụ hấp dẫn, tiện dụng và thực tế nhất cho mọi người dùng và khách du lịch, nhất là ở các quốc gia phát triển. 
-Người dùng có thể vào đây để tham khảo và sử dụng miễn phí dịch vụ này của Google. hiện Google Local for Mibile vẫn còn ở tình trạng bản thử nghiệm beta. 
-

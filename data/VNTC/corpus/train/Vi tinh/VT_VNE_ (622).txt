@@ -1,8 +1,0 @@
-Korgo tiếp tục là virus rất nguy hiểm 
-Nhiều tuần sau khi hãng phần mềm an ninh Anh Sophos khuyến cáo khách hàng áp dụng các biện pháp chống lại loại sâu này, những thông báo mới vẫn liên tiếp gửi về từ nhiều doanh nghiệp bị lây nhiễm bởi đủ loại biến thể của họ Korgo.
-Trên 20 phiên bản khác nhau của Korgo đã được các chuyên gia virus xác định trong 3 tuần qua, trong đó một số đã gây rất nhiều rắc rối cho những doanh nghiệp kém phòng vệ.
-Korgo là loại virus có cách phát tán tương tự như sâu Sasser bằng cách lợi dụng lỗ hổng LSASS trong phần mềm của Microsoft. Lỗi này được phát hiện ngày 13/4 và trình bày trong bản tin an ninh MS04-011 của Microsoft.
-Điều đáng chú ý ở đây chính là việc những phiên bản Korgo mới vẫn có thể tiếp tục gây rắc rối vì tất cả số virus này đều khai thác khiếm khuyết nói trên, Graham Cluley, Giám đốc công nghệ của Sophos, cho biết. Điều đó cho thấy rõ ràng là các doanh nghiệp và người sử dụng gia đình vẫn không áp dụng nghiêm túc bản nâng cấp của Microsoft, mặc dù phần mềm này đã được cung cấp từ cách đây 2 tháng.
-Người sử dụng được khuyến cáo nên cài đặt ngay bản vá lỗi nói trên hoặc vào trang WindowsUpdate để kiểm tra hệ thống của mình.
-Bấm vào tên hệ điều hành mà bạn đang dùng để tải bản sửa lỗi: Windows 2000, Windows XP, Windows Server 2003. Nếu bạn dùng Windows NT thì vào đây để chọn bản vá lỗi phù hợp.
-

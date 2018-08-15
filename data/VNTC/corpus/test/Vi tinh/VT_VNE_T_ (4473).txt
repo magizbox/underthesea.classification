@@ -1,6 +1,0 @@
-Không cài được từ điển Anh - Việt (1)
-Máy tính của tôi mới cài đặt lại WinXP Pack2. Tôi không thể cài được chương trình từ điển Anh - Việt. Tôi đã vào trang Web của Lạc Việt nhưng vẫn không có cách nào cài đặt được. Xin hướng dẫn tôi cụ thể. Xin chân thành cảm ơn.
-Hoang An
-Hồi âm:
-Buoc 1. Ban hay go bo Tu dien Anh - Viet (tuc la Lac Viet) mot cachtriet de: Tu Setting/Control Panel/Add/Remove Programs/...,icons cho den cac thu muc o C:\Program Files, cho den Registry Xoa o trong Registry nhu sau:Start/Run/Go Regedit, nhap OK/Go to hop phim Ctrl+F/Go LacViet/nhap Find Next, khi hien cac khoa a thi chonEdit/Delete.Sau go F3, Roi lai xoa,...Lap di lap lai cong viecnay cho den khi khong con cho nao nua.Chu y: De an toan, thi truoc khi tien hanh xoa, ban hay luu trulai ban Regisrty goc nhu sau: Start/Run/Go Regedit, nhap OK/Chon menu File, Export, Tim chocat, dat ten vi du: Reg10-2005 va OK. De neu cong viec co saisot gay truc trac thi ban lai chay Import lai nhu cu).Buoc 2.Neu Lac Viet cua ban o che do nen thi truoc het phai giai nenra da. Roi tien hanh cai. Cai xong chua voi chay ngay!!! Macopy folder DATA o bo cai vao de thu muc DATA o noi ma ban caivao: vi du de DATA o C:\Program Files\MTD2002. Sau do khoi donglai may. (Truong hop: Co truc trac thi ban lai Import regeistryma ban da luu tru luc truoc ve va khoi dong lai...).Chuc ban thanh cong.
-

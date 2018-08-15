@@ -1,3 +1,0 @@
- Pentium M chỉ là Pentium III cải biên?
-Một chuyên gia của Intel xác nhận điều này là sự thật và cho biết tuy là Pentium III cải biên nhưng Pentium M đã có những cải tiến đột phá như: khả năng trình diễn tương tự như Pentium 4 nhưng tốc độ xung nhịp thấp hơn, mức độ tiêu tốn năng lượng được giảm thiểu rất nhiều so với các chip di động đời trước. Intel đã thừa nhận chữ M có nghĩa là “Modification” tức “cải biên”. 
-

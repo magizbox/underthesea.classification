@@ -1,4 +1,0 @@
- Mozilla vá lỗi bảo mật của Firefox, Thunderbird
-Chris Hofmann, giám đốc kỹ thuật của Mozilla Foundation cho biết rằng không có bất kỳ lỗi bảo mật nào trong lần vá lỗi kỳ này được xếp đến mức “nghiêm trọng” nhưng Mozilla cũng khuyến cáo người dùng nên cập nhật ngay các bản sửa lỗi từ trang web của Mozilla. 
-Các lỗi bảo mật nói trên đã được khắc phục trong phiên bản Firefox 1.0.5, Thunderbird 1.0.5 và Mozilla Internet suite 1.7.9. Người dùng có thể vào đây để tải Firefox 1.0.5 về dùng. 
-

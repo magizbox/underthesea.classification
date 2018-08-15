@@ -1,7 +1,0 @@
-Làm sao cài đặt Pro/Engineer (1)
-Người ta nói muốn cài đặt Pro/Engineer phải có card mạng, có đúng không? Nếu đúng, tại sao như như vậy? Hầu hết các phần mềm ứng dụng khác đâu cần như vậy. Nhờ các anh chị chỉ bảo.
-Thanh Hai
-Hồi âm:
-Dear questioner,     
-To use ProE, a user must not only have a key which is also called hardware lock that is connected to the paralle port or USB but also must have an authorization codes that is issued by the vendor. Why does the software maker do it? Because the maker wants to protect the software being copied, that is mainly reason why. Does the hardware lock help with preventing from being copied? Yes, it does; however, there is still some TSR programs that have a capabity to bypass the hardware lock code and get ProE loaded as normal. Anyway, the process is not just simple step and I don't want to expose any further detail because it is not good idea to share this type of information in public. I hope this will answer your question. Take care.   
-

@@ -1,6 +1,0 @@
- IBM bán một Blue Gene để nghiên cứu não bộ
-Công ty Ecole Polytechnique Federale de Lausanne (EPFL) tại thành phố Lausanne (Thụy Sĩ) đã được “vinh dự” mua lại siêu máy tính này của IBM và đặt tên nó là Blue Brain. Các nhà nghiên cứu của EPFL sẽ cùng hợp tác với các chuyên gia máy tính của IBM trong một dự án nghiên cứu về não người mà IBM dự định sẽ công bố vào hôm nay (6-6). 
-Dự án kéo dài khoảng 2 năm này có tham vọng xây dựng nên một mô hình 3 chiều các thành phần chính của não bộ người. Thông qua các mô hình này các nhà nghiên cứu hy vọng sẽ tìm hiểu được các quy trình cực kỳ phức tạp như nhận thức, suy nghĩ, ghi nhớ, gia tăng trí tuệ… cũng như mọi trục trặc liên quan đến não bộ v.v để có thể giải quyết được các vấn đề liên quan đến mọi loại bệnh thần kinh. 
-Mọi chi tiết liên quan đến thỏa thuận hợp tác khoa học này vẫn chưa được tiết lộ nhưng EPFL sẽ mua kiểu máy Blue Gene 4 khối xử lý với giá khoảng 2 triệu USD cho mỗi khối. Mỗi một khối xử lý bao gồm 1.024 con Power chip được kết nối trực tiếp vào các mạng truyền thông tốc độ cao. Hệ thống này sẽ được IBM chuyển giao cho EPFL trong tháng 6 này. 
-IBM đã bán ra một số kiểu siêu máy tính Blue Gene từ khi kiểu máy này được thương mại hóa trong năm 2004. Ngoài việc mua đứt bán đoạn, IBM cũng cho các tổ hợp nghiên cứu khoa học khác nhau thuê máy để sử dụng nếu có nhu cầu. 
-

@@ -1,7 +1,0 @@
-Lướt web bằng trình duyệt 3D
-Công ty thiết kế Sphere của Slovakia vừa thiết kế thành công browser đầu tiên theo dạng không gian 3 chiều, giúp người truy cập Internet có thể xem các cửa sổ với góc nhìn rất ấn tượng. 
-Sản phẩm mang tên SphereXPlorer có lẽ là trình duyệt web duy nhất trên thế giới đòi hỏi một cấu hình máy tính thật sự mạnh. 
-SphereXPlorer có thể được xem là một trình duyệt web tuyệt vời nhất hiện nay về mức độ thể hiện đồ họa cũng như tính hấp dẫn lạ mắt. Các cửa sổ web thể hiện theo dạng 3D tương tự như những trang giấy chìm lãng đãng trong hồ nước.
-Cấu hình tối thiểu để sử dụng được trình duyệt SphereXPlorer là: chip xử lý Pentium tốc độ 1 GHz, card màn hình 64 MB, bộ nhớ RAM 256 MB, Windows XP và trình duyệt Internet Explorer 5.5 trở lên và bắt buộc phải cài trình .NET Framework 2.0 của Microsoft.
-Người muốn sử dụng có thể vào đâyđể tải trình duyệt SphereXPlorer phiên bản 0.52 về dùng miễn phí, dung lượng chỉ khoảng 2,2 MB. Những máy nào chưa được cài ứng dụng. NET Framework 2.0 thì có thể vào đâyđể tải về sử dụng.
-

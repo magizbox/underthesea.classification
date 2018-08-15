@@ -1,6 +1,0 @@
-Điện thoại di động chuyển lời nói thành text
-Samsung vừa trình làng P207, sản phẩm đầu tiên trong 2 phiên bản điện thoại có khả năng nhận dạng lời thoại rồi chuyển thể thành văn bản. Đây là nỗ lực mới nhất trong việc tạo thuận lợi cho người dùng mobile phone nhắn tin và lướt web.
-Điện thoại Samsung P207.
-Khi sử dụng, thay vì phải bấm phím, người dùng thiết bị chỉ cần nói vào điện thoại, cho nó biết địa chỉ e-mail và nội dung thông điệp, những việc còn lại máy sẽ tự làm nốt. Hãng viễn thông di động số 1 tại Mỹ là Cingular Wireless hiện cung cấp P207 với giá 80 USD cho những thuê bao ký hợp đồng 2 năm. Giá thực tế mà nhà sản xuất đưa ra là 180 USD. Phiên bản thứ 2 của loại điện thoại ghi chính tả này có tên A800, sẽ được tung ra trong 2 tháng nữa.
-Hiện tại, công nghệ nhận dạng lời nói chủ yếu được sử dụng cho các tin nhắn dạng text. Tuy nhiên, không lâu nữa những phần mềm như của hãng VoiceSignal Technologies sẽ cho phép gõ(bằng lới nói) địa chỉ web để tạo thuận lợi cho người lướt web. Hai chiếc điện thoại của Samsung có dùng một ứng dụng của VoiceSignal Technologies gọi là QuickPhrase, cho phép người sử dụng gửi đi những thông điệp ngắn lập trình trước, kiểu như Hãy gọi cho tôi hay Tôi sẽ gọi lại bằng cách đơn giản là nói những từ đó.
-

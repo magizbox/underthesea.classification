@@ -1,6 +1,0 @@
- Intel ra mắt bộ xử lý có tốc độ 3.46GHz
-Loại Pentium 4 Extreme Edition được trang bị bộ vi xử lý 3,46GHz, bộ đệm Level 3 đạt dung lượng 2MB, được trang bị công nghệ siêu phân luồng để gia tăng tối đa các khả năng trình diễn. Loại Chipset 925XE Express của Intel trong máy tính mới này đã làm nổi bật tính năng của hệ thống bus 1066MHz, nó có khả năng gia tăng tốc độ xử lý khung hình nhanh hơn nhiều và chắc chắn sẽ làm vừa lòng các game thủ cũng như các chuyên gia biên tập video. 
-Con chip 925XE Express là phiên bản kế tiếp của dòng chip 915/925X Express mà Intel đã tung ra vào đầu năm nay. Tính năng nổi bật của chip 925XE Express khi kết hợp với bus hệ thống 1066MHZ chính là tốc độ xử lý vượt trội, nó có khả năng tăng tốc trao đổi các khối lượng dữ liệu cực lớn giữa bộ vi xử lý và hệ thống bộ nhớ. 
-Khi được thử nghiệm với một máy tính có cùng bộ vi xử lý, được trang bị hệ thống bus 800MHz với khối lượng dữ liệu cực đại phải xử lý thì hệ thống máy mới này đã nhanh hơn 33% trong việc thúc đẩy lưu lượng dữ liệu trao đổi giữa vi xử lý và bộ nhớ. 
-Nếu mua với số lượng 1.000 máy Pentium 4 Extreme Edition trở lên thì Intel sẽ "ưu đãi" cho bạn với giá 999 USD/chiếc. 
-

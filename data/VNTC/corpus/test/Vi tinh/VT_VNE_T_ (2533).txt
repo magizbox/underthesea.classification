@@ -1,8 +1,0 @@
-Oracle cung cấp E-Business Suite 11i.10 tại Việt Nam
-Phiên bản mới của bộ phần mềm ứng dụng kinh doanh tích hợp mà nhiều doanh nghiệp lớn tại Việt Nam đang sử dụng được bổ sung nhiều tính năng công nghiệp và năng lực thông tin quan trọng.
-Đại diện nhà cung cấp cho biết 50% các chức năng mới trong phiên bản 11i.10 dành riêng để phục vụ các yêu cầu cụ thể của từng ngành nghề. Phạm vi hỗ trợ các lĩnh vực trải rộng từ hàng không, quốc phòng, truyền thông cho tới tài chính, y tế, bán lẻ&
-Đáng chú ý, E-Business Suite 11i.10 được mở rộng đáng kể về năng lực ứng dụng thông tin kinh doanh hằng ngày (Oracle Daily Business Intelligence). Ứng dụng này có số báo cáo nhiều hơn 82%, số phép đo quan trọng tăng 53%, số bảng biểu đặc dụng nhiều hơn 13%. Hệ quả của việc này là các khách hàng sẽ có khả năng lấy thêm được nhiều hơn các thông tin hữu dụng từ hệ thống kinh doanh của mình. 
-Ông Hồ Thanh Tùng, Giám đốc điều hành Oracle Indochina, phát biểu: Oracle E-Business Suite phiên bản11i.10 có những chức năng chuyên ngành mới, đem tới cho khách hàng ở Việt nam cơ hội sử dụng các ứng dụng kinh doanh chất lượng cao mà hàng nghìn doanh nghiệp khác trên thế giới cũng như ở Việt Nam đang sử dụng.
-Các tổ chức, doanh nghiệp sử dụng Oracle E-Business Suite ở Việt nam hiện có Vietnam Airlines, Toyota Motor Vietnam, VietsovPetro, S-Telecom (S-phone), Zamil Steel Vietnam và nhà máy bánh kẹo Biên Hòa.
-Trên thế giới, bộ phần mềm Oracle E-Business Suite đang được hơn 23.000 khách hàng sử dụng trong quá trình tự động hóa các chức năng hoạt động nội bộ hoặc giao dịch bên ngoài như Lập kế hoạch nguồn lực doanh nghiệp (Enterprise Resource Planning - ERP), Quản lý chuỗi cung cấp (Supply Chain Management SCM) và Quản trị quan hệ khách hàng (Customer Relationship Management - CRM). 
-

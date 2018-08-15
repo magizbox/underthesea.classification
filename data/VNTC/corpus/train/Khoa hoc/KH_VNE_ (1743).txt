@@ -1,8 +1,0 @@
-Chuột có thể 'ngửi mùi theo kiểu âm thanh nổi'
-Chuột có thể tìm đường bằng mùi nhờ một phương pháp tương tự như xử lý âm thanh nổi. Các chuyên gia Ấn Độ đã phát hiện thấy 90% neuron ở thùy khứu giác trên não loài vật gặm nhấm này đáp ứng khác nhau với các mùi đến từ bên trái hay phải.
-Nhóm nghiên cứu của Đại học Khoa học Nông nghiệp, Bangalore, cho biết chuột chỉ cần 1 hoặc 2 lần khịt mũi là có thể định vị chính xác nơi phát ra mùi thơm.
-Với chúng, "mỗi cú ngửi là một lần thu thập toàn bộ thế giới khứu giác xung quanh, trong đó có cả việc gọi tên mùi thơm và vị trí của nguồn phát", Raghav Rajan và cộng sự nói.
-Các nhà nghiên cứu đã cho những con chuột dí mũi vào những cái lỗ trên lồng của chúng để đoán xem mùi thơm phát ra từ bên trái hay phải. Nếu mùi đến từ bên trái, con chuột sẽ được thưởng nước bằng cách liếm cột nước ở bên trái. Kết quả tương tự nếu mùi đến từ bên phải.
-Kết quả là lũ chuột có thể định vị chính xác hướng phát ra của mùi chỉ trong vòng 50 miligiây.
-Các nhà nghiên cứu cho biết cơ chế ngửi nổi của chuột tạo cho nó một lợi thế tiến hóa: Cho phép nó định vị thức ăn và kẻ thù nhanh hơn và chính xác hơn.
-

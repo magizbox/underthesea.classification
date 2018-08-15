@@ -1,7 +1,0 @@
- HP giới thiệu giải pháp lưu trữ chi phí thấp
-TTO - HP StorageWorks DAT72 USB Tape Drive và HP StorageWorks DAT40 USB Tape Drive là hai trong số những hệ thống sao lưu băng từ áp dụng cơ chế DAS (Direct Attached Storage) đầu tiên hỗ trợ giao tiếp với máy tính qua chuẩn USB 2.0 tốc độ cao. 
-Hệ thống này không yêu cầu trang bị bộ chuyển đổi SCSI và quá trình cài đặt phức tạp như ở các hệ thống sao lưu thông dụng hiện nay. Người dùng có thể lắp đặt thiết bị nhanh trong khoảng thời gian chưa đến 1 phút. 
-HP StorageWorks DAT72 USB Tape Drive cho phép lưu đến 72GB dữ liệu (DAT40 lưu được 40GB), có khả năng đọc/ghi dữ liệu với băng từ định dạng DAT72, DDS-4 và DDS-3. Cả hai thiết bị trên hỗ trợ tốc độ truyền nhận dữ liệu 23GB/giờ khi sử dụng chế độ nén, giúp lưu đầy dữ liệu vào một băng từ trong vòng 3 giờ đồng hồ (với HP StorageWorks DAT40) hay 4 giờ (với HP StorageWorks DAT72). 
-Việc sao lưu dữ liệu có thể được thực hiện thông qua công cụ đi kèm dễ sử dụng và đầy đủ tính năng TapeWare XE, có khả năng khôi phục dữ liệu “một nút nhấn” với tính năng One Button Disaster Recovery (OBDR). 
-Hai hệ thống này giúp doanh nghiệp tiết kiệm được nhiều chi phí so với việc phải trang bị hệ thống sao lưu chuyên dụng. 
-

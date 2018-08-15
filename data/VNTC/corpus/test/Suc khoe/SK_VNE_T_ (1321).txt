@@ -1,7 +1,0 @@
-Lọ thuốc biết nhắc bệnh nhân uống 
-Sử dụng công nghệ tin nhắn qua điện thoại di động, một bác sĩ Nam phi đã chế tạo thành công một thiết bị đựng thuốc đặc biệt có khả năng nhắc người bệnh đừng quên uống thuốc đúng thời gian.
-Bác sĩ David Green tại Johannesburg (Nam Phi), người đã phát minh ra thiết bị có tên gọi SIMpill này, cho biết, lọ đựng thuốc đặc biệt của ông nhằm vào đối tượng bệnh nhân dùng thuốc để điều trị các căn bệnh kinh niên như AIDS, viêm phổi, tiểu đường, động kinh, hen suyễn - những người sẽ gặp hậu quả nghiêm trọng nếu bỏ lỡ một lần uống thuốc. Chẳng hạn, nếu quên uống thuốc dù chỉ một lần thì bệnh nhân HIV, lao phổi sẽ bị kháng thuốc, bệnh nhân bị động kinh sẽ lên cơn co giật.Khi bệnh nhân bỏ nút chai đi, một chip điện tử trong chai sẽ gửi một tin nhắn SMS tới một trung tâm dịch vụ điện thoại, nội dung tin nhắn có cả số nhận dạng của chai thuốc (đã đăng ký trước với trung tâm dịch vụ). Nếu tin nhắn đến trung tâm dịch vụ quá trễ hay quá sớm, một tin nhắn nhắc nhở sẽ được gửi đến điện thoại của bệnh nhân, người nhà hay một bác sĩ gần đó.
-"Điện thoại di động là vật được đa số mọi người dùng suốt ngày, nên khả năng bỏ lỡ tin nhắn là rất thấp, không giống như chuông cảnh báo chỉ được để ở một chỗ và đôi khi không được để ý", David Green nói.
-Thời gian uống thuốc của bệnh nhân sẽ được công ty dược phẩm sản xuất hay phân phối thuốc lập trình trước và đưa vào chip điện tử trong lọ, dựa vào đó chip điện tử sẽ gửi tin nhắn về thời gian uống thuốc cho bệnh nhân, Green cho biết.
-Giá bán dự kiến của sản phẩm là 300 USD.
-

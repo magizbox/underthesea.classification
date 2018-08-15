@@ -1,7 +1,0 @@
-Sâu Zafi.C nhắm vào thủ tướng Hungary
-Hãng bảo mật Anh Sophos vừa phát hiện một loại virus e-mail mới có âm mưu làm tê liệt website của ông Ferenc Gyurcsany, mới được bổ nhiệm dẫn dắt nội các Hungary. 
-Zafi.C phát tán qua e-mail với những tiêu đề thư như Re: Hey buddy!" (Này người anh em) và "Re: very sick little girl!" (Một cô bé bị bệnh nặng), để lừa người nhận mở file đính kèm. Mỗi phần attachment được mở ra sẽ góp phần giúp virus thực hiện tấn công từ chối dịch vụ vào website của ông Gyurcsany và cả trang web của Google cũng như Microsoft.
-Zafi.C sử dụng rất nhiều thủ đoạn lừa bịp để kích thích trí tò mò của người nhận thư, khuyến khích họ mở file đính kèm bằng nhiều nội dung trá hình khác nhau, chẳng hạn yêu cầu hãy chuyển tiếp bức thư để góp phần kêu gọi ủng hộ từ thiện cho một bé gái bị bệnh cần điều trị, hoặc nói về một người tình đang chờ đợi bạn, hoặc những lời hỏi han tình tứ&
-Mỗi phiên bản Zafi mới mà chúng tôi phát hiện đều tinh vi và nguy hiểm hơn những biến thể trước, Graham Cluley, chuyên gia công nghệ hàng đầu của Sophos, nói. May mắn là hiện nay Zafi.C chưa phát tán mạnh như những anh em trước đó của nó. Tuy nhiên, mọi người vẫn nên đảm bảo nâng cấp phần mềm diệt virus và cảnh giác với những e-mail không rõ nguồn gốc.
-Suốt từ tháng 6 đến nay, phiên bản Zafi.B, vẫn tiếp tục lây lan rộng với thông điệp kêu gọi áp dụng án tử hình ở Hungary. 
-

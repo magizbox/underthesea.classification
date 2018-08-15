@@ -1,6 +1,0 @@
-Hỏi về mạng nội bộ (1)
-Tôi dùng mạng nội bộ ngang hàng, nhưng gần đây tự nhiên các máy tính khác không thể truy cập được vào máy tính của tôi trong khi tôi vẫn có t hể truy cập được vào các máy khác, rất mong các bạn giúp đỡ tôi câu hỏi này. Máy tính của tôi: window xp sp-1, với bộ vi xử lý intel celeron.
-nguyễn trọng hợp
-Hồi âm:
-Vấn đề của bạn khả năng rất cao là bạn đã sử dụng chức năng Firewall trên Windows XP. Để mọi người có thể truy cậo vào máy của bạn, bạn cần bỏ chức năng này đi. (vào Properties của My Network Places, vào Properties của Local Areas Network\ chọn Advance, bỏ chọn Enable Firewall). Nếu làm như trên vẫn không được bạn có thể email lại vietvq@vnu.edu.vn tôi sẽ giúp đỡ.
-

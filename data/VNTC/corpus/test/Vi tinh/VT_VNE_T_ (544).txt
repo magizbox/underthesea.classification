@@ -1,6 +1,0 @@
-Máy tính khởi động sau 5 giây thì tự động chết (1)
-Toi xin duoc cac ban chi giup: may tinh cua toi moi day co hien tuong cu an nut khoi dong, may lam viec duoc 5 - 30giay thi ngung khong hoat dong duoc. Truoc khi tat tren man hinh hien nhung dong chu chi thong so ky thuat va o phan duoi co ky hieu phim F1 save gi ..gi do toi khong hieu tieng Anh va may cung tat qua nhanh toi khong hieu duoc vi sao. Nhung neu khoi dong duoc roi thi tat may de khoi dong lai thi lam viec binh thuong. Toi mong cac ban chi gup cho toi cach khac phuc va ly do vi sao. Xin cam on.
-Quang Minh
-Hồi âm:
-Bạn tả thế thì chịu , không ai biết được đâu. Nếu lúc khởi động một lúc thì màn hình xanh lè và báo lỗi, phải Shutdown máy, thì mình đoán có thể máy của bạn bị hỏng Ram vì đây là lỗi hay gặp nhất. Cũng có thể là do hỏng Windows. Nói chung bạn phải tả rõ hiện tượng và các thông báo lỗi thì người khác mới có thể giúp được, nếu không thể tả rõ hiện tượng thì bạn nên mang ra các cửa hàng vi tính để họ xem và sửa hộ. 
-

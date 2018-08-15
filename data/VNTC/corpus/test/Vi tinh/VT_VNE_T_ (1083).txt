@@ -1,7 +1,0 @@
-Juniper Networks thay đổi cách triển khai IPv6
-Hôm qua, hãng cung cấp giải pháp mạng và bảo mật Mỹ tung ra thị trường Netscreen ScreenOS, hệ điều hành sản phẩm bảo mật chuẩn của công ty, với khả năng sẵn sàng hỗ trợ Giao thức Internet version 6 (IPv6). 
-
-Với sự sẵn sàng của hệ điều hành ScreenOS hỗ trợ IPv6 trong các sản phẩm và hệ thống NetScreen-5XT, -204, -208, -500 và -5200, Juniper Networks đã đưa ra giải pháp hoàn toàn hỗ trợ IPv6 được kiểm tra và chứng nhận bao gồm các sản phẩm mạng và bảo mật. Những giải pháp này cho phép doanh nghiệp và nhà cung cấp dịch vụ triển khai hạ tầng IPv6 từ mạng lõi đến mạng biên, đảm bảo sự hài lòng của người dùng và giảm rủi ro khi triển khai.
-Ông Adam Judd, Phó chủ tịch Juniper Networks châu Á - Thái Bình Dương, nhận định: Châu Á - Thái Bình Dương là khu vực chấp nhận IPv6 nhanh nhất. Điều này được thúc đẩy bởi các điều khoản pháp lý hỗ trợ tại một số quốc gia và dự đoán về nhu cầu lớn địa chỉ dành cho các thiết bị điện tử kết nối IP.
-Nhu cầu ngày càng tăng về thông tin di động trên toàn cầu, mạng gia đình, chơi game trực tuyến, dịch vụ video và các ứng dụng đang phổ biến khác cũng như sự thiếu hụt các địa chỉ IPv4 đặc biệt tại những nước đang phát triển tiếp tục thúc đẩy sự phát triển của một hạ tầng IP duy nhất có khả năng đáp ứng được nhu cầu trong tương lai. Trong khi IPv6 đưa ra một lộ trình chuyển đổi rõ ràng, vấn đề bảo mật đã được chứng minh là một trong các thách thức khó khăn nhất trong quá trình triển khai IPv6.
-

@@ -1,6 +1,0 @@
-Bản nâng cấp quý II của Oracle sửa 49 lỗi
-Được phát hành hôm qua trên hệ thống Oracle Technology, gói phần mềm cập nhật này xử lý những phiên bản cũ và hiện hành của tất cả các dòng sản phẩm chính mà Oracle đang cung cấp, bên cạnh những công cụ như Enterprise Manager.
-Trong số chương trình vá lỗi nói trên (tham khảo tại đây), 17 bản dành cho gói ứng dụng E-Business Suite, 24 dành cho cơ sở dữ liệu và server ứng dụng, 6 cho gói phần mềm cộng tác Oracle Collaboration Suite và 2 cho công cụ Enterprise Manager. Các bản update này được cung cấp cho những khách hàng đã ký hợp đồng hỗ trợ mở rộng Extended Maintenance Support với Oracle.
-Đợt nâng cấp tiếp theo của Oracle sẽ được phát hành vào ngày 18/10.
-Oracle chuyển sang cơ chế phát hành bản nâng cấp theo định kỳ hàng quý từ đầu năm nay. Trước đó, họ chỉ tung ra phần mềm sửa lỗi mỗi khi làm xong và điều này khiến nhiều khách hàng cảm thấy không có tính liên tục và khó biết trước để cập nhật. Việc phát hành các gói phần mềm nâng cấp cùng lúc theo định kỳ như hiện nay giúp các nhà quản lý hệ thống dễ dàng hơn trong việc theo dõi, kiểm tra và cài đặt một cách đồng bộ.
-

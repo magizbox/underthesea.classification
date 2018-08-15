@@ -1,7 +1,0 @@
- Chủ tịch Intel chế nhạo dự án laptop 100 USD
-Tại hội thảo gần đây nhất tại Sri Lanka, Craig Barrett nhận định rằng các máy tính không đầy đủ các chức năng có khả năng sẽ bị đem ra làm trò cười cho những người dùng máy tính. Barrett cũng nói thêm là thiết bị với giá 100 USD kia không xứng đáng được gọi là một máy tính xách tay. 
-Nhưng trái lại, các máy xách tay của MIT lại nhận được đánh giá cao từ những người đã thấy tận mắt và cũng nhận được lời chúc mừng từ Tổng thư ký Liên Hợp Quốc Kofi Annan. 
-Trẻ em ở các nước như Brazil, Thái Lan, Ai cập và Nigeria sẽ là những nơi đầu tiên khởi động việc phát hành thiết bị này vào đầu năm sau. Bang Massachusetts ở Mỹ cũng lên kế hoạch trị giá 54 triệu USD để mua các máy xách tay này cho những học sinh ở bậc Trung và Phổ thông trung học. 
-Tất cả những máy xách tay 100 USD đều được cài đặt sẵn hệ điều hành Linux do Red Hat cung cấp. Tuy nhiên, bất kỳ hệ điều hành nào hỗ trợ vi xử lý AMD đều có thể hoạt động trên nó, theo như các kỹ sư phát triển cho biết. Phần mềm cũng sẽ bao gồm một trình duyệt web, email và các chương trình cần thiết khác. 
-Barrett giải thích thêm rằng người dùng ngày càng cần đến những thiết bị hoàn hảo với đầy đủ chức năng. Intel cũng sẽ cung cấp những thiết bị hoàn thiện như vậy. 
-

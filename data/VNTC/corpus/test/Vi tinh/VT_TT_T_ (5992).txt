@@ -1,4 +1,0 @@
- Sun hỗ trợ nhiều chương trình phát triển CNTT tại Việt Nam
-Dự định này cũng nằm trong khuôn khổ sáng kiến “Chia sẻ cơ hội” mà Sun giới thiệu tại buổi họp báo sáng ngày 28-7, tại TP.HCM. Theo đó trong năm 2005, Sun sẽ tiếp tục phối hợp với các đối tác để thành lập ít nhất 3 trung tâm: đào tạo lập trình J2EE, phát triển mã nguồn mở dựa trên hệ điều hành OpenSolaris – ngôn ngữ Java và Vườn ươm công nghệ thông tin. 
-Cũng thuộc chương trình này, năm ngoái Sun đã tặng Bộ Giáo dục Đào tạo Việt Nam phần mềm Star Office, đồng thời công bố toàn bộ mã nguồn của hệ điều hành Open Solaris. 
-

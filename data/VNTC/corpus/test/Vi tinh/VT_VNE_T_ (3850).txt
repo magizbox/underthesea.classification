@@ -1,6 +1,0 @@
-Thêm một phương pháp bẻ khoá WGA 
-Nỗ lực chống lại phần mềm giả của Microsoft lại vướng phải một khó khăn mới khi hacker tiếp tục đăng tải thủ thuật mới có thể "đi vòng" qua công cụ Windows Genuine Advantage (WGA).
-Chương trình WGA được sử dụng để ngăn người dùng phiên bản hệ điều hành lậu tải những tính năng nâng cấp của Windows. Tuy nhiên, theo thông tin trên một trang web ngày 4/8, chỉ cần thay đổi thiết lập trong công cụ "GenuineCheck.exe", sử dụng chế độ tương thích Windows 2000, là có thể kích hoạt mã xác nhận tính hiệu lực cho hệ điều hành bất hợp pháp.
-Microsoft không xác nhận phương pháp trên có thực hiện được hay không, nhưng hãng phần mềm Mỹ đang tiến hành nghiên cứu vấn đề và khẳng định mánh khoé này sẽ không tồn tại lâu dài. "Chúng tôi không ngạc nhiên khi ai đó muốn tìm cách phá vỡ WGA để dùng lậu chương trình", một đại diện của Microsoft cho biết. "Chúng tôi vẫn thường xuyên cập nhật hệ thống kiểm tra tính hiệu lực, và sẽ nhanh chóng giải quyết tất cả những khiếm khuyết này".
-Tuần trước, một số trang web cũng tuyên bố họ có khả năng qua mặt khoá bảo mật WGA bằng những thủ thuật khác nhau, trong đó có việc sử dụng dãy JavaScript trên trình duyệt web.
-

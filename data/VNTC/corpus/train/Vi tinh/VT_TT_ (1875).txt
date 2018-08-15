@@ -1,7 +1,0 @@
- Diễn đàn của fan Arsenal Việt Nam bị hacker tấn công
-Theo Ban Quản trị diễn đàn, hacker đã đánh cắp mật mã (password) nick đăng nhập của một thành viên trong Ban Quản trị và sử dụng quyền của thành viên này để vào diễn đàn xóa tất cả các chủ đề. 
-Tuy nhiên, do diễn đàn có hai lớp mật mã bảo vệ nên những nội dung bị xóa vẫn có thể khôi phục lại được. 
-AFCVN hiện có hơn 5.500 thành viên, là một trong những hội cổ động viên bóng đá lớn nhất Việt Nam. 
-Cùng với việc mở diễn đàn cho các thành viên yêu bóng đá thảo luận ở trên, AFCVN cũng có trang web chính thức tại địa chỉ www.arsenal.com.vn để cập nhật những tin tức hằng ngày liên quan đến đội bóng Arsenal. 
-Trang web diễn đàn của AFCVN bị hacker tấn công là trang web thứ hai bị hack trong thời gian qua. Trước đó, website của Liên đoàn Bóng đá Việt Nam ( www.vff.org.vn ) cũng đã bị hacker tấn công và thay đổi nội dung. 
-

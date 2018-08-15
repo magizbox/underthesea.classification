@@ -1,6 +1,0 @@
- Pallette: phần mềm soạn nhạc chuyên nghiệp
-Palette 4.2 sẽ đáp ứng được đầy đủ nhu cầu biên soạn và sáng tác nhạc trên máy tính cho ngay cả những nhạc sĩ khó tính nhất. 
-Các công cụ soạn nhạc của Palette được thiết kế hết sức trực quan, gọn gàng và đầy đủ mọi chức năng soạn nhạc phức tạp nhất. Người dùng sẽ soạn nhạc đơn giản chỉ bằng con chuột máy tính bằng cách nhắp vào các ô lệnh nhạc được thể hiện đầy đủ trong giao diện soạn nhạc. 
-Ngoài ra Pallet cũng mô phỏng quá trình vẽ nốt nhạc theo một bàn phím piano kế bên cho người soạn nhạc dễ mường tượng được cao độ - trường độ của dòng nhạc. Pallette 4.2 giúp cho người soạn nhạc nghe lại được ngay ô nhạc hoặc toàn bộ dòng nhạc mà mình vừa soạn. Các chức năng lưu lại bản nhạc vừa soạn dưới dạng văn bản để in ra hoặc MIDI để nghe lại cũng rất hoàn thiện. 
-Ilya Schepikhin đang bán ra Pallette 4.2 với giá là 35 USD. Người dùng có thể vào đây để tải bản Shareware có dung lượng khoảng 1,8 MB về dùng thử. Hiện Pallette 4.2 đã có mặt tại các cửa hàng phần mềm tin học tại TP Hồ Chí Minh. 
-

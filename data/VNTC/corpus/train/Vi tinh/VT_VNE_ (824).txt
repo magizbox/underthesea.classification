@@ -1,5 +1,0 @@
-Phần mềm giúp người mù sử dụng Internet
-Hôm qua, Trường phổ thông đặc biệt Nguyễn Đình Chiểu và Đại học Sư phạm TP HCM đã phối hợp giới thiệu sản phẩm giúp người khiếm thị lướt web. Phần mềm này sẽ được cung cấp miễn phí cho những đơn vị có nhu cầu phục vụ người khuyết tật. 
-Đây là sản phẩm thuộc dự án Ánh Dương được Ngân hàng Thế giới tài trợ 10.000 USD với mục đích hỗ trợ người khiếm thị tiếp cận thông tin tiếng Việt trên máy tính, chủ yếu là từ Internet. 
-Nhờ phần mềm này, người khiếm thị có thể "đọc" bằng cách quét qua từng từ trong trang web và có thể tìm kiếm, mô tả các thành phần phi văn bản như hình ảnh, ô nhập liệu, nút bấm... 
-

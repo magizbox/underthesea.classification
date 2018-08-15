@@ -1,7 +1,0 @@
-Symantec bị kiện vì xác định adware
-Một công ty phần mềm nhỏ ở San Diego (Mỹ) vừa phát đơn ra tòa với lời cáo buộc hãng phần mềm an ninh làm tổn hại công việc kinh doanh của họ. Cụ thể, Symantec đã liệt doanh nghiệp này vào danh sách những đối tượng phát tán phần mềm gián điệp.
-Hãng TrekEight (có khi tự xưng là "Trek8," "TrekData" và "TrekBlue") sản xuất một chương trình có tên Spyware Nuker mà họ quảng cáo là công cụ để xác định và loại bỏ phần mềm xâm nhập trái phép trên ổ cứng máy tính. Tuy nhiên, trên website của Symantec và cả phần mềm Norton AntiVirus của công ty này từ nhiều tháng qua đã coi sản phẩm của TrekEight là một dạng phần mềm có tiềm năng gây hại.
-Hãng phần mềm ở San Diego thì một mực kêu không phải như vậy. Họ cho biết hành động của Symantec đã dẫn đến hậu quả là TrekEight bị mất nhiều nhà phân phối và hiện giờ cũng mất khả năng quảng cáo trên Google.
-Vì nhận xét không chính xác của Symantec mà chúng tôi phải hứng chịu những thua thiệt lớn về doanh số bán hàng cộng với tổn hại về uy tín, TrekEight tuyên bố trong đơn kiện. Mã lập trình của ứng dụng Spyware Nuker không thể thực hiện những tính năng đặc trưng của spyware và adware.
-Đây là một vụ khá nhạy cảm, nhất là trong tình hình người sử dụng máy tính hiện nay rất dị ứng và sẵn sàng làm mọi thứ để loại bỏ những chương trình xâm nhập lén lút vào hệ thống của họ, thường được gọi bằng những thuật ngữ như adware, spyware hay malware.
-

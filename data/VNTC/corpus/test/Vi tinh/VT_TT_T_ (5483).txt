@@ -1,6 +1,0 @@
- Ngăn chặn Trojan &amp; Hacker hiệu quả hơn
-Anti-Hacker &amp; Trojan Expert là chương trình nhỏ gọn nhưng khá cần thiết cho PC của bạn. 
-Anti-Hacker &amp; Trojan Expert có thể chống lại 12.000 chương trình hacker sử dụng và các loại trojan. Nhanh chóng phát hiện ra các chương trình ẩn của hacker nhằm đánh cắp mật khẩu hay thông tin của bạn qua việc scan port của PC, dò tìm trong hệ thống registry để khóa những chương trình nguy hiểm khi khởi động máy, hoặc scan trong những chương trình đang được thực thi. 
-Tất cả những tập tin, trojan hay chương trình nguy hiểm khi đựơc tìm thấy sẽ được "tiêu diệt" sạch sẽ. Ngoài ra, Anti-Hacker &amp; Trojan Expert cũng đựng firewall bảo vệ bạn khi duyệt website hay sử dụng PC. 
-Bạn có thể cập nhật thường xuyên database của chương trình thông qua Internet từ NET2SOFT. Với giá 29.95$ chạy trên hầu hết các phiên bản của hệ điều hành Windows: Win95/98/Me/NT/2000/XP. Bạn có thể tải về phiên bản dung thử với version mới nhất 2003 1.6 tại đây . 
-

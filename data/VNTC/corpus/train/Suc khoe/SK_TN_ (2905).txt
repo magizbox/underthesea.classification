@@ -1,5 +1,0 @@
-Các nhà khoa học đã gây miễn dịch chống virus Ebola thành công trên chuột, virus này gây số xuất huyết và làm tử vong 90% số bệnh nhân, đặc biệt ở Châu Phi. Tác giả đã sử dụng các tiểu phân giống virus (VLP) không gây bệnh nhưng có thể gây đáp ứng miễn dịch mạnh. Liều Ebola thông thường gây tử vong không tác động tới chuột được tiêm chủng.
-Kết quả nghiên cứu đưa ra hy vọng tạo một vaccin bảo vệ con người tránh được virus này. Virus Ebola không chỉ gây nên bệnh dễ tử vong nhất thế giới, chúng còn có thể dùng làm vũ khí sinh học nguy hiểm, hiện vẫn chưa có vaccin hay liệu pháp điều trị. 
-Tác giả đã tạo ra VLP từ 2 protein của virus Ebola. Những VLP này tuy giống lớp vỏ ngoài bao bọc các tiểu phân virus gây bệnh, nhưng không có chất liệu di truyền cần thiết để tự sinh sản. Chuột được tiêm chủng VLP 3 lần cách nhau 3 tuần và tiếp xúc với virus Ebola 6 tuần sau lần tiêm chủng cuối cùng. Kết quả là chuột đã tiêm chủng được bảo vệ 100% và không có dấu hiệu bệnh. 
-VLP đã được thử nghiệm, chúng tỏ ra có hiệu quả như vaccin đối với nhiều virus khác, bao gồm cả virus HIV. Giai đoạn tiếp theo sẽ là thử nghiệm vaccin này trên động vật linh trưởng. 
-

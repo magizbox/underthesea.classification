@@ -1,5 +1,0 @@
- Microsoft sẽ phát hành dịch vụ video trực tuyến?
-Dịch vụ mới này của Microsoft có thể sẽ được tính phí theo tháng, cho phép người dùng truy cập không giới hạn đến kho video và nội dung mà họ mua sẽ có thể dễ dàng được sao chép cũng như chạy trên các trình media player bỏ túi tương thích với định dạng WMV. 
-Điều này cũng có nghĩa là Microsoft đã giúp một tay cho các nhà sản xuất các trình media player tương thích với định dạng Windows Media Video và theo như “gã khổng lồ” này thì mục đích là nhằm lôi kéo mọi người quay lại với hệ thống của Apple đã gắn kết iPod Video với dịch vụ nhạc trực tuyến iTunes. 
-Microsoft đang cố gắng thiết lập một dịch vụ như Yahoo! Music Unlimited hay Napster, chỉ khác ở phần nội dung là video thay vì audio. 
-

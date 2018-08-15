@@ -1,9 +1,0 @@
-Dịch vụ IPv6 cho khách hàng đầu tiên trên thế giới
-Hãng truyền thông NTT của Nhật đang triển khai dịch vụ kết nối IPv6, phiên bản mới của giao thức IP cơ sở được sử dụng trên Internet, với giá 2,5 USD/tháng. 
-So với IPv4, chuẩn thực tế trên thế giới hiện nay, IPv6 mang đến những ưu điểm nhất định như dung lượng đủ lớn, cho phép mọi thiết bị điện tử đăng ký địa chỉ lâu dài. Chất lượng dịch vụ và bảo mật cũng được cải thiện đáng kể.
-Để sử dụng, khách hàng phải cài một chương trình truy cập riêng. Phần mềm sẽ duy trì và kết nối IPv6 thông qua IPv4 tới một máy chủ liên kết. Windows Vista, hệ điều hành ra mắt năm sau của Microsoft, cũng sẽ hỗ trợ giao thức thế hệ mới này.
-NTT sẽ cung cấp hai bộ địa chỉ IPv6: một bộ hoạt động cố định, cho phép đăng ký địa chỉ lâu dài cho một máy chủ trung tâm để nó có thể được truy cập từ bất cứ đâu trên mạng, và bộ còn lại là địa chỉ tạm thời.
-Sản phẩm LocationFree TV của Sony là thiết bị kết nối với ăng-ten TV, đầu ghi video để có thể truyền chương trình tới người sử dụng bên ngoài một ngôi nhà thông qua Internet. Tuy nhiên, hệ thống phải được duy trì qua máy chủ Sony để định vị, nhưng nếu chuyển đổi sang IPv6, địa chỉ của nó trên Internet không bao giờ bị thay đổi.
-Người sử dụng sẽ vẫn phải trang bị một máy tính trung tâm để kết nối giữa các thiết bị với IPv6 bởi hầu hết các sản phẩm chưa hỗ trợ giao thức đó. Tuy vậy, những máy móc và bộ định tuyến ra mắt thời gian tới sẽ sớm thay đổi điều đó. Một thiết bị tích hợp IPv6 đã có mặt ở Nhật là camera mạng của Matsushita (Panasonic). 
-Thông tin thêm về dịch vụ IPv6 của NTT xem tại http://ipv6style.jp.
-

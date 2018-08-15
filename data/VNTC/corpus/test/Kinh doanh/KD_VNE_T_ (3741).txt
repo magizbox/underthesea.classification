@@ -1,6 +1,0 @@
-TP HCM phát triển dịch vụ ngân hàng để hội nhập
-Ngân hàng Nhà nước TP HCM vừa trình UBND thành phố bản dự thảo lộ trình phát triển dịch vụ ngân hàng trên địa bàn từ 2006-2010.
-Trong đó, phát triển ngân hàng theo hướng ứng dụng công nghệ thông tin, xây dựng và tổ chức mạng máy tính hiện đại trong toàn hệ thống để phục vụ thanh toán và phát triển thị trường tiền tệ liên ngân hàng được coi là mục tiêu cơ bản.
-Lộ trình được chia làm 2 giai đoạn. Từ 2006 đến 2008 là phát triển và nâng cao các dịch vụ đã thực hiện như giữ hộ, ngân hàng bán lẻ, hoán đổi lãi suất, bao thanh toán, quyền lựa chọn... Từ 2009 đến 2010 tập trung tăng tốc các dịch vụ môi giới đầu tư, môi giới tiền tệ, cung cấp và chuyển, quản lý danh mục đầu tư, quĩ hưu trí, xử lý thông tin tài chính và dữ liệu tài chính...
-Theo Ngân hàng Nhà nước TP HCM, để thực hiện lộ trình này cần phải sửa đổi cơ bản về qui chế quản lý ngoại tệ, hướng tới đồng Việt Nam chuyển đổi, đồng thời hoàn thiện pháp lý về hoạt động ngân hàng theo lộ trình hội nhập và chuẩn mực quốc tế.
-

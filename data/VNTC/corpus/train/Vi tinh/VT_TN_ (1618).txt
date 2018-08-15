@@ -1,5 +1,0 @@
-Trong một cuộc thử nghiệm gần đây đã cho thấy các phiên bản hệ điều hành của Windows có thể dễ dàng bị đột nhập trong thời gian tối thiểu là 60 phút.
-Các phiên bản Windows XP Professional không được cài đặt các bản vá bảo mật có thể dễ dàng bị đột nhập chỉ trong vòng có 1 giờ và 12 giây. Trong khi kẻ tấn công phải cần đến 1 giờ 17 phút để đột nhập phiên bản Windows 2000 Server không cài đặt đúng đắn các bản vá. Đối với Windows Server 2003 kẻ tấn công sẽ mất nhiều thời gian hơn một chút.
-Trong khi đó trong suốt 6 tuần thử nghiệm, các phiên bản Linux server - phiên bản Red Hat và SuSE servers - không thể bị bẻ khóa mặc dù các phiên bản này thường xuyên được kết nối với Internet.
-Cũng trong một cuộc thử nghiệm khác, các kẻ tấn công chỉ mất có 30 phút để bẻ khóa thành công hệ điều hành Mac OS X của Apple thậm trí đó là phiên bản đã được cài đặt các bản vá lỗi. "Đột nhập Mac OS X là một việc quá dễ dàng", một hacker tham dự cuộc thử nghiệm khẳng định.
-

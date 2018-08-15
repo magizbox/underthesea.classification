@@ -1,6 +1,0 @@
-Trình duyệt giúp tìm kiếm website phishing
-Deepnet Explore, trình duyệt Internet mới, có thể giúp bạn đối phó với nạn lừa đảo trực tuyến(phishing) đang trở thành vấn đề nhức nhối trên thế giới này. 
-Deepnet Explorer được phát triển dựa trên trình duyệt Internet Explore (IE) của Microsoft. Nhiệm vụ của nó là thu thập, phân tích và xâu chuỗi các địa chỉ website để phát hiện đâu là site phishing hoặc có liên quan đến phishing nhằm đưa ra lời cảnh báo kịp thời cho người sử dụng.
-Phiên bản chính thức đầu tiên, Deepnet Explorer 1.3, còn giới thiệu một ứng dụng cho phép lướt web mà không lưu lại cookie hay các file của những site mà bạn đã ghé qua nhằm bảo vệ thông tin cá nhân cho người sử dụng. Ngoài ra, phần mềm này còn cho phép tạo ra những nhóm bao gồm nhiều trình duyệt trong cùng một cửa sổ giúp bạn lướt web nhanh hơn. 
-Phần mềm này có 2,7 MB, download tại đây.
-

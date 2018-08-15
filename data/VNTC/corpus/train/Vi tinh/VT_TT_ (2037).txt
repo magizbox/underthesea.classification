@@ -1,6 +1,0 @@
- Website “điểm mặt” mọi ứng dụng có spyware
-StopBadware.org là website miễn phí chuyên ưu tiên điểm mặt tất cả những ứng dụng có bí mật gài phần mềm gián điệp và danh sách các phần mềm có ẩn chứa các loại mã độc phá hoại máy tính khác, giúp cho người dùng có một quyết định đúng đắn trước khi tải một chương trình nào đó từ Internet về dùng. Ngoài ra nó cũng đưa ra đầy đủ mọi khuyến cáo bảo mật cho mọi người tự bảo vệ mình trước mọi nguy cơ mã độc. 
-Danh sách liệt kê của StopBadware cũng sẽ bao gồm các chương trình “Adware” có tác dụng chuyên tung pop-up quảng cáo mà không ít trong số này có khả năng “cõng” theo một con virus hoặc trojan nào đó. 
-Công ty bảo mật Forrester Research cho biết rằng có tối thiểu 60% số máy tính hiện nay bị nhiễm virus hoặc đủ loại mã độc, mà rất nhiều trong số đó bị mã độc lây nhiễm khi người dùng “tò mò” tải về xài một ứng dụng miễn phí “vớ vẩn” nào đó từ Internet. 
-Các công ty bảo mật đều tỏ ra sẵn sàng hợp tác với StopBadware.org và khuyến cáo người dùng nên tham khảo trang StopBadware trước khi tải về hoặc cài đặt bất kỳ ứng dụng nào. Tuy rằng đang trong quá trình xây dựng nhưng người dùng đã có thể vào StopBadware để tham khảo những thông tin đầu tiên. 
-

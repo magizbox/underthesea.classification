@@ -1,7 +1,0 @@
-Virus máy tính phát tán nhanh nhờ... nhân viên
-Nghiên cứu mới nhất của hãng bảo mật doanh nghiệp Novell (Anh) cho thấy chính những nhân viên làm việc tại các công sở, vì quá bận hoặc vốn tính lơ đễnh, đã vô tình tạo điều kiện giúp virus PC lây lan với tốc độ chóng mặt, gây ảnh hưởng tới hoạt động của hàng triệu doanh nghiệp ở nước này.
-Khảo sát được tiến hành trên 1.000 nhân viên sau khi xuất hiện hàng loạt virus thời gian qua, mà mới đây nhất là Mydoom - ước tính gây thiệt hại cho các doanh nghiệp trên toàn thế giới khoảng 20 tỷ bảng.
-2/3 số nhân viên trong diện thăm dò thừa nhận họ không hề để ý đến những chương trình diệt virus cho dù là cơ bản nhất. 1/3 cho biết do quá bận nên khi mở e-mail đã không quan tâm đến những lá thư đó có bị nhiễm virus hay không.
-Cũng theo nghiên cứu, 9 trong số 10 người được hỏi cho biết họ không có ý thức về việc phải ngăn chặn sự phát tán của virus và cho rằng trách nhiệm đó thuộc về bộ phận công nghệ thông tin của công ty.
-Steve Brown, Giám đốc điều hành của Novell, khuyến cáo các doanh nghiệp cần chú trọng đào tạo đội ngũ nhân viên của mình những kiến thức cơ bản về hacker và virus. "Tính mạng của hệ thống máy tính trong các công ty đang phụ thuộc vào chính hàng triệu công chức trên toàn nước Anh, nhưng những đối tượng này lại thiếu thời gian và kiến thức để tiến hành các biện pháp kỹ thuật ngăn chặn. Chính điều đó đã khiến nhiều doanh nghiệp luôn ở trong tình trạng rủi ro cao trước những lỗi bảo mật sơ đẳng nhất", ông nói.
-

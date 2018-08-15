@@ -1,5 +1,0 @@
-Hội thảo về giải pháp ERP đầu tiên tại Hà Nội
-Chương trình sẽ diễn ra vào ngày 28/7 do Phòng Thương mại châu Âu (EuroCham) phối hợp với Oracle South Asia và Công ty Hệ thống thông tin FPT (FIS) tổ chức. Mục đích nhằm giúp các nhà quản lý nắm bắt xu hướng mới trong ứng dụng công nghệ thông tin vào quản trị doanh nghiệp.
-Đây là cơ hội cho các nhà quản lý gặp gỡ và thảo luận với chuyên gia công nghệ tin học như TS. Trương Gia Bình, Chủ tịch Hiệp hội phần mềm Việt Nam (VINASA), và ông Rodger S.T. Soo, Giám đốc Phát triển của Oracle South Asia, cùng các chuyên gia ERP (Enterprise Resource Planning - Quản lý nguồn lực doanh nghiệp) của Mỹ, Singapore và Việt Nam.
-Buổi hội thảo cũng sẽ có phần trình diễn sản phẩm cũng như kinh nghiệm triển khai phần mềm ERP của các công ty tin học trong nước và nước ngoài (như: Airbus, Audi, BMW, Deutsche Bank, Heineken, HP, Honda, ING, Nokia, Nestle, PTT Telecom, Siemens, Sony, Unilever...). 
-

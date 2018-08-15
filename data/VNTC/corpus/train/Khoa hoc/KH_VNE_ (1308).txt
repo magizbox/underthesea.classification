@@ -1,9 +1,0 @@
-Robot nói chuyện với người già
-Với chiều cao 45 cm và bộ nhớ có thể chứa được vài triệu câu giao tiếp cơ bản, chú robot thông minh tên là Snuggling Ifbot có thể giúp người già bớt cô đơn và hạn chế căn bệnh đãng trí. 
-Snuggling Ifbot được mặc bộ áo quần của phi hành gia, khuôn mặt luôn tươi tỉnh, có khả năng nói chuyện như một đứa trẻ lên 5 tuổi. Theo đánh giá của các nhà khoa học, đó là mức độ ngôn ngữ cần thiết để kích thích não của người già hoạt động. 
-Nếu nói với Snuggling Ifbot: "Hôm nay tôi cảm thấy mệt mỏi!", nó có thể trả lời rằng: "Bạn cảm thấy mệt à? Tôi có thể giúp gì được đây?" Hay như: "Hôm nay trời đẹp chứ?", câu trả lời bạn nhận được sẽ là: "Đó là một ngày thu đẹp trời". Robot được trang bị một chiếc đồng hồ gắn bên trong để nhận biết chính xác thời tiết của các mùa trong năm.
-"Bằng cách nói chuyện với robot này, những người già sống một mình có thể kích thích não hoạt động và tránh được bệnh hay lãng quên", Takao Ohsuga, người tham gia phát triển phần mềm cho robot, giải thích.
-Không chỉ biết giao tiếp, robot còn có 15 chương trình để giúp người già tư duy và giữ gìn sức khoẻ, trong đó có khả năng ca hát, đặt câu hỏi và đọc những tin tức cũ. Ohsuga cũng cho biết trong tương lai, Snuggling Ifbot còn có thêm nhiều khả năng mới, như phát ra tín hiệu cấp cứu trong trường hợp khẩn cấp.
-Hiện Snuggling Ifbot chỉ nói được tiếng Nhật, các nhà chế tạo đang cố gắng đưa thêm những câu nói tiếng Anh vào bộ nhớ để nó có thể dạy trẻ em học ngoại ngữ.
-Robot là sản phẩm hợp tác giữa Business Design Laboratory, Futaba Industrial Co., và Brother Industries (Nhật Bản). Đã có 128 đơn đặt hàng ngay sau khi thông tin về Snuggling Ifbot được công bố. Giá mỗi robot này là 576.000 yen (5.600 USD). 
-

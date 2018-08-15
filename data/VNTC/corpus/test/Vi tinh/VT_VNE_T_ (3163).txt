@@ -1,6 +1,0 @@
-Nâng đời Windows XP chỉ bằng một cú hack
-Tạp chí máy tính CT (Đức) vừa khẳng định, chỉ cần thay đổi 2 byte ở file setupreg.hiv trong phiên bản Windows XP Home, người sử dụng có thể truy cập được một số tài nguyên nhất định vốn chỉ dành cho Windows XP Professional.
-CT cho biết người sử dụng chỉ cần copy thư mục gốc (root directory) và thư mục i386 trên đĩa CD Windows XP vào ổ cứng, xuất (extract) phần Bootsector trên đĩa này và thay đổi 2 byte ở file i386\Setupreg.hiv bằng cách sử dụng Regedit. 
-Trên thực tế, tất cả những gì cần phải làm là chỉnh sửa khóa nhị phân mặc định (default) và thay đổi từ 01 sang 00 và từ 02 sang 00 trong thư mục HKEY_LOCAL_MACHINE\Homekey\ControlSet001\Services\setupdd. Sau đó, người sử dụng có thể khai thác một số tính năng như Remote Desktop, User Management và một số chức năng an ninh tăng cường.
-Mặc dù vậy, theo CT, có một rào cản lớn ở đây: người sử dụng sẽ không thể cài XP Service Pack 2, trừ khi họ tích hợp bản nâng cấp này trong CD cài đặt. Đòi hỏi đó tất nhiên là một trở ngại quá lớn đối với hầu hết những người sử dụng phổ thông không am hiểu vi tính và thay vào đó họ thà bỏ tiền ra mua bản xịn. CT cho rằng Microsoft sẽ sớm thay đổi các file setup để ngăn chặn khả năng thay đổi hệ điều hành nói trên.
-

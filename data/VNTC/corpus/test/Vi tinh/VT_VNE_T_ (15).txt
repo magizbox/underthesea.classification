@@ -1,8 +1,0 @@
-Thay đổi giao diện điều hành bằng WindowBlinds v4.1
-Đã bao giờ bạn nhìn vào màn hình PC của mình và tự hỏi: "Desktop của ta có thể cá tính hơn được không?". Phần mềm này sẽ cho bạn câu trả lời: có thể thoải mái thay đổi kiểu dáng của title bar, button, toolbar và nhiều thứ khác để tạo cho máy tính của bạn một phong cách độc đáo theo ý muốn.
-Với WindowBlinds v4.1, bạn có thể thiết kế và tùy biến (customize) vẻ ngoài riêng biệt hoặc download các skin có sẵn trong chương trình và tạo ra những mục theme riêng từ các show truyền hình ưa thích, ngày nghỉ, cho đến hệ điều hành...
-Bạn cũng có thể dùng phần mềm này để làm cho các file và ứng dụng trong máy dễ truy cập hơn bằng cách thêm các button, bao gồm nút cuộn lên (roll-up button), nút ngang trên cao (always-on-top button), nút chạy chương trình (program launching button), menu...
-Hãy dùng các công cụ plug-in, mà những người cùng sử dụng chương trình shareware này đã làm, để điều khiển đầu MP3 của bạn, theo dõi thời lượng hay hiển thị bất cứ thông tin gì hoặc các công cụ kiểm soát mà bạn muốn tích hợp như một phần sẵn có trong Windows.
-Lưu ý: Phiên bản phần mềm chia sẻ này chỉ hoạt động trên Windows XP. Nếu muốn sử dụng trên Win98, ME và 2000, bạn phải mua chương trình có đăng ký. 
-Để tải miễn phí WindowBlinds v4.1, bấm vào đây.
-

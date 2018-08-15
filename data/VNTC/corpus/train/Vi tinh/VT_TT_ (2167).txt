@@ -1,6 +1,0 @@
- Giới thiệu phần mềm soạn thảo tin nhắn tiếng Việt
-Phiên bản mới của phần mềm T9 sẽ cho phép người sử dụng Việt Nam không chỉ gửi các tin nhắn SMS nhanh hơn mà còn thể hiện chính xác các dấu và âm đặc biệt trong tiếng Việt. Từ đó, người sử dụng điện thoại di động có thể truyền tải chính xác hơn ý nghĩa của tin nhắn. 
-Ông Ray K.Tsuchiyama, Phó Chủ tịch phụ trách mảng thị trường mới phát triển Công ty truyền thông Tegic, cho biết ưu điểm của phần mềm T9 mang lại khả năng dự đoán với nhiều ngôn ngữ khác nhau, giúp người dùng điện thoại di động dễ dàng hơn khi soạn thảo tin nhắn SMS, thư điện tử cũng như truy nhập Internet và dịch vụ dữ liệu không dây khác. 
-Phiên bản còn có khả năng hỗ trợ đa ngôn ngữ, kể cả tiếng Việt và tiếng Anh trong khi soạn thảo tin nhắn; hoàn chỉnh từ thông minh đối với những từ và cụm từ hay sử dụng nhất như các từ viết tắt, các cụm từ hay sử dụng, các địa chỉ thư điện tử... 
-Theo ông Tsuchiyama, Tegic đã ký kết hợp đồng với 6 nhà cung cấp điện thoại di động tích hợp phần mềm T9. Dự kiến tháng 6-2006, người tiêu dùng sẽ có cơ hội sử dụng phiên bản mới của phần mềm này. 
-

@@ -1,7 +1,0 @@
-Nguy cơ rò rỉ thông tin trong doanh nghiệp qua thẻ nhớ
-Đa số các công ty đều thừa nhận thiết bị sao lưu dữ liệu như máy nghe nhạc MP3 hay thẻ nhớ được phép sử dụng rộng rãi trong mạng, nhưng lại không đưa ra bất cứ quy định nào để quản lý chúng.
-Theo điều tra của hãng nghiên cứu PointSec (Anh), máy nghe nhạc và thẻ nhớ đang xâm phạm nghiêm trọng đến bảo mật trong mỗi công ty. Thông thường, mọi người có thể dùng những thiết bị kiểu này tự do trong giờ làm việc mà không cần sự cho phép của cấp trên. Thẻ nhớ được nhân viên mang đi khắp phòng và cắm vào cổng USB để sao chép bài hát có sẵn trong máy tính của người khác.
-Tuy nhiên, sự lỏng lẻo này sẽ tiếp tay cho bất cứ ai cũng có thể lưu toàn bộ thông tin trên máy tính nào đó vào trong thẻ nhớ dung lượng lớn một cách có chủ ý hết sức nhanh chóng.
-Rõ ràng, trong khi nhiều hãng đã tiêu tốn cả núi tiền để bảo vệ mình thoát khỏi nguy cơ từ virus, spyware, spam..., thì họ lại quên lời cảnh báo muôn thuở của các chuyên gia bảo mật rằng hiểm họa lớn nhất bao giờ cũng nằm chính bên trong mỗi công ty. 
-Một số hãng đã thực hiện nhiều biện pháp để ngăn cản việc sao chép dữ liệu từ máy tính vào thẻ nhớ và máy nghe nhạc, nhưng cấm dùng những thiết bị này là vô lý và sẽ không thể thực hiện được trên thực tế. Do đó, các công ty cần trang bị những công cụ, ứng dụng tinh vi có thể ghi lại hoạt động của người trong mạng nội bộ để tránh thất thoát dữ liệu, rò rỉ thông tin hoặc nhiễm virus. 
-

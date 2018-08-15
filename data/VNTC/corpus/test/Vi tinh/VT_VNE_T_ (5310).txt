@@ -1,4 +1,0 @@
-Xử lý tiếng Việt 
-Em đang làm chương trình quản lý với nguồn tài nguyên là các file .doc. Em muốn hỏi là làm thế nào để đọc được một file .doc. Em đã làm với PHP có thể mở được file .doc, nhưng sau đó xuất hiện các ký tự khó hiểu trong phần text. Làm thế nào để tách được các từ khoá trong phần text đó ra nguyên bản theo tiếng Việt và có thể Insert vào cơ sở dữ liệu (trên môi trường Web). Em xin chân thành cảm ơn!
-Trần Văn Cường
-

@@ -1,8 +1,0 @@
-Tìm chương trình để xem phim dạng .bin (2)
-Tôi có mấy bộ film có file với đuôi là .bin mà không thể nào mở được để xem bằng các chương trình như Windows Media Player, DivX hay Real Player được. Rất mong nhận được sự giúp đỡ của các bạn. Xin chân thành cám ơn.
-Nguyễn Văn Thành
-Hồi âm:
-Rất có thể đó là một CD image có đuôi bin. Do đó, bạn có thể thử với chương trình WinISO để mở ra xem (chính xác là để giải nén, còn sau đó nếu thành công, bạn sẽ dùng các chương trình Media player như bạn nói để mở). Nếu không có hoặc không tìm được chương trình WinISO thì bạn gửi thư cho tôi (ngo@sissa.it). Chúc thành công. 
-Ngô Minh Toàn
-Để xem các file nén đuôi tệp .bin, bạn hãy sử dụng chương trình phần mềm DAEMON Tools (dung lượng nhỏ 512 KB). Phần mềm này tạo ra một dạng ổ đĩa ảo CD/DVD cho phép bạn giải nén file thành một đĩa quang từ. Bạn có thể download tại địa chỉ : http://www.daemon-tools.cc/portal/portal.php
-

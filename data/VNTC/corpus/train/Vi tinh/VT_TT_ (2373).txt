@@ -1,5 +1,0 @@
- Tại sao Windows mất vị trí dẫn đầu trên thị trường?
-“Nhiều hệ điều hành sẽ không mất đi và chúng ta sẽ không chỉ sử dụng một nền tảng duy nhất. Nhiều nhu cầu khác nhau sẽ yêu cầu nhiều hệ điều hành khác nhau. Do đó chính những thiết bị mới phục vụ cho những nhu cầu này sẽ khiến thị phần của Microsoft bị thu hẹp”, ông Saxena cho biết. 
-IDC dự báo, đến năm 2007, Windows trên PC sẽ chỉ chiếm 58% thị trường hệ điều hành toàn cầu, trong khi hệ điều hành Symbian cho các thiết bị di động giữ 17%. Theo IDC, chỉ có những chiếc điện thoại thông minh có khả năng chạy nhiều ứng dụng mới được coi là có hệ điều hành thực sự. Windows dùng trên thiết bị di động chỉ chiếm khoảng 6% thị trường, còn Linux dành cho máy thu video kỹ thuật số chiếm 5%. 
-Về thị trường máy chủ, Unix vẫn chiếm vị trí độc tôn với 36%, Windows 35% và Linux 15%. 
-

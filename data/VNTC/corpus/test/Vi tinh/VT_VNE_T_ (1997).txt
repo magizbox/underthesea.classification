@@ -1,8 +1,0 @@
-Trợ giúp cho USB (2)
-Tôi có 1 USB Kingston. Máy của tôi có cấu hình thấp nên không cài được WinXP, tôi muốn dùng trên Win98se nhưng không có driver. Anh chị nào biết xin chỉ giúp với!
-Phạm Thanh Minh
-Hồi âm:
-Chao anh Minh. Anh gui 1 mail cho toi den dia chi: hdnguyen2@club-internet.fr. Toi se gui cho anh USB universal driver W98. 
-HD NGUYEN
-Vì bạn không nói rõ model nào của usb Kingston nên không thể tìm chính xác cho bạn được. Bạn hãy vào đây tìm xem model nào mà bạn đang sử dụng có kèm theo hình ảnh nhấp chuột trên các phần usb data traveler hay digital media readers sẽ đưa bạn đến nơi download http://www.kingston.com/support/downloads/default.asp. 
-

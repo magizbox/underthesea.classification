@@ -1,7 +1,0 @@
-Intel hỗ trợ công nghệ ảo hóa cho desktop PC
-Hãng sản xuất thiết bị xử lý hàng đầu thế giới vừa giới thiệu hai chip mới với công nghệ virtualization phần cứng đầu tiên trong máy tính để bàn, mang lại khả năng quản lý và bảo mật cải tiến cho doanh nghiệp.
-Pentium IV 672 có tốc độ xung nhịp 3,8 GHz, bộ nhớ đệm 2 MB với giá 605 USD, trong khi giá của chip 662 là 401 USD cho mỗi đơn hàng 1.000 sản phẩm. Hai thiết bị xử lý này có cấu trúc và giá cả giống hệt Pentium IV 670 và 660, trừ việc chúng được trang bị thêm transistor để cải tiến khả năng hoạt động của phần mềm ảo hóa.
-Các công ty Acer, Founder, Lenovo và TongFang đã tuyên bố trang bị chip này trong máy tính của họ, còn Dell và Hewlett-Packard sẽ đợi đến năm sau mới đưa ra quyết định lựa chọn công nghệ.
-Ảo hóa cho phép máy tính vàmáy chủchạy đa ứng dụng trên một thiết bị xử lý đơn. Nói các khác, một hệ thống có thể tách thành một vài máy tính "ảo" khác nhau. Ví dụ, khách hàng có thể tiếp cận ứng dụng nội bộ tại môi trường này, trong khi sử dụng một môi trường khác để chạy chương trình cá nhân. Công nghệ đã được triển khai trong phần mềm của một số công ty như VMware và XenSource. Đầu năm tới, Intel sẽ ảo hóa phần cứng trong chip lõi kép Pentium D và chip máy chủ Xeon. AMD cũng xây dựng kế hoạch tương tự với chip Pacifica, cho phép phần mềm ảo hóa vận hành hiệu quả hơn.
-"Với những đổi mới trong công nghệ tích hợp, Intel đang đi đầu trong quá trình gỡ bỏ một số vướng mắc lớn mà nhiều doanh nghiệp phải đối mặt", Robert B. Crooke, Phó giám đốc Intel, tin tưởng.
-

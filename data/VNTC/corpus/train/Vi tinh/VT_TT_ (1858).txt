@@ -1,7 +1,0 @@
- Viettel được cung cấp dịch vụ WiMax
-Phó Thủ tướng giao Bộ Bưu chính - viễn thông sớm cấp phép cho Viettel thử nghiệm công nghệ WiMax. 
-Trước đó, ba doanh nghiệp khác đã được đồng ý cấp phép dịch vụ WiMax gồm Tổng Công ty bưu chính, viễn thông VN (VNPT), Tổng Công ty truyền thông đa phương tiện (VTC) và Công ty Cổ phần viễn thông FPT (FPT Telecom). 
-WiMax được xem là công nghệ truy nhập băng thông rộng không dây có nhiều ưu điểm đối với cả thiết bị cố định, xách tay và di động. Công nghệ WiMax cho phép truyền dẫn dữ liệu với tốc độ cao, có thể lên tới 70 Mb/s trong phạm vi 50 km. 
-Việc đưa công nghệ WiMax vào ứng dụng góp phần phát triển mạng lưới viễn thông tới những vùng nông thôn, vùng sâu, vùng xa, những nơi khó triển khai hạ tầng cơ sở mạng dây dẫn băng rộng. 
-Do khả năng kết nối băng thông rộng tốc độ cao trong phạm vi rộng nên dự báo WiMax sẽ nhanh chóng vượt qua các công nghệ Wi-Fi, 3G. 
-

@@ -1,8 +1,0 @@
-Khởi động PC máy xuất hiện lỗi (2)
-Máy của tôi cài WinXP pro, gần đây nó hay tự khởi động lại giữa chừng khi tôi đang sử dụng, sau đó máy bị kẹt, nghĩa là không phản ứng khi tôi kích vào logo. Tôi để máy mở 1 giờ thì trở lại bình thường, trầm trọng hơn nữa là rất khó khởi động máy, trước kia chỉ cần nhấn nút mở máy là Windows xuất hiện, nay khi bật nút, thì có 1 bảng màu xanh lá cây hiện dòng chữ "no signal input or cable disconnected" sau đó màn hình vẫn tối đen, Windows không xuất hiện. Tôi để máy 1 lúc rồi tắt rồi bật lại thì máy kêu tít tít rồi Windows mới xuất hiện bình thường. Bây giờ càng ngày càng nặng hơn, thời gian chờ lâu hơn, phải bật tắt nhiều lần hơn. Tôi không biết máy tôi bị cái gì và làm sao sửa?
-Huynh Minh Hue
-Hồi âm:
-Theo như bạn mô tả thì 90% máy bạn bị lỗi Card Graphic (card hình) 10% lỗi Ram. Bạn kiểm tra lại card hình bằng cách tháo ra rồi cắm lại cho chặt. Hy vọng card hình của bạn chưa bị hư.
-Thanh Tùng
-Theo tôi thì chẳng có gì dính líu đến RAM ở đây cả. Chỉ có 2 khả năng là lỏng dây nối từ card màn hình đến màn hình của bạn, khả năng thứ 2 thì Thanh Tùng nói rồi, nhưng tôi không nghĩ khả năng này là lớn, tôi nghĩ khả năng thứ nhất dễ xảy ra hơn, bởi bạn hoàn toàn có thể chạm mạnh vào case (trong trường hợp di chuyển case thô bạo : hoặc xê dịch màn hình .... nhiều lắm). Thế nên, đừng thay card màn hình làm gì, kẻo uổng, bạn hãy tháo dây nối từ card tới màn hỉnh ra, lau cho sạch bụi bẩn (càng sạch càng tốt, đầu tiếp xúc mà) rồi cắm chặt lại (ấy, cẩn thận đừng mạnh tay wa') xem thế nào đã, không được thì làm như Thanh Tùng đó, tháo card ra, lau sạch rồi cắm lại. Nếu đến thế mà không được nữa thì bạn phải mất tiền rồi.. Đến thế thì xin chia buồn với bạn.
-

@@ -1,5 +1,0 @@
- Robot vượt cầu thang
-Trước sự chứng kiến của hội đồng nghiệm thu, robot leo cầu thang đã vượt được cầu thang cao gần 10m một cách dễ dàng, sau đó robot lại tự động leo xuống dốc. 
-Th.S Đoàn Thế Thảo, chủ nhiệm đề tài, cho biết lần này nhóm nghiên cứu đã lựa chọn mô hình sử dụng bánh xích do mô hình này ít phụ thuộc góc nghiêng và có độ bám tốt. 
-Robot leo cầu thang lần này đã được thay đổi, làm mới hoàn toàn. Robot nặng 51kg, được trang bị camera, bộ cảm biến siêu âm, la bàn để xác định hướng di chuyển, có thể phân biệt được khi nào thì leo xuống cầu thang, khi nào leo xuống vực... 
-

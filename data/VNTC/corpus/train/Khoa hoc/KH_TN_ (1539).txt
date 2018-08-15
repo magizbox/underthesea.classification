@@ -1,3 +1,0 @@
-Đó là sản phẩm mới của Công ty TrafficGauge có trụ sở tại Seattle (Mỹ). Nhỏ như một chiếc máy tính bỏ túi nhưng nó chứa thông tin về tình hình giao thông ở các tuyến đường giúp người lái xe giao thông tiện lợi hơn.
-Một máy tính chủ sẽ cập nhật thông tin từ các bộ cảm biến đặt tại các chốt giao thông rồi từ đó chuyển vào hệ thống mạng lưới các bản đồ di động này. Trong giờ cao điểm, cứ mỗi 4 phút, nó sẽ tự động cập nhật 1 lần theo các mức độ ùn tắc giao thông từ vừa phải cho đến nghiêm trọng bằng các chấm tròn nhỏ trên màn hình. Nhờ đó, mỗi tháng người tham gia giao thông sẽ tiết kiệm được từ 8-40 tiếng do tránh được tình trạng ùn tắc giao thông.
-

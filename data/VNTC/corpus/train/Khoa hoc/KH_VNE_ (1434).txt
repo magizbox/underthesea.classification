@@ -1,7 +1,0 @@
-Chiều cao của sách
-Bạn thử đề nghị một người lấy tay chỉ lên tường xem cuốn sách anh ta cầm trong tay sẽ cao đến mức nào, nếu đặt nó lên sàn nhà và sát vào tường. Đợi anh ta chỉ xong, bạn đặt quyển sách vào chân tường ướm thử: rõ ràng chiều cao của sách chỉ gần bằng một nửa chiều cao mà anh ta chỉ lúc nãy.
-Nếu như bạn không cho người đó cúi xuống chỉ chiều cao của sách mà vẫn bắt anh ta nói xem cuốn sách ấy sẽ cao đến chỗ nào ở trên tường thì thí nghiệm này càng thu được kết quả tốt. Đương nhiên, thí nghiệm không chỉ hạn chế ở sách mà còn có thể làm với đèn, mũ cũng như các đồ vật khác mà chúng ta quen nhìn gần tầm mắt mình.
-Nguyên nhân đưa đến sai lầm ở đây là: tất cả các vật đều ngắn lại khi chúng ta nhìn dọc theo chúng.
-Kích thước của chiếc đồng hồ tháp
-Cái sai lầm anh bạn kia vừa mắc phải khi xác định chiều cao của sách cũng thường thể hiện ra khi xác định độ lớn của các vật đặt rất cao. Khi chúng ta xác định kích thước của chiếc đồng hồ tháp thì sai lầm phạm phải lại càng rõ rệt. Dĩ nhiên, chúng ta biết rằng chiếc đồng hồ đó rất lớn, nhưng hình dung của chúng ta về độ lớn của nó thì lại nhỏ hơn thực tế rất nhiều. Chẳng hạn, nếu tháo mặt đồng hồ nổi tiếng trên nóc giáo đường Wesminster (London) xuống đặt trên đường phố, bạn sẽ ngạc nhiên thấy so với nó, con người chỉ như những chú sâu nhỏ. Trong khi đó, nếu nhìn cái tháp đồng hồ ở phía xa, bạn khó mà tin được rằng chiếc đồng hồ khổng lồ này lại lắp vừa lỗ tròn nhỏ xíu trên tháp.
-

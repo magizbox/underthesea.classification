@@ -1,6 +1,0 @@
-Thay đổi Properties của Printer trong VB 6.0 (1)
-Khi in một Report trong chương trình được viết bằng VB 6.0 (đã được đóng gói) theo kiểu giấy in nằm ngang (landscape) thì trước khi in phải chỉnh trực tiếp Orientation là Landscape từ Properties của Printer, như vậy thì không được tiện cho lắm. Vậy xin hỏi: trong lập trình VB 6.0, có câu lệnh nào có thể chỉnh kiểu giấy in của máy in về kiểu giấy nằm ngang (landscape) mà không cần phải chỉnh trực tiếp từ Properties của Printer không? Xin cám ơn!
-Nguyễn Cao Thắng
-Hồi âm:
-In VB 6.0 there is a property called .Orientation you can change this easily using.Obj.Orientation = Constant Value Description vbPRORPortrait 1 Documents are printed with the top at the narrow side of the paper. vbPRORLandscape 2 Documents are printed with the top at the wide side of the paper. 
-

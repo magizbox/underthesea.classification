@@ -1,7 +1,0 @@
- Dịch vụ Internet trên truyền hình cáp chính thức được cung cấp
-Dịch vụ Internet băng thông rộng trên mạng truyền hình cáp được phát triển trên giải pháp tích hợp đa dịch vụ Internet của Tập đoàn Siemens - chuyên cung cấp các sản phẩm và dịch vụ truyền thông. Với sự kết hợp giữa cáp quang và cáp đồng trục, mạng truyền hình cáp hữu tuyến đáp ứng các yêu cầu về băng thông rộng với tốc độ cao, cho phép người sử dụng tải xuống tốc độ tối đa 56Mbps, tải lên tốc độ tối đa 30Mbps. 
-Với dịch vụ này, thay vì phải kéo đường dây điện thoại, khách hàng chỉ cần lắp đặt cable modem chuyên dụng vào đường cáp của truyền hình VCTV có thể vừa xem 36 kênh truyền hình cáp vừa truy nhập Internet tốc độ cao. 
-Giá lắp đặt cả Internet và truyền hình cáp cho khách hàng là 780.000 đồng. Trường hợp khách hàng đã là thuê bao truyền hình cáp muốn đăng ký sử dụng dịch vụ Internet thì mức phí lắp đặt là 300.000 đồng, mức phí lắp đặt riêng Internet đối với khách hàng chưa là thuê bao VCTV là 500.000 đồng. 
-Ngoài các dịch vụ cơ bản, EVN Telecom sẽ triển khai các dịch vụ giá trị gia tăng như xem ti vi trên máy tính, truyền hình theo yêu cầu, điện thoại IP. 
-Để đáp ứng nhu cầu sử dụng đa dạng của khách hàng, EVN sẽ đưa ra nhiều gói cước khác nhau như gói cước cho các hộ gia đình, cho các văn phòng, doanh nghiệp và cho các đại lý Internet với mức phí thuê bao hàng tháng từ 20.000 đồng đến 280.000 đồng, tùy theo từng gói cước. 
-

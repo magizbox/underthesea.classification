@@ -1,6 +1,0 @@
-Lỗi trong tính năng mã hóa an ninh của VPN
-Lỗ thủng bảo mật trong công nghệ mạng riêng ảo (VPN) phổ biến có thể cho phép hacker giành được những thông tin dạng text của các giao dịch mã hóa mà không cần phải vất vả nhiều lắm.
-Trung tâm điều phối an ninh hạ tầng quốc gia Anh (NISCC) cho biết lỗi nói trên liên quan đến công cụ mã hóa IPsec và tiện ích tunneling mà các doanh nghiệp dùng mạng riêng ảo sử dụng để liên kết các nhân viên làm việc từ xa. 
-NISCC đánh giá lỗi này thuộc loại nguy cơ cao vì có thể cho phép tin tặc chặn được các gói dữ liệu IP qua lại giữa 2 thiết bị IPsec. Hacker có thể chỉnh sửa giao thức mã hóa các dữ liệu đang được lưu chuyển và từ đó làm phô bày thông tin cho một bên thứ 3 không có quyền truy nhập.
-Website của NISCC cho biết: Với việc thực hiện những chỉnh sửa cẩn thận một số phần thông tin có chọn lọc trên các gói dữ liệu ngoài, kẻ tấn công có thể tạo ra những thay đổi có kiểm soát đối với phần header của các gói dữ liệu bên trong. Nếu những thông điệp này bị hacker chặn được thì các dữ liệu dạng text sẽ bị lộ.
-

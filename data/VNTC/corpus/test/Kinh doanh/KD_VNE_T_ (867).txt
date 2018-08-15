@@ -1,7 +1,0 @@
-Thí điểm thông quan tự động với hàng nhập khẩu
-Kể từ hôm qua, quy trình thông quan tự động đối với hàng nhập khẩu đã được áp dụng thí điểm tại Tổng đại lý chuyển phát nhanh Fedex, thuộc Chi cục Hải quan Bưu điện (Cục Hải quan TP HCM), cho phép giảm một nửa thời gian làm thủ tục.
-Quy trình thủ tục được chia thành 3 loại: Hàng hóa thuộc luồng xanh, là loại không có thuế suất chỉ phải kiểm tra qua máy với tỉ lệ 5%. 
-Hàng hóa thuộc luồng vàng là loại có thuế suất kiểm tra thực tế 5% bằng phương pháp thủ công, còn lại kiểm tra bằng máy soi. 
-Hàng hóa luồng đỏ là loại hàng nhập khẩu phải có giấy phép, có điều kiện, hàng hóa trọng điểm có nghi vấn buộc phải kiểm tra bằng phương pháp thủ công 100%. 
-Thực hiện quy trình thông quan tự động đối với hàng hóa nhập khẩu phát chuyển nhanh, thời gian làm thủ tục sẽ giảm hơn 50%.
-

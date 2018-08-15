@@ -1,9 +1,0 @@
-Hàn Quốc tiếp tục là mục tiêu của hacker
-Cơ quan phản gián nước này (NIS) vừa cho biết những dữ liệu quan trọng của chính phủ đã bị mất trộm sau một số cuộc tấn công trực tuyến gần đây có nguồn gốc từ Trung Quốc.
-Theo NIS, những vụ "đột kích" này được đánh giá là gây tác động rất lớn đến tình hình an ninh quốc gia của Hàn Quốc. Do đó, chính phủ Trung Quốc đã buộc phải tiến hành điều tra nguồn gốc của sự vụ.
-Giới chức Hàn Quốc cho biết, từ lần xâm nhập đầu tiên vào ngày 13/6, hacker đã sử dụng những virus ăn trộm thông tin - chương trình gián điệp Peep Trojan và Backdoor Revacc, để đột kích vào 211 máy tính của 10 cơ quan chính phủ, trong đó có Viện phân tích quốc phòng, Cơ quan phát triển quốc phòng, Cơ quan cảnh sát hàng hải quốc gia, Viện nghiên cứu năng lượng nguyên tử Hàn Quốc, Viện không quân, Bộ hàng hải và Cơ quan nghiên cứu thiên văn học. Ngoài ra, 67 máy tính của nhiều doanh nghiệp tư nhân, trường đại học và hãng truyền thông cũng là mục tiêu của những kẻ tấn công.
-Đại diện của Trung tâm an ninh mạng Hàn Quốc (NCSC), thuộc NIS, cho biết: "Chúng tôi tin rằng hacker là người Trung Quốc hoặc sử dụng đất nước đông dân nhất thế giới làm căn cứ để tấn công. Chúng tôi nghi ngờ những thông tin quan trọng của mình đã bị rò rỉ ra ngoài". Đặc biệt, trong vụ tấn công vào hệ thống của Quốc hội Hàn Quốc, thông tin của 122 người, trong đó có cả các nhà lập pháp, đã bị ăn cắp.
-"Công chúng cần phải cảnh giác, tăng cường an ninh máy tính nhằm ngăn chặn dữ liệu quốc gia quan trọng và những thông tin công nghiệp bí mật không bị lộ ra ngoài", đại diện của NCSC cảnh báo.
-Tác giả của Peep Trojan là người Đài Loan Wang Ping-an, 30 tuổi, đã bị bắt giữ hồi tháng 5. Wang đã công bố miễn phí chương trình đó lên một số website của hacker.
-Virus này hoạt động trong những phần đính kèm e-mail, và nó sẽ "khởi động" khi người dùng mở những file này, từ đó hacker có thể truy cập vào dữ liệu của máy tính nạn nhân.
-

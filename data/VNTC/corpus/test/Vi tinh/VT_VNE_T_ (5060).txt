@@ -1,6 +1,0 @@
-Iomega phát hành ổ cứng 1.000 GB
-Sản phẩm ổ gắn ngoài mang nhãn hiệu Desktop Hard Drive XL có giá 900 USD/cái, tương thích cả hệ máy Mac và PC. Đây thực chất là một tổ hợp 4 module có dung lượng 250 GB mỗi chiếc. 
-Ổ mới của Iomega, kích thước 16 x 20 x 31 cm, kết nối với máy tính thông qua các kênh FireWire 800, FireWire 400 hoặc USB 2.0. Sản phẩm hỗ trợ chuẩn Serial ATA, tốc độ 7.200 vòng quay/phút (rpm) và bộ nhớ cache 8 MB. 
-Desktop Hard Drive XL được thiết kế dành cho những người sử dụng có nhu cầu lưu trữ các nội dung âm thanh, phim và ảnh với số lượng lớn. Cụ thể, ổ có thể lưu được 18.500 giờ nhạc hoặc 4.000.000 bức ảnh hay 1.500 giờ phim.
-Nhu cầu cất giữ và biên tập video hiện nay đã dần vượt quá giới hạn lưu trữ của các loại ổ thông thường, đặc biệt là khi thị trường chuyển mạnh sang hướng sử dụng hình ảnh và phim độ phân giải cao, Lee Williams, Phó chủ tịch Iomega, lý giải. Vì thế, chúng tôi tung ra dòng XL Series này nhằm giải phóng sự hạn chế dung lượng mà các loại ổ đơn đang gặp phải, từ đó cải thiện hiệu quả sử dụng.
-

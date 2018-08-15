@@ -1,6 +1,0 @@
-HDD trục trặc (1)
-1. Ổ cứng của tôi rất là khó hiểu, không hiểu tôi đã copy chương trình của người khác vào ổ cứng của mình liệu có phải do virus không? Mà bây giờ khởi động máy tính im re, khi dùng đĩa boot sau đó tôi vào mở của sổ NC ra thi nó bao 26 ổ đĩa (nó hiện A đến Z ổ). Vậy tôi phải làm sao? Máy của tôi co rất nhiều dữ liệu quan trọng của cả trường học. Xin các sư huynh ra tay cứu giúp.2.Xin hỏi các đại gia cách cứu dữ liệu bằng DM chân thành cảm ơn.
-chienchienql
-Hồi âm:
-Bạn hãy tìm 1 HDD nữa và chép toàn bộ dữ liệu qua. 
-

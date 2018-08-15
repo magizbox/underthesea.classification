@@ -1,7 +1,0 @@
-Blinkx ra mắt công cụ tìm kiếm đa chức năng
-Tuần qua, hãng tìm kiếm trực tuyến Blinkx (Anh) đã khai trương một công nghệ search miễn phí mới có khả năng tìm kiếm thông tin trên mạng cũng như trên máy tính của người dùng.
-Công cụ này sử dụng thuật toán để phân tích nội dung của tài liệu mà người dùng đang tìm kiếm và truy tìm những thông tin liên quan trên Internet hoặc trên chính máy tính của người dùng. Kết quả tìm kiếm có thể download từ website của Blinkx. Ngay khi đã được tải, công cụ của hãng sẽ liên tục kiểm tra những thông tin được hiển thị trên màn hình, như tài liệu, e-mail, website và thậm chí cả video. Sau đó, nó sẽ search những đường link liên quan đến thông tin theo yêu cầu. Ngoài ra, công cụ này cũng kiểm tra nội dung thông tin người dùng nhập vào. 
-Đại diện của hãng cho biết phần mềm này có thể tìm kiếm khoảng 200 loại thông tin, trong đó có Word, Excel, PowerPoint, Acrobat PDF cùng những định dạng video và audio.
-Hiện nay, có nhiều "đại gia" tham gia vào cuộc chiến trên thị trường công cụ tìm kiếm. Đặc biệt có Google với dịch vụ Gmail và MSN của Microsoft cũng vừa ra mắt công cụ Browser By Name và tìm kiếm thông tin trong ứng dụng e-mail.
-Bạn đọc có thể tải phiên bản dùng thử có dung lượng 4,07 MBtại đây.
-

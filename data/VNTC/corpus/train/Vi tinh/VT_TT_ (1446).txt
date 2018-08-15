@@ -1,8 +1,0 @@
- MOBILedit: tất cả trong một
-Với phần mềm này bạn có thể dễ dàng chép các bức ảnh, các điệu nhạc chuông Polyphonic, nhạc MP3, Logo, Theme, chương trình Java, các tệp văn bản... sang máy ĐTDĐ và ngược lại. 
-Khi đồng bộ bạn có thể dễ dàng gọi điện, gởi MMS, SMS, nhận cuộc gọi, quản lý sổ điện thoại, thay đổi các thông tin, chơi Game... 
-Phần mềm còn hỗ trợ bạn đồng bộ với Outlook và Outlook Express, sao lưu/phục hồi dữ liệu trên ĐTDĐ. Số lượng các mẫu ĐTDĐ được hỗ trợ rất nhiều có nhiều mẫu đời cũ, các mẫu thông thường và cả những mẫu đời mới nhất và khoảng 1-2 tuần sẽ có bản cập nhật cho các mẫu mới. 
-Bạn có thể tiến hành kết nối PC với điện thoại qua cổng USB, Bluetooth, hay hồng ngoại. Bạn cũng có thể thể thay đổi các thông tin trên SIM Card, đọc thông tin trên các loại thẻ nhớ, chức năng kéo thả các file văn bản sang điện thoại, hiển thị các thông tin về chiếc điện thoại của bạn (số IMEI, mã sản phẩm...). 
-Phần mềm này nhà sản xuất không bán và cho bạn tải miễn phí nhưng giới hạn thời gian sử dụng, bạn chỉ có thể sử dụng trong một tuần sau đó thì chức năng ghi thông tin lên điện thoại sẽ không còn hiệu lực, bạn có thể tải lại để dùng tiếp. 
-Phần mềm tương đối gọn (8.62 MB) tương thích Windows 98/Me/2000/XP/2003 Server. Tải về tại tại đây . 
-

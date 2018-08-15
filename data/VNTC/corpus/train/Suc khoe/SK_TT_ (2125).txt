@@ -1,7 +1,0 @@
- Xét nghiệm PCR là gì?
-- TS PHẠM HÙNG VÂN (bộ môn vi sinh Trường ĐH Y dược TP.HCM): 
-PCR (Polemerase Chain Reaction, phản ứng chuỗi polymerase) là một kỹ thuật nhằm tạo ra một lượng lớn bản sao DNA mục tiêu trong ống nghiệm dựa vào các chu kỳ nhiệt. Kỹ thuật này được nhà khoa học người Mỹ Kary Mullis phát minh vào năm 1985. 
-Phương pháp này đã nhanh chóng đóng góp rất lớn cho công nghệ sinh học do phản ứng rất nhạy và cho kết quả đặc hiệu. Xét nghiệm bằng kỹ thuật PCR thường có kết quả độ chính xác rất cao. Tuy nhiên kết quả cũng còn tùy thuộc trình độ của kỹ thuật viên, phương tiện máy móc làm việc và việc quản lý chất lượng. Cùng một xét nghiệm nhưng có nơi cho kết quả nhạy và chính xác, nơi khác thì không có được độ nhạy bằng. 
-Hiện tại xét nghiệm bằng phương pháp PCR thường có giá thành đắt hơn các xét nghiệm khác do hầu hết hóa chất để làm phản ứng đều phải nhập ngoại và phải mua với giá cao. Chưa kể các thiết bị để làm xét nghiệm PCR cũng lên đến vài chục ngàn USD/máy. Để xét nghiệm một bệnh phẩm, thường người bệnh phải tốn 8-10 USD/lần. 
-Do đó xét nghiệm PCR chỉ nên dùng để chẩn đoán những bệnh đặc hiệu, liên quan đến các loại virus mà những phương pháp vi sinh truyền thống không triển khai nuôi cấy được (hay nuôi cấy được nhưng độ nhạy thấp và kết quả chậm) như bệnh lao, các bệnh liên quan đến virus viêm gan siêu vi B, viêm gan siêu vi C, H5N1, sốt xuất huyết... 
-

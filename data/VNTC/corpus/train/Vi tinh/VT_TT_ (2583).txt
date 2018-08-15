@@ -1,7 +1,0 @@
- Symantec sẽ cung cấp các bộ tiện ích qua mạng
-David Sykes, phó chủ tịch Symantec khu vực châu Á Thái Bình Dương, cho rằng mạng băng thông rộng bùng phát như hiện nay là điều kiện cần và đủ cho việc cung cấp các chương trình bảo mật và kể cả các công cụ qua mạng. 
-Giải thích cho sự chuyển hướng này, có nhiều nguyên nhân, nhưng một trong những nguyên nhân lớn nhất là vấn đề kiểm soát bản quyền. Khi bán qua mạng, các nhà cung cấp có thể dễ dàng kiểm soát được tình trạng của từng bản quyền mình đã phát hành thông qua các tài khoản dành cho khách hàng. 
-Mặt khác, các nhà cung cấp dịch vụ có thể hạn chế được sự lây truyền của virus qua mạng. Các chương trình diệt Virus được cung cấp qua mạng cũng sẽ “sạch sẽ” hơn khi cài vào máy tính của bạn, và đương nhiên, máy của bạn cũng đã được đảm bảo “sạch sẽ” trước khi cài các chương trình diệt virus vào. 
-Ngoài ra, việc nâng cấp và cập nhật sẽ không còn là mối bận tâm cho khách hàng. Chương trình được cung cấp qua mạng sẽ gọn và nhanh hơn, hoạt động có hiệu quả hơn. 
-Có khá nhiều lợi ích, và luôn đi kèm các vấn đề khác phải quan tâm. Dù muốn hay không, người dùng cũng phải tiếp nhận trào lưu mới này. Nhưng không phải là bị ép buộc, vì ngoài Symantec, còn rất nhiều hãng phần mềm khác cung cấp những tiện ích rất lý thú tương tự. 
-

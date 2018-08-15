@@ -1,3 +1,0 @@
- 
-Từ hôm qua 14/4, S-Fone chính thức áp dụng phương thức tính cước theo block 6 giây + 1, áp dụng cho cả thuê bao trả trước và trả sau của S-Fone sử dụng bất kỳ gói dịch vụ nào. Theo đó, mức phí 6 giây đầu tiên không thay đổi, kể từ giây thứ bảy, sẽ được tính chính xác theo từng giây. (T.Q.H) 
-

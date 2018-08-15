@@ -1,6 +1,0 @@
-Windows lại lao đao với những lỗ hổng mới
-Các khiếm khuyết liên quan đến trình duyệt Internet Explorer (IE) được đánh giá ở mức rất nguy hiểm vì trên thực tế một dạng khai thác quy mô rộng kiểu mới đã xuất hiện. Máy tính cài Windows XP SP2 cũng không hoàn toàn được bảo vệ.
-Các chuyên gia an ninh của hãng bảo mật Đan Mạch Secunia cho biết kiểu khai thác này - lợi dụng một số lỗi trong SP2 đã được công bố 2 tháng trước đây - có thể cho phép kẻ tấn công chạy mã script trên hệ thống mục tiêu thông qua một trang web được thiết kế đặc biệt. Kỹ thuật khai thác trước đây đòi hỏi người sử dụng máy tính mục tiêu phải có những hành động như kéo hình ảnh từ một phần của trang web sang phần khác. Trong khi đó, dạng tấn công mới (được Secunia minh họa tại đây) hoàn toàn diễn ra tự động, chỉ cần nạn nhân ghé vào một trang web bất kỳ bằng công cụ IE. 
-Secunia đã nâng mức cảnh báo về nguy cơ từ lỗi nói trên lên mức cao nhất: vô cùng nguy hiểm. Các trình duyệt và hệ điều hành khác không bị tác động.
-Microsoft khuyến cáo người sử dụng nên tắt tính năng kéo/thả hoặc sao chép/dán file (drag/drop - copy/paste) trong IE như một trong những biện pháp phòng vệ. Nguy cơ cũng có thể được giảm nhẹ bằng cách để cài đặt an ninh lên mức cao ở lựa chọn Internet zone trong IE. 
-

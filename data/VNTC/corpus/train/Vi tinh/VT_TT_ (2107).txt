@@ -1,4 +1,0 @@
- Đà Nẵng thí điểm lập website cho một số trường học
-Thành phố Đà Nẵng là một trong những địa phương đi đầu trong cả nước về ứng dụng tin học vào giáo dục. Hiện Sở Giáo dục - Đào tạo thành phố đã sử dụng phần mềm Softech Eden trong việc quản lý trường học, quản lý định mức lao động của giáo viên, trao đổi thông tin. 
-Sở Giáo dục - Đào tạo Đà Nẵng vừa phối hợp với Trung tâm Công nghệ phần mềm thành phố Đà Nẵng mở khóa tập huấn "Triển khai các chương trình phần mềm ứng dụng công nghệ thông tin và quản lý giáo dục - đào tạo" cho 150 học viên là hiệu trưởng, hiệu phó, cán bộ giáo vụ và giáo viên giảng dạy công nghệ thông tin của các trường học trên thành phố. 
-

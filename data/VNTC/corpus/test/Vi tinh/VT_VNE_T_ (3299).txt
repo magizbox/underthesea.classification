@@ -1,7 +1,0 @@
-VoIP không dây - giải pháp cho phủ sóng di động 
-Hãng Neura đã phát triển một hệ thống cho phép thực hiện cuộc gọi VoIP không dây trên điện thoại di động, hỗ trợ dịch vụ đàm thoại tại những vị trí không thể đặt máy thu phát sóng, như bên trong tòa nhà hay bến đỗ ngầm...
-Công ty truyền thông của Mỹ này đã thực hiện các cuộc gọi VoIP từ Singapore sang Mỹ trên điện thoại di động V600 của Motorola với công nghệ hỗ trợ WLAN, và giao diện UMA (Unlicensed Mobile Access) dùng trong mạng IP.
-Neuro giải thích rằng những cuộc gọi từ điện thoại có thể được thực hiện là nhờ kết nối không dây với điểm truy cập nội vùng. Hệ thống này cho phép người dùng truy cập mạng Wi-Fi tại gia đình để thực hiện cuộc gọi VoIP, và nhà cung cấp dịch vụ băng thông rộng sẽ chuyển sang mạng GSM bất cứ khi nào người đó rời khỏi nhà. Thêm vào đó, hệ thống này có thể hoạt động cùng với thẻ dịch vụ dữ liệu di động trên máy tính để chuyển đổi qua lại giữa mạng Wi-Fi và GSM.
-Mô hình hệ thống của Neura, bao gồm cổng VoIP, điểm truy cập Wi-Fi và phần mềm chuyển đổi, đã được giới thiệu trong Hội chợ triển lãm CommunicAsia 2005 tổ chức tại Singapore, kết thúc vào hôm nay.
-Công nghệ này vẫn đang trong quá trình thử nghiệm tại châu Âu, và dự tính phiên bản kinh doanh hệ thống VoIP sẽ ra mắt vào nửa sau năm 2005. Giá thành sản phẩm vẫn chưa được công bố chính thức.
-

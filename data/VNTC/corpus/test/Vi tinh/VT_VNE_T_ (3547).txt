@@ -1,9 +1,0 @@
-Trộn thư vẫn hiện tiếng Việt (1)
-Tại sao khi trộn thư giữa Excel và Word, nếu ta dùng mã VNI thì không có vấn đề gì, nhưng khi ta dùng mã Unicode trong Excel thì khi trộn thư qua văn bản Word lại không hiện tiếng Việt. 
-Mong được các bạn giải đáp, có cách nào khắc phục không khi ta dùng mã Unicode.
-Pham Thong Nhat
-Hồi âm:
-Vấn đề ở đây là bạn sử dụng mã Unicode cho file Excel còn thư (mail) mà bạn soạn thảo ở MS Word thì bạn dùng mã Unicode hay vẫn sử dụng mã VNI?
-Nếu bạn vẫn sử dụng mã VNI thì ít nhất bạn phải chọn lại bảng mã Unicode cho phần "Merge Field" ở file word thì mới hiển thị đúng tên, địa chỉ... theo tiếng Việt Unicode và như vậy thì tài liệu của bạn lại có đến 2 bảng mã. 
-Theo tôi, tốt nhất bạn nên soạn thảo thư từ word cùng bảng mã với file địa chỉ (ví dụ sử dụng cùng bảng mã Unicode). 
-

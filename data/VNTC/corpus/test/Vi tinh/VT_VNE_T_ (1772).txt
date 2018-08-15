@@ -1,6 +1,0 @@
-Opera phát hành trình duyệt Linux thử nghiệm
-Chương trình beta của phiên bản 8.0 được công bố hôm 6/1, tức là hai tuần sau khi có bản dùng thử dành riêng cho Windows.
-Giống như Opera cho hệ điều hành của Microsoft, phiên bản này cũng có giao diện sử dụng đơn giản và một số tính năng mới, trong đó có khả năng tổ chức tin tức và nội dung được cải tiến, tự động cập nhật và chiều rộng cửa sổ tự động điều chỉnh khớp với màn hình.
-Tuy nhiên, Opera Linux 8.0 không tích hợp các tính năng nhận dạng giọng nói giống như phiên bản cho Windows mà trong đó người sử dụng có thể ra những lệnh cơ bản như "Opera back" (Trở lại trang trước) hoặc "Opera scroll down" (Cuộn xuống dưới) khi truy cập các website có hỗ trợ giọng nói. 
-Phiên bản hoàn thiện của Opera Linux 8.0 và có thể là cả của Windows và Mac, dự kiến sẽ được phát hành trong nửa đầu năm nay. Tải và dùng miễn phí trình duyệt Opera cho Windows và bản beta Opera Linux 8.0 tại đây.
-

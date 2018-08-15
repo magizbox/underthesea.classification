@@ -1,6 +1,0 @@
-IIS gặp lỗi không khởi động được (1)
-Tôi đang sử dụng Win2000 Pro. Thời gian đầu tôi cài và sử dụng IIS 5.0. IIS chạy rất tốt, nhưng không hiểu vì lý do gì mà tôi không thể vào được địa chỉ http://localhost/web như mọi ngày. Tôi kiểm tra trong IIS thì phát hiện ra nó đã bị Stop. Nhưng tôi bấm Start lại thì không được. Tôi thử gỡ bỏ chương trình IIS đó đi và cài lại IIS mới. Nhưng lần này thì nó cũng không thể chạy được. Vậy ai có kinh nghiệm hay cách gì giúp tôi với. Xin chân thành cám ơn. 
-Mai Thanh
-Hồi âm:
-Theo như kinh nghiệm của tôi, IIS không Start được rất có thể là do cổng 80 (cổng mặc định của IIS) đã bị chiếm dụng. Bạn nên kiểm tra lại và có thể chuyển cổng hoạt động của IIS sang ngõ khác hoặc tắt ứng dụng đang chiếm dụng cổng này (có thể là Apache hoặc một ứng dụng tương tự).
-

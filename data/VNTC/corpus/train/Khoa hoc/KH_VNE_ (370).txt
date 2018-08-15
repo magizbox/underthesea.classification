@@ -1,9 +1,0 @@
-Phao phát giác tàu buôn lậu
-Các nhà khoa học Canada đã phát triển một loại phao "thám thính" có khả năng lần ra đường đi của những con thuyền buôn ma túy hoặc quan trắc lộ trình di cư của động vật như cá voi và cá heo.
-Bình thường phao nằm yên dưới đáy biển, cho đến khi bị kích hoạt bởi âm thanh của một con tàu hoặc một con vật bơi qua. Tác động này kéo phao lên mặt nước, đồng thời nó sẽ gửi thông tin về trạm bảo vệ bờ biển thông qua vệ tinh. Hoàn thành nhiệm vụ, phao lại chìm xuống đáy biển, chờ con tàu khác tới.
-Một chuỗi phao như vậy có thể vận hành giống như một cái bẫy đặt dọc theo cửa sông và đứng canh gác trên các lộ trình buôn lậu ở ngoài khơi, Cary Risley từ Cơ quan Nghiên cứu và Phát triển Quốc phòng Canada cho biết.
-Hầu hết các chân vịt đều có một âm thanh đặc trưng, vì thế phao có thể phân biệt giữa các tàu lớn và thuyền nhỏ, thậm chí có thể chỉ ra loại tàu cụ thể. "Chúng tôi đang tìm kiếm một phần mềm thông minh cho phao để phân biệt các loại tàu", Risley nói.
-Loại phao này cũng có thể được dùng vào mục đích nghiên cứu khoa học, chẳng hạn các sensor có thể được gắn vào phao để đo nhiệt độ và độ mặn, hoặc giả nó sẽ nổi lên trên đường đi của tàu và thu thập mẫu nước nhằm tìm ra mức ô nhiễm.
-Phao có hình dáng của một ngư lôi, dài 1,5 mét và đường kính 15 cm. Muốn nổi lên mặt biển, dầu sẽ được bơm đầy vào một quả bóng co giãn ở một đầu của phao. Trọng lượng của cả hệ thống không thay đổi, nhưng kích cỡ của quả bóng tăng, làm giảm tỷ trọng của nó, đủ để đẩy phao lên mặt nước. 
-Thiết bị được thử nghiệm hồi tháng 11 năm ngoái, và có thể đáp ứng với tiếng động ở độ sâu 55 mét. Theo thiết kế, nó có thể làm việc ở độ sâu đến 300 mét.
-

@@ -1,6 +1,0 @@
- Chuyển đổi định dạng file từ .RM sang MP3
-May mắn thay chương trình ALO RM to MP3 Converter của công ty ALO Soft sẽ giải quyết được ngọt ngào vấn đề này. 
-ALO RM to MP3 Converter có giao diện đơn giản, thân thiện và rất dễ sử dụng. Người dùng không những có thể chuyển dạng file .RM sang MP3 mà còn chuyển được sang các dạng nhạc số phổ biến khác như WMA, WAV, OGG. Không những chỉ chuyển đổi được định dạng file RM mà ALO RM to MP3 cũng có tác dụng với cả các file radio kỹ thuật số khác nhu RA, RAM, RMVB, RMJ. 
-ALO RM to MP3 Converter cũng cung cấp đầy đủ công cụ để người dùng có thể thiết lập mọi tính chất nhạc theo ý của mình như số Kbit/giây; tần số Hertz, Mono hoặc Stereo... Người dùng có thể chuyển đổi định dạng của từng file .RM riêng biệt hoặc chuyển định dạng của cả một thư mục hàng trăm file .RM 
-Người dùng có thể vào đây để tải bản dùng thử có dung lượng khoảng 8M về xài trong vòng 30 ngày, bản chính thức có giá 16 USD và hiện đã có mặt tại các cửa hàng phần mềm tại TP Hồ Chí Minh. 
-

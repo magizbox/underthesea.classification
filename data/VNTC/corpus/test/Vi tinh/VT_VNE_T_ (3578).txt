@@ -1,8 +1,0 @@
-Hiển thị nhanh kết quả tìm kiếm với Browster 1.0
-Một chương trình hỗ trợ tương thích (plug-in) miễn phí dành riêng cho trình duyệt Internet Explorer ra mắt ngày hôm nay, cho phép trỏ chuột vào kết nối để xem nhanh nội dung website thay vì phải đợi toàn bộ trang được tải xuống.
-Phần mềm được hãng Browster (Mỹ) viết với mục đích mở nhanh những site có trong danh sách kết quả tìm kiếm. Browster 1.0 sử dụng phương pháp hiển thị trang theo dạng "pre-fetching" (tìm nạp nội dung trước). Nghĩa là khi người dùng di chuột vào một liên kết nào đó, phần mềm sẽ mở ngay ra một cửa sổ mới ngay trên đỉnh trang tìm kiếm gốc để cung cấp một bản sao nội dung trang web nào đó chỉ trong khoảng một phần nghìn giây.
-Người sử dụng có thể bấm chuột vào chính những kết nối và thông tin bên trong cửa sổ mới đó để tải dữ liệu từ website thực. Họ sẽ thoát ra bằng cách di chuột trở lại trang tìm kiếm gốc, hoặc bấm trực tiếp vào một biểu tượng ngay trên cửa sổ mới để xem những kết quả tìm kiếm khác.
-Browster 1.0 hoạt động với hầu hết các công cụ tìm kiếm hiện nay như Yahoo và Google, site kinh doanh eBay, Amazon, những trang có cài công cụ search như Craigslist, Bloglines, và các trang tin tức trực tuyến.
-Theo Scott Milener, Giám đốc điều hành của Browster, phần mềm plug-in này đòi hỏi người dùng phiên bản Internet Explorer 5 trở lên, còn những trình duyệt khác sẽ được hỗ trợ trong tương lai.
-Xem bản demo và tải Browster 1.0 tại đây.
-

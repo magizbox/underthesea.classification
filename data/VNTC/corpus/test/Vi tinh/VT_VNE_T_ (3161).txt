@@ -1,7 +1,0 @@
-Virus Bin Laden xuất hiện trở lại
-Từ ngày 1/6, những e-mail kèm ảnh chụp công bố cảnh bắt giữ thủ lĩnh mạng lưới khủng bố al-Qaeda đã xuất hiện. Nhưng nếu mở file đi kèm, PC sẽ ngay lập tức trở thành nạn nhân của virus.
-Những e-mail này, dù ở dưới hình thức nào, đều có nội dung rất thuyết phục người đọc như kênh tin tức CNN và BBC sẽ sớm tường thuật vụ bắt giữ và cung cấp nhiều hình ảnh chi tiết hơn. Một loại e-mail lại khẳng định sở hữu những tấm hình lấy từ kênh truyền hình quân đội, nhiều thư khác hướng người nhận đến trang web lưu đoạn video về vụ việc này... 
-Những ai mở file đính kèm này hay vào website sẽ ngay lập tức tự "rước" phiên bản Trojan Psyme về máy tính của mình. Biến thể Psyme khai thác lỗ hổng trong Windows 2000, 95, 98, ME, NT, XP và Windows Server 2003. Các hãng bảo mật khuyến cáo người dùng nhanh chóng cài phiên bản nâng cấp của Windows để tránh nguy cơ bị ảnh hưởng, và không mở những e-mail thông báo Osama Bin Laden bị bắt.
-Công ty Blackspider (Mỹ) cho biết đã chặn tới hơn 1 triệu thư rác kiểu này từ khi chúng bắt đầu xuất hiện. Hãng bảo mật F-Secure và Panda cũng đồng thời cảnh báo về nguy cơ mới xuất hiện. Nhiều chuyên gia lo ngại rằng mối quan tâm và sự tò mò về nơi trú ngụ cũng như những thông tin khác về Bin Laden sẽ có thể khiến virus bùng phát thành một nguy cơ lớn.
-Tháng 7 năm ngoái cũng ghi nhận những e-mail kèm đường link tới một website tuyên bố có cảnh Bin Laden tự tử. Một virus khác cũng hoành hành vào tháng 11/2004 giả dạng thông điệp video liên quan đến thủ lĩnh al-Qaeda.
-

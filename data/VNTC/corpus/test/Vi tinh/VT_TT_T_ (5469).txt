@@ -1,9 +1,0 @@
- Acer tham dự "Chợ phiên PC giá ưu đãi dành cho sinh viên"
-Chương trình được thực hiện trên phạm vi toàn quốc nhằm tạo ra những ưu đãi đặc biệt về giá cho những khách hàng chọn sản phẩm máy tính xách tay Acer. Chi tiết chương trình như sau: 
-- Mua máy tính xách tay TravelMate 2300 giá từ 899 USD được tặng bao lì xì trị giá 100 ngàn đồng. 
-- Mua máy tính xách tay TravelMate 2700 giá từ 1.199 USD được tặng bao lì xì trị giá 200 ngàn đồng. 
-- Mua máy tính xách tay TravelMate 4000 giá từ 1.299 USD được tặng bao lì xì trị giá 300 ngàn đồng. 
-Bên cạnh chương trình này, trong suốt năm 2005, Acer cũng sẽ thực hiện chương trình tặng tiền mặt cho khách hàng mua hai dòng sản phẩm máy tính xách tay cao cấp như sau: 
-- Mua máy tính xách tay TravelMate 3200 giá từ 1,749 USD được tặng tiền mặt trị giá 50USD. 
-- Mua máy tính xách tay TravelMate C300 giá từ 2,199USD được tặng tiền mặt trị giá 100USD. 
-

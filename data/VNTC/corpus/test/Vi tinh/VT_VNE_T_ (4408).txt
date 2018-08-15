@@ -1,6 +1,0 @@
-Định dạng mới của Memory Stick 
-Sony và SanDisk (Mỹ) vừa hợp tác phát triển định dạng thẻ nhớ mang tên Memory Stick Micro. Loai card theo chuẩn này có kích thước 15 x 2,5 x 1,2 mm, lớn hơn Micro SD TransFlash (15 x 11 x 1 mm).
-Giống Micro SD, Memory Stick Micro được  thiết kế cho điện thoại di động. Thẻ hoạt động với dòng điện 3,3 - 1,8 V và tốc độ truyền khoảng 160 Mb/giây. Trên lý thuyết, định dạng này có thể lưu tới 32 GB dữ liệu. 
-Micro được trang bị cơ chế chống sao chép MigicGate, tương tự những phiên bản Memory Stick khác. Sony và SanDisk đang tiến hành thủ tục đăng ký bản quyền sáng chế tháng tới.
-Công nghệ Memory Stick được giới thiệu lần đầu tiên vào tháng 9/1998. Sony đã nâng cấp định dạng này lên thành Memory Stick Pro năm 2003, đồng thời phát hành Memory Stick Duo dạng nén. Hãng điện tử Nhật sau đó lại tiếp tục ra mắt thẻ nhớ Memory Stick Pro Duo. Nhiều người tin rằng thời gian tới trên thị trường sẽ xuất hiện một sản phẩm với tên gọi vô cùng phức tạp: Memory Stick Micro Pro Duo.
-

@@ -1,6 +1,0 @@
- Cấp phép thử nghiệm Wimax cố định
-Các doanh nghiệp sẽ thử nghiệm dịch vụ theo tiêu chuẩn đã được Hiệp hội viễn thông quốc tế (ITU) phê duyệt năm 2004. 
-Sau 1 năm thử nghiệm, Bộ Bưu chính - viễn thông sẽ xem xét cấp phép chính thức cho các doanh nghiệp cung cấp dịch vụ Wimax cố định. 
-Hiện tại, do chưa có thiết bị cho dịch vụ Wimax di động nên các doanh nghiệp chưa được cấp phép thử nghiệm Wimax di động. 
-WiMax là công nghệ truy nhập băng thông rộng không dây cho phép truyền dẫn dữ liệu với tốc độ cao. 
-

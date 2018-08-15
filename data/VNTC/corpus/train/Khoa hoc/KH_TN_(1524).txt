@@ -1,3 +1,0 @@
-Các nhà khoa học Ý vừa trình làng một loại robot có khả năng chữa cháy trong đường hầm. Phát kiến này ra đời từ ý tưởng giảm bớt nguy cơ hỏa hoạn như từng xảy ra tại đường hầm Mont-Blanc (nối liền giữa Pháp và Ý) vào năm 1999 làm 39 người thiệt mạng. 
-Được đặt tên là Robogat, con robot này chữa cháy bằng cách tự động phun nước cực mạnh vào điểm nóng nhất trong đám cháy. Để làm được điều này, Robogat được gắn một cái camera có thể cảm nhận nhiệt độ, từ đó giúp nó định hướng được những nơi nóng nhất để phun nước. Robogat sẽ được lắp đặt chạy dọc theo đường rãnh được thiết kế trên nóc hoặc sàn của đường hầm để dễ dàng chữa cháy khi có sự cố. (THX)
-

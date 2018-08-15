@@ -1,6 +1,0 @@
- Thêm một phần mềm đòi tiền chuộc
-Theo hãng bảo mật Sophos (Anh), khi được kích hoạt, Trojan này sẽ làm hiển thị một số hình ảnh, tiếp đó là thông điệp đòi “khổ chủ” của tài liệu phải bỏ ra 10,99 USD nếu không cứ 30 phút nó sẽ lại xóa 1 file. 
-“Ramsom.A được thiết kế để biến dữ liệu trên máy tính bị lây nhiễm thành con tin và tìm cách đe dọa người sử dụng khiến họ phải nhanh chóng nộp tiền”, cố vấn công nghệ Graham Cluley của Sophos cho biết. “Phần mềm này yêu cầu nạn nhân thanh toán thông qua dịch vụ chuyển tiền Western Union và hứa hẹn gửi trả mã ‘giải độc’ sau khi tác giả của nó nhận được tiền”. 
-Tháng trước, một Trojan giống như Ransom.A đã xuất hiện, mã hóa file tài liệu trên máy tính nạn nhân và đòi người sử dụng phải trả 300 USD nếu muốn thông tin của họ được “bảo toàn tính mạng”. Một vụ tống tiền bằng phần mềm tương tự cũng đã được ghi nhận hồi tháng 5 năm ngoái. 
-“Đây có thể là sự khởi đầu cho một xu hướng tội phạm mới trên Internet”, chuyên gia Cluley nói. “Người sử dụng máy tính cần cảnh giác cao khi mở file đính kèm e-mail và khi truy nhập những website không quen thuộc”. 
-

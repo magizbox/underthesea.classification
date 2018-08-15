@@ -1,6 +1,0 @@
-Mất Driver của DVDRom và CD Writer (1)
-Nhờ các anh chị giúp dùm trường hợp máy tính của tôi bị mất Driver DVDRom và CD Writer, máy không nhận diện được 2 ổ đĩa này : - Mitsumi CR - 48XCTE- Pioneer DVD - ROM DVD - 117Ngoài ra , khi khởi động máy, xuất hiện window báo lỗi do thiếu file " sysny.exe " ! Tôi có dùng phần mềm Ad-aware 6.0 để clean máy, nhưng không loại bỏ được trang web Home Search, rất phiền toái mỗi khi click vào Internet Explorer Browser. Xin vui lòng hướng dẫn sửa chữa giúp ! Cám ơn nhiều ! 
-Nguyễn Văn Quang
-Hồi âm:
-Ban chi can Restore lai thi se het rac roi thoi (System Restore). 
-

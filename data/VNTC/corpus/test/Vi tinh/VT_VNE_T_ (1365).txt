@@ -1,5 +1,0 @@
-Khóa đào tạo giảng viên Linux đầu tiên ở Việt Nam
-Khóa học được tổ chức tại TP HCM từ hôm nay tới 12/11, với mục đích đào tạo đội ngũ giảng viên có kiến thức chuyên sâu về phần mềm nguồn mở và Linux. Đối tượng học là người có kinh nghiệm về quản trị hệ thống Linux ở các công ty và trường đại học, nghe giảng trực tiếp bằng tiếng Anh.
-Có 20 học viên tham dự khóa học, trong đó Hà Nội và TP HCM có 8 người, Huế và Đà Nẵng 2 người. Những người đến từ Hà Nội và miền Trung được tài trợ hoàn toàn chi phí đi lại và ăn ở. Học viên chỉ được công nhận kết quả học tập khi thi đạt chứng chỉ LPI cấp 1 của Linux. 
-Chương trình thuộc Dự án hợp tác thúc đẩy ứng dụng và phát triển phần mềm mã mở Việt Nam do Ban quản lý dự án công nghệ thông tin TP HCM phối hợp với Bộ Khoa học Công nghệ, Tổ chức mạng lưới mã nguồn mở quốc tế và ĐH Quốc gia TP HCM tổ chức. Sau đây, sẽ có các khoá học tiếp theo dành cho nhiều đối tượng.
-

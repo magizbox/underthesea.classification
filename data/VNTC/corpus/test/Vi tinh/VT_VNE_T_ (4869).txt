@@ -1,5 +1,0 @@
-Khắc phục sự cố máy tính sau thảm họa
-Tôi đang gặp một bài tập lớn có liên quan đến khắc phục sự cố sau thảm hoạ xin hãy giúp tôi có một chính sách hoàn hảo để thực hiện bài tập trên bao gồm: chính sách về sao lưu dự phòng các bước thực hiện, thực hiện theo phương thức nào dùng phần mềm nào để hỗ trợ?
-Ngoài ra xin cho tôi khỏi cách thiết lập hoàn hảo một mạng máy tính sau thảm hoạ một cách nhanh chóng bao gồm các sụ cố có liên quan đến thảm hoạ thiên nhiên, virus, hệ điều hành. Tôi có thể tìm tài liệu và sách tham khảo tại trang web nào? Xin chân thành cảm ơn.
-Vũ Sơn
-

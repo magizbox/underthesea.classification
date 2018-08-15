@@ -1,8 +1,0 @@
-Công cụ săn tìm lỗi trong Windows Vista
-Microsoft vừa giới thiệu một phần mềm có khả năng xác định nhanh chóng những trục trặc khi một ứng dụng bên thứ ba hoạt động với tính năng hạn chế quyền ưu tiên của hệ điều hành thế hệ mới.
-Công cụ LUA Buglight được thiết kế để xác định lỗi phát sinh trong tính năng bảo mật Least User Access (LUA - Truy cập với ít quyền nhất). 
-LUA hạn chế tối đa quyền ưu tiên của người dùng nhằm cải tiến bảo mật Windows, bởi một chương trình nguy hiểm khi tìm đường chui vào PC với cơ chế sử dụng chuẩn sẽ không thể gây thiệt hại nhiều như khi nó thâm nhập được vào hệ thống theo chế độ quản trị (administrator).
-"LUA Buglight là một phần mềm mới, được thiết kế với mục đích tìm kiếm lỗi của LUA mỗi khi người dùng chạy những ứng dụng khác nhau", một đại diện của Microsoft, cho biết. ""Với thông tin báo về, lỗ hổng sẽ nhanh chóng được xem xét và sửa chữa".
-Phần mềm ban đầu dành cho các chuyên gia công nghệ thông tin cần xác định và khắc phục lỗi xuất hiện trong ứng dụng bên thứ ba. Tuy nhiên, hiện giờ nó cũng được dùng làm công cụ tìm kiếm lỗi LUA khi chạy chương trình cụ thể.
-Tuần này, Microsoft cũng cho biết hãng sẽ loại bỏ trình điều khiển đồ họa Avalon trong nhân của Windows Vista nhằm tăng độ tin cậy của hệ điều hành. Việc chuyển đổi này khiến cho chương trình Windows ngày càng giống Unix và Linux hơn.
-

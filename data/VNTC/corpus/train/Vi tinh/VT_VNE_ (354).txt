@@ -1,8 +1,0 @@
-Thị trường truy cập Wi-Fi nóng dần
-Hãng khảo sát Gartner hôm qua công bố một nghiên cứu cho thấy số người sử dụng các điểm truy cập không dây trên toàn thế giới sẽ tăng gấp 3 năm nay, trong đó các doanh nghiệp là đối tượng sẵn sàng nhất cho dịch vụ này.
-Theo dự báo của Gartner, đến cuối năm 2004, lượng người sử dụng những điểm hotspot sẽ tăng lên tới 30 triệu so với 9,3 triệu năm ngoái. Bên cạnh đó, trên một nửa số máy tính notebook mà các doanh nghiệp sử dụng đều sẽ có tính năng Wi-Fi.
-Giới nghiên cứu cho rằng nhu cầu truy cập không dây tăng sẽ buộc các doanh nghiệp phải bổ sung thêm khả năng kết nối này vào mạng liên lạc của mình, đồng thời cũng phải đảm bảo kiểm soát được chi phí đầu tư và các vấn đề an ninh hệ thống.
-Tất nhiên, tăng chi phí cũng đồng nghĩa với những lợi ích mới. Theo Gartner, những nhân viên làm việc cơ động sẽ có thể tiết kiệm được 30 phút năng suất khi sử dụng mạng LAN không dây trong văn phòng, gia đình và các điểm truy cập công cộng.
-Về khía cạnh an ninh, các doanh nghiệp nên đảm bảo việc truy cập không dây phải bao gồm việc sử dụng tường lửa cá nhân và đường đăng nhập mạng ảo riêng (VPN) cho tất cả các kênh truy cập từ xa.
-Hotspot là những khu vực phủ sóng được lập nên để cung cấp cho các thiết bị di động đường truy cập không dây. Năm ngoái, sự quan tâm chủ yếu tập trung vào các điểm truy cập công cộng như khách sạn, quán cafe, sân bay, nhà hàng& Tuy nhiên, vì các vấn đề liên quan đến cách tính cước nên chưa có sự gia tăng đáng kể về lượng người sử dụng tại các địa điểm này. 
-

@@ -1,6 +1,0 @@
-Intel mở rộng dòng sản phẩm Centrino 
-Hôm nay, hãng chip lớn nhất thế giới chính thức ra mắt hai bộ vi xử lý Pentium M 715 và 725 (tên mã trước đây là Dothan), được sản xuất dựa trên công nghệ xử lý 90 nanomet.
-Dựa trên nền vi kiến trúc di động của Intel, các bộ vi xử lý mới được tích hợp sẵn bộ nhớ đệm L2 dung lượng 2 MB, có tốc độ lần lượt đạt 1,5 và 1,6 GHz. Hai sản phẩm này cũng có kênh truyền hệ thống đạt tốc độ 400 MHz và tương thích với họ chipset Intel 855, đồng thời đều hỗ trợ công nghệ Speedstep cải tiến, giúp tối ưu hóa hiệu suất xử lý ứng dụng và điện năng tiêu thụ nhằm kéo dài thời gian hoạt động của pin.
-Với những đơn đặt hàng 1.000 đơn vị trở lên, Pentium M 715 và 725 được bán với giá lần lượt là 209 USD và 241 USD/bộ.
-Bộ vi xử lý Pentium M là một thành phần chủ chốt trong công nghệ di động Centrinocủa Intel. Từ các hệ thống máy tính xách tay được dùng để thay thế máy để bàn tới dòng notebook siêu nhẹ, công nghệ này mang lại hiệu suất xử lý di động vượt trội và khả năng kết nối mạng LAN không dây được tích hợp sẵn, cùng với tiết kiệm điện năng giúp tăng tuổi thọ của pin.
-

@@ -1,8 +1,0 @@
-Sạc pin chỉ trong 6 phút
-Một phòng thí nghiệm ở Nevada (Mỹ) đang phát triển một loại pin tái sử dụng có thể nạp đầy chỉ trong 6 phút, nhanh gấp 10 lần so với pin thông thường hiện nay, và có thể cung cấp điện năng mạnh gấp 3 lần.
-Giám đốc công nghệ của hãng Nokia năm ngoái từng cảnh báo rằng các loại pin hiện tại không bắt kịp nhu cầu tiêu hao năng lượng ngày càng tăng của những thiết bị di động.
-Loại pin cho hiệu quả năng lượng cao nhất hiện nay là trên nền ion lithium. Chúng rẻ hơn so với pin làm từ hydrua - nickel kim loại và nickel - cadmi nếu tính trên đơn vị khối lượng. Nhưng pin lithium cũng có hạn chế. Chúng không tái sử dụng vĩnh viễn được, và thời gian sạc không đủ nhanh cho các nhu cầu dùng năng lượng ồ ạt, như chớp đèn máy ảnh.
-Phòng thí nghiệm của hãng Altair Technologies đã tạo ra một loại pin lithium có diện tích bề mặt cực dương rất lớn. Nó cho phép các electron đến và đi rất nhanh, giúp quá trình sạc pin diễn ra mau chóng và tạo ra dòng điện mạnh khi cần thiết.
-Altair cho biết loại pin này còn có những lợi điểm khác. Pin kiểu cũ có bề mặt cực dương là tinh thể carbon, rất dễ bị hư hại sau những thay đổi nhiệt lặp đi lặp lại trong quá trình sử dụng và nạp pin, khiến cho tuổi thọ của nó chỉ là khoảng 400 chu kỳ nạp.
-Nhưng cực dương mới làm bằng lithium titanate sẽ cho phép nạp lại tới 20.000 lần. Tuổi thọ của pin dài cũng đồng nghĩa với việc tốt hơn cho môi trường. Altair hy vọng họ có thể tạo ra những loại pin cho nhiều thiết bị khác nhau, từ điện thoại đến các loại xe chạy điện.
-

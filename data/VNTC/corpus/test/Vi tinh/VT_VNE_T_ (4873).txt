@@ -1,7 +1,0 @@
-Vi xử lý đồ họa mới đạt tốc độ 625 MHz
-Công ty sản xuất card đồ họa Club 3D hôm nay vừa thông báo chip Radeon X1800 XT 512 MB đã được tung ra thị trường để đáp ứng nhu cầu cao của giới chơi game. Sản phẩm được hãng tuyên bố là bản mạch VGA nhanh nhất hiện nay. 
-Radeon X1800 XT chứa đến 16 kênh pixel với phiên bản đổ bóng DirectX 9 3.0. Chip nhớ này liên hệ với lõi thông qua cổng bus 256 bit và cung cấp bộ lọc bất đẳng hướng 16x, chế độ chống viền răng cưa đa mẫu 6x và 12x với đa mẫu thời gian. 
-Sản phẩm tích hợp với hệ thống xử lý video mã hiệu Avivo của ATI có khả năng chạy các video số hóa đến chế độ màu 10 bit/ kênh, đồng thời tích hợp với trình giải mã phần cứng H.264.
-Card đồ họa này cũng tương thích với công nghệ CrossFire của ATI, mặc dù đây không phải loại thẻ xuất sắc. Sản phẩm X1800 XT CrossFire sẽ xuất hiện vào cuối năm nay hoặc có thể đến đầu 2006. 
-Giá của chip Radeon X1800 XT là 785 USD cho thị trường Anh.
-

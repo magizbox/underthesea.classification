@@ -1,7 +1,0 @@
- Faststone Browser: siêu công cụ 4 trong 1
-Ngay sau khi hoàn tất quá trình cài đặt và kích hoạt, giao diện tương tác vô cùng xinh đẹp và quyến rũ của trình duyệt này sẽ xuất hiện. Phương pháp lướt Web trong FSB là hoàn toàn tương tự như trong trình duyệt Internet Explorer. 
-Để xóa nhanh mọi thông tin nhạy cảm trong suốt phiên làm việc trực tuyến nhằm tránh bị kẻ xấu tọc mạch, bạn hãy truy xuất đến menu Tools, chọn mục Clear IE Records, Clear All, nhấn nút Yes rồi chọn OK để hoàn tất việc vệ sinh cho trình duyệt. Bạn cũng có thể dùng FSB để chạy thử một Web server. 
-Hãy nhập vào một server mong muốn trong mục Server Root rồi nhấn nút Start HTTP Server để bắt đầu khai thác tính năng độc đáo này. Nếu muốn khởi tạo một FTP Client để truyền dữ liệu giữa các máy trạm và server, bạn hãy truy xuất đến menu FTP, chọn mục Create an FTP Client, nhập vào địa chỉ hosting trong mục Host, tên và mật khẩu đăng nhập tương ứng trong các mục Username và Password rồi nhấn nút Connect để bắt đầu thực hiện việc kết nối. 
-Một tính năng độc đáo khác của FSB đó là cho phép người dùng chụp ảnh màn hình theo nhiều hình dạng khác nhau thông qua menu Capture. 
-Với dung lượng nhỏ gọn và rất lý tưởng cho việc download (chỉ 1,06 MB), tương thích trên các hệ điều hành Windows như 98/Me/NT/2000/XP/2003 Server, phiên bản miễn phí (freeware) của FSB được cung cấp tại đây . 
-

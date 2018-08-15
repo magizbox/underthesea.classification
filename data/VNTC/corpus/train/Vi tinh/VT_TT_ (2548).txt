@@ -1,9 +1,0 @@
- “Đừng ăn cắp Mac OS X” 
-Apple đang có một ví trí khá quan trọng trên thương trường sản xuất máy tính cũng như với hệ điều hành Mac OS X của mình. OS X, hệ điều hành mà chỉ hoạt động được trên phần cứng của máy Macintosh. Và nay thì Mac OS X còn có thể hoạt động trên các hệ máy iMac và MacBook Pro trên nền của Intel. 
-Dòng tin nhắn thú vị được đặt trong /System/Library/Extensions/Dont Steal Mac OS X.kext và có nội dung sau: 
-_name 
-Don’t Steal Mac OS X 
-[…]Copyright © 2006 Apple Computer, Inc. All rights reserved. 
-Mục đích của Apple với dòng tin nhắn này nhằm bảo vệ bản quyền từ những việc sao chép và sử dụng lậu. Bạn không thể sao chép, hiệu chỉnh, thay đổi engine, hiển thị công khai, truyền tải hay phân phối lại tập tin này dù chỉ một phần hay toàn bộ. Nếu bạn nhận được một bản sao chép của phần mềm do Apple sản xuất và không có bản quyền từ Apple Computer để sử dụng thì hãy xóa chúng đi khỏi computer của bạn ngay tức thì. 
-Người dùng Mac và OS X từ Apple chắc chắn cũng đang thích thú vì tập tin Windows Media giờ đây đã có thể được chơi trên Quicktime nhờ vào sự hỗ trợ của Windows Media Components được phát triển bởi Flip4Mac. Một sự bổ sung khá cần thiết giúp xem các tập tin WMP trong Quicktime và các ứng dụng hỗ trợ Quicktime. 
-

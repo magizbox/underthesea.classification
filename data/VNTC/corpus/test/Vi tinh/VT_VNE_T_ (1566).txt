@@ -1,8 +1,0 @@
-Chương trình học viện mạng của Cisco tại VN
-Hôm nay, tại Hà Nội, tập đoàn công nghệ mạng và Chương trình phát triển Liên Hợp Quốc (UNDP) công bố hoạt động giáo dục về Internet tại Việt Nam, nhằm giúp các địa phương nâng cao hiểu biết về giá trị của mạng Internet và công nghệ thông tin.
-Ông Subinay Nandy - Quyền đại diện thường trú của UNDP tại Việt Nam, cho biết: "Mặc dù 94% dân số biết chữ, Việt Nam chỉ xếp thứ 112 trên bảng xếp hạng về chỉ số Phát triển con người của UNDP với 5% dân số ở độ tuổi dưới 18. Vì thế, giáo dục cao cấp có thể đem lại lợi ích lớn cho những nước như VN".
-Theo ông Robert Hughes, Giám đốc Cisco Sytems Việt Nam, giáo trình của khóa đào tạo này sử dụng những công nghệ liên quan đến mạng và Internet để truyền đạt cho học viên những kiến thức về cách thiết kế, xây dựng và triển khai chính các hệ thống mạng này. "Tuy đây là chương trình giáo dục phi lợi nhuận của Cisco, nhưng học viên tham gia vẫn phải đóng một khoản phí để trường đại học, đơn vị phối hợp với Cisco, xây dựng cơ sở vật chất", ông Robert Hughes nói.
-Thông qua các khoá đào tạo từ căn bản đến cao cấp, học viên được lĩnh hội những kiến thức tin học bằng những phương pháp như nghe giảng và thực hành trực tiếp. Hiện tại, chương trình hoạt động tại 13 trường đại học ở Hà Nội, TP HCM, Huế, Đà Lạt với 1.000 học viên theo học. Đến nay, hơn 1.300 học viên đã tốt nghiệp.
-Người đứng đầu Cisco Việt Nam cũng cho biết đến nay, có 10.000 tổ chức giáo dục trên thế giới sử dụng chương trình Học viện mạng và khoảng 380.000 học viên từ 160 nước trên thế giới hoàn thành khóa học. 
-Trong tuần này, Cisco sẽ tổ chức hội nghị thường niên của Học viện mạng tại Hà Nội với sự góp mặt của 120 chuyên gia từ 80 tổ chức giáo dục trong khu vực châu Á - Thái Bình Dương. 
-

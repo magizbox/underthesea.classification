@@ -1,6 +1,0 @@
-Paragon Solutions VN đạt chuẩn CMMI cấp 5
-Paragon Solutions VN (PSV), chi nhánh tập đoàn First Consulting tại VN, vừa công bố đạt chuẩn cao nhất về quy trình quản lý chất lượngcủa Viện Kỹ nghệ phần mềm Mỹ SEI. Đây cũng là công ty trong nước đầu tiên đạt chuẩn này.
-Công tác đánh giá chuẩn CMMI (Capability Maturity Model Integration) cho PSV do tổ chức Quality Assurance Institute (Ấn Độ) thực hiện. Việc đạt chuẩn sẽ giúp nâng cao năng suất sản phẩm, giảm thời gian quay vòng và chất lượng phần mềm cho PSV. 
-Theo ông Luther Nussbaum, Giám đốc điều hành của tập đoàn First Consulting, PSV là một trong số ít công ty trên toàn cầu đạt CMMI cấp 5. 
-Hiện sản phẩm của công ty chủ yếu xuất sang Mỹ với doanh thu năm 2004 vượt 45% so với dự kiến. Công ty có 75 kỹ sư trong số 350 nhân viên đạt các chứng chỉ quốc tế của Microsoft, Sun, IBM, Oracle.
-

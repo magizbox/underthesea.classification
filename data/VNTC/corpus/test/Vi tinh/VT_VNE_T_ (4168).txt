@@ -1,6 +1,0 @@
-Sẽ không có bản nâng cấp an ninh Microsoft tháng 9
-Ngày 8/9, hãng phần mềm khổng lồ Mỹ tuyên bố sẽ chỉ cung cấp 01 bản sửa lỗi cho lỗ hổng nghiêm trọng trong hệ điều hành Windows. Tuy nhiên, hôm qua họ lại khẳng định không phát hành bất cứ bản update nào cho tháng này nữa.
-Microsoft từ chối giải thích chi tiết lý do họ hủy bỏ kế hoạch vào phút chót. "Quyết định liên quan đến chất lượng của bản vá. Chúng tôi phát hiện ra một trục trặc và các kỹ sư bảo mật sẽ cần thêm thời gian thử nghiệm, do đó giải pháp tốt nhất là không đưa ra bản tin an ninh tháng 9", một phát ngôn viên của Microsoft cho biết.
-Đây là lần thứ hai tập đoàn này thay đổi kế hoạch về việc cung cấp bản vá.
-Microsoft dự định phát hành bản cập nhật cho lỗi Windows Plug-and-Play. Hãng đã sửa lỗ hổng trong bản tin bảo mật tháng 8, nhưng chỉsau vài ngày, hàng loạt vụ tấn công với nhiều biến thể virus khác nhau của Zotob, Esbot, Rbot... đã xảy ra liên quan đến lỗi này, ảnh hưởng khoảng 250.000 máy tính chủ yếu chạy trên Windows 2000.
-

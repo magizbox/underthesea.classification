@@ -1,8 +1,0 @@
-Michael Jackson tự vẫn?
-Các chuyên gia tại hãng bảo mật Sophos cảnh báo thực ra đây chỉ là một chiến dịch thư rác mới nhằm đánh lừa những người dùng ngây thơ tin rằng ông vua nhạc Pop đã liều tự tử để phát tán Trojan.
-Nội dung e-mail nói M.Jackson tự tử.
-E-mail có nội dung: "Đêm qua, tại dinh cơ Neverland, Michael Jackson tự vẫn. Người ta cho rằng hành động này là hậu quả của lời cáo buộc gần đây nhất chống lại Michael. Vua nhạc Pop 46 tuổi này đã để lại chúc thư mô tả và giải thích cho những việc làm tội lỗi của mình. Xem tiếp..."
-Tuy nhiên, khi người dùng click vào kết nối "Read more", ngay lập tức họ bị dẫn đến một website tự động cài phần mềm nguy hiểm vào máy tính.
-"Nếu nhấp chuột vào link này, website sẽ hiện thông báo quá tải. Điều này không gây ngạc nhiên cho những người nghĩ rằng tin sốt dẻo về Michael Jackson đã làm tắc nghẽn đường truyền", Carole Theriault, cố vấn bảo mật tại Sophos, nói. "Tuy nhiên, đằng sau chiến thuật nghi binh này là phần mềm nguy hiểm bí mật xâm nhập vào PC mà người dùng không hề hay biết".
-Sophos đã phân tích mã và khẳng định đó là phiên bản Trojan/ Borobt-Gen. Hãng cũng cho biết đây không phải lần đầu tiên ngôi sao nhạc Pop này bị lợi dụng để phát tán virus. Tháng 10 năm ngoái, nhiều thông điệp đã được đăng tải trên mạng tuyên truyền rằng đã phát hiện ra những cuốn video ghi lại tội ác của Jackson, nhưng thực ra đó chỉ là kết nối tải Trojan Hackarmy.
-

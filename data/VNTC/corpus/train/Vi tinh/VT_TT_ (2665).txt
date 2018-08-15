@@ -1,5 +1,0 @@
- Website quảng bá FireFox của Mozilla bị hack
-Các hacker truy xuất quyền đăng nhập vào SpreadFireFox.com thông qua lỗ hổng bảo mật trong phần mềm mã nguồn mở TWiki được cài đặt trên máy chủ. Đây là lần thứ 2 website bị tấn công thông qua phần mềm dùng để hoạt động website. Vào tháng 7, website cũng thông báo đã bị tấn công thông qua lỗi bảo mật chưa được cập nhật của PHP. Website sử dụng hệ thống quản lý thông tin Drupal được lập trình dựa trên ngôn ngữ PHP. 
-“Chúng tôi đã quét lại toàn bộ máy chủ của Spread FireFox và không có dữ liệu nào bị hư hỏng hay có trục trặc nhưng để phòng ngừa và ngăn chặn các cuộc tấn công tiếp theo, chúng tôi ngưng hoạt động website và sẽ xây dựng nó lại từ đầu”, theo nội dung gởi cho các thành viên đã đăng ký tài khoản trên Spread FireFox. 
-Cuộc tấn công này dường như không làm tổn hại đến thông tin tài khoản của các thành viên, bao gồm: tên thật, liên kết website, địa chỉ email, địa chỉ IM, địa chỉ nhà, ngày tháng năm sinh và các tin nhắn cá nhân đến thành viên khác. Nhưng Spread FireFox khuyến cáo người dùng nên thay đổi lại mật khẩu khi website hoạt động trở lại theo dự kiến vào ngày 15 tháng 10 này. 
-

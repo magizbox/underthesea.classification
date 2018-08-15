@@ -1,5 +1,0 @@
-'Kẻ hà tiện nước ban đêm'
-Một nhóm học sinh Nam Phi đã tìm ra giải pháp kỹ thuật có tên gọi "kẻ hà tiện nước ban đêm". Đó là một hệ thống tưới nước tự động vào ban đêm, chỉ tưới khi xác định được độ ẩm trong đất ở mức mà cây cối bắt đầu "khát". Hệ thống này áp dụng cho nhiều vùng nông thôn Nam Phi sẽ tiết kiệm được rất nhiều nước ngọt.
-Đây là sáng kiến đoạt giải nhất trong cuộc thi quốc tế Giải thưởng về nước giành cho lứa tuổi học sinh, vừa diễn ra tại Stockholm, Thuỵ Điển. Nam Phi là nước có lượng mưa trung bình hằng năm rất thấp, nước lại bị bốc hơi nhiều nên một số nơi bị khan hiếm nước trầm trọng. Các tác giả đề án nghiên cứu thấy rằng 35% lượng nước sinh hoạt của dân chúng phải dùng để tưới vườn. 
-Cuộc thi năm nay thu hút sự tham gia của 47 nước. Đại diện của Việt Nam là em Nguyễn Thị Thu Trang, với công trình dùng đất sét và xơ giấy làm sạch nước hồ. 
-

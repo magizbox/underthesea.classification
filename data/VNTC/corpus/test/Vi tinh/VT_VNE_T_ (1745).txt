@@ -1,7 +1,0 @@
-Soạn tin nhắn bằng giọng nói
-Tập đoàn Samsung vừa ra mắt điện thoại di động đầu tiên trên thế giới có khả năng chuyển lời thoại thành văn bản. Kỹ thuật mới với tên gọi "VoiceMode" đã được áp dụng vào model SGH-P270 và SPH-A800, giúp việc gửi tin nhắn dễ dàng hơn.
-"Công nghệ này sẽ thay đổi đáng kể phương thức liên lạc qua điện thoại mà mọi người vẫn thường dùng", Peter Skarzynski, Phó chủ tịch Samsung Electronics, cho biết. "Người sử dụng chỉ cần đọc trực tiếp nội dung tin nhắn vào máy, phần mềm sẽ giúp chuyển đổi những lời đó sang dạng text. Thực chất đây là quá trình giúp đơn giản hóa việc gửi tin nhắn". 
-Model SPH-A800.
-Hãng điện tử Hàn Quốc cũng cho biết sẽ tiếp tục phát triển khả năng này để có thể nhận dạng được nhiều ngôn ngữ hơn thay vì chỉ có tiếng Anh như hiện tại.
-Samsung Electronics (chiếm 13,8% thị phần thị trường điện thoại thế giới) đã vượt qua Motorola (13,4%) để chiếm lĩnh ngôi vị thứ hai, chỉ sau Nokia (30,9%) trong quý III của năm 2004 vừa qua. 
-

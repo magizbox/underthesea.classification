@@ -1,5 +1,0 @@
-Lỗi trong Winamp
-Khi cháu mở Winamp ra và muốn nghe 1 bài hát thì hiện ra thế này :Bad DirectSound driver. Please install proper drivers or select another device in configuration.Error code: 88780078
-Cháu phải làm gì bây giờ, giúp cháu nhanh nhanh. Cám ơn!
-Giang Le
-

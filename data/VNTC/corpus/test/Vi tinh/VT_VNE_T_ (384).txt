@@ -1,6 +1,0 @@
-Nén và chuyển đổi file bằng PowerArchiver v8.6
-Nếu đã đến lúc sắp xếp lại ổ cứng và tổ chức lại những tệp thông tin cũ trên PC của mình, bạn có thể sử dụng phần mềm này đối với rất nhiều định dạng file như ZIP, CAB, TAR, TAR.GZ,...
-PowerArchiver còn có thể đọc và giải nén nhiều định dạng khác như RAR, ARJ, ARC, ACE, ZOO, GZ và BZIP2. Chương trình cũng hỗ trợ các loại file mã hóa XXE và UUE, đồng thời cho phép bạn đặt lại tên cho các kho lưu trữ thông tin (archive), viết lời tựa và kiểm tra virus.
-PowerArchiver có một thanh công cụ và giao diện di chuyển theo kiểu kéo/thả (drag-and-drop). Nó cho phép bạn xem các kho dữ liệu theo nhiều cách, kể cả những trang web. Phần mềm này còn hỗ trợ việc chuyển đổi các archive từ định dạng này sang dạng khác, sửa chữa những kho lưu trữ dạng ZIP bị hỏng, truy xuất cùng lúc nhiều archive hoặc tạo ra những kho lưu thông tin theo từng gói.
-Để tải miễn phí PowerArchiver v8.6, bấm vào đây.
-

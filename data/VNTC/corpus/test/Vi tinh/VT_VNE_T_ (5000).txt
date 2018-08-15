@@ -1,6 +1,0 @@
-Phần mềm chuyển định dạng MP4 (1)
-Tôi có một USB MP4 chỉ xem được các file có định dạng (.mp4), các file .avi không thể xem được. Vậy có phần mềm nào có thể chuyển file nhạc hình sang định dạng (.mp4) được không? Nếu có thì có thể cho tôi biết đó là phần mềm nào không?
-Gia Truong
-Hồi âm:
-Bạn vào google.com, gõ từ khóa convert avi to mp4 "download" bạn sẽ được một list các trang web cung cấp phần mềm bạn cần
-

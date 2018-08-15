@@ -1,6 +1,0 @@
-Chuyển tệp PDF sang dạng Word
-Chương trình PDF Text Reader được xây dựng để thay đổi file PDF sang dạng văn bản text một cách thuận tiện. Điểm đặc biệt là phần mềm được tải hoàn toàn miễn phí và không giới hạn thời gian sử dụng.
-Quá trình chuyển đổi diễn ra tương đối nhanh chóng với giao diện thân thiện. PDF Text Reader cũng hỗ trợ in văn bản, sao chép sang clipboard, tuỳ chọn trang chuyển đổi, cũng như có khả năng hoạt động độc lập với Adobe và Acrobat.
-VnExpress cũng đã giới thiệu hai công cụ chuyển file PDF sang Word với thời hạn dùng thử 15 ngày nhưng chỉ có khả năng chuyển đổi 10% văn bản làScanSoft PDF Converter vàSolid Converter PDF.
-PDF Text Reader, tương thích Windows 98/ME/2000/XP và 2003 Server, kích thước 3,25 MB, có thể tảitại đây.
-

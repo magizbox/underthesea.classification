@@ -1,8 +1,0 @@
-Khoa học đã ngộ nhận về hiện tượng tế bào tự sát
-Trong những quan sát gần đây về các tế bào gốc, một nhà nghiên cứu Mỹ vừa có một phát hiện bất ngờ: các tế bào này tăng trưởng mạnh mẽ trong khi đáng lẽ chúng đã chết hoặc đang chết.
-"Tôi không hề lường trước được điều này", Thomas Zwaka, làm việc tại phòng thí nghiệm James Thomson thuộc Trung tâm nghiên cứu linh trưởng quốc gia Wisconsin ở Madison, cho biết.
-Zwaka đã kiểm tra sự có mặt của enzyme có tên gọi caspase trong các tế bào gốc phôi (ESCs). Đây là loại protein có tác dụng phá hủy tế bào từ bên trong. Sự hiện diện của chúng thường được xem là dấu hiệu chắc chắn cho thấy các tế bào đang tự tử theo một cách đã lập trình sẵn - cách thức mà cơ thể dùng để loại bỏ những tế bào hư hại hoặc dư thừa.
-Nhưng ở đây, Zwaka đã vấp phải sự bối rối lớn: mặc dù các tế bào đều có caspase hoạt động mãnh liệt, nhưng rất ít trong số chúng đang thực sự chết.
-Để kiểm chứng kết quả của mình, Zwaka tiếp tục tìm kiếm - và đã tìm thấy - hai dấu hiệu khác của tế bào chứng tỏ chúng đang tự sát: Một là là sự có mặt của protein PARP-1 (xuất hiện nhiều trong các tế bào tự sát), và hai là quá trình ngừng hoạt động của ty thể (cơ quan năng lượng của tế bào) thể hiện ở việc khử cực màng bao của chúng.
-Thì ra, dấu hiệu mà trước kia người ta tin là đặc điểm của tế bào tự tử nay chỉ là sự hiểu nhầm. Và phát hiện này sẽ buộc nhiều nhà khoa học phải kiểm tra lại công trình của mình.
-

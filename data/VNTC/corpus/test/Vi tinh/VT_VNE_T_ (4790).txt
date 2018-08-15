@@ -1,6 +1,0 @@
-Virus Linux tấn công qua lỗ hổng PHP 
-Loại sâu có tên Lupper, được phát hiện hôm 6/11, khai thác khiếm khuyết phát hiện gần đây trong XML-RPC của ngôn ngữ PHP. Đây là một giao thức đơn giản dùng để thực hiện thủ tục kết nối từ xa tới các server trên nền Internet. 
-XML-RPC là thành phần mã nguồn mở phổ biến trong nhiều ứng dụng web như PostNuke, Drupal, b2evolution, Xoops, WordPress, PHPGroupWare và TikiWiki. 
-Tuy nhiên, hầu hết số ứng dụng này hiện đã được nâng cấp để khắc phục lỗ hổng. Những hệ thống nào chưa update sẽ có nguy cơ bị Lupper tải một Trojan hỗ trợ truy cập từ xa vào máy và rồi dùng chương trình đó để kết nối với một website khác qua cổng 8080. 
-Các công ty phần mềm bảo mật cho biết không có nhiều thông báo lây nhiễm loại chương trình này vì thực tế nó có nguy cơ không cao. Điều đáng chú ý chính là vì những phần mềm nhắm vào sản phẩm mã mở như Linux đến nay vẫn là loại hiếm. 
-

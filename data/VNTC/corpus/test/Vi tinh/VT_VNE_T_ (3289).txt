@@ -1,6 +1,0 @@
-Mạng AIM lại dính sâu
-Một virus đang lây lan nhanh qua mạng dịch vụ tin nhắn nhanh của AOL ngày hôm qua nhưng các chuyên gia bảo mật cho biết cách điều trị phần mềm tấn công này đã được triển khai chỉ vài tiếng sau khi nó xuất hiện.
-Virus nói trên xuất hiện trong những tin nhắn với nội dung "LOL LOOK AT HIM", kèm đường link tới một file có tên "picture.pif". Nếu tệp tin này được tải về và mở ra, sâu sẽ tự phát tán tới tất cả các địa chỉ trong danh bạ liên lạc (Buddy List) của người dùng AIM.
-Các công ty bảo mật Facetime và IMlogic cho biết họ đang tìm hiểu file picture.pif và chưa xác định liệu mở file có đồng nghĩa với việc cài đặt trình cổng hậu hoặc các mã tấn công khác hay không. AOL cũng đã triển khai công cụ lọc để phong tỏa virus.
-IMlogic xác định sâu mới là một biến thể của virus Opanki, xuất hiện lần đầu vào tháng trước. Phiên bản mới được đánh giá vào loại nguy cơ trung bình.
-

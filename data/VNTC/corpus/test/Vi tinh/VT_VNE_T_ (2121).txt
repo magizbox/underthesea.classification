@@ -1,6 +1,0 @@
-Registry không phản ứng (1)
-Khi em mở registry để chỉnh sửa thông số thì registry không phản ứng, một số chương trình vẫn chạy bình thường. Có một số chương trình thì bị lỗi "Don't send" và hiện lên bảng không biết vấn đề lỗi của Windows. Em dùng Win XP. Xin các anh chị chỉ giúp em.
-nguyễn thanh thúy
-Hồi âm:
-Trước khi chỉnh sửa registry bạn nên làm một backup (nếu có gì) thì bạn còn kịp restore lại vì không có sự đề nghị hay hướng dẫn nào bảo đảm trong thư mục registry, có thể đúng với chiếc máy nầy nhưng lại khác với cấu hình của PC khác, kết quả là phản ứng ngược như bạn đã thấy. Khi gặp những error bạn nên lấy viết ghi lại. Đối với XP giờ bạn vaò startall programsaccessoriessystem toolssystem restore đánh dấu ở ô restore my computer to an early time  nhấp chuột next....sau đó khởi động lại xem có còn lỗi nữa hay không.
-

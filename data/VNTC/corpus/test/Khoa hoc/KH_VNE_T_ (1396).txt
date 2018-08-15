@@ -1,7 +1,0 @@
-Phi cơ bay theo cách của chim ưng
-Một loại máy bay không người lái mới của NASA hoạt động theo cơ chế tầm nhiệt và sử dụng nó để tiết kiệm nhiên liệu. Thiết bị này cưỡi trên các luồng khí nóng, giống như cách làm của đại bàng và chim ưng để kéo dài chuyến đi mà không tốn sức. 
-Michael Allen, kỹ sư của Cơ quan vũ trụ Mỹ và cộng sự thuộc dự án Bay tự động tại Trung tâm nghiên cứu bay Dryden đã thành công trong việc mở rộng tầm hoạt động của các thiết bị bay không người lái cỡ nhỏ, bằng cách lập trình cho chúng tự động cưỡi trên các luồng khí nóng. 
-Trong thử nghiệm, phần mềm được lập trình sao cho chiếc tàu lượn nặng 7kg có gắn động cơ bay theo một tuyến đường định sẵn tại Căn cứ không quân Edwards cho đến khi nó phát hiện có dòng khí nóng dâng lên. Một khi máy bay bắt đầu "cưỡi" lên dòng khí này, động cơ của nó sẽ tự động tắt, và phi cơ bắt đầu chạy vòng quanh để giữ độ cao nhờ lực nâng đối lưu của dòng khí nóng. 
-Các nhà nghiên cứu cho biết, chiếc phi cơ nhỏ đã kéo dài thời gian bay thêm 60 phút nhờ quá trình bay tự động. Nó đạt độ cao trung bình sau 23 lần bay là 170 mét và trong một đợt khí nóng mạnh, nó lên đến 800 mét. 
-"Chuyến bay thử nghiệm cho thấy một chiếc phi cơ không người lái cỡ nhỏ có thể bắt chước các loài chim và tận dụng năng lượng tự do để lơ lửng trên bầu trời", Allen nói. "Chúng tôi đã thu thập được những dữ liệu độc nhất vô nhị và hữu ích trong các chuyến bay này và sự phản ứng của máy bay với các luồng khí nóng. Điều đó sẽ giúp cải tiến công nghệ và điều chỉnh lại các thuật toán đang được sử dụng". 
-

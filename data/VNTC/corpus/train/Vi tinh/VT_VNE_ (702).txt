@@ -1,8 +1,0 @@
-iPod cũng là một nguy cơ an ninh
-Hãng khảo sát thị trường Gartner vừa khuyến cáo các doanh nghiệp nên xem xét việc cấm thiết bị di động như máy nghe nhạc của Apple truy nhập mạng nội bộ. Nguyên nhân là chúng có thể bị lợi dụng vào việc tung ra phần mềm phá hoại hoặc ăn cắp dữ liệu.
-Với các sản phẩm lưu trữ di động nhỏ này thì hàng rào an ninh tường lửa chả có tác dụng vì nhân viên tự do mang vào công ty. Từ đó, những thiết bị đã lây nhiễm mã tấn công có thể phát tán Trojan hoặc virus vào hệ thống máy tính trong doanh nghiệp. 
-Giới chuyên gia an ninh trước đây từng cảnh báo về những nguy cơ từ thiết bị lưu trữ di động nhưng báo cáo của Gartner lần này còn chỉ rõ rằng những mối đe dọa đó hiện giờ cụ thể là: đầu máy nghe nhạc mini MP3 như iPod, máy ảnh số có thẻ media thông minh, thẻ nhớ và nhiều công cụ nghe nhìn dùng bộ nhớ khác&
-Một nguy cơ tiềm tàng khác là việc các thiết bị nói trên - thường dùng USB và Fire Wire - có thể bị khai thác để ăn cắp những lượng dữ liệu rất lớn của doanh nghiệp vì chúng có khả năng tải nhanh hơn đĩa CD. Thêm vào đó, với kích thước rất nhỏ gọn, các thiết bị giải trí cá nhân rất dễ có khả năng bị bỏ quên lung tung hoặc bị đánh cắp.
-Gartner khuyên các công ty nên cấm sử dụng thiết bị cá nhân không có kiểm soát trong mạng máy tính nội bộ và tốt nhất là áp dụng tường lửa trên PC cá nhân để hạn chế những hoạt động trên các cổng USB.
-Hãng khảo sát cho rằng các doanh nghiệp cần đảm bảo triển khai kỹ thuật và thủ tục thích hợp để quản lý một cách an toàn việc sử dụng các thiết bị lưu trữ di động, trong đó có cả ổ di động USB. Điều này sẽ góp phần hạn chế tổn hại do mã tấn công gây ra và những vấn đề phát sinh như mất thông tin nhạy cảm, tài sản trí tuệ, bị kiện cáo, mất uy tín&. 
-

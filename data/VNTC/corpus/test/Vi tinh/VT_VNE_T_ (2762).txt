@@ -1,6 +1,0 @@
-Chip lõi kép sẽ thống trị vào năm 2007
-Hãng nghiên cứu thị trường Gartner dự báo trong 2 năm nữa, các bộ vi xử lý lõi đôi sẽ có mặt trên hầu hết server và máy để bàn. Đây sẽ là một quá trình chuyển đổi lớn và tất yếu với cuộc đua của 2 hãng chip lớn nhất thế giới là Intel và AMD.
-Các bộ xử lý lõi kép sẽ đem đến bước tiến lớn nhất về công suất hoạt động kể từ khi những phiên bản chip 386 ra đời, Martin Reynolds, nhà phân tích của Gartner, bình luận. Tuy nhiên, các hãng phát triển và người sử dụng phải kiểm nghiệm và điều chỉnh phần mềm cho thích hợp để có thể khai thác được đầy đủ ích lợi từ sự phát triển vượt bậc về hiệu năng xử lý này.
-Reynolds cho rằng doanh nghiệp nên sẵn sàng kiểm tra các ứng dụng chạy trên hệ thống lõi kép và thay thế hoặc tái thiết lập bất cứ thành phần nào không đem đến sự cải thiện về hoạt động, thay vì nâng cấp chúng theo chu kỳ thông lệ. 
-Chuyên gia của Gartner cũng khuyến cáo doanh nghiệp nên tìm hiểu kỹ về cách tính phí bản quyền của các nhà cung cấp phần mềm đối với các thiết kế lõi kép, cả ở hiện tại và về sau. Theo Reynolds, Microsoft nhìn chung tỏ ra khá cởi mở trong cấp phép phần mềm cho hệ thống lõi kép trong khi Oracle coi lõi kép là 2 bộ xử lý riêng rẽ khi tính phí bản quyền. Một số hãng phần mềm khác đứng giữa 2 thái cực này.
-

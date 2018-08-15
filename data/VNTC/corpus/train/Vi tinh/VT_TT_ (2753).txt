@@ -1,8 +1,0 @@
- Công nghệ phòng chống Spam mới: IronPort
-Tên đầy đủ là công nghệ IronPort Web Reputation. Công nghệ này xét 45 tính chất của các đường link trong một email để xác định xem đó có phải là spam mail hay không. 
-Đây là một công nghệ nhằm chống lại một trong những phương pháp mới của các spammer hiện nay. Trước kia, các chương trình lọc thư rác thường dựa vào nội dung của các thư được gởi đến, tức là chỉ xét phần văn bản thông thường mà không xét tới các đường link. Chính vì thế, các spammer thay đổi chiến thuật bằng cách, chỉ gởi các thư với các đường link, và nội dung thì khá là trừu tượng hoặc đôi khi không cần nội dung. Chính vì thế, các chương trình chống spam đành bó tay. 
-Nay IronPort dựa theo link trong các thư được gởi đến để xét xem, đó có phải là thư rác hay không. 
-Ngoài ra, với sự gia tăng không ngừng về số lượng các trang web có chứa các mã gây nguy hiểm, các chương trình gián điệp, thì các chương trình chống spam thông thường bó tay, không phân biệt được. Chính vì thế, đôi lúc, vô tình người dùng có thể nhấn nhầm các link dẫn đến các site này trong thư của mình. IronPort cũng ngăn chận được điều này. 
-IronPort tiến hành một loạt các kiểm tra ngay trên các link, kể cả các địa chỉ email. Những kiểm tra này bao gồm luôn cả việc kiểm tra tên miền được tạo từ lúc nào, website được đặt tại đâu (kể cả không gian vật lý), DNS (server tên miền nào được sử dụng) nào được sử dụng... 
-Công nghệ này là một phần của chương trình IronPort Anti-Spam. Giá được niêm yết hiện nay là 3000 USD cho 100 người dùng. 
-

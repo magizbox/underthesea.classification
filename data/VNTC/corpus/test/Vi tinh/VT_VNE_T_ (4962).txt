@@ -1,8 +1,0 @@
-Chưa có bản vá lỗi nghiêm trọng trong IE
-Mã khai thác lỗ hổng trong Javascript của Internet Explorer (IE), có thể khiến hệ thống bị điều khiển từ xa, vừa được công bố hôm qua. Các chuyên gia bảo mật khuyên người dùng nên tắt chức năng này hoặc sử dụng một trình duyệt khác
-Đoạn mã này khai thác lỗi "rất nghiêm trọng" trong IE 5.5 và IE 6, hoạt động trên Windows XP Service Pack 2 và IE 6 trên Windows 2000 SP4. Nó liên quan đến thành phần Javascript được dùng để tải trang web vào một máy tính.
-Ngay khi người sử dụng bị lừa ghé thăm một website chứa mã tấn công, quá trình xâm nhập hệ thống sẽ diễn ra tự động mà không cần nạn nhân phải thực hiện thêm bất cứ thao tác nào.
-"Một kẻ tấn công có thể tận dụng lỗi để chạy bất cứ mã nào chúng muốn trên hệ thống người dùng", Thomas Kristensen, Trưởng phòng kỹ thuật của hãng bảo mật Secunia (Đan Mạch), cho biết.
-Các chuyên gia nghiên cứu cho biết lỗi đã được biết đến từ cách đây 6 tháng, nhưng được đánh giá là chỉ gây ra tấn công từ chối dịch vụ thay vì chạy mã từ xa. Do đó, Microsoft đã không hề cung cấp bản vá lỗ hổng.
-Đại diện của tập đoàn phần mềm không đưa ra lời bình luận về vấn đề này nhưng khẳng định họ đang tiến hành xem xét và sẽ tung ra phần mềm chỉnh sửa trong bản tin bảo mật cuối cùng của năm 2005.
-

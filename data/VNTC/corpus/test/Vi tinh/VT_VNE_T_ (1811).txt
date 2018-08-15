@@ -1,7 +1,0 @@
-Bản vá lỗi dành cho Windows và Internet Explorer
-Hôm qua, Microsoft đã phát hành 3 bản nâng cấp nhằm bịt lỗ hổng anh ninh trong hệ điều hành và trình duyệt Internet Explorer 6.0. Hai trong số khiếm khuyết này được đánh giá ở mức nghiêm trọng.
-Bản thứ nhất (MS05-001) được thiết kế để giải quyết lỗ hổng an ninh xung quanh bộ điều khiển HTML Help ActiveX trong Windows. Sai sót này giúp những kẻ tấn công có thể kiểm soát hoàn toàn hệ thống, tung ra những phần mềm nguy hiểm như spyware... mà người dùng không hề hay biết.
-Bản thứ 2 (MS05-002) dành cho các lỗi về định dạng con trỏ và biểu tượng icon trong hệ thống Windows NT Server và Windows XP. Kẻ tấn công có thể khai thác lỗ hổng này bằng cách tạo ra 1 trang web rồi lừa người sử dụng click vào các icon có đính kèm những phần mềm nguy hiểm. 
-Microsoft cũng cung cấp một bản vá lỗi khác (MS05-003) để khắc phục khiếm khuyết trong dịch vụ lập chỉ mục (indexing service) của Windows với mức đe doạ được đánh giá là đáng kể nhưng không nghiêm trọng. Do những thành phần trong danh mục dịch vụ này đã được tắt theo chế độ mặc định nên kẻ tấn công rất khó xâm nhập vào hệ thống.
-Những bản vá lỗi này là một phần trong chương trình cập nhật hàng tháng của Microsoft. Tháng 12 vừa qua, hãng phần mềm Mỹ đã không phát hành bất kỳ bản vá nào cho những lỗi được phát hiện trước đó. 
-

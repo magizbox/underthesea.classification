@@ -1,4 +1,0 @@
- Tìm ra lỗi bảo mật, thưởng 10.000 USD
-Lỗi được tìm thấy sẽ phải gửi lên Microsoft Security Bulletin vào ngày 31-3. Theo qui định, mức độ nguy hiểm của lỗi bảo mật được đánh giá nghiêm trọng là có thể khai thác lỗi này mà không cần đến những thao tác kỹ thuật để cho phép “sinh sôi” và lan truyền sâu Internet. 
-Năm ngoái, iDefense Labs đã công bố 150 lỗi bảo mật trong nhiều sản phẩm máy tính bao gồm 11 phần mềm của Microsoft. Việc mua lại các lỗi bảo mật cũng không còn là lạ, Tipping Point của 3Com cũng đã mua lại thông tin lỗi bảo mật được tìm thấy bởi chương trình của hacker mang tên ZDI (Zero Day Initiative). 
-

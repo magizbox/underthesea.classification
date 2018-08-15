@@ -1,6 +1,0 @@
-Không dịch được bằng phần mềm AV Tran 2.0 (1)
-Toi muon dich doan tieng Anh ra tieng Viet sau khi scanner vao may PC qua phan men AV Tran 2.0 nhung khong dich duoc. Mong cac anh chi giup. Xin cam on. 
-Mai Thanh Lam
-Hồi âm:
-Khi scan van ban bang may quet, ban phai chuyen hinh anh sang dang vecto, co the la dinh dang .txt, rtf, doc... sau do vao EV tran mo file van ban, chon select all, vao Run, chon translate (hoac dung bieu tuong tren thanh cong cu). Toan bo van ban se duoc dich sang tieng Viet. Ban co the vao tools/options de lua chon cac xac lap theo y ban. Chuc thanh cong. 
-

@@ -1,8 +1,0 @@
-Sâu giả danh game 'Grand Theft Auto' lậu
-Một chương trình mới đang bắt đầu hướng mục tiêu vào game thủ khi ẩn dưới những phiên bản nổi tiếng tải qua mạng chia sẻ ngang hàng P2P như Need for Speed Underground 2, Grand Theft Auto: San Andreas và hơn 400 game khác.
-Sâu Hagbard.A sẽ tự sao chép chính nó tới các thư mục chia sẻ file trên máy tính bị khống chế và mở rộng qua Windows Messenger. Một tin nhắn nhanh kèm link sẽ được gửi tới nhiều người khác với nội dung: "Hãy tải file này về, đây chỉ là một món quà nhỏ".
-"Do sâu có khả năng phát tán dưới dạng thông điệp qua dịch vụ tin nhắn nhanh (IM), một số người dùng có thể bị lừa vì nghĩ rằng liên kết đó là do bạn bè hoặc đồng nghiệp gửi, hơn là một virus máy tính", Graham Cluley, cố vấn cao cấp của Sophos, khuyến cáo.
-Thêm vào đó, sâu Hagbard có một phiên bản khác có thể cài chương trình web server trên máy tính bị nhiễm, cho phép kẻ tấn công truy cập từ xa.
-"Đây là một hành động khá khôn ngoan", Art Gilliland, Giám đốc quản lý sản phẩm của IMLogic (Mỹ), cho biết. "Nó tải một web server về máy để tạo cơ hội cho ai đó truy cập và điều khiển hệ thống, chứng tỏ biến thể này nguy hiểm hơn spyware hay phần mềm quảng cáo được tải qua IM rất nhiều".
-Sâu Hagbard có vẻ tinh vi hơn nhưng không lây lan nhanh như những sâu khác. "Chúng tôi nhận được rất ít thông báo lỗi từ phía người sử dụng. Nhưng có thể đó là do khách hàng của chúng tôi chủ yếu là các doanh nghiệp", Cluley giải thích. "Nó sẽ chỉ bùng phát nhanh đối với những người dùng máy tính tại nhà, bởi hầu hết các công ty cấm sử dụng mạng chia sẻ file ngang hàng".
-

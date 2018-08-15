@@ -1,6 +1,0 @@
-SaigonCTT tổ chức đào tạo về cáp mạng
-"Master Cabler  Designer" là chương trình do Trung tâm Nghiên cứu công nghệ kỹ thuật Sài gòn (SaigonCTT) hợp tác với nhà cung cấp giải pháp mạng hàng đầu thế giới KRone tổ chức. Với thỏa thuận này, SaigonCTT trở thành đối tác đào tạo đầu tiên của KRone tại Việt Nam.
-Các sinh viên tốt nghiệp khóa đào tạo KRone đầu tiên sẽ được cấp chứng chỉ về thiết kế và lắp đặt các giải pháp kết nối, sản phẩm, dịch vụ cáp mạng dùng cáp đồng và cáp sợi quang.
-Ông Manish Sogani, Giám đốc điều hành SaigonCTT, cho biết: "Sự hợp tác này cho phép chúng tôi cung cấp dịch vụ đào tạo về một mảng chính yếu của lĩnh vực công nghệ thông tin và viễn thông (ICT). Khách hàng sẽ là sinh viên và cán bộ chuyên môn, những người có ý định hoặc đang làm việc trong ngành ICT".
-Hiện SaigonCTT đào tạo cho hơn 2.500 học viên, trung bình tiếp nhận 1.500 học viên mỗi năm, tăng 25-30%/năm.
-

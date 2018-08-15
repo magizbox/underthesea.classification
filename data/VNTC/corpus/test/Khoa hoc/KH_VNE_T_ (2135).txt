@@ -1,9 +1,0 @@
-Đồng hồ báo thức lôi người ngái ngủ ra khỏi giường
-Một nữ sinh viên Học viện công nghệ Massachusetts vừa làm một cuộc cách mạng về đồng hồ báo thức. Chiếc đồng hồ "khó chịu" này chơi trò ú tim và buộc người ta phải mắt nhắm mắt mở đứng dậy đi tìm nếu muốn tắt tiếng chuông đi. 
-Đồng hồ "Clocky" do Gauri Nanda thiết kế sẽ nhảy khỏi bàn và lăn trên sàn, ngay khi nó bị ấn nút tắt chuông lần đầu tiên, trong khi cái chuông vẫn tiếp tục kêu. 
-Muốn tắt những âm thanh báo thức đó đi, người ta phải rời khỏi giường và đi tìm cái đồng hồ. Clocky có hai bánh xe cao su và được quấn bằng một loại thảm, đề phòng hỏng hóc khi nó làm cú nhào lộn xuống sàn. 
-Một chip điện tử gắn bên trong đồng hồ, điều khiển độ dài quãng đường đi trốn. Vì thế, việc tìm ra nó trong tình trạng buồn ngủ không phải là dễ, bởi mỗi sáng nó chạy đến một điểm khác nhau. 
-Từ khi những lời bàn tán về Clocky xuất hiện trên mạng tháng trước, hộp thư của Nanda ngập lụt trong các mail đề nghị được mua, bán hoặc đầu tư vào phát minh của cô. 
-Một trong số những người quan tâm đến Clocky nói rằng bà bị một hội chứng kinh niên, và thậm chí "10 cái đồng hồ báo thức" cũng không thể khiến bà dậy được. Còn một phụ nữ ở bang Virginia của Mỹ thì viết: "Tôi nghĩ tôi đã lập kỷ lục về việc ấn nút tắt chuông trong 5 giờ liền. Tôi cần sự giúp đỡ và Clocky có thể giúp tôi". 
-Nhưng điều không may cho những người này là Clocky mới sắp đi đến giai đoạn thử nghiệm, chưa thành thương phẩm. 
-

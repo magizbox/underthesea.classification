@@ -1,6 +1,0 @@
-Hotmail mới tăng dung lượng account lên 2 GB
-Microsoft đã phát hành một phiên bản thử nghiệm beta mới của dịch vụ e-mail thuộc hệ thống MSN. Dự án có tên Kahuna này trước mắt được cung cấp cho một nhóm người sử dụng có chọn lọc.
-Hệ thống e-mail mới hiện còn trong giai đoạn thử nghiệm ban đầu nên các đại diện của nhà cung cấp không tiết lộ thêm thông tin gì về chương trình này.
-Kahuna được xây dựng lại gần như từ đầu với mục tiêu làm cho cho dịch vụ trở nên nhanh hơn, an toàn hơn và đơn giản hơn cho người dùng mail trên Internet. Hotmail mới sẽ có dung lượng cho mỗi hòm thư tương đương với không gian lưu trữ mà Google đang áp dụng với Gmail. Bên cạnh đó, hệ thống còn có công cụ biên tập text cao cấp và tích hợp tính năng chống phishing. 
-Dịch vụ mới của Miccrosoft cũng có tính năng tự động nạp mới nội dung (refresh) trong hòm thư giống như Gmail, và một bảng Preview (xem trước) cho phép người dùng đọc và trả lời e-mail ngay trong Inbox mà không cần chuyển sang cửa sổ mới.
-

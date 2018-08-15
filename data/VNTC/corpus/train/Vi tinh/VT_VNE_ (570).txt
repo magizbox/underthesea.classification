@@ -1,6 +1,0 @@
-Thư vào Delete trong Outlook Express 6 (1)
-Các anh chị chỉ giúp em làm thế nào để thư nhận về Outlook Express không vào thư mục Delete mà vào Inbox, một số thư từ địa chỉ khác thì lại không như vậy. 
-Xuân Sơn
-Hồi âm:
-Trên menu chọn Tool / Message Rules / Blocked Senders list.. Tìm địa chỉ đó và xoá đi. Chúc bạn thành công! 
-

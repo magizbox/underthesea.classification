@@ -1,9 +1,0 @@
-Vì sao dùng mạng LAN không thể chat (1)
-Hiện nay tôi đang dùng net qua LAN của công ty. Nhưng tôi không thể dùng một số trang web như Yahoo, Chat. Vậy xin chỉ cho tôi cách để dùng yahoo mail, yahoo messenger. Xin chân thành cảm ơn.
-Trần Xuân Lộc
-Hồi âm:
-Dùng Yahoo Messenger có thể sẽ phải chọn các lựa chọn trong Proxy Setting. 
-Trong YM 7 chọn Messenger - Connection Preferences. Có thể thử 
-Firewall with no proxiesNo proxiesUse proxies
-Nếu dùng lựa chọn này, có thể phải chọn enable HTTP proxies và điền server name và server port. No network detection.
-

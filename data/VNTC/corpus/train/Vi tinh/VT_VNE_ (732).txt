@@ -1,7 +1,0 @@
-Một nhân viên Microsoft ăn cắp mã phần mềm
-Laurent Chavet, từng làm việc cho AltaVista, đã bị bắt giữ tuần trước với tội danh lấy trộm mã nguồn công cụ tìm kiếm nổi tiếng trên cách đây hai năm. Vụ này xảy ra sau khi nhân vật này thôi việc tại hãng dịch vụ search và trước khi được Microsoft thu nhận.
-Hiện nay, Microsft đang tăng cường công nghệ tìm kiếm online của họ nhằm lật đổ vị trí thống soái của Google. Họ đã thành lập một đơn vị chuyên trách thuộc MSN để tích cực phát triển công nghệ search thuật toán riêng. Tami Begasse, phát ngôn viên của hãng phần mềm, xác nhận Chavet, 29 tuổi, quốc tịch Pháp, hiện làm việc trong nhóm nghiên cứu này. Tuy nhiên, vị đại diện từ chối nói rõ hãng phần mềm đã tiến hành thanh tra nội bộ hay chưa.
-Phó chưởng lý Chris Sonderby của tòa án Bắc California, phụ trách các vấn đề sở hữu trí tuệ và hacker, không bình luận gì về khả năng thực hiện một cuộc điều tra xem Chavet có sử dụng công nghệ lấy từ AltaVista ở Microsoft hay không. Lời buộc tội nói trên nhắm vào cá nhân Chavet chứ không phải Microsoft, quan chức tòa án phát biểu.
-Sau khi có mặt tại tòa Seattle tuần trước, Chavet được tại ngoại với số tiền bảo lãnh 10.000USD. Dự kiến, nhân vật này sẽ phải trở lại để xử tiếp vào ngày 20/7. 
-Alta Vista, có trụ sở ở Sunnyvale, California (Mỹ), được công ty dịch vụ quảng cáo và tìm kiếm trực tuyến Overture mua lại và đến năm ngoái thì sáp nhập vào Yahoo. Đại diện của Yahoo cũng từ chối bình luận về vụ này. 
-

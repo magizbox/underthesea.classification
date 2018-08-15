@@ -1,4 +1,0 @@
-Hệ thống máy chủ eServer i5 mới của IBM
-Hôm nay, Big Blue ra mắt thị trường Việt Nam các hệ thống máy chủ đầu tiên sử dụng bộ xử lý Power5 do chính hãng chế tạo. Chạy hệ điều hành i5/OS, thế hệ tiếp theo của OS/400, eServer i5 mới nhắm tới doanh nghiệp vừa và nhỏ.
-Các server mới có thể tích hợp và cùng lúc chạy đa hệ điều hành như i5/OS, Windows, Linux và AIX 5L. Công nghệ máy ảo (Virtualization Engine) mới của IBM có trong hệ thống máy chủ eServer i5 sẽ mở rộng cũng như tăng cường khả năng phân chia ảo và phân hoạch logic.Ông Mizan Ab Rahman, Tổng giám đốc IBM Việt Nam và Đông Dương, cho biết các doanh nghiệp sử dụng máy chủ eServer i5 có thể cải thiện tới 40% chi phí giá cả so với những hệ thống iSeries trước đây. Bộ nhớ, đĩa và các bộ phận cấu thành của các server này có giá tương đương với những hệ thống sử dụng hệ điều hành Unix.
-

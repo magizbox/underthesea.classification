@@ -1,6 +1,0 @@
-Không dùng được Yahoo Messenger trên Linux (1)
-Tôi đang dùng hệ điều hành Linux và tôi muốn hỏi tại sao khi tải Yahoo Messenger về thì lại không thấy hiên ra cửa sổ Chat? Các bạn có cách nào giúp tôi khắc phục được không? Và điều này nữa: tại sao tôi không xem phim được khi đã vào www.itv.com.vn và đã download WINDOWMEDIA Player? Xin cảm ơn các bạn nhiều.
-Nguyen Dang Phong
-Hồi âm:
-Có đúng bạn cài YIM trên Linux không? YIM chỉ có cho REDHAT và DEBIAN. http://messenger.yahoo.com/messenger/download/unix.html#debian&Câu hỏi thứ 2 nếu bạn đã có WMP9, khởi động wmptooloptionfile typesselect allapplyok. 
-

@@ -1,6 +1,0 @@
-Dùng data label tiếng Việt trong MS Excel (1)
-Xin duoc huong dan ve su dung MS Excel. Hien toi dang dung MS Excel 2000 tieng Anh. Neu muon the hien gia tri trong bieu do hay do thi bang tieng Viet (vi du: 23,1 thay vi 23.1 nhu tieng Anh), thi nen lam the nao? Toi moi hoc cach su dung Excel, hon nua nhieu tuoi roi nen tiep thu cham. Xin duoc huong dan cu the cach lam. Cam on cac ban nhieu.
-Doan Vu Dung
-Hồi âm:
-Chao bac, De nghi bac vao "CONTROL PANEL" sau do chon "REGIONAL AND LANGUAGE OPTIONS" trong phan "Regional Options" Bac nen chon "French (France)" thay vi "English" sau do nhap "OK". Dieu nay se lam cho "Data Label" tro thanh kieu VN, chang han nhu: 2,450.00 US bien thanh 2.450,00 US, ngay thang se la NG/TH/NAM. Chuc bac may man.
-

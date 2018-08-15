@@ -1,6 +1,0 @@
-Không sử dụng được IE 6.0 (1)
-Tôi đang sử dụng laptop Dell 800mhz, win xp pro sp1, mấy hôm nay khi vào IE 6.0 thì bị báo lỗi shutdown , nên không thể duyệt web được, dùng các chương trình khác vẫn bình thường, đã quét virus, nhưng không kết quả. Xin vui lòng hướng dẫn giúp. Chân thành cám ơn. 
-Pham Xuan Huong
-Hồi âm:
-Chao ban Xuan Huong. Có phải khi bạn vào Internet khoảng vài phút thì internet báo lỗi, tự động disconnect và tự động shutdown power? Nếu xảy ra hiện tượng này, bạn cần update winxp hot fix kb835732 Bạn nên nhờ một máy khác vào được Internet để download vào http://search.microsoft.com và search "WindowsXP-KB835732-x86-ENU.EXE" Click "Download detail...." de download file nói trên. Nhớ đọc kỹ chỉ dẫn cách update hot fix Sau đó copy file này vào CD đem về máy của bạn và làm theo chỉ dẫn. 
-

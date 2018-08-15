@@ -1,7 +1,0 @@
-SAP liên minh với Microsoft chống Oracle 
-Mendocino, sản phẩm hợp tác của 2 hãng phần mềm lớn nhất thế giới, hứa hẹn giúp quá trình quản lý nhân sự hiệu quả hơn. Giới chuyên môn đánh giá đây là một động thái khá khó chịu đối với Oracle.
-Những công đoạn sắp xếp thời gian, kiểm soát ngân sách, giám sát chi phí và đi lại trong các phần mềm của SAP được tích hợp trực tiếp với Microsoft Office. Ví dụ: người sử dụng có thể đồng bộ hoá thông tin thông qua phần mềm Exchange Server như quản lý e-mail, khai thác dữ liệu của SAP trong Microsoft Excel, nhập dữ liệu bằng InfoPath của Microsoft Office.
-Hiện nay Oracle không chỉ là đối thủ của SAP trong lĩnh vực phần mềm doanh nghiệp mà bản thân Oracle còn cung cấp cơ sở dữ liệu phổ biến nhất để chạy các ứng dụng của SAP. David Bradshaw, nhà phân tích trong lĩnh vực quan hệ khách hàng của hãng nghiên cứu Ovum, cho rằng việc Microsoft tích hợp cơ sở dữ liệu chạy chương trình cho SAP sẽ khiến Oracle phải lao đao.
-Mendocino dự kiến sẽ có mặt trên thị trường vào quý IV năm nay. Tập đoàn Siemens cho biết họ sẽ ứng dụng sản phẩm này và tích hợp công nghệ truyền thông đại chúng với SAP.
-Shai Agassi, một thành viên trong Hội đồng quản trị SAP tuyên bố: "Việc hợp tác sản xuất một sản phẩm có ý nghĩa như thế này sẽ thắt chặt mối quan hệ chiến lược suốt 15 năm của SAP với Microsoft". 
-

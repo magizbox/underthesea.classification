@@ -1,7 +1,0 @@
-Laptop cũng được đi thư giãn
-Đi nghỉ mát là phải vứt bỏ mọi thứ gợi nhớ đến công việc? Sai. Ngày càng có nhiều khách du lịch mang theo chiếc máy tính xách tay yêu quý của mình trong những chuyến xả hơi sau những ngày cầy cuốc căng thẳng.
-AddVote(1000211765,0,175260829,'','Bạn làm gì với chiếc laptop khi đi nghỉ mát?','#FFFFFF','#3F3F3F','100%',4, new Array(new Array('Luôn mang theo.',0,0),new Array('Sắp tới sẽ mang theo.',0,1),new Array('Thỉnh thoảng mới mang.',0,2),new Array('Không bao giờ mang.',0,3)),'',1)
-Khảo sát của hãng Harris Interactive cho thấy gần 1/3 số người được hỏi nói rằng họ luôn mang theo laptop trong kỳ nghỉ và hơn 1/2 khẳng định rất có thể họ cũng sẽ làm như vậy trong những chuyến đi chơi sắp tới.
-72% trong số những người mang theo máy tính khi du lịch sử dụng thiết bị này chủ yếu vào việc gửi/nhận e-mail. Mục đích giải trí như xem phim hay nghe nhạc chiếm 56% và 45% khác dùng laptop để tìm thông tin cho chính chuyến đi của họ.
-Đáng chú ý, có tới 43% số khách du lịch mang laptop đã không thể cưỡng lại được việc xử lý các thư từ công việc mà họ nhận được trên máy trong thời gian đi nghỉ.
-

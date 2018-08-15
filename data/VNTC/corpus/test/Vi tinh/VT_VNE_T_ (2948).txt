@@ -1,6 +1,0 @@
-Google thử nghiệm công cụ search desktop doanh nghiệp 
-Hãng dịch vụ Internet khổng lồ hôm qua  đưa ra sản phẩm tìm kiếm Google Desktop dành cho doanh nghiệp với mục đích giúp nhân viên các công ty tìm kiếm thông tin nhanh cả trên mạng, trong máy tính, e-mail và mạng cục bộ. 
-Phần mềm tải miễn phí này (download tại đây) là sản phẩm được tích hợp giữa "Search Appliance and Mini" của Google (tìm kiếm trên mạng intranet của công ty) với "Lotus Notes" - hệ thống e-mail doanh nghiệp của IBM. Hơn nữa, tất cả dữ liệu được lưu trữ và sắp xếp trên sản phẩm tìm kiếm desktop doanh nghiệp này được gắn mã bảo mật. 
-Hiện nay, tính năng tìm kiếm desktop của Google đã lưu chỉ mục và tìm kiếm được trên những ứng dụng quen thuộc như Microsoft Word và Excel, các tập tin PDF, trang tin được lưu trong cache, thậm chí những tin nhắn nhanh của AOL (AIM) và cả nội dung trong hòm thư Microsoft Outlook. 
-Phần mềm Lotus Notes của IBM có thể giúp Google có thêm đồng minh trong cuộc cạnh tranh với Microsoft khi hãng này đưa ra phiên bản tìm kiếm desktop chính thức và cũng định giới thiệu với các doanh nghiệp.
-

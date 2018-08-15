@@ -1,7 +1,0 @@
-Thiết bị mới buộc tài xế quan sát đường
-Hãng sản xuất ôtô hàng đầu Nhật Bản Toyota vừa phát triển một công nghệ an toàn, mà theo họ nó sẽ giúp cho người lái xe luôn ở trong trạng thái quan sát đường. 
-Đó là một hệ thống máy tính xử lý ảnh, sử dụng một camera gắn ở gần vô lăng để phát hiện ra những lúc tài xế không nhìn thẳng về phía trước. 
-Hệ thống sẽ loé sáng trên màn hiển thị của bảng đồng hồ và phát ra một tiếng "bíp" khi mắt người lái bắt đầu hướng đi chỗ khác. Nếu bác tài vẫn tiếp tục không phản ứng, phanh sẽ được kích hoạt. 
-Thiết bị sẽ được cài đặt trên dòng xe Lexus sang trọng, dự kiến được tung ra thị trường Nhật Bản trong năm tới. Toyota không bình luận về việc liệu thiết bị có được cài đặt cho các dòng xe bán ra thị trường nước ngoài hay không. 
-Toyota cho biết, các nghiên cứu cho thấy hầu hết tai nạn xe hơi xảy ra do tài xế không tập trung. 
-

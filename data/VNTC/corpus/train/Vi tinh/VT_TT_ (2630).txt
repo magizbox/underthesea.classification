@@ -1,5 +1,0 @@
- AMD tung ra 3 chip xử lý lõi kép mới nhất
-Chip Opteron Model 880 chuyên dùng cho các máy chủ cấp cao 16 lõi, 8 đường ra. Chip Opteron 280 dành cho các máy trạm và máy chủ thông thường, còn Opteron Model 180 chuyên dùng cho các máy chủ cấp thấp. 
-Gordon Haff, nhà phân tích của công ty nghiên cứu thị trường Illuminata nhận định rằng AMD hiện đang đối đầu không khoan nhượng trước Intel bằng cách luôn tung ra các sản phẩm đời mới nhất của mình vào những dịp Intel giới thiệu sản phẩm mới. Hiện AMD đã đạt được một số ưu thế hơn Intel trong lĩnh vực chip lõi kép. 
-Opteron Model 880 và Model 280 đã được sẵn sàng bán ra với giá là 2.649 USD và 1.299 USD khi mua từ 1.000 đơn vị trở lên. Opteron Model 180 sẽ được bán ra trong khoảng 30 ngày tới với giá sỉ là 799 USD/chip. 
-

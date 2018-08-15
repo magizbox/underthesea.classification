@@ -1,7 +1,0 @@
-IE 7 hỗ trợ đa ngôn ngữ trong tên miền
-Phiên bản thử nghiệm thứ hai của trình duyệt Internet Explorer 7 (IE 7) sẽ tự động chuyển đổi URL được viết bằng những ngôn ngữ khác nhau với mục đích khiến Internet trở nên phổ biến hơn.
-Vishu Gupta, một chuyên gia trong nhóm phát triển IE, cho biết Domain Names Converted 7 sẽ sử dụng giao diện lập trình ứng dụng (API) để chuyển mã tên miền sang định dạng punycode - trình biên dịch tên miền Unicode được các máy chủ DNS chấp nhận - trước khi nó được gửi tới proxy.
-Người sử dụng có thể tắt chức năng tên miền quốc tế (IDN) trong bảng điều khiển (Control Panel) qua phím mới "International". Và khi đó, IE 7 sẽ thực hiện quy trình xử lý tên miền như trong IE 6 (không hỗ trợ punnycode).
-Sự tương thích IDN mở rộng khả năng tiếp cận Internet cho những người không nói tiếng Anh nhưng cũng tăng cơ hội lừa đảo trực tuyến. Trong kiểu tấn công "chơi chữ", kẻ chủ mưu có thể sử dụng những ký tự giống nhau trên địa chỉ trang web hợp pháp để hướng mọi người đến một site hoàn toàn khác. Ví dụ, số "1" sẽ rất khó được phân biệt với chữ cái "l" hoặc khi ký tự "a" trong bảng chữ cái Kirin được thay bằng "a" theo tiếng Latin.
-Phiên bản thử nghiệm đầu tiên của IE 7 đã xuất hiện từ tháng 7 năm nay và bản nâng cấp mới dự kiến sẽ ra mắt trong quý I/2006. Trình duyệt chính thức sẽ được phát hành trước hệ điều hành Windows Vista vào cuối năm sau.
-

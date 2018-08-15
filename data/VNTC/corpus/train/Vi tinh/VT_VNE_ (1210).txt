@@ -1,6 +1,0 @@
-Thêm một Trojan điện thoại giả dạng game
-Phần mềm tấn công vừa được phát hiện nhắm vào các loại điện thoại thông minh chạy hệ điều hành Symbian. Hãng bảo mật SimWorks cho biết chương trình có tên METAL Gear.A này dụ người sử dụng tải và cài nó dưới dạng tròMetal Gear Solid.
-Giống như sâu Skulls được phát hiện gần đây, METAL Gear.A cũng chèn một phiên bản sâu Cabir vào máy. Khi khi đã làm được điều này, nó có thể tắt tính năng chống virus và các ứng dụng duyệt file. Ngoài ra, METAL Gear.A còn tạo ra một file có tên SEXXXY.sis dành cho điện thoại có tính năng Bluetooth trong vùng sóng cho phép. Nếu người sử dụng thiết bị lân cận chấp nhận file này, nó sẽ tắt nút lựa chọn ứng dụng của điện thoại.
-Nếu bạn download METAL Gear.A hoặc SEXXXY, sẽ rất khó sửa chữa hậu quả, Giám đốc điều hành SimWorks, Aaron Davidson, cho biết. Trojan này có thể vô hiệu hóa tất cả các công cụ trên điện thoại mà người sử dụng cần có để khắc phục những thiệt hại mà nó gây ra.
-SimWorks là công ty phần mềm chuyên cung cấp ứng dụng diệt virus cho máy điện thoại chạy hệ điều hành Symbian.
-

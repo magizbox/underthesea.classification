@@ -1,6 +1,0 @@
-VoWi-Fi - phương thức liên lạc tương lai
-Đây là sự kết hợp của hai công nghệ đang rất được quan tâm hiện nay: VoIP giúp doanh nghiệp giảm chi phí viễn thông, và những sản phẩm hỗ trợ chuẩn Wi-Fi dùng trong mạng dữ liệu không dây.
-Giới chuyên môn tham gia một cuộc hội thảo tại Mỹ mang tên "Điều gì tiếp theo 802.11 và Wi-Fi?" đều khẳng định VoIP và Wi-Fi có tầm ảnh hưởng lớn nhất. Frank Hanzlik, Chủ tịch Hiệp hội Wi-Fi (Wi-Fi Alliance), cho biết: "Chúng tôi đang tiến hành cuộc chuyển đổi từ ứng dụng máy tính sang những sản phẩm điện tử dân dụng và thiết bị hội tụ thế hệ mới". 
-Việc kết hợp mạng voice (giọng nói) và mạng data (dữ liệu) sẽ thay đổi phương thức liên lạc của mọi người, đặc biệt là trong doanh nghiệp. Một ví dụ cho viễn cảnh của VoWi-Fi là điện thoại để bàn sẽ được kết nối trực tiếp với các điểm truy cập Wi-Fi.
-VoIP cho phép thực hiện các cuộc gọi qua Internet. Trong khi đó, hầu hết máy tính xách tay ngày nay tích hợp Wi-Fi, và hiện tại có tới hơn 62.000 điểm truy cập hotspot trong các nhà hàng, khách sạn, quán cafe, sân bay, trường học... trên toàn thế giới, theo tổng kết của Wi-Fi Alliance. Do đó, các chuyên gia nhận định việc liên lạc qua Wi-Fi hay gọi tắt là VoWi-Fi dùng cho điện thoại, máy xách tay, thiết bị PDA không còn quá xa xôi.
-

@@ -1,3 +1,0 @@
- 
-Một hệ thống phiên dịch và nhận dạng ngôn ngữ tự động sẽ ngay lập tức dịch tiếng nói của con người sang ngôn ngữ khác thông qua việc gắn các dây điện cực ở má và cổ họng. Đây là phát minh của các nhà khoa học thuộc Đại học Carnegie Mellon (Mỹ) và Đại học Karlsruhe (Đức). 
-

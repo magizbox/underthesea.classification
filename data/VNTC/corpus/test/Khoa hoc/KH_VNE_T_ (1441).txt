@@ -1,8 +1,0 @@
-Hệ thống đỗ xe ngầm sản xuất tại Việt Nam
-Một kiến trúc sư tại TP Hồ Chí Minh đã sáng chế ra một hệ thống đỗ xe tự động có thể chứa được cùng lúc 400 ôtô và có giá thành chỉ bằng 1/3 công nghệ nước ngoài. Anh hy vọng ý tưởng của mình sẽ giúp giải quyết bài toán chỗ đậu xe ở các thành phố lớn.
-Anh Nguyễn Chính Luận, tác giả hệ thống, cho biết máy đậu xe tự động gồm 2 phần chính là chỗ để xe (cố định) và mâm nâng hạ xe (tự động). Chỗ để xe là một ống hình trụ bê tông cốt thép, nằm dưới mặt đất, có đường kính 24 m, gồm 12-15 tầng chồng lên nhau. Mỗi tầng có chiều cao 1,9 m và chứa được 18 xe.
-Mâm nâng hạ xe gồm 2 phần bằng thép chồng lên nhau, cách nhau khoảng 2 m, được nâng hạ bằng một hệ thống thủy lực tự động. Trên mỗi mâm có treo 2 tay robot được lập trình để lấy xe ra - vào. Mỗi lần có thể nạp vào và lấy ra 18 xe.
-Anh Luận cho biết sáng chế của mình dựa trên công nghệ nước ngoài và đã được cải tiến để phù hợp với điều kiện Việt Nam. Công nghệ của anh có thể giúp tiết kiệm 30 lần diện tích đỗ xe và so với công nghệ của nước ngoài, hệ thống giảm tới 1/3 chi phí sản xuất. Sản phẩm đã đăng ký bản quyền ở Cục Sở hữu trí tuệ Việt Nam.
-Hiện anh Luận mong muốn tìm nhà tài trợ để có khoảng 60 triệu đồng làm mô hình thu nhỏ hệ thống đỗ xe tự động. Anh cũng mong tìm được đối tác để liên kết sản xuất hoặc chuyển giao công nghệ.
-Địa chỉ liên hệ: 137 Lê Đức Thọ, p.16, q. Gò Vấp, TP HCM. Điện thoại: 08 8949187 - 0918605642. 
-

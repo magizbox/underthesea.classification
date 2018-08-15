@@ -1,4 +1,0 @@
-Lỗi privacy settings 
-Tôi vẫn thường cài phần mềm Yahoo Umsgruk vào máy của mình để sử dụng nhưng không hiểu tại sao mỗi lần nhập địa chỉ ID mới vào là bị lỗi privacy settings không gửi đi hoặc nhận được tin của người tiếp xúc với mình. Tôi muốn hỏi cài cách nào để Yahoo tự động ignore only the people below mà không phải chuyển?
-Vu Huong
-

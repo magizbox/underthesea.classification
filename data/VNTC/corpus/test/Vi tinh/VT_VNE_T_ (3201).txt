@@ -1,9 +1,0 @@
-Thông tin mới về Internet Explorer 7
-Gordon Mangione, Giám đốc điều hành cao cấp của Microsoft, đã tiết lộ thêm  nhiều phần nâng cấp bảo mật trong phiên bản mới của Internet Explorer (IE), bao gồm khả năng chống spyware và cơ chế giới hạn truy cập.
-Gordon khẳng định IE 7 sẽ chạy mặc định trên chế độ hạn chế quyền ưu tiên (reduced-privilege), để tránh bị tấn công từ xa qua trình duyệt - một nguy cơ khiến các nhà phát triển đau đầu và làm giảm uy tín của Microsoft thời gian qua.
-Microsoft cho biết trình duyệt mới sẽ thay đổi cách thực thi file, kèm theo tính năng chống spyware và phishing, đồng thời chặn hình thức truy cập cross-domain scripting (mã liên vùng). Ngoài ra, trình duyệt sẽ hỗ trợ tên miền quốc tế, tích hợp RSS, công cụ tìm kiếm và tính năng in ấn kiểu mới.
-Một số cải tiến khác bao gồm giao diện người dùng SSL đẹp hơn và được tích hợp công cụ Windows AntiSpyware.
-Microsoft từng tuyên bố IE 7 sẽ vượt trội hơn tất cả những nâng cấp bảo mật gần đây. Trình duyệt, mang tên mã Rincon, sẽ hoạt động trên Windows XP Service Pack 2, Windows Server 2003 Service Pack 1 và Windows XP Professional x64. Microsoft thậm chí đã  quyết định ngừng cập nhật những bản IE không phù hợp với hệ điều hành mới.
-Hãng cũng khẳng định IE 7 sẽ cải tiến 2 chuẩn web chủ yếu - Cascading Style Sheet (CSS) và đồ họa PNG. Từ nhiều năm qua, sự hỗ trợ không đầy đủ cho những tính năng này đã khiến các nhà phát triển web phải tạo ra hai phiên bản khác nhau trên cùng một site của mình - một hỗ trợ IE và một hỗ trợ trình duyệt theo chuẩn như ý.
-Gordon tiết lộ hiện nay có tới 30% hệ thống máy tính Windows bị spyware quấy phá.
-

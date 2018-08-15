@@ -1,7 +1,0 @@
-Kỹ thuật nhận biết trứng dễ vỡ
-Ở các trang trại tại Anh, một kỹ thuật mới ra đời giúp các nông dân chăn nuôi gia cầm có thể phát hiện ra quả trứng nào có nguy cơ bị rạn nứt trước khi đem đi đóng gói.
-"Đó thực sự là một vấn đề lớn đối với các nông dân. Khoảng 10% số trứng bị tổn thất do rạn vỏ", Ian Dunn tại Viện Roslin ở Edinburgh, Anh, người đứng đầu nhóm nghiên cứu, nói. 
-Những quả trứng dập không chỉ gây tổn thất chi phí cho các nông dân mà còn chứa nguy cơ tiềm ẩn cho người tiêu dùng bởi chúng có thể đã bị những con vi khuẩn nguy hiểm xâm nhập vào. 
-Dunn cho biết chìa khoá để phát hiện ra những quả trứng có vỏ yếu là một cái máy sử dụng nhịp đập âm thanh để gõ từng quả trứng, khiến cho vỏ trứng dội tiếng lại. Bằng cách phân tích tần số tiếng vang, bộ cảm ứng có thể xác định tình trạng của vỏ trứng. 
-"Nó sẽ cho phép chúng ta khả năng phán đoán quả trứng nào có nguy cơ bị vỡ", Dunn nói.
-

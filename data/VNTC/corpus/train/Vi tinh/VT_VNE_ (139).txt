@@ -1,8 +1,0 @@
-Đánh máy trên mẫu Scan (2)
-Tôi có một thắc mắc nhờ các bạn chỉ dẫn giùm cho: tôi muốn đánh máy vào những tờ đơn (applications) mà tôi đã scan vào máy Vi Tính, tôi phải cần làm những gì sau khi Scan? Tôi đã làm thử như giữ lại ở dạng .doc nhưng vẫn không làm được, nhờ các bạn giúp cho tôi. Thành thật cám ơn.
-Uyen Khanh
-Hồi âm:
-Bạn thử dùng chương trình ABBYY FineReader để Scan, sau đó chỉnh sửa nội dung như một văn bản Microsoft Word. Tải ở địa chỉ: http://www.abbyy.com/. Chúc bạn thành công. 
-Nguyen Hoang Ha
-Neu ban co Word 2000 thi mo chuong trinh nay ra, sau do ban paste mau don cua ban vao, ke tiep ban chon phan WordArt cua chuong trinh Word 2000 de viet chu, khi viet chu xong ban bam ok, ke tiep ban di chuyen nhung chu da viet vao nhung hang thich hop ma mau don da an dinh. Chuc ban thanh cong. Co gi thac mac xin lien lac rieng voi toi theo dia chi leoanh9@aol.com. 
-

@@ -1,4 +1,0 @@
-Khởi động PC chỉ xuất hiện màn hình đen
-Tôi mốn hỏi tại sao sau khi tôi khởi động máy tính của tôi lên thì chỉ có màn hình đen ngòm và có một con trỏ nháp nháy ở đầu màn hình. Nếu mà tháo Pin ra thì lại khởi động được nhưng mà cũng không vào được trong Win. Hãy chỉ giúp tôi càng sớm càng tốt nhé. Cảm ơn nhiều.
-Nguyễn Quang Hải
-

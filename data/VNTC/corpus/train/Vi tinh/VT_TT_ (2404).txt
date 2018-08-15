@@ -1,6 +1,0 @@
- Microsoft trả gần 2 tỷ USD để giảng hòa với Sun
-Theo thỏa thuận 10 năm, Microsoft sẽ trả cho Sun 700 triệu USD để giải quyết vấn đề chống độc quyền, và 900 triệu USD để sử dụng bằng phát minh. Hai công ty cũng sẽ trả tiền sử dụng công nghệ của nhau. Trước mắt, người khồng lồ về phần mềm sẽ chi 350 triệu USD, còn Sun sẽ trả sau tùy vào mức độ sử dụng. 
-Dự kiến, Sun và Microsoft sẽ hợp tác để cải tiến công nghệ .Net và Java. Microsoft sẽ tiếp tục hỗ trợ khách hàng dùng Java Virtual Machine - phần mềm quan trọng để chạy các chương trình java. Còn với bản quyền công nghệ của Microsoft, Sun có thể xây dựng máy chủ cho khách hàng đang dùng Windows. 
-Ngoài ra, hai bên cũng hợp tác về hệ thống quản lý nhận dạng, cho phép người dùng vào hàng loạt website với một tên truy cập và mật khẩu. 
-Tuy nhiên, lấy được tiền không có nghĩa sẽ giúp Sun thoát khỏi những khó khăn tiềm ẩn trong thời gian tới, và điều gì sẽ xảy ra khi cả hai đều khẳng định: “Chúng tôi sẽ tiếp tục cạnh tranh, như thỏa thuận này được xem là một bước tiến cộng tác lớn, mang lại lợi ích cho cả hai hãng cũng như khách hàng, Giám đốc điều hành Microsoft, Steve Ballmer, nói. 
-

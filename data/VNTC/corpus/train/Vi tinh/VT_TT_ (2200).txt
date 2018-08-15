@@ -1,7 +1,0 @@
- Hitachi giới thiệu chip RFID nhỏ nhất thế giới
-Con chip IC phát sóng radio này có kích thước dài rộng mỗi chiều chỉ là 0,15 mm và dày chỉ khoảng 7,5 micromet, tức vô cùng khó thấy bằng mắt thường và nếu không cẩn thận thì ai đó có thể hít thẳng nó vào phổi của mình. 
-Vào năm 2003, Hitachi đã dập kỷ lục với một con chip RFID mỗi chiều chỉ là 0,4 mm. Đến năm 2004 Hitachi tiếp tục phá kỷ lục của mình với một con chip RFID khác với kích thước mỗi chiều là 0,3 mm và nay Hitachi đã đột phá kích thước con chip RFID này xuống chỉ còn 0,13 mm mỗi chiều. 
-Công nghệ xác thực danh tính bằng tần số radio, hay RFID, đang được khá nhiều kho hàng và đại lý bán lẻ ưa chuộng vì tính đơn giản và ưu việt của nó trong việc khai thác các dữ liệu lưu trong con chip. 
-Nokia cho biết rằng việc đưa thông tin sản phẩm tới với thiết bị di động sử dụng RFID có thể mở rộng giới hạn của công nghệ này, "vượt ra khỏi lĩnh vực phân phối đại lý để ứng dụng trong dịch vụ khách hàng, buôn bán, marketing và quản trị thương hiệu". 
-Ví dụ như các đại lý có thể bố trí những biểu tượng "tiếp xúc với điện thoại tại đây", có tích hợp chip RFID trong đó, tại các quầy hàng để gửi phiếu báo giá tới điện thoại. Thông tin cá nhân lưu trong điện thoại cũng có thể truyền dẫn nhanh chóng đến hệ thống máy tính đặt tại quầy thu ngân để viết giấy bảo hành cho sản phẩm vừa mua. 
-

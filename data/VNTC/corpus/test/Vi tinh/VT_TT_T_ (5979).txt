@@ -1,8 +1,0 @@
- Yahoo xây dựng thư viện điện tử miễn phí
-Ngoài ra Yahoo cũng sẽ đưa vào thư viện điện tử của mình toàn bộ các file âm thanh và video dữ liệu có giá trị. Đây là động thái cạnh tranh trực tiếp của Yahoo đối với dự án Google Print. 
-Ngoài ra Yahoo cũng cố gắng tránh “vết xe đổ” của Google Print khi đã lên kế hoạch xin phép bản quyền đàng hoàng. 
-Sát cánh cùng Yahoo trong dự án này là Liên minh cung cấp nội dung miễn phí. Liên minh này bao gồm các nhà lưu trữ và quản lý nội dung Internet miễn phí, các thư viện công cộng ở các đại học California và Toronto, cùng với các đại công ty như Adobe, HP…Các thông tin cung cấp bao gồm sách vở, diễn văn, âm thanh, video và âm nhạc. 
-Yahoo và Liên minh cung cấp nội dung miễn phí sẽ bắt đầu công việc của mình bằng cách nhập dữ liệu từ các nhà cung cấp nội dung Internet miễn phí, cũng như kêu gọi các tác giả cho phép đưa tác phẩm của mình lên thư viện này nếu họ cảm thấy thích thú với điều này. David Mandelbrot, phó chủ tịch phụ trách tìm kiếm nội dung của Yahoo cho biết:”Tất cả những gì chúng tôi đưa lên mạng đều phù hợp với luật bản quyền”. 
-18.000 đầu sách văn học Mỹ sẽ được đưa vào cơ sở dữ liệu, bao gồm toàn bộ các tác phẩm của Mark Twain, Henry James, Edgar Allan Poe… Ngoài ra các thư viện lưu trữ quốc gia của Anh và châu Âu cũng sẽ nhiệt tình cung cấp dữ liệu cho Yahoo thực hiện thành công dự án này. 
-Công việc khổng lồ này đã được bắt đầu và sẽ kết thúc vào khoảng cuối năm 2006. Một số nội dung đã được cập nhật sẽ được đưa lên phục vụ miễn phí cho mọi người trên Yahoo vào cuối năm nay nhưng hiện Yahoo chưa công bố địa chỉ truy cập vào thư viện điện tử này. 
-

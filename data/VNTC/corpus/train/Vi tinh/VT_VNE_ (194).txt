@@ -1,6 +1,0 @@
-Chương trình đào tạo chuyên gia hệ thống mạng
-Trung tâm nghiên cứu công nghệ kỹ thuật Sài Gòn (SaigonCTT) sẽ triển khai chương trình đào tạo dài hạn chuyên gia hệ thống mạng - eSystem Network Professional Program - dành cho sinh viên và học sinh tốt nghiệp PTTH. Khóa đầu tiên sẽ được khai giảng vào ngày 5/4. 
-Chương trình học kéo dài hai năm, được xây dựng dựa trên nền tảng những chương trình đào tạo của các hãng Cisco, Sun Microsystems và Microsoft. Học viên được trang bị những kiến thức và kỹ năng thiết thực về phần cứng máy tính, mạng Internet/Intranet, hệ điều hành máy chủ Unix, Linux và Windows, ngôn ngữ lập trình Java để có thể trở thành chuyên gia quản trị hệ thống mạng với các kỹ năng chuyên nghiệp thiết kế, khai thác, quản trị, xử lý sự cố những hệ thống mạng phức hợp kết nối các máy chủ chạy trên hệ điều hành và Internet.
-Ông Nguyễn Tam Trung, Giám đốc SaigonCTT, cho biết đây là lần đầu tiên SaigonCTT triển khai chương trình đào tạo mới này nhằm phát triển đội ngũ nhân lực cao cấp cho ngành công nghệ thông tin Việt Nam, đáp ứng nguồn nhân lực mà các doanh nghiệp hiện có nhu cầu.
-Hạn chót nộp hồ sơ đăng ký là 15/3.
-

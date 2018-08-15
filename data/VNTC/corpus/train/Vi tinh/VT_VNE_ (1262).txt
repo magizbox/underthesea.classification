@@ -1,7 +1,0 @@
-Không xem được DVD trên laptop (1)
-Toi co mot may tinh xach tay IBM T23, co o DVD, hieu TOSHIBA model SD2303 gan kem theo may. Toi co mua mot so dia DVD nhung khi bo vao may thi van nhan duoc dia nhung khong xem duoc. Xin cho biet nguyen do va cach khac phuc. Xin chan thanh cam on.
-Bac Thai Phuong
-Hồi âm:
-Ban Thai Phuong men. Truong hop Laptop cua ban van nhan duoc dia nhung lai khong xem duoc co nhieu nguyen do. Mot trong nhung nguyen do do co the la o DVD cua ban khong duoc mo code free. Theo quy dinh quoc te thi DVD Player (hoac DVD drive dung cho may vi tinh) san xuat cho khu vuc nao thi chi play duoc dia DVD mang code cua khu vuc do. Co tat ca 6 khu vuc tren the gioi dong nghia voi co 6 regional code. Ban co the chinh regional code trong chuong trinh dung de play DVD cho tuong ung voi code cua dia DVD (ban phai biet regional code cua dia DVD). Thong thuong cac chuong trinh nay chi cho phep ban thay doi regional code toi da la 5 lan. Sau lan thu 5 thi DVD drive cua ban se co regional code cua lan thay doi cuoi cung. Vi vay ban phai rat can than khi thay doi regional code cua DVD Drive.
-Cung co the dia DVD ban mua la dia copy, con DVD Drive cua ban lai khong phai la Multi Format nen khong the doc duoc cac loai dia DVD co format nhu -R/RW, +R/RW. 
-

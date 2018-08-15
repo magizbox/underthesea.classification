@@ -1,8 +1,0 @@
-So sánh chip AMD Athlon XP và AMD Sempron (2)
-Toi dang muon mua 1 chip AMD vay cho toi hoi: Chip AMD Athlon XP khac voi chip AMD Sempron o diem gi? Co phai chip AMD Sempron la cung loai voi chip AMD Duron khong? chip AMD Athlon XP 2800+ thi nhiet do trung binh la bao nhieu? Xin cho toi biet 1 so noi ban chip va main AMD tai Ha Noi duoc khong? Xin chan thanh cam on.
-Hiep NQuang
-Hồi âm:
-AMD Duron là hậu duệ của chíp AMD Sempron, Sempron hỗ trợ các ứng dụng có tốc độ cao ( 64 bit). Nhiệt độ tối đa của AMD athlon XP 2800+ là 85 độ C đối với athlon XP 2700+, 2800+ thì chỉ được cài trên các loại bo có tiêu chuẩn 166 MHz FSB clock speed như VIA KT333,KT400 hoặc SIS 746, RAM thì phải loại DDRAM 333, chip set nforce2. nguồn điện cho XP 2800+ là 75.3 watt XP 2700+ thì 68.3 watt. XP 2400+ cho đến 2800+ nếu thuộc loại ( b core) khi nhiệt độ vượt qua hạn cho phép thì CPU sẽ bị hỏng vì bo chủ không bảo vệ được. Còn đối với chip AMD Sempron sẽ tự ngắt dòng điện để bảo vệ lấy CPU.
-TOM
-Sempron la chip ra đơi sau Duron va dung đê thay thê Duron trong hê thông chip xư ly câp thâp cua AMD ( dong chip câp cao la Athlon va Athlon64 ) ........ Va Sempron chi chay đươc Hê điêu hanh 32bit.Nêu muôn biêt thêm chi tiêt vê chip cua AMD , xin anh Hiep NQuang vui long vao forums chung tôi đê tim hiêu thêmwww.vozforums.com.
-

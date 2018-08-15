@@ -1,6 +1,0 @@
-Tắt rồi PC vẫn tự khởi động lại (1)
-Máy vi tính tôi có modem. Khi turn-off xong thì tắt máy, nhưng khi nhấc điện thoại lên thì tự nhiên nó khởi động lại. Tôi không biết làm sao? Mong các bạn giúp đỡ. Cám ơn. Thân ái.
-Tuấn Anh
-Hồi âm:
-PC của bạn đang ở chế độ tự động bật khi có tín hiệu của modem (điều này rất có lợi nếu bạn sử dụng PC để nhận FAX). Bây giờ bạn vào BIOS của máy tìm phần quản lý về nguồn điện (Power Management) rồi tắt (disable) chức năng để modem tự động bật (Auto turn on) hoặc tự động thức (Auto Wake Up). Tốt nhất là bạn nên đọc kỹ hướng dẫn sử dụng của máy hoặc/và của bo mạch chủ. 
-

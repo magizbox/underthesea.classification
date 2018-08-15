@@ -1,8 +1,0 @@
-Dùng Outlook Express 6 trong LAN (2)
-Các anh chị chỉ dùm cho em biết chương trình Outlook Express 6 có thể nhận thư từ các máy nối mạng LAN được không? Nếu có chương trình nào có thể làm được thao tác này anh chị chỉ dùm với ạ.Rất mong nhận được thư phản hồi. Chân thành cảm ơn!
-Huy
-Hồi âm:
-Điều này phụ thuộc vào mạng LAN của bạn. Nếu mạng LAN của bạn được kết nối vào Internet thì hoàn toàn được. Nếu chỉ là mạng LAN độc lập thôi (không kểt nối vào internet) nhưng có một exchange server thì cũng được (trường hợp này thì tốt nhất là dùng Outlook, chứ không nên dùng Oulook Express). Còn lại thì không. 
-Dong Ngo
-Neu ban muon trao doi email tu cac may noi mang qua Outlook express 6 thi ban phai co a mail server such as exchange server etc..etc.. Neu ban chi don thuan muon trao doi message qua canmay LAN thi trong cac OS deu co feature send message chang han nhu Windows NT 4.0, 2000 and XP. Hy vong da giup ban duoc phan nao.
-

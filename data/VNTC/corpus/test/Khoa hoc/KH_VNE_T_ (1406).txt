@@ -1,6 +1,0 @@
-Robot biết đạp xe 
-Các nhà khoa học Nhật Bản vừa cho ra mắt một chú robot nhỏ bé biết đi xe đạp và có thể dừng lại mà không bị ngã. Robot Murata Boy do hãng Murata chế tạo, chỉ nặng 5 kg và cao 50 cm, có thể lái xe với tốc độ 76 cm/giây và được điều khiển bởi một máy tính không dây.
-Chú robot được công bố tại Triển lãm kết hợp công nghệ tiên tiến 2005, tại Makuhari Messe, gần Tokyo, hôm 4/10.
-Các kỹ sư cho biết, khâu khó khăn nhất khi chế tạo robot là làm sao để nó giữ thăng bằng khi đi xe đạp. Họ đã giải quyết vấn đề này bằng cách gắn các cảm biến đặc biệt trên thân robot, cho phép nó nhận ra tốc độ và góc nghiêng, từ đó đưa ra các điều khiển thăng bằng. 
-Murata Boy có giá 5 triệu yên, tương đương 43.744 USD. Hãng Murata đã chế tạo một phiên bản robot đi xe đạp từ năm 1990 nhưng đây là phiên bản mới nhất có thể dừng xe lại mà không bị ngã. 
-

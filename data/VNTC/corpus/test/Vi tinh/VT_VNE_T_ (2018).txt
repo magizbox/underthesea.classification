@@ -1,5 +1,0 @@
-Mã khai thác RealPlayer và Internet Explorer được công bố
-Đây là những đoạn mã lợi dụng kết hợp cả khiếm khuyết trong phần mềm nghe nhìn RealPlayer với lỗ hổng trong trình duyệt của Microsoft, giúp kẻ tấn công khống chế hệ thống.
-Chi tiết về lỗi này được một người xưng danh http-equiv đăng lên trang tin của hãng phần mềm an ninh Secunia (Đan Mạch). Lỗi liên quan đến việc file RealMedia (có đuôi .rm) có thể mở các file nội bộ trong trình duyệt gắn với RealPlayer. Điều này có nghĩa là một website của hacker có thể tải văn bản HTML vào một nội dung nội bộ bằng cách sử dụng một file RealMedia được thiết kế đặc biệt.
-Người công bố lỗ hổng cho biết anh ta đã xác nhận khiếm khuyết trong RealPlayer 10.5 nhưng các phiên bản khác cũng có thể có nguy cơ. Người sử dụng được khuyến cáo nên tránh mở các file RealMedia không rõ nguồn gốc và hạn chế những tệp tin như vậy được mở tự động trong phạm vi trình duyệt.
-

@@ -1,5 +1,0 @@
-R3.40 - phần mềm quản lý sản xuất, quan hệ khách hàng
-Hãng Diginet vừa cho ra đời phiên bản mới của phần mềm Lemon3 (r) ERP với tên R3.40. Ngoài việc bổ sung những tính năng cao cho các nhóm module tài chính, cung tiêu, nhân lực, giá thành và phân tích quản trị, phiên bản này còn có 2 nhóm module mới là quản lý quan hệ khách hàng (CRM) và quản trị sản xuất.
-Nhóm module CRM bao gồm chiết khấu và khuyến mãi, quản lý thương vụ cũng như quan hệ, nhằm hỗ trợ cho doanh nghiệp trong lĩnh vực thương mại sản xuất. Phần quản trị sản xuất thì bao gồm kế hoạch và năng lực sản xuất. Công cụ đặc biệt LemonWed sẽ giúp người dùng truy cứu dữ liệu hay xem báo cáo bằng trình duyệt trên mạng nội bộ (LAN) hay mạng diện rộng (WAN).
-Diginet cũng đưa ra sản phẩm mới có tên Lemonseed "hệ thống kiểm soát nội bộ", nhằm bổ sung cho Lemon3 một cách hoàn chỉnh nhất. Trước đây, việc triển khai Lemon3 còn gặp phải một vài khó khăn do đa phần các doanh nghiệp chưa sẵn sàng về mặt tổ chức, quy trình hoạt động.
-

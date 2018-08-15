@@ -1,8 +1,0 @@
-Hacker 'lộng hành' ở Hàn Quốc
-Hôm 19/6, tin tặc đã đột nhập vào 64 máy tính của các cơ quan chính phủ và viện nghiên cứu quan trọng của nước này.
-Trung tâm An ninh mạng quốc gia Hàn Quốc (NCSC) cho biết hacker đã xâm hại các máy tính của Cơ quan phát triển quốc phòng, Viện nghiên cứu năng lượng nguyên tử, Viện phân tích quốc phòng và 3 cơ quan chính phủ khác (Bộ Hải sản và Thủy sản, cơ quan cảnh sát hàng hải và cơ quan điều hành các công ty vừa và nhỏ).
-NCSC đã phát hiện máy tính của một số cơ quan nhà nước bị nhiễm biến thể Trojan Peep và đã tiến hành thực hiện một số biện pháp khẩn cấp. Họ còn phối hợp cùng Bộ quốc phòng, Cơ quan cảnh sát quốc gia và Bộ Thông tin ngăn chặn site của hacker để bảo vệ các tài liệu quan trọng không bị mất trộm.
-Trung tâm nhận định hiện nay, khả năng bị mất trộm dữ liệu không còn là mối nguy hiểm nữa vì website mà hacker sử dụng để tấn công đã bị phong tỏa. Tuy nhiên, NCSC không cho biết liệu có thông tin nào đã bị mất trộm trước khi họ hành động hay không.
-Tháng 5 vừa rồi, Lực lượng chống tội phạm Internet của Đài Loan đã bắt giữ được tác giả của chương trình Peep, Wang Ping-an, 30 tuổi. Khi không thể bán được loại phần mềm ăn cắp dữ liệu của mình, Wang đã công bố miễn phí chương trình đó lên một số website của hacker.
-Virus này hoạt động trong những file đính kèm e-mail, và nó sẽ "khởi động" khi người dùng mở những file này, từ đó hacker có thể truy cập vào dữ liệu của máy tính nạn nhân.
-

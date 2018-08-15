@@ -1,6 +1,0 @@
-Mỹ bác bỏ danh sách cấm gửi thư rác
-Hôm thứ ba, chính phủ Mỹ tuyên bố sẽ không xây dựng danh sách đăng ký những địa chỉ không nhận spam nhằm ngăn những bức email không mong muốn vì e ngại điều này có thể phản tác dụng.
-Theo giải thích của Ủy ban Thương mại Liên bang (FTC) trước Quốc hội, những kẻ gửi thư rác có thể sẽ khai thác danh sách để tìm ra những nạn nhân mới.
-Với tên gọi Do not Spam, đề xuất lập đăng ký những địa chỉ cấm gửi spam là một nỗ lực chống thư rác được rập khuôn theo chương trình kiểm soát tiếp thị qua điện thoại rất thành công Do not Call của FTC. Tuy nhiên, sau khi nghiên cứu, FTC kết luận, không giống với mạng lưới điện thoại được quy định chặt chẽ của Mỹ, trên mạng toàn cầu Internet, các nhà điều hành sẽ hầu như không có khả năng xác định thủ phạm lạm dụng danh sách đăng ký.
-Một giải pháp thay thế được đề xuất là xây dựng công nghệ thẩm định quyền khiến việc ngụy trang nguồn gốc của spam trở nên khó khăn hơn. Một số đề xuất khác từ những công ty công nghệ hàng đầu, trong đó có Microsoft, đang được FTC xem xét.
-

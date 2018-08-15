@@ -1,8 +1,0 @@
-Siêu máy tính Blue Gene/L lại tự phá kỷ lục 
-IBM vừa công bố hệ thống gồm 65.536 thiết bị xử lý, có thể thực hiện 280,6 nghìn tỷ phép tính mỗi giây, gấp đôi kỷ lục 136,8 teraflop, được coi là nhanh nhất thế giới của chính Blue Gene/L trước đây.
-Blue Gene/L.
-Blue Gene/L lần đầu tiên trở thành siêu máy tính nhanh nhất (70,7 teraflop) trong bảng xếp hạng Top 500 hệ thống một năm trước đây. Tốc độ hệ thống được đo bằng phép trắc nghiệm toán học Linpack, nhưng các nhà tổ chức Top 500 thừa nhận đây vẫn chưa phải một phương pháp hoàn thiện.
-Blue Gene được bán với giá khoảng 2 triệu USD mỗi giá (rack) chứa 1.024 thiết bị xử lý, nhưng IMB cũng cho thuê truy cập tới Blue Gene và những siêu máy tính khác cho những ai không muốn mua toàn bộ hệ thống.
-Ngoài ra, "Big Blue" cũng ra mắt một hệ thống rất mạnh nhưng ít được biết đến khác là ASC Purple, tốc độ 100 teraflop. Cả ASC và Blue Gene/L có giá 290 triệu USD, và sẽ được sử dụng trong phân tích, giả lập vũ khí hạt nhân cũng như những nhiệm vụ liên quan đến điện toán khác. Từ "purple" có nghĩa là "màu tía" - sự pha trộn của xanh, đỏ và trắng. ASC Purple được thiết kế để đạt khả năng cao nhất trong dòng siêu máy tính ASCI Red, White và Blue. Ban đầu, IBM dự định ra mắt hệ thống vào cuối 2004, nhưng sau đó đã hoãn lại do muốn chuyển sang một thiết kế ít đắt đỏ hơn.
-Thiết bị xử lý Power5 trong ASC Purple mạnh hơn những phiên bản chip Power của Blue Gene/L, và truy cập tới nhiều bộ nhớ hơn để chạy các giả lập phức tạp. Tuy nhiên, Blue Gene/L tiêu thụ ít năng lượng và sử dụng một tập hợp 5 mạng tách biệt để kết nối các thiết bị xử lý, thay vì bộ chuyển mạch trung tâm phức tạp, đồ sộ.
-

@@ -1,6 +1,0 @@
-Máy kêu to khi khởi động và tắt (1)
-Em hiện đang sử dụng một laptop HP Compaq nc6000, không hiểu lí do tại sao gần đây mỗi khi khởi động hay tắt máy thì máy kêu rất to. Và cả khi play CD or DVD máy cũng kêu to như vậy nưa? Xin cho biết lí do là tại sao và có cách nào để khắc phục?
-Thảo Nguyên
-Hồi âm:
-Máy kêu to như vậy thì khó ai mà "nghe" được tiếng kêu to như thế nào. Gần đây mới bị kể cả khi nghe đĩa hay xem DVD, bao lâu rồi bạn không làm công việc bảo trì như chạy các phần mềm diệt spyware, anti-virus, disk cleanup, scandisk, disk defragmenter?? các điều đó nên chạy mổi tuần 1 lần ngoại trừ disk defragmenter thì 1 tháng tùy theo bạn sử dụng máy. nếu thiếu RAM máy củng có thể kêu to vì phải sử dụng liên tục swap file ( vùng nhớ ảo ) trên ổ đỉa cứng. thứ hai BỤI hay NHIỆT ĐỘ củng là những nguyên nhân gây ra khi bụi bám nhiều trên các quạt giảm nhiệt hay nhiệt độ bên ngoài quá nóng củng là nguyên nhân. một cách thông thường khi máy chạy hay khi nghe đỉa bạn để lòng bàn tay trên ổ đĩa để xem độ âm ấm có vượt quá bình thường hay không điều nầy tùy thuộc vào sự cảm nhận của bạn. vể các cơ phận ( hardware ) bạn thử nghiêng qua trái, phải chú ý nghe các âm thanh phát ra từ bên trong. khi di chuyển với chiếc laptop nên mang trước ngực chứ đừng xách tay.
-

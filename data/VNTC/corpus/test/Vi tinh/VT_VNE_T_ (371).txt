@@ -1,8 +1,0 @@
-Hỏi về cách tháo gỡ D32 (2)
-Trước đây tôi có cài phần mềm chống vi rút D32, sau đó gỡ bỏ ra bằng file uninstall rồi nhưng không hiểu tại sao khi tôi kích chuột phải vào một folder hoặc một file nào đó thì nó vẫn còn dòng chữ: " Verify by D32 antivirus". 
-Ho Sy Hung
-Hồi âm:
-Ban đưng bân tâm vi thưc ra D32 đa đươc thao gơ rôi. Nhưng do no vân con đê lai môt sô thông tin trong Registry nên ban vân co thê thây dong chư đo khi click chuôt phai. Đây la lôi lâp trinh cua cac tac gia D32, hoăc do ho không thich phân mêm cua ho bi Uninstall (!?) Cach an toan nhât, ban nên liên hê vơi ho va trinh bay vân đê cua ban. Tôi nghi không co li do gi ho không hôi âm ban. Nêu không, ban dung môt Registry Cleaner thât sư tin cây như la Norton Utilities đê quet no đi. Tuy nhiên, cung như ban Thanh Nam, ban nên thân trong trong viêc lam nay vi co thê anh hương đên hê thông. Chuc ban thanh công.
-Ngô Minh Toàn
-Khi muon thao bo nhung phan mem ma ban khong muon su dung ban nen su dung chuc nang ADD/REMOVE o control panel cua windows la dieu tot nhat chu dung tin vao chuc nang uninstall di kem theo voi phan mem ban dang su dung. Bay gio ban hay nhap phai chuotstartexploreprograms tim xuong thu muc (folder) chuong trinh D32 nhap phai chuot tren do va chon delete, buoc ke tiep la su dung lenh SEARCH cua windows tim ra D32 va xoa han nho can than vi D32 co rat nhieu file cua windows. cuoi cung la edit registry su dung lenh FIND tim ra nhung key cua D32 va xoa luon. truoc khi (edit registry) ban nen back up truoc, vi neu sai windows se khong khoi dong duoc.
-

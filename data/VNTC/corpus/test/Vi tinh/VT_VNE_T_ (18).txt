@@ -1,8 +1,0 @@
-Công cụ loại bỏ dữ liệu ẩn trong Word
-Những thông tin chìm có khả năng chỉ ra nguồn gốc các tài liệu soạn bằng ứng dụng Windows này sẽ bị vô hiệu hóa với sự xuất hiện của một phần mềm mà Microsoft vừa lặng lẽ phát hành trong phiên bản Word mới nhất.
-Chương trình này chỉ áp dụng cho các file Microsoft Word, Excel và PowerPoint được tạo ra trong Office 2003 hoặc Office XP.
-Liên quan đến những dữ liệu ẩn trong Word, nhiều sự vụ tế nhị đã bị phát hiện khi người sử dụng thiếu cẩn thận, không để ý đến vấn đề này. 
-Năm ngoái, chính phủ Anh đã bị một phen chao đảo sau khi người ta phát hiện ra tác giả thật của tập hồ sơ về vũ khí hủy diệt ở Iraq (công bố hồi tháng 2). Điều này được thực hiện bằng cách giám định những thông tin trong một file Word. 
-Mới đây, văn phòng của Thủ tướng Đan Mạch Anders Fogh Rasmussen cũng bị bẽ mặt sau khi người ta sử dụng dữ liệu ẩn trong Word, phát hiện ra bài phát biểu chào năm mới của ông này có phần bắt chước một tài liệu khác. Phủ Thủ tướng sau đó đã phải quyết định chuyển hết diễn văn của ông Rasmussen sang văn bản theo định dạng PDF. 
-Có thể tham khảo hoặc tải công cụ loại bỏ dữ liệu ẩn tạiđây. 
-

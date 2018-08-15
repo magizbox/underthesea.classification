@@ -1,6 +1,0 @@
-Gartner cảnh báo không dùng Windows Vista sớm
-Theo hãng khảo sát Mỹ, các doanh nghiệp không nên cài hệ điều hành thế hệ mới của Microsoft ít nhất là cho đến năm 2008. Lý do là hầu hết các cải tiến an ninh trong phiên bản này thực ra đã có dưới dạng phần mềm bổ sung của bên thứ 3 ở bản Windows XP.
-Báo cáo của Gartner mang tiêu đề 10 lý do nên và không nên quan tâm đến Microsoft Windows Vista viết rằng phiên bản hệ điều hành này chỉ đem đến cho người dùng PC trong doanh nghiệp những cải tiến mang tính mở rộng chứ không phải hoàn toàn mới. Vì thế, các nhà phân tích cho rằng chỉ nên triển khai Vista (sẽ ra mắt vào năm 2006) trên những máy tính mới và sau 2 năm thăm dò.
-Cũng theo Gartner, Internet Explorer 7 trong Vista của Microsoft sẽ có bảo mật tốt hơn để ngăn chặn tình trạng khách hàng bỏ sang dùng Firefox. Hệ điều hành mới này cũng sẽ có một tường lửa cá nhân được đánh giá cao nhưng Gartner vẫn khuyến cáo người dùng máy tính xách tay nên có ít nhất một firewall riêng để bảo vệ thiết bị.
-Trong báo cáo nói trên, Gartner cũng nhắc đến chuyện những cải tiến về chức năng tìm kiếm được hứa hẹn trong Vista trên thực tế đã được các công ty khác như Google cung cấp.
-

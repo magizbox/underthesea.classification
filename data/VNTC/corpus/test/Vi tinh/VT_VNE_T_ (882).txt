@@ -1,5 +1,0 @@
-Mạng Internet ở Phú Yên lại bị tê liệt
-Từ 15h ngày 5/6 đến 10h ngày 6/6, tất cả các điểm dịch vụ Internet tại Phú Yên đều ngừng hoạt động. Những khách hàng sử dụng modem quay số (dial-up) đều không thể thực hiện được, trừ điểm truy cập mạng MegaVNN của Bưu điện tỉnh do có đường truyền riêng. 
-Trong khi đó, Trung tâm Điện toán và truyền số liệu khu vực 3 (VDC 3) - đơn vị quản lý nút pop mạng Internet của Phú Yên và Trung tâm Chăm sóc khách hàng Bưu điện tỉnh vẫn không có ý kiến gì.
-Nguyên nhân của sự cố lần trước xảy ra hồi cuối tháng 3 cũng xuất phát từ nút pop Internet do Trung tâm VDC 3 quản lý. 
-

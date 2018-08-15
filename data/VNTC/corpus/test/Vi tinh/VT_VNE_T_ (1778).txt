@@ -1,6 +1,0 @@
-Máy shutdown chậm (1)
-Em đang sử dụng một laptop Pentium M của IBM. Máy của em cũng dùng được mấy tháng rồi, không hiểu sao thời gian gần đây máy SHUTDOWN rất chậm. Tuần trước thì rất nhanh nhưng mấy ngày này thì rất chậm. Vậy có cách nào để khắc phục không ạ? Những chương trình nào là không cần thiết mình cần phải tắt ạ? Có phải shutdown chậm một phần do các tập tin ẩn không ạ? Có cách nào loại bỏ để shutdown nhanh được không?
-Đỗ Trần Ngọc
-Hồi âm:
-Bạn nên Cleanup cái ổ cứng bằng cách gõ: Start\All Programs\Accessories\System Tools\Disk Cleanup, chọn ổ đĩa C:, click OK, đợi khoảng vài giây cho máy phân tích, sau đó click OK lần nữa. Khởi động lại máy tính.Nếu vẫn không được bạn làm như sau:- Mở registry editer: Start\Run- Gõ regedit, click OK- Tìm đến key: HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control- Tại cửa sổ bên phải bạn sẽ thấy dòng chữ WaitToKillServiceTimeout- Click chuột phải vào dòng chữ này, chọn Modify- Thay đổi giá trị từ 20000 thành 2000- ĐÓng Registry- Khởi động lại máy tính.Chúc bạn vui vẻ.
-

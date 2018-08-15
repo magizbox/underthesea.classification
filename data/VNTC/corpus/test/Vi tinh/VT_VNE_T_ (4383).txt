@@ -1,7 +1,0 @@
-RealPlayer và Helix Player bị nguy cơ bị tấn công cao
-Hai phần mềm nghe nhìn có quan hệ họ hàng với nhau nói trên đang ở trong tình trạng có thể hứng chịu những cuộc tấn công ồ ạt sau khi một đoạn mã khai thác lỗi được công bố trên Internet.
-Theo hãng bảo mật Đan Mạch Secunia, khiếm khuyết - có khả năng ảnh hưởng những người dùng RealPlayer và Helix Player trên hệ điều hành Linux hoặc UNIX - liên quan đến một lỗi string định dạng và có thể được khai thác qua các dạng file .rp và .rt, cũng như một vài định dạng khác.
-Kẻ tấn công có thể lừa người sử dụng mở trực tiếp file chứa mã kích hoạt hoặc dẫn nạn nhân tới một website nơi các file của hacker được cài sẵn. Khi đó chúng sẽ tự động tải và chạy mã tấn công. Secunia đánh giá lỗi này thuộc loại rất nguy hiểm.
-Các phiên bản bị ảnh hưởng là Helix Player 1.0.5.757 (gold) và RealPlayer 10.0.5.756 (gold).
-Helix Player là một dự án mã nguồn mở đặt nền móng cho sự ra đời của phiên bản thương mại RealPlayer sau này. 
-

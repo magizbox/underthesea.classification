@@ -1,6 +1,0 @@
-Hacker tấn công nhiều mạng siêu máy tính
-Một số lượng lớn máy tính chạy Linux và Solaris, thuộc mạng tốc độ cao của Đại học Stanford và nhiều cơ sở nghiên cứu khoa học trực thuộc trường này tại Mỹ, đã bị tin tặc vô hiệu hóa trong tuần đầu tiên của tháng 4.
-Tổ chức dịch vụ và hệ thống công nghệ thông tin của Stanford (ITSS), đơn vị thực hiện cuộc điều tra về việc này, cho biết đây là một vụ tấn công tinh vi, cố tình nhắm vào những máy tính thuộc hệ thống siêu điện toán của các tổ chức nghiên cứu này chứ không phải là những vụ xâm nhập thông thường.
-Hiện nay, nhóm điều tra vẫn chưa xác định được vụ tấn công xảy ra lần đầu tiên là vào ngày nào, chỉ biết rằng tin tặc sử dụng các công cụ phá password thông thường để giành quyền truy cập vào bất kỳ account nào trên một máy chủ và sau đó có thể truy nhập sâu hơn bằng cách khai thác những khiếm khuyết an ninh trong phần mềm. 
-Vài tháng gần đây, những lỗ hổng trong hệ thống nội bộ kiểu như vậy đã dẫn đến nhiều vụ tấn công vào server chuyên dùng để phục vụ cho việc phát triển và phân phối các sản phẩm Linux.
-

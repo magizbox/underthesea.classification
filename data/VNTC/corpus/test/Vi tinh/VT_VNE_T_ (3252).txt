@@ -1,8 +1,0 @@
-WiMax đang tiến dần đến hiện thực
-Nhiều hãng truyền thông lớn đang bắt đầu những bước nhỏ nhưng quan trọng trên con đường hướng tới mạng không dây tốc độ cao, phạm vi rộng để phục vụ doanh nghiệp và cụm dân cư ở những khu vực trung tâm thành phố.
-Hãng BellSouth sẽ triển khai dịch vụ wireless băng thông rộng tại một vài địa điểm ở Athens (Hy Lạp) và Georgia (Mỹ) vào tháng 8, sau đó sẽ mở rộng tới một số thành phố thuộc bang Florida (Mỹ) ngay trong năm nay.
-BellSouth gọi công việc mà họ thực hiện tại Georgia và Florida này là "tiền WiMax", vì những thiết bị như bộ xử lý, thiết bị định tuyến và chip cho IEEE 802.16 vẫn chưa được kiểm nghiệm và công nhận. Quá trình kiểm tra sẽ chỉ bắt đầu vào tháng 7 tới, và sản phẩm được hy vọng sẽ sớm tới tay các nhà cung cấp dịch vụ Internet không dây và hãng viễn thông vào cuối 2005. 
-Dịch vụ Internet truy cập nhanh (FastAccess Internet Service) của BellSouth có khả năng tăng tốc độ truy cập lên tới 1,5 Mb/giây trong phạm vi 3 đến 5 dặm (5 - 8 km). Kế hoạch mới này nhằm hỗ trợ những vùng xa xôi hẻo lánh, nơi mà dịch vụ DSL và cáp băng thông rộng không thể tiếp cận được.
-Động thái trên là bước tiếp theo sau khi ATT xúc tiến dịch vụ WiMax ứng dụng công nghệ của Navini Networks tại Middletown, New Jersey tháng 5 vừa qua. Trong khi đó, hãng Sprint cũng tiết lộ sẽ sớm đưa ra kế hoạt phát triển thiết bị WiMax cuối năm nay.
-Hiệp hội Viễn thông Mỹ đang xúc tiến chuẩn hóa chỉ số băng tần 3,65 - 3,70 GHz cho WiMax. Nhưng để công nghệ này ngày càng lớn mạnh, cần xây dựng một hệ thống kinh tế nhằm phát triển thiết bị, ứng dụng, cũng như hỗ trợ việc theo đuổi thị trường WiMax về sau.
-

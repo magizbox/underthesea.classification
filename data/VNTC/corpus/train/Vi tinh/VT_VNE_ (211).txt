@@ -1,8 +1,0 @@
-Châu Á trở thành mảnh đất lành cho Linux
-Hiệp hội các phòng thí nghiệm phát triển mã mở OSDL (Open Source Development Labs) vừa khẳng định, Linux đang phát triển mạnh tại châu Á. Lời tuyên bố được củng cố bởi một loạt sự kiện công nghệ gần đây.
-Hiệp hội này vừa kết nạp thêm hai đại gia NTT và NEC Software của Nhật Bản. Xu thế mã mở ở đất nước mặt trời mọc đã khiến nhiều công ty nhảy vào xí phần trong lĩnh vực này, Stuart Cohen, Giám đốc điều hành hãng khảo sát thị trường IDC, nhận định.
-Ngoài xứ Phù Tang, OSDL bắt đầu bén rễ tại Trung Quốc với thành viên đầu tiên là Công ty phần mềm mã mở Bắc Kinh. Kết nạp thành viên mới không phải là mục tiêu hàng đầu của chúng tôi. Tuy nhiên, xu thế này cho thấy tốc độ phát triển của Linux trên phạm vi toàn cầu, phát ngôn viên Craig Oda khẳng định.
-Oracle thì thông báo hãng đã kiếm được nhiều hợp đồng cung cấp hệ điều hành mã mở Asianux tại nhiều quốc gia châu Á như Nhật Bản, Trung Quốc, Hàn Quốc và Đài Loan.
-Ngoài ra, IDC cũng dự báo rằng Linux sẽ phát triển nhanh hơn Windows và Unix trên thị trường máy chủ. Tốc độ tăng trưởng nằm trong biên độ 30-40% từ nay tới 2007.
-Trong khi đó, Microsoft cũng không chịu kém cạnh. Tháng 1, người khổng lồ trình làng hệ điều hành máy chủ mới cho doanh nghiệp vừa và nhỏ, hy vọng nó sẽ phát triển thị phần trước Linux.
-

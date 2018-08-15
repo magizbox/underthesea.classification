@@ -1,9 +1,0 @@
-Yahoo phát hành công cụ tìm kiếm trên desktop
-Bản beta của ứng dụng miễn phí này có thể search hơn 200 loại file khác nhau trên ổ cứng. Đây là dấu hiệu cho thấy Yahoo quyết tâm bắt kịp cuộc đua với những tiện ích tương tự của các đối thủ Google, Ask Jeeves và Microsoft.
-Công cụ Yahoo Desktop Search (download ở đây) hứa hẹn sẽ giúp người sử dụng máy tính dễ dàng tìm kiếm dữ liệu trong PC, nhất là khi tiện ích tương tự của hệ điều hành Windows thực hiện công việc này không hiệu quả.
-Dựa trên công nghệ của hãng X1 Technology, Yahoo Desktop Search có thể lập chỉ mục cho nhiều định dạng file và nội dung của Microsoft như Word, Excel, PowerPoint, Outlook và Outlook Express, cũng như PDF và PhotoShop của Adobe Systems. 
-Ứng dụng này cho phép người dùng xem trước nội dung file (preview) mà không cần phải mở hẳn ra trong chương trình gốc. Yahoo Desktop Search còn có thể chạy các tệp tin âm thanh và hình ảnh (audio/video) mà không cần mở chương trình media tương ứng. Người sử dụng có thể phân loại, xóa, in và chia sẻ file ngay trên giao diện của chương trình.
-Một điểm đáng chú ý của Yahoo Desktop Search là nó thực hiện việc tìm kiếm ngay khi người sử dụng đang gõ lệnh, thay vì đợi khi có lệnh. Phần mềm này còn cho phép người dùng quyết định đưa hoặc không đưa file nào vào hệ thống chỉ mục, và ngoài ra có thể điều chỉnh tầm tìm kiếm theo những tiêu chí tùy chọn.
-Hiện tại, bản beta của Yahoo Desktop Search chỉ tương thích với những máy tính dùng Windows XP và Windows 2000 (SP3).
-Trên thị trường phần mềm tìm kiếm thông tin desktop hiện nay còn có một số đối thủ nhỏ hơn như Copernic Technologies, Blinkx và Lycos.
-

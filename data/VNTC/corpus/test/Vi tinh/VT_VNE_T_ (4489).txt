@@ -1,6 +1,0 @@
-Bút điện tử tương tác với thiết bị di động
-Nhóm dự án VIPDATA do Liên minh châu Âu hậu thuẫn đang phát triển một thiết bị nhập dữ liệu không dây từ chữ viết tay tới điện thoại, PDA và laptop mà không cần bất cứ dây nối nào.
-VPen có hình dáng giống một cây bút ngắn, vừa có chức năng của một con chuột máy tính, bút viết, bàn phím và thẻ đồ họa. Người sử dụng sẽ viết thông tin bình thường lên bề mặt bất kỳ như giấy, kim loại, nhựa, thậm chí ngay trên đầu gối. Một bộ cảm biến có độ nhạy cao sẽ theo dõi chuyển động của bút và truyền dữ liệu tới thiết bị di động qua cổng Bluetooth.
-"Thay vì soạn tin nhắn SMS và những thông tin khác qua phím bấm nhỏ xíu hay viết chữ nguệch ngoạc trên màn hình PDA, VPen cho phép người dùng gửi thông điệp trên mọi bề mặt", Alberto Zanettin, chuyên viên của hãng Philips, một trong những công ty tham gia dự án, cho biết. "Sản phẩm sử dụng phần mềm nhận dạng chữ viết thông minh, có thể dễ dàng xử lý các ký tự được viết bằng nhiều ngôn ngữ khác nhau".
-VPen có khả năng nhận dạng chính xác 90% nét chữ trong quá trình thử nghiệm. Tuy nhiên, Zanettin cho biết họ chưa sẵn sàng và vẫn cần giải quyết một số khó khăn nhất định trước khi ra mắt sản phẩm.
-

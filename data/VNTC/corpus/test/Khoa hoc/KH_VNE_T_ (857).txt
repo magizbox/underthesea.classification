@@ -1,8 +1,0 @@
-Thiết bị tìm chó lạc
-Một thiết bị gắn trên chiếc vòng cổ của con vật nuôi và có thể thông báo về nhà khi con vật đi lạc quá xa sẽ chấm dứt thời kỳ đau thương của những người bị mất con vật yêu quý.
-Thiết bị do hãng GlobalPetFinder tại New York, Mỹ, phát triển sẽ xác định vị trí của con vật bằng hệ thống định vị toàn cầu (GPS) và báo lại cho người chủ thông qua mạng lưới điện thoại di động. Thiết bị có kích cỡ của một chiếc đồng hồ đeo tay nặng 0,15 kg. Nó sẽ được gắn vào bên trong xích cổ của con vật.
-Người chủ có thể tìm ra vị trí chính xác của con vật tại bất cứ thời điểm nào, bằng cách gửi đi tin nhắn có chứa chữ "F-O-U-N-D" tới một con số đặc biệt.
-Thiết bị còn giúp họ tạo ra một hàng rào ảo xung quanh con vật nuôi và sẽ tự động gửi thông báo nếu con vật vượt qua hàng rào vô hình đó.
-Nó thậm chí còn được dùng để theo dõi sức khoẻ con vật thông qua thân nhiệt. Chẳng hạn nó sẽ cảnh báo khi con vật trở nên quá nóng khi ở trong một chiếc xe hơi. Thiết bị còn gửi thông điệp cảnh báo tới người chủ khi pin sắp hết.
-Katie Geary, phát ngôn viên của Hiệp hội bảo vệ động vật hoàng gia Anh (RSPCA), cho biết hơn 100.000 động vật bị lạc được tìm thấy mỗi năm ở Anh. "Bất cứ ai bị mất vật nuôi đều cảm thấy một nỗi mất mát to lớn", bà nói.
-

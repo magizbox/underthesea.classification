@@ -1,6 +1,0 @@
-Cách sử dụng 2 ổ cứng (1)
-Tôi muốn dùng 2 ổ cứng cho 1 máy với yêu cầu sau:+ Ổ 1: vào mạng Internet.+ Ổ 2: dùng để vào mạng LAN của công ty.Yêu cầu là ổ cứng thứ 2 không được nhiễm bất kỳ một loại virus nào. Tôi muốn 1 lúc chỉ có thể sử dụng 1 ổ cứng mà thôi!Hãy giúp tôi! Xin cảm ơn.
-Tuan
-Hồi âm:
-Theo toi nghi co mot giai phap co the giup duoc ban, do la ban can phai cai 2 he dieu hanh tren 2 o cung do. Khi mo may len ban se duoc hoi muon su dung he dieu hanh nao. Luc do ban co the tuy y chon he dieu hanh theo so thich cua minh. Chuc thanh cong.
-

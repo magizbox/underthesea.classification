@@ -1,6 +1,0 @@
-Microsoft thử nghiệm dịch vụ thuê bao Hotmail
-Vẫn đang trong quá trình thử nghiệm nhưng Microsoft Office Outlook Live, tên gọi của dịch vụ mới, dự kiến sẽ cung cấp cho khách hàng dung lượng e-mail đến 2 GB và sử dụng phiên bản Outlook 2003 dành cho máy tính để bàn để truy cập.
-Không chỉ dừng lại ở thư điện tử, dịch vụ này còn bao gồm cả MSN Calendar, MSN Address Book và Outlook Connector, công cụ cho phép người sử dụng truy cập các dịch vụ MSN từ Outlook (phiên bản 2002 trở lên). Với giá 10 USD/tháng, Microsoft Office Outlook Live có thể coi là sự nối tiếp của MSN Premium, đã được tung ra cách đây chưa lâu nhưng không hỗ trợ phiên bản Outlook dành cho máy trạm.
-Mục tiêu của dịch vụ này là hướng đến những doanh nghiệp vừa và nhỏ không có máy chủ e-mail riêng. "Khách hàng có thể dùng Outlook giống như một máy trạm e-mail mà không cần phải có Exchange Server", Yusuf Mehdi, Phó chủ tịch MSN, giải thích.
-Microsoft hy vọng sẽ đưa ra phiên bản cuối cùng của Microsoft Office Outlook Live với đầy đủ các tính năng cần thiết vào nửa đầu năm 2005.
-

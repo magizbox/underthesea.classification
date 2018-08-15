@@ -1,3 +1,0 @@
-Hôm nay 17.4, Cục Hải quan TP.HCM bắt đầu thực hiện thông quan điện tử cho hàng hóa xuất nhập qua cửa khẩu sân bay quốc tế Tân Sơn Nhất. 
-Đây là việc kê khai thủ tục hải quan thông qua mạng máy tính được kết nối giữa doanh nghiệp (DN) với Chi cục Hải quan điện tử. Nếu hàng hóa được phân vào luồng xanh thì DN sẽ được thông quan ngay sau khi tờ khai được hải quan chấp nhận và có thông báo lại. Nếu hàng hóa đưa vào luồng vàng, DN phải mang hồ sơ lên Chi cục Hải quan điện tử để kiểm tra. Nếu hàng hóa đưa vào luồng đỏ thì nhân viên hải quan sẽ kiểm tra thực tế. Trước mắt chỉ áp dụng cho các DN đã đăng ký tại Chi cục Hải quan điện tử. 
-

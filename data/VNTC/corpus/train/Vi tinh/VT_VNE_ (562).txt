@@ -1,7 +1,0 @@
-Không chat được bằng tiếng Việt (1)
-Tôi muốn hỏi điều này ai biết mách hộ cho : Khi chat tôi gõ được tiếng Việt nhưng khi bấm Send thì không gửi đi được tiếng Việt nữa, không biết phải chỉnh chỗ nào ?
-Hoàng Thanh
-Hồi âm:
-Không biết là anh dùng hệ điều hành nào và dùng chat tool nào. Nếu anh dùng Windows 2000/XP và chat tool Yahoo Messeger thì có thể theo các bước sau: - Dùng bộ gõ Unikey 3.55, chọn bảng mã: Vietnamese locale CP 1258. - Với Windows 2000, anh phải install chế độ hỗ trợ tiếng Việt trong hệ thống: Mở Control Panel --- Regional Options --- Tại tab General, chọn checkbox Vietnamese trong list "Language settings for the system". Sau đó restart lại máy.   Anh có thể gõ tiếng Việt trong khi chat với bất kì bộ font nào. Và chế độ hiển thị thì rất tốt. Chúc may mắn.   
-Tuấn Hưng
-

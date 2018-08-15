@@ -1,8 +1,0 @@
-Không biết dùng Lotus workplace (2)
-Chao cac anh, em la sinh vien dang hoc ve cong nghe thong tin, em dang co mot de tai lam ve mot san pham cua IBM ten la Lotus Workplace v2.0.1 , em da co duoc san pham nay nhung em khong biet phai lam the nao de su dung no. Em cung da doc tai lieu cua IBM ve san pham nay nhung sau khi cai san pham noi tren em khong thay co mot shortcut hay cai gi do de co the su dung ...mat khac, khi vao xem trong Ajout/suppesion thi lai thay no da duoc cai dat ... Em rat mong su dup do cua cac anh. Cam on cac anh nhieu!
-nguyen son tung
-Hồi âm:
-Trước khi cài LOTUS WORKPLACE ver 2.0.1 máy bạn có hội đủ điều kiện để cài đặt không?? tối thiểu bạn phải có 2 CPU 2.5 hoặc nhanh hơn, vể RAM phải ít nhất 4GB hoặc 6GB nếu cài trên server. khi đi vào ngành IT. bạn hảy đi từ dể đến khó chứ đừng đi tắt ngang điều ấy sẻ làm bạn dể bỏ cuộc giửa chừng.. đầu tiên thông thạo về cấu trúc hoạt động về PC sau đó lên network cộng thêm 1 hoặc 2 ngôn ngử lập trình từ đây bạn sẻ có định hướng rỏ cho việc học..trong 4 năm với ngần ấy việc củng đủ làm bạn lao đao rồi phải không?? nhưng đừng quên tiếng anh nửa nhé đấy là điều quan trọng nhất vì bạn thấy đó mọi việc tham khảo tài liệu đa số bằng tiếng anh..công việc của IT sẻ không phụ lòng những năm gian khó của bạn.....link tham khảo cho LOTUS: http://www.redbooks.ibm.com/redbooks/SG246378/wwhelp/wwhimpl/java/html/wwhelp.htm. Bạn hãy xem ở chapter 2 ,4,6...
-TOM 
-Hầu hết các phần mềm khi cài đặt sẽ yêu cầu bạn chọn đường dẫn để lưu phần mềm vd: C:\Program Files\Lotus Workplace v2.0.1 bạn có thế tìm theo đường dẫn đó để tìm thử.
-

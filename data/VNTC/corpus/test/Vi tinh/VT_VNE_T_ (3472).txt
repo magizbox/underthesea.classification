@@ -1,8 +1,0 @@
-Microsoft lại dính vào vụ kiện chống độc quyền
-S. Jerrold Kaplan, người sáng lập Công ty Go, đã kiện Microsoft lên toà án bang San Francisco (Mỹ) vì tập đoàn này ngăn cản Go tham gia vào thị trường hệ điều hành dành cho máy tính cá nhân.
-Theo Kaplan thì Microsoft đã sử dụng chiến thuật thông đồng và ngăn chặn các công ty khác nhằm cô lập Go. Đây là những "bài" mà Microsoft đã dùng để chống lại Netscape, Sun, Novell.... Bằng chính sách "khuyến khích và đe doạ", Microsoft ép buộc các công ty Compaq, Fujitsu, Toshiba không sử dụng hệ điều hành của Go. Công ty này cũng buộc tội Microsoft ăn cắp công nghệ để phát triển hệ điều hành dành cho máy tính bảng.
-Stacy Drake, phát ngôn viên của Microsoft, đã phản đối lời buộc tội của Kaplan. "Những vụ như thế này đã xảy ra cách đây gần 20 năm. Ngày xưa họ đã không có chứng cứ và đến bây giờ cũng thế". Drake cho rằng công nghệ nhận dạng chữ viết đã bị giới hạn rất khắt khe vào cuối những năm 80 và đầu những năm 90.
-Trong khi phiên bản gốc Windows cho phép sử dụng bút điện tử không thu hút được sự quan tâm của mọi người thì Microsoft vẫn tiếp tục theo đuổi công nghệ nhận dạng chữ viết giúp cho việc nhập liệu bằng bút điện tử. Công nghệ này được sử dụng trong phiên bản Windows XP dành cho máy tính bảng. 
-Thời gian gần đây, tập đoàn phần mềm thường xuyên phải đối mặt với các vụ rắc rối xung quanh vấn đề độc quyền liên quan đến hãngAMDvà phải hoàn trả cho IBM số tiền bồi thường 850 triệu USD. Microsoft cũng từng bị các hãng Sun Microsystems, AOL Time Warner, Gateway, Be... khởi kiện.
-Công ty Go được S. Jerrold Kaplan thành lập vào năm 1987. Năm 1994, Go được bán lại cho ATT, sau đó được chuyển qua Lucent khi công ty này tách khỏi ATT vào năm 1996. Tháng 4 năm nay, Kaplan đã giành lại được quyền kiểm soát Go.
-

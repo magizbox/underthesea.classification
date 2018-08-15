@@ -1,7 +1,0 @@
-Mỗi tuần có thêm 150 phần mềm khống chế PC
-Các chương trình tấn công với khả năng biến máy tính gia đình thành những cỗ máy ma (zombie) do hacker kiểm soát đang gia tăng, thậm chí có lúc lên tới 200 phiên bản/tuần.
-Báo cáo của Trung tâm phản ứng nhanh thuộc hãng McAfee cho biết số chương trình nguy hiểm và các loại virus phát tán e-mail số lượng lớn hiện là mối đe dọa lớn nhất đối với các doanh nghiệp. Trong khi đó, số vụ khai thác lỗ hổng và các dạng phần mềm quảng cáo adware chiếm 60% số nguy cơ. Trung bình mỗi máy tính chạy Windows mà McAfee khảo sát có chứa 13 adware. 
-Hãng bảo mật cũng cảnh báo spam được mã hóa để lợi dụng những lỗ hổng mới nhất nhằm cài đặt spyware sẽ làm gia tăng nguy cơ an ninh đối với người dùng máy tính gia đình.
-Số virus máy tính được McAfee đánh giá ở nguy cơ trung bình hoặc cao hơn tăng từ 20 năm 2003 lên 46 năm 2004, tương đương 130%. Đến cuối năm ngoái, Trung tâm phản ứng nhanh của McAfee đã phát hiện 17.000 chương trình tấn công mới. Trong khi đó, các khiếm khuyết phần mềm được phát hiện trong năm qua là khoảng 2.800, giảm 25% so với 2003. 
-Trong năm 2004, sự gia tăng về virus, sâu, các vụ lừa phishing, adware và khai thác lỗi bảo mật đã vượt qua mức của 2003, Vincent Gullotto, Phó chủ tịch McAfee, nói. Chúng tôi nhận thấy tỷ lệ sinh sản của virus có giảm đều 5% liên tục từ năm 2000 đến 2003, nhưng năm ngoái thì gia tăng trở lại do sự xuất hiện của NetSky và Bagle. Bên cạnh đó, nhìn chung còn có quá ít sự quan tâm đối với adware và các phần mềm tương tự.
-

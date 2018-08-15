@@ -1,5 +1,0 @@
- Hỗ trợ đưa ứng dụng CNTT vào quản lý nhà nước
-Dự án sẽ triển khai hệ thống kết nối từ các cấp cơ sở (phường-xã) lên máy chủ đặt tại trụ sở các quận để truy xuất cơ sở dữ liệu. 
-Viettel sẽ miễn phí lắp đặt ADSL cho tất cả các đơn vị hành chính nhà nước của các quận, huyện có yêu cầu và bệnh viện máy tính quốc tế Icare sẽ thực hiện cung cấp miễn phí các phần mềm về quản lý cho các đơn vị tham gia. 
-Chương trình này sẽ được nhân rộng ra tất cả các địa phương khác trong cả nước. 
-

@@ -1,6 +1,0 @@
-Viết tiếng Việt trong C++ Builder6 (1)
-Tôi đang học lập trình C++ Builder, nhưng gặp một khó khăn là không viết được tiếng Việt trong C++ Bui8lder6. Tôi đã thử rất nhiều loai Font cũng như kiểu gõ, nhưng vẫn không thu được kết quả như mong muốn. Các bạn giúp tôi với, xin cảm ơn các bạn. 
-Nguyen Nghia
-Hồi âm:
-Ban khong the viet tieng Viet trong Builder6 duoc, tru khi ban viet cho ban mot c++ compiler moi cho tieng Viet. 
-

@@ -1,7 +1,0 @@
-Sun công bố mã nguồn một số ứng dụng
-Mã nguồn của Java Application Server và Java Enterprise Service Bus được công bố tại hội nghị JaveOne ở San Francisco (Mỹ) nhân dịp kỷ niệm 10 năm ra đời của ngôn ngữ Java.
-Việc công khai mã nguồn cho các nhà phát triển sẽ kích thích việc xây dựng và sử dụng các ứng dụng dựa trên nền tảng Java. "Các nhà phát triển là chìa khóa thành công của chúng tôi," Joe Keller, Phó chủ tịch bộ phận kinh doanh của Sun, phát biểu. 
-Việc công bố mã Java Application Server và Java Enterprise Service Bus được đưa ra sau hai tuần sau khi Sun hé mở mã nguồn của hệ điều hành Solaris. Sun hy vọng điều này giúp việc kinh doanh phần mềm, các dịch vụ, máy chủ cũng nhưng thiết bị lưu trữ phát triển.
-Java là ngôn ngữ được sử dụng để tạo các chương trình phần mềm có thể chạy trên máy tính và thiết bị khác nhau, từ máy ATM, máy tính cá nhân đến thiết bị cầm tay.
-Ra đời 10 năm trước đây với mục đích ban đầu chỉ là để tạo ra các trang web động, đến nay Java đã phát triển mạnh mẽ với khoảng 2,5 triệu thiết bị điện tử, 700 triệu người dùng máy tính cá nhân, 708 triệu máy cầm tay sử dụng nó, bên cạnh hơn 4,5 triệu nhà phát triển Java. Các đầu máy DVD thế hệ mới cũng sẽ hỗ trợ Java.
-

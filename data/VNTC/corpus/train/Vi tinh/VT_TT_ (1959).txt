@@ -1,7 +1,0 @@
- Máy chủ ngân hàng Trung Quốc bị lợi dụng để phishing
-Netcraft cảnh báo rằng những kẻ chủ mưu đã hack được máy chủ của một ngân hàng tại Trung Quốc để lưu trữ website phishing của mình nhắm đến các mục tiêu là những tổ chức tài chính và ngân hàng của Mỹ. 
-“Các email phishing được gởi đi vào ngày 11-03 nhắm đến mục tiêu là khách hàng của Chase Bank và eBay được gởi trực tiếp từ những website lưu trữ trên địa chỉ IP được chỉ định đến chi nhánh Thượng Hải của ngân hàng China Construction Bank . Đây cũng là lần đầu tiên chúng tôi gặp trường hợp thiết bị của một ngân hàng được sử dụng để tấn công một đối tượng khác”, Netcraft cho biết. 
-Người dùng sẽ được nhử mồi 20 đôla để họ điền hết bảng khảo sát sự hiệu quả của website Chase Online Banking. Bước kế tiếp là yêu cầu nhập tên tài khoản và mật khẩu, số thẻ ngân hàng, mã PIN, số nhận dạng, tên lót của mẹ và số chứng minh thư. 
-Trang eBay sử dụng con dấu VeriSign cho phép người dùng khi click lên con dấu thì sẽ dẫn đến một trang trên website của VeriSign chứng thực về bảo mật của site đó. Tuy nhiên, trường hợp này thì con dấu dẫn đến liên kết chứng thực cho một site khác. 
-Netcraft cũng cho biết rằng những kẻ chủ mưu có thể đã dàn xếp với một nhân viên ngân hàng, người có quyền truy cập đến hệ thống máy chủ của ngân hang. Tuy nhiên, vẫn chưa có thông tin làm sáng tỏ vụ việc và người dùng tốt nhất là nên tự cảnh giác, bảo vệ chính mình khi sử dụng các dịch vụ liên quan đến tài chính trực tuyến hoặc có thể sử dụng thanh toolbar chống phishing của chính Netcraft cung cấp tại đây . 
-

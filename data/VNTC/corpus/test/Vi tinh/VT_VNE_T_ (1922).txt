@@ -1,5 +1,0 @@
-Công nghệ TI giúp Nokia hạ giá thành điện thoại
-Nhà sản xuất điện thoại di động Phần Lan sẽ bắt đầu sử dụng công nghệ của hãng Texas Instruments (TI), cho phép tích hợp nhiều thiết bị điện tử trên một chip duy nhất nhằm đưa ra thị trường dòng sản phẩm giá rẻ phù hợp hơn với túi tiền người dùng. 
-Texas Instruments, có trụ sở tại bang Dallas (Mỹ), là nhà sản xuất linh kiện bán dẫn dành cho điện thoại di động lớn nhất thế giới. TI cho biết đã tiến hành nghiên cứu và phát triển gói chip tích hợp đa chức năng như bộ nhớ, bộ xử lý logic, bộ thu nhận tín hiệu và quản lý mạng... từ năm 2002 và đã đưa ra bản thử nghiệm vào tháng 12/2004. 
-"Bằng việc kết hợp công nghệ của TI để đưa mọi thứ vào một chip, điện thoại của Nokia sẽ là sự kết hợp hoàn hảo giữa tính năng và vấn đề giá cả, mang lại sức hút lớn hơn đối với thị trường nhiều tiềm năng như Ấn Độ hay Trung Quốc", Juha Pinomaa, Phó chủ tịch kinh doanh của tập đoàn Nokia, nhận xét.
-

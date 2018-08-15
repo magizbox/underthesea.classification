@@ -1,6 +1,0 @@
-Nối laptop với TV để xem DVD được (1)
-Tôi có một laptop có S-video port va TV hiệu RCA cũng có S-video port. Sau đó tôi dùng S-video cable để nối laptop với TV thì khi laptop bắt đầu khởi động và đang check system thì trên TV có xuất hiện tín hiệu. Đến khi laptop bắt đầu vô màn hình desktop của windows thì TV không phát tín hiệu nữa. Tôi có mở thử một DVD nhưng vẫn không thấy tín hiệu trên TV. Tôi đã chỉnh setup TV la primary monitor và độ phân giải là 800x600. Nhưng vẫn không có gì thay đổi. Vậy nay tôi xin hỏi về cách thức kết nối laptop với TV thông qua S-video port như thế nào và làm sao để tôi có thể coi được DVD trên TV từ laptop. Rất mong sự hướng dẫn cụ thể của quý vị. Chân thành cảm ơn.
-Khanh Pham
-Hồi âm:
-Neu ban ket noi dung giua laptop va tivi . o laptop S video out o tivi S video in. Truoc nhat o TV ban phai de o he NTSC vi thong thuong laptop o My su dung he NTSC chu khong phai he PAL vi khong ro ban su dung he dieu hanh nao? dai khai ban hay vaostartsettingscontrol paneldisplaysettingadvanceddevice selectionchon TV o phan format chon NTSC click applyok..sau do ban se xem duoc DVD cua laptop tren TV......chu y neu o phan device selection muc TV khong hien thi bi mo, thi ban phai tim drive moi co ho tro TV mode cho he dieu hanh ma ban dang su dung.
-

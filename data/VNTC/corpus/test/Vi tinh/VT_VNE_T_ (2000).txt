@@ -1,8 +1,0 @@
-Khắc phục lỗi IE và Firefox (2)
-Máy tính của tôi dùng IE và Fire fox thời gian đầu chạy vẫn tốt nhưng không hiểu sao thời gian gần đây khi vào Internet bằng cả hai máy đều báo lỗi "HTTP 500 - Internal server error Internet Explorer " hoặc "Microsoft VBScript compilation error '800a03e9' Out of memory" cứ phải ấn Enter hoặc Go rất nhiều lần thì mới vào được link của website, rất là mất thời gian. Có bạn nào biết cách khắc phục lỗi này xin chỉ giúp (tôi đã cài lại IE mà vẫn không khắc phục được), máy hiệu CompaQ Pen IV 512MB 2.8GH. Tôi xin cảm ơn.
-Mai Thuận
-Hồi âm:
-Nếu bạn nhìn kỹ dòng thông báo lỗi thì bạn sẽ thấy là  & Internal server error &  tức là cái web site, mà bạn muốn nối vô, bị lỗi chứ không phải máy của bạn. Không cần phải cài đặt gì cả, vô ích thôi. Nhưng muốn chắc ăn thì bạn thử nối vô 1 site khác xem sao. 
-Nguyen HD
-Đây không phải là lỗi của IE hay firefox, đây là error của phần lập trình vbscript, bạn nên thông báo cho web master để họ sửa lại nếu bạn muốn tham khảo thêm vbs : http://support.microsoft.com/kb/q174634/ còn đây là link cho access 97 http://support.microsoft.com/default.aspx?scid=kb;EN-US;191099. 
-

@@ -1,4 +1,0 @@
- Optware giới thiệu đĩa quang học với dung lượng 200GB
-Công nghệ đĩa quang học giao thoa so le mới cho phép tạo ra những đĩa có dung lượng lên đến 1 TB (1000GB) dữ liệu và hỗ trợ kích thước bằng với đĩa DVD thông thường. Những sản phẩm này dự kiến sẽ cho ra mắt vào tháng 6 năm 2006. Trong thời gian ban đầu phát hành, chúng sẽ có dung lượng tối đa 200GB dữ liệu. Định dạng này sẽ có giá từ 80 đến 100 USD và ổ đĩa đầu tiên có khả năng đọc và ghi sẽ “chỉ” có giá 30.000 USD. Optware dự định sẽ sản xuất những đĩa với kích cỡ của một thẻ tín dụng có dung lượng lưu trữ là 30GB. 
-Đối thủ chính của Optware là công ty InPhase đã công bố hồi đầu năm giới thiệu đĩa giao thoa so le đầu tiên cho phép lưu trữ từ 200GB đến 1.6 Terabyte. Hitachi cũng tuyên bố sẽ bắt đầu sản xuất những đĩa 130mm tập trung vào các hệ thống của InPhase sẽ được phát hành vào năm sau. 
-

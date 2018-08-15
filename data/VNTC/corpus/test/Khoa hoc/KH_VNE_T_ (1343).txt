@@ -1,9 +1,0 @@
-Bí quyết xây lâu đài cát
-Các nhà vật lý đã tính toán ra công thức để xây một lâu đài cát hoàn hảo: 8 phần cát trộn với 1 phần nước. 
-Công bố trên tạp chí Nature Physics, công trình này ban đầu chỉ nhằm giải quyết tính ổn định của những lâu đài xây trên cát, song nó cũng giúp xác định được độ bền của những bức tường chắn và thành phần vật liệu của chúng, tác giả của nghiên cứu, giáo sư Arshad Kudrolli, từ Đại học Clark ở Worcester, bang Massachusetts, Mỹ cho biết. "Nghiên cứu của chúng tôi, theo những nghĩa nào đó, là bước đầu tiên trong việc thử nghiên cứu góc nghiêng nào là ổn định nhất đối với một bức tường chắn", ông nói. "Và nếu nó đổ, vật liệu sẽ trở thành gì? Bao nhiêu phần đất sẽ bị sụt?" 
-Các nhà khoa học chuyên ngành vật lý hạt biết rằng cát ướt thì ổn định hơn cát khô. Điều này là do nước tạo thành những "cầu nối" giữa các hạt, hình thành một lực hấp dẫn mà cát khô không có. Song chi tiết về vấn đề này vẫn bị tranh cãi lâu nay. 
-Được gợi ý từ những ký ức thời thơ ấu bên bờ biển, các nhà nghiên cứu đã xây dựng một mô hình đơn giản để xác định xem khi nào thì công trình ổn định nhất với chất liệu là nước và các hạt cát. Họ thực hiện một loạt thí nghiệm trong những cái trống quay, trong suốt để quan sát độ ổn định của cát dưới những điều kiện khác nhau. Trong số các điều kiện, có kích cỡ cát thay đổi, tỷ lệ nước/cát khác nhau và quãng đường mà trống quay được trước khi cát trượt đi. 
-Sau đó, nhóm nghiên cứu sử dụng một mô hình toán học để lý giải những gì họ quan sát thấy, dựa vào những điều xảy ra trên bề mặt cột cát và với toàn thể cột cát đó. Từ đó, các nhà khoa học tính toán tỷ lệ nào là tốt nhất để cho lâu đài cát bền vững. 
-Câu trả lời xuất hiện khi tỷ lệ nước trên cát là 1 phần 8, Kudrolli nói.
-Mặt dù câu chuyện về lâu đài cát chỉ mang tính trò chơi, song Kudrotill vẫn lưu ý rằng mô hình của họ có thể đặt nền móng cho câu trả lời về loại tường chắn ổn định nhất. 
-

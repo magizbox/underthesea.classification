@@ -1,7 +1,0 @@
-Nhu cầu máy chủ tăng nhẹ ở châu Á
-Theo công ty nghiên cứu Gartner, số lượng máy chủ được bán ở khu vực này, trừ Nhật Bản, tăng 6,7%, đạt hơn 5 tỷ USD doanh thu năm 2003. Trong đó, Trung Quốc và Ấn Độ có sức tiêu thụ lớn nhất.
-Matthew Boon, Phó chủ tịch khu vực phụ trách nghiên cứu phần cứng của Gartner, cho biết doanh thu máy chủ ở Trung Quốc tăng 10%, đạt 1,62 tỷ USD trong năm ngoái, chiếm 32,4% doanh thu toàn châu Á, tăng từ 31,6% năm 2002.
-Tại Ấn Độ, doanh số máy chủ tăng 31,9%, đạt 327,1 triệu USD. "Thị trường này phát triển nhảy vọt nhờ nhu cầu tăng mạnh ở các lĩnh vực tài chính, ngân hàng và viễn thông. Dự kiến năm nay, máy chủ Unix và Intel sẽ tiếp tục bán chạy nhờ ngày càng nhiều công ty đa quốc gia lập văn phòng ở đất nước Nam Á", Vinod Nair, nhà phân tích của Gartner Ấn Độ, nhận định.
-Ngược lại, ở Hàn Quốc, lượng server bán ra giảm 1,9%, chỉ đạt 1,06 tỷ USD doanh thu, chiếm 21,1% tổng doanh số khu vực. "Việc trì hoãn hoặc hủy bỏ các dự án lớn trong năm ngoái khiến nhiều doanh nghiệp nước này cắt xén ngân sách dành cho hệ thống máy chủ", Gartner nhận định.
-Cũng trong năm ngoái, sức bán máy chủ tại Đài Loan tăng 2,8%, ở mức 331,1 triệu USD; Singapore tăng 15,7%, đạt 233,62 triệu USD; còn Hong Kong lại giảm 5,3% với 222,16 triệu USD.
-

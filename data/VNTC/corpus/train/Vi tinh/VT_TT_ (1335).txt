@@ -1,7 +1,0 @@
- Giới thiệu thẻ nhớ USB Camera KeyRing
-Như vậy ngoài chức năng là một thẻ nhớ USB dùng để lưu trữ dữ liệu, từ nay người dùng đã có thể dùng thẻ nhớ USB KeyRing của mình để lưu giữ lại bất kỳ hình ảnh nào mà mình thích. Camera trong thẻ USB KeyRing này cho ra được những hình ảnh ở độ phân giải 1,3 megapixel, tương đương với độ phân giải hình ảnh của các điện thoại di động phổ biến hiện nay. 
-Ngoài ra Philips cũng trang bị cho KeyRing công cụ Photo Manager Software để người dùng có thể dễ dàng xem và chỉnh sửa mọi hình chụp của mình. 
-KeyRing có vỏ bằng nhựa cứng chịu lực có thể dễ dàng móc chung với chùm chìa khóa nên chủ nhân của KeyRing có thể đem USB camera này theo mình đi bất kỳ nơi đâu để sử dụng bất kỳ lúc nào. 
-Camera tích hợp trong KeyRing là loại camera số khá đơn giản. Nó không có màn hình hoặc ống ngắm như các camera gắn trong điện thoại di động hay các camera riêng biệt, nên người dùng KeyRing sẽ chụp ảnh ở dạng chụp “mù”. Tức người dùng chỉ việc đưa máy lên vừa tầm và “tự động” tính toán trong đầu rằng hình ảnh “có thể” đã lọt được trọn vẹn vào ống kính và cứ thế nhấn nút chụp. 
-Hiện Philips chỉ mới tung ra “chào hàng” loại KeyRing dung lượng 64 MB giá chỉ 120 USD, có thể chụp được khoảng 44 tấm hình 1,3 megapixel. Giá rẻ, không sợ va đập trầy xước, có thể sử dụng mọi lúc mọi nơi (trừ ban đêm) mà không phải “dịu dàng” như các thiết bị đắt tiền khác … chắc chắn KeyRing sẽ là món quà hấp dẫn trong dịp Giáng sinh năm nay. 
-

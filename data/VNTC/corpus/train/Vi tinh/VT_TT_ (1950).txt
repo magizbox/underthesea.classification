@@ -1,6 +1,0 @@
- Kaspersky phát hành phần mềm diệt virus cho ĐTDĐ
-Sản phẩm có tên là Kaspersky Anti-Virus Mobile 2.0, có khả năng dừng tất cả những chương trình có nguy cơ gây hại trước khi chúng nhiễm vào điện thoại và có thể quét toàn bộ các thiết bị để tìm các phần mềm độc ký sinh. 
-Sản phẩm này đưa kaspersky vào hàng ngũ những công ty cổ động cho việc tăng cường sản phẩm bảo mật cho điện thoại di động. Hiện nay, sản phẩm này vẫn chưa được chào đón bởi các nhà sản xuất do e ngại về giá thành sản phẩm sẽ tăng cao, trong khi mức độ an toàn và tin cậy thì không nhiều. 
-Phần mềm này được thiết chế để có thể download một cách bình thường từ máy chủ của Kaspersky Lab thông qua các giao thức như WAP và HTTP. Phần mềm tương thích tốt với các điện thoại sử dụng hệ điều hành Symbian 6.1, 7.0, 8.0, 8.1 và giao diện người dùng thuộc dòng 60 (Series 60). Bản beta của phần mềm này sẽ hỗ trợ luôn hệ điều hành Symbian dòng UIQ và Microsoft Windows Mobile 2003, 5.0. 
-Bạn đọc quan tâm có thể tham khảo thông tin tại website của Kaspersky Lab . 
-

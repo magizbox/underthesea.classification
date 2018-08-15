@@ -1,5 +1,0 @@
-Trên 100 triệu điện thoại lai sẽ xuất xưởng vào 2010
-Ưu điểm của các thiết bị liên lạc tương thích cả mạng di động truyền thống GSM/CDMA lẫn mạng Wi-Fi được các nhà phân tích mô tả gói gọn trong 2 từ: thông suốt và rẻ tiền.
-Theo nghiên cứu của hãng ABI Research (Mỹ), một số tập đoàn viễn thông lớn như BT (Anh) và Korea Telecom (Hàn Quốc) có kế hoạch cung cấp các dịch vụ 2 chế độ mạng nói trên ngay từ cuối năm nay. ABI Research cho biết, hiện nay, các thiết bị lai vẫn còn chưa được người tiêu dùng biết đến và chưa thể xâm nhập môi trường doanh nghiệp ở bất kỳ cấp độ nào. 
-Mô tả hoạt động của mạng liên lạc lai, nhà phân tích Philip Solis của ABI Research, cho biết: Người sử dụng có thể bắt đầu một cuộc gọi từ nhà qua mạng không dây Wi-Fi bao trùm nơi ở và rồi chuyển sang kết nối vào một dịch vụ VoIP băng rộng. Sau đó cuộc hội thoại được tiếp tục trên một ôtô dùng mạng di động truyền thống rồi kết thúc với mạng LAN dùng chuẩn 802.11 và dịch vụ VoIP văn phòng khi người sử dụng đến nơi làm việc. Điện thoại sẽ tự động xác định tín hiệu và chuyển từ chế độ mạng này sang mạng khác, đảm bảo sự kết nối liên tục của người sử dụng, đồng thời tiết kiệm chi phí liên lạc.
-

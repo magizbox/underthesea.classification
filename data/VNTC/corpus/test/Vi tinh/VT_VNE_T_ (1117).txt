@@ -1,6 +1,0 @@
-Thêm một dịch vụ mail Gygabyte
-Cuộc cạnh tranh về dung lượng lưu trữ trong account khách hàng của các hãng dịch vụ trực tuyến lại một lần nữa sôi động hẳn lên sau khi một công ty ở Houston (Mỹ) hôm qua tuyên bố cho ra mắt một hệ thống mail thu phí với dung lượng lên tới 3 GB.
-Dịch vụ ZealMail của hãng Zeal Internet Services nhắm vào các doanh nghiệp với giá 3 USD/người/tháng và những tổ chức phi lợi nhuận, 2 USD/người/tháng (áp dụng đối với cả các đối tượng là quan đội). Con số 3 GB mà ZealMail cung cấp to gấp 3 lần Gmail, dịch vụ gây nhiều sự chú ý của Google và cao hơn 50% so với Hotmail cũng như Yahoo Mail (hiện thu mức phí 20 USD/năm).
-ZealMail cũng có tính năng lọc thư rác và quét virus, đồng thời tương thích với POP3, IMAP và SMTP. Vì thế, người sử dụng có thể dễ dàng tiếp cận các thông điệp từ trình duyệt hoặc các ứng dụng desktop như Outlook hay Outlook Express.
-Tuy nhiên, cho dù dung lượng mà ZealMail cung cấp đúng là lớn hơn rất nhiều so với những đối thủ tên tuổi khác, người sử dụng các dịch vụ trực tuyến xưa nay không mấy mặn mà với việc bỏ tiền ra để dùng mail, đặc biệt là khi đã xuất hiện nhiều dịch vụ miễn phí mà dung lượng cũng đã lên đến đơn vị GB như Spymac hay WallaMail.
-

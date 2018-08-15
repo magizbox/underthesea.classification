@@ -1,3 +1,0 @@
-Các sinh viên thuộc Viện Kỹ thuật Delhi (Ấn Độ) đã chế tạo một loại gậy kỹ thuật cao nhằm giúp người khiếm thị đi lại dễ dàng. Nó được gọi là gậy thông minh, gồm có 2 phần: một thiết bị phát tín hiệu bằng cách rung khi phát hiện các chướng ngại vật và thiết bị siêu âm để giúp người khiếm thị sử dụng xe buýt. 
-Chiếc gậy mới này có thể xác định các chướng ngại vật trong vòng 3m trong khi các loại gậy hiện nay chỉ giúp dò tìm đường trong vòng 1m. Để giúp người khiếm thị có thể đi xe buýt dễ dàng, gậy thông minh truyền tần số vô tuyến đến xe buýt để biết số hiệu xe rồi chuyển thông tin đến người sử dụng. Tuy nhiên, cần phải có một hộp điện tử nhỏ gắn ở cửa xe buýt phối hợp hoạt động với tần số vô tuyến do thiết bị cài trên gậy phát ra. (New Kerala)
-

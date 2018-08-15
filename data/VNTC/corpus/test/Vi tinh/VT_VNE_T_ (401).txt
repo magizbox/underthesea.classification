@@ -1,6 +1,0 @@
-Chương trình đào tạo CMM tại Hà Nội
-Hôm nay, hơn 40 học viên có mặt tại lễ khai giảng khóa học giới thiệu về CMM (Capability Maturity Model) do Cơ quan phát triển quốc tế Mỹ (USAID) thông qua dự án Nâng cao năng lực cạnh tranh VN (VNCI) tổ chức. Đây là một phần trong chương trình sử dụng CNTT cho phát triển khu vực ASEAN do USAID tài trợ.
-Nguyễn Hồng Trường, điều phối ngành của VNCI, cho VnExpress biết: "Đối tượng học viên được lựa chọn là các cán bộ cao cấp (giám đốc, trưởng phòng, trưởng nhóm dự án) tại những doanh nghiệp có quyết tâm giành chứng chỉ CMM. Mỗi đơn vị chỉ được dự tối đa là 5 người".
-Khóa học về CMM sẽ giúp các công ty phần mềm tại Việt Nam nắm rõ hơn việc nâng cao quy trình chất lượng để đạt chuẩn CMM, từ đó có thể hoàn thiện hệ thống quản lý và được cấp chứng chỉ danh tiếng này. Chương trình đào tạo cũng giới thiệu kiến thức sâu rộng về công nghệ phần mềm, quy trình thiết kế và quản lý, bài học thực tiễn cũng như các quy chuẩn ngoài CMM (như CMMI, ISO, Six sigma) để các doanh nghiệp có thể hướng đến việc tăng tính chuyên nghiệp và năng lực sản xuất phần mềm.
-Theo ông Trường, giảng viên của khóa học CMM đến từ Công ty QAI (Ấn Độ), một trong những tổ chức hàng đầu về quản lý sản xuất phần mềm trên toàn thế giới với 23 năm kinh nghiệm. Chương trình đào tạo miễn phí này sẽ kéo dài trong 3 ngày (7-9/4). 
-

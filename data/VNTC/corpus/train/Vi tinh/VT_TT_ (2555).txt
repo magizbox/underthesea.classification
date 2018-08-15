@@ -1,6 +1,0 @@
- Tinh chỉnh registry hợp lý
-Chương trình giúp giảm nhỏ kích thước của registry và tăng tốc độ truy xuất registry của của hệ điều hành cũng như các ứng dụng. Qua thử nghiệm cho thấy, chương trình giảm kích thước của registry không nhiều khoảng 5 – 10 % (để đảm bảo tính an toàn), nhưng bù lại cấu trúc của registry được tinh chỉnh hợp lý, tăng tốc độ truy xuất, tốc độ khởi động của nhiều ứng dụng như QuarkXpress… 
-Ngoài ra, chương trình còn tích hợp công cụ quản lý và phục hồi hệ thống (System Backup) hiệu quả hơn System Restore của Windows, công cụ Backup Resgistry, công cụ Scheduler giúp lên kế hoạch cho các tác vụ bảo dưỡng định kỳ registry. Registry Defragmentation hỗ trợ nhiều ngôn ngữ, tuy nhiên không có tiếng Việt. Người dùng cần cẩn thận trước khi dùng công cụ này, và nên tạo một bản sao registry, một bản sao hệ thống trước khi tiến hành tinh chỉnh registry. 
-Registry Defragmentation 7.7.10.15 tương thích tất cả các phiên bản Windows. Có thể tải bản dùng thử tại : http://freeware.brothersoft.com/utilities/registry_tools/registry_defragmentation_download_22068.html 
-Tại địa chỉ này bạn có thể tìm thấy rất nhiều các công cụ liên quan đến registry khác để dùng thử, đồng thời có niêm yết giá chính thức của chương trình. Các chương trình “5 sao” đều là những chương trình hay đáng để bạn khám phá. 
-

@@ -1,8 +1,0 @@
-'Làn sóng' silicon mới cho công nghệ chip
-Các nhà nghiên cứu tại Đại học Illinois (Mỹ) đã phát triển một mô hình silicon tinh thể đơn co giãn dạng sóng trên chất nền dẻo như cao su, tạo nên những thiết bị điện tử có khả năng vận hành cao.
-"Silicon đàn hồi mang đến nhiều tính năng khác hơn so với chip silicon chuẩn", John Rogers, Giáo sư Đại học Illinois và là đồng tác giả của công trình, khẳng định. Chúng có thể được sử dụng trong những ứng dụng như thiết bị cảm biến, mạch điện tử tích hợp trong cơ nhân tạo hay tế bào sinh học, robot...
-Các nhà khoa học đã tạo ra những dải silicon siêu mỏng trên một tấm wafer bằng phương pháp tương tự như trong điện tử thông thường. Sau đó, họ sử dụng kỹ thuật khắc axit chuyên biệt để tiện rãnh trong thiết bị. Những dải silicon chỉ mỏng khoảng 100 nm, nhỏ hơn 1.000 lần so với đường kính một sợi tóc.
-Bước tiếp theo, một lớp chất nền cao su dẹt được kéo căng và đặt phía trên những dải silicon này. Khi tách lớp chất dẻo này ra, các dải silicon bị kéo khỏi tấm wafer và dính chặt vào bề mặt cao su, tạo thành một chuỗi sóng xác định, tương tự như cơ chế hoạt động của đàn xếp (accordion).
-Silicon đàn hồi không những vận hành tương tương đương sản phẩm thể cứng mà còn không gây hại khi co giãn thường xuyên.
-Công trình nghiên cứu này được tài trợ bởi Cơ quan dự án nghiên cứu và Bộ năng lượng Mỹ.
-

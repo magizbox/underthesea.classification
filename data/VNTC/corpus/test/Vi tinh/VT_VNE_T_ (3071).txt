@@ -1,9 +1,0 @@
-Gửi ảnh qua Yahoo chỉ với thao tác kéo - thả
-Chương trình mới nhất này của Yahoo là một cải tiến tuyệt vời, giúp chia sẻ ảnh dễ dàng mà không gặp rắc rối như khi gửi file đính kèm (attachment), vốn chiếm dung lượng lớn và mất thời gian.
-Phần mềm PhotoMail sẽ quét ảnh trên ổ cứng người dùng hay từ trang web bất kỳ, cho phép kéo - thả ảnh tới thông điệp trong mail, thay vì phải attach như trước. 
-Người dùng có thể chèn tới 300 ảnh chỉ trong một e-mail và gửi tới hàng trăm người khác, mà không sợ bị từ chối do dung lượng lớn vì mỗi ảnh (dạng Thumbnail) chỉ khoảng từ 3 đến 5 KB. Ảnh gốc chèn vào mail sẽ được lưu trên Yahoo server, người nhận sẽ click vào Thumbnail để mở ra và xem ảnh với độ phân giải cao nhất.
-Để sử dụng dịch vụ này, người dùng cần có tài khoản mail tại Yahoo và cài phần mềm PhotoMail tương đối nhỏ tại đây, hoặc tải trực tiếp từ trang Yahoo Mail. Bấm chuột vào Insert Photos, một thông báo sẽ được đưa ra để lựa chọn có tải tính năng mới về hay không, trong đó bao gồm cả công cụ tìm kiếm nhanh của Yahoo. E-mail kèm ảnh gửi qua PhotoMail sẽ tương thích với người dùng dịch vụ mail khác như Hotmail, AOL...
-Theo Andy Spillance, Phó giám đốc bộ phận Yahoo Mail, mọi người hiện nay vẫn thường gặp rắc rối khi gửi ảnh: "Việc tìm ảnh lưu, attach như thế nào, cũng như bị người nhận từ chối mở do dung lượng quá lớn vẫn khiến không ít người lo lắng và ngại gửi ảnh. Dịch vụ miễn phí mới của Yahoo là một giải pháp thay thế hoàn hảo."
-Bên cạnh dịch vụ ảnh, Yahoo cũng giới thiệu công cụ chặn mail không mong muốn và tăng thêm 6 ngôn ngữ mới. Như vậy, hiện nay Yahoo Mail hỗ trợ tất cả 21 loại ngôn ngữ.
-Những cải tiến này của Yahoo càng nới rộng khoảng cách số một của mình với hai đối thủ cạnh tranh đang bám đuổi sát sao là Hotmail của Microsoft và AOL của Time Warner.
-

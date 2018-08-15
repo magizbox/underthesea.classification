@@ -1,7 +1,0 @@
-Cisco phát triển công nghệ mạng thông minh
-Công nghệ mới có tên là Application Oriented Networking (AON) - mạng hướng ứng dụng - cho phép mạng máy tính có thể nói được ngôn ngữ của các phần mềm ứng dụng chạy trên chúng.
-Được giới thiệu ngày 21/6, AON hứa hẹn giúp cho mạng máy tính thông minh hơn, nhanh hơn và an toàn hơn. Taf Anthias, người đứng đầu nhóm phát triển AON, phát biểu: "Ứng dụng này có thể nói được rất nhiều ngôn ngữ khác nhau. Nếu bạn thực sự hiểu những giao dịch trên mạng, bạn có thể thu được nhiều lợi nhuận trong kinh doanh".
-AON có khả năng đọc các thông điệp khi truyền qua mạng và thực hiện các hành động khi cần thiết. Ví dụ, với một đơn đặt hàng, nó có thể xác định đơn đó thực sự đến từ một người khách có thật hay không.
-AON bao gồm cả phần cứng và phầm mềm. Phần cứng được kết hợp với hai công cụ quản lý phần mềm. AON Development Studio cho phép người tích hợp ứng dụng thiết lập luật cho thông điệp và định tuyến chúng trong quá trình truyền đi. AON Management Console giúp người quản trị mạng điều khiển các thiết bị.
-Cisco sẽ tung ra AON vào cuối năm nay và các tổ chức có thể tích hợp nó với mạng máy tính đã có sẵn. AON được thiết kế để có thể tích hợp vào bất kì mạng máy tính nào kể cả các mạng có sử dụng routers and switch của những đối thủ cạnh tranh với Cisco.
-

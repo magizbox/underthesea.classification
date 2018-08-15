@@ -1,7 +1,0 @@
-Lỗ hổng nghiêm trọng trong nhiều ứng dụng web 
-Lỗi bảo mật đã được tìm thấy trong XML-RPC cho PHP và PEAR XML_RPC, ảnh hưởng đến rất nhiều ứng dụng web, tạo điều kiện cho kẻ tấn công kiểm soát toàn bộ server.
-Hệ thống gọi thủ tục từ xa RPC (Remote Procedure Call) dựa trên XML như XML-RPC, được sử dụng với HTTP để nâng hiệu suất dịch vụ web, được đánh giá là một cách đơn giản và đang ngày càng phổ biến trong dịch vụ trực tuyến. Còn được gọi là PHPXMLRPC, giao thức này được dùng trong rất nhiều ứng dụng web quan trọng như PostNuke, Drupal, b2evolution và TikiWiki. "PHPXMLRPC có nguy cơ bị tấn công rất lớn qua lỗ hổng thực thi mã PHP từ xa, cho phép hacker khống chế máy chủ web", hãng GulfTech (Mỹ) khẳng định. 
-Lỗ hổng này xảy ra do lỗi trong thành phần làm nhẹ bớt dữ liệu chuyển tới một cuộc gọi eval() với tính năng parseRequest() của máy chủ XMLRPC. Theo GulfTech, "bằng việc tạo ra một file XML sử dụng những câu lệnh đơn trong cuộc gọi eval(), kẻ tấn công có thể dễ dàng nhúng một đoạn mã PHP vào máy chủ đó để thay đổi hệ thống".
-Phiên bản sửa lỗi trong PHPXMLRPC có thể tải tại đây. Riêng với một số ứng dụng sử dụng thành tố nói trên, như eGroup Ware và phpGroup Ware, hãng bảo mật Secunia khuyên người dùng nên chặn truy cập đến chức năng XML-RPC.
-Phiên bản 1.3.1 vá lỗi trong PEAR XML_RPC cũng đã sớm được ra mắt.
-

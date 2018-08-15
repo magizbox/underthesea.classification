@@ -1,6 +1,0 @@
-Điện thoại di động cũng có thể bị tấn công từ chối dịch vụ
-Trên thực tế, nhiều mạng di động đã bị nghẽn khi lượng SMS tăng đột biến vào những dịp lễ, ngày nghỉ... Giới hacker, với đội quân zombie hùng hậu, cũng có thể khai thác điểm yếu trong giao thức nhắn tin để kiểm soát toàn bộ hệ thống.
-Với một chút sáng tạo, kẻ tấn công sẽ dễ dàng tạo dựng cơ sở dữ liệu bao gồm các số điện thoại của từng khu vực cụ thể, bằng cách sử dụng danh bạ công cộng hoặc tìm kiếm trên Google. Sau đó, chúng có thể huy động hệ thống máy tính bị khống chế để phát đi hàng loạt tin nhắn qua những dịch vụ SMS miễn phí trên Internet.
-Do quá trình tạo cuộc gọi và gửi tin bằng điện thoại di động chỉ chiếm một tỷ lệ rất nhỏ trong toàn bộ tần số radio, lượng SMS quá lớn hoàn toàn có thể làm ngập lụt mạng.
-Nhiều năm qua, phương pháp tấn công từ chối dịch vụ DoSđã được hacker khai thác để "đánh sập" các website, nhưng cho đến nay, nó vẫn chưa được áp dụng vào mạng viễn thông di động. Dù mỗi cuộc spam tin nhắn thành công cũng chỉ khiến mạng phải đóng cửa một thời gian ngắn, hãng nghiên cứu toàn cầu IDC cho rằng các nhà điều hành vẫn nên chuẩn bị tinh thần đối phó với nguy cơ DoS ngay từ bây giờ.
-

@@ -1,5 +1,0 @@
-'Trấn lột' trực tuyến ngày một phổ biến
-Một báo cáo của Viện nghiên cứu SANS (Mỹ) hôm qua cho biết có ít nhất từ 6-7 nghìn tổ chức, doanh nghiệp đang phải nghiến răng trả tiền theo yêu sách của các băng đảng tội phạm điện tử.
-Tệ nạn này gia tăng một cách báo động. Chúng ta ít nghe nói đến nó bởi vì các nạn nhân cảm thấy rất xấu hổ khi tiết lộ việc họ bị bóp nặn tiền, Alan Paller, chuyên gia của SANS, nói. Hầu như website game trực tuyến nào cũng bị trấn lột. Hacker sử dụng thủ đoạn tấn công từ chối dịch vụ (DDoS) để làm công cụ đe dọa. Sau mỗi vụ tấn công, yêu cầu của chúng rất đơn giản, nôn tiền ra nếu không thì lại ăn đòn nữa. 
-Chia sẻ những quan ngại với Paller, Giám đốc trung tâm điều phối an ninh hạ tầng quốc gia Anh Roger Cumming nói: Số lượng các vụ tống tiền trực tuyến rất lớn. Chúng tôi còn lo rằng những thủ đoạn kiểu này còn được sử dụng để gây nguy hại cho các hạ tầng quan trọng của mỗi nước. Vấn đề giờ đây là phải tìm ra cách ngăn chặn sớm khả năng này.
-

@@ -1,5 +1,0 @@
-Ngày 17/2, HP đã có những thỏa thuận cuối cùng trong việc mua lại OuterBayTM, một công ty cung cấp hàng đầu về phần mềm lưu trữ cho các ứng dụng doanh nghiệp và cơ sở dữ liệu.
-Với công nghệ của OuterBay, HP có thể giúp các doanh nghiệp quản lý một cách hiệu quả hơn sự phát triển cơ sở dữ liệu và nâng cao hiệu suất hoạt động của cơ sở dữ liệu lên đến 80% - đây là hiệu suất hoạt động có tầm trọng yếu trong môi trường kinh doanh hiện nay, nơi mà thông tin cơ sở dữ liệu được sử dụng liên tục.
-Ngoài ra nhờ công nghệ này mà HP có thể mở rộng các giải pháp cung cấp cho khách hàng để triển khai cơ sở dữ liệu của Oracle, SQLServer và Sybase cũng như các ứng dụng doanh nghiệp chủ yếu khác như Oracle E-Business Suite, SAP and PeopleSoft.
-Cùng với những hợp đồng mua lại AppIQ và Peregrine Sysems gần đây của HP thì thỏa thuận mua thêm OuterBay nằm trong chiến lược chung của HP nhằm phát triển các sản phẩm máy chủ, lưu trữ và phần mềm đồng thời giúp khách hàng nhanh chóng thích nghi với môi trường kinh doanh luôn thay đổi và sự phát triển bùng nổ thông tin
-

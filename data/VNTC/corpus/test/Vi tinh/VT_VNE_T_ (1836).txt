@@ -1,6 +1,0 @@
-Hanoi Aptech trao chứng chỉ ACNA đầu tiên
-30 trong số 60 học viên tốt nghiệp khóa học quản trị hệ thống vừa nhận chứng chỉ tốt nghiệp. ACNA là chương trình đào tạo đầu tiên về mạng máy tính của Aptech được triển khai tại VN.
-Chương trình đào tạo quản trị hệ thống ACNA (Aptech Certified Network Administrator) bao gồm các môn học được thiết kế dựa trên kiến thức và kỹ năng thực tiễn trong việc xây dựng và quản trị mạng cục bộ (LAN) với hệ điều hành Windows của Microsoft.
-Trong 4 tháng, học viên được tiếp thu những kiến thức cơ bản về kiến trúc máy tính, tính năng và các thông số phần cứng PC. Họ sẽ có khả năng thiết kế, xây dựng và quản trị một mạng máy tính hoàn chỉnh cho các doanh nghiệp vừa và nhỏ. Sau khi kết thúc khóa học, học viên được cấp chứng chỉ Certificate of Accomplishment in Network Administration của Aptech Ấn Độ. Từ đó, họ có thể tiếp tục học nâng cao thi lấy chứng chỉ kỹ sư hệ thống (MCSE) của Microsoft.
-Ông Nguyễn Xuân Phong, Giám đốc Hanoi Aptech II, cho biết: "Trung tâm hiện có gần 300 học viên các khóa ACNA. Chúng tôi dự kiến năm 2005 sẽ đào tạo khoảng 300 học viên nữa, đáp ứng phần nào nhu cầu về sử dụng nhân viên chuyên phụ trách hệ thống mạng tại các cơ quan, doanh nghiệp".
-

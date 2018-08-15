@@ -1,5 +1,0 @@
-Gõ phím tắt bằng KeyBoarding v1.0
-Nếu bạn là người ưa thích những kiểu sử dụng phím tắt và tin rằng phương thức này nhiều khi nhanh và hiệu quả hơn con chuột, thì phần mềm này có thể là một chương trình rất thú vị.
-Trong Keyboarding có 2.900 kiểu phím tắt khác nhau và 60 câu lệnh DOS cùng công cụ chuyển đổi switch để bạn chọn lựa.
-Để tải miến phí KeyBoarding v1.0, bấmvào đây.
-

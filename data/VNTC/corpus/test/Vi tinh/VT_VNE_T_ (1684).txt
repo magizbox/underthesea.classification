@@ -1,6 +1,0 @@
-Trojan mới đe dọa Windows XP
-Tin tặc lại vừa phát tán một chương trình tấn công có khả năng lây nhiễm vào máy tính chạy hệ điều hành của Microsoft, cho phép hacker kiểm soát hệ thống nạn nhân từ xa.
-Hãng bảo mật Symantec cho biết phần mềm có tên Phel (Một cách nói lái của từ Help) khai thác một lỗ hổng liên quan tới phương thức mà Internet Explorer và Windows XP Service Pack 2 xử lý file Help gọi từ các trang web. Khiếm khuyết này không liên quan đến những lỗi file Help mà một diễn đàn an ninh mạng của Trung Quốc công bố tuần trước. 
-Từ tháng 10 đến nay vẫn chưa có bản nâng cấp cho lỗ hổng nói trên cũng như những khiếm khuyết phát hiện gần đây, mặc dù Microsoft cho biết các lập trình viên của họ vẫn đang miệt mài giải quyết vấn đề. Đại diện của hãng tuyên bố bản nâng cấp sẽ được phát hành khi chứng minh được khả năng khắc phục lỗi.
-Suốt cả năm 2004, Microsoft liên tiếp gặp phải những vấn đề lớn liên quan đến công cụ duyệt web Internet Explorer. Hậu quả là trình duyệt mã mở miễn phí FireFox đã tranh thủ cơ hội mở rộng đáng kể thị phần. 
-

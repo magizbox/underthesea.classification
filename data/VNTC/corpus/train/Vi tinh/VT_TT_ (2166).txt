@@ -1,5 +1,0 @@
- Bản nâng cấp Opera 8.51 đã được vá lỗi bảo mật
-Opera 8.51 đã được vá lại lỗi bảo mật xuất hiện trong quá trình tương tác với trình Flash Player của Macromedia. Lỗi này xuất hiện đều đặn từ Opera 5.0 đến 8.0. 
-Công ty bảo mật Secunia cũng cho biết là Opera 8.51 cũng đã khắc phục được dạng lỗi bảo mật “Previous Next One” xuất hiện trong Opera 7.0 và 8.0 chạy trên các môi trường Linux, FreeBSD và Solaris. Lỗi bảo mật dạng này tạo điều kiện cho kẻ tấn công lừa người dùng chui vào các trang web đầy mã độc. 
-Trong tháng 6 vừa qua, trình duyệt Opera 8.0 đã được nâng cấp lên thành Opera 8.01 để vá lại một số lỗ hổng bảo mật có khả năng tạo điều kiện cho bọn lừa đảo tài chính lừa gạt người dùng thông qua các trang web “đểu”. Người dùng yêu thích trình duyệt Opera nên vào đây để nâng cấp trình duyệt của mình lên phiên bản 8.51. 
-

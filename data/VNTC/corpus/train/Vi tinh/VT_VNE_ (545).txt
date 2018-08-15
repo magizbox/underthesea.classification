@@ -1,6 +1,0 @@
-Thị trường mạng riêng ảo tăng trưởng mạnh
-Theo hãng Frost and Sullivan, thị trường mạng riêng ảo (VPN) khu vực châu Á - Thái Bình Dương dự kiến đạt 5,15 tỷ USD vào năm 2009, tăng hơn 200% so với năm 2003.
-Công ty nghiên cứu cũng cho biết thị trường này năm nay sẽ tăng 25,7%, đạt hơn 2 tỷ USD, từ con số 1,687 tỷ USD của năm ngoái. Năm 2003, thị trường mạng riêng ảo phát triển mạnh tại Nhật Bản, Australia và Trung Quốc. VPN hiện được coi là thị trường dịch vụ viễn thông có tốc độ phát triển nhanh nhất, ước tăng 20,4% mỗi năm trong vòng 6 năm nữa.
-Cũng theo Frost and Sullivan, năm ngoái, Nhật Bản là thị trường VPN lớn nhất châu Á - Thái Bình Dương, chiếm 60% doanh thu, trong khi Australia đứng thứ hai với 21%. Tuy nhiên, đến cuối năm 2009, Trung Quốc và Ấn Độ được dự đoán là hai thị trường VPN trọng điểm của khu vực.
-Mạng riêng ảo là cách thức kết nối với các hệ thống máy tính sử dụng đường truyền công cộng. VPN gồm các tính năng an ninh như mã hóa để đảm đường truy cập được dành riêng cho những người đã được xác thực và dữ liệu không thể bị can thiệp. Nó cho phép người sử dụng truy cập vào mạng văn phòng hoặc mạng cá nhân từ bất cứ nơi nào có kết nối Internet với chi phí thấp, trong khi nếu dùng dịch vụ Internet dial up, người sử dụng sẽ phải trả cước điện thoại quốc tế cao hơn.
-

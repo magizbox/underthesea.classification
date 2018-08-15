@@ -1,6 +1,0 @@
- Phát hiện một nhóm hacker nguy hiểm ở Trung Đông
-Tyler Wells, giám đốc kỹ thuật của FaceTime đã chính thức thông báo cho Cục điều tra liên bang (FBI) rằng nhóm hacker này hiện đang điều khiển khoảng 17.000 máy tính bị chiếm đoạt từ xa chỉ bằng một máy chủ duy nhất, và máy chủ này cũng là một máy chủ bị chiếm đoạt từ xa mà chủ nhân của nó không hề hay biết. Nếu chịu khó tung ra các cuộc tấn công, nhóm hacker này có thể chiếm đoạt thêm hàng trăm máy tính khác chỉ trong một ngày. 
-Well cho biết rằng nhóm này rất chuyên nghiệp trong việc sử dụng công cụ BitTorrent, các thông điệp tin nhắn có cài virus hoặc các phần mềm gián điệp sử dụng giao thức IRC để tấn công và chiếm đoạt máy tính. 
-FaceTime đã xác định đích danh tối thiểu một virus có chứa phần mềm gián điệp do nhóm hacker này tung lên mạng nhắn tin AOL vào ngày 28-10. Con virus này thuộc dạng cực kỳ nguy hiểm khi nó có khả năng thoát khỏi sự “truy nã” của hầu hết mọi công cụ bảo mật hiện nay. Phần mềm gián điệp do con virus này tung ra có khả năng ghi nhận lại mọi username, password và các thông tin cá nhân khác, giúp cho hacker dễ dàng chiếm đoạt máy tính và tiền bạc của mọi người dùng ngây thơ. 
-Đại diện của FBI đã không đưa ra bất kỳ lời bình luận gì về phát hiện của FaceTime. 
-

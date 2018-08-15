@@ -1,6 +1,0 @@
- Hạ viện Mỹ thông qua dự luật chống spyware
-Theo dự luật này, họ có thể phạt 3 triệu USD đối với trường hợp thu thập thông tin cá nhân bất hợp pháp, làm thay đổi các hướng tìm kiếm, thay đổi trang chủ, thay đổi thiết lập bảo mật hoặc gửi hàng loạt quảng cáo pop-up cáo tới người dùng máy tính mà không được sự cho phép. 
-Điều khoản SPY của dự luật cũng yêu cầu phần mềm thu thập thông tin cá nhân phải thông thông báo với người sử dụng máy tính trước khi cài vào máy tính để được sự cho phép, và phải cung cấp các tùy chọn chi tiết để họ dễ dàng gỡ bỏ. Dự luật này được hầu hết các thành viên trong Hạ viện hoan ngênh, với 45 phiếu thuận và 4 phiếu chống. 
-Cách loại bỏ các phần mềm spyware trên PC Cùng ngày, Ủy ban Tư pháp Hạ viện đề xuất một dự luật quy định hình phạt tù tối đa là 5 năm với những người sử dụng spyware để ăn cắp nhân dạng hoặc phạm các tội khác 
-Hiện nay, những phần mềm gián điệp xâm lấn vào các hệ thống máy tính ngày càng nhiều. Theo một nghiên cứu mới của Web@Work , cứ 10 lãnh đạo CNTT được phỏng vấn thì có tới 9 người nói PC ở công ty họ có chương trình theo dõi nhân viên dùng mạng. 
-

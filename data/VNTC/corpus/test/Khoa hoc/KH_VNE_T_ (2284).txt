@@ -1,8 +1,0 @@
-Phần mềm điều chỉnh giọng nói khi nghe hội thoại
-Nhiều người thường xuyên nói to và không thể kiểm soát được âm lượng khi nhận cuộc gọi. Khi đó, chương trình Jerk-O-Meter sẽ giúp họ điều chỉnh giọng nhỏ nhẹ và dễ chịu hơn.
-Thành công mới của viện công nghệ Massachusetts (MIT - Mỹ) đo độ nhấn trong giọng nói và đánh giá theo thang điểm từ 0 đến 100 để người sử dụng biết giọng của họ ở mức độ nào.
-Jerk-O-Meter gửi một tin nhắn tới người dùng khi họ nói chuyện để thông báo rằng âm lượng đang vượt qua khỏi tầm kiểm soát. Người sử dụng cũng có thể cấu hình phần mềm để người bên kia đầu dây biết mình đang bận và do đó sẽ không tập trung vào cuộc gọi được.
-Trưởng dự án Anmol Madan cho biết vợ ông đã nảy ra ý tưởng này khi cùng ông bàn bạc về một nghiên cứu đo giọng nói nhằm đánh giá sự quan tâm của người tham gia hội thoại. "Giá trị mà công nghệ này mang lại là ta có thể dùng thiết bị đặc biệt và máy tính để xác định mọi người chú ý đến vấn đề gì khi nói chuyện", Madan nói.
-Ý tưởng về Jerk-O-Meter dựa trên một nghiên cứu không công bố về đề tài này và một tài liệu khác của viện MIT mang tên "Sự thu hút qua giọng nói". Nghiên cứu đó kết luận rằng ta hoàn toàn có khả năng nhận biết người đối diện có để ý đến câu chuyện hay không dựa trên những dấu hiệu bằng lời và cử chỉ. 
-Madan khẳng định Jerk-O-Meter sẽ được hữu dụng trong việc đánh giá sự quan tâm của khách hàng với quảng cáo, nghiên cứu, chương trình TV, điện ảnh và thậm chí cải thiện kỹ năng của các chuyên viên tiếp thị.
-

@@ -1,9 +1,0 @@
-Robot nhỏ nhất thế giới
-Các nhà nghiên cứu Mỹ vừa chế tạo một robot hình sâu đo nhỏ đến nỗi phải cần một kính hiển vi mới nhìn thấy được. Thực tế 200 con nối đuôi nhau có thể tạo nên một vũ điệu conga quanh viên kẹo MM.
-Robot tí hon có chiều rộng 60 micromet (bằng độ dày của sợi tóc con người) và dài 250 micromet, đưa nó trở thành một robot điều khiển không tháo rời nhỏ nhất từ trước tới nay.
-"Nó nhỏ hơn hàng chục lần về chiều dài và hàng nghìn lần về khối lượng so với các robot tí hon không tháo lắp có thể điều khiển được", nhà thiết kế Bruce Donald tại Đại học Dartmouth nói. "Có thể điều khiển được tức là cũng giống như một cái ôtô, bạn có thể lái nó trên một mặt bằng và đưa nó đi bất cứ đâu bạn muốn. Nó không chạy trên bánh xe nhưng bò giống như con sâu đo, mỗi giây có thể thực hiện được hàng chục nghìn bước dài 10 nanomet. Nó chuyển hướng bằng cách thò ra một cái chân silicon và xoay tròn trên chân trụ đó".
-Do robot có kỹ thuật chuyển hướng cải tiến và không phải tháo lắp nên nó có thể di chuyển tự do trên bề mặt mà không cần đường ray, vốn hạn chế sự linh hoạt của những robot siêu nhỏ trước đây. 
-"Những cỗ máy nhỏ xíu thường mắc phải những thứ mà nó chạm vào, giống như cát bám vào kẽ chân trên bãi biển. Vì thế chúng tôi tạo ra những robot siêu nhỏ này không có bánh xe hoặc khớp nối, thay vào đó nó tự trượt êm ái trên thân giống như con sâu đo. Ở phạm vi nhỏ, cỗ máy chạy cực nhanh".
-Để đi lại robot sử dụng 2 bộ cơ độc lập, một cái để tiến lên phía trước và cái còn lại để rẽ. Nó không có hướng đi lập trình từ trước mà phản ứng với những thay đổi trong mạng lưới điện cực mà nó di chuyển trên đó. Mạng lưới này cũng cung cấp năng lượng cần thiết cho robot để di chuyển.
-Robot kiểu này sẽ giúp ích trong công việc do thám, sửa chữa điện tử, thăm dò môi trường nguy hiểm, thậm chí xử lý mô, tế bào con người.
-

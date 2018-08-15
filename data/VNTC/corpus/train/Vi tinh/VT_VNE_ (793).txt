@@ -1,8 +1,0 @@
-Microsoft nỗ lực thúc đẩy tính năng tìm kiếm
-Hôm nay, bộ phận MSN của Microsoft thông báo đã "thâu tóm" công ty Lookout Software. Đây là hãng có công nghệ tìm kiếm thông điệp trong ứng dụng e-mail Outlook của Microsoft.
-Tuy nhiên, hiện vẫn chưa có thông tin chi tiết về thương vụ này vì Microsoft không tiết lộ về tài chính cũng như việc công nghệ của hãng Lookout sẽ được tích hợp như thế nào. 
-Theo hãng phần mềm số một thế giới, đây là vụ sáp nhập nằm trong những nỗ lực của Microsoft với mục đích đổi mới tổ chức của mình, trong đó có việc tích hợp khả năng tìm kiếm vào hệ điều hành Windows để search file và tài liệu.
-Yusuf Mehdi, Phó giám đốc MSN, khẳng định: "Mục đích của chúng tôi là nâng cấp các dịch vụ search hiện nay để có thể cung cấp những câu trả lời trực tiếp cho người lướt Web. Đồng thời, MSN cũng muốn hỗ trợ khách hàng tìm kiếm thông tin từ nhiều nguồn khác nhau".
-Microsost sẽ phát huy công nghệ của Lookout và phối hợp cùng các đơn vị phát triển trong phạm vi hãng. Mike Belshe, một trong những người sáng lập của Microsoft sẽ tham gia vào đội ngũ MSN Search.
-Hai tuần sau khi Microsoft thông báo về một phiên bản vá lỗi của MSN Search, đại gia phần mềm này quyết định xúc tiến thương vụ này. Mặc dù Microsoft vẫn duy trì thỏa thuận đưa danh mục tìm kiếm tính cước vào dịch vụ của Overture Services, MSN cũng sẽ tách một số link của các nhà quảng cáo vì những đường liên kết này vốn đã được Yahoo đảm nhiệm.
-

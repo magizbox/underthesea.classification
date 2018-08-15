@@ -1,7 +1,0 @@
-Oracle lập kỷ lục về thử nghiệm hệ thống kho dữ liệu 3 terabyte
-Hãng Oracle vừa công bố một kỷ lục thế giới trong kết quả thử nghiệm TPC-H dung lượng 3 terabyte sử dụng hệ thống Database 10g và Real Application Clusters, thể hiện khả năng của hãng trong công tác quản lý chi phí hiệu quả đối với những hệ thống kho dữ liệu quy mô lớn trên các máy chủ Linux.
-Chạy trên một hệ thống máy chủ Cluster HP ProLiant DL740 gồm 8 node, mỗi hệ thống sử dụng 4 bộ vi xử lý Intel Xeon 3,0 GHz trên nền hệ điều hành Red Hat Enterprise Linux 3.0, Oracle Database 10g và Real Application Clusters đạt được 22.387,9 lệnh một giờ với hệ thống lưu trữ có dung lượng 3 terabyte (22.387,9 QphH@3000GB), đạt hiệu suất giá là 93 USD một lệnh một giờ với hệ thống có dung lượng 3.000 GB ($93/QphH@3.000GB). 
-Ngày càng nhiều công ty đang chuyển sang sử dụng hệ điều hành Linux cho các dự án kho dữ liệu của mình nhằm đạt được hiệu suất làm việc cao hơn với chi phí đầu tư thấp, ông Richard Sarwal, Phó chủ tịch Nhóm hiệu suất hoạt động Oracle Server, phát biểu. Đây là kỷ lục TPC-H thứ hai của chúng tôi đối với Database 10g trên một hệ thống máy chủ cluster dùng Linux.
-Database 10gcó khả năng quản lý tất cả dữ liệu từ thông tin kinh doanh truyền thống tới các văn bản XML và thông tin về vị trí/không gian, giúp tăng cường sức mạnh cho các ứng dụng xử lý giao dịch trực tuyến, hỗ trợ việc đưa ra quyết định và quản lý nội dung.
-Hiện Oracle còn nắm các kỷ lục thế giới về kết quả thử nghiệm TPC-H trên các hệ thống máy chủ chạy Linux có dung lượng lưu trữ 1 và 3 terabyte.
-

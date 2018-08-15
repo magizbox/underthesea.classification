@@ -1,9 +1,0 @@
-Nói sai tác giả MS-DOS phải đền 75.000 USD
-Tim Paterson, người bán lại hệ điều hành tương thích Intel 86-DOS (còn gọi là QDOS) cho Microsoft năm 1980, đang thưa kiện Harold Evans, cựu tổng biên tập tờ Times và hãng xuất bản Time Warner với cáo buộc bôi nhọ danh dự.
-Tim Paterson.
-Harold Evans.
-Gary Kildall.
-Paterson đòi bồi thường số tiền trên vì cho rằng mình đã phải hứng chịu những "tổn thương nghiêm trọng về tinh thần". Trong cuốn sách They Made America (Họ đã làm nên nước Mỹ) phát hành năm ngoái, Evans đã dành hẳn một chương để nói về Gary Kildall, người sáng lập hãng Digital Research. Evans gọi phần mềm của Paterson là một sự gian lận và sao chép bừa bãi tác phẩm CP/M của Kildall - vào thời điểm đó là hệ điều hành hàng đầu đối với các máy vi tính micro. 
-Trên thực tế, hãng máy tính Seattle Computer Products (SCP) của Paterson có sản xuất một card plug-in 8086 cho loại máy tính S-100 và ông này sau đó viết một hệ điều hành đi kèm. Trong đơn kiện của mình, Paterson cho biết ông muốn giao diện lập trình ứng dụng cho hệ điều hành của mình được tương thích với CP/M đang dẫn đầu thị trường. Tôi nhận thấy định dạng mà CP/M sử dụng là một cản trở lớn cho nên đã chuyển sang nền Stand-Alone Disk BASIC của Microsoft và dùng hệ thống phân bổ file FAT (File Allocation Table), Paterson viết. Kết quả của việc kết hợp này là MS-DOS ra đời vào tháng 8/1980. 
-Paterson khẳng định Evans đã lầm khi cho rằng Kildall là nhà phát minh ra DOS và việc John Wharton, giảng viên đại học Standford, nói rằng Paterson không có cải tiến gì với cơ chế INT-21 của Kildall cũng là hoàn toàn sai.
-

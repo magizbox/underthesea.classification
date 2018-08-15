@@ -1,9 +1,0 @@
-Thiết bị phân biệt tờ bạc cho người mù
-Một nhà nghiên cứu Australia đã phát minh ra một thiết bị điện có thể báo động cho biết tờ giấy bạc đưa vào là 5 đôla hay 50 đôla. Phát minh này sẽ giúp cho người mù tránh khỏi những trò lừa đảo. 
-Với việc phát minh ra chiếc máy bé bằng lòng bàn tay này, Aimee Hinwood, tốt nghiệp Đại học New South Wales, đã đoạt giải cho Những phát minh hữu ích. 
-Thiết bị có một khe soi nhỏ, và khi người ta đút một tờ bạc vào đó, nó sẽ báo cho biết giá trị của đồng tiền. 
-"Các loại tiền Australia được tạo ra rất ít hỗ trợ người mù", Hinwood nói. "Chẳng có các dấu nổi hoặc hình dáng đặc trưng nào và chúng có cùng kích cỡ như nhau, điều đó khiến người ta không thể phân biệt được trừ phi nhìn thấy tiền". 
-Thiết bị do Hinwood thiết kế sẽ phân biệt độ sáng của các đồng tiền, dựa trên độ hấp thụ ánh sáng màu khác nhau. Chẳng hạn, ánh sáng đỏ đi xuyên qua một đồng tiền màu đỏ, nhưng ánh sáng xanh chiếu qua đồng tiền đó sẽ được hấp thụ mạnh nhất. 
-Vì mỗi đồng tiền có màu sắc khác nhau, nên chiếc hộp thông minh có thể phân biệt được một tờ 100 đôla Australia màu xanh lục với tờ 20 đôla Australia màu cam. 
-Hinwood mô tả phát minh của mình là "khá chính xác", nhưng cho biết cô đang thử nghiệm với một phương pháp mới chuẩn hoá số liệu sao cho thiết bị làm việc đúng trong mọi tình huống. 
-

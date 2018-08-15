@@ -1,8 +1,0 @@
-Cơ giả làm việc như cơ thật
-Các bó cơ nhân tạo ra đời trong phòng thí nghiệm khỏe gấp 100 lần so với cơ thật, một nghiên cứu mới đây cho thấy. Hai loại cơ nhân tạo siêu khỏe này có thể biến năng lượng hóa học thành năng lượng cơ, khiến cho chúng hoạt động giống như thật.
-Tiến sĩ Von Howard Ebron và cộng sự, từ Viện NanoTech và Đại học Texas tại Dallas đã công bố tiến bộ này trên tạp chí Science. 
-Cơ nhân tạo có thể giúp mở ra một loại hoàn toàn mới trong lĩnh vực cơ pin nhiên liệu. Loại cơ này nhận nhiên liệu hóa học, chẳng hạn hydro hay methanol, qua một hệ thống tuần hoàn, biến thành năng lượng cơ học, và dự trữ những năng lượng dư thừa để sử dụng về sau.
-Những bó cơ như vậy có thể được dùng để di chuyển các robot và khung xương robot, hoặc tham gia vào những cấu trúc trong các phương tiện đường biển và đường không với những hình dáng khác nhau.
-"Trong tương lai, các robot hình người ngồi cạnh bạn trong những quán bar có thể uống rượu để lấy sức làm việc cho ngày hôm sau", giáo sư Ray Baughman, trưởng nhóm nghiên cứu đồng thời là Giám đốc Viện NanoTech nói.
-Một trong những loại cơ nhân tạo thành công nhất chứa một tấm vật liệu co giãn, không dẫn điện, nằm kẹp giữa hai lớp vật liệu dẫn điện. Khi cho dòng điện đi qua, điện tích âm và dương tích lũy trên các lớp đối diện của cái "bánh kẹp" này. Chúng hút lẫn nhau và ép lên lớp cao su trung tâm, tạo cho bó cơ khả năng mềm dẻo. Thông thường, cơ nhân tạo được nạp điện bằng pin hoặc ắc quy. Nhưng nhóm của Baughman tạo ra hai loại cơ nhân tạo được nạp diện bằng một phản ứng hóa học, loại bỏ nhu cầu sử dụng pin hoặc ắc quy có tuổi thọ ngắn.
-

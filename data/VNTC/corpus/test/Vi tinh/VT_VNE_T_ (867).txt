@@ -1,8 +1,0 @@
-Công cụ chuyển đổi định dạng ảnh Konvertor
-Konverter là một trình xem multimedia và chuyển đổi cực mạnh. Phần mềm này có thể mở hầu hết mọi dạng file khác nhau, dù là hình ảnh, văn bản, âm thanh hay video rồi chuyển nó sang định dạng thông dụng hơn mà bạn muốn dùng.
-Các công cụ Konverter cung cấp mang nhiều tính trực giác, cho phép bạn chọn, xem, chỉnh sửa, tổ chức và in ấn ảnh. Giao diện linh hoạt và hiệu quả cho phép vận hành nhanh, với khả năng hiển thị hình ảnh chất lượng cao. 
-Dùng chung plug-in với Photoshop và nhiều trình ứng dụng khác, Konverter hỗ trợ tới 849 định dạng. Vì vậy, dù file bạn mở kỳ lạ đến đâu, phần mềm này vẫn chuyển đổi được sang một format thông dụng khác. Sử dụng nó cũng rất đơn giản: Bạn chỉ cần chọn một thư mục, mở một file, xác định thư mục đích và định dạng muốn chuyển đổi. 
-Ngoài ra, bạn cũng có thể vào trang chủ của Konverter để tải về các plug-in bổ sung để thực hiện vô số tác vụ khác như rip và burn đĩa CD, mặt nạ dùng riêng...
-Chương trình còn một số khiếm khuyết như không xử lý được file âm thanh và hình ảnh RAM/RM. Nó cũng không thông báo cho bạn khi thực hiện xong chuyển đổi. Và nếu bạn chọn đích có cùng định dạng với file nguồn, nó cũng không ý kiến gì cả. Mặc dù vậy, vẫn hiếm có chương trình nào có được sức mạnh của Konverter.
-Bản dùng thử nặng 7 MB, có thể tải ở đây.
-

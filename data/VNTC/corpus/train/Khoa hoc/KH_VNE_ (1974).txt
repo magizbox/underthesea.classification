@@ -1,7 +1,0 @@
-Xe dò phá mìn dưới nước
-Một loại xe có thể định vị và phá bom mìn dưới nước vừa được quân đội Anh tiết lộ. Được mệnh danh là Talisman, phương tiện ngầm này sử dụng phần mềm máy tính cho phép nó hoàn tất sứ mệnh mà không cần người dẫn đường.
-Hầu hết công việc phá mìn dưới nước hiện nay phụ thuộc vào thợ lặn hoặc các khối thuốc nổ nhỏ được thả từ trên tàu xuống. Người ta cũng sử dụng những thiết bị vận hành từ xa được nối với tàu bằng một sợi dây, song chính dây cáp này lại hạn chế tầm hoạt động của thiết bị, và thường nó chỉ cách bãi mìn vài trăm mét, khiến cho những người liên quan có thể gặp nguy hiểm.
-Khắc phục nhược điểm trên, Talisman có thể tự đi xa vài kilomet để tới bãi mìn. Khi được thả xuống nước, nó sẽ sử dụng phần mềm chuyên dụng để định vị mục tiêu và tránh những vật cản. Một khi tìm ra quả mìn, xe sẽ nhoi lên mặt nước, báo hiệu cho một người điều khiển ở xa và chờ hướng dẫn tiếp theo. Nó cũng có thể lặn xuống trở lại và phá quả mìn bằng một ngư lôi nhỏ.
-Nguyên mẫu Talisman thuộc dự án UUV (thiết bị dưới nước không người lái) do tập đoàn BAE Systems ở Waterlooville, Anh, phát triển. Họ hy vọng sẽ tạo ra thị trường cho loại xe này bằng cách thuyết phục các khách hàng quân sự về khả năng tiết kiệm thời gian, trang thiết bị và cả mạng sống của nó.
-Talisman có kích cỡ một cái xe hơi lớn, có thể lặn xuống độ sâu 300 mét. Trong điều kiện tối ưu, nó có thể đạt vận tốc 9 km/giờ, trong khi mang theo các camera, thiết bị dò mìn và các cảm biến khác.
-

@@ -1,6 +1,0 @@
-Nén nhiều file (1)
-Thân gởi các bạn! Tôi biết rằng mình có thể dùng unzip.exe để mở các zipfile.zip hay extract.exe để mở các cabfile.cab. Nhưng xin hỏi nếu mình muốn làm ngược lại nghĩa là bỏ nhiều files hay folders vào một zipfile.zip hay vào một cabfile.cab nào đó thì phải cần file gì để làm được như vậy. Nếu cần thì download file đó ở đâu? Xin các bạn cho một ví dụ cách dùng của file đó. Cám ơn nhiều. 
-TienNguyen
-Hồi âm:
-Copy tất cả những gì bạn muốn làm cho vào chung một folder và dùng winrar mà nén thành file rar. 
-

@@ -1,5 +1,0 @@
- Tìm đường về nhà bằng điện thoại di động
-Hai nhà nghiên cứu người Anh vừa phát triển phần mềm giúp người sử dụng tìm đường bằng điện thoại di động. Tất cả những gì bạn cần làm là lấy điện thoại ra và chụp ảnh tòa nhà gần nhất nơi bạn đang đứng rồi gửi tin nhắn MMS tới công ty hỗ trợ dịch vụ này. Hệ thống sẽ so sánh ảnh tòa nhà với một cơ sở dữ liệu ảnh. Cơ sở dữ liệu này chứa một biểu diễn đường phố hình 3 chiều. 
-Phần mềm thay đổi bức ảnh chụp một góc tòa nhà này thành ảnh chụp đối diện, sau đó tìm các đặc điểm của toà nhà, ví dụ như góc cửa sổ, cửa chính… Cuối cùng chương trình tìm kiếm trong cơ sở dữ liệu ảnh để đưa ra kết quả, dựa trên trạm phát sóng di động mà người dùng gửi tin nhắn tới. Sau đó nó sử dụng sự khác nhau của hai bức ảnh để tính toán vị trí của người chụp ảnh. 
-Ít phú sau, hệ thống sẽ cung cấp kết quả về vị trí bạn đang đứng, chính xác đến từng mét, giúp bạn có thể về nhà một cách dễ dàng nhất. Hệ thống mới này tốt hơn hệ thống định vị toàn cầu chỉ có thể xác định chính xác trong phạm vi 20 m, nhưng không hiệu quả trong những khu vực đang xây dựng. 
-

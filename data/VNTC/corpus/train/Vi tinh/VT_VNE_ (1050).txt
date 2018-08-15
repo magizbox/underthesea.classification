@@ -1,7 +1,0 @@
-Nokia giới thiệu giải pháp GSM/EDGE tại Việt Nam
-Bộ phận giải pháp mở rộng thị trường di động của hãng điện thoại Phần Lan Nokia Networks vừa ra mắt bộ giải pháp và dịch vụ tổng thể mạng GSM/EDGE tại triển lãm Telecomp 2004 ở Hà Nội.
-EDGE (Enhanced Data for GSM Evolution) là thế hệ mới của mạng GSM (Global System for Mobile Communications), cho phép cung cấp dịch vụ truyền dữ liệu (trung bình) nhanh gấp 3 lần công nghệ GPRS (General Packet Radio Service - dịch vụ vô tuyến chuyển mạch gói) hiện tại, với mức chi phí thấp hơn. Mọi dịch vụ viễn thông di động đều có thể được hưởng lợi từ EDGE.
-Công nghệ này cũng cho phép phủ sóng không lỗi với dung lượng đường truyền lớn hơn cho các dịch vụ 3G, như trực tải, video/audio clips chất lượng cao, đảm bảo tính viễn thông di động thực để duyệt web và truy nhập dữ liệu doanh nghiệp. 
-Ông Bob Bird, Phó chủ tịch Nokia Networks châu Á - Thái Bình Dương, cho biết: "Với mật độ viễn thông hiện còn hạn chế (11,4%), Việt Nam là thị trường lý tưởng để các nhà khai thác cung cấp dịch vụ viễn thông có chất lượng quốc tế. Sự tăng trưởng của các dịch vụ thoại qua viễn thông di động sẽ góp phần thu hẹp khoảng cách kỹ thuật số, đưa lợi ích của thông tin và viễn thông đến với từng người dân. Mục đích của Nokia là tạo thêm điều kiện để các nhà khai thác ở VN đẩy mạnh hơn nữa việc cung cấp dịch vụ viễn thông di động với giá cả phải chăng".
-Nokia đã cung cấp thiết bị GSM/EDGE cho 81 khách hàng ở 40 nước trên thế giới. Hiện hãng Nokia cung cấp công nghệ EDGE cho 9 nhà khai thác ở khu vực châu Á - Thái Bình Dương.
-

@@ -1,9 +1,0 @@
-Hỏi về các chuẩn bấm mạng (2)
-Toi thuong xuyen phai bam dau mang nhung co luc mang dear rat cham, nhat la khi khong su dung Windows 98. Hay chi gium toi biet cac chuan bam dau mang: bam 2 may - bam mang qua Hub 10 base - bam qua Swish 10/100 base. Neu co cac nao giup mang dear nhanh hon thi hay chi cho toi biet voi. Cam on. 
-Do Ngoc Bach
-Hồi âm:
-Xin vui long tham khao thong tin can thiet tai website : www.trithuc.com trong chuyen muc Tap Chi CNTT Binh Duong.Cam on.
-Cong ty TNHH Tri Thuc
-Hien nay de thiet lap mang hay dung cap xoan voi chuan RJ45 .Cap gom 8 soi day xoan voi nhau tung doi theo mot tieu chuan de chong nhieu. That ra chi co 4/8 day duoc dung ma thoi .Bam day rat quan trong phai theo mot tieu chuan rieng de dat dc duong truyen xa nhat 100m va hai dau fai giong nhau ( neu khong thi chi duoc vai truc met ) .
-Tat ca khi su dung cho HUB va SWITCH deu bam theo tieu chuan do, Hub - 10mbps con Switch la 100mbps , con cai ma ban dang dung goi la HUB-SWITCH 10/100mbps no co chuc nang cua HubSwitch ( tat nhien la gia de hon switch) .Tot nhat nen dung Switch vi no thong minh va duong truyen nhanh hon HuB .Con neu ma phong net cua ban chi su dung Hub va can nhieu Hub noi voi nhau thi hai Hub noi voi nhau qua dau uplink (con dau kia cam vao chan thuong) , Switch noi voi nhau thi cam vao chan binh thuong, day cap fai bam cheo dau ( co nghi la bam nguoc lai so voi dau kia) .Nhu toi da noi o tren chi co 4 day lam viec ma thoi nen cheo dau ko phai la cheo ca 8 day. Sau day la tieu chuan:   Bam noi may vao hub-switch: Bam cheo dau:   1- Trang- cam 1 1 3   2- Cam 2 2 6   3- Trang-Xanh da troi 3 3 1   4- Xanh la 4 4 4   5- Trang-xanh la 5 5 5   6- Xanh da troi 6 6 2   7- Trang-Nau 7 7 7   8- Nau 8 8 8.   Nhu vay la ban da biet 4 day lam viec roi chu? chuc thanh cong!
-

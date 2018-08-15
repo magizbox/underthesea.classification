@@ -1,9 +1,0 @@
-ICANN phê chuẩn tên miền cho điện thoại di động
-Do sức ép từ phía các hãng liên quan, trong đó có Microsoft, một domain Internet mới với hậu tố ".mobi" đã được Tổ chức tên miền quốc tế tán thành để thiết kế website dành riêng cho điện thoại di động. 
-Sẽ xuất hiện ngay trong năm 2006, các website sử dụng tên miền mới sẽ được thiết kế giới hạn trong nguồn di động. Tổ chức bảo trợ cho tên miền mới là Mobi JV, bao gồm các nhà điều hành mạng và hãng sản xuất điện thoại, trong đó có Microsoft, Ericsson, Nokia, T-Mobile, Vodafone, Telefonica Movilies, Hutchison 3 và Hiệp hội GSM.
-"Tên miền .mobi sẽ khuyến khích và thúc đẩy việc sử dụng những tính năng cao cấp trên các sản phẩm di động, do đó, thị trường tiềm năng cho thiết bị này sẽ ngày một tăng lên", Mobi JV tuyên bố. 
-Trong khi đó, Jilie Ask, chuyên gia trong lĩnh vực không dây của hãng nghiên cứu Jupiter Research, nhận định: "Sự quan tâm của khách hàng sẽ vô cùng hạn chế. Mọi người mua điện thoại di động phụ thuộc vào giá cả, chứ không phải tính năng cải tiến". Theo Ask, những trang web đầu tiên với tên miền .mobi sẽ phải mất vài năm tiếp theo để thu hút sự chú ý của khách hàng.
-Ngược lại, đa số các hãng viễn thông di động nhấn mạnh rằng với tốc độ cao và nhiều tính năng mới mẻ của mạng 3G, hệ thống website mới sẽ là động lực cho khách hàng nâng đời điện thoại của mình và thúc đẩy các hãng truyền thông đầu tư cơ sở hạ tầng mới.
-Những cuộc thương thuyết cho tên miền .mobi bắt đầu từ tháng 12 năm ngoái. Trước đó, năm 2000, ICANN đã phản đối dự án xây dựng tên miền cho điện thoại di động. 
-Tháng 6 vừa qua, ICANN đã phê chuẩn tên miền .xxx cho các website có nội dung người lớn, cùng với hai tên miền chuyên biệt .jobs và .travel.
-

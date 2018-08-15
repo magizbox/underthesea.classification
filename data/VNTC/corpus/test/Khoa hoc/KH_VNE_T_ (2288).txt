@@ -1,7 +1,0 @@
-Chất cách điện Mott thay thế chip silicon
-Nhóm các nhà khoa học thuộc Viện nghiên cứu điện tử viễn thông ETRI (Hàn Quốc) cho biết họ đã phát triển thành công một phương pháp mới, ưu việt hơn chất bán dẫn hiện nay trong việc sản xuất chip chứa các mạch điện siêu mỏng.
-Công nghệ Mott Insulator (chất cách điện Mott) được đặt theo tên nhà khoa học người Anh Nevill Mott từng đạt giải Nobel Vật lý năm 1977. Dù làm bằng kim loại, Mott không dẫn điện trong trạng thái bình thường. Tuy nhiên, dòng điện vẫn có thể chạy qua Mott ở nhiệt độ khoảng 67 độ C. 
-"Silicon sản sinh nhiệt, do đó ta không thể đặt các mạch điện cực mỏng trên mỗi chip. Trong khi đó, kim loại Mott không tạo ra nhiệt nhưng vẫn thực hiện có khả năng thực hiện những nhiệm vụ tương tự chất bán dẫn", Lim Joo-Hwan, Giám đốc Viện ETRI, khẳng định.
-Với Mott, nhà sản xuất có thể xây dựng thiết bị xử lý sử dụng các mạch điện nhỏ khoảng 5 nanometer (nm). Chip bán dẫn, về lý thuyết, có thể chứa vi mạch 40 nm, nhưng hiện tại trên thị trường chỉ xuất hiện sản phẩm 90 nm. Năm ngoái, hãng điện tử Samsung công bố chip nhớ flash đầu tiên dựa trên mạch 60 nm và đã được coi là một cải tiến gây chấn động.
-"Chất bán dẫn của thế kỷ 20 cuối cùng sẽ nhường đường cho chất cách điện Mott", trưởng nhóm nghiên cứu Hyun-Tak tuyên bố. Ông dự đoán Mott sẽ mở ra một thị trường toàn cầu mới, mang lại doanh thu 100 tỷ USD mỗi năm.
-

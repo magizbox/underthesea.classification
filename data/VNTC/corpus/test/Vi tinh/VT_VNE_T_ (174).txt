@@ -1,7 +1,0 @@
-Chip Intel chưa chạy trên chuẩn Trung Quốc
-Hôm qua, hãng bán dẫn hàng đầu thế giới cho biết sẽ không thỏa hiệp với kế hoạch áp đặt chuẩn bảo mật không dây WAPI của chính phủ Trung Quốc. Điều này báo hiệu quan hệ bất ổn của các công ty Mỹ với một trong những thị trường lớn nhất của họ.
-Nhà sản xuất chip của Mỹ khẳng định chuẩn WAPI không phù hợp với bộ vi xử lý dựa trên chuẩn toàn cầu hiện tại, có tên Wi-Fi. Sau khi nghiên cứu, chúng tôi kết luận rằng không thể có một giải pháp kỹ thuật cho vấn đề, bao gồm tính tương thích, sự thực hiện, triển khai và hỗ trợ ứng dụng, phát ngôn viên Intel, Chuck Mulloy, khẳng định. Hậu quả là hãng có thể ngừng bán một số bộ vi xử lý phổ biến nhất của mình tại thị trường phát triển nhanh nhất thế giới.
-Ngoài Intel, cũng chưa công ty Mỹ nào có kế hoạch tung ra những bộ vi xử lý phù hợp với WAPI trước 1/6/2004, thời hạn chính phủ Trung Quốc ấn định chuyển sang chuẩn mới. Các doanh nghiệp Mỹ đang phản đối quyết liệt. Còn đại lục thì vẫn kiên định với kế hoạch này, dựa vào 24 công ty trong nước.
-Thông thường, các chuẩn được thảo luận rộng rãi, và xây dựng bởi một nhóm công ty sản xuất và bán sản phẩm có liên quan. Trong trường hợp WAPI, các công ty cho rằng chính phủ Trung Quốc tự xây dựng chuẩn và không chia sẻ rộng rãi các chi tiết.
-Ngoài giới doanh nhân, đầu tháng này, ba quan chức cao cấp trong nội các Mỹ cũng viết một lá thưgửi các phó thủ tướng Trung Quốc, bày tỏ sự lo ngại về vấn đề trên.
-

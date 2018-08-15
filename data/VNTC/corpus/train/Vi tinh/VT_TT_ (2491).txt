@@ -1,6 +1,0 @@
- Nhân viên Microsoft lấy trộm mã tìm kiếm của AltaVista
-Chavet, cựu nhân viên của AltaVista, đã xâm nhập bất hợp pháp vào các máy tính của AltaVista vào tháng 3 năm 2002, sau khi nghỉ việc ở công ty này và trước khi làm việc tại công ty Microsoft. 
-Ngày 9-7 vừa qua, thanh niên này bị bắt và bị cáo buộc đã tấn công vào hệ thống máy tính của AltaVista để lấy mã nguồn và gây thiệt hại khoảng 5.000 USD cho AltaVista. Theo các công tố viên liên bang, tin tặc này có thể phải ngồi tù tối đa 5 năm với khỏan tiền phạt 250.000 USD. 
-Phát ngôn viên của hãng Microsoft đã xác nhận Chavet, quốc tịch Pháp, đang làm việc tại bộ phận phát triển dịch vụ tìm kiếm của hãng. Tuy nhiên, cô từ chối cho biết Microsoft đã điều tra việc này hay chưa. 
-Hiện nay, Chavet đang được tại ngoại với khoản tiền bảo lãnh 10.000 USD. Dự tính, anh ta sẽ bị khởi tố ở San Francisco vào ngày 20-7 tới. 
-

@@ -1,6 +1,0 @@
- Bước vào thế giới nguồn mở cùng J2EE
-Đối tượng tham gia là các sinh viên, lập trình viên và kỹ sư phần mềm... Hội thảo sẽ tập trung vào những vấn đề như: thực trạng về tình hình phát triển nguồn mở trên thế giới, các công ty sẽ thu lợi nhuận như thế nào từ nguồn mở, tham gia nguồn mở lập trình viên được gì. Đặc biệt, hội thảo sẽ thảo luận về các loại giấy phép - mối quan tâm hàng đầu khi tham gia vào nguồn mở. Các chuyên gia sẽ giúp đánh giá sâu sát hơn các loại giấy phép đang thịnh hành hiện nay như GLP, LGLP, BSD, Apache... 
-Phần hai của hội thảo sẽ tập trung vào java với công nghệ J2EE. Các project nguồn mở nổi tiếng như: eclipse, netbean, ant, maven, các portal sẽ lần lượt được giới thiệu. Sinh viên sẽ được làm quen với eclipse, một trong hai IDE nguồn mở thông dụng nhất hiện dành cho lập trình viên Java. Các chuyên gia sẽ demo các tính năng, cách sử dụng và có những đánh giá sâu sát về sản phẩm này. 
-Hội thảo có sự tham gia của anh Tuấn Nguyễn, đồng tác giả Exo portal, một portal nổi tiếng trong cộng đồng open source. Exo portal hiện nay đang được sử cho quân đội Mỹ và một số tổ chức, công ty lớn của Pháp và châu Âu như THALES, Bull, Selerant, Entopia... 
-Buổi hội thảo được tổ chức tại hội trường trung tâm đào tạo lập trình viên quốc tết FPT-Aptech, 1A Yết kiêu, Hà Nội. 
-

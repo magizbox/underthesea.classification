@@ -1,4 +1,0 @@
- Sẽ có những tính năng mới cho Yahoo Messenger 
-Cụ thể đối với tính năng nghe nhạc là người dùng có thể cá nhân hoá kênh âm nhạc và người chat cùng có thể nhìn thấy tên ca sĩ và bài hát đang nghe trên thanh trạng thái của thông điệp (IM). Tính năng "avatar" cho phép người dùng có thể tạo ra một nhân vật theo ý thích, hiển thị trong cửa sổ của IM, để diễn tả các trạng thái tình cảm trong quá trình chat. Cũng tương tự, "audibles" là các hình ảnh động loại nhỏ gắn kèm âm thanh để cho các chatter có thể biểu hiện bản thân mình. 
-Trong khi đó, công cụ "stealth mode" sẽ cho phép người dùng IM quyết định xem ai sẽ nhìn thấy người dùng đó đang trong trạng thái online và ai sẽ là người không thể nhìn thấy. Cuối cùng, Yahoo đề xuất một tính năng mới cho sổ địa chỉ tích hợp, cho phép người dùng có thể tìm, quản lý và nói chuyện được với các đầu mối liên lạc (contact) từ một địa điểm. Tính năng này phù hợp với người sử dụng IM từ điện thoại di động. 
-

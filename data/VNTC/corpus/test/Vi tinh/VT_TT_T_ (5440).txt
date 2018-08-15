@@ -1,5 +1,0 @@
- ATI giới thiệu card màn hình Radeon X800
-Mặc dù ATI chưa chính thức tung ra thị trường nhưng nó đã được tích hợp trên Power Mac G5 cùng với hai màn hình 30 inch và màn hình 23 inch. Đây là card đầu tiên của ATI có thể điều khiển màn hình 30 inch. Trước đây màn hình hiển thị này hiện nay phụ thuộc vào card GeForce 6800 Ultra của Nvidia. 
-Card ATI chạy trên chip đồ họa Radeon X800, là một sản phẩm phần cứng đồ họa high-end hiện nay của công ty. Card được trang bị VRAM 256MB, và tính năng một kết nối hai chiều Digital Visual Interface (DVI) kết nối cáp điều khiển Cinema Display 30 inch, và một giao tiếp Apple Display Connector (ADC). 
-Một đặc điểm quan trọng của card Radeon X800 là chỉ chiếm một khe cắm còn card GeForce 6800 Ultra của Nvidia chiếm hai khe cắm do bộ phận làm mát quá lớn. 
-

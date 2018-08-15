@@ -1,8 +1,0 @@
-Kỹ thuật hiện thực hóa 'những bức ảnh biết nói'
-Ngạn ngữ có câu "một bức ảnh đôi khi còn chứa đựng nhiều ý nghĩa hơn ngàn vạn lời nói". Khả năng truyền tải thông điệp sẽ còn lớn hơn thế nếu tấm hình được cài thêm một bài hát nhờ Speekysmart.
-Speekysmart, máy in mới của công ty Zanetti Studio (Italia), có thể in một dải từ tính dọc theo rìa trang giấy hoặc bức ảnh. Băng ghi âm Speakpaper sẽ thu một vài giây hội thoại hoặc nhạc ngay tại thời điển chụp ảnh.
-Zanetti Studio đã phát triển thiết bị đọc Speakpaper trong nhiều năm với khả năng quét dải từ tính trên khổ giấy 22 x 28 cm và ghi âm từ 4 - 5 giây. Họ đang dần hoàn tất quá trình thử nghiệm phiên bản 15 giây và mục tiêu sắp tới là sản phẩm với đoạn thu âm 3 phút.
-Nhà sáng lập Giancarlo Zanetti đang tìm kiếm sự hợp tác từ phía các hãng sản xuất phần cứng. "Chúng tôi đang thương thuyết với hai công ty in ấn, một ở Italy và một tại Nhật. Speekysmart, Speakpaper và các thiết bị kèm theo có thể sẽ được gộp chung lại với thương hiệu Speeky", Zanetti cho biết.
-Phát ngôn viên của Hewlett-Packard cho biết tập đoàn này không hài lòng vì hình ảnh quảng cáo cho sản phẩm "Hq speekysmart 4001" của Zanetti rất giống với chữ HP và yêu cầu công ty này xóa bỏ biểu tượng trên bất cứ trang web truyền thông nào.
-Một cách ngẫu nhiên, HP cũng đang nghiên cứu để đưa âm thanh vào ảnh từ máy in nhưng chưa ra mắt mẫu mô phỏng. "Việc lưu thông điệp giúp bạn ghi chú rõ ràng hơn về thời gian, địa điểm và người vừa được chụp ảnh", Howard Taub, Phó giám đốc nghiên cứu hình ảnh của HP, cho biết. "Tưởng tượng mẹ bạn sẽ cảm thấy thế nào khi nhận được tấm hình kèm lời nhắn: Con vừa chụp ảnh mấy đứa trẻ, chúng nhớ bà ngoại lắm".
-

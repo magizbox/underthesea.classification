@@ -1,6 +1,0 @@
-Google, Yahoo triển khai công cụ tìm kiếm video
-Hai gã khổng lồ về dịch vụ trực tuyến đã bước vào một mặt trận mới với việc giới thiệu thử nghiệm các hệ thống tìm kiếm nội dung phim và truyền hình.
-Đáng chú ý hơn vẫn là dịch vụ của Google, cho phép người sử dụng tìm kiếm các chương trình TV, nội dung thuộc hệ thống phát thanh truyền hình công cộng của Mỹ, Hiệp hội bóng rổ, kênh FoxNews và C-Span (chuyên tường thuật các buổi điều trần quốc hội).
-Google Video có mục đích hỗ trợ truyền hình, Larry Page, đồng sáng lập viên kiêm Giám đốc sản phẩm của Goolge, phát biểu. Việc triển khai thử nghiệm một sản phẩm như vậy đã cho thấy tiềm năng của công cụ tìm kiếm nội dung video. Page cho biết dịch vụ này sẽ có thể làm tăng số người xem truyền hình vì nó đem đến những thông tin về lịch phát sóng của các chương trình liên quan. 
-Google Video không cung cấp đường link trực tiếp tới nội dung mà thay vào đó, dựa trên lệnh tìm kiếm, công cụ đưa ra một danh sách chương trình TV liên quan với hình ảnh tĩnh và các đoạn trích dạng text. Google không cho biết họ có kế hoạch mở rộng nội dung tìm kiếm ra ngoài phạm vi các kênh của Mỹ hay không. Trong khi đó, dịch vụ tương tự của Yahoo khai thác nội dung từ các nguồn Bloomberg TV, BSkyB và BBC.
-

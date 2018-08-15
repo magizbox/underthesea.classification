@@ -1,6 +1,0 @@
-Làm thế nào để nén các file ảnh (1)
-Chào các bạn, mình muốn nén các file ảnh để cùng một lúc có thể gửi nhiều ảnh thì phải làm thế nào ? và cách muốn xem được ảnh nén đó ? 
-Công Quỳnh
-Hồi âm:
-Bạn không nén các file ảnh được (vì bản thân ảnh đã là dạng nén rồi) mà chỉ có thể làm nhỏ chúng đi thôi. Nếu là các file dạng bitmap (.bmp) là dạng chưa nén thì bạn có thể chuyển sạng định dạng .jpg hoặc gif là các định dạng có yêu cầu về dung lượng thập hơn bitmap cả chục lần. 
-

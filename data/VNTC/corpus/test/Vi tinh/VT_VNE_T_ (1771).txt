@@ -1,5 +1,0 @@
-Phần mềm cảnh báo sóng thần Tsunami
-Ứng dụng báo động thiên tai chạy trên môi trường máy để bàn Windows PC hoặc Mac do hai sinh viên tại Đại học công nghệ Sydney (Australia) phát triển. 
-Đồng tác giả Marcus Schappi, sinh viên năm thứ 4, cho biết anh cùng người bạn Christian Kent viết ra chương trình nho nhỏ này sau khi đọc một bài báo của chuyên gia công nghệ nổi tiếng Robert X. Cringely, trong đó cho rằng hệ thống cảnh báo Tsunami có thể được xây dựng trong một thời gian ngắn bằng cách sử dụng những dữ liệu có trên Internet.
-Schappi và Kent sau đó đã sử dụng Konfabulator, một công cụ thiết kế trên môi trường Mac OS X, để tạo ra màn hình cảnh báo cho cả desktop PC và Mac. Phần mềm này lấy nguồn dữ liệu từ hệ thống bản tin Tsunami của Cơ quan nghiên cứu khí quyển và hải dương quốc gia Mỹ. Tham khảo thêm về ứng dụng cảnh báo Tsunami của Schappi và Kent tại đây.
-

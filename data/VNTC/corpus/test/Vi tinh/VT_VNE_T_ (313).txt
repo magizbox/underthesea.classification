@@ -1,6 +1,0 @@
-Máy tính có thể có tri giác
-Một nhóm nghiên cứu tại Đại học Queens University, Belfast, Bắc Ailen đang tiến những bước cuối cùng trong dự án chế tạo loại máy tính có thể hiểu xúc cảm của người dùng.
-Dự án kéo dài 4 năm, trị giá 10 triệu euro, do Ủy ban châu Âu (EC) tài trợ một nửa, và có sự phối hợp của 27 tổ chức khác. Mục tiêu của nó là tạo ra dòng máy tính có thể suy nghĩ và cư xử gần giống con người. Loại máy này dựa trên mô hình nhận dạng nét mặt, qua đó cho phép máy móc hiểu và phản ứng một cách phù hợp với tâm trạng người dùng.
-Hiện tại, việc sử dụng máy tính bị giới hạn, bởi chúng ta cần bàn phím và màn hình để điều khiển, Roddy Cowie, đồng điều phối dự án, giải thích. Người ta đã nghĩ tới việc điều khiển máy bằng giọng nói. Nhưng kinh nghiệm cho thấy hầu hết người dùng đều không thoải mái với giao thức âm. Do đó, nếu chúng ta có thể tạo những máy tính nhạy cảm hơn, mọi người sẽ có thêm cơ hội để ứng dụng công nghệ thông tin, ông khẳng định.
-Các máy tính cảm xúc có thể có cá tính riêng, có mối quan hệ xã hội với người dùng. Ngoài ra, Cowie còn dự đoán rằng có thể chỉ 30 năm nữa, giao diện cảm xúc sẽ trở thành một phần của cuộc sống hằng ngày, giống như giao diện Windows và chuột hiện nay.
-

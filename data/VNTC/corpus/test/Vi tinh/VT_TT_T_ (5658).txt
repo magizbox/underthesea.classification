@@ -1,7 +1,0 @@
- Một số biện pháp mới chống trộm điện thoại di động
-Trước khi đạt được thoả thuận về việc tăng cường an ninh này, hiệu quả của cơ sở dư liệu không cao do các vấn đề bảo mật của một số điện thoại. Thường thì tội phạm có thể dễ dàng chỉnh sửa firmware hoặc thay bộ nhớ flash để lập trình lại các điện thoại bị đánh cắp. Việc này có thể thực hiện rất nhanh, và đang trở thành một nguồn thu nhập béo bở của dân tội phạm có tổ chức. 
-Để tăng cường cho tính hiệu quả của IMEI, GSMA và các nhà sản xuất đã cùng đồng ý về các nguyên tắc an ninh, nhằm đưa ra hướng dẫn cho các nhà sản xuất điện thoại và cho các nhà cung cấp dịch vụ danh sách những tiêu chí họ có thể dùng để xác định tình trạng an ninh của điện thoại. Dự tính trong vòng 18 tháng tới, đa số các điện thoại trên thị trường sẽ tương thích với những nguyên tắc mới này. 
-Ngoài ra, hội cũng có kế hoạch cải tiến Central Equipment Identity Register, cơ sở dữ liệu trung tâm về các điện thoại bị đánh cắp, theo đó các nhà cung cấp dịch vụ GSM có thể cùng phối hợp ngăn chặn việc sử dụng điện thoại có nguồn gốc xấu. 
-Ông Andy Buss, phân tích viên của Canalys, tuyên bố “Trong tương lai tất cả các quốc gia sử dụng mạng GSM sẽ phải cùng phối hợp trong hệ thống, vì nếu không thì điện thoại bị đánh cắp sẽ được mang sang bán ở những nước không tham gia”. 
-Số IMEI bao gồm 4 nhóm số. Nhóm đầu tiên là mã thiết bị, nhóm thứ hai là mã nhà sản xuất, nhóm thứ ba là số serial, và cuối cùng chỉ gồm một con số thêm (thường là số 0). Số IMEI thường được in trên pin điện thoại và có thể xem bằng cách nhấn phím #06#. 
-

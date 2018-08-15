@@ -1,6 +1,0 @@
-Lỗi màn hình (1)
-Hiện tại tôi đang dùng Win XP, nhưng không hiểu sao trong thời gian gần đây khi khởi động máy, màn hình hiển thị của tôi rất nhỏ, tôi đã điều chỉnh các nút trên màn hình như ( ánh sáng, kích thước..) nhưng màn hình cũng không (full) được, kể cả khi restart máy. Xin trả lời và chân thành cảm ơn.
-Ngô Gia Linh
-Hồi âm:
-Ban co the chinh lai cai Resolution de man hinh hien thi dung, ban bam nut chuot tay phai vao bat cu noi nao tren man hinh roi bam chuot trai vao chu PROPERTIES, bam SETTINGS, roi bam vao Color Quality (HIGHEST (32 bit ) ben tay trai Screen Resolution, ban ban keo den 1280 by 768 pixels, neu khong full thi ban co the chinh lai thap hon. Chuc ban may man.
-

@@ -1,6 +1,0 @@
-Lỗi bảo mật mới của Winamp
-Sai sót kĩ thuật xảy ra trong tập tin "in_CDDA.dll" khiến người dùng chương trình chơi nhạc Winamp có thể dễ dàng bị hacker tấn công khi viếng thăm một số trang web có chứa các file playlist.
-Lỗ hổng vừa được trang web chuyên về bảo mật Security-Assessment.com công bố. Đây là 1 trong serie 3 lỗi an ninh được phát hiện trong năm nay của phần mềm chơi nhạc rất phổ biến này . Tháng 8 vừa qua, Winamp đã bị một lỗigiao diện skin. Còn trước đó, vào tháng 4, lỗi hệ thống file ".xml" cũng đã được công bố.
-Hacker có thể khai thác lỗ hổng mới này dưới nhiều cách khác nhau, trong đó, nguy hiểm nhất là thông qua một file playlist của Winamp có đuôi là ".m3u" chứa những đoạn mã của kẻ tấn công. Khi được  tải lên một website nào đó, những file này có thể tự động download và thực thi trong Winamp mà không cần kích hoạt. Điều này sẽ gây ra tràn bộ nhớ đồng thời cho phép kẻ có ý đồ xấu ghi đè lên EIP (một loại thanh ghi trong bộ nhớ máy tính) và kiểm soát chúng, từ đó có thể thực thi những chương trình riêng theo ý muốn.
-Hãng bảo mật Secunia của Đan Mạch đánh giá lỗi này là "nghiêm trọng", xếp thứ hai về mức độ nguy hiểm trong các lỗi bảo mật.
-

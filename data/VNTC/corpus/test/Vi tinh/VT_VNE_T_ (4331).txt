@@ -1,7 +1,0 @@
-PC sẽ không còn chỗ đứng trên thế giới
-Jonathan Schwartz, Chủ tịch hãng sản xuất phần mềm và server Sun Microsystems (Mỹ), quả quyết rằng điện thoại di động sẽ trở thành phương tiện phổ biến nhất để truy cập Internet.
-"Máy tính sẽ không được coi là phương tiện tối ưu khi mọi người sử dụng dịch vụ trên mạng. Cả thế giới sẽ trải nghiệm Internet qua thiết bị cầm tay", Schwartz tuyên bố.
-Bàn về việc hỗ trợ mở rộng kỹ thuật số ở những khu vực đang phát triển, Schwartz cho rằng điều quan trọng nhất không phải cung cấp cho mọi người đủ máy tính để bàn, mà vấn đề nằm ở chỗ làm cách nào để họ truy cập Internet thuận lợi nhất.
-Bên cạnh đó, Schwartz khẳng định các dịch vụ đang chuyển dần lên mạng. Ông đề cập đến những công ty như eBay, Google, Yahoo và Amazon.com đã tăng trưởng, thu lợi nhuận và có tầm ảnh hưởng lớn nhờ cung cấp những dịch vụ miễn phí trên Net. Và Microsoft, hãng kinh doanh phần mềm máy tính lớn nhất thế giới, cũng đang phải vất vả để đương đầu với sự mở rộng của dịch vụ web. 
-"Đổi mới thực sự trong tương lai không nằm ở những ứng dụng desktop mà sẽ diễn ra trên mạng và dịch vụ mạng", Chủ tịch Sun Microsystems kết luận. "Net rõ ràng đã trở thành một ứng dụng xã hội, tương tự như hệ thống điện và đường sắt trước đây".
-

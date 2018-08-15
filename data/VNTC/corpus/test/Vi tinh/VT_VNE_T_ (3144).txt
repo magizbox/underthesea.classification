@@ -1,8 +1,0 @@
-Máy Compaq không nhận CD-ROM (2)
-Xin chao cac anh chi, mong chi gium cach lap may PC. Em co chiec COMpAq cu dang xai win 95 nhung khong co CD rom, may co 2 cong USB , nay em mua EXTe CD -rom va cam vao USBnhung may khong nhan duoc, Va them ethernet 10-100, nhung may khong nhan duoc. Vay em phai lam the nao de may nhan duoc CD -Rom ? Neu em mua moden board moi va cpu moi thi can gi them ?Cam on cac anh chi nhieu va mong giup do. 
-Luu Ha
-Hồi âm:
-Do ban su dung he dieu hanh win95 qua cu nen may khong the nhan dien duoc o dia CD ex USB cua ban. Ban phai dung it nhat la win98SE tot nhat nen cai WinME de no tu dong nhan thiet bi, neu khong ban phai cai driver theo huong dan kem theo cua thiet bi. Voi win95 ban khong the cai driver dc vi khong co driver nao ho tro win95 ca. Theo minh doan thi chac chan may nay chi co USB1.1 rat cham nen khong the khai thac duoc toc do cua o CD do duoc. Con voi modem thi cung vay nen cai win98 tro len moi co duoc driver. Ban khong noi cau hinh nhu the nao nen khong the biet may ban ho tro toi da duoc CPU bao nhieu. Nhung toi doan thi chac la CPU PII vi vay khong co cach nao nang cap CPU cua ban vi bay gio khong the kiem dau ra 1 con chip PII ca rat tiec. Tot nhat ban nen sam 1 bo may moi.
-Tuan Dang Ngoc 
-Hi ban HA. Boi vi Windows 95 khong ho tro USB nen toi nghi ban khong the dung USB CD rom cho he thong cua ban. Tot nhat la ban nen Upgrade len Windows 98 2nd Edition hoac Windows XP de co the xai duoc USB CD Rom. Nen coi lai cau hinh phan cung truoc khi Upgrade. 
-

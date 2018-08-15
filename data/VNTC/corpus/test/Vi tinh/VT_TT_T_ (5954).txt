@@ -1,8 +1,0 @@
- Phát sinh lỗi trong phần mềm máy tính xe Toyota Prius 
-Allison Takahashi, nữ phát ngôn viên của Toyota cho biết rằng chủ nhân của 75.000 xe Toyota Prius đã được bán ra trên toàn cầu sẽ được thông báo chính thức về lỗi phần mềm này vào cuối tháng 10-2005 và mọi xe Prius sẽ được khắc phục miễn phí tại bất kỳ trạm bảo hành Toyota nào. 
-Toyota Prius là loại xe hơi có động cơ hết sức đặc biệt. Đây là loại động cơ đột phá lai ghép giữa động cơ xăng và động cơ điện. Khi đi trong thành phố chủ nhân của Prius được khuyến cáo nên dùng động cơ điện để giảm ô nhiễm và khi ra đường cao tốc mới sử dụng động cơ xăng. 
-Lỗi của phần mềm máy tính điều khiển Prius có thể làm cho động cơ xăng không khởi động được, có thể làm động cơ tắt khi xe đang chạy hoặc làm cho hệ thống đèn cảnh báo hoạt động ngoài ý muốn của người điều khiển. Nhưng Toyata an ủi người dùng rằng hệ thống lái và hệ thống thắng vẫn hoạt động tốt, và động cơ điện vẫn thừa sức đảm bảo cho xe vận hành cho đến khi cặp vào lề đường an toàn. Khi xe dừng hẳn thì người dùng vẫn có thể khởi động lại động cơ xăng và tiếp tục cuộc hành trình. Ngoài ra lỗi phần mềm này cũng có thể gây ra một số rắc rối nhỏ khác. 
-Takahashi cho biết rằng những lỗi như trên cũng đôi khi xảy ra với các dòng xe thông thường và đây được xem là những sác xuất khó tránh khỏi của nền công nghiệp xe hơi. 
-Sở quản lý an toàn giao thông trên đường cao tốc Hoa Kỳ đã ghi nhận được 33 trường hợp động cơ Prius ngưng hoạt động giữa chừng khi xe đang chạy khi di chuyển ở tốc độ từ 55 đến 100 km/giờ. 
-Toyota Prius hiện đang là dòng xe Toyota bán chạy nhất tại Mỹ và ở một số nơi khác trên thế giới chính vì sự tiện dụng và hiệu quả kinh tế của động cơ điện của loại xe này, nhất là vào thời điểm xăng dầu đắt đỏ. 
-

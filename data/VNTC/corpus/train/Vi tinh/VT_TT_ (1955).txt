@@ -1,8 +1,0 @@
- Bản cập nhật lỗi bảo mật nguy hiểm của IE
-eEye Digital Security nhận thấy tình trạng khẩn cấp và mức độ nguy hại của lỗi bảo mật trong việc xử lý của phương thức “creatTextRange()” thực thi trên một nút radio điều khiển từ trình duyệt Internet Explorer nên đã phát hành ngay một bản vá lỗi riêng của mình. 
-Lỗi này có thể bị khai thác bởi một website chứa đoạn mã độc làm nguy hại đến bộ nhớ trong một cách thức cho phép dung lượng chương trình hoạt động chuyển hướng đến một số lượng khổng lồ, dẫn đến quá tải. (theo dạng tấn công từ chối dịch vụ - Distributed Denial of Service –DDoS). 
-eEye Digital đã nhận được những thông báo về việc những website khai thác lỗi bảo mật này nhằm vào các âm mưu trục lợi như cài đặt spyware và cài những “robot” (máy bị chiếm quyền điều khiển) để tấn công từ chối dịch vụ. 
-Được “sản sinh” bởi Bugzilla, Microsoft công bố “Ngày thứ sáu” với cơ sở dữ liệu lỗi bảo mật từ trình duyệt Internet Explorer của mình, có thể truy cập với một tài khoản Passport. Dịch vụ đang trong giai đoạn thử nghiệm. 
-Theo ComputerWorld, đây không phải là lần đầu tiên mà người dùng Internet Explorer phải tải về các bản cập nhật vá lỗi từ các hãng thứ ba. Vào tháng 12 năm ngoái, Ilfak Guilfanov, một lập trình viên của DataRescue SA đã phát hành một bản cập nhật trước khi Microsoft đưa ra bản chính thức. 
-Người dùng có thể tải về bản cập nhật này hoàn toàn miễn phí tại đây . Lỗi ảnh hưởng đến các phiên bản hệ điều hành Windows NT 4.0, 98 / ME, 2000 SP4, XP SP1/SP2, Windows 2003 và các bản Internet Explorer 5.01 SP4, IE 6, IE 6 SP1, SP2 (trong Windows XP SP2). Thông tin thêm có thể tham khảo trên eEye Digital . 
-

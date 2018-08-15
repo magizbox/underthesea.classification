@@ -1,7 +1,0 @@
-Công cụ chống phishing trong Internet Explorer 6
-Microsoft vừa tích hợp 2 tính năng mới - dò tìm website mà tội phạm mạng có thể dùng để thực hiện lừa đảo trực tuyến và hỗ trợ giới chơi game - cho thanh công cụ tìm kiếm MSN.
-Bản thử nghiệm Microsoft Phishing Filter dựa trên công nghệ trong trình duyệt Internet Explorer 7 sắp ra mắt. "Chúng tôi muốn khách hàng nhận thức rõ ràng hơn về những gì chúng tôi mang lại trong dịch vụ trực tuyến và dần loại bỏ hiện tượng lừa đảo online đang phát triển mạnh", Justin Osmer, Giám đốc sản phẩm của Microsoft, cho biết.
-Nếu bộ lọc nghi ngờ trang web khách hàng đang ghé thăm là site lừa đảo, nó sẽ hiển thị một thanh màu vàng ngay dưới thanh toolbar, chứa cảnh báo rằng họ nên thận trọng hơn. Khi công cụ kết luận trang đó được sử dụng để phishing, nó sẽ lập tức báo đỏ và ngăn người dùng nhập bất cứ thông tin cá nhân trên site. Phần mềm cũng vô hiệu hoá thanh công cụ chứa tính năng tự động điền dữ liệu vào biểu mẫu trực tuyến. Tuy nhiên, người sử dụng vẫn có thể điều chỉnh và gỡ bỏ tính năng này nếu họ muốn.
-Bộ lọc trước tiên sẽ chỉ hoạt động với Internet Explorer 6 chạy trên Windows XP SP2 và sẽ tương thích với các hệ điều hành khác trong thời gian tới. Tải Microsoft Phishing Filter tại đây.
-Tính năng thứ hai Games Add-in mang lại khả năng truy cập chuyên mục game của trang MSN.com trực tiếp từ thanh công cụ.
-

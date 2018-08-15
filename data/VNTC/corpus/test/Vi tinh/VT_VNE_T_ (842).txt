@@ -1,7 +1,0 @@
-Giữ gìn sức khỏe với Break Reminder 3.2
-Một thói quen xấu của rất nhiều người khi làm việc hoặc giải trí với máy tính là dán mắt vào màn hình từ đầu đến cuối buổi. Break Reminder sẽ buộc bạn phải nghỉ ngơi sau những quãng thời gian nhất định để bảo vệ sức khoẻ của bạn.
-Break Reminder chạy ngầm trong chế độ nền để kiểm soát việc sử dụng máy tính. Nó dùng bộ đếm lùi (do bạn thiết lập) để nhắc nhở bạn nghỉ ngơi sau một quãng thời gian làm việc liên tục. 
-Khi khởi động Breake Reminder lần đầu, chương trình mở ra cửa sổ Work Time, trong đó bạn sẽ đặt thời gian mà mình muốn làm việc liên tục (từ 1 đến 60 phút). Tiếp đó là cửa sổ MicroPauses, nơi bạn đặt những khoảng nghỉ ngắn 15 - 20 giây để mắt đỡ căng. Cửa số kế là RestBreaks, quy định độ dài của thời gian nghỉ ngơi. Tại đây, nếu bạn bỏ tùy chọn Allow Ignoring, chương trình sẽ tự đóng tắt màn hình máy tính và không thể khởi động lại, buộc bạn phải nghỉ. Còn nếu bạn đánh dấu vào hộp kiểm này, Break Reminder sẽ chỉ hiện ra thông điệp nhắc nhở bạn khi đến thời gian nghỉ. Cửa sổ cuối cùng là Pauses between Breaks, nơi bạn đặt số lần nghỉ ngắn giữa hai lần nghỉ dài. 
-Các tùy chọn Presets trong menu ToolSettings cho bạn lựa chọn mức độ an toàn cho sức khỏe của mình, với các xác lập Minimum Safety, Normal Safety và High Safety, có độ ép buộc lớn dần. 
-Phần mềm nặng 854 K, có thể tải tại đây.
-

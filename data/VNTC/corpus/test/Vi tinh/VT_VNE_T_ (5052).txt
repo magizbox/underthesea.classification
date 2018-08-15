@@ -1,8 +1,0 @@
-Không có Windows Vista Beta 2 trong năm nay
-Hãng sản xuất phần mềm Microsoft hôm qua khẳng định bản thử nghiệm thứ hai của Windows thế hệ mới là một mốc phát triển quan trọng và họ sẽ không vội vàng cho ra trước đầu năm sau.
-Tập đoàn này một lần nữa nhấn mạnh bản Vista chính thức sẽ vẫn được phát hành vào nửa sau 2006 theo đúng lịch trình. 
-Microsoft cũng tuyên bố tạm thời ngừng cập nhật bản duyệt trước công nghệ (CTP - Community Technology Preview) cho Windows Vista. CTP thứ 3, theo kế hoạch sẽ xuất hiện trong tháng này, sẽ bị lùi lại sang tháng tới.
-Công ty bắt đầu giới thiệu bản duyệt trước từ tháng 9 trong Hội thảo các nhà phát triển chuyên nghiệp tại Los Angeles (Mỹ) và khẳng định CTP sẽ ra mắt đều đặn hàng tháng. CTP 2 đã được tung ra đúng hẹn hồi tháng 10.
-Tuy nhiên, Microsoft đã thay đổi lại quyết định trên. Thay vì chạy đua theo trình tự thời gian, họ muốn cung cấp CTP dựa trên tiêu chí chất lượng, nghĩa là bản preview chỉ được phát hành khi họ thực sự cần nhận góp ý, phản hồi cho những bộ tính năng nào đó.
-Những hệ điều hành Windows trước đây không được áp dụng CTP mà chỉ có các bản thử nghiệm (beta). CTP thường được dùng cho những sản phẩm như công cụ phát triển phần mềm Visual Studio.
-

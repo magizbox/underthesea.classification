@@ -1,7 +1,0 @@
- Acer giới thiệu máy tính mới TM3000 
-TM3000 sử dụng công nghệ Centrino mới nhất của Intel dành cho máy tính xách tay. Máy có màn hình rộng 12.1 inches, mỏng và nhẹ với chiều cao 25mm và nặng 1,4kg. Bề mặt của TM3000 nhỏ hơn diện tích của một tờ A4, nên rất phù hợp cho những người cần di chuyển nhiều. 
-TM3000 còn có thêm tính năng ezDock hỗ trợ chuẩn PCI Express thuận tiện cho việc kết nối với các thiết bị ngoại vi khác. Đầu DVD-Dual double layer giúp cho việc sao chép CDs và DVDs trở nên thuận tiện và dễ dàng. Đặc biệt, TM 3000 được trang bị đầu đọc thẻ nhớ 4 trong 1, giúp việc chuyển đổi dữ liệu với thiết bị cầm tay, ĐTDĐ, máy ảnh kĩ thuật số trở nên dễ dàng hơn. 
-Đối với dòng sản phẩm TM 3000 này, Acer sẽ tặng kèm đến 2 pin, giúp tăng gấp đôi thời gian sử dụng. 
-Cấu hình và giá bán TM3000 tại Việt Nam: 
-- Intel Pentium M Processor 730 (1.6GHz; 2MB L2 cache; 533MHz FBS). - Intel 915PM/915GM chipset. - Intel® PRO/Wireless 2200BG network connection 802.11b/g, supporting Acer SignalUp Technology. - 512MB DDRAM - 60GB HDD – DVD-ROM/CD-RW. - 12.1” WideScreen XGA TFT LCD with Acer CrystalBrite Technology. - 4-in-1 Card Reader - Bluetooth. - 10/100/1000 Mbps Gigabit Ethernet – Modem 56K V.92. - 3xUSB 2.0, 1xIEEE 1394, Ext VGA port, 1xFIR, headphone/speaker/line-out port. - 297.5 (W) x 210 (D) x 25 (H) mm / 1.4 kg – Linux OS. - 6.5-hour battery life. - Giá 1,599 USD - tặng giỏ đựng máy. 
-

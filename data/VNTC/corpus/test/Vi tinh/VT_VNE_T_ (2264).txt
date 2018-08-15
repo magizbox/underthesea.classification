@@ -1,6 +1,0 @@
-Window Media Player 9 bị lỗi COOD2711 (1)
-Máy của tôi là window xp, không biết tại sao mỗi lần bấm vào window media player để nghe nhạc và coi phim thì nó không play đựơc. Hiện nay tôi sử dụng window media player 9, tôi có thử vào ở ADD OR REMOVE PROGRAMS để remove window media player 9 và install lại window media player 10, mà tìm không thấy window media player 9 có lần tôi mở window media player 9 thì nó nói là bị CRROR MESSAGE COOD2711, tôi có thử install vài lần window media 10 nó nói là không install được. Làm ơn chỉ cho mình. Cảm ơn nhiều.
-Nguyễn Đăng Tiến
-Hồi âm:
-Bạn hãy dùng chương trình khác để nghe thử xem chẳng hạn như RealOne Player để biết chắc âm thanh của win còn tốt (sound card). Trước khi cài wmp 10 bạn hãy xóa wmp 9.0 trước đã. Bạn vào startrun gõ lệnh RunDll32 advpack.dll,LaunchINFSection %windir%\INF\wmp.inf,Uninstallok.. hay cách thứ 2 startrun gõ lệnh RunDll32 advpack.dll,LaunchINFSection C:\WINDOWS\INF\wmp.inf,Uninstall ..... 
-

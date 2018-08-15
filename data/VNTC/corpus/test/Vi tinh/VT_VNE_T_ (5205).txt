@@ -1,6 +1,0 @@
-Windows Live Messenger Beta 1 ra mắt
-Microsoft vừa phát hành bản thử nghiệm hệ thống tin nhắn nhanh trực tuyến giới hạn và sẽ công bố rộng rãi ngay trong vài tuần tới. Chương trình mới, được trang bị một số tính năng quan trọng, dự định sẽ thay thế MSN Messenger. 
-Đặc biệt, Windows Live Messenger cho phép người sử dụng thực hiện cuộc gọi PC-to-phone (từ máy tính tới điện thoại di động hoặc cố định). Hãng phần mềm khổng lồ Mỹ giới thiệu dịch vụ này nhằm cạnh tranh với Yahoo và Skype. Google cũng chuẩn bị tích hợp tính năng tương tự trong bản nâng cấp Google Talk.
-Ngoài ra, Windows Live Messenger hỗ trợ mọi người tạo thư mục lưu trữ trực tuyến, chia sẻ và dùng chung với người khác. Hệ thống cũng đóng vai trò như một công cụ quản lý thông tin liên lạc cá nhân tiện dụng.
-Windows Live Messenger chỉ được cung cấp dưới dạng thư mời. Danh sách các chức năng của chương trình có thể xem tại Spaces Blog của nhóm phát triển Live Messenger.
-

@@ -1,9 +1,0 @@
-AMD ra mắt bộ vi xử lý cho thiết bị video cầm tay
-Chip Au1200 được thiết kế dành riêng cho các thiết bị giải trí di động đa phương tiện. Đây là sản phẩm mới nhất thuộc dòng Alchemy, hứa hẹn tạo ra bước đột phá trên thị trường thiết bị xem video cầm tay. 
-Được thiết kế với hiệu suất hoạt động cao nhưng lại rất tiết kiệm năng lượng, Au1200 mang lại niềm lạc quan cho thị trường thiết bị giải trí các nhân (Personal Media Player - PMP). Như vậy, với bộ vi xử lý này, thời gian sử dụng pin cũng như chất lượng hình ảnh của máy đọc đĩa DVD cầm tay sẽ cao hơn so với các sản phẩm đang có mặt trên thị trường hiện nay.
-Những tính năng được tích hợp làm tăng khả năng của phần cứng cũng như phần mềm và thiết bị sử dụng Au1200 không cần phải có bộ xử lý hay giải mã tín hiệu số (DSP). 
-PMP sử dụng Au1200 có thể kết nối trực tiếp với các thiết bị đọc, ghi video mà không cần dùng máy vi tính để chuyển đổi. Thời gian để download video cũng nhanh hơn. Chip này đuợc thiết kế tương thích với các máy chạy hệ điều hành như Windows CE.NET hay Linux.
-Khi được gắn trên PMP, Au1200 sẽ cung cấp hình ảnh DVD chất lượng cao hơn, thể hiện ra trên màn hình lớn mà không làm ảnh hưởng đến chất lượng hình ảnh. Au1200 hỗ trợ các định dang MPEG2, MPEG4, WMV9, H.263 và DivX.
-Việc Au1200 ra đời cho thấy AMD đang hướng đến thị trường máy đọc đĩa DVD cầm tay rất nhiều tiềm năng. Lĩnh vực này được đánh giá phát triển còn nhanh hơn cả PC, mở ra cơ hội cho không chỉ AMD, Intel mà còn nhiều nhà sản xuất vi xử lý khác nữa.
-Một cuộc đua thiết kế PMP dựa trên dòng chip Alechemy Au1200 của AMD đã bắt đầu với việc hãng First International Computer tung ra sản phẩm gọi là Vassili với màn hình 3,6 inch, kết nối trực tiếp DVR và PMP, ổ cứng 20 GB và hệ thống âm thanh 16 bit. Nhà sản xuất thiết bị thu kỹ thuật số Tivo (Mỹ) cũng đưa vào sử dụng trong Tivo-To-Go, một sản phẩm cho phép chuyển trực tiếp chương trình tivi từ máy Series Tivo vào PMP, laptop hay các thiết bị di động khác.
-

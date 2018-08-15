@@ -1,7 +1,0 @@
-Anh đối phó với nạn Trojan quay số tự động 0871 mới
-Những đối tượng điều hành các dịch vụ quay số modem máy tính khiến người sử dụng phải chịu những khoản cước phí không ngờ đang bắt đầu thay đổi cách bóc lột nạn nhân bằng thủ đoạn tinh vi hơn.
-Thay vì sử dụng các số điện thoại tính cước cao (premium) mà thông thường là khoảng 1,5 bảng/phút để khai thác người kém cảnh giác, các đối tượng lừa đảo hiện nay sử dụng những số điện thoại quốc tế để tăng lợi nhuận đồng thời tránh bị phát hiện.
-Trong những tuần gần đây đã xuất hiện một số chương trình dialler mới, sử dụng các số 0871 (số điện thoại thường dùng cho các dịch vụ marketing ở Anh). Mặc dù những phần mềm này chỉ khiến người dùng máy tính mất khoảng 10 pence/phút, chúng vẫn có thể gây ra những khoản phí lớn nếu PC kết nối Internet với thời gian lâu.
-Theo Cơ quan điều phối viễn thông Anh (Ofcom), hiện còn sớm để có thể xác định mức độ lan rộng của thủ đoạn này nhưng trong khoảng 1 tháng qua, họ bắt đầu nhận được khoảng 5-6 khiếu nại mỗi tuần về các vấn đề liên quan đến phần mềm lén lút quay số 0871. 
-Tập đoàn viễn thông Anh BT cũng đã ghi nhận thủ đoạn mới và cho biết nạn phát tán phần mềm quay số tự động, gây thiệt hại cho hàng chục nghìn người ở nước này, đang thay đổi phương thức hoạt động theo hướng chọn những số có mức phí thấp hơn nhưng khó bị phát hiện.
-

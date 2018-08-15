@@ -1,6 +1,0 @@
- Microsoft quay lại thời đại C:\ Prompt?
-Ứng dụng dòng lệnh thô này sẽ được tích hợp vào hệ điều hành Windows Vista và nó sẽ có nhiều tính năng mạnh mẽ và hiện đại hơn kiểu dòng lệnh Command Prompt vẫn còn tồn tại trong Windows XP như hiện nay. 
-C:\Promt trong Windows Vista có mã danh là Monad, được xem là các dạng ứng dụng được điều khiển hoặc thể hiện bằng dòng lệnh, tương tự như các hệ điều hành Unix cực mạnh từ trước đến nay vẫn thường sử dụng, và được đánh giá là cực kỳ ổn định. Cách điều khiển bằng các dòng mã lệnh được các nhân viên quản trị mạng và những người dùng có kiến thức sâu rất quan tâm vì hiệu quả kỹ thuật tối ưu của nó. 
-Các dòng mã lệnh của Monad có thể được lưu chuyển hết sức dễ dàng và thuận tiện trên Internet, giống như Unix đang làm hiện nay. Ví dụ: Một dòng mã lệnh của Monad có thể tái tổ chức các tập tin và thư mục theo ngày tháng, tên, tính chất... một cách cực nhanh, tương tự như DOS xa xưa. Các tính năng của Monad theo kiểu C:\Prompt xa xưa sẽ đem lại hiệu quả quản lý và ứng dụng mạng hiện nay rất to lớn. 
-Người dùng quan tâm có thể vào đây để tải miễn phí bản Monad dùng cho Windows XP về dùng thử. Yêu cầu thêm là máy phải cài bản .Net Framework 2.0 (cũng đã có sẵn trong trang tải về Monad). 
-

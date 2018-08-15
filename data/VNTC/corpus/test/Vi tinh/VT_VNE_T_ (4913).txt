@@ -1,9 +1,0 @@
-Microsoft Exchange 12 sẽ chỉ tương thích 64 bit 
-Trong hội thảo quản lý phần mềm tổ chức tại Tây Ban Nha vừa qua, Microsoft đã nhấn mạnh khả năng của điện toán 64 bit và công bố chi tiết kế hoạch hỗ trợ công nghệ này trong ứng dụng máy chủ và hệ điều hành.
-Bob Kelly, Tổng giám đốc tiếp thị hạ tầng máy chủ của Microsoft, khẳng định tập đoàn sẽ phát hành gói Exchange 12 hoạt động trên server sử dụng chip x86 64 bit.
-"Chip 64 bit sẽ khai thác tối đa khả năng vận hành của các ứng dụng như Exchange và cơ sở dữ liệu SQL Server. Nhờ đó, các chuyên gia công nghệ có thể bổ sung, nâng cấp cũng như hợp nhất mọi server chạy trên vi xử lý 64 bit và người sử dụng sẽ có hòm thư với dung lượng lớn hơn", Kelly tuyên bố.
-Bob Muglia, Phó giám đốc Windows Server của Microsoft, nói thêm: Chúng tôi tin tưởng điện toán 64 bit sẽ mang đến nhiều khả năng kỳ diệu. Công ty đang hợp tác chặt chẽ với nhiều đối tác khác để mở rộng nhận thức của khách hàng về những mặt mạnh của công nghệ này".
-Longhorn Server R2 và phiên bản hệ điều hành máy chủ dành riêng cho doanh nghiệp nhỏ, Windows Compute Cluster Server 2003, Windows Server và Centro - giải pháp hạ tầng cơ sở cho thị trường tầm trung - cũng sẽ hoạt động với chip x86 64 bit. 
-Microsoft cũng vừa phát hành các sản phẩm tối ưu hóa bằng điện toán 64 bit như SQL Server 2005 và Visual Studio 2005. Ngoài ra, Virtual Server Release 2 sẽ xuất hiện trên thị trường vào tháng 12 với giá 99 USD/server (bản tiêu chuẩn) và 199 USD/server (bản doanh nghiệp).
-Kelly cũng tiết lộ Microsoft đang phát triển sản phẩm System Center Essentials, công cụ quản lý trong các công ty hạng vừa nhưng không đề cập đến thời gian ra mắt.
-

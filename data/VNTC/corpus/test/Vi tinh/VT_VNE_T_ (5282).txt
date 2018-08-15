@@ -1,7 +1,0 @@
-Các hãng bảo mật cần 17 giờ để diệt một virus mới
-Theo công ty an ninh mạng Ironport (Mỹ), người sử dụng máy tính Windows không được bảo vệ trước sự tấn công của những chương trình nguy hiểm mới tổng cộng 56 ngày trong năm.
-Ironport cho biết trung bình các hãng diệt virus mất gần một ngày để sản xuất "thuốc giải độc" tính từ khi một virus lạ xuất hiện. Đôi khi, quá trình nâng cấp diễn ra rất nhanh chóng nhưng nói chung, hệ thống máy tính của người sử dụng thường không an toàn trong nhiều giờ.
-Ví dụ, chương trình cập nhật để diệt sâu Sober cần 16 giờ 14 phút sau khi biến thể mới ra đời. Ngược lại, sâu Bagle "trêu ngươi" các công ty bảo mật tới 79 giờ 25 phút và họ cũng cần trung bình 496 giờ 16 phút mới có thể đương đầu nổi với Mytob.
-Nhiều nhóm viết phần mềm nguy hiểm gâp áp lực cho hãng diệt virus bằng cách tung ra liên tiếp nhiều phiên bản chỉ khác nhau đôi chút. Càng nhiều biến thể trong cùng một dòng virus, thời gian để nhận biết và điều chỉnh càng lâu. Tính đến thời điểm này, họ hàng nhà Mytob đã ra mắt hơn 100 phiên bản.
-Hệ thống kiểm soát lượng e-mail đến/đi của Ironport thu thập thông tin của hơn 100.000 tổ chức trên toàn thế giới. Matt Peachey, Giám đốc của Ironport tại Bắc Âu, cho biết việc theo dõi lưu lượng này giúp họ phát hiện ra mỗi đợt bùng phát virus ngay khi nó mới bắt đầu, bởi mọi thông điệp chứa virus thường có dung lượng mail giống nhau. Theo Peachey, sự xuất hiện dồn dập những e-mail có file đính kèm khoảng 60 -100 KB, chứng tỏ một sâu mới đang được phát tán. 
-

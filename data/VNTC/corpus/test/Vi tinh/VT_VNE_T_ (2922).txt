@@ -1,6 +1,0 @@
-Internet Explorer 7 cũng có tính năng duyệt theo tab
-Nhóm phát triển trình duyệt của Microsoft tuyên bố, sẽ là một sai lầm nếu không xây dựng các thẻ tab vào phiên bản browser mới. Tuy nhiên, họ cũng nhấn mạnh rằng tính năng này sẽ chỉ được triển khai ở mức cơ sở.
-Duyệt theo tab trong phiên bản Internet Explorer 7 (IE 7) sắp ra mắt sẽ chỉ ở mức đơn giản, Dean Hachamovitch, Giám đốc phụ trách sản phẩm IE của M Microsoft, phát biểu. Những tính năng bổ sung cho người dùng cuối sẽ chỉ xuất hiện sau giai đoạn chạy thử beta.
-IE 7 được Microsoft dự kiến phát hành thử nghiệm trong mùa hè này, trước cả Longhorn. Đây là động thái quan trọng của Microsoft khi đối phó với sự bành trướng của Firefox (Mới đây hãng IBM đã quyết định cho 300.000 nhân viên của họ dùng Firefox). Trình duyệt của Mozilla cũng như một số browser khác như Opera đều đã áp dụng kiểu duyệt bằng tab để cho phép xem nhiều trang web trong cùng một cửa sổ.
-Một số người thắc mắc tại sao chúng tôi không triển khai tab sớm hơn trong IE, Hachamovitch giải thích. Ban đầu chúng tôi còn quan ngại sự phức tạp sẽ khiến nhiều khách hàng bỡ ngỡ và gây khó khăn cho họ nhiều hơn là đem lại lợi ích. Đó là một suy nghĩ sai lầm và giờ đây chúng tôi đang đi đúng hướng.
-

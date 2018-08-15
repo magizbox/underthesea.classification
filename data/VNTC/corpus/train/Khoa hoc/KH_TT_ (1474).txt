@@ -1,5 +1,0 @@
- Vải đổi màu
-Khi nối với dòng điện, polymer hấp thụ ánh sáng qua một loạt bước sóng có thể nhìn thấy được. Cho tới nay, các nhà nghiên cứu đã tạo ra được các sợi có thể đổi từ màu da cam và màu đỏ sang màu xanh dương. 
-Một bộ kiểm soát sẽ giúp thay đổi điện trường trên một số điểm của sợi vải, thay đổi các màu nhằm tạo ra một mẫu hình phù hợp với môi trường của người mặc. 
-Ngoài ra, các sợi vải này cũng có thể được dùng làm bộ cảm biến trong các ngành công nghệ thực phẩm và an ninh. Chẳng hạn, bao bì có thể đổi màu khi bộ cảm biến bên trong phát hiện thực phẩm bị hỏng hoặc nhiễm khuẩn. 
-

@@ -1,7 +1,0 @@
-Truy cập từ xa bằng công cụ ảo VNC
-Nếu bạn đang sử dụng một PC Windows ở nơi nào đó trên thế giới và lại cần chạy một chương trình trên chiếc máy tính ở nhà dùng Linux thì phần mềm này có thể cho phép bạn làm được điều đó.
-VNC (viết tắt của Virtual Network Computing) cho phép bạn xem (view) và sử dụng môi trường màn hình chủ trên máy (desktop) từ bất cứ nơi đâu trên thế giới qua Internet với hầu hết những loại hệ điều hành hiện có.
-VNC là ứng dụng độc lập với nền hoạt động, do đó desktop của một máy Linux cũng có thể hiển thị trên một PC hoặc máy chạy Solaris vẫn có thể hiển thị trên hệ thống Macintosh. Còn nhiều cấu trúc khác cũng được hỗ trợ như công cụ Java viewer có thể chạy trong bất cứ trình duyệt hỗ trợ Java nào.
-Một trong những tính năng hữu ích của chương trình VNC là công cụ viewer không lưu lại bất cứ trạng thái ngoại lai nào. Điều đó có nghĩa là bạn có thể bỏ máy này đi sang máy khác, từ xa kết nối lại trên máy mới và kết thúc một câu văn bản nào đó mà mình đang soạn dở ở máy kia. Thậm chí bạn sẽ thấy con trỏ vẫn nằm nguyên ở vị trí cũ. Ngoài ra, desktop của máy tính cũng có thể được nhiều người xem cùng chia sẻ một lúc.
-Để tải miễn phí VNC, bấm vào đây.
-

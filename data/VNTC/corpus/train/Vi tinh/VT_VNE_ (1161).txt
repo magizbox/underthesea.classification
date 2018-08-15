@@ -1,6 +1,0 @@
-Tối ưu hóa ảnh GIF với GIFeq
-GIF là định dạng ảnh được sử dụng rộng rãi trong việc tạo ảnh động và ảnh có nền trong suốt cho các trang web. Tuy nhiên, dung lượng của file GIF lớn hơn khá nhiều so với JPEG hoặc PNG. Vì thế, bạn nên tối ưu nó với các phần mềm chuyên biệt, chẳng hạn như tiện ích miễn phí GIFeq.
-GIFeq cho phép bạn làm giảm dung lượng file GIF bằng cách loại bỏ các phần quét xen kẽ (interlacing), chú giải (comment), tối ưu hóa các pallete màu& Tiện ích rất nhỏ gọn này có thể xử lý một file riêng biệt hoặc cả một thư mục ảnh GIF, đồng thời hiển thị dung lượng giảm được cho từng file. Bạn có thể lưu các file đã được tối ưu hóa vào trong một thư mục mới để những tấm ảnh gốc của bạn không bị thay đổi. GIFeq hỗ trợ cả ảnh GIF tĩnh và động.
-Giảm dung lượng file trong khi duy trì chất lượng đồng nghĩa với việc tiết kiệm được băng thông, giảm thời gian tải trang web xuống máy khách, giúp giảm bớt chi phí và tăng sức hấp dẫn của trang web. Nếu là một nhà phát triển web, bạn sẽ cần đến những công cụ hỗ trợ như GIFeq.
-Chương trình có dung lượng 314 KB, có thể tải tại đây.
-

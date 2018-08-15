@@ -1,7 +1,0 @@
-Thêm lỗi bảo mật trong Internet Explorer 6.0 
-Công ty phần mềm chống virus Secunia của Đan Mạch vừa phát hiện 3 lỗ hổng mới trong trình duyệt web của Microsoft (IE), nâng tổng số khiếm khuyết được phát hiện ở browser này lên con số 12 chỉ trong vòng 2 tháng qua.
-Hai trong ba lỗi trên, được mô tả ở mức độ "khá nghiêm trọng",  được Secunia phát hiện khi có những lời cảnh báo tự động post lên website của hãng này. Lỗi còn lại có liên quan đến Windows XP SP2. 
-"Hacker có thể tạo ra một số thẻ HTML đặc biệt trong header của một trang web rồi lừa người sử dụng truy cập vào đó. Từ đây hệ thống của họ sẽ bị xâm nhập mà không hay biết", Secunia cảnh báo về lỗi thứ nhất. Lỗi thứ 2 trong IE 6.0 xuất hiện khi các văn bản được lưu lại dưới dạng Javascript. Kẻ tấn công có thể đưa ra một thông báo "Save HTML Document" để dụ người dùng kích hoạt các file thực thi (.exe chẳng hạn) và vô tình tiếp tay cho cho kẻ xấu.
-Thời gian qua, giới chuyên gia an ninh máy tính đã cảnh báo về khá nhiều nguy cơ bảo mật ở Internet Explorer và Windows XP SP2. Tuần trước, hãng phần mềm Finjan (Mỹ) công bố 10 lỗinghiêm trọng liên quan đến SP2.
-Tuy nhiên, Microsoft cho biết, cho đến thời điểm hiện tại, chưa nhận được thông báo nào về việc người sử dụng phần mềm của họ bị tấn công thông qua các lỗi bảo mật nói trên.
-

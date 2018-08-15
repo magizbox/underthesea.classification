@@ -1,6 +1,0 @@
-Internet băng rộng qua truyền hình cáp SCTV
-Hôm qua, Công ty thông tin viễn thông điện lực (VP Telecom) đã khai trương dịch vụ này tại TP HCM, hợp tác với công ty Truyền hình cáp Saigontourist (SCTV) .
-Dịch vụ truy nhập Internet băng rộng qua mạng truyền hình cáp (medianet) cho phép truy nhập Internet với tốc độ tối đa 54 Mbps download và upload là 10 Mbps. 
-Theo nhà cung cấp, dịch vụ medianet phát huy được những tính năng của đường truyền băng thông rộng, cổng quốc tế băng thông rộng, tốc độ triển khai nhanh và nhiều loại hình dịch vụ linh hoạt. Ngoài dịch vụ truy nhập Internet cơ bản, VP Telecom đang triển khai những dịch vụ giải trí gia đình như games online, xem ti vi trên máy tính... và đây sẽ là tiền đề phát triển các dịch vụ gia tăng trong tương lai, đáp ứng tốt đòi hỏi ngày càng cao của thị trường.
-Dự kiến tháng 9 dịch vụ này sẽ được triển khai tại Hà Nội qua mạng truyền hình cáp VCTV của Đài truyền hình Việt Nam, và đến cuối năm thì mở rộng ra các tỉnh thành khác.
-

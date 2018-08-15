@@ -1,6 +1,0 @@
-Yahoo sẽ có giao diện tiếng Việt
-Trong tháng 6 tới, Yahoo Mail sẽ nâng cấp thêm 6 ngôn ngữ mới, và có thêm 7 trang Yahoo được bản địa hóa gồm Ba Lan, Thổ Nhĩ Kỳ, Thái Lan, Malaysia, Philippines, Indonesia và Việt Nam.
-Đây là thông báo chính thức của Yahoo ngày 24/5 vừa qua nhân dịp  giới thiệu tính năng PhotoMail của hãng. Nhà cung cấp dịch vụ trực tuyến khổng lồ này cũng vừa tiết lộ thêm rằng những file tài liệu không phải ảnh như văn bản Word vẫn có thể gửi trực tiếp từ giao diện của PhotoMail. Tuy nhiên, những tệp này không được lưu trên server của Yahoo, mà sẽ đính kèm vào mail như một kiểu attach thông thường. 
-Bên cạnh đó, người dùng ở Mỹ có thể xem các tiêu đề tin tức  (headline) từ dịch vụ Yahoo News trực tiếp qua trang chủ của Yahoo Mail. 
-Đây cũng là lần đầu tiên người dùng sẽ được cung cấp công nghệ xác thực DomainKeys của Yahoo, thông báo cho họ biết liệu thông điệp nhận được có thực sự bắt nguồn tại trường người gửi không (sender file), nhờ đó bảo vệ người dùng khỏi thư rác và lừa đảo trực tuyến.
-

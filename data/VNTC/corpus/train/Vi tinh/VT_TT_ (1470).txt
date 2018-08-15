@@ -1,7 +1,0 @@
- Shut Down Expert: khởi động , tắt máy một cách chuyên nghiệp
-Tuy nhiên vấn đề đặt ra ở đây là, muốn khởi động lại máy sau một khoảng thời gian bao lâu, hay bạn muốn tắt máy và máy tự động bật lên trở lại vào thời điểm nào… 
-Những yêu cầu như vậy hầu như Windows không đáp ứng được. Nhưng nếu cài phần mềm Shut Down Expert, bạn có thể làm được tất cả những việc trên và hơn thế nữa… 
-Trong giao diện chính của chương trình, tại khung Event bạn chọn một công việc sẽ thực hiện (tắt máy, bật máy, khởi động lại, đăng xuất, khóa máy tính…). Tại khung Time Setting bạn chọn các mốc thời gian mà chương trình sẽ thực hiện công việc vừa nêu (thời điểm bất kỳ, hàng ngày, hàng tuần, hàng tháng…). Tại mục Time và Date , bạn điền vào ngày giờ thực hiện công việc trên. Sau đó nhấn nút Add Event tại mục Schedule để lập lịch cho nó. 
-Ngoài ra chương trình còn cho phép bạn tắt máy, khởi động máy chỉ với một cú nhấp chuột: nhấn chuột phải vào biểu tượng chương trình trên khay hệ thống và chọn Turn Off Now , Restart Now, Log Off Now … tùy theo nhu cầu của mình. 
-Shut Down Expert 4.70 là phần mềm thương mại của Zyl Soft, tương thích mọi Windows. Bạn có thể tải bản dùng thử 20 ngày tại website http://www.zylsoft.com/shutdown.htm hay tìm mua trên các đĩa CD phần mềm tổng hợp, hiện có bán ngoài thị trường. 
-

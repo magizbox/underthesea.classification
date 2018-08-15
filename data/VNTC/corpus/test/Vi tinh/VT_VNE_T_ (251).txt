@@ -1,6 +1,0 @@
-Google địa phương hóa dịch vụ tìm kiếm
-Hôm qua, họ giới thiệu phiên bản beta hệ thống tìm kiếm giới hạn khu vực địa lý. Đang thử nghiệm tại Mỹ và sẽ nhân rộng nếu thành công, nó cung cấp cho người dùng thông tin cụ thể về một thứ gì đó gần nhà họ.
-Với hệ thống mới, khi nhập yêu cầu đi kèm tên và mã thành phố, kết quả có thể hiển thị địa chỉ và số điện thoại liên quan tới cụm từ tìm kiếm. Trong một số trường hợp, người ta có thể nhấn chuột vào một biểu tượng nhỏ, mở một trang web mới, có bản đồ tới địa chỉ đó.
-Mục tiêu của chúng tôi là cung cấp thông tin chất lượng cho khách hàng, dù đó là thông tin ở bên kia bán cầu, hay ngay bên nhà hàng xóm, Sergey Brin, đồng sáng lập Google, khẳng định. Ngoài ra, nó sẽ mở đường cho hãng kiếm lợi nhuận từ quảng cáo cho hàng loạt công ty nhỏ ở các địa phương.
-Tuần trước, Yahoo cũng đã giới thiệu công cụ tương tự, có tên SmartView. Việc nhiều hãng chú tâm vào tìm kiếm khoanh vùng phản ánh sự thay đổi thói quen tìm thông tin của người dùng. Trước đây, họ hay tham vấn danh bạ các trang vàng khi cần thông tin kinh doanh. Nhưng hiện nay, khi công nghệ phát triển, ngày càng nhiều người chuyển sang Internet. Theo khảo sát của Google, 70% yêu cầu của khách hàng nhằm vào hàng hóa bán trong khu vực.
-

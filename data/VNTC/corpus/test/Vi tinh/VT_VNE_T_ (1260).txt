@@ -1,7 +1,0 @@
-Các khoá học đầu tiên về phần mềm Java và Solaris 
-Đó là chương trình đào tạo chuyên gia quản lý trung tâm dữ liệu doanh nghiệp theo công nghệ của Sun Microsystems, được giới thiệu tại TP HCM, sáng nay. Các khoá học do hãng này liên kết với Trung tâm kỹ thuật và công nghệ Sài Gòn (Saigon CTT) và Trường tin học VSIC tổ chức.
-Java và Solaris là những hệ điều hành được thiết kế trên phần mềm Unix, đã chuyển giao ở nhiều nước như: Philippines, Indonesia, Sri Lanka, Brunei... 
-Mục tiêu của Sun là đào tạo khoảng 1.000 chuyên gia theo 2 công nghệ trên tại Việt Nam. Khoá đào tạo gồm trình độ sơ cấp và trung cấp. Chương trình sơ cấp sẽ trang bị kiến thức cơ bản về Unix cho hệ điều hành Solaris 9 và quy tắc lập trình Java, học phí thông thường là 718 USD. Chương trình trung cấp tiếp tục bổ sung kiến thức Unix cơ bản cho hệ điều hành Solaris 9 và ngôn ngữ lập trình Java, học phí 818 USD. Tuy nhiên, trong năm 2004, các cơ sở đào tạo trên sẽ chỉ thu học phí chương trình sơ cấp là 120 USD và trung cấp là 150 USD.
-Trước khi thực hiện các khoá đào tạo chuyên gia, Sun đã trao tặng bộ phần mềm StarOffice 7 cho Bộ Giáo dục và Đào tạo Việt Nam. Đây là phần mềm mới với nhiều tính năng tiện dụng, giúp các thày cô và học sinh, sinh viên dễ dàng hơn trong soạn thảo văn bản, bảng tính, thuyết trình và đồ họa...
-Theo Giám đốc điều hành Sun tại Việt Nam, sắp tới, hãng sẽ tiến hành các đợt bán thiết bị phần cứng và phần mềm máy tính giá ưu đãi cho chuyên gia công nghệ thông tin Việt Nam.
-

@@ -1,7 +1,0 @@
-Mua cầu dao tự động 
-Cầu dao tự động hoạt động như 1 thiết bị bảo vệ để chống quá dòng, quá tải và ngắt mạch. Có thể chia cầu dao làm 2 loại chính: Loại bảo vệ quá dòng, quá tải bằng cơ cấu thanh lưỡng kim và loại chống điện giật, bảo vệ quá dòng và ngắn mạch có rơle. 
-Loại bảo vệ quá dòng ngoài cơ cấu thanh lưỡng kim để bảo vệ quá dòng còn có rơle điện từ. Khi có ngắn mạch thì rơle điện từ sẽ hoạt động tức thời để cắt dòng điện. Các loại có cấu tạo theo cơ cấu hỗn hợp này thường được sản xuất từ châu Âu và Mỹ, Nhật hoạt động hữu hiệu hơn và giá cả cũng thường đắt hơn. 
-Khi mua cần lưu ý: Dòng điện định mức ghi trên CB phải phù hợp với dòng điện đang sử dụng, có thể chọn dòng điện định mức trên CB bằng từ 120% - 150% (ví dụ sử dụng thiết bị khoảng 12A thì có thể dùng loại CB 15 A). 
-Cầu dao chống điện giật có nhiệm vụ phát hiện dòng rò và cắt ngay dòng điện. Thiết bị chống dòng rò hoạt động theo nguyên lý cân bằng dòng điện. Khi có dòng điện rò thì trong cuộn dây hình xuyến sẽ có sự mất cân bằng và sẽ cảm biến đến 1 rơle điện từ làm nhánh cơ cấu đóng cắt mạch điện tức thời. 
-Khi mua loại cầu dao chống giật, cần lưu ý có loại cầu dao chỉ làm nhiệm vụ phát hiện dòng rò, nhưng cũng có loại vừa phát hiện dòng rò vừa bảo vệ quá tải. Các loại của châu Âu thông thường sử dụng cơ cấu điện từ nên bền hơn, hiệu quả hơn, tuy nhiên khá đắt và thường phải gắn theo hộp điện của hãng chế tạo. Khi sử dụng ELCB, phải thường xuyên thử kiểm tra (bấm vào nút test xem cầu dao có nhảy hay không). 
-

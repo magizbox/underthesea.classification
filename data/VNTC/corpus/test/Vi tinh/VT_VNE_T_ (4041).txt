@@ -1,8 +1,0 @@
-Intel công bố chip Yonah cả dòng lõi đơn và kép 
-Tuy dành khá nhiều thời gian tại Diễn đàn các nhà phát triển IDF để bàn về lợi ích của thiết bị xử lý lõi kép dành cho notebook này, Intel vẫn khẳng định sẽ phát hành cả một phiên bản lõi đơn.
-Hãng dự kiến sẽ ra mắt thiết bị tiết kiệm điện năng đơn lõi sau khi Yonah lõi kép có mặt trên thị trường vào tháng 1/2006. Những sản phẩm đó sẽ được dùng cho laptop giá rẻ và sẽ không đòi hỏi khả năng vận hành cao như chip lõi kép.
-"Chúng tôi hy vọng thiết bị lõi đơn sẽ có thể tồn tại thêm một thời gian nhất định nữa", Steve Smith, Phó giám đốc bộ phận doanh nghiệp số của Intel, phát biểu tại diễn đàn IDF.
-Phiên bản lõi đơn của Yonah là dấu hiệu cho thấy Intel không hề có ý định từ bỏ thị trường giá trị này để theo đuổi dòng đa lõi. Tuy nhiên, các chuyên gia tại IDF nhận định chính sách lõi kép cứng nhắc đó sẽ có ảnh hưởng xấu đến công ty cũng như trong cuộc đua thu hút khách hàng với AMD.
-Yonah, chip Pentium M thế hệ mới, vẫn đang trong giai đoạn thử nghiệm và được kỳ vọng sẽ là "bộ não" cho notebook hoạt động trên Centrino và dòng Viiv mới cho máy tính đa phương tiện của Intel vào năm tới. Phiên bản lõi kép của thiết bị xử lý 32 bit có tốc độ dưới 2 GHz và bus hệ thống 667 MHz.
-Giám đốc điều hành Paul Otellini của Intel tuần này cũng giới thiệu nền laptop mới mang tên Meron, được xây dựng với công nghệ 65 nm, sẽ ra mắt vào nửa cuối 2006 sau Yonah.
-

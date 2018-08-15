@@ -1,7 +1,0 @@
-Ba chip mới dành cho máy xách tay của Intel
-Nhằm mở rộng lĩnh vực công nghệ di dộng để lôi kéo khách hàng là người tiêu dùng và doanh nghiệp, hãng sản xuất chip hôm qua tung ra 3 bộ vi xử lý mới: Pentium M 735, 745 và 755. Đây là những sản phẩm đầu tiên có khả năng xử lý cao mà không hao tốn pin.
-Được thiết kế theo một quy trình sản xuất tiên tiến dựa trên công nghệ 90 nanomet, các chip có tên mã là Dothan này có tốc độ 1,75 GHz (M 735), 1,8 GHz (M 745) và 2 GHz (M 755) với giá thành tương ứng là 294 USD, 423 USD và 637 USD khi mua từ 1.000 đơn vị trở lên. Những bộ xử lý trên có 140 triệu transistor, gấp đôi so với các chip cùng loại hiện hành.
-Anand Chandrasekher, Phó chủ tịch kiêm Tổng giám đốc Nhóm sản phẩm di động của Intel, cho biết các sản phẩm mới hiện được sử dụng trong 28 máy tính xách tay. "Dự kiến đến giữa tháng 7, số thiết bị cài chip Dothan được tung ra thị trường sẽ lên đến 50".
-Theo Intel, các đại gia sản xuất máy xách tay như Dell, HP, Sony và Toshiba sẽ tung ra loạt sản phẩm sử dụng 3 loại chip mới.Tới quý III năm nay, hãng chip cũng sẽ ra mắt 4 bộ xử lý mới, gồm: Pentium M 715, 725 và M 753, 733. Trong đó, M 715 có tốc độ 1,5 GHz với 2 MB cache Level 2 và bus 400 MHz. Model 725 có cấu hình tương tự nhưng chạy với tốc độ đồng hồ 1,6 GHz. Hai chip có điện áp thấp 753 và 733 có tốc độ lần lượt là 1,5 GHz và 1,4 GHz.
-Ngoài ra, Intel cũng sẽ giảm 30% giá các chip Pentium M cũ. 
-

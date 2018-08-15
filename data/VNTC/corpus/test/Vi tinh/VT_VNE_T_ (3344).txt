@@ -1,5 +1,0 @@
-Hàn Quốc áp dụng phần mềm mã mở tại 10.000 trường học
-Đây là nền phần mềm nguồn mở cây nhà lá vườn nằm trong khuôn khổ dự án Hệ thống thông tin giáo dục mới của chính phủ nước này. Nền tảng mang tên Buyeo là một phiên bản Linux do Hàn Quốc phát triển.
-Jin Ko Hyun, Chủ tịch Cơ quan xúc tiến công nghệ thông tin Hàn Quốc (KIPA), đơn vị tổ chức dự án, cho biết họ đã mất 2 năm để kiểm tra đánh giá Buyeo. Từ nay, thông tin sẽ được chuyển giao giữa các trường khi học sinh chuyển nơi học và khi các em vào đại học, Hyun nói. Giai đoạn tiếp theo của dự án sẽ là triển khai trên toàn quốc. Quan chức này cho biết thêm rằng chương trình Buyeo không phải là một nỗ lực cố tình nhắm vào Microsoft mà nhằm giúp Hàn Quốc tăng cường phát triển những phần mềm riêng và tạo ra một nền tảng hỗ trợ nội địa tốt hơn . 
-Hàn Quốc đang phấn đấu đến năm 2010 đạt 40% số máy chủ chạy hệ điều hành mã mở. Nước này cũng đang liên kết chặt chẽ với Trung Quốc và Nhật Bản để phát triển một nền Linux châu Á với khả năng đọc bất cứ chương trình nào do 3 nước này viết.
-

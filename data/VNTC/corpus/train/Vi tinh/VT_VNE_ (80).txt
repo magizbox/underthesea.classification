@@ -1,7 +1,0 @@
-Trục trặc với các menu trong máy nối mạng (1)
-Tôi có một thắc mắc nhỏ như sau mong các bạn giúp tôi hiểu sâu hơn về mạng máy tính. Tôi đang sử dụng mạng của công ty, khi tôi truy cập Internet, tôi muốn thiết lập trang Start bằng cách vào Tools\Internet Options, nhưng máy không cho vào khi tôi kích Internet Options. Tôi nghĩ là do regedit nhưng tôi cũng không thấy lệnh RUN ở nút Start nữa. Tôi vào ổ C chứa thư mục Windows cũng không được, máy luôn đưa ra những thông báo lỗi. Mặt khác ở trong Windows Explorer ổ đĩa A và C không tìm thấy. Một số MENU bị khoá cứng. Lệnh RUN cũng biến mất luôn. Vậy xin cho tôi hỏi muốn máy tính trở lại bình thường thì phải làm thế nào? Nguyên nhân là gì ? Tôi xin cảm ơn.
-Nguyễn Ngọc Dũng
-Hồi âm:
-Quản trị mạng sử dụng group policy khoá các yếu tố này để người khác không thể "nghịch" và gây lỗi cho máy trạm. Đây là một biện pháp giúp giảm chi phí hỗ trợ. Bạn không có cách nào để máy của bạn trở lại bình thường ngoài việc hỏi quản trị mạng. Nếu là máy của bạn ở nhà thì bạn có thể format lại ổ cứng rồi cài lại hệ điều hành từ đầu. 
-Dong Ngo 
-

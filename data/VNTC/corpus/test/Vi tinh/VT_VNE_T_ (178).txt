@@ -1,7 +1,0 @@
-Bốn đại gia Mỹ hợp sức chống spam
-Microsoft, America Online, Yahoo, và EarthLink vừa thông báo sẽ liên minh, nỗ lực tiêu diệt tệ thư rác bằng con đường pháp lý. Đây là vụ kiện quy mô lớn nhất từ trước đến nay, tận dụng đạo luật chống spam (CAN-SPAM Act) liên bang, có hiệu lực hôm 1/1.
-Tối qua, bốn công ty này đã cùng lúc đệ trình đơn kiện lên tòa án liên bang tại California, Georgia, Virgina, và Washington. Các bị đơn gồm 6 công ty tiếp thị, bị xem là thủ phạm phát tán hàng triệu thư rác tới khách hàng của bốn mạng trên. Chúng tôi vừa nhắm tới những kẻ gửi spam lớn nhất, tệ hại nhất, và nổi danh nhất, luật sư trưởng của America Online, Randall Boe, khẳng định. Bước tiếp theo sẽ là buộc họ ngừng việc làm ăn này.
-Theo đạo luật CAN-SPAM Act, thư quảng cáo phải có cơ chế cho phép người nhận từ chối không nhận tiếp các e-mail. Người gửi cũng không được phép ngụy trang tung tích và tiêu đề. Việc thu thập địa chỉ từ các website cũng dần bị hạn chế. Ngoài ra, hình phạt đối với việc gửi spam sẽ nặng hơn.
-Một số chuyên gia cho rằng CAN-SPAM là chưa đủ, và những kẻ gửi spam vẫn có thể làm ăn từ nhiều quốc gia khác. Dù vậy, luật sư của Microsoft, bà Nancy Anderson, cho rằng đạo luật chắc chắn sẽ có hiệu quả, bởi phần lớn spammer đều sống tại Mỹ, dù chúng cố xóa dấu vết bằng cách sử dụng các máy tính ở nước ngoài.
-Các khảo sát chỉ ra rằng spam hiện chiếm hơn một nửa số e-mail qua lại hàng ngày trên Internet.
-

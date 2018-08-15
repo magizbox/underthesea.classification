@@ -1,7 +1,0 @@
- Microsoft tiến vào thị trường phần mềm thiết kế
-EID, trước đây vốn có tên mã là Sparkle, sử dụng để thiết kế giao diện người dùng của các ứng dụng Web, Windows. Và EGD, vốn có tên mã là Acrylic, được dùng để thiết kế logo biểu mẫu và minh họa, có thể bao gồm luôn việc chế bản. 
-Những công cụ thuộc dòng Express này của Microsoft thể hiện rất rõ ràng việc Microsoft muốn chia sẻ khách hàng trong lĩnh vực thiết kế và chế bản, đồ họa vốn vẫn là thể mạnh của các công ty như Corel, Adobe, Quark… 
-Expression Graphic Designer Thế mạnh của các chương trình thuộc họ Express vẫn là giao diện thân thiện, dễ sử dụng, hỗ trợ tốt cho các nhà phát triển phần mềm và người dùng. Thứ hai, sản phẩm của Express được dịch ra theo ngôn ngữ XAML rất tiện lợi cho các lập trình viên khi xây dựng ứng dụng. 
-Microsoft cũng sẽ tổ chức một hội thảo, gọi là Mix 06, vào tháng 3 nhằm giới thiệu sản phẩm này hướng tới các đối tượng người dùng chuyên nghiệp hơn như các nhà thiết kế, chế bản, những nhà phát triển và người dùng doanh nghiệp 
-Bản thử nghiệm này chưa có đầy đủ chức năng, bạn có thể download về dùng thử tại website của Microsoft (Click vào link tên của chương trình ở trên) 
-

@@ -1,5 +1,0 @@
- Bạn ảo trên điện thoại di động
-V-Girl (Virtual Girlfriend) chỉ tương thích với mạng di động 3G và có tính tương tác cùng với trí thông minh nhân tạo, sinh động qua hình ảnh 3D động. Có thể liên hệ các nhân vật ảo bất kỳ lúc nào thông qua một điện thoại di động 3G, nhưng có khá nhiều cơ hội bạn có thể thay đổi AI (trí thông minh nhân tạo) qua các hành động khác nhau (từ khi mỗi nhân vật có cuộc sống riêng của chính anh ta hay cô ấy), như học tập, đi mua sắm hay nghỉ ngơi. 
-Trong khi V-Girl đang có vị trí cao với đông đảo người dùng là nam giới thì V-Boy sẽ hướng đến đối tượng là phụ nữ từ độ tuổi 15 đến 30. V-Boy sẽ kế thừa khuôn mẫu và sẽ được phát hành làm ba phiên bản. Bản đầu tiên sẽ bao gồm 10 cấp bậc và được phát hành vào tháng 12 ở Anh. 
-Người dùng chỉ có thể tán gẫu, bất kỳ những vấn đề liên quan đến tình dục vẫn còn là câu hỏi. Sự tương tác giữa nhân vật ảo và người dùng điện thoại di động sẽ thông qua tin nhắn SMS, MMS hay qua tán gẫu (chat) nếu điện thoai hỗ trợ J2ME. Một vài biểu tượng tương tác với nhau trong trò chơi thể hiện sự liên hệ giữa người dùng và chương trình ảo. 
-

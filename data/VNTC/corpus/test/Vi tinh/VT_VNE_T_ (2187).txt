@@ -1,6 +1,0 @@
-Cài lại Windows (1)
-O cung may tinh minh chia lam 2. Minh co cai 2 he dieu hanh tren 2 o do, nhung deu dinh dang o NTFS nen minh khoi dong bang DOS khong thay duoc, ma may tinh cua minh lai khong co o dia CD. Minh muon cai lai Win 2000 do bi hu, ma phan mem cai dat lai nam o o D: chua he dieu hanh Win 2000. Xin cac ban cho minh biet la phai lam nhu the nao? Hien chi khoi dong duoc Win XP o o C thoi.
-Vi Hung
-Hồi âm:
-Trên nguyên tắt chia vùng ( dual boot) 2k phải để ở C: xp phải để ở D: nhưng XP rất khó chịu khi bạn để ngoài C: nếu không nhở đến ct thứ 3 trợ giúp ( power quest ver 8.0) chẳng hạn phần boot magic sẽ giúp bạn làm chuyện đó. Nhưng mà tại sao phải dùng 2k và xp trên 1 ổ đĩa? ví cả 2 giông giống như nhau. Nếu 98se và xp thì tốt, vì lợi ích nếu các thiết bị đi kèm theo như printer hoặc scaner hoặc drive không tương thich với xp thì bạn sẽ dễ dàng cài trên 98. 
-

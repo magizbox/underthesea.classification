@@ -1,5 +1,0 @@
-Xây dựng ngân hàng dữ liệu xuất khẩu
-Dự án xây dựng ngân hàng dữ liệu phục vụ xuất khẩu do Phòng Thương mại và Công nghiệp VN (VCCI) chủ trì thực hiện sẽ bắt đầu hoạt động vào quý IV năm nay.
-Đây là một nội dung trong Chương trình xúc tiến thương mại trọng điểm quốc gia năm 2005, nhằm cung cấp thông tin xúc tiến xuất khẩu cập nhật cho các doanh nghiệp ra thị trường quốc tế. Đồng thời, cung cấp các thông tin trong ngân hàng dữ liệu phục vụ xuất khẩu bao gồm các văn bản ghi nhớ, hiệp định thương mại giữa VN và các nước. Các thông tin chi tiết về thủ tục hải quan, các sự kiện thương mại sắp diễn ra, địa chỉ các cơ quan hỗ trợ và xúc tiến thương mại, thông tin thị trường.
-Đặc biệt ngân hàng thông tin còn cung cấp danh bạ khoảng 100.000 nhà nhập khẩu trên thế giới được phân loại theo ngành hàng, quốc gia.
-

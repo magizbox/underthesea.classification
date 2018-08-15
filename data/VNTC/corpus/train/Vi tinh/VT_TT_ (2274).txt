@@ -1,5 +1,0 @@
- Symantec cung cấp phần mềm sao lưu và hồi phục
-Dựa trên sự tăng trưởng về dung lượng lưu trữ các tập tin hình ảnh, âm thanh và truyền thông đa phương tiện của người dùng, Symantec đã cho phát hành phần mềm Norton Save &amp; Restore phục vụ cho mục đích sao lưu và hồi phục. 
-Với khả năng tự động trong nhiều thao tác phức tạp, Norton Save &amp; Restore hướng đến đối tượng người dùng bận rộn với khả năng định kỳ lưu trữ, và lưu trữ thông tin theo yêu cầu. Người dùng cũng có thể tùy chọn sử dụng Norton Ghost để sao lưu hoàn toàn đĩa cứng của mình. Chức năng ấn tượng nhất là khả năng bảo mật dữ liệu mà Symantec cam kết là “an toàn tuyệt đối” trước các tác nhân về Virus, malware lẫn những khả năng hỏng hóc bất ngờ. 
-Save &amp; Restore có giá bán lẻ là 69,99 USD. Bạn cũng có thể đặt mua tại website http://www.symantecstore.com 
-

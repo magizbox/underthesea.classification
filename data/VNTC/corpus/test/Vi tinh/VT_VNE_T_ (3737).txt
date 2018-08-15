@@ -1,7 +1,0 @@
-Xây dựng siêu máy tính Lenovo 1.000 teraflop 
-Tập đoàn điện tử Trung Quốc đang bắt tay vào dự án sản xuất hệ thống điện toán  mạnh gấp 10 lần so với siêu máy tính IBM Blue Gene/L nhanh nhất thế giới hiện nay.
-Theo phát ngôn viên Jean Cai của Lenovo, siêu máy tính này sẽ cung cấp khả năng thực hiện 1.000 nghìn tỷ phép tính/giây (1.000 teraflop). Các chi tiết kỹ thuật khác chưa thể được cung cấp do "dự án mới trong giai đoạn xuất phát", Cai cho biết.
-Ngày phát hành cụ thể cũng không được công bố nhưng các chuyên gia dự đoán sản phẩm sẽ ra mắt trong kế hoạch 5 năm lần thứ 11 từ 2006 - 2010 của Trung Quốc. Nếu thành công, siêu máy tính 1.000 teraflop sẽ vượt xa khả năng vận hành của những hệ thống nhanh nhất trong thời điểm hiện tại. 
-Hiện nay, máy tính mạnh số một của Trung Quốc là Dawning 4000A đặt tại Trung tâm siêu máy tính Thượng Hải do tập đoàn công nghệ thông tin Dawning sản xuất. Với khả năng thực hiện 8 nghìn tỷ phép tính/giây, hệ thống này đứng thứ 31 trong danh sách Top 500 siêu máy tính mạnh nhất thế giới.
-Trung Quốc sẽ cần nhiều siêu máy tính mạnh trong những năm tới nhưng không thể dựa vào các nước khác để xây dựng hệ thống đáp ứng nhu cầu về phát triển và tăng trưởng kinh tế nước này.
-

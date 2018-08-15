@@ -1,9 +1,0 @@
-Điện thoại băng thông rộng không dây đầu tiên
-Hãng điện tử Samsung sẽ giới thiệu điện thoại và hệ thống WiBro với những ứng dụng như truyền hình, mạng gia đình, đàm thoại video, VOD... trong triển lãm công nghệ APEC 2005 diễn ra tuần này tại Hàn Quốc. 
-Samsung H1000.
-Điện thoại di động H1000 và thiết bị PDA M8000 là hai sản phẩm WiBro (băng thông rộng không dây) đầu tiên tại triển lãm năm nay. 
-Chiếc điện thoại gập H1000 có thể mở theo cả hai chiều dọc và ngang. Nó được trang bị màn hình LCD 2,2 inch và bàn phím Qwerty giúp cải tiến khả năng truy cập Internet và e-mail. Điện thoại tích hợp 2 camera (2 megapixel và VGA) cùng tính năng TV Output. Trong khi đó, M8000 là điện thoại thông minh sử dụng bàn phím Qwerty. 
-Samsung cũng sẽ phát hành thẻ WiBro PCMCIA cho máy tính xách tay và máy tính bảng.
-WiBro cho phép truyền dữ liệu với tốc độ lên tới 50 Mb/giây, đáp ứng nhu cầu của những ai cần kết nối băng thông rộng trong quá trình đi lại. Đại diện của Samsung cho biết dịch vụ vẫn duy trì ổn định ngay cả khi khách hàng đang di chuyển với tốc độ 120 km/giờ. Với H1000, M8000 hoặc thẻ giao diện laptop Wibro, mọi người có thể sử dụng Internet tốc độ cao không dây, dịch vụ VoIP, tải video...
-WiBro, tiền thân của WiMax, sẽ chỉ xuất hiện tại Hàn Quốc thời gian tới. Kế hoạch triển khai ở Bắc Mỹ vẫn chưa được công bố chính thức. Intel cũng đang đẩy nhanh quá trình phát triển công nghệ WiMax, đối đầu trực tiếp với giải pháp của Samsung.
-

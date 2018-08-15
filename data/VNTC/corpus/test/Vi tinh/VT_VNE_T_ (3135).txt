@@ -1,8 +1,0 @@
-Yahoo ra mắt công cụ phân loại tìm kiếm
-Hãng dịch vụ trực tuyến khổng lồ này lại cung cấp dịch vụ Mindset mới, cho phép người dùng tìm kiếm và sàng lọc kết quả dựa trên giá trị về thông tin hay thương mại.
-Phiên bản Beta mới ra mắt tạo cơ hội cho người dùng tìm những gì họ cần theo một phong cách hoàn toàn mới lạ, khác hẳn những công cụ search trực tuyến đang thịnh hành, luôn hiển thị cả một loạt thông tin không theo một trật tự nào.
-Yahoo cho biết Mindset hoạt động dựa trên quá trình nhận biết máy móc, thực hiện công việc tìm kiếm qua các thuật toán để có thể phân cấp thông tin từ "rất mang tính thương mại" đến "không thiên về thương mại". Với công cụ này, câu lệnh search có thể được điều chỉnh bằng cách di chuyển điểm trượt trên đầu trang sang bên trái hoặc phải để quyết định kết quả sẽ là commercial (thương mại) hay informational (thông tin). 
-"Đôi khi bạn muốn mua một sản phẩm, nhưng đôi khi bạn chỉ cần tìm thông tin về chúng. Các trang tìm kiếm thông thường luôn trộn lẫn nhiều site với nhau, sẽ rất khó cho bạn lấy được thông tin mong đợi. Mindset thể hiện nỗ lực của Yahoo trong việc giải quyết vấn đề này", Bernard Mangold, Giám đốc Yahoo Research Labs, phát biểu.
-Yahoo đã khá im ắng trước khi thông báo về công cụ cải tiến mới này, trong khi mới chỉ cách đây hơn một tuần Google đã cung cấp dịch vụ trang web cá nhân.
-Có thể dùng dịch vụ Mindset ngay tại trang web của Yahoo mà không cần cài đặt thêm phần mềm mới nào.
-

@@ -1,8 +1,0 @@
-Dự báo động đất hàng ngày
-Các nhà địa chất học đã xây dựng một mô hình dự báo nguy cơ xảy ra động đất cho từng ngày và tại từng địa điểm ở California (Mỹ), rất giống với việc nhà khí tượng dự báo về khả năng có mưa trong ngày. 
-Khi một trận động đất xảy ra, các dư chấn cũng có thể xuất hiện. Matthew Gerstenberger thuộc Cơ quan khảo sát địa chất Mỹ và cộng sự đã sử dụng các lý thuyết về sự co cụm động đất để tính toán khả năng xảy ra hoạt động địa chất tại một khu vực nào đó trong thời gian 24 giờ. 
-Bản dự báo là sự kết hợp giữa một mô hình mặt đất (xây dựng trên hồ sơ các dải đứt gãy đã biết), với dữ liệu trong những hoạt động địa chất gần đây. Hiện tại, các nhà khoa học mới chỉ xây dựng được mô hình cho California, song họ hy vọng sẽ mở rộng nó cho những nơi thường xảy ra động đất khác. 
-Được cập nhật mỗi giờ, bản đồ sẽ thông báo về khả năng xảy ra một rung lắc cấp 6 hoặc lớn hơn - rung lắc đủ để làm vỡ kính cửa sổ và bung lớp vữa tường - trong một khu vực đã biết. Đối với hầu hết các khu vực, bản đồ dự báo trên tỷ lệ từ 1 phần triệu đến 1 phần nghìn. 
-Để thực hiện mô hình chính xác, các nhà nghiên cứu đã thử dự báo cho các năm từ 1988 đến 2002. Kết quả là là con số dư chấn tìm thấy trong mô hình phù hợp với những gì thực tế quan sát được trong khoảng thời gian đó. 
-Gerstenberger không chắc người dân sẽ xem dự báo động đất mỗi ngày, song ông hy vọng từ đó họ sẽ tự nhận thức được mức độ nguy hiểm diễn ra sau mỗi trận động đất lớn. Bản dự báo cũng sẽ giúp giảm nhẹ những nỗ lực trong việc lập kế hoạch đối phó với động đất. 
-

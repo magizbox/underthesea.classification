@@ -1,8 +1,0 @@
-Không cho cài password lung tung (2)
-Ở cửa hàng net của tôi thỉnh thoảng bị khách cài password như khi ta muốn bảo vệ PC. Anh chị cho tôi hỏi có cách nào để họ không cài được password nữa hoặc khi họ cài rồi có cách nào để delete password đó mà không cần cài lại ổ không? Tôi xin cảm ơn.
-Ngoc Anh
-Hồi âm:
-Ban logon Admin, cai dac password rieng cho ban, sau do ban chi cho khanh hang xai Guest (ban nen doi ten "GUEST" thanh "KHACH", xoa bo nhung USER (ten) choang cho. Chuc ban may man.
-BT
-Toi doc bai viet cua ban, ve truong hop may cua ban bi cai pass lung tung, theo kinh nghiem ma toi cung lam o quan net cua toi, de khac phuc tinh trang tren co rat nhieu cach, co the la bang admin cua ban, hoac cach khac, nhung toi co mot y kien nhu the nay cho ban.Ban co the cai lai may hoan toan tu dau,va sau do ban tim mua phan men hoac, xin o dau do, phan men Go Back 3. Phan men do rat huu hieu,hien tai toi cung dang su dung phan men do. Phan men nay co dac trung rieng la, khi ban da cai dat cho may, gan nhu la chuan roi thi ban cai Go Back vao, luc do phan men se tu dong cai dat lai nhu vua cai dat moi, moi khi ban khoi dong lai may, no se tu dong,lam sach may cho ban ke ca moi cai dat khong mong muon cua ban, cho du la khach den cho ban choi co muon pha hoai may cua ban. Phan nay, neu ban muon cai dat gi them vao may thi ban van cai dat duoc, vi ban chi can mo ma khoa cua Go Back la duoc. Neu co van de ve cai dat, ban len hoi chuyen gia them nua, day la kinh nghiem cua toi. Toi chi giup ban duoc den vay, co the ban gui mail lai cho toi, theo dia chi: hoangdinhthuan@pmail.vnn.vn. Chao ban. Chuc ban thanh cong!
-

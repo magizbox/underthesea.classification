@@ -1,4 +1,0 @@
- Thiết kế thiệp bằng Personal eGreetingCard Designer
-Chương trình này có thể giúp bạn tự tay thiết kế những tấm thiệp với đầy đủ hiệu ứng âm thanh, hình ảnh. Ngoài ra, chương trình còn cho phép bạn xuất tấm thiệp ra một file tự chạy dạng .exe, đồng thời có thể tạo Password bảo vệ tấm thiệp nhằm bảo đảm sự riêng tư của mình. 
-Chương trình có dung lượng 2,31 MB, tương thích với Windows 2000/XP, bạn có thể download bản freeware tại địa chỉ: http://www.zechsoft.com/ecard/eGreetingCardInstallerXP.msi . 
-

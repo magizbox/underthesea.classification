@@ -1,7 +1,0 @@
-Microsoft có thể bị phạt 5 triệu USD/ngày
-Cơ quan chống độc quyền của châu Âu sẽ sớm quyết định việc trừng phạt Microsoft số tiền tương đương 5% doanh số toàn cầu hàng ngày của hãng này nếu không tuân thủ các phán quyết mà EU đưa ra năm ngoái.
-Theo tờWall Street Journal, Ủy ban châu Âu đang tham vấn ý kiến của Tổ chức phần mềm tự do châu Âu, đơn vị từng cáo buộc Microsoft gây cản trở quá trình tiếp cận mã nguồn của họ. Một số nguồn tin cho biết Microsoft đã đặt ra những điều kiện riêng về cách thức mà họ tuân thủ phán quyết của EU. 
-Ủy ban châu Âu cho Microsoft 2 tuần để đưa ra những điều khoản cởi mở hơn đối với một số giao thức server nếu không muốn bị phạt số tiền trên. Tuần trước cơ quan này tuyên bố họ không hài lòng với những điều kiện mà hãng phần mềm Mỹ đưa ra trong việc cho phép các lập trình viên được dùng các giao thức nói trên để phát triển những sản phẩm tương thích Windows. 
-Trong khi đó, Microsoft ra một thông cáo cho biết họ đã mở rộng Chương trình chia sẻ mã nguồn cho thêm 7 nước thuộc Liên minh châu Âu. Mã này sẽ được cung cấp cho một số công ty, đối tác sản xuất thiết bị gốc (OEM), các công ty tích hợp hệ thống và một số viện nghiên cứu ở Síp, Estonia, Latvia, Litva, Malta, Slovakia và Slovenia. 
-Tháng 3 năm ngoái, EU ra đòn bắt Microsoft nộp phạt 497 triệu euro vì thực hiện những hoạt động kinh doanh có tính phản cạnh tranh. Sau đó hãng phần mềm tuyên bố quyết tâm kháng kiện. Mức độ trừng phạt của EU đối với Microsoft tương phản hoàn toàn với cách xử lý nhẹ nhàng trong một vụ tương tự nhắm vào Microsoft do Bộ Tư pháp Mỹ xử.
-

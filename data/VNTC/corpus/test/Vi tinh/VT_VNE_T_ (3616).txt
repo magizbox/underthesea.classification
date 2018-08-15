@@ -1,6 +1,0 @@
-Xử lý ảnh toàn diện với FastStone Image Viewer 
-Chương trình với đầy đủ chức năng của một trình xử lý ảnh chuyên nghiệp bao gồm: xem, chuyển đổi, chỉnh kích cỡ, cắt, chỉnh màu, tạo hiệu ứng và một số chức năng khác.
-FastStone Image Viewer được thiết kế với giao diện đẹp và dễ sử dụng, một số skin được cung cấp thêm để bạn thay đổi tránh sự nhàm chán. Chương trình có vài hiệu ứng và bộ lọc đơn giản như Lens, Waves và Morphs. Bạn có thể loại bỏ hiệu ứng mắt đỏ khi chụp ảnh ban đêm, điều chỉnh ánh sáng cũng như độ tương phản. FastStone Image Viewer chuyển đổi các file ảnh sang một trong những định dạng sau: GIF, BMP, PSD và PNG. Ngoài ra còn có trình tạo các slide với hơn 60 hiệu ứng chuyển đổi. Đặc biệt trong khoảng thời gian chuyển đổi giữa các ảnh cho phép thêm vào bản nhạc MP3.
-Chương trình hỗ trợ hầu hết các định dạng ảnh phổ biến như: BMP, JPEG, JPEG 2000, GIF, PNG, PCX, PSD (định dạng của chương trình Photoshop), TIFF, WMF, ICO và TGA.
-FastStone Image Viewer là phần mềm miễn phí. Phiên bản mới nhất là 2.5 bạn có thể tải tại đây.
-

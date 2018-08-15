@@ -1,7 +1,0 @@
- LG G262: Xe đua trong bàn tay
-Máy nặng 119 g, hoạt động trên 3 băng tần GSM 900/1.800/1.900 MHz. Tăng thêm vẻ đẹp cho kiểu dáng là màn hình OLED ngoài sống động, hiển thị 65.536 màu, độ phân giải 96 x 96 pixel. 
-Camera 1,3 Megapixel có thể chụp ảnh ở độ phân giải tối đa 1.280x960 pixel và quay video. Máy cũng có đèn flash trợ sáng cho những cảnh chụp đêm. Bạn có thể gửi hình ảnh cho người quen qua tin nhắn MMS ngay sau khi chụp bằng thao tác đơn giản. 
-Việc truyền tải dữ liệu với máy tính được thực hiện dễ dàng qua giao tiếp USB hoặc Bluetooth. Máy được hỗ trợ WAP 2.0 nên người sử dụng có thể truy cập internet để xem tin tức, gửi nhận email, tin nhắn MMS... 
-So với hệ thống GPRS trước đây, việc ứng dụng EDGE sẽ gia tăng tốc độ của mạng và hiệu quả hoạt động sẽ tăng lên rất nhiều lần, từ tốc độ hiện thời là 40 Kb/giây lên đến 200 Kb/giây (có tốc độ tối đa khoảng 384 Kb/giây và trung bình khoảng 250 Kb/giây). 
-Ngoài các chương trình quản lý thông tin cá nhân khá toàn diện, G262 cũng có nhiều ứng dụng khác, như chương trình chuyển đổi tiền tệ, máy tính, sổ ghi nhớ, lịch làm việc. Máy được hỗ trợ Java nên người dùng có thể tải thêm nhạc chuông, trò chơi, hình ảnh nền từ mạng. Sản phẩm mới ra mắt thị trường VN, giá 5.290.000 VND tại Mai Nguyên Mobile Phone. 
-

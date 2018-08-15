@@ -1,6 +1,0 @@
- NEC giới thiệu pin mỏng nhất thế giới
-NEC tuyên bố rằng loại pin này được phát triển với mục đích sử dụng trong các ứng dụng như thẻ RFID (Radio Frequency Identifications) và có thể cung ứng đủ năng lượng để những thẻ này hoạt động trong một vài tuần mà không cần sạc thêm. 
-Loại pin này là có nguồn gốc từ “pin hữu cơ”, một công nghệ được phát triển bởi NEC cho phép sử dụng các nguyên liệu thân thiện trong việc so sánh từ các loại vật chất hóa học được tìm thấy trong những loại pin thông thường khác. Theo như giới thiệu của NEC thì công ty đã bắt đầu phát triển trong lĩnh vực này từ năm 2000. 
-Các loại pin mỏng này rất quan trọng cho loại thẻ RFID. Phần lớn các loại thẻ này là các thiết bị “thụ động”. Chúng không có khả năng tự gởi dữ liệu, chỉ hoạt động trong vùng có dải sóng vô tuyến và với khoảng cách chỉ vài centimet. Thẻ được cải tiến sẽ giống các máy phát sóng vô tuyến nhiều hơn, có thể gởi dữ liệu ở các khoảng cách rộng hơn, vì vậy chúng có thể được đọc mà không cần phải lại gần một bộ đọc. 
-Đầu năm nay, NEC đã từng giới thiệu một phiên bản lớn hơn, được coi là một nguồn năng lượng dự trữ khẩn cấp cho máy tính cá nhân. Loại pin này sẽ giúp duy trì PC trong vòng 15 giây sau khi nguồn chính bị cúp, đủ thời gian để sao lưu dữ liệu và tắt máy. 
-

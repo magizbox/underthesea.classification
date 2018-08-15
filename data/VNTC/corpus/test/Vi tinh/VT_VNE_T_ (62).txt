@@ -1,6 +1,0 @@
-Lỗi cài đặt phần mềm (1)
-Khi tôi cài một phần mềm thì máy báo "Could not initialize installation File size expected = -1962917872, size returned = 1002602". Điều này có nghĩa là gì và cách khắc phục như thế nào. Mong các bạn chỉ giúp cho tôi. Cám ơn rất nhiều.
-Nguyễn Văn Đại
-Hồi âm:
-Điều này có nghĩa là file cài đặt của phần mềm đó bị hỏng hoặc máy của bạn bị virus. Bạn thử tìm một bản khác của phần mềm đó rồi cài lại xem sao. Nếu vẫn không được thì nên kiểm tra xem máy có bị virus hay không. Nếu cả hai điều trên đều không đúng thì RAM của bạn bị hỏng, tuy nhiên, điều này rất hãn hữu. 
-

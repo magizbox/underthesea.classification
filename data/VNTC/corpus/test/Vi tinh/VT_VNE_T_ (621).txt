@@ -1,6 +1,0 @@
-Không đánh được tiếng Việt (1)
-May vi tinh cua toi truoc day danh tieng Viet trong Internet binh thuong (Google chang han) - font unicode - Unikey 3.55. Nhung gan day bong tu nhien danh tieng Viet trong web khog duoc nua, mac du danh tieng Viet trong Word van binh thuong. May van hien thi trang web tieng Viet binh thuong, font times newromans/Latin base. Toi khong biet rac roi, truc trac o dau. Xin cac ban lam on chi giup.Chan thanh cam on.
-Minh Duc
-Hồi âm:
-Bạn chuyển chế độ View của trình duyệt (Internet Explorer) sang Unicode UTF-8, trước ghĩ bắt đầu đánh tiếng Việt. Nếu vẫn không được, bạn đã cài đặt một phần mềm nào đó và phần này đã thay đổi font hệ thống của máy. Lúc nào tốt nhất là bạn cài lại hệ điều hành hoặc hoàn trả hệ thống về thời điểm mà mọi thứ vẫn hoạt động tốt.
-

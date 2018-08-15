@@ -1,7 +1,0 @@
- Xem tin nhắn ĐTDĐ ngoài không trung
-Một bộ cảm nhận chuyển động trong điện thoại sẽ khiến ánh sáng nhấp nháy thành các ký tự khi điện thoại được vùng vẩy trong không trung. 
-Nokia cho biết máy 3220 gắn 12 chiếc đèn LED, cho phép bạn viết tin nhắn ánh sáng để người thân có thể 
-Thông điệp được viết bằng 12 chiếc đèn LED gắn sau máy 3220 nhìn thấy trong khoảng cách 6 met (ở khoảng cách xa hơn hình ảnh này sẽ bị mờ). 
-Tuy nhiên, những thông điệp này sẽ không được viết dài như các tin nhắn dạng văn bản phổ biến hiện nay vì hệ thống xử lý văn bản không trung chỉ có thể xử lý tối đa 15 ký tự. 
-Nokia sẽ đưa ra thị trường máy 3220 vào mùa hè năm nay. 
-

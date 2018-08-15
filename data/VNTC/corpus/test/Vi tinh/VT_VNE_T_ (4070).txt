@@ -1,7 +1,0 @@
-Intel và Cisco thay đổi cách chọn điểm truy cập Wi-Fi
-Hai tập đoàn này đã cùng nhau nâng cấp công nghệ mạng không dây, bước đầu là cải tiến VoIP và cho phép người dùng tự động lựa chọn kết nối tới mạng gần đó.
-Sản phẩm hợp tác mang tên Business Class Wireless Suite (Công nghệ không dây cho doanh nghiệp) sẽ có mặt trong năm tới. Intel và Cisco sẽ tập trung vào việc đơn giản hoá quá trình cài đặt Wi-Fi, siết chặt an ninh mạng và sử dụng dễ dàng, nhằm mở rộng công nghệ cả trong thị trường doanh nghiệp và gia đình.
-Theo Charles Giancarlo, Phó giám đốc của Cisco, một công nghệ bao gồm những thành tố trong máy tính xách tay và thiết bị định tuyến Cisco sẽ có khả năng nâng cao chất lượng dịch vụ đàm thoại qua Wi-Fi.
-Dự án này hứa hẹn sẽ thay đổi phương thức khách hàng tự động lựa chọn điểm truy cập khi họ bắt đầu kết nối vào mạng LAN không dây. Thay vì chọn tín hiệu mạnh nhất, khách hàng sẽ kết nối tới điểm có băng thông rộng nhất trong khoảng thời gian đó.
-Cả hai cũng tuyên bố hợp tác trong lĩnh vực an ninh mạng. Hãng sản xuất chip số một thế giới sẽ tham gia vào hệ thống quản lý mạng NAC của Cisco. Chương trình này đánh giá thông tin bảo mật của một khách hàng trước khi cho phép họ kết nối mạng hay truy cập vào những nguồn cụ thể, nhằm ngăn chặn những vụ thâm nhập của người lạ. Ngược lại, hãng thiết bị định tuyến cũng sẽ gia nhập công nghệ quản lý động AMT của Intel. NAC và AMT sẽ có khả năng tương thích với nhau ngay trong quý IV năm nay.
-

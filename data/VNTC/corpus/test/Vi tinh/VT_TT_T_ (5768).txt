@@ -1,4 +1,0 @@
- IE 7.0 sẽ có tính năng xóa dấu vết… web khiêu dâm
-Đó là tính năng “Delete Browsing History” mà dân lướt web…sex hào hứng đặt tên cho nó là “HideMyPorn”. Tính năng này được thể hiện bằng một nút riêng biệt mà khi nhắp vào đó thì toàn bộ Temporary Internet Files; Cookies; History; Form Data; Passwords… sẽ bị xóa sạch như “chùi”, tức toàn bộ dấu vết lướt web khiêu dâm sẽ không còn lưu lại bất kỳ nơi đâu trong máy tính nữa. 
-Tính năng này thật sự hữu dụng vì nó thường xuyên dọn rác sạch sẽ cho máy tính, và thật ra nó hết sức hữu dụng cho mọi người vì có đến hơn 90% số người lướt web thừa nhận rằng đã “tối thiểu một lần” trong đời họ đã “vô tình” chui vào một trang web khiêu dâm nào đó. Hiện Internet Explorer vẫn là trình duyệt thống soái với khoảng 85% số người dùng để lướt web. 
-

@@ -1,6 +1,0 @@
- Microsoft Fremont – Đối thủ của Google Base
-Fremont cũng được liên kết với Live.com, nơi mà người dùng có thể xem những tin rao trên các trang cá nhân của họ. Microsoft cũng đã bắt đầu đưa Fremont vào giai đoạn thử nghiệm tại http://fremont.live.com , tuy nhiên quyền truy xuất vẫn còn giới hạn trong phạm vi nhân viên của Microsoft và bản thử nghiệm sẽ được công bố rộng rãi đến người dùng vào tháng 12 này. 
-Google cho biết Google Base cho phép người dùng có thể tải lên bất cứ thông tin gì và giúp chúng có thể được tìm kiếm trực tuyến. Dịch vụ có thể lưu trữ cơ sở dữ liệu web khổng lồ với tất cả mọi thứ từ những thực đơn cho đến tin rao vặt. 
-Cả Microsoft và Google dường như đã nhận ra khả năng tiềm tàng của dạng web như Craigslist, có khả năng thu hút được đông đảo người dùng cũng như cung cấp một cách thức mới cho các công ty để bán các dịch vụ quảng cáo qua web thu lợi nhuận. 
-Theo TechCrunch , tên cuối cùng cho dịch vụ này từ Microsoft vẫn chưa được quyết định chính thức và Fremont là lựa chọn cho hiện tại. 
-

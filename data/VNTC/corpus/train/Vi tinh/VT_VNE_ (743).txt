@@ -1,8 +1,0 @@
-Windows XP SP2 được phát hành vào tháng tới
-Hôm qua, sau 2 tháng trì hoãn, đại diện của Microsoft thông báo bắt đầu từ tháng 8 hãng sẽ cho ra mắt bản nâng cấp Service Pack 2 cho Windows XP. Phiên bản này sẽ có nhiều cải tiến an ninh và nâng cao tính ổn định.
-Người dùng có thể tải miễn phí SP2 trên Internet hoặc có thể cài đặt bằng đĩa CD-ROM. Chương trình vá lỗi Service Pack 2 của Windows XP Home Edition và Windows XP Professional có dung lượng theo thứ tự là 70MB và 92MB.
-Lúc đầu, hãng phần mềm dự định sẽ ra mắt giới tiêu dùng bản SP2 vào tháng 6 năm nay. Tuy nhiên, Mike Nash, Phó giám đốc an ninh của Microsoft, cho biết tập đoàn của ông cần có thêm nhiều thời gian hơn nữa để đảm bảo phần mềm nâng cấp ổn định và có thể liên kết với các chương trình khác khi đã được cài đặt vào máy tính cá nhân chạy trên hệ điều hành Windows XP. 
-Nash cho biết: "Chúng tôi đang tích cực khuyến khích các doanh nghiệp chuyển sang sử dụng hệ điều hành Windows XP và áp dụng chương trình SP2. Những máy tính mới sẽ được tích hợp thêm bản nâng cấp này".
-Sau khi chủ tịch Bill Gates ra thông báo về sáng kiến "Trustworthy Computing" vào đầu năm 2002, hãng phần mềm lớn nhất thế giới đã giành sự ưu tiên số một cho việc cải thiện tính bảo mật và độ tin cậy trong phần mềm của mình. 
-Đặc biệt trong thời gian gần đây, rất nhiều loại sâu như Blaster và MyDoom đã khai thác lỗi trong hệ điều hành Windows của Microsoft. Tình trạng này đã khiến nhiều máy tính của hãng bị lỗi và có nguy cơ mất dữ liệu. Nhận thức được điều này, Microsoft đã tích cực nâng cao tính bảo mật trong tất cả các sản phẩm của mình.
-

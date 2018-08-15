@@ -1,9 +1,0 @@
-Lỗi nghiêm trọng trong 3 công cụ bảo mật
-Phần mềm Sophos Anti-Virus, ClamAV và chương trình quét giao thức mạng Ethereal đã đồng thời gặp phải nhiều lỗ hổng lớn trong những ngày gần đây, tạo cơ hội cho hacker kiểm soát toàn bộ hệ thống.
-Ethereal và ClamAV đã nhanh chóng được vá lỗi nhưng Sophos cho biết vẫn chưa thể sửa tất cả các phần mềm bảo mật của hãng.
-Lỗi tràn bộ đệm trong ứng dụng của Sophos mới chỉ được giải quyết cho một số phiên bản hiện tại. Những công ty cài Sophos Anti-Virus 3.96.0 và 4.5.4 trên Windows, Unix, NetWare, OS/2 và OpenVMS sẽ không bị ảnh hưởng. Hãng bảo mật Anh này không mô tả chi tiết về lỗ hổng nhưng khẳng định sẽ cung cấp miếng vá đầy đủ trong vòng 14 ngày tới.
-ClamAV, xuất hiện trong nhiều ứng dụng phần nền Mac OS X và Windows, gặp phải vấn đề với ít nhất 3 thành tố được dùng trong quá trình xử lý định dạng file TNEF, CHM, và FSG, khiến kẻ tấn công có thể ghi đè dữ liệu để kiểm soát hệ thống. Lỗi ảnh hưởng phiên bản 0.86.1 và những nhà sản xuất phần mềm tích hợp ClamAV đã nhanh chóng được cung cấp miếng vá 0.86.2.
-Một loạt phiên bản từ Etheral 0.8.5 đến 0.10.11 đều gặp nhiều lỗ hổng, trong đó có một lỗi liên quan đến công nghệ nén zlib - vấn đề xảy ra trong nhiều ứng dụng và đã được vá cho trình duyệt web, giao diện đồ hoạ KDE, eMule và ứng dụng chia sẻ file. Ethereal đã ngay lập tức cập nhật lên phiên bản 0.10.12.
-Những lỗ hổng khác liên quan đến thành phần giao thức Ethereal, đặc biệt là LDAP, AgentX, 802.3, PER, DHCP, BER, MEGACO, GIOP, SMB, WBXML, H1, DOCSIS, SMPP, HTTP, DCERPC, CAMEL, RADIUS, Telnet, IS-IS LSP và NCP. Chúng gây ra lỗi trong chuỗi định dạng, làm tràn bộ đệm, và có thể tạo cơ hội cho hacker tấn công từ xa, phá vỡ chương trình Ethereal và xử lý mã độc.
-Cả 3 chương trình bảo mật trên đều được dùng khá rộng rãi, trong đó Ethereal và ClamAV (tích hợp trong nhiều máy chủ e-mail để quét file đính kèm) xuất hiện trong sản phẩm mã mở, còn phần mềm Sophos được ứng dụng trong doanh nghiệp.
-

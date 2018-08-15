@@ -1,4 +1,0 @@
- "Sổ liên lạc điện tử" ở Seoul
-Qua hệ thống nhắn tin này, giáo viên có thể dễ dàng tham vấn với phụ huynh cũng như gửi đến phụ huynh các thông tin liên quan đến việc học tập của con cái họ như thời khóa biểu, lịch sinh hoạt ngoại khóa... 
-Thậm chí Sở Giáo dục Seoul đang bàn cách cải tiến hệ thống sao cho nhà trường không chỉ có thể gửi đến phụ huynh những trao đổi dưới dạng văn bản mà cả các con số và đồ thị minh họa thứ hạng, điểm số của học sinh. Cơ quan này lại còn động viên các trường nghĩ thêm những dịch vụ nào có thể được ứng dụng vào công tác giáo dục. 
-

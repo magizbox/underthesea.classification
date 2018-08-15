@@ -1,5 +1,0 @@
- Dịch vụ Google Sitemaps cho quản trị website
-Vào thời điểm hiện nay hầu hết các nhà quản trị website đều mong mỏi Google “để mắt” đến trang web của mình trong quá trình người dùng sử dụng Google để tìm kiếm thông tin. Nắm được nhu cầu này, Google đã tung ra dịch vụ miễn phí mang tên Google Sitemaps, cho phép các nhà điều hành website thông báo cho Google toàn bộ các thông tin liên quan đến trang web của mình. 
-Google hy vọng dịch vụ này sẽ gia tăng khả năng tìm kiếm thông tin của chính Google vì dịch vụ này sẽ đưa ra các thông tin cụ thể hơn về nội dung trang web mà người dùng tìm được. Nhưng Google cũng cho biết rằng dịch vụ này sẽ không đảm bảo mọi chỉ dẫn của trang web sẽ được thể hiện đầy đủ nhất, hoặc Google sẽ ưu tiên xếp lên hàng đầu những kết quả tìm kiếm khi các nhà quản trị mạng đưa trang web mình tham gia dịch vụ này. 
-Để sử dụng dịch vụ Google Sitemaps thì các nhà quản trị website cần phải tuân thủ theo một định dạng XML của Google. Người dùng có nhu cầu có thể vào đây để tìm hiểu và sử dụng dịch vụ. 
-

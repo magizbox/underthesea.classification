@@ -1,6 +1,0 @@
-TP HCM thử nghiệm trạm thông tin cảm ứng từ
-Người sử dụng chỉ chạm tay vào các chuyên mục trên màn hình, những thông tin cần tìm sẽ hiện ra. Đây là mô hình trạm thông tin công cộng điều khiển bằng cảm ứng từ, lần đầu thử nghiệm tại TP HCM, phục vụ đại biểu Đại hội Đảng thành phố lần VIII (ngày 5-9/12).
-Mô hình thông minh trên hiện hiển thị những thông tin khái quát về thành tựu kinh tế, văn hoá và xã hội của TP HCM sau 30 năm phát triển. Trạm gồm 1 "chân" có tính năng tương tự CPU máy tính và 1 màn hình 17 inch. Hệ thống vận hành qua nguồn điện 220V, cầu chì tự ngắt nếu quá tải. Màn hình được chế tạo bằng chất liệu composite dẻo và khung bao quanh màn hình làm bằng gỗ để cách điện. Theo đại diện Trung tâm thông tin triển lãm thành phố, nhà cung cấp thiết bị đang nghiên cứu để đưa ra giải pháp đảm bảo vệ sinh và an toàn hơn cho người truy cập thông tin qua màn hình này.
-Sau kỳ Đại hội Đảng bộ thành phố, 2 trạm thử nghiệm sẽ được đưa về Trung tâm thông tin triển lãm để thiết kế hoàn chỉnh. Dự kiến, mô hình này đưa ra phục vụ người dân và du khách tại Công viên 30/4, dịp Tết Nguyên đán. Sau đó, mô hình sẽ được nhân rộng, đặt ở những nơi công cộng trên địa bàn như: công viên, nhà chờ xe buýt... và phục vụ các sinh hoạt lễ, hội.
-Thiết bị và phần mềm trạm thông tin công cộng trên do Công ty HPT cung cấp. Mô hình sẽ được đấu giá sau khi hoàn tất. 
-

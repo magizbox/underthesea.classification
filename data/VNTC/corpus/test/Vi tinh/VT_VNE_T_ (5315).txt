@@ -1,7 +1,0 @@
-Giá DRAM tăng trở lại
-Theo trang trực tuyến DRAMexchange, chuyên theo dõi các biến động trên thị trường thiết bị nhớ, chip DRAM đã khởi sắc trong những ngày cuối năm.
-Xu hướng này trái ngược với sự sụt giá liên tiếp của DDR 256 MB, xung nhịp 400 MHz, hay còn gọi là DDR-400, phổ biến hiện nay. Giá chip đã hạ xuống chỉ còn 1,99 USD đầu tháng 12 khi các nhà sản xuất DRAM và những công ty khác trong chuỗi phân phối chip trên toàn cầu nâng sản lượng cao hơn so với nhu cầu. Tuy nhiên, DDR-400 sau đó đã tăng lên 2,09 USD đầu tuần này.
-Chip DDR-400 512 MB cũng chịu mức thấp 3,82 USD vào 7/12 nhưng khôi phục lên 4,1 USD ngày 19/12. DDR-400, được sử dụng chủ yếu ở các thị trường mới nổi, nâng lên 2,02 USD đầu tuần từ mức 1,8 USD ngày 9/12.
-Một lý do cho sự tăng giá là các nhà sản xuất không cung cấp DRAM dư thừa trong tháng 11. Sản lượng DRAM toàn cầu chỉ tăng 2,65% trong tháng trước, trong khi tháng 10 tăng tới 10%.
-Số lượng DRAM được xuất xưởng sẽ tiếp tục bị giới hạn trong nửa đầu 2006 vì nhiều nhà sản xuất đang chuyển sang chip nhớ flash. 
-

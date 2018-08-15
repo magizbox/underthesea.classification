@@ -1,6 +1,0 @@
-Đại học Công nghệ mở Trung tâm nghiên cứu phần mềm
-Trung tâm được xây dựng dưới sự bảo trợ của Công ty Global Cybersoft (GCS). Theo văn bản ký kết giữa hai bên hôm 12/5 tại Hà Nội, GCS sẽ đảm bảo cung cấp tài chính cho các hoạt động thuộc về lĩnh vực phần mềm của đối tác.
-Văn bản ký kết gồm 4 hoạt động chính: phát triển các chương trình đào tạo chuyên biệt về lập trình viên; chuyển giao và thúc đẩy các hoạt động công nghệ thông tin; GCS tiến hành nghiên cứu và phát triển các chương trình hỗ trợ cho sinh viên, sau đại học và nghiên cứu sinh; Nghiên cứu và phát triển các dự án được GCS đề xướng. 
-Hai bên sẽ cùng phối hợp mở rộng các hình thức đào tạo trên lĩnh vực thông tin, đồng thời GCS sẽ cấp các học bổng đào tạo sau đại học cho các sinh viên của Đại học Công nghệ. GCS có trách nhiệm tổ chức nhiều hội thảo công nghệ nhằm tạo điều kiện cho sinh viên tiếp cận thông tin về lĩnh vực khoa học công nghệ tiên tiến.
-Trung tâm nghiên cứu phần mềm sẽ bắt đầu đi vào hoạt động từ quý III năm 2005.
-

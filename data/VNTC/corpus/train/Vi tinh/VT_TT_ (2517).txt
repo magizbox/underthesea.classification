@@ -1,4 +1,0 @@
- Iraq: Nước duy nhất chưa có tên miền trên Internet
-Theo AP, vấn đề do các lỗ hổng của quản lý hành chính. Thời tổng thống Hussein, khi diễn ra việc phân chia tên miền giữa các nhà thiết kế tên miền thì Iraq đang bị cô lập quốc tế. Nay, các nhà lãnh đạo của chế độ "dân chủ" Iraq lại chưa nghĩ tới việc này. Kết quả là các cơ quan nhà nước Iraq phải sử dụng tên miền quốc tế là .net; .org. Chỉ có một số...Viện bảo tàng Iraq là khá hiện đại, như Bảo tàng quốc gia Iraq có được địa chỉ Internet là http://the.iraq.museum . 
-Trong khi đó, hiện đang có cả một dòng xếp hàng rồng rắn xin đăng ký tên miền chưa có trên Internet là .iq. Theo lời một trong những nhà sáng lập tổ chức xã hội Dialogue Channel John Simmons, hiện đã có 130 lá đơn xin giành tên miền .iq. gởi tới Internet Corporation for Assigned Names and Numbers (ICANN). 
-

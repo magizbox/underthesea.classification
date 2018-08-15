@@ -1,6 +1,0 @@
-Microsoft trình làng Windows siêu điện toán
-Hôm qua, hãng phần mềm số một thế giới đã giới thiệu phiên bản mới của hệ điều hành máy chủ Windows Server, được thiết kế nhằm giúp các chính phủ và doanh nghiệp xây dựng những siêu máy tính bằng cách kết nối các cụm PC với nhau.
-Microsoft trình diễn phần mềm này tại hội thảo về siêu điện toán tại Pittsburgh. Hãng đã đặt tên mới cho sản phẩm là Windows Server 2003 Compute Cluster Edition, thay thế tên cũ Windows Server HPC Edition. Microsoft chưa đưa ra quyết định cuối cùng về mức giá của phần mềm cũng như những sản phẩm đi kèm trong gói. 
-Theo Microsoft, hệ điều hành mới dựa trên nền tảng của bản hiện hành Windows Server 2003. Tuy nhiên, nó tích hợp thêm chức năng quản lý tài nguyên kết nhóm cũng như hỗ trợ các chuẩn khác nhau về mạng hệ thống và kết nhóm. 
-Microsoft cho biết sẽ cung cấp bộ công cụ phát triển phần mềm cho một số đối tác vào cuối tháng để các công ty này có thể bắt đầu quy trình xây dựng các ứng dụng phục vụ cho hệ điều hành mới.
-

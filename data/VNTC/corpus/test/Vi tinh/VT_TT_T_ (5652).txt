@@ -1,5 +1,0 @@
- Saigon Postel hạ giá cước điện thoại quốc tế
-Sau chương trình khuyến mãi "Snet-Fone, gọi gấp đôi, giá không đổi" được triển khai từ tháng 2 năm nay, việc hạ giá cước của SPT là những nỗ lực tiếp theo nhằm mang đến cho khách hàng chất lượng dịch vụ ngày càng tốt hơn với giá rẻ. 
-Đồng thời với việc hạ giá cước Snet-Fone, SPT cũng sẽ giảm 20% cước điện thoại dịch vụ 177 gọi đi quốc tế: đối với 177 trả sau giá chỉ còn 0,60 USD/phút, và 0,51 USD/phút đối với 177 sử dụng card. 
-Từ ngày 1-3, Cty Điện toán và Truyền số liệu (VDC) cũng sẽ giảm từ 30-40% giá cước dịch vụ điện thoại Internet với thương hiệu Fone VNN so với mức cước cũ đối với tất cả các hướng gọi thông dụng. VDC cũng thông báo kể từ ngày 20-3 sẽ chính thức khai thác mạng Frame Relay mới với vùng phủ sóng rộng hơn, số địa phương được cung cấp dịch vụ lên tới 19 tỉnh, TP. Năng lực của mạng Frame Relay mới có thể phục vụ khách hàng với các tốc độ yêu cầu từ 64 kbps tới 2.048 kbps. 
-

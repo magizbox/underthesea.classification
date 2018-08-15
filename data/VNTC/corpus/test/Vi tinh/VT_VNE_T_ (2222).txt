@@ -1,5 +1,0 @@
-Ra mắt phiên bản beta OpenOffice 2.0
-Bộ ứng dụng văn phòng mã nguồn mở mới hứa hẹn đem lại hầu hết những tính năng tương tự như sản phẩm của Microsoft, trong đó có các phần mềm xử lý văn bản, bảng tính, thuyết trình và vẽ hình.
-OpenOffice 2.0 (download tại đây) có một giao diện mới, được thiết kế để người sử dụng khi chuyển từ Microsoft Office sang vẫn thấy thoải mái. Gói phần mềm này còn tăng cường sự tương thích hoạt động với các định dạng file của Microsoft. Hầu hết những tính năng mới tập trung trong chương trình Writer, bao gồm phần đếm khối lượng text chọn trước, thủ tục (wizard) thiết lập cơ sở dữ liệu, biểu bảng và các thanh công cụ toolbar động (floating). 
-Website SourForge khuyến cáo đây mới chỉ là phiên bản beta và nên cần nhận được thêm ý kiến đánh giá của người sử dụng.
-

@@ -1,7 +1,0 @@
-Lỗi nghiêm trọng trong sản phẩm Oracle
-Nhà sản xuất phần mềm cơ sở dữ liệu vừa cảnh báo khách hàng đang sử dụng phiên bản mới nhất của chương trình thương mại điện tử có thể bị nguy cơ tấn công cao.
-Trong thông báo đưa ra tuần trước, Oracle cho biết lỗ hổng nằm trong công cụ Oracle 11i E-Business Suite và Oracle Applications 11.0, có thể cho phép hacker khống chế cơ sở dữ liệu vận hành những chương trình này. Nguy cơ rất lớn vì bất cứ người sử dụng nào với kiến thức máy tính tốt cũng có thể dùng trình duyệt để khai thác, thông báo nêu rõ. Oracle chưa cung cấp thêm chi tiết về khiếm khuyết nhưng đã phát hành bản nâng cấp và khuyến cáo khách hàng khẩn trương áp dụng.
-Công ty khảo sát an ninh Secunia đánh giá lỗi nói trên thuộc loại 2, tức khá nghiêm trọng. Người phát hiện ra lỗ hổng này là Stephen Kost, Giám đốc Công nghệ của Integrity, một công ty chuyên thiết kế phần mềm bảo mật cho các ứng dụng doanh nghiệp. Hãng này cũng đưa ra lời cảnh báo tương tự như Oracle về khiếm khuyết 11i E-Business Suite.
-Thông báo của Integrity cho biết thông qua những lỗi như vậy, hacker có thể thiết kế những dạng tấn công dễ dàng lọt qua hầu hết các hệ thống ngăn ngừa và phát hiện xâm nhập. Đầu năm ngoái, Integrity đã phát hành sản phẩm an ninh ứng dụng AppSentry dùng cho E-Business Suite và đồng thời họ cũng phát hiện ra 2 lỗi ở sản phẩm này.
-Những khách hàng sử dụng hai sản phẩm trên có thể tải bản vá lỗi tại đây.
-

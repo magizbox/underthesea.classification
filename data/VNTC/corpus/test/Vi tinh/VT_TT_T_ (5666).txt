@@ -1,5 +1,0 @@
- Ứng dụng công nghệ nhận dạng chỉ tay cho máy ATM 
-Ngân hàng Mitsubishi Tokyo cho biết bắt đầu trang bị hệ thống mới cho các máy ATM vào đầu cuối năm nay. Nỗ lực này của họ nhằm đối phó với nạn giai lận khi sử dụng thẻ rút tiền tự động, vì thẻ từ hiện nay vẫn chưa đủ an toàn. 
-Hệ thống mới có một bộ cảm ứng hồng ngoại có thể đọc chỉ tay của khách hàng mà không cần tiếp xúc. Đây là hệ thống bảo mật sinh trắc học đầu tiên được sử dụng trong khối ngân hàng quốc gia Nhật. 
-“Giống như các vân tay, những chỉ tay của mỗi người cũng khác nhau. Chúng tôi cho rằng bộ cảm ứng này là một trong những cách tốt nhất để tăng cường bảo mật”, quan chức của Ngân hàng Mitsubishi Tokyo phát biểu. 
-

@@ -1,5 +1,0 @@
-Cải tiến hệ thống đặt chỗ trên mạng cho lữ hành, du lịch
-Abacus, nhà hỗ trợ du lịch khu vực châu Á - Thái Bình Dương dự định tung ra thị trường sản phẩm Abacus HotelSmart vào năm 2006, giúp các công ty du lịch tận dụng giao thức Internet (IP) tìm kiếm thông tin về giá, đặt chỗ ở khách sạn thuộc 55 thành phố trong khu vực.
-Theo đại diện Abacus Việt Nam, nhờ sản phẩm mới, các công ty du lịch có thể cung cấp cho khách hàng nhiều sự lựa chọn về giá khách sạn, loại phòng tốt nhất kèm những thông tin tiện ích thông qua việc sử dùng phím gõ đơn giản.
-Mặt khác, thông tin trên hệ thống Abacus HotelSmart còn cho phép nhân viên tư vấn du lịch chuyển đổi từ vai trò đơn thuần nhà môi giới bán vé sang tư vấn du lịch trọn gói.
-

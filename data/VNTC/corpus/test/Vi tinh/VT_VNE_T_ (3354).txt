@@ -1,6 +1,0 @@
-Lỗi phần mềm bảo mật lớn hơn ở ứng dụng cần bảo vệ
-Theo những số liệu mới nhất của hãng khảo sát Yakee Group, số lỗ hổng trong phần mềm bảo mật đang tăng lên nhanh chóng trong vòng 3 năm trở lại đây và đã vượt qua số lỗ hổng trong các sản phẩm của Micrsoft, mục tiêu hay bị khai thác.
-Trong năm 2004, các nhà nghiên cứu an ninh máy tính đã phát hiện được 60 khiếm khuyết trong phần mềm bảo mật. Con số của năm 2003 là 31 lỗi. Tính đến tháng 5 năm nay, 23 lỗi trong các ứng dụng bảo mật đã được ghi nhận, so với 22 trong các chương trình phần mềm của Micrsoft. Theo Yakee Group, đến hết tháng 5, số lỗi phần mềm an ninh đã bằng 50% của thời gian này năm ngoái. 
-Các khảo sát của Yakee Group cho thấy một xu hướng đang tăng lên rõ ràng trong những tháng gần đây là hacker đang chuyển sang tìm kiếm lỗ hổng trong phần mềm bảo mật hệ thống. Micrsoft cũng đã nhận ra một điều là: "Các doanh nghiệp càng tin tưởng vào sản phẩm bảo mật bao nhiêu thì càng có khả năng bị tấn công bấy nhiêu".
-Những công ty cung cấp phần mềm an ninh lớn trên thế giới như Symantec, McAfee, Trend Micro và F- Secure đã phải sửa chữa những sai sót bảo mật rất nghiêm trọng ở sản phẩm của họ trong mấy tháng gần đây. Năm ngoái Symantec phát hiện ra nhiều lỗi nhất: 16 so với 2 phát hiện năm nay. 
-

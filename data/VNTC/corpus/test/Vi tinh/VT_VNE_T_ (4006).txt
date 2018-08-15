@@ -1,6 +1,0 @@
-Hacker tấn công 33.000 cơ sở dữ liệu không quân Mỹ
-Một kẻ xâm nhập nào đó đã nắm trong tay thông tin cá nhân, trong đó có ngày sinh và số thẻ an sinh, của khoảng hơn một nửa sỹ quan thuộc lực lượng không quân Mỹ.
-Hacker đã sử dụng thông tin đăng nhập hợp lệ để truy cập và tải dữ liệu mật. Bộ quốc phòng Mỹ đã khám phá ra vụ tấn công này hồi tháng 6, sau khi ghi nhận những hoạt động không bình thường trong hệ thống quản lý nghĩa vụ AMS của một sỹ quan. AMS là chương trình bao gồm ngày sinh, số thẻ an sinh, tình trạng hôn nhân, trình độ học vấn, năm tốt nghiệp, thông tin nghĩa vụ, nhưng không có địa chỉ nhà riêng và số điện thoại của cá nhân.
-"Chúng tôi đã thông báo khẩn cấp đến các binh sỹ và vẫn đang trong quá trình điều tra vụ việc", Thiếu tá Tony Przybyslawski thuộc AFPC, hôm 19/8 cho biết. "Chúng tôi cũng đang tiến hành những bước quan trọng để nâng cấp hệ thống an ninh và hợp tác với tất cả các cơ quan hàng không để xác nhận lỗ hổng".
-Przybyslawsk khẳng định dù AMS không bao gồm thông tin tài chính, dữ liệu bị đánh cắp đủ để kẻ tấn công tận dụng nhằm truy cập nhiều hệ thống điều khiển quy trình phân phối, thanh toán và chuyển khoản. Tuy nhiên, hiện chưa thể kết luận hacker sẽ làm gì với những dữ liệu hắn đang sở hữu.
-

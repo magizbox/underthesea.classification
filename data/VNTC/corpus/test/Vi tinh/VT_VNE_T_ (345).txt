@@ -1,6 +1,0 @@
-Cài OS cho máy tính bỏ túi (1)
-Xin cac ban huong dan cach cai he dieu hanh Windows cho may tinh bo tui O2 Xda. Cac yeu cau ve thiet bi va phan mem nhu the nao? Doi voi phan mem thi mua o dau? Xin chan thanh cam on. 
-Tran Tuan Hung
-Hồi âm:
-Bạn không tự cài hệ điều hành cho máy tính bỏ túi (PocketPC) được. Tất cả các máy này khi bán ra đã có sẵn hệ điều hành. Nếu có gì hỏng, bạn chỉ cần hard reset lại (xem hướng dẫn của máy) thì máy sẽ trở lại hiện trạng như lúc mới mua. Để cài phần mềm cho PocketPC bạn cần kết nối máy này với một máy PC sử dụng phần mềm ActiveSync, tiếp theo thực hiện việc cài đặt từ PC. Nhìn chung bạn cần xem hướng dẫn sử dụng của máy.
-

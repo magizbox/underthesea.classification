@@ -1,9 +1,0 @@
-Máy quét 'nhìn xuyên' bê tông
-Các nhà khoa học Anh đang phát triển một công nghệ quét siêu âm, không chỉ cho phép "nhìn vào lõi" những tấm bê tông giúp theo dõi sự ăn mòn của chúng, mà còn có thể định vị các nạn nhân bị ám sát.
-Công nghệ sử dụng sóng siêu âm, tương tự như kỹ thuật dùng trong các bệnh viện để quan sát bào thai trong tử cung. Một trong các hệ thống như vậy đang được phát triển, tạo ra những hình ảnh gần như 3 chiều về cấu trúc lõi của các khối bê tông. Nhiều khối như vậy đã tồn tại 50-60 năm, và một số còn vượt quá tuổi thọ thiết kế của chúng. 
-Từ cuối thập kỷ 1980, công ty Cambridge Ultrasonics đã thử nghiệm dùng sóng siêu âm để điều tra cấu trúc bê tông nhằm tìm kiếm các dấu vết ăn mòn. 
-Một phiên bản của công nghệ này, được đăng ký bởi công ty Sonatest, Anh, đang cố gắng tạo ra các bức ảnh trong lòng bê tông. Nó sử dụng một chùm gồm 6 bộ chuyển đổi thiết bị để chiếu sóng âm vào bê tông ở những góc độ khác nhau. Kế đó, các bộ chuyển đổi thu thập sóng phản xạ. Phần mềm sau đó sẽ tập hợp các dữ liệu thô thành một bức ảnh 3 chiều giả về lõi bê tông.
-Trong khối bê tông, các dấu hiệu hư hỏng ban đầu thường xuất hiện dưới dạng những vết nứt mảnh bằng sợi tóc. Công nghệ của Sonatest (vẫn đang trong giai đoạn nghiên cứu và phát triển) sẽ phân biệt các vết nứt cấu trúc thực sự với những vết rạn "nhiễu", phát sinh do đặt tính gồ ghề của bê tông. 
-Tiến sĩ David Andrews, giám đốc Cambridge Ultrasonics, giải thích: "Tuổi thọ thiết kế của nhiều loại bê tông từ 50 đến 120 năm. Rất nhiều trong số chúng đã có nửa thế kỷ tồn tại. Chúng đang già đi, một số hư hỏng nhanh hơn dự kiến". Do vậy, nhu cầu kiểm tra độ hư hỏng của bê tông là rất lớn. 
-Công nghệ này còn có tiềm năng ứng dụng trong việc điều tra của cảnh sát. Woodhead cho biết nếu có một thi thể nằm trong bê tông 60 năm trước, thi thể đó có thể đã bị rữa nát, chỉ để lại một lỗ rỗng. "Nếu quét qua khối bê tông này, bạn có thể phát hiện ra lỗ rỗng".
-

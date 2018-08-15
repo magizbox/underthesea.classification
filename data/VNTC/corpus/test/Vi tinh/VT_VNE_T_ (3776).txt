@@ -1,7 +1,0 @@
-Virus chỉ trích những kẻ viết virus
-Các chuyên gia bảo mật của hãng Sophos vừa phát hiện một sâu gửi kèm qua e-mail với nội dung chế nhạo Sven Jaschan, tác giả sâu Sasservừa bị kết án treo gần đây. 
-Sâu mới mang tênLebreat.D tạo ra một file JPEG mang tên xsas.jpg với ảnh Jaschan và từ bitch lồng bên trên. Ngoài ra, e-mail có nội dung khá dài, chê bai những nghiên cứu của các hãng diệt virus, thậm chí phàn nàn về việc họ không gọi sâu Lebreat là Breatle theo đúng sở thích của hắn.
-Netsky (SkyShit), Beagle hay Bagle, Mydoom và Sasser, tạm biệt bọn ngu ngốc, tác giả virus Lebreat viết. Đây sẽ chỉ là sân chơi của riêng tao bởi FBI hay cảnh sát không bao giờ tìm bắt được tao như Jaschan. Và những phiên bản tới sẽ được trang bị công cụ hiệu quả hơn để gửi hàng nghìn bản sao tới người sử dụng.
-Lebreat.D là sâu kết hợp ba biến thể, lây lan qua việc mở file đính kèm hoặc qua những trình duyệt chưa cập nhật bản vá lỗi. Một khi xâm nhập vào máy tính, nó có thể thực hiện tấn công từ chối dịch vụ, ngăn khách hàng truy cập vào những website sử dụng chương trình của Symantec và McAfee và nhiều hãng bảo mật khác.
-Kẻ viết chương trình Lebreat tỏ ra chẳng một chút cảm thông cho Sven Jaschan, thậm chí còn chỉ trích các công ty bảo mật, đe doạ rằng phiên bản tiếp theo của hắn sẽ còn lây lan rộng hơn, Graham Cluley, cố vấn công nghệ của Sophos, cho biết. Đáng tiếc trò cãi nhau trẻ con này vẫn thu hút sự tò mò của rất nhiều người dùng ngây thơ.
-

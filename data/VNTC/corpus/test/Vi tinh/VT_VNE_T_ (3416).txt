@@ -1,8 +1,0 @@
-Yahoo 'đại tu' hệ thống e-mail miễn phí
-Mục đích của hãng kinh doanh trực tuyến khổng lồ này là làm cho dịch vụ thư điện tử trên web hiện nay của họ có thể hoạt động tương tự như ứng dụng e-mail trên môi trường desktop.
-Cải tiến đáng kể nhất là Yahoo! Mail sẽ cung cấp tính năng "caching" cho phép rút ngắn thời gian truy cập, phản hồi, xem trước thông điệp và chức năng kéo - thả. Dịch vụ mới dựa trên công nghệ mà Yahoo có được khi mua lại hãng Oddpost tháng 7 năm ngoái. Đây được coi là cuộc chuyển biến quy mô và có ý nghĩa nhất từ khi hãng bắt đầu cung cấp dịch vụ vào năm 1997.
-Một số đặc điểm khác bao gồm khả năng tìm kiếm nhanh tiêu đề e-mail, nội dung thông điệp và file đính kèm, mở đồng thời nhiều thư trên cửa sổ riêng biệt, hay xem tất cả các tiêu đề thư trong cùng một thư mục, thay vì phân tách thành nhiều trang như hiện nay.
-Phiên bản này cũng có thêm tính năng tự động cập nhật địa chỉ, cải tiến menu chuột phải và phím tắt. Dung lượng mỗi hộp thư miễn phí dùng bản mới sẽ vẫn là 1 GB.
-Một lượng khách hàng nhất định sẽ được cho phép dùng thử bản beta trong vài tuần tới, và phiên bản chính thức sẽ được ra mắt sau vài tháng nữa. Người sử dụng e-mail của Yahoo có thể quyết định cài phiên bản mới thay thế bản cũ hoặc dùng song song cả hai. Dịch vụ hiện đang hoạt động trên Internet Explorer và Firefox. Yahoo cũng sẽ sớm hỗ trợ các trình duyệt còn lại trong thời gian tới.
-Trong tháng 5, hãng dịch vụ trực tuyến khổng lồ này đã ra mắt tính năng gửi và chia sẻ 300 ảnh số trong một e-mail. Đầu tháng 6, hãng đối thủ AOL cũng chào hàng chương trình e-mail 2 GB miễn phí, trong khi Google đã nhân đôi dung lượng Gmail lên 2 GB từ hồi tháng 3.
-

@@ -1,8 +1,0 @@
-Microsoft công bố Windows Mobile 5.0
-Chủ tịch hãng phần mềm khổng lồ Mỹ vừa giới thiệu hệ điều hành mang tên mã Magneto nhằm cạnh tranh với hai nhà cung cấp hàng đầu về nền ứng dụng cho thiết bị di động là Symbianvà BlackBerry.
-Magneto có những tính năng nổi bật như xem PowerPoint và giúp các nhà sản xuất dễ dàng tích hợp điện thoại và máy tính cầm tay với bàn phím và các ổ cứng siêu nhỏ. Công cụ Word Mobile sẽ hỗ trợ phần bảng biểu và hình ảnh, duy trì định dạng các văn bản còn Excel Mobile sẽ giúp người sử dụng tạo được biểu đồ từ spreadsheet. 
-Các chức năng giải trí đa phương tiện sẽ được thể hiện với Windows Media Player 10.0 Mobile. Sự hỗ trợ cho ổ cứng sẽ dễ dàng biến chiếc điện thoại của khách hàng thành công cụ đa phương tiện do có thể lưu trữ được âm thanh và hình ảnh video. Hỗ trợ cổng USB 2.0 sẽ giúp cho việc truyền tải các tập tin diễn ra nhanh chóng. 
-Chi tiết đáng chú ý ở Magneto là e-mail sẽ "nảy" lên trên màn hình điện thoại mỗi khi được gửi tới và người sử dụng có thể truy cập vào inbox của MSN hay Hotmail từ Outlook Mobile. Phần mềm cũng tương thích với các tính năng tương tự máy bộ đàm (push-to-talk), cho phép khách hàng vừa đi vừa nói chuyện chỉ bằng việc ấn nút. 
-Microsoft cũng cho biết có 40 nhà sản xuất phần cứng sắp tung ra thị trường các thiết bị sử dụng phần mềm Windows Mobile này. Ví dụ, điện thoại Smartphone i300 của Samsung và MDA IV của T-Mobile là những thiết bị đầu tiên ứng dụng Magneto.
-Tại Mỹ, điện thoại chạy Windows Mobile (Microsoft gọi là Smartphone) phải cạnh tranh với các thiết bị cầm tay dùng hệ điều hành Symbian như sản phẩm của Nokia, các thiết bị liên lạc e-mail không dây hay điện thoại dùng PalmOS của BlackBerry như Treo 650.
-

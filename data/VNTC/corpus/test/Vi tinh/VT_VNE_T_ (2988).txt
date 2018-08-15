@@ -1,6 +1,0 @@
-Lỗ thủng ở công cụ chát chít Yahoo Messenger
-Các chuyên gia bảo mật của tổ chức SecuriTeam vừa phát hiện một khiếm khuyết cho phép tấn công từ chối dịch vụ (DoS) liên quan đến phần mềm nhắn tin nhanh phổ biến của Yahoo. 
-Hacker có thể lợi dụng lỗi để ngắt kết nối của người sử dụng khỏi cuộc liên lạc (session) bằng cách gửi những gói dữ liệu ngụy tạo tới các server Yahoo Messenger.
-Lỗ hổng này bắt nguồn từ một trục trặc ở thủ tục xử lý các đường link URL. Lỗi ảnh hưởng hai phiên bản Yahoo Messenger 5.0 và 6.0. Nhà cung cấp hiện chưa có bản vá lỗi tuy nhiên các chuyên gia an ninh trấn an rằng mặc dù khiếm khuyết này có thể tạo tiền đề cho nhiều hành động nguy hại nhưng bản thân nó không tạo ra con đường nào để khống chế hệ thống.
-SecuriTeam khuyến cáo người sử dụng, nhất là những người không rành về máy tính, nên thận trọng khi áp dụng các biện pháp tự khắc phục như chỉnh sửa Registry vì hành động này có thể khiến máy tính bị trục trặc. Tham khảo thêm về lỗi này tại đây.
-

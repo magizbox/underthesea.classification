@@ -1,6 +1,0 @@
- Sony và Corel hợp tác phát triển phần mềm
-Ý tưởng hợp tác để phát triển một bộ phần mềm đóng gói bao gồm hiệu chỉnh ảnh, tạo các sản phẩm video và DVD. Hai bộ phần mềm đều dựa trên môi trường Windows là: Visual Creation Studio và Visual Creation Studio Pro. Sony sẽ phát hành Vegas Movie Studio + DVD trong khi Corel đưa ra phiên bản Paint Shop Pro X và Photo Album 6, là các phiên bản cuối cùng của dòng sản phẩm hiệu chỉnh ảnh số. 
-“Chúng tôi biết các khách hàng luôn tìm kiếm những phần mềm dễ sử dụng, gần gũi với họ. Các phần mềm này phải có những tính năng cao cấp hơn bằng cách hỗ trợ người dùng dễ dàng thực hiện các tác vụ mà họ muốn làm. Ở đây, hiệu chỉnh và quản lý hình ảnh, video mà không cần trải qua các khóa huấn luyện hay yêu cầu kinh nghiệm, trình độ sử dụng”, Blaine Mathieu, quản lý của Digital Imaging từ Corel cho biết. 
-Cả Sony và Corel đều hy vọng tăng trưởng thị phần cho video số và hình ảnh. Theo như nghiên cứu thị trường của InfoTrends cho biết “25 triệu thiết bị lưu giữ ảnh video và 20 triệu máy quay kỹ thuật số được bán ra trong năm 2004 tại Mỹ”. 
-Visual Creation Studio sẽ có giá 129,95 USD so với bản Visual Creation Studio Pro giá 199,95 USD. Hai bộ sản phẩm này sẽ được phát hành trên cửa hàng trực tuyến của Sony và Corel hay các nhà bán lẻ vào đầu tháng mười một này. 
-

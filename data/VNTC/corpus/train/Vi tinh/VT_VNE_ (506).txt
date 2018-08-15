@@ -1,5 +1,0 @@
-Aptech triển khai chương trình quản trị hệ thống
-Hôm qua, Trung tâm Đào tạo lập trình viên quốc tế chính thức mở chương trình đào tạo quản trị hệ thống (Aptech Certified Network Administrator - ACNA) tại Hà Nội. Đây là chương trình thứ hai của Aptech được biên dịch sang tiếng Việt.
-Nguyễn Xuân Phong, Giám đốc Hanoi-Aptech, cho biết các môn học được thiết kế cơ bản dựa trên kiến thức và kỹ năng thực tiễn trong việc xây dựng và quản trị mạng cục bộ (LAN) với hệ điều hành Windows của Microsoft. Tham gia khóa học này, học viên có thể nắm vững kiến trúc máy tính cơ bản, tính năng và các thông số phần cứng PC, có khả năng thiết kế, xây dựng và quản trị một mạng máy tính hoàn chỉnh cho các doanh nghiệp vừa và nhỏ.
-Sau khi kết thúc khóa học, học viên được cấp chứng chỉ Certificate of Accomplishment in Network Administration của Aptech Ấn Độ. Từ đó, học viên có thể tiếp tục học nâng cao thi lấy chứng chỉ Kỹ sư hệ thống (MCSE) của Microsoft.
-

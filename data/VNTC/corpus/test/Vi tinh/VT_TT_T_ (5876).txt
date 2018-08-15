@@ -1,5 +1,0 @@
- IBM thiết kế thành công chip đời mới cho Xbox 360
-Con chip đời mới dành cho Xbox 360 này được chế tạo bằng công nghệ điện ly silicon 90 nanometer của IBM. Nó gồm có đến 3 lõi xử lý PowerPC 64 bit, mỗi một lõi đều có khả năng xử lý 2 dòng dữ liệu đồng thời và vận hành ở tốc độ đạt đến 3,2 GHz, tức ở dạng rất cao so với các PC hiện nay. Tổng số transistor tích hợp trên chip đạt đến 165 triệu. 
-Chip này được trang bị đến 1 MB cache nhớ mở rộng và tốc độ bus đạt đến 5,4 Gbit/giây và hiện loại chip hiện đại này chưa được đặt tên. 
-Ilan Spillinger, giám đốc trung tâm thiết kế sản phẩm chuyên dùng cho Xbox 360 cho biết rằng Microsoft đã tích cực yêu cầu IBM hoàn chỉnh loại chip dành riêng cho Xbox 360 này chỉ trong vòng 24 tháng kể từ ngày ký kết. Đến nay quá trình thiết kế và thử nghiệm ban đầu đã thành công, nhưng vậy các máy Xbox 360 trong tương lai sẽ có khả năng xử lý mạnh hơn nhiều so với các Xbox 360 mà Microsoft chuẩn bị bán ra ngày vào 22-11 tới. 
-

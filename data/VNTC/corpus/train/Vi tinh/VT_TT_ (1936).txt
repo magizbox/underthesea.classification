@@ -1,9 +1,0 @@
- HVA bị rao bán dữ liệu với giá 1.700 USD
-Với quyền truy cập này, cùng ngày, nickname có tên là DarkHawk tại diễn đàn HVA nhanh chóng nâng cấp quyền của mình lên thành Administrator của diễn đàn. Mặc dù có khá nhiều Moderator (Mod - người đồng quản trị) online như mrro, LM, prof và đều nhìn thấy nhưng dường như HVA chưa tìm ra cách chống đỡ hacker này. 
-Với 1 vài thao tác thay đổi mã nguồn của 1 số file cấu hình, hacker nhanh chóng chiếm giữ quyền điều khiển máy chủ diễn đàn HVA và mang dữ liệu cũng như mã nguồn website về. 
-DarkHawk nhanh chóng nâng cấp quyền của mình lên thành Administrator của diễn đàn HVA (nickname màu đỏ) Ngày 2-5, trên ddth.com xuất hiện mẩu quảng cáo rao bán toàn bộ bài viết của forum HVA cùng 70.000 e-mail thành viên với mật khẩu đã được mã hóa và box kín của Ban quản trị... với giá 1.700 USD. 
-Việc rao bán dữ liệu có lẽ nhằm mục đích “hạ bệ” và làm bẽ mặt nhau nhiều hơn là kiếm tiền. Đó là lý do hacker rao bán data này. 
-Theo thông tin tìm hiểu từ các diễn đàn trên mạng, hiện nay có rất nhiều thành viên của VNISS có dữ liệu của HVA. Và một số này đang tìm cách giải mã dữ liệu mật khẩu để tìm kiếm…1 cơ hội hack mới liên quan. 
-Đến chiều 3-5, diễn đàn HVA vẫn chưa hoạt động lại, trên trang chủ chỉ có duy nhất dòng thông báo "Diễn đàn HVA tạm ngưng hoạt động. Thông báo chi tiết về việc HVA hoạt động trở lại sẽ được công bố trong thời gian ngắn nhất". 
-Việc các diễn đàn hacker tấn công nhau qua lại gây ảnh hưởng rất lớn đến hoạt động của nhiều website và mạng của Việt Nam, đồng thời làm mất một sân chơi của rất đông đảo thành viên trực tuyến. 
-

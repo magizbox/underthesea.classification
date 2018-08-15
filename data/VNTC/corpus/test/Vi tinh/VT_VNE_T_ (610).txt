@@ -1,6 +1,0 @@
-Trò chơi 'The Settlers of Catan'
-Đây là một game chiến thuật rất thú vị. Người chơi đứng đầu xứ thuộc địa trên hòn đảo Catan. Bằng việc quản lý và sử dụng tài nguyên, bạn phải kiếm được 15 điểm chiến thắng để đi tới cuối đích.
-Những điểm chiến thắng có được qua những cuộc định cư, số thành phố và một vài tiêu chí đặc biệt (chẳng hạn ai là người xây con đường dài nhất). Để làm được điều đó, bạn cần khéo léo chuyển và đặt các mẩu ván vào đúng chỗ. Luật chơi thoạt nhìn khá lạ lẫm, song không mất quá nhiều thời gian để học.
-Giao diện 3D của game mềm mại và dễ điều khiển. Người chơi có thể thay đổi một số tùy chọn, tùy vào cấu hình máy mạnh hay yếu. Mỗi bước chuyển đều có tiếng động kèm theo. Còn tiếng cưa xẻ khi xây dựng, hay giọng cười của nhân vật Robber, nghe đều rất thật.
-The Settlers of Catan còn có chế độ chơi trực tuyến và một chat room dành cho các fan hâm mộ. Trò chơi có dung lượng 7,4 MB, tải về miễn phí từ đây.
-

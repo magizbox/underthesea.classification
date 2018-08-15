@@ -1,8 +1,0 @@
-Công cụ tìm kiếm lỗi trong định dạng file
-Công ty bảo mật iDefense (Mỹ) hôm qua đã cung cấp chương trình tự động khám khá những lỗ hổng trong định dạng phổ biến như ảnh JPEG và GIF.
-Công cụ - mang tên SpikeFile, NotSpikeFile cho Linux và FileFuzz đối với Windows - có thể tự động phân tích từng bit của file và mở tệp trên bất cứ ứng dụng nào. Nếu phát hiện ra một lỗ hổng trong quá trình mở file, chương trình sẽ ghi nhận lỗi đó để các nhà nghiên cứ có thể kiểm tra và xác định lỗi.
-"Định dạng file là một con đường quá dễ cho tin tặc khai thác lỗ hổng", Michael Sutton, Trưởng phòng nghiên cứu của iDefense, khẳng định hãng đã tìm thấy một số lỗi kiểu này. "Chúng tôi sẽ không tập trung vào việc tìm lỗi, mà chủ yếu phát triển công cụ".
-Phần mềm này có nguy cơ sẽ bị lợi dụng cho những mục đích nguy hiểm, khi tin tặc có thể dùng để tìm lỗ hổng và tấn công máy tính, nhưng iDefense hy vọng chúng sẽ góp phần hỗ trợ bảo vệ người dùng. 
-Gần đây, nhiều lỗi xảy ra trong quá trình ứng dụng và quản lý định dạng file có mức độ khá nghiêm trọng. Máy tính có thể bị đột nhập đơn giản chỉ bằng việc nạn nhân vô tình xem một hình ảnh chứa mã nguy hiểm trên website hay qua e-mail. Đầu tháng này, Microsoft cũng đã công bố miếng vá cho 3 lỗ hổng bảo mật nghiêm trọng đầu tháng, trong đó có 2 lỗi liên quan đến định dạng file.
-Người dùng có thể tải công cụ mã mở này tại website của iDefense.
-

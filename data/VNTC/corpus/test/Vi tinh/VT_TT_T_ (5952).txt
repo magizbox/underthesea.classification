@@ -1,8 +1,0 @@
- Thiết bị bảo mật sinh trắc nhận dạng… dáng đi
-Bộ cảm biến sinh trắc học này tạm gọi là bộ cảm biến “mã dáng đi”, nó sẽ được tích hợp vào điện thoại di động hoặc máy xách tay và có tác dụng nhận dạng nhịp điệu di chuyển của chủ máy theo 3 chiều không gian. Qua thử nghiệm, bộ cảm biến dáng đi này đã tỏ ra chính xác đến trên 90% trong toàn bộ các trường hợp. 
-Nếu nó không có khả năng nhận diện dáng đi chủ nhân vì một lý do nào đó, chẳng hạn khi đang say xỉn, thì nó sẽ đòi hỏi chủ nhân nhập vào password để sử dụng, còn nếu chủ nhân quên luôn password thì điện thoại di động sẽ chính thức trở thành… cục gạch điện tử. 
-Bộ cảm biến dáng đi này cũng có thể áp dụng vào nhiều thiết bị nhạy cảm khác như thẻ thông minh, thẻ tín dụng, vũ khí hoặc thiết bị USB… 
-Giáo sư Heikki Ailisto thuộc Trung tâm nghiên cứu kỹ thuật VTT của Phần Lan nhận định: ”Chúng tôi nghĩ rằng thành tựu công nghệ này sẽ là vũ khí lợi hại chống lại tình trạng ăn cắp thiết bị di động đang ngày càng gia tăng. Nếu áp dụng đại trà thì tỷ lệ tội phạm dạng này chắc chắn sẽ giảm đáng kể”. Ngoài ra thiết bị này cũng có thể kết nối với hệ thống nhận dạng giọng nói. 
-Olli Ernvall, phát ngôn viên của VTT nhận định rằng thiết bị của công ty mình sẽ tạo nên một đột phá lớn trong thị trường thiết bị bảo mật nhưng chưa cho biết thiết bị này sẽ được ưu tiên trang bị cho công ty nào đầu tiên. 
-Hiện có đến hơn 300.000 điện thoại di động bị ăn cắp mỗi năm tại Anh, khoảng 100.000 cái nữa tại Đức, Thụy Điển và... hàng triệu cái ở những nơi khác trên thế giới. 
-

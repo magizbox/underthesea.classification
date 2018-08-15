@@ -1,8 +1,0 @@
-Hotmail chuẩn bị có giao diện mới 
-Bộ phận kinh doanh MSN của Microsoft đang lôi kéo sự chú ý của người dùng vào chương trình Kahuna, tên mã cho phiên bản Hotmail mới, với phong cách và giao hiện hoàn toàn khác biệt so với trước đây. 
-Giao diện của Kahuna được biết đến như là "Wave 11" và được thiết kế để làm nhẹ bớt chương trình, tăng khả năng vận hành của hộp thư. 
-Kahuna sẽ có thêm một số tính năng đáng chú ý như tự động tải lại (refresh) nội dung của hộp thư đến (Inbox), bảng Preview (xem trước) cho phép người dùng đọc và trả lời e-mail ngay trong Inbox mà không cần chuyển sang cửa sổ mới.
-Những thay đổi khác bao gồm khả năng kéo - thả giữa các thư mục, tín hiệu âm thanh thông báo mail mới thời gian thực... Tiếp theo Kahuna, Microsoft sẽ tích hợp cải tiến mới cho MSN Spaces và Messenger.
-Microsoft có nhiều lý do riêng để thử nghiệm những nâng cấp mới này, chủ yếu là vì nhiều hãng cạnh tranh đã sớm ra mắt chương trình thư điện tử mới của họ. Ví dụ như AOL gần đây đã cải thiện hộp thư AOL và giới thiệu AIM Mail miễn phí, hay Yahoo cũng đang "cải tổ" lại toàn bộ hệ thống Yahoo! Mail.
-Microsoft không tiết lộ thời điểm ra mắt giao diện Kahuna mới của Hotmail.
-

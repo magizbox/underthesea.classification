@@ -1,6 +1,0 @@
-Nhật chuẩn bị cung cấp dịch vụ VoIP cho ĐTDĐ 
-Chính phủ nước này đang bắt đầu xây dựng một mạng điện thoại viễn thông di động mới, cho phép mọi người kết nối Internet và tạo cuộc gọi với chi phí thấp và tốc độ truyền dữ liệu nhanh hơn.
-Điện thoại di động IP này dự kiến có thể trao đổi thông tin với tốc độ 15 Mb/giây, cao hơn 1.000 lần so với thiết bị cầm tay thế hệ 3 nhanh nhất hiện nay ở Nhật (384 Kb/giây). Thủ tướng Junko Koizumi cho biết công nghệ sẽ bắt đầu được triển khai rộng vào năm 2007.
-Dịch vụ VoIP sẽ do Bộ nội vụ và thông tin Nhật điều hành và kiểm soát. Nhiều nước trên thế giới cũng đang nghiên cứu sử dụng công nghệ giá rẻ này dù nhiều hãng cung cấp tỏ ra không mấy quan tâm bởi 80% doanh thu của họ là từ dịch vụ đàm thoại. Tuy nhiên, chính phủ Nhật coi đây là chiến lược quốc gia để luôn đi đầu xu hướng toàn cầu.
-Đề án xây dựng mạng cho phép truyền file dữ liệu lớn như video vào điện thoại di động cũng đang được thảo luận trong cuộc nhóm họp các bộ trưởng với chuyên gia viễn thông và quyết định chính thức sẽ được đưa ra vào tháng 12.
-

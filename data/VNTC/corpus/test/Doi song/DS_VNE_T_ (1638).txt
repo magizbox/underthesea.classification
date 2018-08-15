@@ -1,7 +1,0 @@
-Những kiểu hàng xóm tồi tệ nhất
-Gái mại dâm và các băng đảng xã hội đen được coi là những hàng xóm nguy hiểm và đáng tránh nhất với những người định mua nhà ở Đài Loan.
-Cuộc khảo sát trực tuyến tại Đài Bắc công bố hôm 2/7 đã cho thấy kiểu hàng xóm tồi tệ thứ hai là các cặp vợ chồng thường xuyên cãi nhau, tiếp đến là những ai để nước trong nhà mình rò rỉ mà không chịu tiếp thu ý kiến.
-Trong khi các nhà máy gây ồn và toả mùi khó chịu đứng vị trí thứ 4, thì những ai vứt rác bừa bãi quanh nhà xếp ở hàng thứ 5. 
-AddVote(1000209436,0,173783336,'','Bạn ghét kiểu hàng xóm nào nhất?','#FFFFFF','#FF9595','100%',4, new Array(new Array('Thường xuyên cãi nhau',0,0),new Array('Vứt rác bừa bãi',0,1),new Array('Bật nhạc to trong đêm khuya',0,2),new Array('Để chó sủa và đi bậy',0,3)),'',1)
-Trong top 10 kiểu hàng xóm tồi tệ nhất còn bao gồm những kẻ chơi bài thâu đêm, những người hát karaoke hoặc bật nhạc to trong đêm khuya, những gia đình đặt giá giày dép và các đồ lặt vặt trên cầu thang chung, cả những người để chó sủa liên tục và không dọn dẹp chất thải do vật nuôi để lại.
-

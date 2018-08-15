@@ -1,5 +1,0 @@
-Diệt virus với McAfee AVERT Stinger
-Stinger là một tiện ích độc lập miễn phí được chuyên biệt hóa để phát hiện và loại bỏ những virus đặc biệt. Phần mềm này là một công cụ hỗ trợ rất hữu ích trong việc xử lý các hệ thống bị lây nhiễm.
-Stinger sử dụng công nghệ quét của McAfee, bao gồm quy trình (process), các tập tin DAT ký bằng kỹ thuật số và các tùy biến quét virus. Nó có thể phát hiện hơn 40 loại virus, trojan và các biến thể của chúng. Giao diện đơn giản và trực quan cho phép người dùng sử dụng dễ dàng: bạn chỉ cần chọn ổ đĩa hoặc thư mục để quét và nhấn một nút bấm. Bạn cũng có thể chọn hành động để thực hiện khi phát hiện virus (xóa, nhắc, cô lập hay đặt lại tên) hay cấu hình loại tập tin cần quét.
-File cài đặt của chương trình có dung lượng 905 KB, có thể tải tại đây.
-

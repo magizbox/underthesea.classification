@@ -1,6 +1,0 @@
-Hỏi về lỗi cài đặt Warcraft III (1)
-Khi cài War III vào một máy có cấu hình chip 1.5GB, 16 MB card màn hình, 128 MB RAM, Direct X 8.1, thì chạy được bình thường, nhưng khi cài vào máy khác có cấu hình mạnh hơn chip1.7GHz, 32MB card màn hình, 128MB RAm, Direct X 8.1, thì không chạy được và thông báo lỗi "Access Violence, can't read this memory" tại cùng một địa chỉ, sau đó chương trình tự động out. Xin cho biết tại sao và cách khắc phục như thế nào. Trân trọng cám ơn.
-Lý Quốc Hùng
-Hồi âm:
-Thong thuong ban gap nhung loi tuong tu nhu FATAL ERROR.... (this application has encountered a critical error: FATAL ERROR! war3.exe exeption: 0xC0000005 (ACCESS_VIOLATION) at 001B:6F0ECF80. The instruction at '001B:6F0ECF80' referenced memory at '0x0000001C'. The memory could not be read))... Co 2 su viec xay ra cung luc tai mot dia chi cua bo nho, truoc khi cai dat nen chay lenh (scandisk) va (disk defagmenter), check lai thanh RAM va cap nhat drives, card am thanh, card man hinh. Hien thoi da co directX 9.0b. Nho tat tuong lua (firewall) khi choi game.
-

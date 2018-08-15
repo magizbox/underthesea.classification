@@ -1,8 +1,0 @@
-Dùng sóng âm tìm bongke dưới lòng đất
-Một kỹ thuật có tên gọi "trống đất", thường được dùng để tìm kiếm các bồn chứa dầu, giờ đây đang được cải tiến để phát hiện nơi ẩn náu dưới lòng đất của những kẻ khủng bố, hoặc các kho vũ khí.
-Kỹ thuật do Silicon Graphics Inc, hợp tác với Phòng thí nghiệm Bộ tư lệnh chiến đấu quân đội Mỹ ở Fort Huachuca, Arizona (Mỹ) phát triển. Cuộc họp báo công bố kỹ thuật này sẽ được tổ chức vào tháng tới. 
-Hệ thống, được gọi là Chương trình xác định mục tiêu ngầm, có thể sẽ là một công cụ hữu ích cho quân đội cũng như cho các chuyên gia an ninh, hãng Silicon Graphics cho biết. 
-"Công nghệ này chưa thể phát hiện người, nhưng nó có thể giúp chúng ta hình dung tổng quan về những thứ dưới mặt đất", Greg Estes, phó chủ tịch tiếp thị của hãng cho biết. "Về mặt an ninh quốc gia, hệ thống này có thể được dùng trong việc tìm kiếm những đường ngầm xuyên biên giới hoặc các kho vũ khí". 
-Trước tiên, hệ thống giải phóng các sóng âm qua một vùng cho trước, nhờ kích hoạt thuốc nổ hoặc các xung khí. Các sensor sẽ đọc những âm thanh dội lại, rồi chuyển đến một máy tính được trang bị đặc biệt để phân tích những mô hình dao động phản xạ, từ đó xác định độ sâu và đặc tính của vật thể mà sóng âm đập vào. Chiếc máy hiện tại khá cồng kềnh, nhưng hãng chế tạo hy vọng sẽ phát triển những version nhỏ hơn để có thể đưa ra chiến trường trên xe quân sự. 
-Công nghệ mới được cải tiến từ những hệ thống dùng để tìm kiếm dầu ở độ sâu 32 đến 320 kilomét dưới mặt đất, nhưng các nhà nghiên cứu đang tìm cách để khiến nó hiệu quả ngay cả ở độ sâu hàng nghìn kilomét và trên khoảng địa hình rất rộng. 
-

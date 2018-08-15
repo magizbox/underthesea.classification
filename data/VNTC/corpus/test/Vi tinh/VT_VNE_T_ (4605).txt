@@ -1,7 +1,0 @@
-Kết nối đa mạng IEEE 802.11 với một thẻ Wi-Fi
-Trung tâm nghiên cứu của Microsoft vừa phát hành phiên bản thử nghiệm một phần mềm có thể tách một thẻ WLAN thành nhiều card ảo, cho phép mọi người kết nối đồng bộ thiết bị của họ tới nhiều mạng khác nhau.
-Phần mềm VirtualWiFi có thể tạo ra một mạng lưới nhỏ và mở rộng Wi-Fi tới những hệ thống không nằm trong phạm vi của điểm truy cập không dây. Người sử dụng có thể cấu hình lại mỗi thẻ ảo để họ vừa chơi game qua một mạng phi thể thức vừa duyệt web với mạng cơ sở. 
-Microsoft đang hướng tới một số ứng dụng cụ thể, ví dụ công cụ Client Conduit dùng trong chẩn đoán. "Client Conduit được trang bị một ống thông tin mỏng để liên lạc giữa những máy khách không được kết nối và máy chủ đầu cuối để tiến hành quá trình chẩn đoán và điều trị không dây", nhóm phát triển VirtualWi-Fi cho biết.
-Một triển vọng khác là VirtualWiFi có thể tăng sức chứa cho mạng vô tuyến qua việc sử dụng đa kênh theo phương pháp SSCH (Slotted Seeded Channel Hopping). Mỗi card 802.11b/g sẽ có khả năng sử dụng 3 kênh cùng lúc và điểm truy cập không dây sẽ vẫn nhận tín hiệu như là 3 thẻ Wi-Fi độc lập (có địa chỉ IP riêng).
-Tuy nhiên, VirtualWiFi mới chỉ là bản thử nghiệm và chưa thể áp dụng rộng trong doanh nghiệp. Công nghệ cũng chỉ hỗ trợ chuẩn 802.11 và hoạt động trên máy tính Windows XP. Tải phần mềm VirtualWiFitại đây.
-

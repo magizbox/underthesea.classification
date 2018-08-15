@@ -1,7 +1,0 @@
-Họ calculator cũng có siêu máy tính
-Các nhà nghiên cứu của Đại học Swanse (Anh) đã phát minh ra một giao diện mới dành cho loại máy tính bỏ túi truyền thống. Họ tin rằng điều này sẽ tạo thuận lợi hơn rất nhiều cho người sử dụng khi xử lý các phép tính khó.
-Dùng ngón tay nhập thông số cho máy tính thông qua màn hình cảm ứng.
-Thay vì phải xác định trình tự nhập các thông số, nguời dùng máy tính này chỉ cần trình bày phép tính giống như làm trên giấy và thiết bị sẽ làm nốt phần còn lại. Chiếc máy tính có thể kết nối với những màn hình cảm ứng to và người sử dụng thậm chí có thể dùng ngón tay để viết các ký tự hoặc con số. Nhà phát minh Harold Thimbleby giải thích rằng nhiều người rất lúng túng về trình tự mà họ cần nhập thông tin trên những chiếc máy tính mini.
-Mẫu thiết bị của Đại học Swanse còn có thể xử lý các phép toán gần như không thể giải quyết, chẳng hạn ei, trên calculator thông thường. Ví dụ, nếu nguời dùng nhập phép tính: x!=5040 thì máy tính sẽ có thể tìm ra giá trị của x. Nó sử dụng một phần mềm nhận dạng ký tự và đánh giá những vị trí tương quan của các ký tự để xác định phép toán tính cái gì. Một khi máy tính đã nhận ra các ký tự, người dùng có thể di chuyuển hoặc chỉnh sửa khi cần.
-Thimbleby và đồng sự đã mời 9 người làm thử một loạt phép toán và nhận thấy khi dùng các máy tính thông thường, tỷ lệ họ làm sai do nhập thông tin lên tới 51%. Ví dụ khi được yêu cầu làm phép tính 4 x -5 thì họ thường có xu hướng nhập nguyên xi 4 x -5 và nhận được kết quả -1. Với thiết bị của nhóm nghiên cứu của Thimbleby, tỷ lệ sai giảm xuống 19%.
-

@@ -1,5 +1,0 @@
- Epson giới thiệu Chip đọc đa ngôn ngữ
-Loại chip S1V30100 đời đầu này có thể đọc được 5 ngôn ngữ thông dụng hiện nay là Anh, Pháp, Đức, Tây Ban Nha Castilian và Tây Ban Nha Latin American. Đồng hành với chip S1V30100 là phần mềm chuyên dùng để đọc ngôn ngữ là Fonix DECtalk v5.0. 
-Bất kỳ thiết bị di động nào được trang bị chip S1V30100 và công cụ Fonix DECtalk v5.0 đều có thể đọc được các từ ngữ hiển thị thuộc các ngôn ngữ này trên màn hình di động. Ngoài ra, chip này cũng hỗ trợ rất tốt cho chuẩn nhạc số MP3 và AAC. 
-Epson đang tiếp tục nghiên cứu thế hệ chip S1V30100 đời mới có thể đọc được 3 ngôn ngữ tượng hình là tiếng Hoa, Hàn Quốc và Nhật Bản. 
-

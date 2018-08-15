@@ -1,9 +1,0 @@
-Bản vá lỗi Windows có thể gây trục trặc máy tính
-Miếng vá MS00-051 trong bản tin bảo mật tháng 10của Microsoft, sửa bốn lỗ hổng nghiêm trọng trong hệ điều hành Windows 2000, Windows XP và Windows Server 2003, đang phát sinh nhiều phiền phức cho người sử dụng.
-Theo Microsoft, sau khi cài bản sửa lỗi, máy tính có thể gặp những sự cố nghiêm trọng như tự động khóa máy ngăn người dùng đăng nhập tài khoản, chặn khởi động Windows FireWall, không cho phép cài hoặc chạy một số ứng dụng nhất định, xóa các thư mục cho kết nối mạng...
-Hãng phần mềm cho biết vấn đề chỉ xảy ra khi người sử dụng thay đổi những thiết lập mặc định trong thư mục Windows. Tuy nhận được rất ít lời phàn nàn, Microsoft vẫn tiến hành nghiên cứu và khắc phục lỗi. 
-Để giải quyết trục trặc do MS05-051 gây ra, người dùng nên khôi phục lại chế độ mặc định trong thư mục Windows và COM+. Xem chỉ dẫn chi tiết tại website của Microsoft. Đại điện của tập đoàn phần mềm Mỹ khẳng định ngay cả khi khách hàng gặp rắc rối sau khi cài, họ vẫn được bảo vệ trước mọi cuộc tấn công khai thác lỗ hổng.
-Cũng liên quan đến bản tin an ninh tháng 10, tuần trước công ty bảo mật Symantec khuyến cáo rằng thông báo lỗi của Microsoft sẽ vô tình mở đường cho hacker tấn công hệ thống máy tính người dùng.
-Đặc biệt, thành phần MSDTC của Windows 2000 (xuất hiện trong MS05-051) được kích hoạt mặc định với vai trò điều phối và xử lý giao dịch chuyển đổi giữa các máy chủ, do đó nguy cơ bị tin tặc khai thác để khống chế máy tính từ xa là rất cao. 
-Hai tháng trước, hacker cũng đã lợi dụng lỗi "Plug and Play" của Windows 2000 chỉ 5 ngày sau khi Microsoft công bốbản tin an ninh tháng 8, và tấn công ồ ạt bằng một loạt biến thể sâu Zotob, gây ảnh hưởng không nhỏ cho nhiều tổ chức và hãng truyền thông lớn trên toàn thế giới. 
-

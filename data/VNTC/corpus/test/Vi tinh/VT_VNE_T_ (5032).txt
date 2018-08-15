@@ -1,6 +1,0 @@
-Công nghệ bảo mật sinh trắc học bằng mạch máu
-Hitachi vừa triển lãm lần đầu tiên công nghệ nhận dạng cá nhân dựa trên việc quét tĩnh mạch ở bàn tay hoặc ngón tay trong Hội nghị thượng đỉnh xã hội thông tin WSIS tại Tunisia gần đây. Hãng này cũng đã đưa hệ thống bảo mật này vào dòng máy tính xách tay Flora.
-Công nghệ này được Hitachi xây dựng từ năm 2000 và triển khai trong nhiều ứng dụng như hệ thống ATM tại các tổ chức tài chính, cửa ra vào và hiện nay là PC. Khi sử dụng, một luồng ánh sáng sẽ thâm nhập vào ngón tay để đo và đối chiếu các mẫu tĩnh mạch. 
-Hãng điện tử Nhật mới đây cũng giới thiệu công nghệ xác thực tĩnh mạch trên ngón tay "grip-type", nghĩa là một người chỉ phải chạm vào tay cầm trên cánh cửa, hệ thống sẽ nhận dạng ngay lập tức và mở cửa phòng, nhà hoặc xe hơi. Công nghệ này đã nâng kỹ thuật bảo mật lên một trình độ mới, mang lại sự tiện lợi cao nhất, cho phép mọi người không cần phải đem theo chìa khóa mỗi khi rời khỏi nhà.
-Peter Jones, Giám đốc kinh doanh của Hitachi tại châu Âu, cho biết: "Xác thực mẫu tĩnh mạch là phương pháp bảo mật sinh trắc học chính xác nhất và đã chứng minh sự thành công trong nhiều ứng dụng tại Nhật. Chúng tôi sẽ tiếp tục mở rộng công nghệ trên toàn thế giới".
-

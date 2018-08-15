@@ -1,4 +1,0 @@
- Tác phẩm Don Quixote khắc trên vi mạch
-Công cụ làm việc của họ chỉ là một kính hiển vi điện tử và chiếc kim gốm hoặc kim bán dẫn. Với loại chữ siêu nhỏ này, toàn bộ tác phẩm Don Quixote dày 1.000 trang có thể được khắc trên sáu vi mạch silicon nhỏ như sáu đầu sợi tóc. 
-Công nghệ mới này có thể sử dụng để lưu trữ dữ liệu, hoặc chế tạo các vi mạch máy tính, giấy điện tử (siêu mỏng, có độ đàn hồi cao) có khả năng vừa lưu trữ vừa xóa thông tin. 
-

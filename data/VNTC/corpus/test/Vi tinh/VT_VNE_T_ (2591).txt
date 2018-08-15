@@ -1,9 +1,0 @@
-Intel giới thiệu chipset 854
-Tại diễn đàn các nhà phát triển Intel (Đài Loan), hãng phần cứng số 1 thế giới vừa công bố nền tảng phần cứng điện tử dân dụng đảm bảo cho các thiết bị như IP-digital set top box (IP-STB) và máy ghi thông tin đa phương tiện kỹ thuật số (digital media recorders - DMR) có thể phối hợp "ăn ý"với nhau.
-Chipset Intel 854 mới.
-Các chipset Intel 854 mới dành cho các thiết bị điện tử dân dụng là phần cứng dựng sẵn tốc độ cao có khả năng mở rộng . Nó cho phép các nhà nghiên cứu lĩnh vực này khả năng linh hoạt và tốc độ xử lý ứng dụng của kiến trúc điện toán.
-Bên cạnh đó, Intel cũng đưa ra giải pháp phần mềm điều khiển Digital Media Infrastructure nhằm giúp các nhà phát triển thiết kế theo chỉ dẫn kỹ thuật Living Network Alliance (DLNA) và Intel Networked Media Product Requirements (Intel NMPR).
-Intel Digital Media Infrastructure 3.0 là giải pháp mở rộng được tối ưu hóa và hợp chuẩn toàn phần cho các phần cứng nền tảng của thiết bị điện tử dân dụng. Nó mang đến khả năng kết nối mạng bên ngoài thiết bị, phát hiện thiết bị và giải pháp chia sẻ nội dung dựa trên các thông số kỹ thuật mở để xây dựng các nền tảng phần cứng dân dụng có khả năng hoạt động chung cao.
-Ông Glenda Dorchak, Phó chủ tịch kiêm Tổng giám đốc Consumer Electronics Group (thuộc Intel Digital Home Group), cho biết: "Khả năng hoạt động chung là chìa khóa để phát triển các thiết bị điện tử dân dụng cũng như sử dụng các chương trình truyền thông băng rộng, mạng và dịch vụ trong ngôi nhà kỹ thuật số. Nền tảng Intel 854 và giải pháp phần mềm giải quyết được các nhu cầu về thiết kế và tốc độ, tạo ra các thiết bị hiện đại cho người sử dụng mà vẫn giảm được tổng chi phí của hệ thống".
-Hiện tại, các đối tác của Intel trong lĩnh vực điện tử dân dụng bao gồm Eriya, Gigabyte, Handan BroadInfoCom, Hopen, Media Excel, Neusoft, Oregan Networks, Samsung, Tatung, Thomson và Toshiba.
-

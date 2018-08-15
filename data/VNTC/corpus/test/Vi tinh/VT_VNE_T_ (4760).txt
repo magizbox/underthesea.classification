@@ -1,7 +1,0 @@
-Ánh sáng thay thế điện tử trong chip máy tính
-Hãng máy tính IBM đã xây dựng thành công một chip có khả năng giảm... tốc độ ánh sáng. Đây là bước tiến mới nhất trong quá trình tạo ra những hệ thống chỉ sử dụng một phần nhỏ năng lượng so với PC hiện nay.
-Chip này còn được gọi là đường dẫn sóng silicon ánh sáng (photonic silicon waveguide). Nó hứa hẹn sẽ có thể thay thế dòng điện bằng ánh sáng trong việc kết nối các thành tố điện tử với nhau. Đồng thời, chip cải thiện đáng kể khả năng vận hành máy tính và nhiều hệ thống điện tử khác.
-Chip này là một tấm silicon với những lỗ nhỏ, phân tán ánh sáng một cách có hệ thống và giảm tốc độ của nó xuống chỉ còn 1/300 so với bình thường. Vận tốc ánh sáng cũng có thể được thay đổi đơn giản bằng cách sử dụng điện áp.
-Trong máy tính, nhịp ánh sáng chậm sẽ đảm bảo truyền dữ liệu nhanh và quy củ hơn. Công nghệ mới có thể được áp dụng để xây dựng những thành phần như bộ nhớ và bộ đệm quang, cho phép xây dựng hệ thống máy tính với khả năng kết nối tới mạng thông tin quang học.
-Thiết bị quang truyền dữ liệu bằng các lượng tử photon, đơn vị đo ánh sáng nhỏ nhất. Những photon này không chỉ nhanh hơn điện tử (electron) trong các chip máy tính mà còn giúp thiết bị quang sản sinh ít nhiệt hơn. Do đó, nó giải quyết vấn đề chip càng hoạt động nhanh và mạnh sẽ càng tỏa nhiều nhiệt.
-

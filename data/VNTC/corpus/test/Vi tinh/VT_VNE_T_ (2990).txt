@@ -1,7 +1,0 @@
-AMD chính thức định ngày phát hành Athlon 64 
-AMD Athlon 64 X2 lõi kép sẽ ra mắt ngay trong ngày đầu tiên của Triển lãm Computex (từ 31/4 đến 4/6), nơi quy tụ hầu hết các loại phần cứng, phần mềm và sản phẩm công nghệ khác của Đài Loan.
-Thiết bị lõi kép có thể chứa hai vi xử lý trên một tấm silicon đơn, nâng cao hiệu suất hoạt động. Những thao tác chuyên sâu của như chỉnh sửa video, ghi đĩa quang... có thể được thực hiện độc lập, do đó không làm chậm tiến độ công việc như ở chip đơn. Hầu hết máy tính và thiết bị xử lý server hiện nay tích hợp chip đơn, tuy nhiên đã có một vài chip lõi kép được phát hành.
-Intel, đối thủ lớn nhất của AMD trong cuộc đua lõi kép, đã chính thức ra mắt phiên bản Pentium Extreme Edition 840 (Pentium EE) vào tháng 4 vừa qua, và chip Pentium D sẽ có mặt vào cuối tháng này.
-Athlon 64 X2 cũng không phải là thiết bị lõi kép đầu tiên của AMD. Công ty có trụ sở ở Sunnyvale (California, Mỹ) này đã tung ra thị trường chip Opteron cho máy tính để bàn và notebook từ tháng 4. 
-Tuy giới thiệu muộn hơn, nguyên mẫu Athlon 64 X2 gần như hoàn toàn thắng thế so với Pentium EE trong các đợt thử nghiệm gần đây. Hệ thống chạy trên X2 đạt 115 điểm theo chuẩn WorldBench 5 trong khi sản phẩm của Intel chỉ là 95. Athlon 64 cũng tiêu thụ ít năng lượng hơn, với công suất tối đa 100W so với 145W của Pentium EE.
-

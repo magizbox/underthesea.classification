@@ -1,6 +1,0 @@
-Phát hiện thêm 3 biến thể sâu Cabir
-Tuy nhiên, hãng bảo mật Sophos (Anh) cho biết những phiên bản virus điện thoại di động này không phải loại nguy cơ cao. Cả 3 xuất hiện dưới dạng download từ một website của Malaysia chuyên chia sẻ các ứng dụng mobile phone.
-Sâu Cabir, một virus mẫu mang tính chứng minh khả năng virus tấn công điện thoại, được thiết kế để phát tán qua kết nối Bluetooth tới những chiếc điện thoại thông minh tương thích khác trong vùng sóng cho phép. Tuy nhiên, người nhận có thể quyết định chấp nhận hoặc từ chối chương trình này thâm nhập vào máy của mình. 
-Theo Sophos, người sử dụng điện thoại có thể bảo vệ thiết bị liên lạc của mình trước nhiều loại nguy cơ từ Bluetooth bằng cách tắt tính năng visible (hiển thị trạng thái điện thoại cho máy khác) trong cài đặt Bluetooth. Điều này sẽ ngăn ngừa khả năng xâm nhập của những dạng chương trình tấn công.
-Gần đây có nhiều thông tin cho thấy khả năng virus tấn công điện thoại là hoàn toàn có thể nhưng các chương trình đã xuất trên thực tế chưa thể gây ra những đợt bùng phát như virus máy tính, Graham Cluley, chuyên gia công nghệ của Sophos, nói. Người sử dụng điện thoại không cần quá lo ngại việc tin tặc từ bỏ con mồi béo bở là PC chạy hệ điều hành Windows của Microsoft để quay sang tấn công điện thoại.
-

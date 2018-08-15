@@ -1,9 +1,0 @@
-Xen - bước tiến mới trong công nghệ ảo hoá
-XenSource (Mỹ) đã thành công trong việc tăng tối đa khả năng hoạt động cho hệ điều hành của Microsoft với phần mềm mới. Đây là điểm mốc quan trọng cho quá trình thương mại hoá máy ảo của công ty này.
-XenSource hôm qua cho biết họ đã xây dựng sản phẩm bằng cách sử dụng chip của Intel tích hợp VT, còn gọi là công nghệ ảo hoá. Công ty tại California này đã trình diễn phần mềm tại Diễn đàn các nhà phát triển Intel đang diễn ra ở đây tuần này.
-Xen cho phép nhiều hệ điều hành hoạt động trên cùng một máy tính. Chạy cùng lúc Linux và Windows là điều rất đáng quan tâm bởi cả hai hệ điều hành này đang được sử dụng rộng rãi trong những hệ thống mạnh (server).
-Đây là phần mềm "siêu phân lớp" trong quản lý nguồn ổ cứng máy tính. Bằng việc ảo hoá và chia sẻ ổ cứng này cho nhiều hệ điều hành, PC có khả năng thực hiện nhiều thao tác hơn một cách trơn tru và hiệu quả.
-Xen áp dụng phương pháp "ảo hoá đoạn", trong đó hệ điều hành phải được chỉnh sửa tương ứng để nhận biết các lớp. Tuy nhiên, với tính năng VT trong chip của Intel, hệ điều hành có thể hoạt động trên Xen mà không cần bất cứ thay đổi nào. Chuyên gia của hãng sản xuất chip đã hỗ trợ xây dựng Xen trong giai đoạn đầu. 
-Đối thủ của Intel, hãng AMD, cũng giới thiệu "công nghệ song song" mang tên Pacifica, dự kiến ra mắt trong năm 2006. Pacifica và VT hoạt động tương đối khác nhau, nhưng Xen có lớp phần mềm VMX được thiết kế để điều chỉnh sự khác biệt giữa 2 công nghệ thiết bị xử lý này. Các kỹ sư của Xen khẳng định họ sẽ hợp tác xây dựng Pacifica trong thời gian tới.
-Bắt đầu ra mắt sản phẩm vào cuối năm nay, XenSource dự định kinh doanh kết hợp với phần mềm quản lý XenOptimizer nhằm hỗ trợ khách hàng trong việc sử dụng Xen.
-

@@ -1,8 +1,0 @@
-Vẫn có sinh vật sống trong biển Chết
-Một loài nấm kỳ diệu đã xoay sở để sống sót trong vùng nước cực mặn của biển Chết. Phát hiện về nó có thể mở ra những bước tiến mới trong công nghệ gene, nhằm tạo ra những cây lương thực có thể trồng trên đất nhiễm mặn. 
-Loài nấm Eurotium herbariorum có thể chịu được nồng độ muối "mặn chát" ở biển Chết - lên đến 340 gram trên mỗi lít nước - gấp khoảng 10 lần so với ở các vùng biển khác. Hầu hết các sinh vật trên trái đất chịu mặn kém hơn nhiều, chúng sẽ mất nước và chết nếu tiếp xúc với quá nhiều muối. 
-Song, các nhà nghiên cứu rất quan tâm đến việc phát triển những cây lương thực chịu được mặn, vì những vùng đất nhiễm mặn đang tăng nhanh trên trái đất, kéo theo sản lượng lương thực giảm xuống. 
-Khi đất trồng quá mặn, nước ở trong cây sẽ bị rút ra ngoài, và cây sẽ chết. Một giải pháp đối phó tình trạng này là sản xuất glycerol - chất ngăn không cho nước thoát khỏi tế bào cây. Vì thế, các nhà nghiên cứu ở Đại học Haifa, Israel đã phân lập được một gene có tên gọi EhHOG (quy định việc sản ra glycerol) ở loài nấm trên và cấy nó vào giống nấm men sản xuất bia, Saccharomyces cerevisiae.
-Kết quả là nấm men được cấy gene đã chịu được mặn tốt hơn bình thường, và còn chịu đựng được nhiệt độ cao hơn hoặc thấp hơn. Nhóm nghiên cứu cho biết nếu đưa được gene EhHOG vào thực vật, nó có thể giúp cho thực vật chịu mặn tốt hơn. 
-Tuy nhiên Tim Flowers, một nhà sinh lý học thực vật tại Đại học Sussex, Anh, cho biết nấm khác xa so với các cây lương thực, và vì thế không có lý gì để cho rằng gene EhHOG sẽ có ích với thực vật giống như với nấm, nghĩa là giúp chúng chịu mặn. 
-

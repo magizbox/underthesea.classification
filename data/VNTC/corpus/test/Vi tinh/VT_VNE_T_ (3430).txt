@@ -1,8 +1,0 @@
-Hai thách thức lớn nhất của Microsoft
-Steve Ballmer, Giám đốc điều hành Microsoft, khẳng định cỗ máy tìm kiếm khổng lồ Google và việc đáp ứng nhu cầu khách hàng là "hai mối đe dọa lớn nhất" đối với họ.
-Người dùng máy tính sẽ vẫn tiếp tục sử dụng hệ thống máy móc và hệ điều hành hiện tại trong nhiều năm nữa, trừ khi xuất hiện những cải tiến mới bắt buộc họ phải nâng cấp. "Mọi người có thể sử dụng PC, Windows, và Office trong khoảng 10, 15, 20 năm nữa, nếu không có cải tiến đáng kể nào yêu cầu họ chuyển hướng", Ballmer khẳng định.
-Ông cho biết Microsoft sẽ phải thường xuyên cải tiến và khuyến khích khách hàng liên tục cập nhật những thay đổi về phần cứng và phần mềm, vì sản phẩm hiện tại có tuổi thọ tương đối dài và không cần thiết phải bị đào thải, thay thế bằng dòng sản phẩm mới.
-"Khách hàng luôn mong đợi chúng tôi mang lại những thứ mà họ chưa bao giờ nghĩ tới. Mặt khác, nếu chúng tôi không đáp ứng nguyện vọng, không để tâm trước nhu cầu của họ, chúng tôi cũng sẽ bị đẩy ra xa", Ballmer phát biểu trước 550 người tham gia Hội nghị Phát triển Kinh tế Australia vừa kết thúc ngày hôm qua.
-Ballmer cũng thừa nhận hãng dịch vụ trực tuyến Google đã cung cấp rất nhiều cải tiến lớn cho công cụ tìm kiếm Internet. Tuy nhiên, ông cũng lưu ý rằng kết quả nhận được vẫn còn gây nhiều khó chịu. Ví dụ, nếu gõ từ khóa "Bill Gates" sẽ xuất hiện nhiều trang không như mong đợi, thậm chí hiển thị cả những tài liệu chứa từ "Bill" và "Gates" với nội dung không liên quan.
-Ballmer nói rằng ông sẽ không tỏ ra ngạc nhiên nếu Google tuyên bố thâm nhập "đấu trường" hệ điều hành và ngược lại Google cũng không nên lấy làm lạ khi thấy Microsoft bắt tay vào lĩnh vực tìm kiếm.
-

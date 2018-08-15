@@ -1,6 +1,0 @@
-Dự án Asian Linux thành hình
-Hồng Kỳ Linux (Trung Quốc) và Miracle Linux (Nhật Bản) vừa tung ra phiên bản thử nghiệm Asianux, hệ điều hành dựa trên nền Linux, phát triển cho châu Á.
-Ba tháng sau khitriển khai, hai hãng cho biết đã hoàn thành phiên bản beta Asianux 1.0. Dùng chung lõi (kernel) và nhiều thành phần, Asianux thỏa mãn những phàn nàn rằng châu Á đang thiếu chuẩn Linux. Với chương trình này, chủ dự án cho rằng các hãng phần cứng và phần mềm sẽ không còn phải hỗ trợ riêng biệt cho từng hệ điều hành mã mở.
-Cùng với bản beta, hai hãng cũng giới thiệu giấy phép hệ điều hành. Các công ty được cấp phép sẽ nhận được bản Asianux mới nhất, thông tin, hỗ trợ kỹ thuật, đồng thời có thể sớm truy cập nhiều sản phẩm của Hồng Kỳ và Miracle. Thông cáo chung còn khẳng định tính tương thích với Miracle Linux 3.0 và Hồng Kỳ DC4.1, hai hệ điều hành máy chủ dựa trên Asianux.
-Tới nay, đã có hơn 40 đơn đăng ký cấp phép, bao gồm một số đại gia Nhật Bản như Hitachi, NEC và một vài công ty Mỹ như Oracle, Trend Micro. Bản Asianux chính thức dự kiến phát hành tại Nhật và Trung Quốc trong năm nay.
-

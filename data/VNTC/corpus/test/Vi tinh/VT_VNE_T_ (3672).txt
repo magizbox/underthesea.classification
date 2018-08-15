@@ -1,5 +1,0 @@
-Lỗi giải nén nghiêm trọng trong MySQL 
-Các chuyên gia nghiên cứu của hãng bảo mật Secunia (Đan Mạch) vừa cảnh báo về một lỗ hổng có nguy cơ bị lợi dụng rất cao trong MySQL, cho phép tấn công từ chối dịch vụ và chạy mã nguy hiểm trên cơ sở dữ liệu mã mở.
-Lỗ hổng này xuất hiện khi người dùng sử dụng công nghệ zlib hỗ trợ giao thức nén và tính năng nén/giải nén hoạt động trên Windows. Lỗi xảy ra ở "inftrees.c", phá vỡ quá trình nén dữ liệu. Theo Secunia,  khiếm khuyết này có khả năng bị khai thác để phá sập bất cứ ứng dụng nào sử dụng chương trình zlib. 
-Lỗi được tìm thấy trong phiên bản MySQL 1.2 nhưng Secunia khẳng định tất cả các phiên bản trước đó cũng đều bị ảnh hưởng. Secunia khuyến cáo người dùng nâng cấp lên bản 4.1.13. Phát ngôn viên của SQL khẳng định lỗ hổng này vẫn chưa bị khai thác cho đến thời điểm này.
-

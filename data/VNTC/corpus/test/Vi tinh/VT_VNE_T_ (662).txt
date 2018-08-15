@@ -1,6 +1,0 @@
-Sự cố mạng máy tính (1)
-Xin các anh chị chỉ giúp: tôi có một phòng máy sử dụng Win XP được thời gian chạy vẫn ổn định nhưng mới đây tự nhiên dàn máy của tôi ngưng hoạt động đồng bộ, chỉ có thể truy cập vào Net khoảng 4 máy bất kỳ, còn các máy còn lại thì không thể nào vào Net được. Nếu máy nào vào Net thì tức khắc một trong những máy đang vào sẽ không vào được nữa. Xin anh chị ai biết cách khắc phục chỉ bảo. Tôi đang sử dụng đường truyền ADSL và mạng tôi dùng mạng ngang hàng không có máy chủ. Xin cảm ơn. 
-Mai Huong
-Hồi âm:
-Chào bạn ! Mình cũng đang quản lí một mạng máy tính gồm 33 máy, sau đó lắp đặt 24 máy nữa qua Switch, nhưng trong mạng này có 4 máy bị "đá" IP (có nghĩa IP đã bị thay đổi), bạn hãy dung trình "Ping" để xem những máy không vào mạng của ban có địa chỉ IP có đúng không?! Nếu không bạn phải đặt lại đĩa chỉ IP bằng tay đó. Ví dụ: thông thường IP của Modem là: 192.168.1.1, subnet mark: 255.255.255.0, những máy tính còn lại bạn phải đặt từ: 192.168.1.2 -- 192.168.1.254, nếu rơi vào trường hợp này bạn hãy thử nha. Chào thân ái!!!
-

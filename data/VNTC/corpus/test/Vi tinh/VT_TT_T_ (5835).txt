@@ -1,4 +1,0 @@
- Thêm một “cơn bão” game online
-Một số sự cố về đường truyền đã xảy ra vì nhiều người đăng ký chơi cùng lúc, cao điểm nhất là trên 5.000 người (theo FPT, hiện đã có khoảng 150.000 người đăng ký chơi). Game này đưa người chơi vào cuộc phiêu lưu mạo hiểm để giải cứu vùng đất có tên MU. 
-Sau một vài tháng miễn phí, FPT sẽ tung ra phiên bản thương mại để thu tiền. Đây là trò chơi cạnh tranh với Võ lâm truyền kỳ của Vina Game - đang tạo ra “cơn bão” thu hút giới trẻ chơi game trực tuyến. 
-

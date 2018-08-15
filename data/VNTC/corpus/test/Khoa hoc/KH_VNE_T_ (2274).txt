@@ -1,8 +1,0 @@
-Thêm một triển vọng kéo dài tuổi thọ pin cho laptop
-Công ty CMR (Anh) đã tạo ra bước đột phá quan trọng về công nghệpin nhiên liệu với một sản phẩm chỉ nhỏ bằng 1/10 các mẫu hiện nay và có thể thay thế pin trong máy tính xách tay.
-Mẫu laptop sử dụng pin nhiên liệu gắn kèm.
-CMR tuyên bố thiết kế mới, ban đầu dùng methanol, dựa trên một loại ống có thể hòa trộn hỗn hợp khí và nhiên liệu. Cho đến nay, các loại ống nhiên liệu thường tách riêng hoàn toàn 2 thành phần này.
-Sản phẩm của CMR sẽ có thời lượng sử dụng dài gấp bốn lần so với pin trong laptop hay nhiều thiết bị sử dụng năng lượng khác, và có thể được xạc thường xuyên.
-"Chúng tôi tin tưởng công nghệ này chính là công cụ chuyển đổi từ transistor sang mạch tích hợp", John Halfpenny, Giám đốc hành điều hành của CMR, khẳng định.
-Từ nhiều năm nay, pin nhiên liêu đã được quảng bá như một nguồn năng lượng xanh mới. Chúng sản xuất điện qua phản ứng hóa học và chỉ thải ra một lượng nhỏ khí CO2 - yếu tố bị các nhà khoa học cho là gây ra hiệu ứng nhà kính toàn cầu. Tuy nhiên, giá thành cao và những nghi ngờ về khả năng phổ biến nguồn nhiên liệu - thường là hydro - đã cản đường phát triển của công nghệ này, bất chấp nỗ lực nhiều năm nghiên cứu của nhiều công ty năng lượng cũng như ngành công nghiệp tự động.
-

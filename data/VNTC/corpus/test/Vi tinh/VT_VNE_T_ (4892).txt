@@ -1,9 +1,0 @@
-Google sẽ miễn phí công cụ phân tích website
-Hãng dịch vụ tìm kiếm trực tuyến số một thế giới chuẩn bị cung cấp tự do công cụ  có khả năng đo tính hiệu quả trong hoạt động của website cũng như của các chiến dịch tiếp thị trực tuyến.
-Google Analytics cho phép khách hàng tham gia chương trình AdWords biết một cách chính xác những người ghé thăm tương tác với website như thế nào và chương trình quảng cáo của họ đang tiến xa tới đâu.
-Chủ sở hữu trang web cũng có khả năng kiểm tra xem khách đến từ đâu, họ đang xem trang nào, "dừng chân" trong bao lâu ,đường kết nối nào được mở nhiều nhất, sản phẩm nào trên site thương mại đang được bán...
-Dịch vụ, ra mắt với phiên bản tiếng Anh và 16 ngôn ngữ khác, sử dụng công nghệ của công ty Urchin (San Diego, Mỹ) mà Google mua lại hồi tháng 3.
-Kế hoạch miễn phí là một bất ngờ lớn và có vẻ sẽ tác động tương đối đến lĩnh vực phân tích website. Trước đây, Urchin phân phối công nghệ với giá 308 USD/tháng, sau đó Google hạ xuống còn 124 USD/tháng.
-Julian Smith, chuyên gia về quảng cáo trực tuyến của Jupiter Research, nhận xét: "Đây là một tin tốt lành của Google và đối với những hãng quảng cáo vừa và nhỏ, vốn luôn gặp khó khăn trong quá trình phân tích chương trình tiếp thị trực tuyến mà họ đang tổ chức. Google Analytics sẽ giúp họ tìm ra cách tiếp cận chiến dịch online tinh tế hơn".
-Microsoft cũng đang thử nghiệm công cụ phân tích trong AdCenter tại Pháp và Singapore nhằm cạnh tranh với Google AdWords. Những đối thủ khác trong lĩnh vực này là WebSideStory, Webtrends và Coremetrics.
-

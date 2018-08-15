@@ -1,8 +1,0 @@
-Virus lợi dụng thảm họa sóng thần để lây lan
-Hãng bảo mật Sophos (Anh) cho biết, hàng loạt e-mail đính kèm virus với nội dung kêu gọi khẩn thiết giúp đỡ nạn nhân thiên taitsunami vừa được tung ra nhằm lợi dụng sự quan tâm của mọi người để lây lan. 
-Với tiêu đề Quyên góp ủng hộ nạn nhân sóng thần! Hãy ra tay giúp đỡ, e-mail chứa sâu máy tính Sun.A yêu cầu người nhận mở một tệp đính kèm có tên là tsunami.exe. Việc kích hoạt file này không chỉ giúp virus tiếp tục lây lan sang nhiều người dùng Internet khác mà còn tiếp tay cho việc tấn công một trang web chuyên về hacking ở Đức bằng phương pháp tấn công từ chối dịch vụ. 
-Việc lừa người khác tin vào khả năng có thể giúp đỡ nạn nhân của thảm họa sóng thần cho thấy bọn tội phạm máy tính giờ đây không từ một thủ đoạn thấp hèn nào, Graham Cluley, Giám đốc kỹ thuật của Sophos, bình luận.
-Sophos cũng cho biết họ đã nhận được một số báo cáo về các loại sâu máy tính như thế này. Sun.A không phải là virus đầu tiên lợi dụng sự kiện đau thương vừa qua để phát tán. Đầu tháng này, một loạt e-mail chứa virus Geven.B đã truyền đi thông điệp Đó là sự giận dữ của Chúa trời trước những hành động tàn phá trái đất của con người.
-Một loại thư khác lại xuất hiện dưới hình thức lời kêu gọi thống thiết của một thương nhân người Thái Lan giàu có mắc bệnh hiểm nghèo lại vừa mất hết gia đình sau thảm họa sóng thần, đang cần nhờ ai đó thu nhận số tiền nhiều triệu USD từ một công ty chứng khoán ở châu Âu để san sẻ với cộng đồng người bị nạn. 
-Sophos khuyến cáo người nhận nên xóa ngay những bức thư này, không nên mở các file đính kèm và luôn cập nhật phiên bản mới của phần mềm chống virus. 
-

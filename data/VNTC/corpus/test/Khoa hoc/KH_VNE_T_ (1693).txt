@@ -1,7 +1,0 @@
-Khăn quàng đổi màu theo quần áo
-Những người không có gu thẩm mỹ sẽ không còn phải lo lắng về những chiếc khăn phản màu với bộ quần áo của mình trong mùa đông này. Các nhà nghiên cứu đã sáng tạo ra một sản phẩm có thể tự động đổi màu để phù hợp với trang phục.
-Chiếc khăn đổi màu, hay còn gọi là khăn tắc kè hoa, do Akira Wakita và cộng sự tại Đại học Keio ở Tokyo, Nhật Bản, chế tạo.
-Được đan xen kẽ vào chất liệu vải là những pixel chứa các điốt phát màu đỏ, xanh lam và xanh dương. Sự điều chỉnh độ sáng của mỗi loại điôt sẽ mang tới cho chiếc khăn một màu tổng thể mới. Một cảm biến nhỏ gắn vào vải cũng giúp nó nhận ra màu của trang phục ở gần nhất. Một chiếc máy tính siêu nhỏ sẽ chọn ra màu thích hợp để chiếc khăn tự điều chỉnh.
-Điều đó có nghĩa là nếu người chủ mặc trang phục màu xanh thẫm, chiếc khăn sẽ tự động chuyển sang màu xanh nhẹ để ăn khớp. Tuy nhiên, nếu người mặc muốn một kiểu thời trang táo bạo hơn, máy tính có thể được điều chỉnh để tạo ra các sự phối màu lạ mắt hơn. "Về lý thuyết khoảng 4.000 màu có thể được tạo ra", Wakita nói. "Tuy nhiên, sự khác biệt sẽ khó mà nhận ra bằng mắt thường".
-Chiếc khăn đã được giới thiệu tại Hội thảo về trang phục vi tính quốc tế (ISW2005) tại Osaka, Nhật Bản hồi tháng 10.
-

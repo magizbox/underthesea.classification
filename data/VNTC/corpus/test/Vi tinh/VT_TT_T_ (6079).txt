@@ -1,8 +1,0 @@
- Mọi ĐTDĐ Java đều có thể lướt web bằng Opera Mini
-Khác với các trình duyệt web chuyên dành cho ĐTDĐ thông minh hay ĐTDĐ đắt tiền với đầy đủ tính năng mạnh, Opera Mini được thiết kế nhằm gia tăng khả năng giao tiếp ứng dụng không dây (WAP) cho nhiều loại ĐTDĐ Java hiện nay đến mức có thể lướt web được. 
-Người dùng ĐTDĐ hiện nay có thể tải về trình duyệt Opera Mini với dung lượng dưới 100Kb về máy của mình. Opera Mini và các máy chủ của Opera sẽ có nhiệm vụ giản lược trang web mà người dùng muốn xem ở mức tối đa và sẽ dựng lại trang web sao cho có thể xem vừa vặn trên màn hình nhỏ của ĐTDĐ. 
-Eskil Sivertsen, phát ngôn viên của Opera cho biết:”Mục đích của chúng tôi là tạo điều kiện cho mọi người dùng ĐTDĐ đều có khả năng lướt web mà không cần phải mua một ĐTDĐ đắt tiền”. 
-Sử dụng trình duỵêt Opera Mini sẽ giúp người lướt web bằng ĐTDĐ giảm được rất nhiều chi phí so với lướt web bằng trình duyệt khác vì Opera Mini sẽ có khả năng nén kích thước của trang web chỉ còn từ 20-30% so với kích thước ban đầu trước khi gửi nó đến ĐTDĐ. 
-Sivertsen ước lượng rằng có khoảng 700 triệu ĐTDĐ hiện nay có khả năng tải Opera Mini về để lướt web. Nhưng để các ĐTDĐ Java đơn giản có thể lướt web bằng Opera Mini thì các công ty điều hành dịch vụ ĐTDĐ phải ký kết hợp đồng với Opera để công ty này cung cấp một số máy chủ ứng dụng tương thích với Opera Mini thì dịch vụ mới có thể hoạt động được. Trình duyệt Opera Mini cũng sẽ sống chung hòa bình với trình duyệt Opera Mobile, vốn là trình duyệt web chuyên dùng cho các ĐTDĐ thông minh. 
-Hiện nay Opera đang thử nghiệm đại trà Opera Mini tại các quốc gia như Na Uy, Thụy Điển, Đan Mạch, Phần Lan, Iceland và Đức. Opera sẽ tung đại trà Opera Mini sang các quốc gia khác trong năm 2006. 
-

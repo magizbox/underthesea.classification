@@ -1,9 +1,0 @@
-Window 2000 Pro bị treo khi truy cập Internet (2)
-Xin hoi sau khi toi cai Win 2000 Pro, may tinh rat de bi treo khi vao Internet. Chuong trinh khong the disconnect khoi Internet ma toi phai reset may. Outlook Express thi khong goi duoc mail ma chi nhan mail goi toi. Xin cac ban cho toi loi tu van de giai quyet van de tren. Thanh that cam on. 
-Khiet
-Hồi âm:
-Máy của bạn bị virus xâm nhập rồi. Chỉ còn cách backup những file cần thiết và quan trọng trong máy của bạn. Format lại harddrive có load Windows 2000. Load lại Window 2000 sau khi format. Chuyển các file đã backup trở lại. 
-Kim Lai Dang
-Có thể là máy bạn đã bi nhiễm virus từ đĩa gốc Win2000 khi bạn set up máy. Bạn thử kiểm tra "Status " của internet connection khi máy bạn đang connected với internet, khi bạn không upload hay gửi mail mà "bytes send" nhiều hơn và đang hoạt động trong khi số "bytes received" lại ít hơn và dường như không hoạt động; thì rõ ràng là máy bạn đã bị nhiễm nhiều loại "troyan virus". Có thể dùng McAfee 2004 hay Norton 2004 scan virus để bắt những con virus này (nhớ kiểm tra đĩa của những software này bằng máy khác để chắc là chương trình scan virus không bị nhiễm virus !!!!).
-Trường hợp vẫn không chạy được thì mới format và set up lại Windows (nên nhớ là dùng đĩa Windows khác đã kiểm tra là "virus free". Chúc bạn thành công. 
-

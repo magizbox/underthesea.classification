@@ -1,6 +1,0 @@
- Pioneer giới thiệu ổ đĩa Blu-ray đầu tiên cho PC
-Ổ BDR-101A của Pioneer tương thích với các đĩa đơn BD-R, BD-RW và các đĩa kép BD-ROM. Ổ mới này cũng sẽ tương thích rộng rãi với các dạng DVD và sẽ có thể ghi được các đĩa DVD-R và DVD-RW. 
-Akira Muneto, người phát ngôn của Pioneer cho biết: ”Ổ BDR-101A có giao diện ATAPI cho phép truyền tải dữ liệu với tốc độ lên đến 33Mb/giây. Chỉ bằng nửa trọng lượng chuẩn với kích cỡ 14.8x42x198, cân nặng 1.1Kg”. 
-Muneto cho biết thêm rằng Pioneer dự định sẽ giới thiệu ổ đĩa BDR-101A cho các hãng sản xuất máy tính tại Nhật để tích hợp vào trong các dòng máy tính để bàn của họ và sau đó sẽ mở rộng doanh số bán ra sang các nước khác. BDR-101A cũng sẽ xuất hiện ở thị trường Mỹ vào nửa đầu năm 2006. Do đó, máy tính cá nhân trên thị trường tích hợp ổ đĩa hỗ trợ chuẩn Blu-ray cũng sẽ xuất hiện vào nửa đầu năm sau. 
-Mặt khác, Toshiba đã tạm ngưng dự định phát hành HD-DVD Player bởi vì sự bất lực của các công ty đứng đằng sau AACS (Advanced Access Content System) để hoàn thiện sản phẩm của họ. AACS được tạo ra bởi các công ty trong lĩnh vực điện tử và lĩnh vực khác như IBM, Intel, Microsoft, Panasonic, Sony, Toshiba, The Walt Disney Co. và Warner Bros. 
-

@@ -1,5 +1,0 @@
-Fujitsu giới thiệu công nghệ sinh trắc lòng bàn tay
-Hệ thống máy quét bằng tia hồng ngoại mang tên Contactless Palm Vein Authentication System có thể nhận dạng từ một khoảng cách ngắn và không bị ảnh hưởng do vị trí của bàn tay, điều mà trước đây những scanner khác thường gặp nhiều khó khăn.
-Fujitsu cho biết vân lòng bàn tay là dấu hiệu rất khó giả mạo và thiết bị quét này còn đảm bảo tính vệ sinh cao hơn nhiều so với những công cụ trước đây vì người sử dụng không phải chạm tay vào mặt quét.
-Nhà sản xuất đã mất 2 năm để phát triển thiết bị này. Các kỹ sư sinh trắc học Nhật Bản cho biết phần khó nhất của công việc chính là làm sao để máy quét đọc được chính xác vân tay trong tình trạng tay di chuyển và làm thay đổi hình dáng ghi nhận. Qua thử nghiệm với 700 người từ 10 đến 70 tuổi, hệ thống chỉ từ chối nhầm với tỷ lệ 1% và chấp nhận nhầm 0,5%.
-

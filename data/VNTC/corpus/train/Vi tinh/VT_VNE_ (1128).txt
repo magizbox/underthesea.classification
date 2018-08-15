@@ -1,7 +1,0 @@
-Virus Sober trở lại
-Một biến thể mới của sâu e-mail này bắt đầu phát tán tại khu vực châu Âu hôm qua và được các công ty phần mềm an ninh đánh giá thuộc loại nguy cơ trung bình.
-Hãng McAfee (Mỹ) đặt tên virus mới là Sober.J trong khi F-Secure (Phần Lan) và Kaspersky (Nga) thì gọi là Sober.I. Đến cuối ngày hôm qua, virus xuất hiện lần đầu hồi tháng 10 năm ngoái này đã bắt đầu lan sang Mỹ. 
-Sober mới phát tán trong những file đính kèm e-mail bằng tiếng Anh và Đức với những dòng chủ đề và nội dung khá nghiêm túc. Khi người nhận thư mở file đính kèm, một thông điệp báo lỗi giả mạo sẽ được hiển thị và virus sẽ tạo ra 2 file trong thư mục Windows. Vai trò của chúng là khiến cho việc gỡ bỏ virus khỏi hệ thống một cách thủ công trở nên khó khăn hơn. Hai tệp tin này được nạp vào bộ nhớ hệ thống và khi một cái bị xóa cái kia sẽ lập tức tạo ra file thay thế. Tuy nhiên, nếu dùng các phần mềm diệt virus mới nhất thì vẫn có thể loại bỏ Sober.J.
-Giống như những phiên bản trước, Sober.J mở rộng lây lan bằng cách thu thập các địa chỉ e-mail trong máy tính nạn nhân vào tự sao chép vào đó.
-Các chuyên gia của McAfee cho rằng Sober.J có thể bắt nguồn từ Đức. Virus không gây tổn thất gì cho hệ thống mà chỉ tự nhân bản và download phần mềm từ một địa chỉ xa. Tuy nhiên, qua kiểm tra, McAfee nhận thấy tính năng này không hoạt động. Sober.J không cài đặt các chương trình theo dõi hoạt động bàn phím và không cài trình cổng hậu vào PC nạn nhân. 
-

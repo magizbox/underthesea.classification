@@ -1,8 +1,0 @@
-Kỷ lục mới về tốc độ Internet 
-Mạng nghiên cứu và giáo dục quốc gia Thụy Điển (Sunet) phối hợp với hãng Sprint đã thành công trong việc truyền 840 GB dữ liệu trong vòng 27 phút qua khoảng cách 16.364 km.
-Không sử dụng một công nghệ đặc biệt nào, các nhà nghiên cứu đã gửi lượng dữ liệu nói trên từ một máy tính ở San Jose (Mỹ) qua gần nửa vòng trái đất tới Đại học Lulea ở miền Bắc Thụy Điển. Đường truyền sử dụng trong thử nghiệm này là 2 mạng SprintLink của Sprint và GigaSunet IP, có thông lượng 4,23 GB/giây.
-Đường truyền kết hợp 40 bộ định tuyến (IP router), trong đó 35 ở mạng SprintLink và 5 ở Sunet. Đóng vai trò máy host đầu cuối là các server Dell 2650, mỗi chiếc sử dụng chip Intel Xeon 2.0 GHz, 512 MB RAM và phiên bản 2.0 hệ điều hành NetBSD.
-Các PC được nối vào một router chính của GigaSunet tại Đại học Lulea và một router truy cập ở San Jose, dùng các bộ điều hợp (adapter) Ethernet 10 Gigabit PRO/10GbE của Intel.
-Sunet khẳng định kết quả này tốt hơn gấp 3 lần so với thành tích hiện được ghi trong sách kỷ lục Guiness 2004. Theo cơ quan nghiên cứu của Thụy Điển, cuộc thử nghiệm tốc độ truyền dữ liệu diễn ra trong điều kiện truyền tải thực tế và có sự gắn kết đầy ý nghĩa đối với các ứng dụng lưu trữ ngoại tuyến dùng cho khắc phục sự cố.
-Điều ấn tượng nhất về kỷ lục này so với những thành tựu từng được xác lập là chúng tôi đã thực hiện nó trên hạ tầng thông thường mà GigaSunet và các khách hàng của Sprint đang sử dụng chứ không phải một mạng chuyên dụng, Borje Josefsson, Giám đốc công nghệ của Sunet, phát biểu. 
-

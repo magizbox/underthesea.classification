@@ -1,8 +1,0 @@
-Hỏi cách bảo quản pin laptop (2)
-Xin vui lòng chỉ dẫn cách sử dụng và bảo quản pin của máy tính xách tay. Có phải nếu đang sử dụng điện nguồn thì phải tháo pin ra khỏi máy, có như thế tuổi thọ của pin mới kéo dài? Xin cám ơn!
-vo gia phuc
-Hồi âm:
-Theo kinh nghiệm dùng máy của tôi thì như bạn nói là đúng! tôi thường tháo pin ra khi dùng ở nhà vì như thế sẽ bảo quản Pin tốt hơn. Đây là bài về Pin có trong mục Khoa Học của vnexpress nói về pin"Việc sử dụng không đúng cách cũng làm pin nhanh bị hỏng, bị chai. Ví dụ, nếu một viên pin được thiết kế để sử dụng trong nhiều giờ nhưng được dùng trong có 10 phút, sau đó đem sạc lại và nếu quá trình này lặp lại vài lần, đến lần tiếp theo viên pin được dùng tới một giờ, nó sẽ hết nhanh hơn so với một viên pin khác cùng loại được sạc đầy đủ, sau đó dùng trong 1 giờ rồi mới được đem ra sạc lại để dùng cho lần sau." Từ đó suy ra nếu máy bạn đang dùng điện nguồn thì nên tháo pin ra.
-MC
-Cách bảo quản thông thường là khi không sử dụng laptop trong thời gian dài, ta hãy tháo hẳn pin ra khỏi máy ( nạp pin đầy trước khi tháo ra bảo quản ). Việc sử dụng điện nguồn khi có pin trong máy sẽ không ảnh hưởng tới tuổi thọ của pin, vì khi nạp đầy, pin sẽ tự động ngắt nguồn. Thân. 
-

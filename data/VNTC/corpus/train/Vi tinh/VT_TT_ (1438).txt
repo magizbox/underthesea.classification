@@ -1,6 +1,0 @@
- Dùng Icon Collector Tool để lấy... icon
-Nếu bạn không biết phải làm thế nào trích xuất các biểu tượng này ra thì phần mềm Icon Collector Tool sẽ giúp bạn thực hiện việc này một cách nhanh chóng. Sau khi chạy chương trình, bạn vào menu File &gt; Open File chọn một tập tin mà bạn muốn trích xuất biểu tượng của nó. 
-Trong cửa sổ chính của chương trình lúc này sẽ hiển thị toàn bộ các biểu tượng chứa trong tập tin bạn vừa chọn. Bạn chọn một biểu tượng mà mình thích. Ở khung bên phải sẽ hiển thị các kích thước của biểu tượng bạn đang chọn. Bạn chọn một kích thước ưng ý, nhấn chuột phải vào đó, chọn Save As và chọn nơi lưu lại, đặt tên file ( nhớ gõ luôn đuôi tập tin là .ICO ). 
-Ngoài ra nếu không biết rõ tập tin nào có chứa biểu tượng, bạn có thể dùng chức năng tìm kiếm của chương trình: vào menu File &gt; Open Folder và chỉ định thư mục cần tìm, chọn định dạng (EXE, DLL, ICO) và nhấn nút Search . 
-Icon Collector Tool 1.2 là phần mềm thương mại của AtoA Software, tương thích với Windows 95/98/Me/NT/2000/XP/2003. Có thể tải bản dùng thử tại http://www.atoasoft.com/products/ict.htm (680 KB) hay tìm mua trên các đĩa CD phần mềm tổng hợp, hiện có bán ngoài thị trường. 
-

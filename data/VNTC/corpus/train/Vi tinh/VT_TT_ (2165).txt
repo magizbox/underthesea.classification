@@ -1,6 +1,0 @@
- Xuất hiện biến thể Sober mới mạo danh FBI và CIA
-Các chuyên gia bảo mật của Symantec, Sophos và F-Secure đều cho biết con Sober.w này hiện đang lây nhiễm khá nhanh chóng và đạt cấp độ nguy hiểm ở mức 3/5, tức tương đương với độ nguy hiểm của con virus Zotob đã lộng hành trong tháng 8-2005. 
-Công ty bảo mật MessageLabs của Anh cho rằng tốc độ lây nhiễm của Sober.w là nhanh nhất trong 3 tháng vừa qua, và là một nguy cơ cực cao. Phát ngôn viên của MessageLabs cho biết rằng đến giữa trưa ngày 22-11, công ty đã ngăn chặn được tổng cộng đến 3 triệu thông điệp chứa Sober.w đang lây nhiễm trên mạng. 
-Alfred Huger, giám đốc kỹ thuật của Symantec cho biết rằng Sober.w khi lây nhiễm hàng loạt qua e-mail đều có địa chỉ như “mail@cia.gov ” hoặc “admin@fbi.gov ”. Trong các e-mail giả mạo mà Sober.w gửi đến người dùng đều có một file nén kiểu .zip, mà khi nhắp vào file zip này thì lập tức con Sober.w sẽ nhảy vào máy tính và thu thập toàn bộ địa chỉ e-mail có trong máy để tự gửi mình đi tiếp tục đến mọi địa chỉ e-mail mà nó thu được. 
-Đại diện của FBI và CIA đều ra tuyên bố cảnh báo người dùng rằng các e-mail này là lừa đảo và không xuất phát từ FBI lẫn CIA. Hai cơ quan này đều đang kết hợp với Trung tâm ngăn ngừa tội phạm Internet để truy lùng thủ phạm viết và tung ra con Sober.w. 
-

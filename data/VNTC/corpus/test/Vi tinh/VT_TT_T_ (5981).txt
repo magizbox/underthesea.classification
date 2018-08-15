@@ -1,7 +1,0 @@
- IBM tung ra nhiều dòng máy chủ cấp thấp đời mới
-Các máy chủ đời mới này đều được trang bị các chip lõi kép Power5+ đời mới và được cài hệ điều hành mạng Unix hoặc Linux. 
-Dòng máy chủ dạng tủ đứng 1U p5 505 Express có cấu hình cơ bản là 1GB bộ nhớ, 2 đĩa cứng 73,4 Gb và DVD-ROM với các chip Power5 tốc độ 1,5 Gz và 1,65 GHz. Giá khởi điểm sẽ vào khoảng 3.750 USD/máy. 
-Các hệ thống tủ đứng 4U p5 520 Express có cấu hình cơ bản là chip lõi kép 1.9GHz Power5, 2 MB bộ nhớ, 2 đĩa cứng 73,4 GB và giá khởi điểm là 11.896 USD. 
-Hệ thống máy chủ tủ đứng cao cấp nhất được tung ra lần này là dòng p5 550 và p5 550Q Express. Dòng p5 550 được được trang bị 4 chip lõi kép 1,9 GHz, 36 hoặc 72 MB bộ nhớ cache Level 3. Còn dòng p5 550Q được trang bị 4 hoặc 8 chip xử lý lõi kép Power 5+ tốc độ 1,5 GHz, với 72 hoặc 144 MB cache nhớ Level 3. 2 dòng máy chủ này giá tương ứng là 17.000USD/máy đến 37.000USD/máy. Ngoài ra các máy chủ này cũng được trang bị đầy đủ mọi phần mềm phụ trợ khác của IBM. 
-Hiện IBM đang tích cực tấn công vào thị trường máy chủ cấp thấp dành cho các doanh nghiệp vừa và nhỏ. Việc IBM tung ra các dòng máy chủ cấp thấp nói trên là động thái cạnh tranh trực tiếp với các dòng máy chủ có cùng tính năng của Sun vừa mới tung ra, điển hình là dòng máy chủ Galaxy sử dụng chip xử lý Opteron lõi đơn và lõi kép có giá khởi điểm cực kỳ cạnh tranh, khoảng dưới 1.000 USD. 
-

@@ -1,6 +1,0 @@
-Kiểm soát máy tính bằng WinPatrol 7.0
-Bạn thường cảm thấy bực dọc khi nhấn tổ hợp phím Ctrl-Alt-Delete và phát hiện cả chục phần mềm lạ hoắc đang hoạt động? Hãy dùng WinPatrol, phần mềm miễn phí cho phép bạn kiểm soát những gì được phép và những gì không được chạy trên máy của bạn. 
-Với WinPatrol, bạn có thể thiết lập hiển thị các thông tin bổ sung về những chương trình chạy khi khởi động máy trong thư mục Startup, đồng thời kiểm soát những phần mềm được thiết lập ở chế độ chạy tự động (AutoRun). Khi có những cookie hoặc phần mềm mới được cài vào máy tính, chương trình sẽ báo động với bạn và hiển thị những thông tin được lưu trữ về khách lạ. 
-Phiên bản mới nhất này của WinPatrol (7.0) bổ sung hỗ trợ cho các đối tượng trên thanh công cụ của Interenet Explorer, danh sách cảm ngữ cảnh khi nhấn chuột phải và một giao diện mới hiển thị danh sách dài hơn, với giải thích rõ nghĩa hơn.
-Nếu muốn dùng phiên bản có đầy đủ tính năng, bạn nên tải WinPatrol Plus với giá 19,95 USD. Chương trình sử dụng cơ sở dữ liệu trên web để cung cấp thêm thông tin về những chương trình đang chạy trên máy tính của bạn. Còn nếu muốn download bản thông dụng miễn phí, ít tính năng hơn, bạn có thể bấm vào đây.. 
-

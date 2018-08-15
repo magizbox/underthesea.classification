@@ -1,6 +1,0 @@
- NTT DoCoMo thêm chức năng bộ đàm cho ĐTDĐ 3G
-Dòng máy 3G của DoCoMo này mang tên 902i sẽ cho phép khoảng 19 người dùng cùng lúc đàm thoại với nhau theo kiểu nói bộ đàm. Tính năng walkie-talkie này sẽ dễ dàng thực hiện được trên 902i chỉ bằng một nút nhấn chức năng đặc biệt. 
-Người dùng dịch vụ walkie-talkie (hay từng được gọi là push-to-talk) phải trả cho nhà cung cấp DoCoMo phí thuê bao tháng khoảng 1.050 yen (9 USD), ngoài ra người dùng phải trả 5 yen cho mỗi block 30 giây khi sử dụng dịch vụ. 
-Một số công ty dịch vụ ĐTDĐ tại Mỹ và châu Âu cũng đã tung ra dịch vụ bộ đàm cho ĐTDĐ trong thời gian gần đây. Các ĐTDĐ được trang bị tính năng walkie-talkie hoặc push-to-talk đều có thể dễ dàng liên lạc với nhau bất kể là loại điện thoại gì và đang sử dụng mạng nào. 
-Về nguyên tắc hoạt động thì ĐTDĐ walkie-talkie sẽ được gắn vào một thiết bị để biến ĐTDĐ thành một dạng máy bộ đàm bắt sóng ngắn radio, người dùng có thể dùng máy của mình quét tìm kênh sóng trong vòng vài cây số để thiết lập các cuộc hội thoại mà người ta mô tả là nửa giống như một phòng voice-chat trên Internet, nửa giống một cú gọi ĐTDĐ. 
-

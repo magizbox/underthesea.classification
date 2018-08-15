@@ -1,7 +1,0 @@
-Dơi có thể phân biệt thân cây nhẵn hay xù
-Hệ thống định vị của dơi phức tạp đến mức radar của chúng có thể phát hiện những loại cây có kết cấu vỏ khác nhau, các nhà khoa học Đức vừa thông báo như vậy.
-Những con thú ăn hoa quả này giải mã hàng nghìn tín hiệu âm thanh bật ra từ lá, cành và thân cây để thiết lập nên một "bức tranh âm thanh" về một loại cây. Con dơi ghi nhớ bức tranh này để về sau tìm ra những cây có quả tương tự.
-Tiến sĩ Lutz Wiegrebe và cộng sự từ Đại học Ludwig Maximilians ở Munich đã huấn luyện những con dơi Phyllostomus discolor đáp ứng với tiếng dội từ các vật thể không có thực, hay sóng âm phát ra từ loa. Sau đó, họ tìm hiểu xem bằng cách nào dơi nhận ra sự khác biệt giữa các vật thể rắn như tường, cột mốc và các vật thể nửa rắn như thân cây rậm lá.
-Nghiên cứu cho thấy dơi có thể giải mã được tiếng dội phát ra từ 4.000 bề mặt phản xạ để phân biệt các vật thể khác nhau trong môi trường tự nhiên của chúng. Để làm được điều đó, chúng thực hiện một phân tích rất phức tạp: quy ước mỗi tiếng dội ứng với một tỷ lệ xung lực (IR) đặc trưng - biểu thị độ ráp của vật thể. Chẳng hạn, một cây thông lá kim phản xạ âm thanh yếu hơn, sẽ tạo ra chỉ số IR khác biệt với một cây lá rộng, chẳng hạn như cây có quả.
-Bằng việc so sánh các chỉ số IR này, dơi có thể phân biệt các loại cây khác nhau mà không cần nhớ những đặc điểm phản xạ của từng loại cụ thể. Hơn nữa, chúng có thể làm điều đó ngay cả khi có gió - khi âm dội của cây đã khác đi.
-

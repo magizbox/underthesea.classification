@@ -1,6 +1,0 @@
-Thẻ nhớ SD 4 GB đầu tiên trên thế giới 
-Trong tháng tới, hãng Pretec của Mỹ sẽ bắt đầu phát hành đại trà trên thị trường sản phẩm với dung lượng tương đương một ổ cứng và tốc độ nhanh gấp 400 lần thẻ nhớ SD hiện nay.
-Thẻ SD 4 GB có tốc độ truy cập dữ liệu lên tới 20 MB/giây, và trở thành thẻ nhanh nhất thế giới tương thích với chuẩn SD 1.1, mặc dù sản phẩm hỗ trợ SD 1.1 không phổ biến. Thẻ nhớ của Pretec cũng hoạt động với thiết bị SD 1.0, tuy nhiên, khả năng đọc dữ liệu sẽ giảm xuống chỉ còn 10 MB/giây. SD 4 GB được thiết kế với hai chip SLC NAND Flash 16 Gb, 65 nm (nanometer).
-Sản phẩm sẽ được bán ra với giá 699 USD, mức giá không hề "dễ chịu" cho những ai muốn sở hữu một thẻ nhớ như vậy cho camera số, PDA hay thiết bị nghe nhạc.
-Pretec cũng giới thiệu sản phẩm 2 GB dựa trên thông số thẻ đa phương tiện MMC 4 vốn không phổ biến nhưng Pretec tin tưởng rằng hiện nay vẫn có đủ các thiết bị được thiết kế để hoạt động với sản phẩm mới này. MMC 4 có tốc độ truyền dữ liệu gấp đôi SD 1.1. Giá thành sản phẩm chưa được tiết lộ.
-

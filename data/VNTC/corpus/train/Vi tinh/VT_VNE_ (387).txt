@@ -1,8 +1,0 @@
-Lỗi sử dụng từ điển Lạc Việt (2)
-Mac du da khai bao dung duong dan den thu muc Data tren dia cung nhung Tu dien Lac Viet van khong nhan, trong khi khai bao den o dia CD-ROM thi nhan duoc. Mong anh chi huong dan cach khac phuc. Em xin cam on. 
-HT
-Hồi âm:
-Bạn copy thư mục Data trên đĩa CD đè lên thư mục Data trên đĩa cứng rồi khai báo lại đường dẫn tới thư mục Data trên đĩa cứng. 
-Dong Ngo
-Tôi cũng đã gặp lỗi này rồi. Sau đó tự khắc phục bằng cách, copy nguyên xi cấu trúc của thư mục Data trên CD vào HDD (để bất kì đâu trên HDD cũng được). Trong thư mục Data này có (chỉ 1) thư mục Media, trong đó chứa các file để Lacviet nhận ra từ điển Media của mình. Như vậy nguyên nhân theo tôi nghĩ là nó hiểu "máy móc" là có \Data\Media\ thì nó mới chịu nhận, còn nếu như đường dẫn bị modified đi là nó không nhận.Sau đó nếu mở lên mà nó còn hỏi đường dẫn, thì bạn cứ chọn đến thư mục Data trên HDD và OK. Sau đó chắc chắn nó sẽ không hỏi gì thêm nữa đâu. Chúc thành công.
-

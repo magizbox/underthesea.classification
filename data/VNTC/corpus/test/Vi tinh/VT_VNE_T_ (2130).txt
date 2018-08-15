@@ -1,6 +1,0 @@
-Thay vì bấm nút, hãy nói
-Ấn nút liên tục trên điều khiển từ xa sắp trở thành chuyện quá khứ nhờ phần mềm cho phép điều khiển thiết bị điện tử bằng âm thanh mới ra mắt của hãng Opera (Na Uy). Tính năng này cũng giúp việc lướt web dễ dàng hơn.
-Phần mềm hướng dẫn chương trình điện tử (Electronic Program Guide - EPG) được tích hợp trong các thiết bị giải trí sẽ làm hài lòng người sử dụng. Để gọi được một chức năng theo ý muốn, thay vì phải vượt qua một ma trận các menu lớn nhỏ với rất nhiều phím phối hợp như trước đây, người dùng chỉ cần nói ra vài tiếng là mọi việc có thể đâu vào đấy. Phần mềm này, được hãng Opera tự phong là tương lai của việc giao tiếp người - máy, có khả năng tìm kiếm những cấu trúc dữ liệu phức tạp chỉ bằng khẩu lệnh. EPG được viết bằng ngôn ngữ XHTML+Voice (X+V), một loại ngôn ngữ lập trình đa phương thức. 
-Ngoài ra, hãng phần mềm Na Uy này cũng sẽ đưa ra phiên bản trình duyệt Opera mới có tích hợp khả năng nhận dạng giọng nói dành cho PC. 
-Công nghệ âm thanh dựa trên nền tảng web đang bắt đầu được sử dụng rộng rãi nhằm nâng cao khả năng tương tác của các thiết bị điện tử.
-

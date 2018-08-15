@@ -1,6 +1,0 @@
-Xử lý Autocad 2000 (1)
-Em dang dung Autocad 2000 o may tinh cua em, khi mo bang Autocad 2002 o may tinh cua nguoi khac, thi mot loi font xuat hien(chu khong doc duoc) nhung khi kich hoat vao chu (Mtex) thi chu doc duoc, khi thoat ra lai khong doc duoc vay no bi loi gi? Mong cac anh chi tra loi gap gium em. Thu hai, em in trong Autocad thi nhung lop mau rat mo nhat, em muon tim cach in sao no dam net nhu binh thuong. Em xin cam on.
-Phan Phuoc
-Hồi âm:
-1/ Ve loi mat font: Em tim mua hoac xin ban be bo font VNI, copy tat ca cac font co trong font VNI roi pate vao thu muc font trong thu muc windows trong o C cua em la loi tren ko con nua. 2/ Ve chuyen net bi mo trong Auto Cad: truoc khi in em nen chuyen tat ca cac layer cua em ve mot mau sam. Vd: red, dark blue, white... sau do ra lenh in, nhung sau do em dung save lai thao tac vua roi khi dong autocad thi ban ve trong may cua em van con nguyen. The nhe, chuc em thanh cong. 
-

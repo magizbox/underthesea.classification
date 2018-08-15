@@ -1,8 +1,0 @@
-Google chuẩn bị ra mắt gói ứng dụng văn phòng
-Steve Ballmer, Giám đốc điều hành Microsoft đã thề sẽ "nghiền nát" đối thủ hàng đầu của họ. Nhưng ông này chưa kịp "xuất chiêu" thì hãng dịch vụ tìm kiếm đã rục rịch giới thiệu GoogleOffice.
-Giới quan sát cho biết Google và Sun Microsystems sẽ tổ chức một cuộc họp báo vào ngày 6/10 và có khả năng sẽ chính thức công bố GoogleOffice, phiên bản mới của gói ứng dụng StarOffice, dành riêng cho khách hàng của tập đoàn tìm kiếm số một thế giới, nhằm mục đích cạnh tranh với Microsoft Office.
-StarOffice là phần mềm cơ sở dữ liệu, xử lý văn bản, bảng tính, trình bày và đồ họa dựa trên dự án nguồn mở OpenOffice. Google bắt đầu để mắt đến OpenOffice khi thuê Joerg Heilig, cựu Giám đốc dự án StarOffice và có vai trò rất quan trọng trong tập đoàn. 
-Cơ sở về việc sắp công bố GoogleOffice xuất hiện trên trangweb cá nhâncủa Chủ tịch tập đoàn Sun Jonathan Schwartz. Ông này đã tiết lộ về kế hoạch phát hành phần mềm và viết: "Bạn luôn bị bó hẹp trong các ứng dụng Windows và thường chỉ được cung cấp thêm một vài tính năng lẻ tẻ mỗi khi nâng cấp. Nhưng giờ đây, Internet đã tạo cơ hội cho nhiều công ty vượt qua quyền lực của Microsoft, ví dụ như Google".
-Gần đây trên Internet xuất hiện nhiều tin đồn rằng Google đang phát triển hệ điều hành hay chương trình quản lý desktop của riêng mình. Họ cũng đã ra mắt chương trình e-mail, quản lý ảnh và ứng dụng tin nhắn nhanh.
-Với Microsoft, Office là nguồn thu nhập chính và họ đang tiếp tục phát triển sản phẩm. Bản thử nghiệm Office 12 sẽ được giới thiệu vào tháng 11. Dù phiên bản mới có nhiều đặc điểm trung vào server, sản phẩm hứa hẹn sẽ vẫn là gói ứng dụng phổ biến nhất dành cho PC.
-

@@ -1,6 +1,0 @@
-Tin tặc phát tán sâu Zotob bị bắt giữ
-Giới quan chức ở Morocco và Thổ Nhĩ Kỳ đã buộc tội 2 thanh niên liên quan đến vụ lây nhiễm sâu máy tính ảnh hưởng hàng loạt công ty, tổ chức chính phủ và các hãng thông tấn báo chí lớn ở Mỹ.
-Louis M. Riegel, trợ lý giám đốc thuộc bộ phận tội phạm mạng của FBI, cho biết họ đã bắt Farid Essebar, 18 tuổi, ở Morocco, còn Atilla Ekici, 21 tuổi, bị "tóm cổ" tại Thổ Nhĩ Kỳ ngày 25/8 và chúng sẽ phải hầu toà tại 2 nước này.
-Ekici, biệt danh Coder, đã thuê Essebar (nick Diabl0) viết phần mềm tấn công máy tính chạy trên hệ điều hành Windows. Chúng có thể chưa từng gặp mặt nhưng biết rõ về nhau qua Internet. FBI nghi ngờ 2 kẻ này là tác giả của cả sâu Zotob và Mytob bởi trong Zotob chứa một vài đoạn mã từng được dùng để viết chương trình virus phổ biến nhất tháng 7.
-Reigel cho biết ông không nắm rõ giá trị cụ thể trong vụ hợp tác của 2 tên hacker. Microsoft cũng từ chối tiết lộ thiệt hại tài chính gây ra bởi sâu Zotob và biến thể của nó. Những phiên bản virus này có khả năng tấn công PC mà không cần mở bất cứ một phần mềm nào, do đó các máy tính, chủ yếu dùng Windows 2000, đã vô tình bị nhiễm mà người sử dụng không hề hay biết.
-

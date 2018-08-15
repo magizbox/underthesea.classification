@@ -1,7 +1,0 @@
-Intel sẽ chấm dứt dòng chip Centrino 400 MHz FSB 
-Nhà sản xuất thiết bị vi xử lý lớn nhất thế giới đã chính thức công bố việc ngừng sản xuất loại processor dành cho thiết bị di động Pentium M với frontside bus 400 MHz kể từ sau ngày 25/11 năm nay.
-Thông báo trên cũng bao gồm cả loại vi xử lý Celeron M 400 MHz FSB và một số chip Pentium M không chì mà Intel tung ra gần đây.
-Đứng đầu trong danh sách những mặt hàng sẽ ra đi có Pentium M 725, 735, 745, 755, 765, Celeron M 350, 360, đều thuộc nhóm BGA và PGA. Ngoài ra còn có loại Celeron M 733 hiệu điện thế thấp (ultra-low voltage).
-Tuy nhiên, Intel vẫn sẽ cung cấp một số sản phẩm Pentium M 400 MHz FSB nhưng tất cả số này đều thuộc loại hiệu điện thế thấp. Nhà sản xuất tuyên bố vẫn sẽ hỗ trợ một số loại Pentium M hiệu điện thế thông thường (full voltage) đối với các công ty chế tạo hàng điện tử và thiết bị nhúng.
-Đầu tháng 5 này, Intel đã giảm giá các loại chip Centrino thế hệ hai 533 MHz FSB (tên mã là Sonoma) nhằm đẩy nhanh quá trình chuyển đổi từ các sản phẩm 400 MHz FSB lên những thiết bị xử lý có tốc độ FSB cao hơn.
-

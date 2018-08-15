@@ -1,8 +1,0 @@
-Màn hình dẻo LCD lớn nhất thế giới
-Hãng điện tử Hàn Quốc Samsung vừa cho ra mắt màn hình tinh thể lỏng đàn hồi đường chéo 7 inch và có thể sẽ được ứng dụng trong những sản phẩm như sách điện tử.
-Về mặt chức năng, màn hình này tương tự như những mẫu tinh thể lỏng trong TV và máy tính xách tay hiện nay. Tuy nhiên, thay vì thủy tinh, màn hình được trang bị chất nền bằng nhựa dẻo cho phép sản phẩm có thể cuộn hoặc gập lại mà không bị vỡ. Chất nền này cũng có ưu điểm không bị chảy hoặc biến dạng.
-Sản phẩm mới của Samsung có độ phân giải 640 x 480 pixel theo chuẩn VGA, với kích thước gấp 2 lần mẫu mô phỏng 5 inch được họ trình diễn hồi tháng 1 năm nay.
-Màn hình dẻo LCD được sản xuất dựa trên phương pháp kỹ thuật thường dùng trong quá trình tạo bóng bán dẫn (transistor) không định hình mỏng và quá trình chế tạo bộ lọc màu và tinh thể lỏng, đòi hỏi nhiệt độ thấp hơn công nghệ silicon không định hình (a-Si) trên nền thủy tinh chuẩn hiện nay.
-Nhiều công ty đang cạnh tranh để xác lập chuẩn công nghệ cho màn hình giấy điện tử tiêu thụ điện năng thấp. Hãng Phillips và E-Ink đã giới thiệu màn hình sử dụng vi chất capsule hai màu đen - trắng. Khác với LCD, màn hình này không cần đèn nền và nhờ đó giảm chi phí năng lượng đáng kể. 
-Trong khi đó, một số công ty khác đang ứng dụng đèn OLED, cũng tiêu thụ ít điện năng hơn LCD. Samsung vẫn đang tiếp tục đầu tư nghiên cứu OLED và đã trang bị công nghệ trong một vài sản phẩm điện thoại và TV.
-

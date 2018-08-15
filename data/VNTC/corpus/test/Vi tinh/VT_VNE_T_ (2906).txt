@@ -1,8 +1,0 @@
-Microsoft xúc tiến phát hành ứng dụng diệt virus
-Phiên bản thử nghiệm beta chính thức của công cụ mang tên Windows OneCare sẽ ra mắt cuối năm nay, đem đến cho người sử dụng tiện ích chống virus, spyware, tường lửa mới và nhiều chức năng tinh chỉnh dành cho máy tính Windows.
-OneCare (tham khảo thêm tại đây) đánh dấu sự tham gia được dự báo từ lâu của Microsoft vào thị trường ứng dụng bảo mật mà cho đến hiện tại vẫn là sân chơi riêng của một số công ty như Symantec, McAfee và Trend Micro. 
-Hãng phần mềm khổng lồ Mỹ cho biết OneCare sẽ đem đến các tính năng khôi phục và sao lưu được cải tiến, đồng thời cho phép dễ dàng khai thác các công cụ bảo trì trong Windows như sửa file, dọn dẹp ổ cứng và chắp liền file (defragmentation).
-Tuần trước, Microsoft đã phát một bản thử nghiệm Windows OneCare cho 60.000 nhân viên của họ và hãng dự kiến mùa hè này sẽ tiến hành một chiến dịch mời khách hàng có chọn lọc dùng thử sau đó mới triển khai đại trà vào cuối năm. 
-Gói dịch vụ bảo mật mới mà Microsoft mất 3 năm xây dựng sẽ chỉ hoạt động trên phiên bản Windows XP Service Pack 2. Công ty có trụ sở ở Redmond, Washington (Mỹ), chưa công bố mức phí đăng ký sử dụng hằng năm của gói dịch vụ bảo mật này nhưng cho biết khi đã tham gia dùng OneCare, khách hàng được hỗ trợ sử dụng e-mail và chat không giới hạn.
-Microsoft mua lại công nghệ chống spyware cuối năm ngoái của hãng Giant Company Software. Phiên bản thử nghiệm của riêng sản phẩm diệt spyware đã được Microsoft cung cấp từ tháng Giêng năm nay. Công nghệ này sẽ là một phần trong OneCare.
-

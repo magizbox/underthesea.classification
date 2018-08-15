@@ -1,8 +1,0 @@
- FPT Mobile và Diễn đàn Java VN tổ chức khóa đào tạo lập trình J2ME 
-Khóa đào tạo sẽ diễn ra trong ba ngày 23,24 và 31/07/2005 tại FPT Aptech và Đại học Bách khoa TP. Hồ Chí Minh. 
-Giảng viên tham gia đào tạo sẽ là những quản trị viên giàu kinh nghiệm của Diễn đàn Java Việt Nam. Đặc biệt trong buổi đào tạo ngày 31/7/2005, Công ty FPT Mobile và Diễn đàn Java Việt Nam sẽ mời anh Đỗ Gia Cường - thí sinh đoạt giải Nhất trong cuộc thi Mobile Games 2004 tham gia giảng dạy. 
-Đỗ Gia Cường là thí sinh có nhiều sản phẩm dự thi nhất trong Mobile Games 2004 (3 sản phẩm). Tại khóa đào tạo này anh sẽ giới thiệu với các học viên những kiến thức và kinh nghiệm trong lập trình Games, cũng như trong sản phẩm Game Mailman đạt giải Nhất Mobile Games 2004 của mình. 
-Mobile Games 2005 là cuộc thi hàng năm do các đơn vị đồng tổ chức gồm Tạp chí Thế giới Vi tính (PC World) Việt Nam, báo Tuổi Trẻ , Công ty VMS MobiFone, Công ty Công nghệ di động FPT và nhà tài trợ là Công ty điện tử Samsung Vina. Đơn vị hỗ trợ kỹ thuật là Diễn đàn Java Việt Nam. Mục đích của chương trình là tạo một sân chơi lành mạnh cho giới trẻ yêu thích công nghệ thông tin, phát triển các trò chơi và ứng dụng cho ĐTDĐ được viết bởi người Việt Nam, đồng thời tạo cầu nối giữa ứng dụng công nghệ và thị trường. 
-Điểm mới của Mobile Games 2005 so với cuộc thi năm 2004 là các sản phẩm dự thi không chỉ bó gọn trong các trò chơi mà bao gồm cả các ứng dụng được sử dụng độc lập trên điện thoại di động. Vì thế, Mobile Games 2005 mở ra thêm nhiều cơ hội cho người tham dự với nhiều giải thưởng giá trị. 
-Cuộc thi diễn ra từ ngày 1/7/2005 và kết thúc vào ngày 15/10/2005, qua hai giai đoạn: Giai đoạn sơ kết : từ 1/7/2005 đến 15/9/2005; Giai đoạn chung kết: từ 15/9/2005 đến 15/10/2005. 
-

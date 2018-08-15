@@ -1,6 +1,0 @@
- Cảnh báo nạn “phishing” lừa đảo
-MessageLabs cho biết đến nay đã có hàng chục ngân hàng, tổ chức tài chính, mạng giao dịch trực tuyến tiếng tăm trên thế giới, thậm chí cả những website chuyên cảnh báo về nạn lừa đảo ăn cắp thông tin... trở thành mục tiêu giả mạo của phishing, trong đó có Nationwide, Barclays, Westpac, Halifax, ANZ, Citibank, HSBC... 
-Hiệp hội Chống phishing (APWG) đang cảnh báo về một chiêu mới là tội phạm sử dụng một thanh địa chỉ trình duyệt giả để hướng người dùng tới một website được thiết lập để ăn cắp mã PIN của thẻ rút tiền. Lần này là nhằm vào khách hàng của Citibank. 
-Bức thư điện tử do những kẻ lừa đảo gửi tới nạn nhân viết: “Email này được gửi đi từ máy chủ của Citibank để thẩm định địa chỉ email của bạn. Bạn phải hoàn tất thủ tục này bằng cách nhấp chuột vào đường link phía dưới và nhập số thẻ ATM/Debit của Citibank và số PIN bạn dùng trên máy rút tiền”. 
-Khi người dùng nhấn vào đường link trong bức email, trang web do tin tặc dựng lên sẽ phát hiện xem họ đang sử dụng trình duyệt gì, để rồi gạt bỏ thanh địa chỉ thật và tạo ra một thanh giả để thế chỗ. Thanh trình duyệt giả hiển thị chính xác địa chỉ của hãng đang bị mạo danh, thay vì địa chỉ của trang web lừa đảo mà người dùng đang truy cập. 
-

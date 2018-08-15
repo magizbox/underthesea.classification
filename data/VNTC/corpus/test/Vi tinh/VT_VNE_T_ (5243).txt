@@ -1,6 +1,0 @@
-Xác minh nguồn gốc SMS từ Internet (1)
-Tôi xin hỏi, có cách nào để biết đựơc ai là thủ phạm gửi tin nhắn từ mạng Internet vào máy điện thoại di động không? Ai biết mách dùm xin cám ơn.
-Việt Hà
-Hồi âm:
-Thong thuong khi tin nhan (SMS) duoc goi di thi dia chi email hay so DTDD cung duoc goi kem theo tin nhan. Nhung ngay ca khi dia chi email duoc goi kem theo tin nhan thi cung khong the xac dinh duoc ai la nguoi da goi tin nhan do vi bat cu ai cung co the tao ra duoc 1 account va su dung dia chi nay de quay pha nguoi khac. (Di nhien la dia chi nay duoc giu bi mat va khong cho nguoi khac biet).
-

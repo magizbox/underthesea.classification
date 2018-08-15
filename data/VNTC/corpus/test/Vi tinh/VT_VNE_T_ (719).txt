@@ -1,4 +1,0 @@
-Website của Đại học Huế bị đứt mạng
-Nửa tháng trở lại đây, địa chỉ www.hueuni.edu.vncủa Đại học Khoa học Huế không thể truy cập do trang web này bị sập. Sự cố đã khiến hoạt động giao dịch giữa Đại học Huế và các trường thành viên gặp khó khăn. Thông tin mùa tuyển sinh 2004 của trường cũng không đến được với thí sinh.
-Ông Nguyễn Mậu Hân, Trưởng khoa Công nghệ thông tin, cho biết có 3 nguyên nhân sập mạng là: hệ thống điện không ổn định ảnh hưởng đến các thiết bị hub và switch dùng để kết nối mạng; máy chủ của mạng từng bị sét đánh hai lần (năm 2000 và 2002) dẫn đến hư hỏng và nguyên nhân quan trọng là do bị hacker phá hoại.
-

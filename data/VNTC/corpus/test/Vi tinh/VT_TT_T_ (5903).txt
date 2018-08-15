@@ -1,8 +1,0 @@
- “Nội soi” kết quả “Alô” giữa hai mạng
-Trao đổi với Tuổi Trẻ, ông Phạm Hồng Hải - vụ trưởng Vụ Viễn thông - cho hay kết luận cuối cùng về nguyên nhân sự cố sẽ được thông báo trong tuần tới. 
-Tuy nhiên, nhằm tránh những vướng mắc kết nối trong tương lai, VNPT và Viettel đã thiện chí hợp tác bằng cách thống nhất tới đây sẽ trao đổi bảng thống kê cuộc gọi do tổng đài hai bên ghi lại theo từng tháng. Bảng thống kê này sẽ ghi lại số lượng cuộc gọi thông, cuộc gọi rớt, qua đó tìm biện pháp giải quyết nếu tỉ lệ cuộc gọi rớt dưới mức tiêu chuẩn cho phép. 
-Đây là việc làm chưa có tiền lệ trong thỏa thuận kết nối giữa hai bên thời gian qua. Ông Nguyễn Mạnh Hùng (phó tổng giám đốc Viettel) nói: “Bản chất của thỏa thuận kết nối giữa hai bên là mua bán dịch vụ. 
-Do đó, chúng tôi được quyền xem thuê bao của mạng Viettel có gọi được sang mạng VNPT hay không. Những con số cụ thể cả hai bên đều nhìn thấy nên việc xác định nguyên nhân rớt cuộc gọi sẽ dễ dàng hơn”. 
-Theo thống kê của Viettel, tỉ lệ thành công các cuộc gọi từ mạng Viettel sang VNPT thời gian qua chỉ đạt dưới 10% so với qui định là 60% (số cuộc gọi không thành công còn lại được qui định là do máy bận, máy không có người trả lời hoặc do trục trặc kỹ thuật trong tiêu chuẩn cho phép). 
-Viettel cho rằng nguyên nhân các cuộc gọi không thành công (trừ những cuộc gọi máy bận, máy không người nhận) nằm ở phía VNPT vì các cuộc gọi đó đã đi ra ngoài tổng đài của Viettel nhưng lại bị chặn ở tổng đài của VNPT nên không kết nối được tới khách hàng. 
-

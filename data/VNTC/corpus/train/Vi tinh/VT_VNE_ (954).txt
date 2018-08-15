@@ -1,6 +1,0 @@
-IBM tiếp tục mở rộng thế hệ máy chủ mới
-Big Blue hy vọng loạt máy eServer sử dụng công nghệ xử lý Power5 (p5) sẽ đánh bạt sản phẩm cạnh tranh của các đối thủ Sun và HP.
-Theo IBM, các máy chủ đời mới của họ có thể hỗ trợ trên 250 server ảo trên một máy. Dòng p5 590 mới thậm chí có tốc độ xử lý cao hơn 45% trong khi chi phí lại thấp hơn 45% so với những sản phẩm trước đó.
-Hãng máy tính khổng lồ cho biết, kiểm tra thử nghiệm benchmark cho thấy máy p5 595 có sức mạnh gấp đôi so với hoạt động của sản phẩm của Sun và HP, với hiệu suất hoạt động đạt tới 95% so với 2 đối thủ kia ở một trong những dạng kiểm tra ERP phổ biến nhất: benchmark ứng dụng phân phối và kinh doanh của hãng SAP (2 lớp).Adalio Sanchez, Tổng giám đốc bộ phận eServer pSeries của IBM, phát biểu: Các hệ thống eServer mới sử dụng công nghệ Power5 đem đến một sức mạnh hoạt động kỷ lục. Chúng cung cấp cho khách hàng một công cụ để thống nhất nhiều khối lượng công việc trên các server của Sun và HP. 
-Giữa tháng 9 vừa qua, IBM đã trình làng các sản phẩm máy chủ eServer Power5 tại Hà Nội với 3 mẫu p5 520, p5 550 và p5 570.
-

@@ -1,6 +1,0 @@
-Điện thoại di động sắp có thể chia sẻ file
-FoneShare, một ứng dụng vừa được hãng NewBay Software (Ireland) giới thiệu, có thể cho phép người dùng trao đổi nhạc chuông, hình họa, trò chơi, bài hát, video giới thiệu phim (trailer)& qua sóng liên lạc. 
-Theo Paddy Holahan, Giám đốc điều hành NewBay, FoneShare sẽ được tung ra thị trường vào năm tới dưới dạng dịch vụ thuê bao, hoạt động trên các mạng di động tư nhân. Việc chia sẻ sẽ được thực hiện qua những website do một nhà cung cấp dịch vụ không dây kiểm soát. 
-Cũng vì FoneShare chạy trên các mạng tư nhân nên việc kiểm soát bản quyền cũng có thể được đảm bảo rất chặt chẽ. Các nhà cung cấp dịch vụ viễn thông có thể dễ dàng xác định loại file nào đang được chia sẻ và thậm chí cô lập ngay những điện thoại có dấu hiệu trao đổi với dung lượng đáng ngờ.
-Cách đây 5 năm, khi người ta bắt đầu có thể thực hiện việc tự do trao đổi các nội dung có bản quyền qua Internet, ngành công nghiệp giải trí phải bước vào cuộc chiến bảo vệ tác quyền mà hiện nay vẫn còn nóng bỏng. Tuy nhiên, khi mà khả năng chia sẻ file giờ đây hướng sang điện thoại di động thay vì PC, sự phản ứng dữ dội nói trên có vẻ không còn mạnh mẽ nữa vì trên thực tế những đối tượng phản đối chia sẻ file kịch liệt nhất lại cũng là những người đi tiên phong trong việc triển khai ứng dụng chia sẻ ngang hàng (P2P) lên mobile phone. 
-

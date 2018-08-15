@@ -1,6 +1,0 @@
- Hôm nay, thử nghiệm thông mạng 096 
-Dịch vụ E-Mobie 096 được cung cấp trên tần số 450MHz với tốc độ truyền dữ liệu cao, suất đầu tư thấp nên sẽ có giá cước khá rẻ. Ông Đinh Quang Tri - Phó Tổng giám đốc Tổng công ty điện lực Việt Nam cho biết, như đã dự kiến, cước dịch vụ 096 sẽ được tính theo block 6 giây, tuy nhiên, do bắt đầu cung cấp thử nghiệm nên EVN Telecom vẫn chưa thể cung cấp được giá cước cụ thể của dịch vụ trong thời điểm này. 
-Để có thể cung cấp thử nghiệm dịch vụ, mạng 096 đã hoàn thành việc phủ sóng 64/64 tỉnh, thành trên cả nước. Các thuê bao của mạng 096 đã kết nối được với mạng 098 của Viettel và đang tiến hành thực hiện kết nối với hai mạng 090 và 091 của VNPT. Tuy nhiên, với mạng 095 S-Fone thì thời điểm này vẫn chưa kết nối được. 
-Cùng với hai dịch vụ E-Com và E-Phone, năm 2006 này, EVN Telecom dự kiến sẽ phát triển được 1.000.000 thuê bao với mức doanh thu đạt được 2.200 tỷ đồng. EVN Telecom đang khẩn trương triển khai đầu tư mở rộng mạng CDMA giai đoạn 3 để có thể lắp đặt thêm được 450 trạm BTS góp phần mở rộng vùng phủ sóng và nâng cao dung lượng mạng lên 2 triệu thuê bao. 
-Như vậy, thị trường viễn thông Việt Nam đã chính thức có 5 mạng di động trong đó có ứng dụng công nghệ GSM là 3 (VinaPhone, MobiFone, Viettel Mobile) và ứng dụng công nghệ CDMA là S-Fone và E-Mobile của EVN Telecom. 
-

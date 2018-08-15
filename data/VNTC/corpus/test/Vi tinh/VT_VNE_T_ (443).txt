@@ -1,7 +1,0 @@
-Microsoft cấp phép bản quyền từ thiện
-Hãng phần mềm vừa phát hành một giấy phép chương trình Windows 98 và Windows 2000, cho phép các tổ chức từ thiện và trường học sử dụng máy tính cũ mà không vi phạm luật bản quyền dành cho người dùng cuối.
-Gần đây, khi ngành công nghiệp phần cứng chịu áp lực về chuyện rác thải, hàng loạt PC cũ đã được đưa về phục vụ giáo dục hoặc từ thiện. Vấn đề là chúng thường đi kèm giấy phép bản quyền tập đoàn (corporate licenses), và nếu không được Microsoft đồng ý thì việc sử dụng sẽ là phạm pháp.
-Để giải quyết tình trạng này, hãng đã đưa ra chương trình Cấp phép tái sử dụng (Authorized Refurbishers), cho phép một số công ty cài đặt các bản nâng cấp Windows 98 hay Windows 2000 với mức phí nhỏ để trang trải hoạt động của chương trình.
-Trong một thông cáo đi kèm, Elena Bonfiglioli, Giám đốc bộ phận cộng đồng và xã hội của Microsoft, khẳng định chương trình này sẽ kéo dài vòng đời của máy tính và tăng cường phạm vi ứng dụng công nghệ. Nó đẩy mạnh truy cập CNTT trong trường học và trung tâm cộng đồng, đồng thời giảm thiểu tác động của phần cứng với môi trường.
-Ba năm trước, Microsoft cũng phải nhượng bộ khi định buộc một quỹ từ thiện trẻ em tại Australia mua bản quyền cho những máy tính họ quyên được. Sau đó, hãng phần mềm đã cung cấp 150 bản Windows 95 và 10 máy tính cũ như một cử chỉ thể hiện thiện chí.
-

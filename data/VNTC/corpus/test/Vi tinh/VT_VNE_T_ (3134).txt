@@ -1,7 +1,0 @@
-Công nghệ MIMO mới cho laptop Wi-Fi
-Máy tính xách tay kết nối không dây đã trở nên thông dụng trong mùa hè này, nhưng đây là lần đầu tiên công nghệ MIMO (multi-input, multi-output), giúp  tăng phạm vi và tốc độ truy cập, được tích hợp trong sản phẩm của Samsung.
-Chip MIMO có thể tăng tốc độ truyền dữ liệu trong mạng không dây lên tới 200 Mb/giây và phạm vi hoạt động là 180 đến 275 mét, trong khi phạm vi trung bình của chuẩn 802.11g (Wi-Fi) chỉ đạt từ 45 đến 90 mét với tốc độ tối đa 54 Mb/giây.
-Chip sử dụng công nghệ MIMO của hãng Airgo (Mỹ) dùng trong laptop X-20 của Samsung sử dụng hai bộ thu phát sóng radio trong khi đa phần máy tính xách tay kết nối Wi-Fi hiện nay tích hợp dòng chip Centrino của Intel với một bộ thu phát sóng vô tuyến, nhờ đó MIMO tránh được hiện tượng đứt đoạn tín hiệu.
-Đồng thời, MIMO được thiết lập dựa trên chuẩn 802.11g và 802.11b, cho phép truyền nhiều hơn hai tín hiệu mạng qua cùng một kênh vô tuyến 802.11 tại một thời điểm mà không bị nhiễu sóng. 
-Tổ chức kỹ thuật điện tử IEEE đang xúc tiến việc xem xét và thử nghiệm để phát triển MIMO trở thành chuẩn mạng không dây thế hệ mới 802.11n vào khoảng năm 2007.
-

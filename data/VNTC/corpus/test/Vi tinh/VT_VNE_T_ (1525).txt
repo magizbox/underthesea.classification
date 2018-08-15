@@ -1,7 +1,0 @@
-Thành công đầu tiên của 'Make love not spam'
-Screensaver chống spam này đã khống chế được một vài website liên quan đến những kẻ chuyên gửi thư rác, trong đó có bokwhdok.com và printmediaprofits.biz mà máy chủ đặt tại Trung Quốc.
-"Những người sử dụng screensaver 'Make love not spam' đã thành công trong việc làm sụp đổ một số trang của những kẻ chuyên gửi spam, tuy nhiên một vài site vẫn tiếp tục hoạt động được", Malte Pollmann, Giám đốc trung tâm dịch vụ thông tin của Lycos, cho biết. 
-Ngay sau khi đưa lên Internet được vài giờ, trang web giúp người sử dụng download phần mềm này đã không thể truy cập được. Tuy nhiên, phía Lycos Europe phủ nhận thông tin nói rằng site bị các hacker sử dụng phương thức DDoS đánh sập. Lý do được đưa ra là do quá tải và băng thông chậm.
-Lycos Europe, hiện đang cung cấp 49 triệu tài khoản e-mail ở 8 nước châu Âu, là một chi nhánh của công ty dịch vụ web Lycos có trụ sở tại Mỹ. Hiện tại, "Make love not spam" của hãng này đã xuất hiện dưới một hình ảnh đồ hoạ mới với tên là "Stay tuned" (tận hưởng sự hứng thú).
-Về dịch vụ chống spam của Lycos Europe, Steve Linford, Giám đốc Spamhaus, một tổ chức chống spam quốc tế, cho rằng việc tấn công băng thông của những kẻ gửi spam có thể khiến người vô tội bị oan. 
-

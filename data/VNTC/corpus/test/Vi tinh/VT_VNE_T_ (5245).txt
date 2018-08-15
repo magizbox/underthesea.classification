@@ -1,4 +1,0 @@
-Không xem được file trong thư mục được mã hoá
-Mình có 1 thư mục lưu trong ổ D có hệ thống file là NTFS và mình đã mã hoá (Encrypt) thư mục này. Khi máy mình bị lỗi mình phải cài lại hệ điều hành (cũng là Win XP), nhưng sau khi cài xong thì bản thân mình cũng không thể nào truy cập vào các file trong thư mục đó nữa. Bây giờ mình phải làm sao? Giúp mình với! Bây giờ mình rất cần các file đó.
-Hà Anh Dũng
-

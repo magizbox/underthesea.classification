@@ -1,7 +1,0 @@
-Sun sẽ cung cấp miễn phí toàn bộ phần mềm
-Jonathan Schwartz, Chủ tịch kiêm Giám đốc điều hành Sun Microsystems, khẳng định kế hoạch phát hành miễn phí tất cả các phần mềm nhằm xây dựng cộng đồng sử dụng công nghệ của hãng.
-Sun hiện nay mới chỉ cho phép người sử dụng khai thác hệ điều hành Solaris mã nguồn mở và tải công nghệ Java miễn phí.
-Janathan không nói rõ liệu hãng có tiếp tục kinh doanh phần cứng hay không, mà chỉ tuyên bố: "Chúng tôi đang cố gắng để cung cấp sản phẩm và công nghệ miễn phí". Cũng có thể Sun muốn dựa vào phần mềm để thúc đẩy doanh thu phần cứng.
-Theo kế hoạch, những sản phẩm như phần mềm trung gian Sun Java Enterprise System, hệ thống Sun Java Desktop System, gói ứng dụng văn phòng StarOffice, công cụ phát triển Sun Java Studio Creator, phần mềm quản lý dữ liệu trung tâm N1 và phần mềm lưu trữ StorEdge sẽ hoàn toàn miễn phí trong thời gian tới. 
-Hiện nay 3 tập đoàn lớn là Microsoft, Oracle và SAP đang nắm giữ tới hơn 75% lợi nhuận thu về từ phần mềm toàn cầu.
-

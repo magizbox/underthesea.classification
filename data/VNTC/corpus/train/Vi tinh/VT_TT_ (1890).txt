@@ -1,5 +1,0 @@
- F-Secure Mobile Anti-Virus cho Nokia 
-F-Secure và Nokia đã hợp tác cùng nhau trong vài năm qua để phát triển các giải pháp bảo mật chuyên dùng cho ĐTDĐ. Từ năm 2004 đến nay, các dòng sản phẩm tương tự như F-Secure Mobile Anti-Virus cũng đã được trang bị cho các ĐTDĐ thông minh của Nokia và sản phẩm vừa được tung ra có lẽ sẽ là dòng sản phẩm tốt nhất dành cho ĐTDĐ Nokia trong năm nay. 
-F-Secure Mobile Anti-Virus sẽ được cài đặt mặc định trong các ĐTDĐ Nokia N71, Nokia E60, Nokia E61 và Nokia E70 xuất xưởng trong thời gian tới. Người dùng chỉ việc lâu lâu kích hoạt dịch vụ “Antivirus Update” để cập nhật mới cho công cụ bảo mật của mình. 
-Các loại virus chuyên tấn công vào ĐTDĐ hiện nay cũng chưa nhiều lắm nên chủ nhân của những ĐTDĐ Nokia có thể yên tâm ăn no ngũ kỹ khi đã cài đặt F-Secure Mobile Anti-Virus lên máy của mình. 
-

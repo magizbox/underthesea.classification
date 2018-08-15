@@ -1,6 +1,0 @@
-Tìm ra cách ngăn ngừa mù lòa ở trẻ sinh non
-Các nhà khoa học Mỹ vừa phát hiện ra một protein đặc biệt, có thể giúp trẻ sinh non không bị khiếm thị sau khi ra khỏi lồng kính.
-Trẻ sinh non thường có nguy cơ bị nhiều khuyết tật, trong đó đặc biệt là một bệnh võng mạc gọi tắt là ROP. Trẻ bị ROP có tầm nhìn hạn chế, nhiều trường hợp dẫn đến mù lòa vĩnh viễn.
-Các nhà khoa học thuộc Đại học Texas Southwestern đã tìm thấy một protein ở chuột có tên là HIF-2. Đây là phần tử quan trọng trong cấu tạo của võng mạc, có nhiệm vụ thúc đẩy lưu thông máu và lưu chuyển oxy trong mắt.
-Theo trưởng nhóm nghiên cứu Yu-Guang He, trẻ sinh non thường được nuôi trong lồng kính trong những ngày đầu. Khi ra môi trường bên ngoài, mắt rất dễ bị tổn thương. Nguyên nhân là do protein HIF-2 bị kích hoạt bất hợp lý. Do đó, có thể ngăn ngừa tình trạng này bằng cách vô hiệu hóa protein này trước khi đưa trẻ ra môi trường oxy bình thường.
-

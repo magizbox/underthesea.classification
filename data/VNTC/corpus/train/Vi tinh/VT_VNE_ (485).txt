@@ -1,7 +1,0 @@
-Bill Gates cam kết tăng cường an ninh Windows
-Số lỗ hổng bảo mật nghiêm trọng sẽ giảm, đồng sáng lập Microsoft khẳng định với khách hàng, một ngày trước ngày Cá tháng tư.
-Tuyên bố trên đưa ra trong lá thư Gates gửi tới khách hàng. Ông giải thích sự cải thiện khâu thiết kế và kiểm tra phần mềm sẽ hạn chế số lỗi. Điều đó góp phần nâng cao an ninh Windows, bất chấp việc tấn công máy tính cá nhân vẫn dồn dập.
-Gates dẫn chứng rằng 320 ngày sau khi giới thiệu Windows Server 2003, Microsoft chỉ phải tung ra 9 thông cáo về lỗ hổng nghiêm trọng và quan trọng. Trong khoảng thời gian tương tự sau khi đưa ra Windows 2000 Server, con số là 40. Tương tự, với SQL Server 2000, có ba thông cáo xuất hiện 15 tháng sau khi phát hành bản vá lỗi Service Pack 3, so với 13 thông cáo trong 15 tháng trước đó.
-Đề cập tới một số virus nguy hại gần đây như Blaster hay MyDoom, Gates cho rằng chúng đe dọa triển vọng của công nghệ đối với hiệu quả sản xuất, thương mại và truyền thông.
-Lá thư của Gates được coi là một nỗ lực thúc đẩy phiên bản cải tiến sắp tới của Windows XP, có tên Windows XP Service Pack 2. Microsoft luôn khẳng định chương trình này sẽ an toàn hơn, nhất là khi người ta lướt web.
-

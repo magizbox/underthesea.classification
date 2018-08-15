@@ -1,9 +1,0 @@
-Lỗi khi khởi động Office (1)
-Máy tính của tôi dùng Pen IV 2,4 GHz, RAM 256 MB và đã dùng 1 năm. Gần đây, khi khởi động đến Office thì có hộp thoại sau: "The instruction at " 0x00402e80" referenced memory at "0x00a31b8c". The memory could not be "read". Click on OK to terminate the programe. Click on CENCEL to debug the programe".
-Nếu tôi bấm OK thì sẽ có một hộp thoại: Norton Antivius 2005 does not support the reapair feature, please install and reinstall. Tiếp tục OK thì sẽ có hộp sau: Runtime error 216 at 00002E80
-Nếu tôi nhấn CANCEL thì hiện ra cửa sổ sửa lỗi ...
-Kính mong mọi người cho biết cách khắc phục. Xin cảm ơn.
-Vũ Minh Anh
-Hồi âm:
-Runtime error 216 thường có liên quan đến (trojan subseven) khi nối mạng. Bạn hãy vào đây để Norton tìm dùm cho bạn link http://service1.symantec.com/SUPPORT/nav.nsf/docid/2004090712504306?OpenDocumentsrc=hotprod=Norton%20AntiVirusver=2005csm=notpre.  Nhấp phải chuột trên Automated Support Assistant chọnopen new window.. norton sẽ scan. Thứ 2, cởi bỏ phần plug-in cho office bằng cách ở nortonoptionmiscellaneousở phần "How to keep Microsoft Office documents protected" cởi bỏ dấu (unchecked) enable office plug-inOK. Có thể bạn phải cài lại norton. 
-

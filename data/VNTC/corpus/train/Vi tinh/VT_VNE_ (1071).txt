@@ -1,8 +1,0 @@
-Xây dựng Trung tâm kỹ thuật dành cho dự án 112
-Chiều nay, tại Hà Nội, công ty Intel đã ký Biên bản ghi nhớ với Ban điều hành đề án tin học hóa quản lý hành chính Nhà nước (Đề án 112), nhằm thiết lập trung tâm kỹ thuật phục vụ việc kiểm tra các giải pháp được triển khai tại VN trong lộ trình tiến lên chính phủ điện tử.
-Intel sẽ tài trợ hệ thống máy tính và máy chủ phục vụ cho hoạt động của phòng thí nghiệm và cung cấp chương trình đào tạo trên diện rộng cho nhân viên kỹ thuật tại đây. Tất cả các cơ quan của Ban điều hành đề án 112 cũng sẽ được đào tạo về công tác triển khai các giải pháp chính phủ điện tử dựa trên nền tảng kiến trúc của Intel.
-Cùng tham gia vào chương trình hỗ trợ này là Dịch vụ giải pháp Intel, một tổ chức toàn cầu của tập đoàn, chuyên hợp tác với các chính phủ, công ty có quy mô lớn, nhỏ, nhằm phân tích nhu cầu về kinh doanh điện tử, thiết bị điện toán và các yêu cầu về phần mềm của những tổ chức này để đảm bảo rằng chúng được tối ưu hóa và kiểm tra toàn diện trước khi được chính thức triển khai rộng rãi.
-Intel khẳng định không muốn tiết lộ số tiền đầu tư cho dự án này. "Tuy nhiên, tôi chắc chắn rằng đó không phải là con số nhỏ vì hệ thống máy chủ cùng các thiết bị, linh kiện trang bị cho Trung tâm đều thuộc hàng cao cấp và đắt tiền", ông Thân Trọng Phúc, Giám đốc Intel Vietnam, nói.
-Ông Vũ Đình Thuần, Trưởng ban điều hành đề án 112, bày tỏ quan điểm: "Việc kiểm tra đồng bộ tất cả các giải pháp tin học hóa đang được tiến hành tại Việt Nam và đào tạo nhân lực phục vụ là những nhân tố quan trọng để thúc đẩy chính phủ điện tử tại Việt Nam.
-Theo ông Thuần, Ban điều hành 112 sẽ triển khai các giải pháp này trong vòng từ 5 đến 7 năm tại các cơ quan của Chính phủ ở tất cả các cấp, từ Trung ương tới địa phương.
-

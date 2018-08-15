@@ -1,4 +1,0 @@
- Một HS đoạt giải nhì cuộc thi trình diễn pháo hoa ảo 
-Phần mềm mang tên Starmine Designer của Hiệu đã được thiết kế chạy trên môi trường Windows với sự hỗ trợ của các phần mềm đồ họa Photoshop, PhotoImpact. Với cuộc thi này, Hiệu đã thiết kế phần mềm trình diễn 6 loại pháo hoa, khi bắn cùng lúc có 5 màu sắc khác nhau và trong thời lượng bắn tối đa là một lần/một giây. 
-Theo thông báo của Ban tổ chức qua email, đây là một học sinh đầu tiên của Việt Nam tham gia cuộc thi này và đoạt giải cao (chỉ có một giải nhất, hai giải nhì và 5 giải khuyến khích). Cuộc thi được tổ chức từ tháng 2 - 3.2004 trên trang web của TP Nagaoka. 
-

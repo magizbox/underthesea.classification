@@ -1,8 +1,0 @@
- Đồng hồ kiêm PDA
-Loại đồng hồ này giúp người dùng thiết lập thông tin cá nhân linh động hơn. Mặt đồng hồ có thể tùy biến theo phong cách cá nhân của khách hàng, trong khi đó bộ nhớ cho phép lưu hàng trăm địa chỉ và lịch hẹn, bản ghi nhớ, các ứng dụng Palm OS thuộc nhóm thứ ba và hơn thế nữa. 
-David Nagel, chủ tịch điều hành Palm Source, cho biết “Wrist PDA của Fossil giới thiệu khả năng và tính mềm dẻo của nền tảng hệ điều hành Palm và cung cấp cho người dùng một biện pháp tuyệt hay để giữ kết nối trong khi di chuyển.” 
-Frank Romero, giám đốc kỹ thuật sản phẩm của Fossil, phát biểu “Sản phẩm này làm thay đổi phong cách sử dụng các thiết bị Palm OS, đồng thời cung cấp cho người sử dụng khả năng truy cập thông tin cá nhân của họ chỉ bằng việc đơn giản là mang một cái đồng hồ”. 
-Wrist PDA gồm có màn hình LCD xám 160x160 pixel với màn hình cảm ứng và đèn nền, một cây bút (stylus) được tích hợp vào trong cái khóa đồng hồ, trong khi đó nút bấm Rocker ba hướng và nút bấm Back cho phép sử dụng một tay để điều khiển. 
-Nó cũng có khả năng truyền dữ liệu đến thiết bị Palm khác qua cổng hồng ngoại. Những tính năng khác gồm có USB HotSync hỗ trợ cho Mac OS và Windows. Pin lithium-ion có thể nạp lại sau khoảng chừng 3-4 ngày sử dụng. 
-Wrist PDA có hai nhãn hiệu khác nhau, Fossil và Abacus, và vỏ có màu thép sáng và dây đeo bằng da thuộc màu đen. Đồng hồ PDA Fossil vỏ thép và dây đeo da màu đen có giá 249 đôla trong khi Abacus có dây đeo bằng cao su có bịt da giá 199 đôla. 
-

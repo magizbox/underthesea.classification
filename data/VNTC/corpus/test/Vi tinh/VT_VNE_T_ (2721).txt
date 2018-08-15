@@ -1,9 +1,0 @@
-Hơn 2.500 web server bị tấn công mỗi ngày
-Kết quả điều tra của mạng tin an ninh Zone-H cho thấy số máy chủ web bị hack và website bị xóa sổ đã tăng 36% trong suốt năm 2004 với gần 400.000 vụ tấn công xảy ra. 
-Trong số đó, có tới 49 vụ đột nhập vào máy chủ quân đội Mỹ và vô số website của các tổ chức bị đánh sập. Giáng sinh được coi là thời điểm "nở rộ" của các vụ tấn công quy mô lớn.
-Nhìn chung, hacker thường xâm nhập vào trang web, lấy hoặc thay đổi thông tin trong đó, rồi trưng lên giao diện trang chủ thông báo rằng "Bạn đã bị hack" hoặc "Trang web này giờ dưới quyền quản lý của...".
-55% vụ đột nhập thành công nhờ khai thác rệp điện tử, lỗ hổng hay lỗi quản trị. Các cuộc tấn công thường diễn ra ngay sau khi nhà sản xuất công bố sự tồn tại của các lỗ hổng. Tuy nhiên, trong nhiều trường hợp, hacker đã khai thác và trao đổi ngầm với nhau về lỗi trong phần mềm từ lâu trước khi chúng được những nhà điều hành website phát hiện và đưa ra lời cảnh báo.
-Lỗi quản trị thường là do mật khẩu quá dễ đoán hoặc dễ crack. Bên cạnh đó, nhiều nhà quản trị mạng quên hoặc không hề biết đến những bộ phận không còn được sử dụng nhưng vẫn tồn tại trong hệ thống, mở đường cho hacker đột nhập.
-Thống kê cũng cho thấy đa số các nhóm hacker tấn công chỉ để mua vui, một vài người muốn lập kỷ lục hay tạo tiếng vang khi thâm nhập thành công vào những site quan trọng. Rất ít vụ tấn công được thực hiện vì mục đích chính trị, mặc dù nhiều trang web của cả hai phe Mỹ và Hồi giáo đã bị xóa sổ trong suốt cuộc chiến Iraq.
-Kết quả điều tra của Zone-H được công bố vào dịp khai mạc hội nghị Thông tin an ninh Châu Âu, diễn ra tại London từ 26 đến 28/4/05.
-

@@ -1,6 +1,0 @@
-Có thể đổi tiền polymer rách, hỏng
-Theo hướng dẫn mới ban hành của Ngân hàng Nhà nước, đồng tiền sẽ được chấp nhận đổi nếu bị co lại do tiếp xúc với nguồn nhiệt cao, không phải do hành vi hủy hoại và có diện tích tối thiểu bằng 50% diện tích của tờ tiền cùng loại.
-Ngoài ra, đồng tiền bị hỏng đó phải đảm bảo còn nhận biết được các yếu tố hình ẩn trong cửa sổ nhỏ, mực không màu phát quang, phát quang hai hàng số seri.
-Trường hợp diện tích tờ tiền co lại nhỏ hơn 50% hoặc không nhận biết được các yếu tố đã nêu trên thì đơn vị đổi tiền lập biên bản tạm giữ và gửi hiện vật về Cục Phát hành và Kho quỹ Ngân hàng Nhà nước để giám định tiền thật, tiền giả. Nếu là thật, tờ tiền sẽ được thu đổi theo quy định. Ngược lại, sẽ bị xử lý theo quy định đối với tiền giá nếu không phải do Ngân hàng Nhà nước phát hành.
-Nếu nghi ngờ do hành vi huỷ hoại đồng tiền, các tổ chức tín dụng sẽ thu hồi và xử lý theo quy định hiện hành. Các trường hợp tiền polymer không đủ tiêu chuẩn lưu thông do quá trình lưu thông và bảo quản sẽ được xem xét đổi như với tiền giấy thông thường.
-

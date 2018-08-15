@@ -1,6 +1,0 @@
-Avantis - phần mềm quản lý tài sản đầu tiên tại VN
-Phần mềm ứng dụng đối với lĩnh vực quản lý tài sản của doanh nghiệp mang tên Avantis vừa chính thức được tung ra thị trường. Đây là sản phẩm mới nhất của Công ty Invensys (Mỹ) lần đầu tiên xuất hiện ở Việt Nam.
-Theo công ty Cổ phần tin học Lạc Việt, đơn vị phân phối độc quyền, với giá khoảng 3.000 USD, phần mềm Avantis thường được dùng cho các đơn vị có giá trị tài sản hơn 1 triệu USD. 
-Phần mềm này sẽ giúp quản lý tất cả các vị trí lao động trong một đơn vị, như thợ sửa chữa, vận hành thiết bị, lập kế hoạch bảo trì, quản lý kho, quản lý mua hàng&và cả chủ doanh nghiệp. Điều này giúp doanh nghiệp sử dụng tối ưu chi phí sở hữu tài sản, từ đó nâng cao được sức cạnh tranh. 
-Hiện nhiều nước trên thế giới đã ưng dung công nghê thông tin vao quan ly với các nhóm phần mềm tin học phổ biến là ERP (Enterprise Resource Planning), EAM (Enterprise Asset Management) hay CMMS (Computerised Maintenance Management Systems)& 
-

@@ -1,9 +1,0 @@
-Office 12 sẽ hỗ trợ PDF
-Gói ứng dụng văn phòng mới của Microsoft, dự kiến ra mắt nửa sau 2006, sẽ cho phép người sử dụng chuyển đổi tài liệu Office sang PDF. Tuy nhiên, họ sẽ vẫn phải cài thêm một phần mềm riêng để đọc định dạng file này.
-Việc hỗ trợ PDF sẽ thực hiện trong Word, Excel, PowerPoint, Access, Publisher, OneNote, Visio và InfoPath.
-"Chúng tôi đã nhận được nhiều phản hồi rằng việc chia sẻ tài liệu giữa các nền tảng với nhau và khả năng lưu trữ lâu dài là đặc biệt quan trọng với người sử dụng", Brian Jones, Giám đốc quản lý chương trình Microsoft Office, cho biết. "Mỗi tháng có đến 120.000 ý kiến liên quan đến tính năng PDF trong Office. 
-Microsoft tỏ ra khá hờ hững trong khi các đối thủ của họ như Corel với WordPerfect Office, Sun với StarOffice& đã tích hợp PDF từ lâu. Công ty của tỷ phú Bill Gates chỉ bắt đầu nhận thấy tầm quan trọng của việc hỗ trợ nhiều định dạng tài liệu sau khi bang Massachusetts (Mỹ), khách hàng quan trọng của họ, quyết định chuyển sang OpenDocument trong các ứng dụng desktop. PDF của Adobe cũng được coi là định dạng "open" (mở).
-Dù Microsoft để mắt tới PDF, họ vẫn đang tiếp tục phát triển một định dạng tài liệu mới, mang tên Metro, với nhiều tính năng tương tự sản phẩm của Adobe, dự kiến ra mắt vào cuối năm sau cùng Windows Vista.
-"Tuyên bố của Microsoft chính là một 'chứng chỉ' cho thấy PDF là định dạng cơ sở của khách hàng trong công việc văn phòng", Pam Deziel, Giám đốc nền tảng của Adobe, tán thành quyết định mới của hãng phần mềm. Tuy nhiên, Deziel cũng thừa nhận Microsoft sẽ vừa là đối tác chủ chốt, vừa là đối thủ cạnh tranh đáng gờm.
-Tập đoàn phần mềm lớn nhất thế giới sẽ phát hành bản Beta Office 12 cho số lượng người thử nghiệm hạn chế vào tháng tới. Đăng ký để nhận thư mời dùng thử gói ứng dụng này tại đây.
-

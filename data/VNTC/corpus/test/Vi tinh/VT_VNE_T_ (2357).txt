@@ -1,5 +1,0 @@
-Hacker có thể tấn công thiết bị Bluetooth cách 1 km
-Chuẩn kết nối không dây này hóa ra có nguy cơ bảo mật lớn hơn mức độ nhiều người từng nghĩ sau khi các chuyên gia an ninh giới thiệu một thiết bị có khả năng bắt đường truyền trong khoảng cách lên tới 1 km.
-Công cụ có tên BlueSniper (vì mang hình dáng như một khẩu súng bắn tỉa) bao gồm một ăng ten gắn trên giá đỡ gấp, kèm theo module thu phát sóng Bluetooth và bộ vi xử lý gắn sẵn. Tổ hợp này còn có thể được gắn vào máy tính xách tay. Với công cụ này, người ta hoàn toàn có thể phát hiện bất cứ một thiết bị Bluetooth nào khi người sử dụng đi qua vùng quét, John Hering, chuyên gia bảo mật không dây của hãng Flexilis và là tác giả của sản phẩm nói trên, cho biết. Chỉ trong vài phút khi thử nghiệm, 20 thiết bị đã được phát hiện ở mọi ví trí trong phạm vi trên dưới 1 km.
-BlueSniper được phát triển từ một công cụ hack Bluetooth mà công ty Flexilis đã đem ra giới thiệu tại triển lãm DefCon năm ngoái. Một tổ chức có tên Hiệp hội những người quan tâm đặc biệt đến Bluetooth, bao gồm nhiều nhà phát triển và hãng sản xuất thiết bị, tháng Giêng năm nay cũng công bố một báo cáo về tình hình an ninh Bluetooth.
-

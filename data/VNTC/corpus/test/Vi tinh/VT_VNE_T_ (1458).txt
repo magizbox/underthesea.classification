@@ -1,6 +1,0 @@
-Đặt password cho folder trên LAN (1)
-Tôi muốn hỏi về cách cài đặt Password cho một folder được share trên mạng LAN. Tôi cần tiến hành những bước nào? Xin cảm ơn.
-Huyen Nguyen
-Hồi âm:
-Chao ban, khi share folder thuong admin cho permission toi nhung nguoi duoc xem folder do. vi vay neu ban khong muon cho nguoi nao xem thi chi can lay permit cua user do la xong. Hy vong tra loi duoc cau hoi cua ban. 
-

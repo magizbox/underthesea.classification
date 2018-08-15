@@ -1,8 +1,0 @@
-Intel phát hành chip Xeon lõi kép dành cho máy chủ
-Sớm hơn vài tháng theo kế hoạch nhưng vẫn chậm nửa năm so với đối thủ cạnh tranh AMD, hãng sản xuất chip số một thế giới hôm qua đã xuất xưởng thiết bị xử lý máy chủ đầu tiên với hai lõi trên cùng một chip đơn.
-Shannon Poulin, Giám đốc tiếp thị sản phẩm của Intel, cho biết bộ xử lý Xeon mới, cải thiện 50% khả năng vận hành so với hai chip đơn lõi, sẽ ra mắt với hai phiên bản. Bản đầu có tốc độ 2,8 GHz và đang được một số hãng máy tính như HP phân phối. Trong khi đó, chip Paxville 3,0 GHz sẽ ra mắt trong vòng 2 tháng tới.
-Intel dự định cung cấp Xeon lõi kép từ đầu năm nay nhưng cuối cùng hoãn lại do muốn "thiết kế tỉ mỉ hơn". Tuy vậy, AMD cho rằng đối thủ lớn nhất của họ đang vấp phải sự cạnh tranh gay gắt: "Chúng tôi đã yên vị trên ghế và sẵn sàng đón chào họ tham gia vào bữa tiệc mà công ty đã tổ chức từ hồi tháng 4", Patrick Patla, Giám đốc thị trường máy chủ của AMD, nói.
-Cả Intel và AMD đều đã phát hành thiết bị xử lý lõi kép trong năm nay nhằm tăng khả năng vận hành nhưng vẫn giảm mức tiêu hao năng lượng. Hãng chip thứ hai thế giới ngay từ đầu đã tập trung vào server trong khi Intel khởi động vớimáy để bàn. Theo đó, Xeon thế hệ mới xuất hiện chậm hơn tới 6 tháng so với Opteron lõi kép. Điều này đã giúp thị phần của AMD tăng từ 7,4% quý I lên 11,2% trong quý II.
-Hiện nay, Intel vẫn chiếm 88,8% thị trường máy chủ dùng nền x86. Tập đoàn này cũng dự định phát hành thiết bị với giá ngang bằng hoặc thấp hơn chip máy chủ đơn lõi. Xeon mới được bán ra với giá 1.043 USD/sản phẩm.
-Tương tự trường hợp thiết bị xử lý lõi kép cho máy để bàn, Patla cho rằng AMD ngay từ đầu đã xây dựng chip trên công nghệ lõi kép, còn Intel chỉ lấy những sản phẩm đã có và ghép chúng lại với nhau.
-
