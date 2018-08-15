@@ -1,6 +1,5 @@
 import os
 from os import listdir
-# noinspection PyUnresolvedReferences
 from os.path import join
 
 
