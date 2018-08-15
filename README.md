@@ -10,7 +10,6 @@ This repository contains experiments in *Vietnamese Text Classification* problem
 * [2. Usage](#2-usage)
   * [2.1 Using a pretrained model](#21-using-a-pretrained-model)
   * [2.2 Train a new dataset](#22-train-a-new-dataset)
-  * [2.3 Sharing a model](#23-sharing-a-model)
 * [3. References](#3-references)
 
 ## 1. Installation
@@ -18,7 +17,7 @@ This repository contains experiments in *Vietnamese Text Classification* problem
 ### 1.1 Requirements
 
 * `Operating Systems: Linux (Ubuntu, CentOS), Mac`
-* `Python 3.5+`
+* `Python 3.6+`
 * `conda 4+`
 
 Python Packages
@@ -38,20 +37,23 @@ Create environment and install requirements
 
 ```
 $ cd ner
-$ conda create -n classification python=3.5
+$ conda create -n classification python=3.6
 $ pip install -r requirements.txt
 ```
 
 ## 2. Usage
 
-### 2.1 Using a pretrained model
+Make sure you are in `classification` folder and activate `classification` environment
 
 ```
 $ cd classification
 $ source activate classification
 ```
 
-To predict label for a text
+### 2.1 Using a pretrained model
+
+
+To predict label for a sentence
 
 ```
 $ python classification.py "Tái phát chấn thương, Neymar không thể tập luyện"
@@ -62,7 +64,7 @@ To predict labels for a file, use option `--fin` and `--fout`
 
 ```
 $ python classification.py \
-    --fin tmp/vntc_test.txt \
+    --fin tmp/input.txt \
     --fout tmp/output.txt
 ```
 
@@ -70,7 +72,18 @@ $ python classification.py \
 
 **Prepare a new dataset**
 
-To be updated
+Convert your dataset to [Underthesea Text Classification Data Format](https://github.com/undertheseanlp/classification/blob/master/data_format.md)
+
+Example
+
+```
+__label__giao_duc Bất ngờ tranh luận quanh bìa SGK Lịch sử lớp 7 có hình Vạn Lý Trường Thành
+__label__giao_duc Tuyển sinh lớp 10 năm 2019 của Hà Nội: Chọn phương án nào hữu hiệu?
+__label__giao_duc Hơn 122.000 giáo viên mầm non nghỉ công tác chưa được hưởng chế độ
+__label__the_thao Báo chí Đông Nam Á hết mực khen ngợi Olympic Việt Nam
+__label__the_thao “Không nên để Công Phượng tiếp tục đá phạt đền!”
+__label__the_thao Chia tay Tottenham, ngôi sao Son Heung-min về thi đấu ở Asiad 2018
+```
 
 **Train and test**
 
@@ -91,13 +104,7 @@ $ python train.py --mode train \
      --train data/VNTC/corpus/train \
      --s tmp/model.bin 
 ```
-### 2.3 Sharing a model
-
-To be updated
 
 ## 3. References
 
-* Detail Reports, [link](https://docs.google.com/spreadsheets/d/1PUnNBVywHbG4fpqSzBAV6jPWFNOKaiIQEKWM-W2mxiE/edit?usp=sharing)
-* Vietnamese Text Classification publications, [link](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#text-classification)
-
-Last update: 05/2018
+Last update: 08/2018
