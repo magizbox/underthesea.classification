@@ -15,3 +15,4 @@ six==1.10.0
 sklearn==0.0
 xlrd==1.1.0
 languageflow>=1.1.8a1
+underthesea==1.1.8
