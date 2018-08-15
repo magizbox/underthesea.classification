@@ -1,2 +1,0 @@
-Dùng trí tuệ nhân tạo để tìm công thức nấu ăn chỉ từ bức ảnh
-Thuật toán Pic2Recipe có thể cung cấp cho bạn công thức nấu ăn chỉ từ một bức ảnh, đó là nghiên cứu của các nhà khoa học tại MIT, đại học Bách khoa Catalonia và Viện Nghiên cứu Máy tính Qatar.

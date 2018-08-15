@@ -1,2 +1,0 @@
-Nguy cơ tin tặc lấy mật khẩu người dùng bằng sóng não
-Các tin tặc có thể đoán được mật khẩu của người sử dụng bằng cách đọc các sóng não của họ thông qua tai nghe EEG.

@@ -1,2 +1,0 @@
-Hơn 100 ứng dụng từ Google Play Store đang chứa mã độc
-Hãng nghiên cứu bảo mật Palo Alto Networks vừa phát hiện 132 ứng dụng đang có trên Play Store của Google, có chứa mã độc hại được thiết kế tấn công máy tính Windows.

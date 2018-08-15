@@ -1,2 +1,0 @@
-Đã hiểu được cơ chế điều tiết lưu lượng máu trong não
-Trong công trình nghiên cứu công bố trên tạp chí khoa học Biomedical Signal Processing and Control, các nhà khoa học thông báo họ đã phát hiện ra cách cơ thể điều chỉnh lưu lượng máu trong não.

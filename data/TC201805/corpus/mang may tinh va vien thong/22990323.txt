@@ -1,2 +1,0 @@
-Thiết bị công nghệ quản lý và nhận dạng vật nuôi
-Anitar Bullet là một giải pháp sử dụng công nghệ RFID, kết nối người chăn nuôi và các cơ sở dữ liệu khác nhau giúp theo dõi, đăng ký và nhận dạng các vật nuôi trong một khoảng thời gian ngắn nhờ điện thoại thông minh.

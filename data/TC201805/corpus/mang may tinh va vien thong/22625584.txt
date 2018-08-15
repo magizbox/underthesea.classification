@@ -1,2 +1,0 @@
-Hướng dẫn kiểm tra ứng dụng Windows 10 đã có bản cập nhật hay chưa
-Nếu chúng ta kiểm tra xem ứng dụng Windows 10 đã có bản cập nhật hay chưa bằng cách mở lại từng ứng dụng trên Store thì có lẽ quá mất thời gian.

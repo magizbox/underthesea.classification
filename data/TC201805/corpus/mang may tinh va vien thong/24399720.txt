@@ -1,2 +1,0 @@
-Có thể đánh lừa hệ thống nhận diện khuôn mặt Windows 10 với một tấm ảnh
-Windows Hello, tính năng bảo mật thông qua nhận diện khuôn mặt của Windows 10 có thể bị đánh bại với một tấm ảnh in ra từ máy in thường.

@@ -1,2 +1,0 @@
-Intel xác nhận lỗ hổng bảo mật trong chip máy tính
-Intel đã xác nhận về lỗ hổng an ninh trong các chip của hãng này, cho phép tin tặc tiếp cận thông tin được lưu trữ trong hầu hết các hệ thống máy tính hiện đại.

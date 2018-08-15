@@ -1,2 +1,0 @@
-Bài toán mở đường bay
-Với mục đích đầu tiên là thúc đẩy du lịch, ngày càng nhiều địa phương mời gọi doanh nghiệp mở đường bay mới, thậm chí địa phương còn chấp nhận bù lỗ cho doanh nghiệp trong thời gian đầu khai thác đường bay. Tuy nhiên, chưa có nhiều doanh nghiệp tham gia hoạt động này.

@@ -1,2 +1,0 @@
-Khắc phục sự cố màn hình cảm ứng không làm việc trên Windows
-Trong quá trình sử dụng, đôi khi bạn gặp sự cố màn hình cảm ứng không thể làm việc. Nếu khởi động lại mà vẫn không khắc phục được thì có thể xem trong bài viết.

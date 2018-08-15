@@ -1,2 +1,0 @@
-60% các cuộc tấn công IoT xuất phát từ châu Á
-Theo báo cáo mới đây của Dimension Data và NTT Security 2017, trong toàn bộ các cuộc tấn công IoT có 60% xuất phát từ châu Á, 21% từ các nước khu vực châu Âu, Trung Đông và châu Phi và 19% còn lại xuất phát từ các nước châu Mỹ.

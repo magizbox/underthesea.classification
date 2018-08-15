@@ -1,2 +1,0 @@
-Thiết bị cho phép máy giặt giao tiếp với người khiếm thị
-Talking Laundry được tạo ra để giúp người khiếm thị có thể vận hành các loại máy giặt, máy sấy một cách đơn giản bằng âm thanh.

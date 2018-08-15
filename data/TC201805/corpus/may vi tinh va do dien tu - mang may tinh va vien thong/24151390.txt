@@ -1,2 +1,0 @@
-Vi khuẩn lam có thể cấp điện cho thiết bị điện tử nhỏ
-Các nhà nghiên cứu đã in phun một loại 'mực sinh học' từ vi khuẩn lam lên một bề mặt dẫn điện để tạo thành một dạng pin quang điện sinh học (biophotovoltaic cell). Không giống như những loại pin thông thường, pin làm từ vi khuẩn tảo lam có thể phát điện trong cả bóng tối và ánh sáng nên được kỳ vọng sẽ trở thành loại nguồn cấp năng lượng thân thiện với môi trường cho các thiết bị ít tiêu tốn điện năng như các cảm biến sinh học, và thậm chí có thể in thành một loại giấy dán tường năng lượng sinh học.

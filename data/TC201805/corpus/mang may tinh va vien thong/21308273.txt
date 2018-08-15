@@ -1,2 +1,0 @@
-Google Go là ngôn ngữ lập trình phổ biến nhất năm 2016
-Theo TIOBE, tổ chức chuyên xếp hạng mức độ phổ biến của các ngôn ngữ lập trình, thì Go là ngôn ngữ lập trình của năm 2016.

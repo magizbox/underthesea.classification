@@ -1,2 +1,0 @@
-Hướng dẫn tắt ứng dụng chạy ngầm trên Windows 10 bằng một cú click chuột
-Tất nhiên Windows 10 cũng có mục riêng để tắt các ứng dụng chạy ngầm, nhưng bài viết này sẽ chia sẻ thêm cách tắt toàn bộ một cách nhanh chóng chỉ với một cú click.

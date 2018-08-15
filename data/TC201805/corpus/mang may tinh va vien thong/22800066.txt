@@ -1,2 +1,0 @@
-IBM Z mainframe: siêu máy tính mã hóa giao dịch, ngăn chặn tấn công mạng
-Mẫu máy tính IBM Z mainframe phiên bản mới vừa ra mắt của IBM có thể xử lý tới hơn 12 tỷ giao dịch mã hóa mỗi ngày.

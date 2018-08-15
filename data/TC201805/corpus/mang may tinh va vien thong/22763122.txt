@@ -1,2 +1,0 @@
-Makeapp: Ứng dụng vạch trần khuôn mặt trên mạng xã hội
-Makeapp là một ứng dụng chỉnh sửa ảnh vừa có thể giúp người dùng trang điểm, vừa có thể phát hiện ra những ai "thích sống ảo" trên mạng xã hội bằng việc tiết lộ khuôn mặt thật.

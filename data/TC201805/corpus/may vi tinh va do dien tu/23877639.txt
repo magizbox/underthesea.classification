@@ -1,2 +1,0 @@
-iPhone X ngừng nhận dạng khuôn mặt khi pin dưới 10%
-Tính năng bảo mật Face ID có thể sẽ dừng hoạt động khi pin trên điện thoại mới của Apple xuống dưới mức 10%.

@@ -1,2 +1,0 @@
-Cách khai thác tính năng chạy nhiều ứng dụng cùng lúc trên iPad
-Tính năng đa nhiệm mới trên iOS 11 làm cho iPad trở nên mạnh mẽ hơn. Bạn có thể khởi chạy ứng dụng trong chế độ chia màn hình, kéo và thả để di chuyển nội dung giữa các ứng dụng.

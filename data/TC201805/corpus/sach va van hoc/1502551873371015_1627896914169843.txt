@@ -1,6 +1,0 @@
-" Những ngày tiếp theo đó, Jonathan nhận ra rằng nơi này cũng có rất nhiều điều để học hỏi về bay lượn giống như quãng đời trước kia của chú. Những con chim mòng biển ở đây có cùng suy nghĩ như chú. Đối với mỗi người bọn họ, điều quan trọng nhất trong đời là nỗ lực đạt đến sự hoàn mỹ trong việc họ yêu thích nhất, và việc đó chính là bay lượn. Họ là những con chim tuyệt vời, tất cả bọn họ, và họ dành hàng giờ mỗi ngày để tập bay, để thử nghiệm những kỹ thuật bay cao cấp. "
-
-[ Trích: Chuyện chú chim mòng biển Jonathan tập bay ]
-
-Tác giả: Richard Bach
-Admin: Hạ Phong

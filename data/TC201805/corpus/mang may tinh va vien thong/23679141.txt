@@ -1,2 +1,0 @@
-Sự phát triển điện toán đám mây Azure ở Việt Nam
-Mặc dù còn chưa thực sự phát triển và vướng mắc bởi nhiều nguyên nhân khách quan, song có thể thấy được tương lai của dịch vụ điện toán đám mây nói chung và của Microsoft Azure nói riêng tại thị trường Việt Nam.

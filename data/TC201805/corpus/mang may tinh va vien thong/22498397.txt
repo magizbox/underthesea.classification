@@ -1,2 +1,0 @@
-Cảnh báo PowerPoint cài đặt phần mềm độc hại không cần macro
-Một cuộc tấn công kỹ thuật số mới vừa được phát hiện, không đòi hỏi người dùng phải bật macro trong ứng dụng Office của Microsoft mà dựa vào lệnh PowerShell trong tập tin PowerPoint (PPT).

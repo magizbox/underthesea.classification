@@ -1,4 +1,0 @@
-“ Không phải mọi thứ có giá trị đều đo đếm được và không phải mọi thứ đo đếm được đều có giá trị. ”
-
-Tác giả: Albert Einstein
-Admin: Hạ Phong

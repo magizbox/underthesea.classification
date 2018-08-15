@@ -1,2 +1,0 @@
-Chớ phạm 8 lỗi phong thủy này khi cải tạo nhà kẻo 'hối không kịp'
-Mắc lỗi phong thủy khi cải tạo nhà có thể làm thay đổi nguồn năng lượng trong ngôi nhà của bạn.

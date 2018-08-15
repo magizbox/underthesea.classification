@@ -1,2 +1,0 @@
-Dùng giọng nói để tìm sách trong thư viện
-Có thể trong tương lai không xa, chỉ cần ra lệnh bạn sẽ tìm được cuốn sách mà mình yêu thích trong vô vàn cuốn sách ở thư viện.

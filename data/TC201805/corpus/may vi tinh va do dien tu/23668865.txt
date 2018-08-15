@@ -1,2 +1,0 @@
-Adobe hé lộ công nghệ AI biến ảnh đen trắng thành ảnh màu
-Nhờ ứng dụng deep learning (tạm dịch là 'học sâu'), công cụ Scribbler vừa ra mắt của Adobe có thể nhanh chóng biến một bức ảnh đen trắng thành ảnh màu với độ chính xác ấn tượng.

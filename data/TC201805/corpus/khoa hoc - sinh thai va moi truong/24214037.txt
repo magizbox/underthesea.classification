@@ -1,2 +1,0 @@
-Saffir-Simpson - Thang đo sức mạnh của bão tố
-Sức mạnh và khả năng hủy diệt của một cơn bão được đo bằng thang sức gió Saffir-Simpson, thang này xếp hạng các cơn bão từ 1 đến 5 căn cứ theo sức gió mạnh nhất và tiềm năng gây thiệt hại.

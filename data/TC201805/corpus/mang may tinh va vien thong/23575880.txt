@@ -1,2 +1,0 @@
-Cách kiểm soát thiết bị smarthome với Cortana trên Windows 10
-Microsoft đã bổ sung khả năng hỗ trợ điều khiển bằng giọng nói Cortana cho các thiết bị smarthome như Philips Hue, Samsung SmartThings, Nest, Insteon và Wink, khi cho phép bạn kiểm soát chúng ngay từ máy tính của mình.

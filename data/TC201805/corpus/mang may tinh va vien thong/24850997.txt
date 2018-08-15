@@ -1,2 +1,0 @@
-Booking.com 'tuồn' thông tin thẻ tín dụng của khách hàng cho khách sạn thế nào?
-Booking.com, một ứng dụng đặt phòng online thừa nhận việc gửi toàn bộ thông tin thẻ tín dụng của khách hàng cho khách sạn.

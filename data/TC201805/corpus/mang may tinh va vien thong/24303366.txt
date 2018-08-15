@@ -1,2 +1,0 @@
-Sửa lỗi iPhone không thông báo khi có email mới
-Dạo gần đây có khá nhiều người dùng than phiền rằng iPhone của họ không tự động cập nhật email mới, thậm chí ngay cả khi có thư đến thì ứng dụng cũng không hề thông báo. Làm thế nào để khắc phục tình trạng trên?

@@ -1,2 +1,0 @@
-Bắt YouTube dừng phát video khi chuyển tab
-Với tiện ích được giới thiệu bởi AddictiveTips, bạn không cần phải thực hiện thao tác tạm dừng hoặc phát video thủ công khi cần chuyển sang tab khác. Mọi thứ sẽ diễn ra hoàn toàn tự động.

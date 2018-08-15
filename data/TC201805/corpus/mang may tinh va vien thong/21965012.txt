@@ -1,2 +1,0 @@
-Phát hiện phần mềm độc hại ATMitch sau hàng loạt vụ đánh cắp tiền từ máy ATM
-Hãng bảo mật Kaspersky đã phát hiện ra một loại phần mềm độc hại, được tin tặc sử dụng nhằm đánh cắp tiền từ máy ATM mà không để lại dấu vết gian lận.

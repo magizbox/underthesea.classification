@@ -1,2 +1,0 @@
-Thiết bị cấp phiếu giữ xe cầm tay
-Thiết bị cấp phiếu giữ xe cầm tay sử dụng công nghệ RFID (truyền dữ liệu không dây ở cự ly ngắn) do thạc sĩ Trần Lê Thăng Đồng (chủ nhiệm đề tài) cùng nhóm cộng sự đến từ Trường Đại học Duy Tân, Đà Nẵng nghiên cứu, sáng chế và hoàn thiện.

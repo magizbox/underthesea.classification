@@ -1,2 +1,0 @@
-Cách biến MacBook thành điểm phát Wi-Fi
-Máy tính Mac của bạn có thể đóng vai trò như một điểm phát Wi-Fi (Wi-Fi hotspot), cho phép bạn kết nối các thiết bị khác vào nó và chia sẻ kết nối Internet của nó với các thiết bị đó. Việc này tương tự như việc bạn chia sẻ kết nối 3G/4G (tether) trên điện thoại của bạn.

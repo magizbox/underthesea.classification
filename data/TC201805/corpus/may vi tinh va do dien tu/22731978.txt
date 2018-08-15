@@ -1,2 +1,0 @@
-Tính năng khẩn cấp chống malware trên Android 7.1
-Bản nâng cấp mới nhất dành cho smartphone chạy trên nền tảng hệ điều hành Android được tích hợp chức năng đặc biệt chống malware hữu hiệu.

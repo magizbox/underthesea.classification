@@ -1,2 +1,0 @@
-Hướng dẫn khắc phục lỗi hao pin trên iOS 11
-Bật chế độ tiết kiệm pin, tắt ứng dụng chạy ngầm hay thay pin cho máy đã cũ là những cách kéo dài thời gian sử dụng pin iPhone, iPad.

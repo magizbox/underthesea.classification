@@ -1,2 +1,0 @@
-Vạch nhiễu tìm thù và phương pháp bắn 3 điểm
-Do dải nhiễu của B-52 kéo dài đến 25 km và dày đặc ở khu vực mục tiêu, do đó, nếu chế độ tự dẫn được bật muộn hơn 8 km, hiệu suất theo bám mục tiêu bị giảm đáng kể, nếu khoảng cách bật chế độ tự dẫn tên lửa lớn hơn 15 km, tên lửa sẽ bị ảnh hưởng bởi nhiễu thụ động, kết quả tiêu diệt mục tiêu bằng 0.

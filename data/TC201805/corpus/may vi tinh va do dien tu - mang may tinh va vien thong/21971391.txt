@@ -1,2 +1,0 @@
-Đã có thể dự báo đỉnh mặn tại Cà Mau
-Dự báo đỉnh mặn tại các trạm đo chính của tỉnh Cà Mau bằng mô hình chuỗi thời gian mờ là đề tài nghiên cứu của các tác giả Dương Tôn Đảm, ĐH công nghệ thông tin TP.HCM, Võ Văn Tài, Phạm Minh Trực, ĐH Cần Thơ và Đặng Kiên Cường, ĐH nông lâm TP.HCM.

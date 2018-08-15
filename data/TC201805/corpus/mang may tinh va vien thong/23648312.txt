@@ -1,2 +1,0 @@
-Cách chặn yêu cầu đánh giá ứng dụng trên iPhone, iPad
-Nếu không thích các thông báo yêu cầu đánh giá ứng dụng trên iOS, bạn có thể tắt nó theo hướng dẫn từ Tekrevue dưới đây.

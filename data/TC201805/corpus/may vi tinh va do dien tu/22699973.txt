@@ -1,2 +1,0 @@
-Máy tính tự hủy khi bị hack
-Orwl là chiếc máy tính nhỏ gọn được tích hợp nhiều tính năng bảo mật cấp cao, thậm chí tự hủy nếu có ai đó cố gắng tấn công.

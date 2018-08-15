@@ -1,2 +1,0 @@
-Cạnh tranh Uber, Grab: Taxi truyền thống dùng chung ứng dụng đặt xe?
-Việc thành lập một sàn giao dịch chung, một phần mềm điều phối chung cho các hãng taxi truyền thống là rất cần thiết. Khi khách hàng tìm kiếm, nếu hãng này không có xe sẽ ngay lập tức có xe của hãng khác. Điều này sẽ giúp khách hàng không lo thiếu xe và hãng không lo xe chạy rỗng.

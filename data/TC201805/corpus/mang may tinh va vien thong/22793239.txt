@@ -1,2 +1,0 @@
-Diễn tập phòng chống mã độc tống tiền
-Tập đoàn Công nghệ Bkav cho biết, ngày 26/7 tới, Diễn tập An ninh mạng WhiteHat Drill 04 sẽ chính thức diễn ra với chủ đề "Ransomware: Xử lý và Phòng chống". Chương trình được tổ chức miễn phí, thuộc chuỗi sự kiện định kỳ được Diễn đàn WhiteHat.vn tổ chức nhằm hỗ trợ các đơn vị, doanh nghiệp nâng cao khả năng ứng phó, sẵn sàng xử lý các sự cố an ninh mạng.

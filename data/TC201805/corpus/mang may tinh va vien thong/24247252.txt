@@ -1,2 +1,0 @@
-Tổng Cục thuế tiếp tục triển khai mở rộng hệ thống Dịch vụ Thuế điện tử eTax
-Thực hiện kế hoạch triển khai mở rộng Dịch vụ Thuế điện tử (eTax), Tổng Cục thuế đã hoàn thiện các chức năng của hệ thống eTax thí điểm. Đồng thời, nâng cấp đáp ứng các thay đổi chính sách nghiệp vụ năm 2016 (tương đương với hệ thống khai thuế, nộp thuế điện tử). Từ ngày 11/12/2017 đến 10/03/2018, sẽ triển khai mở rộng hệ thống dịch vụ này cho toàn bộ các doanh nghiệp tại các tỉnh Bắc Ninh, Phú Thọ.

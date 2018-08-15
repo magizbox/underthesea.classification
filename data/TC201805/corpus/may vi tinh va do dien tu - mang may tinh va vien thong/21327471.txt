@@ -1,2 +1,0 @@
-Sinh viên chế tạo ra Robot phun thuốc trừ sâu, xe lăn cho người bại liệt
-Xe lăn dành cho người bại liệt, robot phun thuốc trừ sâu, hệ thống hỗ trợ và cảnh báo ngủ gật cho lái xe, hệ thống hỗ trợ người dùng và cảnh báo kẻ gian khi sử dụng xe buýt…đã được các sinh viên chế tạo trong cuộc thi Nhà sáng tạo Việt Nam với Intel Galileo lần II năm 2016.

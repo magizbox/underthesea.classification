@@ -1,2 +1,0 @@
-Hướng dẫn cách chặn tính năng copy, chỉnh sửa, in ấn trên file PDF
-Khi tạo ra các file PDF bằng công sức của chính mình, bạn thường không muốn ai khác copy, chỉnh sửa hay in ấn nó. Vậy việc đó được thực hiện như thế nào? Bài viết sau đây sẽ giúp bạn giải quyết vấn đề này.

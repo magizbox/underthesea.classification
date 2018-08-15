@@ -1,2 +1,0 @@
-Hình xăm chất chơi tự đổi màu theo chỉ số đường trong máu
-Bằng cách phản ứng với các chất có trong dịch bạch huyết, mực xăm sẽ thay đổi màu tùy theo hàm lượng của từng chất.

@@ -1,2 +1,0 @@
-Mã độc tống tiền mới yêu cầu chuộc bằng bitcoin
-Mã độc tống tiền mới có tên là BadRabbit sau khi thâm nhập được máy tính sẽ tiến hành phong tỏa yêu cầu phải chuộc lại dữ liệu bằng bitcoin.

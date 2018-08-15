@@ -1,2 +1,0 @@
-Làm thế nào để tránh rác rối với bảo mật 2 lớp?
-Bảo mật xác thực 2 lớp hiện nay đang là biện pháp bảo vệ tài khoản trực tuyến của người dùng hiệu quả và thuận tiện nhất. Nhưng nhiều trường hợp hình thức xác nhận này lại khiến người dùng bị mất quyền truy cập tài khoản của mình vĩnh viễn.

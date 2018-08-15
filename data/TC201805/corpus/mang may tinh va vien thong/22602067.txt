@@ -1,2 +1,0 @@
-Windows 10 sắp cho phép theo dõi hiệu suất GPU
-Bản cập nhật Windows 10 Insider Preview Build 16226 cung cấp một tính năng rất đáng mong đợi. Đó là tích hợp sẵn tính năng theo dõi hiệu suất GPU trong Task Manager của Windows 10.

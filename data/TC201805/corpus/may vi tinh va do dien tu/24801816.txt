@@ -1,2 +1,0 @@
-SK Hynix ra mắt chip DDR4 16 Gb đế đơn, mở đường cho những thanh RAM máy chủ dung lượng đến 256 GB
-SK Hynix đã vừa bổ sung dòng chip nhớ DDR4 đế chip đơn dung lượng 16 Gb vào danh mục sản phẩm của mình và dòng chip này sẽ cho phép hãng phát triển các IC nhớ dung lượng cao, tạo tiền đề cho những thanh LRDIMM DDR4 có dung lượng đến 256 GB dành cho máy chủ cao cấp.

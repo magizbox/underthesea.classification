@@ -1,2 +1,0 @@
-'Cần tăng tốc độ giải gấp 10 lần khi thi trắc nghiệm Toán'
-TS Phạm Văn Thạo khẳng định hình thức thi trắc nghiệm đối với môn Toán sẽ hạn chế tình trạng học lệch, học tủ song cũng yêu cầu thí sinh tăng tốc độ giải gấp 10 lần.

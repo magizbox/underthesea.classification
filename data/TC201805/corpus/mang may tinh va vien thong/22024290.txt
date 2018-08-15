@@ -1,2 +1,0 @@
-Windows 7, 8.1 sẽ không được cập nhật khi dùng CPU mới
-Mặc dù vẫn còn được hỗ trợ cập nhật, nhưng các hệ thống PC sử dụng CPU đời mới chạy với Windows 7 và thậm chí 8.1 sẽ không còn nhận được bản cập nhật, ngay cả những phần mềm bảo mật quan trọng.

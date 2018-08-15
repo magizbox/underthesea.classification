@@ -1,2 +1,0 @@
-Hơn 300.000 trang web sử dụng plug-in WordPress dính lỗ hổng SQL Injection
-Một lỗ hổng SQL Injection vừa được phát hiện có mặt trên hơn 300.000 trang web, có thể bị khai thác bởi hacker để ăn cắp cơ sở dữ liệu người dùng và chiếm đoạt các trang web bị ảnh hưởng từ xa.

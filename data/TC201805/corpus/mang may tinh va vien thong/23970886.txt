@@ -1,2 +1,0 @@
-VNCERT ra thông báo khẩn cảnh báo mã độc khai thác tiền ảo Coinhive
-Mã độc sẽ tự động chạy trên máy tính người dùng dưới dạng tiện ích mở rộng hoặc trực tiếp trong trình duyệt nhằm mục đích 'đào' tiền ảo Bitcoin, Monero…, sử dụng trái phép CPU, ổ cứng, bộ nhớ… và gửi về ví điện tử của tin tặc.

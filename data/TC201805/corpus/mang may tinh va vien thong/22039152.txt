@@ -1,2 +1,0 @@
-Hướng dẫn cách sử dụng hàm COUNTIF và COUNTIFS trong Excel
-Hàm COUNTIF còn có một "phiên bản số nhiều" là COUNTIFS để đếm với điều kiện từ 2 tiêu chí chọn lọc trở lên được thỏa mãn đồng thời.

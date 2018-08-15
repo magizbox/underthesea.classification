@@ -1,2 +1,0 @@
-TP.Hồ Chí Minh: Hiệu quả từ mô hình điện tử hóa khám chữa bệnh
-Hiện rất nhiều bệnh viện trên địa bàn TP.HCM đã ứng dụng công nghệ thông tin vào quá trình quản lý bệnh viện, khám chữa bệnh, trong đó điển hình như ứng dụng bệnh án điện tử, số hóa khi hồ sơ, lấy số thứ tự khám bệnh qua tin nhắn… bước đầu đã đem lại hiệu quả thiết thực, góp phần rút ngắn thời gian thủ tục hành chính, rút ngắn thời gian khám bệnh cho bệnh nhân.

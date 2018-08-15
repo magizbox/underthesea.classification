@@ -1,2 +1,0 @@
-Phát hiện lỗ hổng an ninh nghiêm trọng trên smartphone dùng hệ điều hành Android
-Theo chuyên gia, đây là một lỗ hổng bảo mật nghiêm trọng hơn so với hầu hết những phát hiện được ghi nhận cho đến nay. Và thời điểm nổ ra một cuộc tấn công toàn diện chống lại những người sử dụng điện thoại thông minh (smartphone) với hệ điều hành Android chỉ là vấn đề thời gian.

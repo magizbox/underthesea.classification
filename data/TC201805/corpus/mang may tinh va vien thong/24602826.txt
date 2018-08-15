@@ -1,2 +1,0 @@
-CẢNH BÁO: iPhone sẽ 'đuối sức' khi cập nhật lên iOS 11.2.2
-Apple đã tung bản vá iOS 11.2.2 đến người dùng thiết bị di động của mình để bảo vệ họ trước các lỗi bảo mật Meltdown và Spectre.

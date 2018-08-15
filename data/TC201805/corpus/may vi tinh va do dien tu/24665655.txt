@@ -1,2 +1,0 @@
-Snapdragon 670 có hiệu suất đồ họa mạnh ngang Snapdragon 820
-Snapdragon 670 đạt 6404 điểm trong kiểm tra RenderScrip cho thấy một hiệu suất đồ họa mạnh ngang ngửa chip cao cấp năm 2016 là Snapdragon 820.

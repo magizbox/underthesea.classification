@@ -1,2 +1,0 @@
-Nga phát triển công nghệ điều khiển robot trong không gian
-Công nghệ này sẽ giúp khắc phục vấn đề tín hiệu bị chậm trong quá trình truyền tải ở khoảng cách xa và đảm bảo cho robot hoạt động ổn định hơn, chẳng hạn như trong vũ trụ.

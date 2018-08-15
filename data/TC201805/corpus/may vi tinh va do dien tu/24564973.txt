@@ -1,2 +1,0 @@
-CES 2018: Lenovo trình làng laptop ARM chạy Windows
-Mẫu laptop 2 trong 1 sử dụng CPU ARM Qualcomm Snapdragon 835 và chạy hệ điều hành Windwos đầu tiên của Lenovo có tên mã Miix 630.

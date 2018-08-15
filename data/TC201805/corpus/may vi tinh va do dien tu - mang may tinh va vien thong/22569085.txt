@@ -1,2 +1,0 @@
-Sử dụng phương pháp lý thuyết và phương pháp thực nghiệm trong bài toán tính ứng suất của lớp đá ba lát
-Tác giả nghiên cứu lý thuyết đàn hồi Boussinesq và lý thuyết Eisenmann. Trên cở sở lý thuyết đó, tác giả nghiên cứu giải pháp thực nghiệm để áp dụng cho bài toán tính ứng suất của lớp đá ba lát.

@@ -1,2 +1,0 @@
-Tại sao Apple muốn tự sản xuất GPU cho iPhone, iPad?
-Trong một thông báo đầy bất ngờ, Apple cho biết họ sẽ không còn hợp tác với Imagination Technologies Group nữa. (Imagination là hãng cũng cấp GPU chính cho Apple). Hãng cũng nói trong vòng 15 – 24 tháng tới, họ sẽ dừng sử dụng sở hữu trí tuệ của Imagination trên các sản phẩm nhằm mở đường cho thế hệ GPU mới do chính họ sản xuất.

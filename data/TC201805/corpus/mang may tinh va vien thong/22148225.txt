@@ -1,2 +1,0 @@
-Bắt Windows 10 tự giải phóng bộ nhớ trống
-Chức năng Storage sense trên Creators Update sẽ tự động xóa sạch Recycle Bin và các thư mục tạm định kỳ. Mời bạn cùng VnReview tìm hiểu cách thiết lập chức năng này thông qua bài hướng dẫn của PCWorld.

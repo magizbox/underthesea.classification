@@ -1,2 +1,0 @@
-Ứng dụng iPhone âm thầm làm lộ thông tin người dùng
-Một nhà nghiên cứu bảo mật phát hiện lỗ hổng trong khoảng 76 ứng dụng iPhone với lượng tải về tới 18 triệu lần có thể cho phép tin tặc đánh cắp thông tin dễ dàng từ người dùng.

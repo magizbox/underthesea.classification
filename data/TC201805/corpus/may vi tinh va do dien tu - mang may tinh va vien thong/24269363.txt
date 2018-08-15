@@ -1,2 +1,0 @@
-Ứng dụng Big Data xây dựng trang web quản lý thông tin liệt sỹ, mộ liệt sỹ
-Trong năm 2017, Viện công nghiệp phần mềm và nội dung số (NISCI) đã ứng dụng thành công hệ thống siêu máy tính vào phân tích dữ liệu, chuẩn hóa dữ liệu để xây dựng cơ sở dữ liệu và trang web quản lý thông tin liệt sỹ, mộ liệt sỹ.

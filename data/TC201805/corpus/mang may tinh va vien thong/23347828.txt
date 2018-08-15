@@ -1,2 +1,0 @@
-Bankpay: Hệ thống kết nối thanh toán toàn diện, đa phương
-Sử dụng hệ thống kết nối thanh toán BankPay, khách hàng có thể trải nghiệm các dịch vụ tài chính có chất lượng cao, tốc độ xử lý giao dịch tức thời trên cơ sở hệ thống công nghệ và mạng lưới kết nối thanh toán của VietinBank.

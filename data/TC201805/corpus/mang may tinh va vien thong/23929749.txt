@@ -1,2 +1,0 @@
-Sổ thụ lý điện tử án hình sự
-Đó là kết quả của đề tài 'Nghiên cứu triển khai ứng dụng công nghệ thông tin phục vụ quản lý hồ sơ án hình sự tại VKSND tỉnh Đồng Nai' do Viện Kiểm sát nhân dân (VKSND) tỉnh Đồng Nai và Trung tâm Phát triển phần mềm, Sở Khoa học và Công nghệ Đồng Nai phối hợp thực hiện.

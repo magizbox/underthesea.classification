@@ -1,2 +1,0 @@
-CMC Infosec cảnh báo khẩn về mã độc tống tiền WannaCry đã tấn công Việt Nam
-CMC Infosec đã lên tiếng cảnh báo một cuộc tấn công mạng quy mô lớn với khoảng 75.000 máy tính bị lây nhiễm trên toàn thế giới, trong đó có cả Việt Nam đã diễn ra ngày 12/5 bởi một mã độc được biết tới là WannaCry.

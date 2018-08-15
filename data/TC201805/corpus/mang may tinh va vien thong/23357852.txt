@@ -1,2 +1,0 @@
-Cách quay về iOS 10 từ iOS 11
-Bật tắt mạng di động, quay màn hình và hàng trăm tính năng khác của iOS 11 vẫn không thể giữ chân được người dùng. Vấn đề mà bản cập nhật này gặp phải là chạy rất chậm trên máy cũ.

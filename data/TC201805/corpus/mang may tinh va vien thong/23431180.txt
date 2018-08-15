@@ -1,2 +1,0 @@
-Trình duyệt Microsoft Edge hiện đã có 70 extension
-Trình duyệt Edge của Microsoft bắt đầu hỗ trợ phần mở rộng (extension) từ sau lần cập nhật Windows 10 Anniversary hồi tháng 8/2016. Sau hơn một năm, số lượng phần mở rộng dành cho Edge đã tăng từ con số 13 lên đến 70.

@@ -1,2 +1,0 @@
-Sự cố hy hữu, HOSE phải hủy phiên ATC chiều 22-1
-Trong phiên ATC hôm 22-1, nhiều lệnh mua/bán đã bị hủy do sự cố hệ thống giao dịch trên HOSE không thể khớp lệnh trong đợt khớp lệnh định kỳ xác định giá đóng cửa.

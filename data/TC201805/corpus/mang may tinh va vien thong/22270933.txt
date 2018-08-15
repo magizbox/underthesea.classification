@@ -1,2 +1,0 @@
-VNCERT phát lệnh điều phối toàn quốc yêu cầu chặn kết nối máy chủ điều khiển virus WannaCry
-VNCERT vừa phát lệnh điều phối, yêu cầu các cơ quan, đơn vị trên toàn quốc theo dõi, ngăn chặn kết nối đến các máy chủ máy chủ điều khiển mã độc WannaCry và cập nhật vào các hệ thống bảo vệ như IDS/IPS, Firewall … những thông tin nhận dạng mã độc WannaCry.

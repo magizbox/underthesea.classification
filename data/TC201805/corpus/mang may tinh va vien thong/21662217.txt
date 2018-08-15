@@ -1,2 +1,0 @@
-Nhà băng lý giải nguyên nhân sự cố ATM nhả ra giấy in 500.000 VND
-- Ngày 1-3, một chủ thẻ của ngân hàng khác rút tiền ở máy ATM của Ngân hàng TMCP Đại Chúng (PVcomBank) tại Big C Thăng Long (Hà Nội). Tuy nhiên, thay vì nhả ra tiền thật, máy ATM này lại cho ra giấy có màu xanh in dòng chữ "500.000 VND".

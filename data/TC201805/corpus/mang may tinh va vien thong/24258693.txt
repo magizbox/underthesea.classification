@@ -1,2 +1,0 @@
-Chrome 64 trên Android sẽ hỗ trợ download nhanh hơn nhờ tính năng parallel download
-Mới đây, Google đã phát hành phiên bản Chrome 63 cho công chúng. Bên cạnh đó, Google còn tiến hành thử nghiệm Chrome 64 phiên bản beta.

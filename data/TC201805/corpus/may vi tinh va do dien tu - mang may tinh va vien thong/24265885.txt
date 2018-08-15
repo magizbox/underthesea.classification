@@ -1,2 +1,0 @@
-Hệ thống cảnh báo tự động nước chạy thận nhân tạo
-Hệ thống xử lý nước chạy thận nhân tạo được giới thiệu tại buổi 'Báo cáo phân tích xu hướng nghiên cứu, ứng dụng công nghệ trực tuyến, điều khiển từ xa và tự động hóa trang thiết bị y tế', do Trung tâm Thông tin và Thống kê khoa học và công nghệ TPHCM tổ chức ngày 08/12.

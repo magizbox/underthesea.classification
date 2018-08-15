@@ -1,2 +1,0 @@
-Microsoft cảnh báo hai trojan trộm tiền nguy hiểm
-Microsoft vừa xác định hai trojan mới xuất hiện và hoạt động trong vòng vài tháng qua, với mục tiêu ăn cắp thông tin ngân hàng để trộm tiền hoặc thực hiện hành vi trộm danh tính.

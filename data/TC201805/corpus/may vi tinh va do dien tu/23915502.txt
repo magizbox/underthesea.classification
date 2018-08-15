@@ -1,2 +1,0 @@
-Face ID nhận dạng khuôn mặt như thế nào
-Face ID sử dụng chùm tia hồng ngoại kết hợp cùng hệ thống cảm biến, tạo thành mô hình 3D của khuôn mặt giúp nhận diện chính xác người dùng.

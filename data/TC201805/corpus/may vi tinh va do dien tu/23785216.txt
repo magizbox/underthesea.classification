@@ -1,2 +1,0 @@
-FaceID trên iPhone không nhận diện được cặp song sinh
-Trong thử nghiệm mới đây của chuyên trang Mashable, FaceID đã bị 'qua mặt' dễ dàng khi 'đối đầu' với hai cặp song sinh.

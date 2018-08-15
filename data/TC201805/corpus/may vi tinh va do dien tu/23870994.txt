@@ -1,2 +1,0 @@
-Đã có thể chạy ứng dụng Windows trên... Chrome OS thông qua CrossOver
-Sau hơn một năm thử nghiệm, CrossOver đã chính thức tung ra bản chính thức dành cho Chrome OS, cho phép người dùng hệ điều hành này thoải mái cài các ứng dụng vốn chỉ dành cho Windows lên những chiếc Chromebook của mình.

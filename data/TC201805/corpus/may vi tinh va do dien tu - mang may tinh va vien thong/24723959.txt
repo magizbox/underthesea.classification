@@ -1,2 +1,0 @@
-Chẩn đoán ung thư: Phần mềm ColonFlag chính xác gấp 2 lần xét nghiệm
-Công ty Medial của Israel cung cấp các giải pháp ít xâm lấn hơn, dựa vào dữ liệu nhiều hơn cho các bệnh nhân kháng thuốc. Đó là ColonFlag – một phần mềm dự đoán ung thư ruột già có độ chính xác gấp hai lần phương pháp xét nghiệm phân truyền thống.

@@ -1,2 +1,0 @@
-Giá điện sẽ được điều chỉnh 6 tháng một lần
-Giá bán điện bình quân được xem xét tăng giảm theo biến động khách quan của thông số đầu vào tối thiểu 6 tháng từ lần điều chỉnh gần nhất.

@@ -1,2 +1,0 @@
-Soi Võ Lâm Vương Giả ngày mở cửa tại Việt Nam: Webgame nhập vai turn-base hiếm hoi
-Cơ chế chiến đấu trong Võ Lâm Vương Giả được xây dựng theo hướng đánh turn-base tự động, nhân vật sẽ tấn công theo lượt dựa trên trận hình xếp sẵn.

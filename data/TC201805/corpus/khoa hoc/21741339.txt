@@ -1,2 +1,0 @@
-Mẫu drone đặc biệt có thể tự uốn dẻo khi gặp va chạm
-Mẫu drone này khá đặc biệt bởi nhờ khả năng uốn dẻo kịp thời lúc xảy ra va chạm với các bề mặt khi đang bay, thiệt hại và hỏng hóc drone nhờ đó sẽ không còn là vấn đề đáng lo ngại.

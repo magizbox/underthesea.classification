@@ -1,2 +1,0 @@
-HP phát hành bản cập nhật trị keylogger trên laptop người dùng
-HP khẳng định lỗ hổng bảo mật trong driver touchpad Synaptics trên các mẫu laptop của hãng sẽ được khắc phục hoàn toàn qua bản cập nhật bảo mật mới nhất.

@@ -1,2 +1,0 @@
-Hướng dẫn mang thanh thông báo của Android 8.0 lên điện thoại của bạn
-Android 8.0 Oreo ra mắt với nhiều tính năng hấp dẫn, một trong số đó là tính năng Notification Channels. Để trải nghiệm tính năng này, bài viết sau đây sẽ hướng dẫn mang nó lên thiết bị Android của bạn.

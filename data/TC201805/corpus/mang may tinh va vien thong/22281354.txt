@@ -1,2 +1,0 @@
-Bất chấp bị khai tử, Windows XP vẫn được cập nhật bản vá Wanna Cry vì quá phổ biến
-Sự phổ biến, thông dụng của Windows XP trên các hệ thống máy tính đã buộc Microsoft phát hành một bản vá bảo mật "bất thường" nhằm tránh rủi ro lây nhiễm mã độc WannaCry trên nền tảng này, cùng với Windows 8 và Windows Server 2003.

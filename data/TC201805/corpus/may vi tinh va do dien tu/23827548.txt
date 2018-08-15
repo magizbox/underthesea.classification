@@ -1,2 +1,0 @@
-Logitech và HTC Vive đưa bàn phím vật lý vào thực tế ảo
-HTC Vive và Logitech mới đây giới thiệu một gói phần cứng và phần mềm mới có tên gọi Bridge, giúp các nhà phát triển có thể dễ dàng nhập văn bản trong lúc xây dựng các ứng dụng và trò chơi thực tế ảo.

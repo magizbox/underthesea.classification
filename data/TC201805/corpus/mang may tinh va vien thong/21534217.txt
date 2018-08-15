@@ -1,2 +1,0 @@
-IaaS - mô hình ưu việt trong điện toán đám mây
-Nếu như trước đây, dịch vụ điện toán đám mây (Cloud Computing) còn khá xa lạ với người Việt Nam thì đến nay, thuật ngữ này đã trở nên phổ biến.

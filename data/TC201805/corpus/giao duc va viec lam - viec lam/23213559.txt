@@ -1,2 +1,0 @@
-Mở rộng giải pháp lệch giờ, lệch ca
-Các đơn vị liên quan đã đề xuất một số phương án lệch ca, lệch giờ. Phương án thứ nhất là không điều chỉnh giờ học (do đã ổn định nhiều năm nay) mà chủ yếu điều chỉnh giờ làm việc trong khu vực nhà nước.

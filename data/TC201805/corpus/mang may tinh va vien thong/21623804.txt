@@ -1,2 +1,0 @@
-iOS 10.2.1 sửa lỗi khiến iPhone 6 bị đột ngột tắt máy
-Apple vừa chia sẻ thông tin cho biết đã khắc phục xong vấn đề khiến iPhone 6 đột ngột tắt máy thông qua bản cập nhật iOS 10.2.1 phát hành trong tháng Giêng.

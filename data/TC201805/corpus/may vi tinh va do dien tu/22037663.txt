@@ -1,2 +1,0 @@
-Không phải cáp USB-C nào cũng có thể dùng để sạc điện thoại
-Bạn có biết: Bộ sạc USB-C của máy tính xách tay có thể dùng để sạc điện thoại, nhưng ngược lại thì không. Những loại dây sạc "Fast Charge 3.0 tương thích" của bạn chỉ hoạt động với một số thiết bị này nhưng không dành cho những thiết bị kia.

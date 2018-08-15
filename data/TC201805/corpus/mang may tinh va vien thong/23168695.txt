@@ -1,2 +1,0 @@
-CIA bị cáo buộc tấn công máy tính dùng Windows
-Tài liệu công bố chi tiết quá trình công cụ của CIA tấn công vào các máy tính dùng Windows và qua mặt các phần mềm nhận diện.

@@ -1,2 +1,0 @@
-Hơn 12 nghìn máy tính tại Việt Nam nhiễm mã độc Facebook đào tiền ảo
-Thống kê từ hệ thống giám sát virus của Bkav cho thấy, tính tới 14 giờ chiều 21-12, đã có hơn 12.600 máy tính tại Việt Nam nhiễm mã độc đào tiền ảo lây qua Facebook. Bkav ghi nhận cứ 10 phút, hacker lại tung lên mạng một biến thể virus mới nhằm tránh bị phát hiện bởi các phần mềm an ninh.

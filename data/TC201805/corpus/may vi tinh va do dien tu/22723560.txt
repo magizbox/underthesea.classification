@@ -1,2 +1,0 @@
-Cuối cùng thì Windows 10 cũng sẽ có tính năng thay đổi DPI
-Microsoft đang tìm cách sửa lỗi liên quan đến việc giao diện một số chương trình bị mờ, nhòe trên Windows 10 với việc thêm vào tính năng thay đổi DPI trong bản Windows 10 Fall Creators Update build 16237.

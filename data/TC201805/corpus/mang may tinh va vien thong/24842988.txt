@@ -1,2 +1,0 @@
-Đà Nẵng triển khai Cổng thanh toán trực tuyến trên Hệ thống eGov
-Cổng thanh toán trực tuyến qua mạng khi thực hiện dịch vụ công trực tuyến, giúp tiết giảm thời gian, chi phí đi lại cho người dân và doanh nghiệp.

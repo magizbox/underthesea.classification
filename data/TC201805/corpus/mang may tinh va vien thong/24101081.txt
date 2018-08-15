@@ -1,2 +1,0 @@
-2 chàng trai 9x phát triển ứng dụng y tế Bookcarer
-Trước cảnh người nhà phải xếp hàng chờ đợi đến lượt khám bệnh mất rất nhiều thời gian và khó khăn, Trần Thế Quỳnh đã cùng bạn của mình phát triển ra ứng dụng Bookcarer để giải quyết vấn đề trên.

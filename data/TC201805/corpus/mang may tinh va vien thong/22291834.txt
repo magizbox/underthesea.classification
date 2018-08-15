@@ -1,2 +1,0 @@
-Bộ Công Thương khẩn cấp cảnh báo mã độc Wannacry
-Chỉ cần một máy tính trong đơn vị bị nhiễm mã độc, toàn bộ các máy tính khác trong mạng sẽ có nguy cơ bị mã độc tấn công, lấy cắp thông tin, mã hóa, gây mất toàn bộ dữ liệu và có thể gây ra nhiều hậu quả nghiêm trọng khác.

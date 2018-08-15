@@ -1,2 +1,0 @@
-Không sáp nhập vào VietinBank, PGBank vẫn chạy tốt?
-Đến thời điểm này, kế hoạch sáp nhập Ngân hàng Xăng dầu Petrolimex (PGBank) vào Ngân hàng Công thương Việt Nam (VietinBank) vẫn chưa có tiến triển công bố, trong khi khả năng bất thành đã được đề cập.

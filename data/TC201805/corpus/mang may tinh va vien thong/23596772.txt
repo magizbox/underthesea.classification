@@ -1,2 +1,0 @@
-Thiết bị Android dễ bị tấn công qua Wi-Fi nhất
-Có tới 41% thiết bị chạy Android có nguy cơ bị tấn công thông qua kết nối Wi-Fi, bằng nhiều phương thức kết nối khác nhau.

@@ -1,2 +1,0 @@
-MS Office có thể bị dùng để tạo phần mềm độc hại tự sao chép
-Một lỗ hổng bảo mật ảnh hưởng đến tất cả phiên bản Microsoft Office, cho phép các tác nhân độc hại tạo và lây lan phần mềm độc hại tự sao chép dựa trên macro.

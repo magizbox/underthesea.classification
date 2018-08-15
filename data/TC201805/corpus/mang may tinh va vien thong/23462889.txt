@@ -1,2 +1,0 @@
-Apple phát hành watchOS 4.0.1 khắc phục lỗi mạng di động trên đồng hồ
-Apple vừa tung ra bản cập nhật watchOS 4.0.1 dành cho người dùng Watch Series 3 mà công ty vừa phát hành vào tháng trước nhằm mục đích sửa chữa các vấn đề liên quan đến kết nối di động.

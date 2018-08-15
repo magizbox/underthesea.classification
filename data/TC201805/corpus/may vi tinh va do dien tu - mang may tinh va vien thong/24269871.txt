@@ -1,2 +1,0 @@
-Triển khai công nghệ IBM hỗ trợ cho điều trị ung thư tại Việt Nam
-Khi nhập thông tin bệnh nhân, hệ thống của IBM sẽ đưa ra phác đồ điều trị được đánh giá phù hợp nhất với tình trạng của bệnh nhân, kèm theo dẫn chiếu tài liệu y khoa.

@@ -1,2 +1,0 @@
-Nhất Tiến Chung hợp tác Seagate, QNAP, VMWare giới thiệu giải pháp siêu hội tụ
-Hệ thống Siêu hội tụ HCI (Hyper Converged Infrastructure) DCBox do Nhất Tiến Chung cung cấp được xây dựng trên nền tảng công nghệ VMWare và hạ tầng thiết bị từ các hãng lưu trữ Seagate và QNAP.

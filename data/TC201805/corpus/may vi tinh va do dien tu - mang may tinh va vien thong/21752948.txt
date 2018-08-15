@@ -1,2 +1,0 @@
-Học sinh lớp 12 chế tạo robot lau bảng
-Qua thông tin trên mạng internet và sách vở về robot bám tường, hai em Đoàn Hồ Trúc Linh và Trần Phan Nhật Duy (học sinh lớp 12A3 trường THPT chuyên Lý Tự Trọng, quận Bình Thủy, TP Cần Thơ) đã nghiên cứu và đã sáng chế ra robot lau bảng.

@@ -1,2 +1,0 @@
-Intel xác nhận lỗ hổng bảo mật trong chip tạo cơ hội cho tin tặc
-Tập đoàn sản xuất chip hàng đầu thế giới Intel đã xác nhận về một lỗ hổng trong các chip của hãng này cho phép tin tặc tiếp cận thông tin được lưu trữ trong hầu hết các hệ thống máy tính hiện đại. Tuy nhiên, Intel khẳng định nguy cơ an ninh là rất nhỏ.

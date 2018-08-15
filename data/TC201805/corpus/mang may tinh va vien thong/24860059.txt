@@ -1,2 +1,0 @@
-Phát hiện lỗ hổng zero-day mới trên Adobe Flash Player
-Lại có thêm một lỗ hổng nghiêm trọng zero-day của Adobe Flash Player nữa vừa được phát hiện.

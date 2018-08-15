@@ -1,2 +1,0 @@
-10 tính năng router có thể thiết lập qua giao diện web
-Các tính năng router dưới đây có thể tìm thấy được trong trang web cấu hình của router dưới nhiều tên hoặc vị trí khác nhau

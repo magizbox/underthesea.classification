@@ -1,2 +1,0 @@
-Tìm hiểu về OpenAI, trí thông minh nhân tạo "hành sấp mặt" từ Dendi đến Arteezy thể thức 1v1 DOTA 2
-Thông qua neural network, OpenAI tự học chơi DOTA 2 thông qua hàng triệu pha xử lý của các game thủ từ gà đến pro trên thế giới

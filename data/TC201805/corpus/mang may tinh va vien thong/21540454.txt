@@ -1,2 +1,0 @@
-2 cách kết nối Wi-Fi không cần mật khẩu
-Nếu tính năng WPS trên router được kích hoạt, bạn có thể cài đặt ứng dụng WPA WPS Tester hoặc Andro Dumpper để kết nối Wi-Fi mà không cần nhập mật khẩu.

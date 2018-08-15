@@ -1,2 +1,0 @@
-macOS High Sierra gặp lỗi bảo mật cho phép thay đổi cài đặt App Store
-Một lỗi mới trong macOS High Sierra 10.13.2 (17C88) cho phép bất kỳ tài khoản quản trị nào cũng có thể truy cập vào thiết lập App Store từ ứng dụng System Preferences với mật khẩu không chính xác.

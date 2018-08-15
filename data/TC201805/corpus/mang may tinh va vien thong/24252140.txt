@@ -1,2 +1,0 @@
-Bạn đã biết về Ứng dụng web chủ động của Google?
-Google thông báo họ đang thực hiện gỡ bỏ hoàn toàn các ứng dụng trên trình duyệt Chrome, từng bước thu hút người dùng sử dụng Ứng dụng web chủ động (Progressive Web Apps – PWA). PWA là một dạng ứng dụng nền web đang rất nổi hiện nay, nó đã hấp dẫn được rất nhiều tập đoàn công nghệ như Google, Apple, Samsung, Microsoft. PWA có những ưu điểm gì nổi bật???

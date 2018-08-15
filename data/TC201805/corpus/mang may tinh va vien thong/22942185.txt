@@ -1,2 +1,0 @@
-Cách tạo ra một blockchain "tầm cỡ" để trở thành sàn giao dịch tiền ảo
-Ở bài viết trước, chúng ta đã biết cách tạo ra một blockchain quản lý tiền ảo đơn giản nhất với chỉ chưa đến 50 dòng code. Blockchain ngắn gọn nhất rất đơn giản, và khá dễ làm. Nhưng đơn giản không có nghĩa là không có thiếu sót. Vì thế, ở bài viết này chúng ta sẽ học cách tạo ra một blockchain có quy mô "kha khá" để thực sự là một sàn giao dịch tiền ảo.

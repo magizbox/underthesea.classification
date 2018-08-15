@@ -1,2 +1,0 @@
-Siêu bút có thể biến nét vẽ thành... mạch điện
-Chiếc bút dùng loại mực đặc biệt này có thể vẽ các mạch điện mà không cần sử dụng bo mạch PCB.

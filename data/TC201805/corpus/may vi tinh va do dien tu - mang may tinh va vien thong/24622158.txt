@@ -1,2 +1,0 @@
-Phân tích những bất cập trong xây dựng mô hình dự báo cầu vận tải hành khách phát sinh - thu hút ở Việt Nam
-Dự báo cầu vận tải là khoa học ước tính cầu vận tải sẽ xảy ra trong tương lai, trên cơ sở phân tích khoa học về các dữ liệu đã thu thập được.

@@ -1,2 +1,0 @@
-Hướng dẫn cách ẩn thanh Dock trên iOS không cần jailbreak
-Nếu cảm thấy tên ứng dụng dưới thanh Dock của iPhone, iPad, iPod không cần thiết, bạn nên ẩn nó đi. Bài viết này sẽ hướng dẫn người dùng cách thực hiện thao tác này mà không cần jailbreak.

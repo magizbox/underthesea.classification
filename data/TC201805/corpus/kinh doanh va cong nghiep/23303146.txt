@@ -1,2 +1,0 @@
-Chiến thuật 99: Chiêu cổ điển, 'lừa' khách hàng ra tiền
-Thay vì làm tròn, các đơn vị bán hàng luôn niêm yết thấp hơn 1 đơn vị, điều này đã tạo ra một tâm lý đánh lừa người mua.

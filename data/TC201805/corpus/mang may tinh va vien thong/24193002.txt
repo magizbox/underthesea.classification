@@ -1,2 +1,0 @@
-AMD hỗ trợ socket AM4 tới 2020, nâng cấp Ryzen 2 không cần thay mainboard
-Trong bài trả lời phỏng vấn mới đây, lãnh đạo của AMD đã xác nhận Ryzen 2 sẽ vẫn dùng AM4, người dùng có thể nâng cấp lên mà không phải thay mainboard.

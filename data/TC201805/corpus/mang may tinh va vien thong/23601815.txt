@@ -1,2 +1,0 @@
-Cảnh báo lỗ hổng bảo mật khi sử dụng kết nối Wifi
-Mới đây, các chuyên gia bảo mật đã phát hiện một lỗ hổng bảo mật trên kết nối của mạng Wifi, khiến cho tin tặc có thể dễ dàng đột nhập vào đánh cắp dữ liệu của người dùng.

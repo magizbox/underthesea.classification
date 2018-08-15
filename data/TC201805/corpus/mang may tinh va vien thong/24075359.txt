@@ -1,2 +1,0 @@
-Mẹo Windows 10: 'Rung đùi' vẫn nhập được văn bản
-Microsoft trang bị cho Windows 10 một tính năng rất hữu dụng, cho phép bạn nhập giọng nói vào và máy tính sẽ chuyển nó thành văn bản tránh gõ phím mất công.

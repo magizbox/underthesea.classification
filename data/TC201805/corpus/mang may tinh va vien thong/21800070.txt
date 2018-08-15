@@ -1,2 +1,0 @@
-Nhờ thành quả Google, các trang web chứa ảnh sẽ load nhanh hơn
-Thuật toán nguồn mở JPEG mới của Google được gọi là Guetzli có thể làm giảm đáng kể kích thước hình ảnh JPEG mà không làm giảm chất lượng.

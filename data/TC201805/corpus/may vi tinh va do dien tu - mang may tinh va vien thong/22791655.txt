@@ -1,2 +1,0 @@
-Chú robot này sẽ thay các phi hành gia chụp ảnh vũ trụ
-Nhờ một chú robot đặc biệt có tên Int-Ball, các phi hành gia trên trạm vũ trụ ISS có thể rảnh tay hơn trong các hoạt động thường ngày.

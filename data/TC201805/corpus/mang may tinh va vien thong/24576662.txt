@@ -1,2 +1,0 @@
-Mã độc mới có khả năng ngăn người dùng tắt quảng cáo
-Một mẫu phần mềm quảng cáo độc hại mới có tên là LightsOut vừa được chuyên gia bảo mật tại CheckPoint xác định và phát hiện.

@@ -1,2 +1,0 @@
-Rút ngắn thời gian cấp mới thẻ BHYT, sổ BHXH
-Thời gian cấp sổ BHXH, thẻ BHYT được rút ngắn xuống còn 05 ngày; cấp lại sổ BHXH có thay đổi nội dung xuống còn 10 ngày; cấp lại, đổi thẻ BHYT sẽ được thực hiện trong ngày.

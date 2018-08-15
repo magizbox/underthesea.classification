@@ -1,2 +1,0 @@
-Các xu thế đáng chú ý về hạ tầng Datacenter trong năm 2017
-Công ty Vertiv, trước đây là Emerson Network Power, vừa công bố sáu xu thế đáng chú ý về cơ sở hạ tầng trung tâm dữ liệu trong năm 2017. Các xu thế năm nay là sự tiếp nối các xu thế về trung tâm dữ liệu trong năm 2016 đã được Emerson Network Power phát hành vào năm vừa qua.

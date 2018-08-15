@@ -1,5 +1,0 @@
-“ Điểm số, bằng cấp, trường lớp không thể hiện học vấn, kiến thức của bạn nhưng xem nhẹ, coi thường chúng là bạn đang tự cho thấy học vấn, hiểu biết non nớt của mình. ”
-
-- Hạ Phong -
-
-Admin: Hạ Phong

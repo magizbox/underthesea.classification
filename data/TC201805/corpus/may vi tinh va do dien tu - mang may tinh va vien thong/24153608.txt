@@ -1,2 +1,0 @@
-Tiềm ẩn nhiều nguy cơ, rủi ro trong việc đảm bảo an toàn thông tin
-Với sự phát triển mạnh mẽ của hệ sinh thái IoT (Mạng lưới vạn vật kết nối Internet) mang lại những lợi ích to lớn về khả năng kết nối và chia sẻ thông tin mọi lúc, mọi nơi, trên mọi thiết bị nhưng cũng tiềm ẩn nhiều nguy cơ, rủi ro trong việc đảm bảo an toàn thông tin và được dự báo sẽ tiếp tục có những diễn biến phức tạp.

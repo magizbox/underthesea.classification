@@ -1,2 +1,0 @@
-Hệ thống gặp sự cố, HoSE ngừng khớp lệnh chiều 22.01
-Đây là sự cố hy hữu, lần đầu tiên xảy ra trên hệ thống giao dịch của Sở giao dịch chứng khoán TP.HCM (HoSE), khiến toàn bộ lệnh đặt trong đợt giao dịch khớp lệnh định kỳ xác định giá đóng cửa không thể thực hiện.

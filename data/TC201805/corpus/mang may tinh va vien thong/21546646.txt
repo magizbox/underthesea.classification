@@ -1,2 +1,0 @@
-'Vạch mặt' hoạt động của hacker với các mô hình kinh doanh mới
-Theo Báo cáo An ninh mạng thường niên năm 2017 của Cisco, năm 2016, hoạt động xâm nhập đã trở nên “doanh nghiệp hóa”. Những thay đổi nhanh chóng trong bối cảnh công nghệ do số hóa dẫn dắt đã tạo cơ hội cho tội phạm mạng.

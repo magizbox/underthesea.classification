@@ -1,2 +1,0 @@
-Ứng dụng trí tuệ nhân tạo trong hỗ trợ điều trị ung thư
-Ngày 6/2, Bệnh viện Đa khoa tỉnh Phú Thọ tổ chức công bố triển khai ứng dụng công nghệ trí tuệ nhân tạo trong hỗ trợ điều trị ung thư (IBM Watson for Oncology).

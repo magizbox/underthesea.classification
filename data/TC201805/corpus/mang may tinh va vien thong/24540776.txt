@@ -1,2 +1,0 @@
-Apple thừa nhận các thiết bị iOS, MacOS đều dính lỗ hổng chip Intel
-Apple vừa lên tiếng thừa nhận tất cả các thiết bị iOS và MacOS đều bị ảnh hưởng lỗi Meldown và Spectre (hai biến thể chủ yếu được phát hiện trong sự cố lỗ hổng bảo mật trên chip của Intel và ARM, ADM).

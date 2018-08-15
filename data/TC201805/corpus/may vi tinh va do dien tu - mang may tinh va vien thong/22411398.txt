@@ -1,2 +1,0 @@
-Thiết bị y khoa cấy ghép vào cơ thể người hoạt động không cần pin
-Mặc dù đã có nhiều tiến bộ trong công nghệ cấy ghép y khoa, ví dụ như máy tạo nhịp tim ngày càng được thu nhỏ hơn, nhẹ hơn, nhưng vẫn phải cấp điện cho các thiết bị này hoạt động bằng pin truyền thống.

@@ -1,2 +1,0 @@
-Không cần cài thêm phần mềm, bạn vẫn có thể đặt mật khẩu mã hóa ổ đĩa USB, thẻ SD trên Windows 10
-Người dùng Windows 10 phiên bản Pro có thể sử dụng công cụ BitLocker tích hợp sẵn để mã hóa dữ liệu của họ. Bên cạnh ổ đĩa gắn ngoài và ổ đĩa USB, BitLocker cũng có thể mã hóa thẻ nhớ SD.

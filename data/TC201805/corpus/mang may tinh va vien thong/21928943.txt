@@ -1,2 +1,0 @@
-Hướng dẫn cách stream trên Facebook bằng OBS
-Trong những bài hướng dẫn trước đây ICTnews chủ yếu minh họa phát video trực tiếp trên Facebook bằng XSplit, vì thế bây giờ sẽ là hướng dẫn thêm về cách sử dụng OBS để tránh bị lạ lẫm.

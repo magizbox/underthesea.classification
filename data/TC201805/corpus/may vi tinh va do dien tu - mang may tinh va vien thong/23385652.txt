@@ -1,2 +1,0 @@
-UAE thử nghiệm thành công 'taxi bay' xanh đầu tiên
-Thành phố Dubai của Các Tiểu vương quốc Arab thống nhất (UAE) đang tiến gần hơn tới mục tiêu triển khai dịch vụ taxi bay sau khi thử nghiệm thành công taxi bay tự hành (ATT) không chở khách.

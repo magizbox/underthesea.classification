@@ -1,2 +1,0 @@
-5 cách tự bảo vệ bạn trước sự tấn công của mã độc
-Thế giới công nghệ vừa qua vừa bị chao đảo bởi hai cuộc tấn công gần như liên tiếp của hai mã độc tống tiền là WannaCry và Petya. Chỉ riêng WannaCry đã lây nhiễm trên 230 nghìn máy tính phủ rộng lên tới 150 quốc gia.

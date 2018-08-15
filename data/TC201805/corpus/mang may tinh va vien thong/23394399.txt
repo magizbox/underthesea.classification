@@ -1,2 +1,0 @@
-Cảnh báo dấu hiệu của chiến dịch tấn công mạng quy mô lớn nhằm vào Việt Nam
-Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam (VNCERT) đã có văn bản yêu cầu các cơ quan, đơn vị, doanh nghiệp trên toàn quốc giám sát nghiêm ngặt, ngăn chặn kết nối tới các máy chủ điều khiển mã độc tấn công có chủ đích (APT).

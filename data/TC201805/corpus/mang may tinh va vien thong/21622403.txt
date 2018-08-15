@@ -1,2 +1,0 @@
-Ngân hàng nên thông báo đầy đủ hạn mức rút tiền trên màn hình ATM
-Trong khi rất nhiều ngân hàng thương mại khác cho hiển thị số tiền được rút cao nhất 5 triệu đồng/lần trên màn hình máy ATM thì các cây ATM của ngân hàng Vietcombank ở thành phố Đà Nẵng chỉ hiện con số lớn nhất là 3 triệu đồng.

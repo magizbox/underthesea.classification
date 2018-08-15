@@ -1,2 +1,0 @@
-Robot biến hình thực thi nhiều nhiệm vụ
-Robot có thể mang theo vật dụng, dẹp bỏ chướng ngại vật; bơi và thực hiện nhiều nhiệm vụ khác nữa.

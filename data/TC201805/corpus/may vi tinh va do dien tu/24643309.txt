@@ -1,2 +1,0 @@
-Bản cập nhật BOS 2.0 của Bphone 2017: Giao diện thay đổi, thêm tính năng xóa phông cho camera
-BOS 2.0 là hệ điều hành do Bkav thiết kế dành riêng cho Bphone. Mới đây, bản thử nghiệm của BOS 2.0 đã được Bkav tung ra sau một loạt các bản cập nhật nhỏ và sửa lỗi trước đó.

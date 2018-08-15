@@ -1,2 +1,0 @@
-Cha đẻ của Mandrake Linux tạo ra hệ điều hành Android không cần Google Apps
-Cha đẻ của hệ điều hành Linux nổi tiếng Mandrake (sau này đổi tên thành Mandriva, rồi Mageia và OpenMandriva) - Gael Duval - đã quyết định tách nhánh Android, tạo nên một phiên bản hệ điều hành mới sử dụng các phần mềm miễn phí và mã nguồn mở mang tên eelo.

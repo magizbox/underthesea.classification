@@ -1,2 +1,0 @@
-Dự án 'Duy trì hệ thống viễn thông trong điều kiện thiên tai' đạt giải Newton 2017
-Dự án đạt giải Newton 2017 đã thiết kế một hệ thống vô tuyến không đồng nhất tích hợp với tính bền vững cao, nhằm đáp ứng các yêu cầu về kênh truyền thông trong điều kiện thiên tai, ngay cả khi mạng viễn thông hiện có bị phá hủy, nguồn cung cấp năng lượng bị hỏng, cạn kiệt, và mạng bị tắc nghẽn.

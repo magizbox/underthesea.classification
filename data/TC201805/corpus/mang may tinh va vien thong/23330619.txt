@@ -1,2 +1,0 @@
-Flappy Bird chính thức 'biến mất' trên iOS 11
-Nguồn ảnh: Recode Nguyễn Hà Đông, tác giả của trò chơi Flappy Bird, thông báo về việc game không thể chạy trên hệ điều hành phiên bản mới của Apple.

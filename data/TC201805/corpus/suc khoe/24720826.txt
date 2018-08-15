@@ -1,2 +1,0 @@
-Một lần xét nghiệm máu có thể phát hiện sớm được 8 loại ung thư
-Chỉ cần một lần lấy máu để xét nghiệm, bệnh nhân có thể phát hiện sớm cùng lúc 8 căn bệnh ung thư: gan, dạ dày, tụy, thực quản, đại tràng, phổi, vú, buồng trứng.

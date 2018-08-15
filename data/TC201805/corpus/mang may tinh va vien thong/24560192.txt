@@ -1,2 +1,0 @@
-Apple cập nhật iOS 11.2.2 và macOS 10.13.2 để tiếp tục vá lỗ hổng Spectre
-Apple vừa phát hành 2 bản cập nhật iOS 11.2.2 và macOS 10.13.2 để hạn chế ảnh hưởng từ lỗ hổng Spectre.

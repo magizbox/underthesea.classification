@@ -1,2 +1,0 @@
-Lỗ hổng Wi-Fi lớn nhất từ trước đến nay nguy hiểm ra sao?
-Lỗ hổng trong giao thức WPA2 khiến hacker có thể chen ngang kết nối giữa thiết bị và điểm truy cập Wi-Fi, ảnh hưởng đến mạng Wi-Fi toàn cầu.

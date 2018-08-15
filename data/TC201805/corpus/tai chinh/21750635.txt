@@ -1,2 +1,0 @@
-Sắp áp dụng cơ chế mới về thanh toán giao dịch TPCP
-Liên quan đến thời điểm chuyển chức năng thanh toán tiền giao dịch trái phiếu Chính phủ từ ngân hàng thương mại (Ngân hàng Đầu tư và Phát triển Việt Nam) sang Ngân hàng Nhà nước, một lãnh đạo Ủy ban Chứng khoán Nhà nước (UBCK) cho biết, trong tháng 2 vừa qua, cơ quan quản lý đã gần như hoàn tất các quy định về pháp lý.

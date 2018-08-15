@@ -1,2 +1,0 @@
-22/6 C32 chốt danh sách thưởng cổ phiếu tỷ lệ 20%
-Hiện tại, giá cổ phiếu C32 đang giao dịch ở mức 52.800 đồng/CP.

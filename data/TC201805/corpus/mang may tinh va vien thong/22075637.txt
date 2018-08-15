@@ -1,2 +1,0 @@
-Facebook tính khai tử mật khẩu bằng Delegated Account Recovery
-Tại Hội nghị phát triển F8 đang được diễn ra, Facebook đã giới thiệu phiên bản beta của dịch vụ mà hãng coi như là bước đệm để loại bỏ hoàn toàn mật khẩu đăng nhập.

@@ -1,2 +1,0 @@
-Phiên 7/3: Khối ngoại tiếp tục gom vào ROS, nhưng lại bán mạnh NLG, CTD
-Thông qua giao dịch thỏa thuận, khối ngoại bán ra hơn 3,2 triệu cổ phiếu NLG, tương ứng gần 74 tỷ đồng, điều này đẩy giá trị giao dịch khối ngoại trở lại trạng thái bán ròng.

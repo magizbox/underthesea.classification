@@ -1,2 +1,0 @@
-Google công bố Android 8.1 bản preview dành cho nhà phát triển
-Android 8.0 mang lại nhiều thay đổi đáng kể về hiệu năng cũng như giao diện của thiết bị thuần Google. Không lâu sau khi ra mắt 8.0, Google đã chuẩn bị phát triển 8.1.

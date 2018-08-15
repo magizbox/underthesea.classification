@@ -1,7 +1,0 @@
-“ Lựa chọn theo đám đông tức là bạn đang ngồi trên con tàu mà ở đó mỗi người thay nhau lái một đoạn.
-
-Có thể một lúc nào đấy, bạn sẽ nhận ra mình đang chệch hướng, bởi khi ấy bạn đang ngồi ở vị trí của một hành khách, kẻ cầm bánh lái là một người khác, hắn đang cố hướng con tàu đến cái đích của hắn, không phải của bạn. ”
-
-- Hạ Phong -
-
-Admin: Hạ Phong

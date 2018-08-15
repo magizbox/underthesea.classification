@@ -1,2 +1,0 @@
-Làm thế nào để Siri dùng được với Facebook, Uber...?
-Phiên bản iOS 10 có một tính năng khá thú vị khi cho phép Siri có thể hoạt động được với các ứng dụng bên thứ ba. Nhờ đó, người dùng iPhone, iPad có thể tận dụng được tối đa sức mạnh của trợ lý ảo Siri trên nhiều ứng dụng bên thứ ba quan trọng đến từ Google, Microsoft và nhiều hãng khác.

@@ -1,2 +1,0 @@
-Khai trương Trang thông tin liệt sỹ, mộ liệt sỹ vào dịp 22/12
-Trang thông tin có nhiệm vụ cung cấp chức năng nhận và trả kết quả các yêu cầu tra cứu thông tin về liệt sỹ và nhận các thông tin về liệt sỹ từ người dân.

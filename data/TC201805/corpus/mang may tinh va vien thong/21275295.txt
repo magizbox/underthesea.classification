@@ -1,2 +1,0 @@
-Hướng dẫn mở khóa iPhone, iPad, iPod khi nhập sai mật khẩu nhiều lần
-Nếu nhập sai mật khẩu nhiều lần, iPhone, iPad, iPod sẽ tự động khóa màn hình và tạm thời vô hiệu hóa thiết bị. Rất nhiều người gặp phải tình trạng này và không biết cách giải quyết. Bài viết này sẽ hướng dẫn bạn cách khắc phục.

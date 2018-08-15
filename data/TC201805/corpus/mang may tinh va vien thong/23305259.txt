@@ -1,2 +1,0 @@
-Chrome 64 sẽ chặn mọi video, quảng cáo phát tự động
-Những quảng cáo và video nếu muốn phát tự động buộc phải bằng cách nào đó "chặn âm thanh" hoặc được người dùng cho phép trên Chrome 64.

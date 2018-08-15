@@ -1,2 +1,0 @@
-Hoàn thành thử nghiệm thực địa 5G URLLC đầu tiên trên thế giới qua băng tần C-band
-Tại Minato Mirai 21 (một khu đô thị nổi tiếng bên bờ biển) của thành phố cảng Yokohama, nhà mạng viễn thông di động lớn nhất Nhật Bản NTT DOCOMO và Huawei đã cùng đạt được một cột mốc quan trọng trong lĩnh vực thử nghiệm tại hiện trường.

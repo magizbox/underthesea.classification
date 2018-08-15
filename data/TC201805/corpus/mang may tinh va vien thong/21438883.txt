@@ -1,2 +1,0 @@
-10 lỗi cơ bản trên iOS 10 và cách khắc phục
-Có rất nhiều lỗi cơ bản trên iOS 10 được phát sinh trong quá trình sử dụng. Mặc dù Apple liên tục ra các bản vá và sửa lỗi nhưng dường như nó không thể khắc phục được hết các lỗi người dùng gặp phải. Chính vì vậy người sử dụng vẫn phải tự mình khắc phục các vấn đề trên.

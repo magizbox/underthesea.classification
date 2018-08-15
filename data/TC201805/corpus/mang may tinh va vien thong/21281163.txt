@@ -1,2 +1,0 @@
-Hangouts sẽ "ngắt kết nối" với ứng dụng bên thứ ba
-Google vừa thông báo rằng họ sẽ khóa các API Hangouts dành cho các nhà phát triển bên thứ ba.

@@ -1,2 +1,0 @@
-Dữ liệu 123 triệu gia đình Mỹ rò rỉ do lỗi AWS S3 cấu hình sai
-Công ty tiếp thị trực tuyến và phân tích số liệu Alteryx ghi nhận dữ liệu hơn 120 triệu gia đình Mỹ bị phơi bày trên internet, con số 'khủng' về việc rò rì dữ liệu cá nhân.

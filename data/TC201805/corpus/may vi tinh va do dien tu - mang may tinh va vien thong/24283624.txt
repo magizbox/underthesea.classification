@@ -1,2 +1,0 @@
-Lần đầu tiên Việt Nam ứng dụng trí tuệ nhân tạo hỗ trợ điều trị ung thư
-Bệnh viện Đa khoa tỉnh Phú Thọ sẽ là đơn vị đầu tiên thực hiện ứng dụng công nghệ điện toán biết nhận thức hỗ trợ điều trị ung thư dựa trên bằng chứng (IBM Watson for Oncology).

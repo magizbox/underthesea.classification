@@ -1,2 +1,0 @@
-Hệ điều hành iOS 11.2 beta 3 và cách bật tắt Wi-Fi, Bluetooth
-Để vô hiệu Wi-Fi hoặc Bluetooth cho đến khi bạn quyết định bật lại, hãy vào Cài đặt và vô hiệu hóa một trong hai hoặc cả hai bằng cách sử dụng công tắc chuyển đổi thích hợp. Làm điều này ngăn không cho một trong hai tính năng tự động bật lại vào sáng hôm sau.

@@ -1,2 +1,0 @@
-Hướng dẫn cách kiểm tra, nhận biết và hạn chế tác hại mã độc Petya
-Cục An toàn thông tin thuộc Bộ TT&TT vừa có công văn số 338/CATTT-TĐQLGS cảnh báo về biến thể mới của mã độc tống tiền Ransomware (mã độc Petya).

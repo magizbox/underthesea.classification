@@ -1,2 +1,0 @@
-6 sai lầm cần tránh khi tăng tốc máy tính
-Tắt Windows Updates, chống phân mảnh ổ đĩa, làm sạch Registry là những sai lầm thường gặp khi người dùng bảo trì hoặc tăng tốc máy tính.

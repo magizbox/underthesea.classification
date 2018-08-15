@@ -1,2 +1,0 @@
-Máy in 'thuần Việt' có thể tự động gửi email báo cáo khi hết giấy
-Máy in do chính các kỹ sư của Đại học Duy Tân sáng tạo có khả năng phục vụ in ấn, scan văn bản, photocopy tài liệu. Đặc biệt là tự động gửi báo cáo khi hết giấy

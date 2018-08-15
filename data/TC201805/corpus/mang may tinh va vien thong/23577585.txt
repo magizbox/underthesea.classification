@@ -1,2 +1,0 @@
-Phát hiện cây ATM bị gắn thiết bị đánh cắp dữ liệu
-Vấn đề an toàn thẻ lại gióng lên hồi chuông cảnh báo khi mà phía Techcombank vừa yêu cầu khách hàng dùng thẻ của nhà băng này phải đổi mã pin hoặc khoá thẻ để cấp đổi thẻ mới vì phát hiện cây ATM của nhà băng này có gắn thiết bị đánh cắp dữ liệu.

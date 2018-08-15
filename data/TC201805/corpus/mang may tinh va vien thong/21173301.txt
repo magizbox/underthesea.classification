@@ -1,2 +1,0 @@
-Firefox thông báo 'nghỉ chơi' với Windows XP và Vista
-Thêm một trình duyệt web nói lời "nghỉ chơi" với hệ điều hành Windows XP 10 năm tuổi.

@@ -1,2 +1,0 @@
-Những tính năng phiền phức nên vô hiệu hóa trên iOS 10
-Phiên bản iOS 10 mang đến những trải nghiệm hoàn toàn mới cho người sử dụng iPhone, iPad, iPod nhưng nó cũng có không ít tính năng gây phiền phức cho người dùng. Bài viết này sẽ chia sẻ cách vô hiệu hóa một số tính năng không cần thiết trên iOS 10.

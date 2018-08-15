@@ -1,2 +1,0 @@
-Phát hiện malware đáng sợ có thể chụp ảnh, ghi âm và đánh cắp dữ liệu trên Android
-Các nhà nghiên cứu vừa phát hiện ra một malware có khả năng tạo ra cửa hậu vào thiết bị Android của người dùng, từ đó cho phép các hacker đánh cắp dữ liệu, ghi âm hay quay phim, và thậm chí còn có thể âm thầm cài đặt các phần mềm đòi tiền chuộc lên hệ thống!

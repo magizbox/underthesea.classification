@@ -1,2 +1,0 @@
-Máy chấm trắc nghiệm của thầy giáo trường làng
-Thầy giáo Nguyễn Việt Cường, giáo viên Trường THPT Phú Hữu (xã Phú Hữu, huyện Châu Thành, tỉnh Hậu Giang) đã lập trình thành công phần mềm chấm thi trắc nghiệm 4 đáp án phiên bản tiếng Việt.

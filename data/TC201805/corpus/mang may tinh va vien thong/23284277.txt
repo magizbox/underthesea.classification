@@ -1,2 +1,0 @@
-Diễn tập quốc tế về ứng cứu sự cố an ninh mạng
-Ngày 11/9, Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam (VnCert) đã điều phối chương trình diễn tập quốc tế về ứng cứu sự cố an ninh mạng trên quy mô toàn khu vực Đông Nam Á (ACID 2017) tại Việt Nam.

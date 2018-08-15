@@ -1,2 +1,0 @@
-Microsoft dùng 400 triệu máy tính làm hệ thống chống virus thông minh
-Microsoft đang nhờ cậy trí tuệ nhân tạo để phát triển thế hệ phần mềm chống virus thế hệ tiếp theo. Đặc biệt, hãng sử dụng khả năng học máy của hàng triệu máy tính để phòng chống các phần mềm độc hại (malware).

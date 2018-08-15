@@ -1,2 +1,0 @@
-Nhân viên ngân hàng nào có thu nhập hơn 20 triệu đồng mỗi tháng?
-Thu nhập bình quân của nhân viên nhiều ngân hàng tăng trong 9 tháng đầu năm. Mức cao nhất là 27,3 triệu đồng/tháng thuộc về ngân hàng quốc doanh, tăng 3,4 triệu so với 2016.

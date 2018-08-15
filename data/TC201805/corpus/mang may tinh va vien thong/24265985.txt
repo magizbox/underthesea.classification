@@ -1,2 +1,0 @@
-Cựu sinh viên Bách Khoa cùng kỹ sư Stanford sáng chế PhotoBot dạy toán
-Chỉ cần chụp ảnh một bài toán rồi gửi lên ứng dụng, Robot sẽ giảng giải cho các bạn cách thức giải toán. Sau mỗi bước, Robot sẽ hỏi lại bạn có hiểu hoặc có đang tiếp tục theo dõi không để điều chỉnh các bước giảng.
