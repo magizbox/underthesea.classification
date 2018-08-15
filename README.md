@@ -88,18 +88,15 @@ __label__the_thao Chia tay Tottenham, ngôi sao Son Heung-min về thi đấu �
 **Train and test**
 
 ```
-$ cd classification
-$ source activate classification
+$ python util/preprcess_vntc.py
 $ python train.py --mode train-test \
-     --train data/VNTC/corpus/train \
-     --test data/VNTC/corpus/test
+     --train tmp/vntc/train.txt \
+     --test tmp/vntc/test.txt
 ```
 
 **Train and save model**
 
 ```
-$ cd classification
-$ source activate classification
 $ python train.py --mode train \
      --train data/VNTC/corpus/train \
      --s tmp/model.bin 
