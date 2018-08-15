@@ -8,7 +8,7 @@ Date    : 2018/08/15
 
 Files are encoded in plain text files (UTF-8, using only LF characters as line break, including an LF character at the end of file)
 
-Each line of text file contains a label, followed by the corresponding document. All the labels start by `__label__` prefix, which is how system regnize what is a label or what is a word.
+Each line of text file contains a label, followed by the corresponding document. All the labels start by `__label__` prefix, which is how system recognize what is a label or what is a word.
 
 Example 
 
