@@ -24,9 +24,9 @@ if args.mode == "train":
     if not (args.train and args.s):
         parser.error("Mode train-test requires --train and -s")
     train_path = os.path.abspath(args.train)
-    convert_to_fasttext_classification_corpus(train_path, "tmp/train.txt")
+    # convert_to_fasttext_classification_corpus(train_path, "tmp/train.txt")
     model_path = os.path.abspath(args.s)
-    fasttext.supervised("tmp/train.txt", args.s)
+    fasttext.supervised(train_path, args.s)
     print("Model is saved in {}".format(model_path))
 
 if args.mode == "train-test":
