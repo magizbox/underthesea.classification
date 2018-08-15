@@ -2,9 +2,12 @@
 
 A Large-scale Vietnamese News Text Classification Corpus
 
-* **Authors**: Vu Cong Duy Hoang, Dinh Dien, Nguyen Le Nguyen, Ngo Quoc Hung
-* **Year**   : 2007
-* **License**: Unknown
+
+| Authors | Vu Cong Duy Hoang, Dinh Dien, Nguyen Le Nguyen, Ngo Quoc Hung |
+|---------|---------------------------------------------------------------|
+| Year    | 2007                                                          |
+| URL     | https://github.com/duyvuleo/VNTC                              |
+| License | Unknown                                                       |
 
 ### Associated Papers
 
