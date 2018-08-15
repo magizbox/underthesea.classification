@@ -88,7 +88,7 @@ __label__the_thao Chia tay Tottenham, ngôi sao Son Heung-min về thi đấu �
 **Train and test**
 
 ```
-$ python util/preprcess_vntc.py
+$ python util/preprocess_vntc.py
 $ python train.py --mode train-test \
      --train tmp/vntc/train.txt \
      --test tmp/vntc/test.txt
