@@ -108,4 +108,5 @@ report/*
 tmp/*
 !tmp/.gitkeep
 !tmp/vntc_test.txt
+!tmp/train_samples.txt
 
