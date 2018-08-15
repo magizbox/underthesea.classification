@@ -1,6 +1,0 @@
-Làm thế nào để thu tốt tín hiệu TV vào PC (1)
-Toi muon may tinh cua toi bat va thu duoc chuong trinh truyen hinh voi chat luong hinh anh va am thanh tot thi phai dung loai card hinh, am thanh va cau hinh may the nao cho thich hop?
-HTN
-Hồi âm:
-Hiện giờ có rất nhiều loại card thu chương trình TV chạy trên máy tính (AGP,USP) bao gồm cả truyền hình từ dạng tương tự cho đến truyền hình cáp và số. Giá  các loại card này càng ngày càng rẻ .Sau một thời gian tìm hiểu và sử dụng tôi thấy một điều thế này :các loại card giá dưới 200$ đều thu được truyền hình analog và cho kết quả truyền hình rất tồi  mặt dù đầu vào RF từ Anten với chất lượng tốt (so sánh với TV). Nếu muốn có thể đầu tư một card capture và một bộ thu VTC chẳng hạn thì kết quả mới chấp nhận được.
-

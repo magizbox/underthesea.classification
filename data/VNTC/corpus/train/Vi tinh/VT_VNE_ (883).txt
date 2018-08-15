@@ -1,7 +1,0 @@
-DoubleClick là mục tiêu tiếp sau Google
-Vụ tấn công vào các website tìm kiếm của sâuMyDoom ngày hôm qua đã khiến dịch vụ quảng cáo trực tuyến này bị ảnh hưởng nặng nề. 
-Từ sáng hôm qua, các máy chủ của DoubleClick, công ty chuyên cung cấp dịch vụ quảng cáo cho các website thương mại, bắt đầu nhận được hàng loạt thư yêu cầu "ma" khiến nhiều trang web không thể hiển thị hình ảnh quảng cáo. Vụ tấn công này xảy ra ngay sau khi cuộc đột kích vào các nhà cung cấp dịch vụ trực tuyến hàng đầu. 
-Theo công ty Keynote Systems, hiện tượng này khiến khách hàng không thể truy cập tới gần 40 website nổi tiếng. Đặc biệt, Nortel Networks, Gateway, MCI, CNN và Schwab là những trang web bị ảnh hưởng nặng nề nhất.
-Theo đại diện của DoubleClick, vụ tấn công này hướng tới máy chủ DNS, gây ra tình trạng gián đoạn nghiêm trọng dịch vụ (thông qua tấn công từ chối dịch vụ) của 900 khách hàng. Những hacker vô danh đã chỉ đạo cuộc "oanh kích" này bằng cách kiểm soát toàn bộ máy tính cá nhân trước đây đã bị nhiễm virus. Sau đó, chúng sẽ hướng dẫn các máy tính mục tiêu "oanh tạc" DoubleClick. 
-Các chuyên gia an ninh cho biết vụ tấn công này cũng tương tự như sự cố Akamai xảy ra tháng trước. Theo họ, việc hacker tấn công vào DoubleClick cho thấy chúng chỉ cần thực hiện một sự cố như vậy cũng có thể kiếm soát được 95% hoạt động của Internet.
-

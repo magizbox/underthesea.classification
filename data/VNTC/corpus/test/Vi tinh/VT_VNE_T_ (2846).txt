@@ -1,8 +1,0 @@
-Cisco vướng vào vụ kiện 8,8 tỷ USD
-Bên nguyên là hãng sản xuất thiết bị định tuyến ConnecTel với cáo buộc Cisco ăn cắp ý tưởng để phát triển 110 mẫu sản phẩm riêng.
-Năm ngoái, ConnecTel cũng đã kiện Cisco sử dụng ý tưởng công nghệ mà Allen Kaplan, người sáng lập ConnecTel, phát minh trong những năm 90. Tuy nhiên, đây là vụ kiện đầu tiên hãng này nêu tên các thiết bị định tuyến (router) và chuyển đổi (switch) cũng như tổng thiệt hại tài chính cụ thể.
-Trong số này có công nghệ mới Carrier Routing Systems của Cisco, một số mẫu trong dòng sản phẩm định tuyến Internet 12000, thiết bị chuyển đổi Catalyst dòng 6500 và 4000, một số thiết bị đã ngừng sản xuất như LightStream 1010 ATM và hệ điều hành mạng IOS.
-ConnecTel cho rằng hệ thống định tuyến dữ liệu thông minh, có thể chọn lọc đường đi và là phương pháp truyền dữ liệu tốt nhất trong thời gian thực, đã được Allen Kaplan phát minh từ năm 1996. Ông và cộng sự đã sáng lập ConnecTel nhằm kinh doanh hệ thống này, nhưng chưa bao giờ tự sản xuất sản phẩm, mà trao bản quyền sản xuất cho các hãng khác.
-Theo ConnecTel, hãng đã ngỏ ý bán bản quyền chế tạo cho Cisco nhưng bị từ chối, và Cisco sau đó lại dùng chính công nghệ đó để phát triển dòng sản phẩm của riêng mình.
-Phản ứng lại lời buộc tội này, Cisco tuyên bố: "Những gì ConnecTel nói là không có cơ sở. Cisco đã khẳng định sự thành công trên thị trường bằng việc sáng chế và phát triển những sản phẩm cũng như công nghệ mang tầm cỡ thế giới. ConnecTel chưa bao giờ đưa ra lời đề nghị nào với chúng tôi liên quan đến sáng chế đề cập trong vụ kiện này. Cisco sẽ kiên quyết chống lại sự vu khống vô căn cứ này và hoàn toàn tin tưởng sẽ thắng kiện".
-

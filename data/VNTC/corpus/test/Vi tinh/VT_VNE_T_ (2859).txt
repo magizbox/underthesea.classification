@@ -1,8 +1,0 @@
-Thay đổi hơn 400 chi tiết về bảo mật trong SP2
-Đây là động thái tích cực của Microsoft nhằm thuyết phục các công ty tiến hành cài đặt phiên bản nâng cấp của hệ điều hành Windows XP. Hãng cũng tuyên bố đã loại bỏ hai lỗi bảo mật mới trong hệ thống.
-Microsoft cho biết tổng cộng 428 đặc điểm trong Windows XP liên quan đến các lỗ hổng bảo mật đã được thay đổi hoặc loại bỏ. 1/5 trong số đó nằm ở Internet Explorer và 107 thay đổi liên quan đến tính năng hệ thống mạng của XP.
-Về hai lỗi bảo mật chưa từng được công bố trước đây, Microsoft từ chối cung cấp thông tin chi tiết nhưng khẳng định chúng đã hoàn toàn bị loại bỏ.
-Hiện tại, một số công ty vẫn còn chần chừ trong việc nâng cấp lên SP2 vì sợ vấn đề không tương thích ứng dụng và muốn tiếp tục thử nghiệm thêm.
-Nỗ lực tăng cường an ninh trong SP2, Microsoft đang chứng minh hãng đã thay đổi phương pháp truyền thống "sản xuất trước, giải quyết vấn đề bảo mật sau" vốn bị nhiều nhà phân tích chỉ trích gay gắt.
-Giới quan sát cho rằng Microsoft sẽ không gặp trở ngại nào quá lớn trong việc phát hành phiên bản mới của Windows, bởi ít nhất, Microsoft đã có nhiều cố gắng khi hứa hẹnLonghorn sẽ rất an toàn khi chính thức ra mắt.
-

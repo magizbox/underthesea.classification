@@ -1,7 +1,0 @@
- Microsoft thí điểm công nghệ chống phần mềm lậu
-Phần mềm “đánh hơi” này có khả năng săn tìm được những bản phần mềm Microsoft bị sao chép lậu đang được lan truyền hoặc buôn bán bất hợp pháp trên mạng. 
-Nạn sao chép phần mềm lậu khiến Microsoft thiệt hại mỗi năm 250 triệu USD. Với việc tung ra công cụ săn tìm này, Microsoft hy vọng sẽ làm giảm tỷ lệ phân phối và sử dụng phần mềm lậu tại Anh xuống đáng kể trong năm nay. 
-Microsoft cho biết rằng hiện có khoảng 16,7% số máy tính tại Anh đang chạy các bản Windows XP sao chép lậu, khi áp dụng công cụ này thì tỷ lệ máy tính sử dụng Windows XP lậu sẽ giảm xuống còn 11,7% vào cuối năm nay. 
-Song song với việc áp dụng công cụ nói trên, Microsoft cũng đồng thời tung ra một chiến dịch chống phần mềm lậu mang tên “Giữ cho một nền IT trong sạch”. 
-Alistair Baker, giám đốc điều hành của Microsoft tại Anh hy vọng chiến dịch này sẽ tiêu diệt được nhiều cửa hàng chuyên phân phối phần mềm lậu tại Anh cũng như phát hiện được các đường dây chuyên sao chép và buôn bán bất hợp pháp các sản phẩm của Microsoft: ”Chúng tôi sẽ cố gắng triệt tận gốc nguồn phân phối phần mềm lậu. Tới 66% những máy tính do các cửa hàng loại nhỏ bán ra đã cài đặt những sản phẩm bất hợp pháp của Microsoft”. 
-

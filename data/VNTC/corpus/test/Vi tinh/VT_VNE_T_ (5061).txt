@@ -1,8 +1,0 @@
-Samsung thừa  nhận đã can thiệp giá cả DRAM
-Hãng sản xuất chip nhớ lớn nhất thế giới hôm qua nhận lỗi đã thực hiện âm mưu điều chỉnh giá cả nhằm gây thiệt hại cho đối thủ cạnh tranh và làm tăng giá thành máy tính.
-Thẩm phán Mỹ Phyllis J. Hamilton đã yêu cầu tập đoàn điện tử Hàn Quốc cùng công ty con Samsung Semiconductor bồi thường 300 triệu USD. Đây có thể coi là một trong những vụ xét xử chống độc quyền có mức tiền phạt lớn nhất từ trước đến nay.
-Phiên tòa tại San Francisco là kết quả của một cuộc thanh tra quy mô lớn trong suốt 3 năm qua (từ 2002), phát hiện sự dính líu của ít nhất 3 trong số những nhà sản xuất chip nhớ DRAM lớn nhất thế giới hiện nay.
-Đầu năm, tập đoàn Hynix Semiconductor (Seoul, Hàn Quốc) cam kết bồi thường 185 triệu USD trong khi công ty đối thủ Infineon Technologies AG (Đức) hoàn trả 160 triệu USD từ năm ngoái. Hãng sản xuất chip thứ 4, Micron Technology (Mỹ), đã tỏ ra hợp tác với các công tố viên và có thể sẽ không phải đối mặt với án phạt.
-Tòa án tuyên bố những công ty này đã tiến hành thỏa thuận, trao đổi qua e-mail, điện thoại và nhiều cuộc gặp gỡ nhằm ấn định giá thành cho DRAM, chip nhớ được sử dụng để lưu trữ thông tin trong máy tính, máy in và nhiều thiết bị điện tử khác.
-Nạn nhân của vụ việc này bao gồm Dell, Compaq Computer, Apple, Hewlett-Packard, International Business Machines và Gateway. Dell và Apple đã phải tăng giá PC để bù vào khoản thâm hụt trong khi những hãng còn lại giảm số bộ nhớ cài trong hệ thống của họ nhằm cân bằng chi phí.
-

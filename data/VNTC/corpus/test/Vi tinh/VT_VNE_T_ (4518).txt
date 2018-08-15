@@ -1,4 +1,0 @@
-Lược sử khoa học máy tính qua các phát minh của IBM
-Hãng máy tính lớn nhất thế giới đang kỷ niệm 60 năm thành lập Trung tâm nghiên cứu Watson, nơi sản sinh ra những công trình mang tính đột phá trong ngành điện toán, vật lý và công nghệ bán dẫn.
-Ban đầu được đặt tại Đại học Columbia (Mỹ), phòng thí nghiệm này đã trở thành một trong những trung tâm đầu tiên đặt ra những tiền đề khoa học xuất chúng trên thế giới, và giúp IBM bỏ xa các đối thủ cạnh tranh trên nhiều lĩnh vực. Phát minh của IBM bao gồm ngôn ngữ lập trình Fortran (1957), ổ lưu từ tính (1955), DRAM (1962), cấu trúc chip RISC (1980), nguyên lý fractal (1967), hiện tượng siêu dẫn (1987), chuẩn mã hóa dữ liệu (1974)... 
-

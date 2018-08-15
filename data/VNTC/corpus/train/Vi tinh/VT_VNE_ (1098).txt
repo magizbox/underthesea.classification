@@ -1,6 +1,0 @@
-Virus lợi dụng tên tuổi Arafat
-Loại sâu mới mang tên Aler khai thác sự tò mò của người sử dụng máy tính về cái chết của lãnh tụ Palestine. Đây được coi là chương trình đầu tiên tấn công qua khiếm khuyết Extended MetaFiles của Windows.
-Theo hãng bảo mật Đan Mạch F-Secure, Aler phát tán qua e-mail số lượng lớn với dòng chủ đề Tin mới nhất về Arafat (Latest News about Arafat!!!). Những thư điện tử này có 2 phần đính kèm, một file JPEG sạch và một file EMF chứa mã tấn công. File EMF khai thác một khiếm khuyết MetaFiles trên Windows (đã được thông báo trong bản tin an ninh MS04-032 của Microsoft) để cài đặt virus vào hệ thống mục tiêu khi phần attachment được mở ra.
-Sau đó, sâu Aler phát tán qua các kênh chia sẻ trong mạng và những máy tính có password yếu kém. Virus có proxy cho phép kẻ tấn công khởi động kết nối mạng thông qua máy tính bị lây nhiễm. Tính năng này còn có thể được khai thác để gửi spam hoặc tấn công máy tính khác.
-F-Secure đánh giá Aler vào loại nguy cơ trung bình và khuyến cáo người sử dụng nâng cấp phần mềm bảo vệ máy tính.
-

@@ -1,6 +1,0 @@
-Thám hiểm Windows với Process Explorer
-Nếu máy tính của bạn hay bị treo vì sử dụng quá nhiều tài nguyên, bạn cần giảm tải cho bộ vi xử lý bằng cách tắt bớt các quy trình không cần thiết. Tiện ích Process Explorer được tạo ra để giúp bạn thực hiện điều đó.
-Thông thường, khi muốn biết những gì đang diễn ra trong lòng Windows, bạn chỉ cần bấm tổ hợp phím Alt + Ctrl + Delete hoặc Alt + Ctrl + Esc để truy cập Windows Task Manager và tiện ích sẽ cung cấp một danh sách ngắn gọn các ứng dụng và quy trình đang chạy trên PC. Thật không may, bạn không thể biết được những quy trình đó đang làm gì hoặc chúng đến từ đâu. 
-Process Explorer mở ra những bí ẩn của các ứng dụng chạy trong chế độ nền này, cho phép bạn đào sâu vào các ngóc ngách để biết rõ mỗi ứng dụng xuất phát từ thư mục nào và đang sử dụng những tài nguyên gì. Nó cũng giúp bạn phát hiện phần mềm gián điệp và những chương trình bất minh khác đang chạy ngầm. Vì vậy, đây là chương trình rất hữu ích, không chỉ đáp ứng nhu cầu tìm hiểu mà còn giúp bạn loại bỏ những process không cần thiết, góp phần tăng hiệu suất máy tính.
-Chương trình tương thích với Windows 95/98/Me/2000/XP, có dung lượng 258 KB, có thể tải tại đây.
-

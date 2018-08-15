@@ -1,6 +1,0 @@
-Windows XP sẽ có bản Service Pack 3
-Microsoft vừa khẳng định kế hoạch tung ra một chương trình nâng cấp quan trọng thứ ba cho hệ điều hành phổ biến nhất hiện nay của họ, sau khi phát hành phiên bản Windows thế hệ mới Vista vào năm tới.
-Bernard Ourghanlian, Giám đốc kỹ thuật và bảo mật của Microsoft Pháp, xác nhận: Sẽ có Service Pack 3 cho Windows XP. Đây sẽ là một ưu tiên trong các nhiệm vụ tại bộ phận phát triển của chúng tôi.
-Chưa công bố thêm chi tiết nào về phiên bản bổ sung này nhưng Microsoft Pháp cho biết, theo đúng như quy trình cải tiến sản phẩm truyền thống của hãng, một số chức năng quan trọng của các bản Windows thế hệ mới sẽ được tích hợp vào Service Pack của phiên bản cũ.
-Service Pack 2 của Windows XP, phát hành tháng 9 năm ngoái, cũng đã có những cải tiến mạnh về khía cạnh an ninh.
-

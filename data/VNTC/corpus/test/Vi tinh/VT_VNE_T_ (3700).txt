@@ -1,6 +1,0 @@
-Nhật Bản làm siêu máy tính mạnh nhất thế giới
-Theo kế hoạch mà chính phủ nước này vừa công bố, dự án xây dựng một supercomputer có sức mạnh cao hơn 73 lần so với cỗ máy nhanh nhất hiện nay sẽ bắt đầu được triển khai vào năm tới.
-Danh hiệu siêu máy tính số 1 thế giới hiện thời đang thuộc về hệ thống Blue Gene/L của IBM, đặt tại Trung tâm nghiên cứu quốc gia Livermore (Mỹ). Máy này có tốc độ 136,8 teraflop (136,8 nghìn tỷ phép tính.giây).
-Giờ đây, chính phủ Nhật muốn phát triển một hệ thống có khả năng chạy 10 petaflop, tức là 1024 phép tính/giây. Tổng số tiền chi cho dự án này ước tính khoảng 80-100 tỷ yen.
-Năm 2002, siêu máy tính Earth Simulator (35,9 teraflop) của Nhật ra đời và duy trì được vị trí số 1 cho đến 2004 khi IBM tung ra Blue Gene.
-

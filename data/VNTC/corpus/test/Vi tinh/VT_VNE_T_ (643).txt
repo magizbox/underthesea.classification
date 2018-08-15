@@ -1,6 +1,0 @@
-Linux cũng xài ứng dụng Windows
-Turbolinux, nhà cung cấp phần mềm mã mở hàng đầu khu vực châu Á - Thái Bình Dương, vừa bắt đầu tung ra các sản phẩm có sử dụng một chương trình nghe nhìn mà khả năng hoạt động giống như định dạng hình/tiếng Windows Media của Microsoft.
-Chương trình này được phát triển dựa trên một bản quyền mã nguồn mà Turbolinux mua của hãng phần mềm Mỹ. Theo một thông cáo báo chí của nhà cung cấp Linux này, nền chương trình mà công cụ media mới sẽ hoạt động được gọi là Turbolinux 10F dành riêng cho người sử dụng gia đình.
-Người tiêu dùng đang di chuyển ngày càng nhiều sang thế giới của Linux, Koichi Yano, Chủ tịch Turbolinux, phát biểu. Hệ điều hành Turbolinux cho máy để bàn từ lâu đã nổi tiếng là có sự hỗ trợ tốt nhất cho các ngôn ngữ châu Á, và với 10F, chúng tôi giờ đây đã có hệ thống multimedia tốt nhất cho khách hàng.
-Turbolinux sẽ thanh toán phí bản quyền cho Microsoft để sử dụng mã chương trình media player nói trên với mức tiền tùy thuộc vào số lượng bản sao chương trình bán ra.
-

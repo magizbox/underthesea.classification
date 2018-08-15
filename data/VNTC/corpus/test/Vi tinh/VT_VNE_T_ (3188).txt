@@ -1,7 +1,0 @@
-Tính năng 'Blackberry' cho Windows Mobile 5.0
-Microsoft vừa công bố một gói ứng dụng mới trongWindows Mobile 5.0, cung cấp cho các doanh nhân công nghệ Direct Push (gửi trực tiếp) được nâng cấp bảo mật và khả năng gửi thông điệp.
-Công nghệ này cho phép người sử dụng luôn cập nhật Outlook Mobile bằng cách chuyển thông tin trực tiếp tới thiết bị hoạt động trên hệ điều hành Windows Mobile qua Exchange Server. Điều này sẽ hạn chế chi phí sử dụng những server đắt đỏ hay phần mềm trung gian.
-Công nghệ Direct Push hỗ tính năng truy cập e-mail trong Outlook, Task, lịch trình.... Những thông tin này được "đẩy" thẳng tới thiết bị Windows Mobile qua kết nối Exchange Server, tương tự như trong phần mềm Blackberry ưu việt nhiều năm qua.
-Các chuyên gia công nghệ có thể điều chỉnh thiết bị chạy trên hệ điều hành này theo cách họ quản lý PC và server, thông qua đặc điểm hỗ trợ điều khiển từ xa mới. Người dùng có khả năng di chuyển toàn bộ thông tin từ một thiết bị nào đó qua không gian, và cài đặt lại về tình trạng ban đầu ở bất cứ đâu. Nhờ đó, khi vô tình để quên máy, họ có thể quản lý thông tin nhạy cảm trên thiết bị, tránh bị người khác nhòm ngó, xem xét. Thêm vào đó, người sử dụng cũng có thể chọn xóa một phần bộ nhớ trên thiết bị nếu ai đó không nhập đúng mật khẩu sau một số lần xác định.
-Dữ liệu Outlook trao đổi giữa Exchange Server và thiết bị Windows Mobile được gửi dưới dạng nén, cho phép khả năng truyền và đồng bộ hóa dữ liệu nhanh hơn, tiết kiệm 35 - 50% băng thông.
-

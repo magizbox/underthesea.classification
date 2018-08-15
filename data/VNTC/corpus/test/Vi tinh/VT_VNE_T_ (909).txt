@@ -1,7 +1,0 @@
-Chụp màn hình bằng SnagIt
-Chụp màn hình không phải công việc khó khăn gì, chỉ cần một thao tác nhấn PrintScreen rồi dán vào một phần mềm xử lý ảnh là xong. Nhưng nếu bạn chỉ muốn chụp một vùng trên màn hình, một hình ảnh riêng lẻ hay toàn bộ cửa sổ thì sao? SnagIt được tạo ra cho nhu cầu ấy. 
-Trên thực tế, bạn có thể chụp bất kỳ hình ảnh nào bạn thấy trên các trang web hoặc ứng dụng phần mềm, nhập ảnh từ máy quét hoặc máy ảnh kỹ thuật số, hoặc bắt hình video và ghi lại các hoạt động trên màn hình theo định dạng AVI. Thậm chí, với tính năng Text Capture, bạn còn lấy được văn bản, trên cả những trang web cấm chuột phải.
-Các công cụ Editor và Studio hỗ trợ nhiều cho khả năng sáng tạo. Công cụ biên tập cho phép bạn chỉnh sửa, xử lý hình ảnh và tạo hiệu ứng với các điều chỉnh, bộ lọc và đường viền khung. Bạn cũng có thể bổ sung mũi tên, thay thế màu trong hình ảnh, tạo ra nền tối hoặc sáng với chỉ một cú nhấp chuột.
-Mặc dù có những tính năng mạnh, đa dạng, SnagIt vẫn rất dễ sử dụng, ngay cả với người mới làm quen với công nghệ thông tin. Chương trình cũng đáp ứng được các đòi hỏi cao về chất lượng của giới chuyên nghiệp. 
-Phần mềm nặng 9 MB. Bạn có thể tải bản dùng thử có thời hạn 30 ngày tại đây.
-

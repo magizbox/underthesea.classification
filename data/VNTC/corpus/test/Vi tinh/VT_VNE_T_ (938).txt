@@ -1,8 +1,0 @@
-Chuyển VCD sang AVI hay WMV (1)
-Xin hỏi phần mềm convert VCD qua Avi hay wmv mà có kích thước nhỏ download ở đâu ạ.VD như là file VCD thường là 100MB trở lên khi convert qua avi hay wmv nó sẽ chỉ còn khoảng 3 hay 4MB gì đó để có thể xem online trên mạng. Cho xin địa chỉ phần mềm đó được không ạ?
-vuong minh tri
-Hồi âm:
-Neu su dung windows XP, ban co the dung phan mem Movie maker di kem de edit cac doan film VCD va output ra dang WMV, cac chat luong khac nhau (tuy thuoc vao do sac net va khung hinh). Giao dien cua truong trinh kha de dung.
-Ngoai ra ban co the search de download hoac tim mua dia truong trinh TMPG ho tro convert kha nhieu tuy cho cho dinh dang MPEG (phien ban mien phi khong cho convert DVD).
-darkninja
-

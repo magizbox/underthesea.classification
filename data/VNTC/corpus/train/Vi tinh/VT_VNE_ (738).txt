@@ -1,7 +1,0 @@
-Tìm nơi lưu trữ địa chỉ các trang web đã truy cập (1)
-Kiến thức của tôi về lĩnh vực Internet còn hạn chế. Có một vấn đề tôi trình bày sau có Anh, Chị nào biết xin chỉ giúp. Các máy tính khi truy nhập các địa chỉ web đều được lưu trữ trong History. Nhưng khi thực hiện lệnh Clear History các địa chỉ này không còn trong History nữa. Để kiểm tra các máy tính đã truy nhập vào các Web mà các máy tính đó đã thực hiện lệnh Clear History thì xem ở đâu? thao tác thực hiện như thế nào?. Xin cảm ơn...
-Trần Huy
-Hồi âm:
-Khi ban truy cap cac website tren Internet thi may tinh se luu (khong phai tat ca) nhung website ma ban da duyet voi dieu kien ban phai vao duoc ben trong cua trang web do. Tuy nhien, nhieu nguoi khong muon cho nguoi khac biet cac dia chi ma minh vua truy cap, ho Clear History. Nhung neu chi lam nhu vay thi ban van co the thay duoc cac website bang cach nhan vao bieu tuong History (co hinh chiec dong ho) tren Toolbar. O day se luu cac web ma ban da vao tu nhieu tuan truoc den thoi diem hien tai. 
-Neu ban muon xoa hoan toan cac dia chi web da duoc truy cap, ban nhan chuot phai vao dong dia chi website roi chon Delete. Ngoai ra ban co the lam nhu sau: chon Tools ---- Internet Options... ---- Clear History, Delete Files..., Delete Cookies...
-

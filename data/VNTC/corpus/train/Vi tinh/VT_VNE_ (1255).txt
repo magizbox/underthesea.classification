@@ -1,6 +1,0 @@
-Thunderbird - Công cụ e-mail tiện lợi
-Nếu luôn bực mình vì tốn nhiều thời gian sắp xếp hơn là đọc các e-mail thì Thunderbird sẽ khiến bạn hài lòng. Chương trình e-mail miễn phí này là phần bổ sung cho trình duyệt Firefox của Mozilla, cung cấp những tính năng cao cấp như sắp xếp thư, lọc spam hay thao tác tốc độ cao...
-Sử dụng chương trình này, bạn có thể tạo ra trong inbox những nhóm nhận thư khác nhau, ví dụ như "Gia đình", "Công việc" hay "Bạn bè"... Chỉ cần xác định địa chỉ e-mail của người gửi thuộc nhóm nào, thư của người đó sẽ hiện ra khi bạn click vào nhóm ấy. Tiện ích này giúp bạn kiểm soát dễ dàng hộp thư của mình. Việc tìm kiếm e-mail hay thư mục khá nhanh chóng. Ngoài ra, chương trình còn cho phép tạo sổ điạ chỉ thông minh, quản lý cùng lúc nhiều tài khoản thư điện tử bao gồm cả chế độ POP3 và IMAP.
-Thunderbird cung cấp những công cụ cần thiết để phát hiện những thư rác cố tình len lỏi vào hộp thư của bạn. Tính năng bảo mật như S/MIME, chữ ký điện tử, mã hoá tin nhắn cũng được cung cấp đầy đủ trong phần mềm này. 
-Giao diện chương trình khá đẹp mắt nhờ tận dụng những ưu điểm về đồ hoạ của trình duyệt Firefox, tương thích với 3 hệ điều hành (Windows, Mac OS và Linux i686), hỗ trợ 23 ngôn ngữ khác nhau. Thunderbird được cung cấp miễn phí, dung lượng 5,8 MB, có thể download tại đây.
-

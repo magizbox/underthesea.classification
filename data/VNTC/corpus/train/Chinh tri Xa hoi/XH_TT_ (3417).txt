@@ -1,5 +1,0 @@
- Tăng giá vé tám tuyến xe buýt các tỉnh liền kề
-Tuyến xe buýt Chợ Lớn - Bến Lức (Long An), Chợ Lớn - Rạch Kiến (Long An) và tuyến xe buýt Hóc Môn - Đức Hòa (Long An) có ba loại giá vé: 2.000 đồng/hành khách đi dưới 1/3 hành trình, 3.000 đồng/hành khách đi dưới 1/2 hành trình và 5.000 đồng/hành khách đi trên 1/2 hành trình. Tuyến xe buýt bến xe An Sương - bến xe Hậu Nghĩa (Long An) và tuyến xe buýt Củ Chi - Gò Dầu (Tây Ninh) có giá vé 3.000 đồng/hành khách đi dưới 1/2 hành trình và 6.000 đồng/hành khách đi trên 1/2 hành trình. 
-Tuyến xe buýt Thủ Đức - Dĩ An (Bình Dương) có giá vé 2.000 đồng/hành khách đi dưới 1/3 hành trình, 3.000 đồng/hành khách đi dưới 1/2 hành trình và 4.000 đồng/hành khách đi trên 1/2 hành trình. 
-Tuyến xe buýt Tân Kiên - Bến Lức (Long An) có giá vé 2.000 đồng/hành khách đi dưới 1/2 hành trình và 4.000 đồng/hành khách đi trên 1/2 hành trình. Tuyến xe buýt Củ Chi - Hậu Nghĩa (Long An) có giá vé 3.000 đồng/hành khách đi một trạm hoặc đi suốt hành trình. 
-

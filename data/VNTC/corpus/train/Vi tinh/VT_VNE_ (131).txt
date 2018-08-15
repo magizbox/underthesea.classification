@@ -1,5 +1,0 @@
-Công nghệ mới rút ngắn thời gian khởi động máy tính
-Bật máy và sốt ruột ngồi nhìn chiếc đồng hồ cát Windows bình thản trôi đã trở thành một phần tất yếu đối với người sử dụng máy tính. Tuy nhiên, với sự xuất hiện của một công nghệ do hãng InterVideo có trụ sở tại California (Mỹ) giới thiệu, điều này có thể sẽ được giải quyết chóng vánh.
-Đúng với cái tên của nó, Bật nhanh (InstantON) có thể khởi động các chức năng giải trí cuả máy tính trong vòng dưới 10 giây. Nó chạy trên LinDVD, một phiên bản thu gọn của Linux và có thể cùng tồn tại với Windows. Dù chưa tác động tới các chức năng thông dụng như soạn thảo, đây thực sự là một đối thủ của dòng máy chạy trên nền XP Media Center của Microsoft khi khách hàng chỉ muốn xem DVD hay nghe nhạc.
-Công nghệ này đã được áp dụng trong một số sản phẩm tại châu Á như máy tính xách tay của Sharp (Nhật) hay máy tính để bàn Legend (Trung Quốc).
-

@@ -1,6 +1,0 @@
-Macromedia vá lỗi nghiêm trọng trong công cụ Flash
-Theo Macromedia, lỗ hổng bảo mật trong Flash Player 7.0.19.0 và các phiên bản trở về trước, hoạt động trên nền Windows, có thể khiến hàng triệu máy tính sử dụng Internet gặp nguy hiểm.
-Lỗi được xếp vào hàng "nghiêm trọng" (hãng bảo mật Mỹ eEye đã báo riêng cho Macromedia từ 4 tháng trước đây) và nằm trong mã nguồn của tệp Flash.ocx (thành phần có nhiệm vụ phát các file .swf), mở cửa cho hacker chạy đoạn mã giả và điều hướng dữ liệu trên máy tính nạn nhân.
-Stephen Toulouse, Giám đốc trung tâm bảo mật của Microsoft, đã cảnh báo trên trang web cá nhân của ông này và yêu cầu người sử dụng Internet Explorer nhanh chóng cập nhật Flash Player lên bản 8.0. Macromedia Flash Player là sản phẩm bên thứ 3, được phát hành cùng với Windows XP Service Pack 1 và 2. "Nếu bạn không sử dụng công cụ này, hoặc thấy không cần thiết, bạn có thể vô hiệu hóa trong Internet Explorer qua lựa chọn Tool - Manage Add-ons", Toulouse hướng dẫn.
-Macromedia đã phát hành bản vá lỗi tại Download Center. Người sử dụng Windows có thể chọn cài các phiên bản Flash Player tại đây.
-

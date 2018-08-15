@@ -1,6 +1,0 @@
- Sun giới thiệu chương trình đào tạo lập trình chuyên nghiệp
-Sun College Program là một trong những chương trình công nghệ thông tin trọng điểm đào tạo chuyên gia hàng đầu về công nghệ lập trình, đặc biệt là J2EE (công nghệ được áp dụng cho việc xây dựng và triển khai các ứng dụng doanh nghiệp nhiều thành phần dựa trên web). 
-Chương trình này được các chuyên gia công nghệ thông tin Việt Nam đánh giá cao trong việc thúc đẩy sự phát triển và ứng dụng công nghệ lập trình nói riêng và ngành công nghệ thông tin nói chung tại Việt Nam. 
-Sun Microsystems và Alliant Corp. cho biết, mục tiêu của họ là đào tạo được những chuyên gia về công nghệ lập trình, đặc biệt là J2EE với thời gian ngắn nhất nhằm cung cấp cho học viên những kiến thức cơ bản và nâng cao về khả năng lập trình; các kỹ năng và công nghệ tiên tiến về phân tích thiết kế hướng đối tượng. 
-Ngày hội cùng tên dành cho sinh viên ngành công nghệ thông tin cũng được tổ chức cùng ngày tại trường Cao đẳng Điện lực, Hà Nội. 
-

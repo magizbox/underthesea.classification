@@ -1,7 +1,0 @@
- Phát hiện lỗi bảo mật thứ hai của IE6 trong tuần này
-Lỗi bảo mật này xuất hiện trong cơ cấu Internet Explorer 6.0 điều hành mã lệnh JavaScrip “createTextRange ()”, tạo điều kiện cho kẻ tấn công tung mã độc từ xa vào Internet Explorer 6.0 đang vận hành hoặc gây sập trình duyệt. 
-Vào ngày thứ hai đầu tuần , Chuyên gia bảo mật Michal Zalewski cũng đã công bố về một lỗi bảo mật nằm trong Internet Explorer 6 có thể “giật sập” trình duyệt này khi người dùng vô tình ghé thăm các trang web có chứa mã độc. Thật là “họa vô đơn chí” cho Internet Explorer khi các chuyên gia bảo mật đã phát hiện ra đến 2 lỗi bảo mật khác nhau chỉ cách nhau 2 ngày. 
-Những hacker hiểm độc có thể thiết kế được những công cụ để xâm nhập chiếm đoạt hệ thống thông qua lỗi JavaScript “createTextRange()” thông qua những trang web chứa mã độc. Lỗi bảo mật vừa được phát hiện cách đây 2 ngày tỏ ra không nghiêm trọng lắm nhưng Secunia đã xếp lỗi vừa được phát hiện vào hạng “nghiêm trọng”. 
-Ngay cả trình duyệt Internet Explorer 7 đời mới của Microsoft cũng không hẳn là “danh giá”, khi đã xuất hiện một số lỗi bảo mật nguy hiểm ngay trong bản thử nghiệm được tung ra từ hồi tháng 1-2006. Microsoft đã “thề” rằng phiên bản Internet Explorer 7 thử nghiệm vừa được giới thiệu hôm 20-3 sẽ không còn lỗi nguy hiểm nữa, điều mà thật sự chẳng ai tin nổi. 
-Để “chữa cháy” cho lỗi bảo mật này, Microsoft đã đưa ra khuyến cáo rằng người dùng nên “Disable” tính năng JavaScrip trong Internet Explorer cho đến khi nào có bản vá phù hợp được tung ra. 
-

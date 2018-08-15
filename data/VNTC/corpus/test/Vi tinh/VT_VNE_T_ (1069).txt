@@ -1,7 +1,0 @@
-Tải ảnh từ web bằng Nici
-Tìm kiếm ảnh trên web là việc rất mất thời gian. Bạn thường phải bấm vào thumbnail (ảnh thu nhỏ) rồi chờ khá lâu cho tấm ảnh xuất hiện, bấm chuột phải để chọn save as... Hãy dùng Nici để tiết kiệm thời gian.
-Nici làm việc nhanh và hiệu quả vì không khiến bạn mất thời gian và băng thông để tải từng đường link và ảnh trên mỗi trang web. Thay vào đó, nó chỉ bắt lấy những tấm ảnh gốc mà bạn muốn tìm. Bạn chỉ cần nhập các địa chỉ website mà bạn muốn lấy ảnh. Nici sẽ thực hiện công việc còn lại.
-Với hầu hết các trang web, Nici không download thumbnail hoặc banner. Khi bắt đầu tải một trang web, phần mềm này sẽ phân tích trang để tìm ảnh theo serie. Nếu tìm thấy một serie ảnh hoặc một serie thumbnail, nó sẽ tự động bỏ qua thumbnail, bắt đầu tải và lưu ảnh.
-Nici mang lại cho bạn 2 lợi ích. Thứ nhất, ảnh được lưu vào máy tính và bạn có thể xem lại bất cứ lúc nào. Thứ hai, bạn sẽ xem được nhiều ảnh hơn, nhanh hơn và bạn có thể lướt qua bằng vài cú bấm chuột hay phím mũi tên của bàn phím hoặc chọn chế độ slideshow.
-Phần mềm có dung lượng 3,8 MB và bạn có thể tải bản dùng thử có thời hạn 30 ngày tại đây.
-

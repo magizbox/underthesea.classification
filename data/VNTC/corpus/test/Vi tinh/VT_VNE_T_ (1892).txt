@@ -1,6 +1,0 @@
-Hỏi về Excel Optical Mouse (1)
-Tôi sử dụng loại chuột quang học (Excel Optical Mouse AM-1510-U). Lúc tôi cài Winxp thì không hỏi driver nhưngcài Win98 thì nó đòi driver. Vậy tôi có thể download driver của loại chuột này ở đâu? Ai biết chỉ giùm nhé! Xin cảm ơn nhiều. Tôi đã kiếm trên google nhưng chỉ có driver của loại chuột khác như IBM, Acer nhưng không có loại Excel?
-Phan Hoang Hai
-Hồi âm:
-Bạn phải cài Driver cho con chuột đó là đúng, vì Win98 "già nua" không biết được các "hậu duệ" mới ra đời (là con chuột của bạn đấy). Bạn cũng sẽ gặp vấn đề trên khi các phần cứng khác của bạn, là loại đời mới mà Win98 chưa biết thông số kĩ thuật. Bạn chẳng phải tìm Driver ở đâu cho vất vả, nó có trong đĩa kèm theo thiết bị đó. Nếu không có thì chắc chắn là nhà hàng "ăn bớt" rồi. Bạn đến mà xin lại, nếu không lấy được thì cũng yên tâm, cứ việc... chờ ai đó biết và cung cấp cho bạn địa chỉ download chương trình cài đặt này. Rất tiếc! Chúc "chuột chạy"! (Mà bạn dùng Windows 98 làm gì, XP có phải hay hơn không?!!!).
-

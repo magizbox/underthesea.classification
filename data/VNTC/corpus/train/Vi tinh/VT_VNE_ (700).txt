@@ -1,6 +1,0 @@
-Máy không nhận thiết bị ngoại vi (1)
-Xin chào các anh chị. Hiện nay máy tính của tôi không thể tự cài driver cho những thiết bị ngoại vi như máy in, ổ đĩa tháo lắp khi được cắm vào cổng USB, mặc dù windows XP vẫn báo đúng tên thiết bị được nối vào. Trước đây thì mọi việc vẫn diễn ra bình thường. Tôi đã thử vào CMOS setup, và Device manager nhưng vẫn không khắc phục được tình trạng này. Xin các anh chị giúp đỡ. 
-Nghiem Truong
-Hồi âm:
-Van de cua anh theo toi nghi anh can kiem tra nhung thu can thiet sau day. Thu nhat hau het cac loai hardware xai cho USB hien thoi co su dung USB v2.0, vi vay neu computer cua anh co USB v1.0 thi anh nen upgrade no'. Thong thuong cac hang thuong yeu cau anh phai install USB software truoc khi anh gang USB device vao. Neu anh da kiem tra CMOS roi va van co van de thi toi nghi chi co nhung truong hop tren la da can tro khong co may anh nhan ra device. Anh hay thu kiem tra theo y cua toi . Chuc anh thanh cong.
-

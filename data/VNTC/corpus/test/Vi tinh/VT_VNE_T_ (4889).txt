@@ -1,6 +1,0 @@
-'Chuẩn 3G của Trung Quốc sẽ phổ biến toàn cầu'
-Theo Gerard Kleisterlee, Giám đốc điều hành của hãng điện tử Philips (Hà Lan), công nghệ TD-SCDMA, được phát triển chủ yếu tại quốc gia đông dân nhất thế giới, sẽ nổi lên như là một trong những chuẩn di động thế hệ 3 trên toàn cầu.
-TD-SCDMA (Truy cập đa phân mã kết hợp phân vùng thời gian - Time Division Synchronous Code Division Multiple Access), cung cấp băng thông rộng, do đó phù hợp với những ứng dụng đa phương tiện như tải video, file âm thanh... Ngoài ra, công nghệ cũng đem đến những dịch vụ giá rẻ cho khách hàng muốn sử dụng điện thoại đơn giản chỉ để đàm thoại. Chi phí thiết lập cơ sở hạ tầng cũng thấp hơn so với những chuẩn 3G khác.
-Thị trường lớn đầu tiên của TD-SCDMA sẽ là Trung Quốc vì công nghệ này đang được triển khai rộng ở đây. Nó cũng thu hút những nước có nền kinh tế đang phát triển, chưa đầu tư nhiều vào mạng CDMA và 3G. Hơn nữa, TD-SCDMA cũng vẫn có sức hấp dẫn ngay cả với những quốc gia ở châu Âu và Mỹ, do phí chuyển đổi từ cơ sở hạ tầng 3G hiện tại sang TD-SCDMA là tương đối nhỏ.
-Một mục tiêu trọng tâm khác của hãng điện tử Philips là phát triển những sản phẩm phù hợp cho thị trường mới nổi. Hãng cũng đang hợp tác với Trung tâm nghiên cứu ISRO ở Ấn Độ để cung cấp thuốc men từ xa và chăm sóc sức khỏe cho người dân tại những vùng hẻo lánh ở nước này.
-

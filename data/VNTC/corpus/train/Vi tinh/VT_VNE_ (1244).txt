@@ -1,7 +1,0 @@
-Mã khai thác lỗi Windows lại được phát tán
-Diễn đàn của một nhóm bảo mật có tên Xfocus Team ở Trung Quốc vừa đưa ra đoạn mã mẫu cho phép lợi dụng để tấn công qua 2 lỗ hổng chưa được vá trong hệ điều hành của Microsoft.
-Thông báo được đưa ra một tuần trước ngày Giáng sinh, thời điểm mà nhiều công ty và người sử dụng cá nhân kém chuẩn bị đối phó với các vụ khai thác nhất. 
-Một trong 2 khiếm khuyết này, nằm ở tính năng ảnh LoadImage của Windows, có thể cho phép hacker khống chế PC khi máy tính hiển thị một hình ảnh được thiết kế đặc biệt, đặt trên website hoặc trong e-mail. Lỗi còn lại, nằm ở chương trình trợ giúp Windows Help, có thể ảnh hưởng bất cứ ứng dụng nào mở một file Help.
-Theo Alfred Huger, Giám đốc công nghệ của hãng bảo mật Symantec, những lỗ hổng nói trên nằm trong một thư viện mà các chương trình Windows sử dụng nên hầu hết các ứng dụng trình duyệt và e-mail đều có thể bị ảnh hưởng. 
-Vì 2 lỗi được công bố cùng với mã khai thác nên các chuyên gia của Symantec cho rằng những kẻ có ý định xấu sẽ nhanh chóng sử dụng các công cụ này vào hoạt động của chúng, chẳng hạn như các hình thức lừa phishing hoặc phát tán spyware. Những loại sâu phát tán e-mail số lượng lớn cũng có thể nhanh chóng sử dụng 2 lỗi này để lây lan. Microsoft chưa có phản hồi về vụ việc. 
-

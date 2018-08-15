@@ -1,4 +1,0 @@
- Virus SoberX phát tán mạnh tại VN
-Theo giám đốc BKIS Nguyễn Tử Quảng, đây là loại virus có tỉ lệ lây lan nhanh nhất trong năm 2005. Loại sâu này dùng các e-mail giả mạo để đánh lừa người sử dụng với nội dung yêu cầu thực thi một file đính kèm có tên là ‘File-packed_dataInfo.exe’ - mã lệnh của SoberX; mạo danh địa chỉ e-mail của các cơ quan an ninh thế giới như FBI, CIA của Mỹ, hay Cục Phòng chống tội phạm Bundeskriminalamt của Đức; hoặc tự quảng cáo mình dưới hình thức các video clip “mát mẻ” của những ngôi sao như Paris Hilton, Nicole Richie... 
-Ông Quảng cho biết BKIS đã đưa ra các hướng dẫn xử lý chi tiết và phiên bản Bkav2006 mới cập nhật virus này lên mạng Internet tại: www.bkav.com.vn . 
-

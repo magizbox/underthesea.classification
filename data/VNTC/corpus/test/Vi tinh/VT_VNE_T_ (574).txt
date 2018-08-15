@@ -1,6 +1,0 @@
-Chuyển .AVI từ hệ NTSC sang hệ Pal (1)
-Tôi dùng Videocamera hệ PAL, chương trình Authoring là Pinnacle Studio Vers.8, nay nhận được một vài băng DV hệ NTSC từ Việt nam gởi qua. Xin các bạn nào chỉ dùm có chương trình nào chuyển đổi các File .AVI hệ NTSC qua File hệ .AVI hệ PAL ?. Cái khó ở đây là sai lệch về frs/s ( PAL:25, NTSC: 30). Cảm ơn.
-Nguyen An
-Hồi âm:
-Anh thu vao link nay http://www.dvdrhelp.com/tools?tool=1#commentsde download phan mem anh can tim. Than chao. 
-

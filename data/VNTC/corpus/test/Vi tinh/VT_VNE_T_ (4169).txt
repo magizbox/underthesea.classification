@@ -1,6 +1,0 @@
-Mất hơn 150 triệu USD do trục trặc máy tính
-Gần 1 triệu hồ sơ thanh toán thuế giữa năm 1997 - 2000 lưu trong hệ thống máy tính của cơ quan thuế vụ Anh Inland Revenue vô tình bị xóa sạch do lỗi phần mềm đã tồn tại vài năm mà không được phát hiện.
-Một thủ tục trong cơ sở dữ liệu PAYE, hoạt động từ 10 năm nay, đã không thể phân biệt được các trường hợp liên quan đến thuế cũ và đang có hiệu lực. Tai nạn hy hữu này khiến 364.000 người không thể xác minh được đã cho vay 150 triệu USD và khoảng 22.000 người khác chưa thanh toán thuế, trị giá 6 triệu USD.
-Revenue phát hiện lỗi khi áp dụng một hệ thống thông tin quản lý mới để vận hành phần mềm và đã thông báo vấn đề từ năm ngoái, nhưng mức độ ảnh hưởng mới chỉ vừa được khẳng định trong báo cáo ngày 8/9. Cơ quan thuế vụ Anh sau đó đã cài thêm một hệ thống sao lưu dự phòng dữ liệu.
-"Bài học chung là bất cứ một kế hoạch, dự án đầy tham vọng nào cũng có thể bị khai tử bởi sự phức tạp và những vấn đề bên trong hệ thống công nghệ thông tin", Edward Leigh, Chủ tịch Ủy ban Public Accounts, bình luận.
-

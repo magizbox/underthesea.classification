@@ -1,5 +1,0 @@
-'Phần cứng sẽ rẻ như cho không trong 10 năm tới'
-Tôi không nói chúng hoàn toàn miễn phí, nhưng xét trên khía cạnh sức mạnh của máy chủ, hiệu quả của mạng máy tính sẽ không còn bị ảnh hưởng bởi các nhân tố phần cứng nữa, Chủ tịch Microsoft phát biểu, hôm qua.
-Theo Bill Gates, chi phí phần cứng sẽ giảm mạnh trong một thập kỷ tới, và máy tính với khả năng nhận dạng giọng nói và chữ viết tay sẽ trở nên phổ biến, không còn bị giới hạn bởi công nghệ đắt đỏ.
-Dù phát đạt nhờ hệ điều hành Windows chạy trên thiết bị phần cứng, từ hơn 20 năm nay, hãng phần mềm của Gates thường tỏ ra xung khắc với ngành công nghiệp này. Họ luôn cho rằng tương lai của ngành điện toán sẽ quyết định bởi phần mềm thông minh chứ không phải những thiết bị vật chất hữu hình.
-

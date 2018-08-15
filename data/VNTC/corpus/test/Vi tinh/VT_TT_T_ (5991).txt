@@ -1,5 +1,0 @@
- Bắt đầu hội nghị hacker quốc tế What the Hack 
-Các chủ đề chính sẽ được thảo luận tại hội nghị này tập trung quanh vấn đề an ninh mạng, bảo mật và mã hóa. 
-Hội nghị hacker quốc tế này - có hình thức tương tự như đại nhạc hội Woodstock hay hội nghị Def Con ở Mỹ - được tổ chức định kỳ mỗi 4 năm một lần tại Hà Lan. Trong ngày khai mạc hội nghị năm nay đã có hơn 3.000 chuyên viên bảo mật (cũng có thể hiểu là hacker "mũ trắng") và các tay hacker sừng sỏ trên thế giới tham dự. 
-Khác với các hội nghị "chính thống", hoạt động này của giới hacker gặp phải khá nhiều khó khăn. Thoạt đầu, thị trưởng thành phố Boxtel ở miền Nam Hà Lan - nơi hội nghị diễn ra - đã không đồng ý cho tố chức sự kiện này. Sự việc này cho thấy tâm lý ngần ngại của chính quyền trước sự kiện hội họp này của giới hacker, vốn vẫn bị xem là những kẻ gây rối, phá hoại. Tuy nhiên, viên thị trưởng sau đó đã thay đổi ý kiến sau khi tiếp xúc với các thành viên trong ban tổ chức. Cũng rất thời sự với tình hình khủng bố quốc tế, hội nghị hacker lần này dành nhiều thời gian cho các chủ đề liên quan đến bảo mật sinh trắc học và công nghệ làm passport kỹ thuật số. 
-

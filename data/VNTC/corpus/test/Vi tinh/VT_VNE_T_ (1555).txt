@@ -1,6 +1,0 @@
-FPT Elead tung ra server S506 
-Dòng máy chủ Elead S506, ra mắt hôm qua, có thiết kế đặc biệt dành cho các doanh nghiệp vừa và nhỏ với sự hỗ trợ công nghệ của Intel.
-Elead S506 tích hợp bộ vi xử lý tốc độ cao Intel Pentium IV 3.0 GHz, hỗ trợ công nghệ siêu phân luồng (cho phép chạy song song nhiều ứng dụng trên 1 bộ vi xử lý), board mạch chủ Intel Server 7210TP1-E Bus 800, bộ nhớ DDRAM 512 MB bus 400 MHz có thể nâng cấp tối đa đến 4 GB, ổ cứng thế hệ mới SATA 80GB Ultra 7200 rpm, ổ đĩa đọc và ghi tốc độ 52X/32X/ 52X, màn hình 15. Elead S506 hỗ trợ hệ điều hành Microsoft Windows 2000/2003 Server, Redhat Linux. 
-Dòng server S506 còn hỗ trợ một số chức năng đặc biệt như: 3 khe cắm tốc độ cao PCI  X (3x 64bit / 66MHz PCI  X), RAID Controller 0/1, NIC Card 10/100 +  10/100/1000, Intel Server Management v5.8&
-Elead S506 được nghiên cứu dựa trên việc tổng hợp các yêu cầu của doanh nghiệp và điều kiện môi trường làm việc thực tế tại Việt Nam, thích hợp để làm các File/Print Server, Firewall Server, DNS Server, Internet/Fax Server, Games Server. Sản phẩm có giá 939 USD (đã bao gồm VAT).
-

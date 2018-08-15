@@ -1,5 +1,0 @@
-British Airways đào tạo trực tuyến bằng iLearning
-Hãng hàng không Anh đang sử dụng Oracle iLearning và thư viện học tập mở của Thomson NETg để chuyển đổi chiến lược đào tạo hiện nay sang một chương trình đào tạo thống nhất, giúp quản lý hàng trăm khóa học truyền thống và trực tuyến dành cho 48.000 nhân viên trên toàn cầu. 
-Kiến trúc mở của iLearning và NETg giúp British Airways giảm bớt thời gian và chi phí triển khai bằng cách dễ dàng kết nối các khóa đào tạo hiện nay và công tác nhập dữ liệu về nhân viên tới chương trình đào tạo mới này. 
-Ông Graeme Davision, Giám đốc phụ trách công tác triển khai chương trình đào tạo này của British Airways, cho biết khả năng self-service của iLearning cho phép nhân viên của hãng đăng ký các khóa học, tham gia lớp học, tiếp cận thông tin chuyên sâu và quản lý các lịch trình đào tạo của mình thông qua một portal trực tuyến trực quan. Tất cả kết quả đào tạo sẽ được lưu trong một cơ sở dữ liệu thống nhất, cho phép các nhà quản lý thấy được khả năng tiếp thu của nhân viên, đưa ra các điều chỉnh đối với lịch trình đào tạo của nhân viên và từ đó có thể có được những bản báo cáo rất chi tiết. 
-

@@ -1,7 +1,0 @@
-Dùng RAM cũ, máy tính hay báo lỗi hoặc treo (1)
-Bình thường khi cắm RAM tốt thì không sao, nhưng khi tôi mua 1 thanh RAM cũ cắm vào, máy vẫn hiện lên lúc khởi động báo thông số là 128 MB chẳng hạn và vào Windows dùng 1 lúc thì máy bắt đầu có vấn đề: lúc thì báo lỗi registre, hoặc là đang dùng Word thì máy treo. Rút thanh đó ra thì máy chạy bình thường. Ra hàng đổi thì cửa hàng bảo RAM tốt đổ lỗi máy tính của tôi có vấn đề và không chịu đổi RAM.
-Các bạn có cách nào kiểm tra RAM lỗi hay không một cách chắc chắn chỉ cho tôi được không? Xin cám ơn!
-Nguyễn Đỗ Hiền
-Hồi âm:
-Điều rõ ràng là máy tính của bạn và thanh RAM đó không làm việc tốt với nhau. Tuy nhiên điều này không có nghĩa là lỗi tại thanh RAM đó hoặc tại máy tính của bạn. Có thể chipset trên máy của bạn không phù hợp với cấu hình của thanh RAM đó. Nếu bạn dùng chung thanh RAM đó với một thanh RAM khác thì còn có thể là do 2 thanh RAM này không tương thích... Nói tóm lại, trong trường hợp giả sử thanh RAM đó không bị lỗi thì cũng vẫn sẽ không dùng với máy của bạn được.... Tốt nhất là bạn đừng bao giờ mua gì ở cửa hàng đó nữa. 
-

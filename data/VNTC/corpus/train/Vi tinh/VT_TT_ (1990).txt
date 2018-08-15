@@ -1,6 +1,0 @@
- Cấm phân biệt đối xử trong kết nối mạng viễn thông
-Theo quy định, khi tổ chức triển khai thực hiện kết nối giữa các mạng VT công cộng, các doanh nghiệp có trách nhiệm đảm bảo dung lượng kết nối theo kế hoạch đã thỏa thuận trong hợp đồng và đảm bảo không phân biệt đối xử giữa kết nối nội bộ của doanh nghiệp và kết nối liên mạng với doanh nghiệp khác. 
-Các doanh nghiệp VT có trách nhiệm qui hoạch và xây dựng mạng VT có dự phòng đảm bảo đáp ứng đủ dung lượng kết nối các mạng VT công cộng. 
-Trong trường hợp cần bổ sung dung lượng kết nối đột xuất để chống nghẽn, nếu tổng đài kết nối còn khả năng, doanh nghiệp cung cấp kết nối có trách nhiệm mở rộng ngay dung lượng kết nối trong thời gian tối đa 10 ngày làm việc kể từ khi nhận được văn bản yêu cầu. 
-Trong trường hợp doanh nghiệp cung cấp kết nối không cung cấp kịp thời dung lượng kết nối theo tháng trong hợp đồng, doanh nghiệp yêu cầu kết nối có quyền phạt do vi phạm hợp đồng đối với doanh nghiệp cung cấp kết nối. 
-

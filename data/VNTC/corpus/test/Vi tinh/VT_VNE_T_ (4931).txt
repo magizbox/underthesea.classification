@@ -1,7 +1,0 @@
-Bất đồng quan điểm, HP dọa hỗ trợ cả HD DVD
-Hewlett-Packard, công ty ủng hộ chủ chốt và luôn 'đấu tranh hết mình' cho định dạngBlu-ray, có thể sẽ không xuất hiện trong lễ ra mắt BD-ROM mùa xuân năm tới do sản phẩm bỏ qua một số công nghệ mà họ mong muốn có.
-Tuần này, hiệp hội đĩa quang Blu-ray (BDA) đã thông qua những tiêu chuẩn của hệ thống chống sao chép ở định dạng thế hệ mới, cho phép người sử dụng tạo những phiên bản copy để xem nội dung trên nhiều hệ thống khác nhau trong một mạng gia đình. Tháng trước, HP yêu cầu BDA đưa công nghệ MMC (mandatory managed copy) vào danh sách thông số kỹ thuật của BD-ROM nếu muốn có được sự ủng hộ của công ty máy tính Mỹ này. Trong tháng 9, HP cũng tuyên bố với cả thế giới rằng MMC sẽ là một phần của Blu-ray nhằm phản bác lại quan điểm củaMicrosoft và Intel (ủng hộ HD DVD) khi hai tập đoàn đó chê Blu-ray thiếu MMC.
-HP cũng đề cập với BDA rằng họ muốn định dạng hỗ trợ công nghệ tương tác iHD của Microsoft (có trong Windows Vista). Công ty tin rằng việc kết hợp với iHD đảm bảo khả năng tương thích hoàn chỉnh của Blu-ray với mọi hệ điều hành phổ biến.
-Tuy nhiên, BDA vừa cho biết họ sẽ xây dựng tính năng tương tác cho Blu-ray dựa trên Java và sẽ "xem xét" iHD nhưng sẽ không hoãn lại kế hoạch phát hành chỉ để đưa công nghệ này vào đĩa.
-"Nếu BDA không thể kết hợp những gì mà chúng tôi cho là quan trọng trong cấu trúc máy tính, công ty sẽ chuyển sang thái độ trung lập, nghĩa là hậu thuẫn cả HD DVD và Blu-ray", Maureen Weber, Tổng giám đốc bộ phận lưu trữ cá nhân của HP, tỏ thái độ kiên quyết.
-

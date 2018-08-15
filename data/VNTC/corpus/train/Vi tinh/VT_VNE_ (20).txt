@@ -1,8 +1,0 @@
-Trình duyệt web đang dần bị lãng quên
-Website là nội dung phổ biến nhất trên Internet. Song, thống kê mới đây của hãng khảo sát thị trường Nielsen/NetRatings cho thấy các ứng dụng phi trình duyệt lại đang trở nên phổ biến hơn.
-Thống kê này tổng hợp số liệu tháng 12/2003. Nó cho thấy các chương trình nghe nhạc và nhắn tin hiện được sử dụng rộng rãi nhất. 76% số người truy cập mạng dùng những ứng dụng không phải trình duyệt.
-Các ứng dụng phổ biến nhất và tỷ lệ người dùng
-- Windows Media Player: 34%- AOL Instant Messenger: 20,27%- RealNetworks: 19,76%- MSN Messenger: 19,31%- Yahoo Messenger: 12,26%
-Tỷ lệ 76% cho thấy Internet không chỉ gói gọn trong các trình duyệt mà đã trở thành một phần tất yếu của máy tính cá nhân, nhà phân tích Abha Bhagat của Nielsen/NetRatings bình luận.
-Trình duyệt Mosaic, xuất hiện một thập kỷ trước, đã khiến Internet thân thiện hơn với người dùng không thạo kỹ thuật với những giao diện đồ họa đơn giản. Tuy nhiên, người ta cho rằng sự phát triển của những ứng dụng Internet đang khiến thế giới ảo bước vào kỷ nguyên hậu web. TimBerners-Lee, cha đẻ của web và mới đây được phong tước hiệp sĩ, đã bắt đầu xây dựng một khái niệm mới mà ông gọi là Web ngữ nghĩa (Semantic Web).
-

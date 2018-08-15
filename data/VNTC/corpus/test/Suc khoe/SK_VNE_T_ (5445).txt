@@ -1,8 +1,0 @@
-Chữa thành công bệnh 'hói' ở chuột
-Các nhà khoa học tin rằng việc kích thích những gene ở chân tóc có thể giúp lật ngược tình trạng "trán cao vòi vọi", sau khi một nhóm nghiên cứu Mỹ đã trả lại bộ cánh tươi tốt cho những chú chuột trụi lông bằng cách sửa chữa một đột biến gene.
-Bình thường, gene Hairless mã hoá tạo ra các protein Hairless ở tế bào gốc tóc (lông) - một loại protein có vai trò tiềm năng cho sự tái sinh các nang tóc. Ở người và chuột bị đột biến gene này, ban đầu tóc (lông) sẽ tăng trưởng bình thường, nhưng một khi đã rụng, chúng không mọc lại nữa. 
-Catherine Thompson và cộng sự tại Viện Kennedy Krieger ở Đại học Johns Hopkins đã sử dụng protein Hairless để phục hồi sự tăng trưởng nang lông ở những con chuột bị rụng lông di truyền.
-Theo giải thích của Thompson, protein Hairless thường có mặt trong các tế bào đóng vai trò quyết định trong những pha nghỉ và pha tái sinh sớm của nang tóc. Ở những tế bào này, protein Hairless giúp ngăn chặn sự sản sinh một protein khác có tên gọi Wise - loại protein cản trở một tín hiệu quan trọng nhằm thúc đẩy sự tăng trưởng của tóc mới. 
-Chính vì thế, trong những tế bào thiếu Hairless, protein Wise sẽ tích luỹ không ngừng và khiến cho chu trình tóc không thể chuyển từ pha nghỉ ngơi sang pha tái sinh. Song, khi nhóm nghiên cứu bổ sung một lượng Hairless hợp lý, các tế bào gốc tóc bắt đầu "vận hành" trở lại, và những con chuột trụi lông cuối cùng cũng mọc ra bộ áo khoác dày. 
-Thành công này đã mở ra hướng mới điều trị bệnh hói ở người, căn bệnh không nan y nhưng làm phiền lòng bao đấng mày râu và hao tốn khá nhiều tiền của. Theo ước tính, một nửa số đàn ông bị hói ở vào tuổi 50, do nhiều nguyên nhân khác nhau, trong đó đột biến gene chỉ là một. 
-

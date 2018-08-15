@@ -1,5 +1,0 @@
-Phần mềm xác định kẻ trộm điện thoại di động
-Công ty DENDA (Hà Lan) vừa giới thiệu phần mềm mang tên Sim Watcher, có khả năng thông báo cho nhà cung cấp dịch vụ viễn thông số SIM mới mà kẻ lấy cắp điện thoại đang dùng.
-Ngoài ra, Sim Watcher còn liên tục hiển thị trên màn hình điện thoại một thông điệp cảnh báo kẻ sử dụng rằng chiếc máy thuộc về người khác, đồng thời cho biết địa chỉ để trả lại. Phần mềm có giá 10 euro (bản giới thiệu bằng tiếng Hà Lan ở đây), tương thích với tất cả các dạng điện thoại dùng mạng GSM. Việc cài đặt được thực hiện đơn giản bằng một tin nhắn có file đính kèm hoặc qua giao thức WAP.
-Hiện nay, một số hãng viễn thông lớn như Vodafone cũng đã áp dụng các biện pháp khống chế những chiếc điện thoại bị mất cắp bằng cách áp dụng mã số nhận dạng thiết bị di động (số IMEI) gồm 15 chữ số nhập vào cơ sở dữ liệu trung tâm trong mạng của họ. Một khi chủ máy báo bị mất, điện thoại sẽ bị phong tỏa và không thể hoạt động ở bất cứ mạng nào.
-

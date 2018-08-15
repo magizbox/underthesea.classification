@@ -1,8 +1,0 @@
-Cách in file Adobe Reader (2)
-Tôi có tải xuống máy của tôi một số tài liệu tiếng việt ở dạng file PDF nhưng không thề nào in được vì file này không hỗ trở việc in. Vậy có bạn nào biết cách để in file ở dạng này không hãy chỉ giúp tôi với. Rất mong được sự giúp đỡ của các bạn. Xin cảm ơn nhiều!
-Le Thanh Ha
-Hồi âm:
-Ban hay tai ve adobe reader ver 6.0 ban moi nhat cho phep in tat ca cac file o dang PDF.link download.http://www.adobe.com/products/acrobat/readstep2.html. Truoc khi download hay tim xuong phan STEP 1 OF 2 de chon phan ngon ngu, toc do download va he dieu hanh ma ban dang su dung. 
-TOM
-File Acrobat này đã bị khóa chức năng in. Bạn dùng chương trình Acrokey để "phá khóa" thì sẽ in được ngay. Bạn có thể vào Web của Lê Hoàn để load Acrokey về. Chúc bạn thành công! 
-

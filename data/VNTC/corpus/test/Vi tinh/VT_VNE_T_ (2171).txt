@@ -1,6 +1,0 @@
-Nvidia xuất xưởng chip đồ họa mạnh nhất thế giới
-Bộ vi xử lý GeForce Go 6800 Ultra được mở rộng từ dòng GeForce Go 6800 hiện tại bằng cách nâng tốc độ xung đồng hồ. Nhà sản xuất cho biết sản phẩm này có thể xử lý 5,4 tỷ pixel/giây, so với mức 3,6 tỷ của loại 6800.
-GeForce Go 6800 Ultra, dành cho máy tính xách tay, có tốc độ xử lý vertex 565 triệu đỉnh/giây (tăng 20% so với 470 triệu đỉnh/giây của loại cũ), chạy RAMDAC 400 MHz, hỗ trợ DDR 700 MHz, DDR 2 SDRAM và bộ nhớ GDDR 3 1,1 GHz. Băng thông bộ nhớ lên tới 35,2 Gb/giây.
-Go 6800 Ultra hỗ trợ phiên bản phần mềm DirectX 9.0 Shader Model 3.0 bên cạnh một số công nghệ của Nvidia như UltraShadow II, Intellisample 3.0, PowerMizer và hệ thống xử lý video HD PureVideo.
-Nvidia tuyên bố, công suất không một loại thương phẩm GPU cho laptop nào có thể sánh được của Go 6800 Ultra sẽ sớm được các chuyên gia độc lập đánh giá và khẳng định. Loại chip này hôm nay đã bắt đầu có mặt trong dòng máy notebook Inspiron XPS Gen 2 mới toanh của Dell.
-

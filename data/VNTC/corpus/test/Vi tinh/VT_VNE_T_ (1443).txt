@@ -1,7 +1,0 @@
-AMD không còn độc quyền hợp tác với NVidia
-Khách hàng của Intel sẽ được sử dụng thiết bị đồ họa của NVidia trong tương lai sau lời tuyên bố hợp tác gây ngạc nhiên của hai công ty này. 
-Những khách hàng quen thuộc của Intel nồng nhiệt chào đón sự kiện này bởi họ sẽ được sử dụng card đồ họa thuộc dòng nForce do NVidia sản xuất mà trước đây chỉ dành cho những người sử dụng sản phẩm của AMD. 
-"Hợp đồng này có ý nghĩa đặc biệt với cả hai công ty và quan trọng hơn, nó tượng trưng cho chiến thắng chung của khách hàng, những người bây giờ đã có thêm sự lựa chọn khi muốn tăng khả năng của PC", Louis Burns, Phó chủ tịch kiêm tổng quản lý các sản phẩm máy để bàn của tập đoàn Intel, tuyên bố.
-Sự liên kết này cho phép NVidia tiếp cận công nghệ front-side bus của Intel, từ đó có thể xây dựng các chipset tích hợp trên mainboard với tính năng và chất lượng cao hơn. Nó cũng có thể khiến Intel phải xem xét lại dự án sản xuất chipset cho thế hệ PC mới phục vụ giải trí ở gia đình, có khả năng kết nối với tivi, đầu video, DVD hay các thiết bị hi-fi khác. Thiết bị đồ họa là một phần quan trọng trong những hệ thống máy tính như vậy và rõ ràng các đối tác của Intel sẽ được hưởng lợi từ sự hợp tác này.
-Tuy nhiên, tin tức trên không được các công ty sản xuất card đồ hoạ khác đón nhận một cách nhiệt tình bởi họ phải chia sẻ thị phần với nhà sản xuất mới có tiềm năng không nhỏ này. Hiện tại, vẫn chưa thể biết được khi nào sản phẩm đầu tiên của dự án hợp tác nói trên có mặt trên thị trường.
-

@@ -1,5 +1,0 @@
- Bản cập nhật cuối cùng cho Windows XP Media Center
-Update Rollup 2 (UR2) cho Windows XP Media Center Edition (MCE) 2005 này được đánh giá là không quan trọng. Đây là lần đầu tiên trong 3 năm mà Microsoft không phát hành bản nâng cấp quan trọng nào cho Media Center, nhưng tập đoàn cũng cho biết họ đang tập trung vào phiên bản Media Center sẽ xuất hiện trong vài phiên bản của Windows Vista. 
-Hiện tại bản cập nhật được cung cấp cho thành viên MSDN, XP MCE 2005 UR2 bổ sung thêm một số tính năng bao gồm sắp xếp quản lý nguồn được gọi là Away Mode, hỗ trợ cho HDTV Media Center Extender trong Xbox 360, những cải tiến trong việc ghi DVD và những tính năng khác. 
-Người dùng có thể xem đầy đủ những cập nhật và thay đổi tại đây . Tải về bản vá lỗi tại đây . 
-

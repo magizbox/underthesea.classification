@@ -1,5 +1,0 @@
-Điều chỉnh thiết lập ẩn của Windows với More Properties
-Nếu bạn chán cảnh phải đào bới các menu trong Windows hay chui tận vào trong Registry với những dòng mã dài dằng dặc để thay đổi các thiết lập mặc định, phần mềm miễn phí More Properties sẽ giúp bạn thực hiện công việc này một cách dễ dàng.
-Với More Properties, bạn có thể thay đổi rất nhiều tùy chọn của desktop, hầu hết trong đó tác động đến cách bạn làm việc theo ý thích, giúp tăng hiệu suất. Những điều chỉnh này bao gồm: Thiết lập wallpaper ngẫu nhiên, thay đổi và điều chỉnh kích cỡ biểu tượng, loại bỏ dòng Shortcut to trước những shortcut mới& Đặc biệt hữu ích là tính năng cho phép bạn biên tập danh sách Add/Remove Programs.
-Chương trình có dung lượng 1,72 MB, bạn có thể bấm vào đây để tải về.
-

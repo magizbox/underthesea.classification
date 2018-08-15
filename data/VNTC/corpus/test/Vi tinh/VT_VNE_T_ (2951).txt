@@ -1,7 +1,0 @@
-Yahoo tập trung vào VoIP trong IM mới
-Chiều 17/5, Yahoo đã giới thiệu bản Yahoo Messenger miễn phí mới, cải tiến một số tính năng như gửi tin nhắn nhanh dạng text chuẩn, gọi điện qua máy tính....
-Ngoài ra, khách hàng cũng có thể gửi thông điệp ngắn tới điện thoại di động, chia sẻ ảnh.... Đặc biệt, người dùng được phép gửi thông tin lên trang web cá nhân (weblog) trực tiếp từ cửa sổ IM nhờ kết nối với Yahoo 360 - mạng cung cấp blog và chia sẻ nội dung miễn phí. Download tại đây.
-Trong lần nâng cấp này Yahoo chủ yếu tập trung vào VoIP với thiết kế nút "click to call" dễ thấy trên cửa sổ, tích hợp tính năng voicemail, và tối ưu hóa chất lượng âm thanh đàm thoại qua kết nối băng thông rộng cũng như dial-up.
-"E-mail đã thống lĩnh và trở thành ứng dụng số một từ cuối những năm 90, dịch vụ tin nhắn nhanh chiếm vị trí số hai. Tuy nhiên, hiện nay, VoIP đang mở ra chương thứ ba cho các ứng dụng phổ biến qua Internet", Frazier Miller, Giám đốc Yahoo Messenger, cho biết. "Do vậy, VoIP chính là tâm điểm trong phiên bản nâng cấp mới của hãng".
-Động thái này là câu trả lời tới America Online khi hãng này gần đây đã tiến hành thử nghiệm dịch vụ IM mới, tích hợp tính năng thoại (voice), dữ liệu (data), di động và giao tiếp video. 
-

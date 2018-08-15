@@ -1,9 +1,0 @@
-Google đứng trước nhiều nguy cơ từ Gmail
-Hôm qua, hãng tìm kiếm trực tuyến đã sửa đổi nội dung đơn xin đăng ký với Ủy ban chứng khoán Mỹ (SEC), trong đó bày tỏ sự quan ngại rằng dịch vụ e-mail 1 GB có thể gây ra nhiều bất lợi hơn là lợi ích cho chính họ.
-Sự lo ngại của công chúng và các nhà làm luật về khả năng thu thập, sử dụng hoặc chia sẻ thông tin hoặc những vấn đề quyền cá nhân khác, cho dù là vô căn cứ, cũng có thể phương hại đến uy tín và kết quả hoạt động của chúng tôi, báo cáo của Google nêu rõ.
-Công ty có trụ sở ở Mountain View, California (Mỹ), đang xúc tiến việc cổ phần hóa sơ bộ với tổng trị giá 2,7 tỷ USD và phải giải trình rất nhiều hồ sơ với SEC. Ngày chính thức tuyên bố cổ phần hóa của Google hiện chưa được ấn định.
-Trước đây và có thể cả về sau, mọi người đã bày tỏ sự phản đối về nhiều khía cạnh ở các sản phẩm của chúng tôi. Ví dụ, người ta nhấn mạnh tới vấn đề quyền cá nhân trước khả năng dịch vụ Gmail gắn những quảng cáo liên quan tới nội dung thư, Google trình bày trong báo cáo.
-Hiện nay, dịch vụ thư điện tử miễn phí trên nền web của Google vẫn trong giai đoạn thử nghiệm nhưng đã hứng chịu rất nhiều áp lực của các nhóm hoạt động về quyền riêng tư công dân kể từ khi Gmail được tung ra hồi tháng 4. Những lời chỉ trích tập trung chủ yếu vào cơ chế quét thông điệp gửi đến dựa trên từ khóa mà Google dự định áp dụng đối với quảng cáo và cho hiển thị trong trình duyệt.
-Hãng dịch vụ tìm kiếm thừa nhận Gmail phải đối mặt với những trở ngại lớn hơn nhiều so với vấn đề quyền cá nhân, trong đó có một số dự luật ở các bang Michigan và California, theo đó có thể làm khó cho họ trong hoạt động hoặc thậm chí cấm dịch vụ xử lý thông điệp e-mail phục vụ cho việc xác định và hiển thị quảng cáo liên quan tới nội dung đó.
-Google cho biết họ đã làm việc tích cực với các nhà làm luật ở 2 bang này, đặc biệt là California, nơi một điều luật hạn chế dịch vụ đã được điều chỉnh giảm nhẹ trước khi đệ trình lên thượng nghị viện bang.
-

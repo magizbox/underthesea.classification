@@ -1,5 +1,0 @@
- PalmOne giới thiệu dòng máy PDA Treo 650 mới 
-Treo 650 có hình dạng hết sức bắt mắt, được trang bị màn hình màu có độ phân giải đạt đến 320x320 chống chói có thể đọc được dưới ánh mặt trời, thêm vào đó là bộ sạc rời dành cho pin lithium ion mà Treo 600 không được trang bị. Model Treo 650 cũng được trang bị bộ nhớ flash có tính ổn định cực cao, không làm mất dữ liệu của máy khi hết pin đột ngột. 
-Một trong những cải tiến nổi bật khác của Treo 650 là thiết bị camera. Camera của Treo 650 có ống kính zoom kỹ thuật số 2X và có thể quay được những đoạn video ngắn. Treo 650 cũng có chức năng chơi nhạc MP3 thông qua khe cắm mở rộng SD với card nhớ. Treo 650 đã được tăng cường thêm cổng Bluetooth không dây, model mới này sử dụng bộ vi xử lý Intel PXA270 312-MHz XScale mạnh hơn nhiều so với Treo 600. 
-Cũng giống như đời trước, Treo 650 tương thích hoàn toàn với với các chuẩn mạng di động GMS/GPRS, EDGE và CDMA 1xRTT. PalmOne chưa công bố về giá cả cũng như thời điểm chính thức tung sản phẩm này ra thị trường, nhưng giới thạo tin cho biết Treo 650 sẽ có giá từ 500 đến 600 USD. 
-

@@ -1,8 +1,0 @@
-Giao thức Internet mới tạo ra hàng nghìn tỷ địa chỉ
-Hôm qua, cơ quan quản lý tên miền toàn cầu ICANN công bố ra mắt một công nghệ mới rất mạnh, đủ khả năng cấp cho mỗi người trên trái đất một địa chỉ Internet. 
-Trong một tuyên bố, ICANN nhấn mạnh: "Giao thức Internet thế hệ mới IPv6 cung cấp thêm hàng nghìn tỷ địa chỉ so với hệ thống IPv4 đang được sử dụng trên hầu khắp các mạng hiện nay".
-Bộ Thương mại Mỹ từng bày tỏ lo ngại về sự khan hiếm địa chỉ Internet trong tương lai. Nhờ công nghệ mới, ICANN đã giải quyết tận gốc vấn đề này. Cơ quan quản lý tên miền khẳng định: "Với bước tiến lớn trong việc chuyển đổi sang IPv6, ICANN đang trợ giúp cho những cách tân để Internet phát triển nhằm đáp ứng nhu cầu ngày một gia tăng của nền kinh tế toàn cầu". 
-John Klensin, cựu chủ tịch Hội đồng cấu trúc Internet, nhận xét: "Giờ đây, mỗi nguyên tử trong vũ trụ cũng có được một địa chỉ. IPv6 sẽ chẳng bao giờ thiếu địa chỉ tên miền".
-Tuy nhiên, Klensin cũng tỏ ra lo ngại về quốc tế hóa tên miền (IDN), chủ đề đang được thảo luận tại hội nghị Malaysia do ICANN chủ trì. Ông cho biết, có những vấn đề kỹ thuật nghiêm trọng trong việc tạo ra những tên miền bằng ký tự ngôn ngữ từng khu vực, bao gồm các biến thể của cách viết mỗi vùng trong một số ngôn ngữ như tiếng Trung hay kiểu viết từ phải sang trái trong tiếng Ảrập, đối nghịch với kiểu viết tiếng Anh. 
-Tổng giám đốc ICANN Kieran Baker cho biết, hội nghị Malaysia được kỳ vọng sẽ cung cấp những giải pháp cho vấn đề này. 
-

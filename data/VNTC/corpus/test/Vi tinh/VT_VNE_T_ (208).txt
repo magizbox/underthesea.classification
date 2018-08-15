@@ -1,7 +1,0 @@
-Router không dây đạt khoảng cách hoạt động 40 km
-Bộ định tuyến EH900, thuộc dòng máy NovaRoam, do hãng Nova Engineering (Mỹ) chế tạo, có tốc độ truyền dữ liệu lên tới 300 kbps và chủ yếu sẽ phục vụ các ứng dụng mạng không dây cơ động.
-EH900 tự động thiết lập đường link với các thiết bị NovaRoam lân cận khác trong khi đang di chuyển. Nếu không có một đường link trực tiếp từ nguồn tới điểm nhận, dữ liệu sẽ nhảy qua các đối tượng người sử dụng trung gian cho đến khi tìm được người nhận mong muốn. 
-Điều này tạo ra một mạng mắt lưới ngang hàng đặc biệt, cung cấp đường liên kết dữ liệu gần như liền mạch trong môi trường di động mà địa điểm thay đổi nhanh liên tục, không đòi hỏi một cơ sở hạ tầng hiện hữu. 
-Thiết bị định tuyến này còn có một số tính năng an ninh, trong đó có công nghệ tín hiệu radio giải phổ rộng nhảy tần số mà Nova cho biết rất khó bị chắn hay tắc nghẽn. Các tính năng an ninh khác bao gồm công cụ lọc địa chỉ IP và MAC, cơ chế truy cập bảo vệ password và hệ thống mã hóa loại AES 128 bit.
-Nova đạt được kết quả hoạt động của router ở khoảng cách 40 km sau khi đưa vào sử dụng ở kênh sóng 902-928 MHz. Bộ định tuyến EH900 có 2 mức truyền dữ liệu cao nhất (burst data rate) tùy chọn là 400 và 100 kbps với thông lượng kết nối cực đại (maximum throughput) đạt 300 kbps. Nova cho biết sản phẩm đã được thử nghiệm beta thành công trên nhiều ứng dụng giám sát và kiểm soát thuộc các lĩnh vực công nghiệp, quân sự và an ninh dân sự.
-

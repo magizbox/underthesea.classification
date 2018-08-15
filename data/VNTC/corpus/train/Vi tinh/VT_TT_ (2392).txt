@@ -1,5 +1,0 @@
- Tiết lộ mã nguồn hệ thống bầu cử qua mạng
-Jim Adler, nhà sáng lập đồng thời là giám đốc điều hành của VoteHere, cho biết quyết định này của công ty nhằm xây dựng hệ thống tốt hơn đồng thời giải tỏa những lo ngại rằng hệ thống này không an toàn, dễ bị hacker tấn công và không công bằng trong bầu cử. 
-Adler cho biết công nghệ của VoteHere (VoteHere Technology inside ) cung cấp khả năng chứng thực máy bỏ phiếu điện tử làm việc – từ việc kiểm tra phiếu và phát hiện liệu hacker, nhân viên nội bộ đang can thiệp gì, thậm chí phát hiện lỗi. 
-Mã nguồn hệ thống bầu cử trực tuyến có thể xem tại địa chỉ: votehere.com/downloads.html. 
-

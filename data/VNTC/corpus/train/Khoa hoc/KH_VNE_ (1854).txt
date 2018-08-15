@@ -1,9 +1,0 @@
-Tạo ảnh 3 chiều trên bầu trời bằng laser
-Bầu trời đêm một ngày không xa sẽ sáng rực bởi những hình ảnh quảng cáo 3 chiều khổng lồ, nhờ một kỹ thuật laser mới của Nhật Bản để tạo ra những hình ảnh toả sáng trong không trung. 
-Hệ thống đang được phát triển bởi Viện Công nghệ và Khoa học Công nghiệp Tiến bộ (AIST) ở Tokyo, hợp tác với Đại học Keio và Hiệp hội Burton. 
-"Chúng tôi tin rằng công nghệ này rồi sẽ có nhiều ứng dụng, từ pháo hoa cho đến quảng cáo ngoài trời", phát ngôn viên của Viện cho biết. Còn theo Hiệp hội Burton, công nghệ này cũng có thể có ích trong việc làm tín hiệu khẩn cấp hoặc thậm chí những tín hiệu giao thông tạm thời. 
-Công nghệ sử dụng hiệu ứng ion hoá, xảy ra khi một chùm tia laser chiếu tập trung vào 1 điểm trong không khí. Chùm laser bản thân nó là vô hình trong mắt người, nhưng khi cường độ của xung laser vượt qua một ngưỡng nào đó, các phân tử không khí sẽ bị bẻ gãy thành plasma sáng rực, giải phóng những tia sáng mà mắt người có thể nhìn thấy. 
-Cường độ tới hạn này chỉ có thể đạt được nhờ vào những xung laser cực mạnh, cực ngắn - mỗi điểm plasma hay một "điểm sáng" chỉ kéo dài khoảng 1 nanogiây (1 phần tỷ giây). Tuy nhiên, hình ảnh tạo ra lại lưu trong mắt người lâu hơn do quán tính của thị giác. Và để duy trì hình ảnh, người ta sẽ liên tiếp làm mới các điểm sáng đó. 
-Hệ thống thử nghiệm (sử dụng laser hồng ngoại) đã tạo ra hàng trăm điểm sáng trong mỗi giây. Hiện tại, những hệ thống như vậy có thể phóng ra hình ảnh ở độ cao 2-3 mét cách máy phát, trong không gian khoảng 1 mét khối. Mỗi điểm sáng như vậy phát sinh một tiếng "pốp", kết quả là cả khối tạo thành những âm thanh tanh tách liên tiếp nhau khi hình ảnh được hiển thị trên không. 
-Các nhà nghiên cứu dự kiến sẽ nâng cấp hệ thống thử nghiệm để có tốc độ bắn xung mạnh hơn, tạo ra nhiều chấm hơn và cho ảnh mịn hơn. 
-

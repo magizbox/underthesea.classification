@@ -1,5 +1,0 @@
- Laptop có khả năng bảo mật cao
-Với trọng lượng ban đầu 2kg, Latitude D620 bao gồm một bộ vi xử lý Intel ® Core TM Duo T2300 và màn hình XGA 14,1 inch góc hiển thị rộng. Cấu hình cơ bản bao gồm 512MB DDR2 bộ nhớ dùng chung, ổ cứng SATA 40GB 3 và chuẩn kết nối Wi-Fi 802,11b/g. 
-Latitude D820 với trọng lượng ban đầu 2.54kg màn hình XGA 15,4 inch góc hiển thị rộng, 512 MB DDR2 bộ nhớ dùng chung, ổ cứng SATA 40GB và chuẩn kết nối Wi-Fi 802,11b/g. Các tùy chọn nâng cấp mạnh mẽ cho D820 có thể kể đến NVIDIA Quadro NVS 120M TurboCache - giải pháp đồ họa cho doanh nghiệp với bộ nhớ 512MB 5, màn hình WUXGA độ phân giải cao và ổ cứng 120GB 3. 
-Việc tích hợp các tùy chọn bảo mật như đầu đọc dấu vân tay, thẻ thông minh và môđun TPM1,2 (trusted platform module) giúp khách hàng đảm bảo dữ liệu được truy cập hợp pháp. Cấu trúc khung hợp kim magiê toàn phần bảo vệ các bộ phận nhạy cảm bên trong. Bàn phím kín nước, ổ cứng được bảo vệ toàn diện với StrikeZone™ cùng ổ khóa bảo mật bằng kim loại. 
-

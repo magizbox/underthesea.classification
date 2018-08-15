@@ -1,3 +1,0 @@
- VDC cung cấp thông tin qua tin nhắn
-Thời gian đầu MyMobile cung cấp dịch vụ: tải nội dung qua số tin nhắn 8288 và tra cứu cước Internet 8188. Trước mắt chỉ có các thuê bao thuộc mạng di động Vinaphone (091) và MobiFone (090), không phân biệt loại máy di động, sử dụng được dịch vụ này với giá cước từ 1.000-2.000 đồng/tin nhắn. 
-

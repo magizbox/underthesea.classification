@@ -1,5 +1,0 @@
-Nhận ra lỗi gene gây ung thư bàng quang
-Đó là gene E2F3, chịu trách nhiệm sản xuất một protein đặc biệt kích thích các tế bào ung thư bàng quang phát triển. Số lượng của gene này trong mỗi tế bào còn cho biết bệnh đang trong giai đoạn nào.
-"E2F3 chính là điểm tối trong phạm vi hiểu biết của khoa học về căn bệnh ung thư bàng quang", trưởng nhóm nghiên cứu Colin Cooper đến từ Viện nghiên cứu Ung thư Anh khẳng định. Ông và cộng sự tình cờ phát hiện ra E2F3 khi đang tìm hiểu về các gene liên quan đến ung thư tuyến tiền liệt. Trong các tế bào ung thư ở bàng quang có rất nhiều bản sao của E2F3. Số lượng gene này trong mỗi tế bào có liên quan mật thiết với các giai đoạn phát triển bệnh.
-Phát hiện về E2F3 sẽ mở ra một loạt liệu pháp trị ung thư bàng quang mới, với mục tiêu là khống chế loại protein do gene E2F3 sinh ra. Đây cũng sẽ là nền tảng cho những phương pháp chẩn đoán mức độ ác tính của tế bào ung thư và các giai đoạn phát triển bệnh.
-

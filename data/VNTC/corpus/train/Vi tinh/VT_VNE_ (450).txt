@@ -1,6 +1,0 @@
-Spam gửi qua nhắn tin nhanh sẽ tăng gấp 3 
-Theo nghiên cứu của Radicati Group, tình trạng thư rác được gửi qua hệ thống nhắn tin nhanh (IM) sẽ là tâm điểm gây nhiễu người dùng nhất trong năm 2004, với số lượng tăng từ 400 triệu lên 1,2 tỷ.
-Những kẻ phát tán IM spam, còn được gọi là spim, đang phát triển phần mềm ngụy trang cho phép tự động gửi những thông tin, chủ yếu là khiêu dâm, tới hàng triệu người dùng. Chúng còn có thể tự đổi tên khác khi nạn nhân sử dụng công cụ ngăn chặn. 
-Theo hãng nghiên cứu khác là Ferris Research, thị trường IM doanh nghiệp toàn cầu tăng 130% từ năm 2002 đến 2003 và dự kiến tăng 85% từ năm 2003 đến 2004. Vào 2007, thị trường này sẽ có 182 triệu người sử dụng, đạt tỷ lệ tăng trưởng hằng năm là 79%. Với tình trạng IM ngày càng phổ biến như vậy thì spim càng có nhiều cơ hội quấy rối người dùng hơn.
-Thống kê của Radicati cho thấy lượng spam gửi qua e-mail cũng sẽ tăng gấp đôi trong năm nay, ở mức 35 tỷ thư.
-

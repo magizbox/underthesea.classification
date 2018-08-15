@@ -1,3 +1,0 @@
-MTI MicroFuel Cells vừa cho ra một bản mẫu pin ít cồng kềnh và rất dễ chế tạo. Loại pin này chứa đựng 25% methanol, sẽ được tác động với một lớp màng chất xúc tác và tạo ra dòng điện, nước và khí CO2. Hàng loạt các công ty lớn như Toshiba, Fujitsu, Sharp, Nec... hiện đang nhắm đến việc sản xuất loại pin này để sử dụng cho các máy PC. 
-MTI mong muốn là công ty đầu tiên trên thế giới có thể cung cấp loại pin này, trước hết là dành cho các mục đích quân sự, sau đó sẽ đến công chúng. 
-

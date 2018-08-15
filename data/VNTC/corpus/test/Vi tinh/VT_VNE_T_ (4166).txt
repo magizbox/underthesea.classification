@@ -1,9 +1,0 @@
-Mozilla phát hành bản thử nghiệm Firefox 1.5
-Phiên bản mang tên mã Deer Park này bao gồm nhiều cải tiến đáng chú ý trong khả năng hoạt động, mức độ mở rộng, bảo mật cá nhân..., và là bản nâng cấp chính thức đầu tiên của trình duyệt mã mở phát hành tháng 11 năm ngoái.
-Firefox 1.5 Beta 1 cung cấp khả năng định hướng website nhanh chóng, tính năng duyệt theo tab hoàn thiện hơn, hỗ trợ tổng hợp tin tức RSS, chức năng kéo/thả, khóa pop-up và thay đổi đáng kể nhất đối với người sử dụng Firefox là khả năng tự động cập nhật phần mềm.
-Trình duyệt mới tương thích với hệ điều hành Windows, Linux và Mac OS X.
-Bản thử nghiệm này ra mắt chủ yếu để các nhà phát triển phần mềm kiểm định và phản hồi, nhưng bất cứ ai quan tâm cũng có thể tải về dùng thử. Firefox 1.5 Beta 2 sẽ xuất hiện vào 5/10. Chris Beard, Giám đốc sản phẩm và thị trường của Mozilla, cho biết phiên bản cuối cùng được dự kiến phát hành vào tháng 11 hoặc 12.
-Sau nhiều năm thống trị trên thị trường trình duyệt của Internet Explorer, Firefox đã nổi lên như một sự lựa chọn thay thế khá phù hợp với khoảng 7 - 8% thị phần. "Chúng tôi đã có một năm đầy thành công cho Firefox 1.0 với mốc 75 triệu lượt tảivà vẫn đang ghi nhận nhu cầu sử dụng trình duyệt này ngày càng cao", Beard nói. Mozilla ước tính số khách hàng thực sự của Firefox là khoảng 40 - 50 triệu người.
-Cũng đúng vào dịp Mozilla ra mắt bản Beta 1.5, một lỗi trình duyệt lại vừa được phát hiện, ảnh hưởng tới tất cả các phiên bản cũ của Firefox, cho phép kẻ tấn công chạy mã nguy hiểm trên máy tính cá nhân. 
-Nguy cơ liên quan đến quá trình Firefox xử lý các web link quá dài và chứa nét gạch ngang (-). Đây là một dạng tràn bộ đệm, gây trục trặc trình duyệt khi tin tặc xử lý mã độc từ xa. Mozilla vẫn đang nghiên cứu lỗ hổng này và khẳng định chưa có vụ tấn công nào diễn ra. 
-

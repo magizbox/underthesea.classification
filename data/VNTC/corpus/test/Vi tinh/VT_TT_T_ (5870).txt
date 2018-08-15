@@ -1,6 +1,0 @@
- Điện thoại di động cũng cần chống phân mảnh
-Những cảnh báo về các thiết bị di động thế hệ kế tiếp như dòng điện thoại smartphone sẽ có thời gian xử lý chậm chạp hơn và giải pháp cho chúng là “chống phân mảnh”. Những thiết bị loại này sử dụng các ổ đĩa rất nhỏ lưu trữ các dữ liệu thâu được hoặc tái thâu lại. 
-Dữ liệu sẽ bị tranh giành qua bộ nhớ, kết quả là sử dụng menu và truy xuất tập tin chậm chạp hơn. Giải pháp chống phân mảnh mang hơi hướng của một ứng dụng trong hệ điều hành Windows, nó sẽ đọc tất cá các tập tin và sắp xếp lại chúng trong một luồng liên tục để có thể dễ dàng truy xuất đến dữ liệu. Nhưng hiện tại các nhà sản xuất ĐTDĐ chưa áp dụng giải pháp này. 
-Theo lý thuyết thì người dùng có thể kết nối đến máy tính và sử dụng công cụ chống phân mảnh của Windows để dọn dẹp dung lượng lưu trữ trên ĐTDĐ. Nhưng nhà sản xuất chưa cung cấp phần mềm và hướng dẫn cho việc chống phân mảnh ĐTDĐ, nguy cơ mất toàn bộ dữ liệu được lưu trữ cũng khá cao. 
-Hiện nay, giải pháp tương tự cũng đã xuất hiện nhưng không phải là ứng dụng chống phân mảnh bộ nhớ dành cho ĐTDĐ. Ví dụ như hệ điều hành Symbian trong dòng smartphone của Nokia đã tích hợp ứng dụng Stacker. Phần mềm được phát triển bởi SymbianWare tập trung dành cho Nokia 9200. Stacker có khả năng kết lại dữ liệu liên lạc bằng cách giảm phân tán, xóa bỏ những khối không sử dụng trong các tập tin của nó. 
-

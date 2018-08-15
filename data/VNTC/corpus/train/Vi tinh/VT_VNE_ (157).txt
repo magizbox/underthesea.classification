@@ -1,6 +1,0 @@
-Cài Edit tex trong Compose e-mail của iMac OS X (1)
-Toi hien dang dung may iMac OS X. Khi toi viet mail lai khong co phan viet chu mau va chinh kieu chu to nho. Toi xin cac ban giup toi tim duoc cach su dung. Xin chan thanh cam on.
-Nguyen Huu Nam
-Hồi âm:
-Bạn chuyển sang dùng một trình gửi mail khác, như Entourage (có kèm trong Office X) là có thể sử dụng các font chữ khác nhau được thôi. 
-

@@ -1,5 +1,0 @@
- Kết thúc hỗ trợ Windows 98, 98SE và ME
-Microsoft cho rằng, các hệ điều hành này đã quá lỗi thời và đương nhiên, có quá nhiều sơ hở về bảo mật (so với thời điểm hiện tại) gây nguy hại cho khách hàng. Đó là lý do mà Microsoft ngừng hỗ trợ cho những hệ điều hành này và đưa ra lời khuyên khách hàng nên nâng cấp lên các hệ điều hành cao hơn, như Windows XP chẳng hạn. 
-Windows 98 và Windows ME là những hệ điều hành rất ít thấy trong môi trường doanh nghiệp bởi vì độ an toàn thấp của nó. Theo những khảo sát của Jupiter Research, thì chỉ có 16% máy tính của các hệ thống doanh nghiệp sử dụng Windows 98 và 98 SE, tỷ lệ này là 6% đối với Windows ME. 
-Đây cũng là một trong những động thái mà Microsoft chuẩn bị cho sự ra đời chính thức của Windows Vista. Dự đoán rất nhiều máy tính trong hệ doanh nghiệp hiện đang sử dụng Windows 98 sẽ đồng loạt nâng cấp lên Windows Vista vì tính an toàn và thân thiện của nó. 
-

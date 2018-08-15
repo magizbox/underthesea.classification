@@ -1,7 +1,0 @@
-HP tích hợp phần mềm chống virus cho máy chủ ProLiant
-Hãng chống virus Trend Micro thông báo sản phẩm Client/Server/Messaging Suite for SMB v2.0 của họ đã được Hewlett-Packard chọn để tích hợp trong các máy chủ ProLiant cài hệ điều hành Microsoft Windows Small Business Server (SBS) 2003. 
-Đây là lần đầu tiên HP có giải pháp chống virus và chặn spam tích hợp sẵn trên các máy chủ ProLiant chạy hệ điều hành Microsoft Windows SBS 2003 trong bộ sản phẩm máy chủ giải pháp bảo mật cho doanh nghiệp vừa và nhỏ.
-Trend Micro Client/Server/Messaging Suite for SMB là một phần mềm phòng chống virus tích hợp với giải pháp chặn spam (thư rác) cho các mạng có quy mô vừa và nhỏ sử dụng hệ điều hành Windows, bao gồm các máy trạm, máy chủ và máy chủ mail chạy Microsoft Exchange. Phần mềm này cũng hỗ trợ các máy chủ cài Microsoft Windows SBS 2003. Trend Micro đã thiết kế riêng sản phẩm này nhằm đơn giản hoá việc triển khai, bảo trì các giải pháp phòng chống virus cho doanh nghiệp vừa và nhỏ. 
-Theo Trend Micro, Client/Server/Messaging Suite for SMB v2.0 tích hợp trong các dòng máy chủ HP ProLiant ML100 và ML300 sẽ ra mắt vào khoảng quý III năm 2004 tại Mỹ, Anh, Australia và khu vực châu Á - Thái Bình Dương với phiên bản tiếng Anh. Các phiên bản dành cho những ngôn ngữ khác sẽ ra mắt muộn hơn.
-Bản quyền phần mềm Trend Micro của bộ sản phẩm có giá trị trong 90 ngày. Để có thể được tiếp tục kéo dài thời hạn sử dụng, khách hàng sẽ phải đăng ký với các đại lý uỷ quyền của Trend Micro để nhận mã kích hoạt. 
-

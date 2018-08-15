@@ -1,8 +1,0 @@
-Lỗi ứng dụng web gia tăng
-9/10 chương trình web có khe hở và bị vô số cuộc tấn công khai thác, kể cả khi các đơn vị phát triển phần mềm nghĩ rằng tất cả đã được vá kín.
-Một nghiên cứu của hãng tư vấn an ninh mạng Imperva (Mỹ) về lỗ hổng trên ứng dụng ở các hệ thống cá nhân và công cộng cho thấy bất chấp những nỗ lực kiểm tra khả năng xâm nhập và quy trình nâng cấp định kỳ, những khiếm khuyết mới vẫn liên tục xuất hiện.
-Lỗi ở cấp độ ứng dụng mà hoạt động testing thuần túy không thể xử lý đã mở toang cửa cho các hành động trực tuyến mang mục đích xấu, những vụ xâm nhập cơ sở dữ liệu nội bộ và virus.
-Khảo sát của Imperva phát hiện ra rằng lỗi ở mức độ cao và nghiêm trọng trong các ứng dụng tăng từ 89% lên 93% sau những cuộc kiểm tra thử nghiệm lần đầu. Trong hơn một nửa số cuộc testing sau đó lại tiếp tục xác định thêm những chủng loại lỗi mới toanh.
-Báo cáo này cho thấy một điều rằng sau khi kiểm tra nguy cơ thâm nhập, một số hãng phần mềm đã không thể khắc phục hết số khiếm khuyết đã được xác định, hoặc là vì họ không biết cách vá lỗi hoặc họ cố tình phớt lờ kết quả kiểm tra.
-Việc phát triển phần mềm giám định lỗi tốt và công tác kiểm tra cẩn thận là những yếu tố cần thiết để đối phó với những lỗ hổng ứng dụng phức tạp, Shlomo Kramer, Giám đốc điều hành Imperva, phát biểu. Tuy nhiên, để thực sự cải thiện được độ bảo mật, các tổ chức, doanh nghiệp cần triển khai những giải pháp an ninh riêng cho ứng dụng và tiếp tục sử dụng hệ thống kiểm tra khe hở. 
-

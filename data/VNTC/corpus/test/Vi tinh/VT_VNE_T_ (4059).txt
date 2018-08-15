@@ -1,7 +1,0 @@
-Mất log in trong Win 98SE (1)
-Chào các bạn, tôi đang sử dụng Windows 98SE, nhưng không biết vì lý do gì sau một lần treo, máy không khởi động được, buộc tôi phải cài lại Windows. Và sau lần cài đó, máy tôi tự nhiên không hiện ra màn hình Login để yêu cầu nhận password như mọi khi.
-PC của tôi đã nối mạng, các giao thức nối mạng được cài đặt theo đúng tiêu chuẩn. Tôi cũng có kiến thức về nối mạng nên về các giao thức thì tốt rồi. Vì vậy, muốn vào mạng tôi buộc phải log off sau đó nhập mật khẩu và có thể sử dụng mạng tốt. Nhưng tại sao máy không tự động hiển ra màn hình yêu cầu nhập password như mọi khi? Hãy giúp tôi. Cảm ơn nhiều!
-Dinh Huan
-Hồi âm:
-Có lẽ khi cài lại bạn đã bỏ quên phần wins pass setup, giờ bạn vàocontrol panelnetwork setupconfiguation mở rộng phần primary network logon bạn chọn client for microsoft networks thay vì windows logonyes.. giờ khởi động lại xem có thấy phần password login hay không? cách thứ 2... startrunregeditok bạn tìm xuống các nhánh sau đây.... (nhớ backup trước nhé) HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\ Network .. nhấp chuột real mode net bên tay phải tìm key AUTOLOGON nhấp phải chuột chọn DELETE... bạn sẻ thấy network logon khi khởi động lại máy... đối với 95,98se hay ME bạn có thể bypass phần nhập mật khẩu dể dàng bằng cách nhấn ESC key. 
-

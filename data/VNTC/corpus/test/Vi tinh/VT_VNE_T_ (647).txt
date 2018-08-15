@@ -1,6 +1,0 @@
-Microsoft lại hoãn ngày phát hành Windows XP SP2
-Hãng phần mềm vừa công bố quyết định đẩy lùi thời hạn phát hành bản Service Pack 2 (SP2) của hệ điều hành nói trên thêm một tháng, tức là đến cuối hè này. Trước đây, Microsoft định tung ra phiên bản cập nhật ngay vào những tháng đầu năm nay.
-Windows XP SP2 được thiết kế với mục đích chủ yếu là tăng cường bảo mật cho hệ thống, đồng thời bổ sung thêm một số tính năng như chống pop-up cho trình duyệt Internet Explorer.
-Gần đây Microsoft đã phát hành một bản thử nghiệm gần hoàn thiện của chương trình nâng cấp này nhưng họ vẫn muốn có thêm một lần thử nghiệm nữa trước khi phê chuẩn và phát hành bản SP2 chính thức. Một đại diện của Microsoft cho biết, hiện nay, công ty đang cố gắng thu thập và phân tích phản hồi của những người đã dùng thử bản beta. Sớm muộn thì nó cũng sẽ ra đời khi đã hoàn toàn đáp ứng những tiêu chuẩn chất lượng mà khách hàng Microsoft đòi hỏi, người này tuyên bố.
-Trong thời gian gần đây, công ty có trụ sở tại Redmond, Washington (Mỹ), đã cho một số lượng lớn nhân viên bộ phận Windows tập trung vào làm SP2. Chính điều này cũng là một nguyên nhân dẫn đến việc ngày ra mắt của hệ điều hành Longhorn sẽ chậm hơn so với những tuyên bố trước đây.
-

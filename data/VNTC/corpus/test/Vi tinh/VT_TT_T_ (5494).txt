@@ -1,9 +1,0 @@
- Picdownloader - đem thư viện ảnh về nhà!
-Picdownloader tương thích mọi Windows, tải tại www.fuzzsoft.com hoặc bạn có thể tìm mua tại các cửa hàng bán đĩa CD software. 
-Hướng dẫn sử dụng: Các bước thực hiện 
-Bước 1: Đầu tiên bạn nhấn nút New để bắt đầu phiên làm việc mới cho lần tải ảnh. Hộp thoại Start xuất hiện, trong phần Enter an Internet address to server as the starting location bạn gõ địa chỉ website có những bức ảnh mà bạn muốn tải về, phần acount và password bạn đánh tên sử dụng và password nếu website đó yêu cầu bạn phải là thành viên của website, nếu không bạn để trống, sau đó nhấn Next 
-Bước 2: Trong hộp thoại kế tiếp, phần Image type filter , bạn chỉ định các định dạng file ảnh cần tải về, chương trình hỗ trợ các định dạng ảnh JPEG, GIF, PNG, TGA, BMP, FLASH, PCX, PSD, TIFF, ICON, RGB, WMF. Phần Image size filter , bạn thiết lập kích thước ảnh cần tải như chiều cao của ảnh (Width), chiều rộng của ảnh (Height). Bạn hãy chỉ định khoảng kích thước ảnh cần tải trong phần này. Ngoài ra, bạn có thể đánh dấu kiểm vào mục Do not download image if file size less than rồi điền dung lượng file vào ô trống kế bên để loại trừ bớt các ảnh kém chất lượng. 
-Bước 3: bạn chọn số luồng kết nối và mức tải về tại hai mục Thread number và Download level . Nhấn Finish để kết thúc quá trình thiết lập. 
-Bước 4: Quay trở lại giao diện chính của chương trình, bạn nhấn nút Start để bắt đầu quá trình tải ảnh về. Các ảnh được tải về sẽ hiển thị ở khung phía trên, dạng Thumnail, khung phía dưới hiển thị đường dẫn đến các bức ảnh tuơng ứng ở phía trên. Khi nào muốn ngưng quá trình tải ảnh, trên thanh công cụ bạn nhấn nút Stop để dừng. Đến đây kết thúc nột phiên làm việc, nếu bạn muốn tạo thêm những phiên làm việc khác trên những website khác, bạn hãy thực hiện lại từ bước 1. 
-Sau khi tải các hình ảnh về xong, bạn có thể thưởng thức thành quả của mình rồi đấy! 
-

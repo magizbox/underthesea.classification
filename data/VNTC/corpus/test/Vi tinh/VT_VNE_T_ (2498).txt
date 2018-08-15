@@ -1,6 +1,0 @@
-B.Pitt và A.Jolie tấn công từ chối dịch vụ Microsoft?
-Một virus mới đang lợi dụng tên tuổi của 2 ngôi sao màn bạc Mỹ để tấn công vào website của hãng phần mềm khổng lồ. Loại sâu có tên Ahker-F xuất hiện trong những file đính kèm dạng .ZIP với tiêu đề Hãy xem video clip sex của Angelina Jolie và Brad Pitt.
-Một khi được kích hoạt, virus sẽ tự sao chép vào ổ cứng, tìm cách tắt hết các phần mềm bảo mật trên máy tính và dùng e-mail hoặc các hệ thống chia sẻ ngang hàng P2P hoặc kênh chat IRC để phát tán sang mục tiêu khác. Không chỉ tấn công từ chối dịch vụ vào website Windows Update của Microsoft, Ahker-F còn xử lý cả địa chỉ Rohitab.com của một công ty phần mềm khác.
-Tính hiếu kỳ luôn luôn kích thích mọi người mở các nội dung trên Internet, đặc biệt là khi những nội dung đó được quảng cáo có tính chất khiêu dâm, Graham Cluley, chuyên gia công nghệ của hãng bảo mật Sophos (Anh), nhận xét. Tin tặc đã sử dụng thủ đoạn lừa bịp này từ rất lâu và chúng ta không nên để PC tiếp tục trở thành nạn nhân do sự tò mò của mình.
-Virus nói trên là biến thể thứ 6 của họ sâu Ahker, xuất xứ từ cùng một tác giả xưng danh Agent Hacker. Trong phiên bản F này, kẻ thiết kế còn chèn vào một thông điệp gửi tới các công ty cung cấp phần mềm diệt virus: Các vị không bao giờ bắt được tôi - Agent Hacker - Bazzi.
-

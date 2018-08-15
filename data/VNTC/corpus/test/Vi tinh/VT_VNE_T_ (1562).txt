@@ -1,9 +1,0 @@
-Microsoft chuẩn bị ra mắt Windows 64 bit
-Phiên bản thử nghiệm đầu tiên sẽ được áp dụng trên Service Pack 1 của Windows Server 2003 rồi sau đó là Windows XP Professional 64 bit và Windows Server 2003 64 bit.
-Microsoft nhấn mạnh rằng cả 3 sản phẩm trên đều là bước chuẩn bị cuối cùng cho phiên bản chính thức sẽ ra mắt vào giữa năm tới. 
-Một bản update thứ 2 cho Windows Server 2003, dưới tên gọi R2, cũng đã được lên kế hoạch ra mắt. Microsoft sẽ sử dụng 1.000 người tham gia kiểm thử các phiên bản mới này, dự kiến bắt đầu vào cuối tháng 12 tới.
-"Việc triển khai dòng sản phẩm 64 bit rất nhanh chóng, dễ dàng và sẽ tạo ra một cuộc cách mạng mới vì phiên bản 32 bit trước đó đã đi đến giới hạn của nó", John Borozan, Giám đốc phụ trách sản phẩm của Microsoft, cho biết.
-Lợi ích lớn nhất của các máy tính 64 bit là có khả năng truy cập trực tiếp bộ nhớ vật lý với dung lượng lớn hơn, có thể lên đến 4 GB.
-Cũng theo Microsoft, những người đang sử dụng Windows XP Professional hay Windows Server 2003 32 bit đều có thể đổi lấy phiên bản 64 bit. Hiện tại, bản thử nghiệm dành cho Windows Server 2003 SP1 đã có trên trang web của hãng này.
-Từ lâu, Microsoft hứa sẽ tung ra Windows 64 bit cho dòng chip Operton và Athlon 64 của AMD, tuy nhiên, việc ra mắt bản chính thức cuối cùng đã bị lui lại đến năm tới. Phiên bản sắp ra đời nói trên cũng sẽ hỗ trợ các chip 64 bit trên nền x86 của Intel.
-

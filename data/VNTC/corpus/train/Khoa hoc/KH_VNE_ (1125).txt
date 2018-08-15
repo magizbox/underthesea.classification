@@ -1,5 +1,0 @@
-Áo thun thông minh
-Sáng chế ấn tượng của Đại học Quốc gia Singapore là một chiếc áo thun có khả năng báo động trong trường hợp người mặc áo bị ngã. Sản phẩm có thể sẽ có ích đối với những người già sống độc thân.
-Áo được gắn nhiều cảm biến đo tốc độ di chuyển của người mặc và đo góc thăng bằng tạo bởi trục cơ thể với mặt đất. Hai dạng cảm biến này sẽ tổng hợp tín hiệu, và thông báo khi người mặc bị ngã.
-Nếu người mặc áo có tốc độ di chuyển trên mức 0 và góc thăng bằng nằm trong mức cho phép thì có nghĩa anh ta an toàn. Nhưng nếu tốc độ di chuyển của người mặc biến thiên đột ngột rồi dừng ở mức 0, góc thăng bằng vượt quá khoảng 90  20 độ thì điều đó có nghĩa là anh ta bị ngã. Lúc này các cảm biến kết nối với điện thoại di động hay máy tính bằng công nghệ không dây Bluetooth sẽ gửi tín hiệu báo động đến hệ thống cấp cứu hay điện thoại di động của người nhà của người đang mặc áo thông minh. Loại áo này được chế tạo với hy vọng giúp người già sống độc thân được giúp đỡ khi bị ngã.
-

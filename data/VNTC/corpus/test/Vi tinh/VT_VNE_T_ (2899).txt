@@ -1,5 +1,0 @@
-Phần mềm viết thư tình
-Một chương trình máy tính viết thư tình đang trở thành cơn sốt tại Trung Quốc. Chương trình mang tên "Magic Love Letters" đã có hơn 20.000 lượt download.
-Các nhà lập trình cho biết phần mềm có thể viết tới hơn 10.000 bức thư tình khác nhau. Người sử dụng chỉ việc điền vào tên của người gửi, người nhận và số dòng mà họ mong muốn. Nó cũng chứa sẵn hơn 100 bức thư tình cổ điển mà người dùng có thể tận dụng bằng cách thay đổi tên.
-Giáo sư Zhou Yunqing tại Đại học Wuhan nói: "Với phần mềm này, một số người có thể bày tỏ tình cảm thầm kín của mình mà không sợ bị hiểu lầm".
-

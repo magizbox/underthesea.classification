@@ -1,6 +1,0 @@
-Học làm nhạc flash (1)
-Tôi muốn học cách làm nhạc flash, có trương trình phần mềm nào để hỗ trợ cho việc đó không. Cám ơn các bạn.
-Minh Bạch
-Hồi âm:
-Hiện nay có rất nhiều phần mềm dùng để tạo file nhạc Flash. Nếu làngười dùng chuyên nghiệp có thể sự dụng phần mềm của hãng Macromedia. Phần mềm này có ưu điểm là mạnh đầy đủ các tính năng nhưng hơi phức tạp cho người mới làm quen với Flash. Hiện nay đã có chương trình Koolmovies hỗ trợ tạo file Flash cũng rất tốt. Ưu điểm của chương trình là giao diện thân thuộc dễ sử dụng , có phân chia các cấp bậc cho người dùng. Đặc biệt File hướng dẫn riêng biệt khá đầy đủ. Đây là bản shareware nhưng bản trial cũng đầy đủ các tính năng như bản commerce.Có thể dowload tại http://www.koolmoves.com/. Hiện nay tôi đang tiến hành việt hóa file hướng dẫn ( download trong support ) và trong thời gian tới sẽ hoàn thành. bạn nào có nhu cầu có thể liên hệ để được cung cấp miễn phí qua nguyenduyquy@gmail.com.
-

@@ -1,6 +1,0 @@
-Việt Nam chế tạo robot quay phim đa năng
-Robot quay phim được đội ngũ kỹ sư, sinh viên trường Đại học Bách khoa TP HCM thiết kế, có tay máy dài 7 m và 4 trục xoay, gồm 2 trục xoay góc, lấy net, telex và 2 trục trên ghi hình. Thiết bị có thể linh hoạt quay mọi góc độ, chụp cận cảnh và chụp xa tới 200 m.
-Ngoài ra, nó còn có thể sử dụng được ở cả 3 chế độ: thủ công, bán tự động và tự động (4 trục tự quay theo chương trình phần mềm đã cài đặt). Thiết bị ứng dụng công nghệ xử lý ảnh với hệ số chuyển động góc quay chuẩn, giúp lấy hình sắc nét ở bất kỳ giác độ nào.
-Theo kỹ sư Lê Văn Dũng, một thành viên của nhóm chế tạo, hiện nay trên thị trường chỉ có bán thiết bị quay phim điều khiển bằng tay của nước ngoài với giá khoảng 1,5 tỷ đồng. Trong khi đó, robot này có nhiều chức năng nhưng giá thành dưới 300 triệu đồng. Nó đắc dụng trong phim trường ảo, có thể lột tả toàn cảnh một cách sinh động trong không gian nhất định, quay toàn cảnh không gian rộng. Robot quay phim đa năng đã thực nghiệm với trận bóng đá U14 tại sân vận động Quân khu 7, đêm nhạc Trịnh Công Sơn tại khu du lịch Bình Quới và cuộc thi vòng loại Robocon ở TP HCM.
-Vào cuối tuần này, thiết bị sẽ được chuyển giao cho Đài truyền hình Việt Nam.
-

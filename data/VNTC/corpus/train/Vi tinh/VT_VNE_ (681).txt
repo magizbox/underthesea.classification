@@ -1,5 +1,0 @@
-Singapore dạy kỹ thuật hack cho sinh viên CNTT
-Hôm qua, đại diện của trường Đại học bách khoa Singapore (SP) cho biết các thủ thuật tấn công hệ thống và xâm nhập máy tính sẽ sớm trở thành một phần trong chương trình đào tạo cho sinh viên ngành điện và điện tử ở hòn đảo này.
-Bắt đầu từ tuần tới, các lớp học chuyên về vấn đề tấn công và gây rối mạng sẽ được tổ chức tại trung tâm dữ liệu của trường. Học viên được phép tổ chức thực hiện các vụ tấn công máy chủ và phát tán virus trong một môi trường được bảo vệ thuộc phạm vi Trung tâm điều hành mạng của SP. Chúng tôi muốn tạo ra một môi trường kết nối càng thật càng tốt để sinh viên thực hành có hiệu quả, giảng viên cao cấp Steven Chew phát biểu. 
-Gần 600 sinh viên sẽ tham gia các lớp học kỹ thuật hacker và đây cũng là chương trình duy nhất chính thức đào tạo những kỹ năng này trong một trường công lập ở Singapore. Chi nhánh Cisco và IBM ở địa phương sẽ tài trợ phần cứng và phần mềm cần thiết cho chương trình này.
-

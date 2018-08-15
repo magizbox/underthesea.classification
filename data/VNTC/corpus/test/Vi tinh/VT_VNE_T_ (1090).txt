@@ -1,6 +1,0 @@
-Nén file nhạc MP3 bằng Mp3Trim v1.90a
-Định dạng MP3 vốn đã khá nhỏ gọn, tiện cho bạn trao đổi trên mạng hoặc lưu trữ trong thiết bị nghe nhạc kỹ thuật số. Tuy nhiên, bạn vẫn có thể tối ưu hóa, làm tập tin nhỏ hơn nữa để tăng số lượng bài hát trong kho nhạc của mình với chương trình miễn phí Mp3Trim v1.90a.
-Máy chơi nhạc MP3 có dung lượng lưu trữ không phải là vô hạn. Vì vậy, loại bỏ những thông tin vô ích là điều hợp lý. MP3Trim lọc bỏ tất cả mọi thứ, chỉ giữ lại các khung nhạc của file MP3. Chương trình thậm chí còn có thể loại bỏ cả những đoạn trắng (im lặng) analog cũng như kỹ thuật số. Tính năng này đặc biệt hữu ích khi bạn muốn tận dụng tối đa sức chứa của máy chơi nhạc. 
-MP3Trim hoàn toàn miễn phí khi sử dụng cho mục đích cá nhân. Tuy vậy, bạn cũng đăng ký với trang chủ của nó để được nhận thêm những tiện ích như hỗ trợ file mở rộng& Giới chuyên nghiệp nên sử dụng MP3Trim Pro, có nhiều tính năng hơn.
-Bạn có thể tải bản miễn phí của chương trình, có dung lượng 279 KB, tại đây.
-

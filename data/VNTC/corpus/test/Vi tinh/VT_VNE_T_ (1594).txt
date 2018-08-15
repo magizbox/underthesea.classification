@@ -1,7 +1,0 @@
-Sắp có Trung tâm phản ứng nhanh sự cố máy tính
-Theo đề xuất của Bộ Bưu chính Viễn thông tại phiên họp toàn thể lần thứ 8 Ban Chỉ đạo quốc gia về CNTT vừa được tổ chức tại Hà Nội, Trung tâm VietCERT sẽ có các chức năng nghiên cứu, cảnh báo các nguy cơ về lỗ hổng bảo mật, virus mới xuất hiện.
-Trung tâm cũng có nhiệm vụ đưa ra những biện pháp đề phòng an ninh và làm đầu mối trao đổi thông tin trực tuyến tất cả các ngày trong tuần với các trung tâm xử lý máy tính quốc gia, quốc tế và các tổ chức khắc phục sự cố xảy ra trên diện rộng.
-Ngoài ra, VietCERT còn đào tạo về an toàn, an ninh máy tính, tập hợp đội ngũ chuyên gia về an toàn, an ninh mạng, trợ giúp, tư vấn cho điều tra tội phạm mạng; tham gia, hợp tác với các tổ chức phản ứng nhanh sự cố máy tính quốc tế.
-Phó thủ tướng Chính phủ Phạm Gia Khiêm yêu cầu Bộ Bưu chính Viễn thông và các ngành liên quan nhanh chóng hoàn thành phương án thành lập Trung tâm VietCERT để trình Chính phủ trong quý I năm sau.
-Hiện tại, Việt Nam đã có Trung tâm BKIS thuộc Đại học Bách khoa, các nhà quản trị cung cấp dịch vụ Internet thuộc Công ty VDC, Công ty FPT, công ty Cổ phần viễn thông Sài Gòn. Những đơn vị này đang thực hiện một số công việc phản ứng nhanh các sự cố máy tính. Nhưng đây vẫn chỉ là những hoạt động nhỏ lẻ, không thống nhất trên toàn quốc. 
-

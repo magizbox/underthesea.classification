@@ -1,8 +1,0 @@
-Hiểm họa khi ghé thăm trang Google
-Vẫn dùng ngón nghề cũ nhưng vô cùng hiệu quả, những kẻ lừa đảo trực tuyến và phần mềm gián điệp đã lợi dụng khi khách hàng lơ đãng gõ ký tự nhầm để tấn công máy tính.
-Hãng bảo mật Phần Lan F-Secure đã khám phá một trang web mà chỉ cần gõ một ký tự khác so với Google.com là người dùng đã vô tình rước họa vào PC của mình với một lô phần mềm nguy hiểm. 
-Khi khách hàng gõ sai tên Google.com, màn hình lập tức nhảy ra hai cửa sổ pop-up liên kết tới những trang cài phần mềm phá hoại. Trước khi người dùng nhận thức được nguy hiểm thì máy đã nhiễm hai Trojan cài file DLL vào thư mục Windows, một Proxy Trojan, một Trojan gián điệp chuyên ăn cắp dữ liệu ngân hàng và một Trojan Downloader có thể cài malware (phần mềm nguy hiểm) vào PC. 
-Nguy hiểm hơn, một vài máy tính sẽ nhận được cửa sổ pop-up với dòng chữ: "Máy của bạn đã bị nhiễm virus!". Ẩn sau cảnh báo giả này là đường link dẫn đến trang web độc hại.
-Nhiều kẻ đã lợi dụng việc gõ nhầm tên trang web để dẫn dắt người dùng vào những trang web cài virus hoặc đồi trụy. Ví dụ, rất nhiều người khi truy cập website Nhà Trắng (dinh tổng thống Mỹ) đã gõ Whitehouse.gov thành Whitehouse.com - trang web chuyên đăng tải ảnh khiêu dâm.
-Hầu hết website kiểu này có nguồn gốc từ Nga, nơi được coi là xứ sở của những tay hacker giỏi nhất thế giới. Các nhà cung cấp dịch vụ Internet cảnh báo mỗi tuần diễn ra hàng nghìn vụ lừa đảo trực tuyến và yêu cầu khách hàng cần cẩn thận khi duyệt web để tránh bị tấn công trong những tình huống không ngờ tới.
-

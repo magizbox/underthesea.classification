@@ -1,5 +1,0 @@
- Lịch thi đấu Euro 2004 cho ĐTDĐ
-Ứng dụng này có nhiều chức năng như: - Sắp xếp thứ tự các đội trong từng bảng với các thông tin như số trận đã đấu, điểm, bàn thắng, bàn thua, hệ số...; Tự động tính toán sắp xếp để đưa các đội thắng vào vòng trong; Thông tin về các đội bóng như danh sách các cầu thủ (có thể thay đổi đến ngày 02/06), các thông tin về đất nước, thông tin về vòng đấu loại... Ngoài ra bạn có thể xem đội hiện tại ở bảng nào, sẽ đấu với đội nào. 
-Lịch thi đấu Euro 2004 có dung lượng khoảng 60 - 70KB, hỗ trợ các điện thoại như: Nokia Series 40: 3100, 3120, 3200, 6100, 6610, 6108, 6800, 6820, 6220, 6230, 7210, 7200, 7250, 7250i, 7610, 6600, 3660, 3650, 7650, Nokia N-Gage,... Sony Ericsson T610, T630, Z600 và một số điện thoại của Siemens, Samsung. 
-Bạn có thể liên lạc với cửa hàng Mai Nguyên tại số 58 Nguyễn Bỉnh Khiêm, Q.1, TP.HCM để cài đặt với giá 20.000 đồng. 
-

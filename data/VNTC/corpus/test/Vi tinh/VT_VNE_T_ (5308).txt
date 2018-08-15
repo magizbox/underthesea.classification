@@ -1,5 +1,0 @@
-Thành lập trung tâm ứng cứu khẩn cấp máy tính 
-Thủ tướng Phan Văn Khải vừa ký quyết định 339 thành lập Trung tâm ứng cứu khẩn cấp máy tính Việt Nam (VNCERT). Trung tâm có chức năng điều phối các hoạt động ứng cứu sự cố máy tính trong toàn quốc, cảnh báo kịp thời các vấn đề về an toàn mạng máy tính. 
-Ngoài ra, Trung tâm ứng cứu khẩn cấp máy tính Việt Nam còn có nhiệm vụ xây dựng, phối hợp xây dựng các tiêu chuẩn kỹ thuật về an toàn mạng máy tính; thúc đẩy hình thành hệ thống các CERT trong các cơ quan, tổ chức, doanh nghiệp. Cơ quan này cũng là đầu mối thực hiện hợp tác với các tổ chức CERT nước ngoài.
-Trung tâm ứng cứu khẩn cấp máy tính Việt Nam là tổ chức sự nghiệp có thu thuộc Bộ Bưu chính Viễn thông, có trụ sở đặt tại Hà Nội và văn phòng đại diện đặt tại TP HCM và Đà Nẵng. Bộ trưởng Bưu chính Viễn thông quy định cụ thể chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức và biên chế của Trung tâm này. 
-

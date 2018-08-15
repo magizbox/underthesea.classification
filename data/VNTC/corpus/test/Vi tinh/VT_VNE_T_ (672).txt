@@ -1,7 +1,0 @@
-Mất Icons trên màn hình (1)
-Xin các bạn giúp dùm: không hiểu sau khi tôi restart máy thi vào màn hình wellcome nó hiện lên màn hình nhỏ có phut lui lại 30 '' báo hieu không tìm được file gì đó va sau khi lùi hết hay nhấn ok thì máy vào được Win nhưng lúc này các ICON trên màn hình chạy mỗi chỗ khác nhau và những file trong document va favourite... lúc trước đều biến mất hết. Các Icon chỉ còn vài cái phần mềm cơ bản. Xin các bạn giúp mình. Hy vọng không cần phải format lại.
-truongtondinh
-Hồi âm:
-I think your computer performs an unproper shut down because the OS is missing some vital files. This will cause the OS start the safe mode with a minimum programs and drivers. You need to tell us about your specific OS such as Windows 98, XP , or something else and also the error messages so we can tell you exactly how to fix it. Hope you don't need to format the harddrive. Good luck. 
-Duc Dung Tran
-

@@ -1,5 +1,0 @@
- Chipset mới hỗ trợ công nghệ Mediacasting FLO
-Chipset MBD1000 của Qualcomm với bộ thu vô tuyến RBR1000 hoạt động trên băng tần 700 MHz là một giải pháp đồng hành giao diện êm xuôi với chipset CDMA2000 và WCDMA trong nền multimedia nâng cao của Qualcomm. 
-Tiến sĩ Sanjay K.Jha, chủ tịch của Qualcomm CDMA Technologies nói: “Chipset MBD1000 giao diện trực tiếp với những giải pháp băng gốc của chúng tôi để nâng cao phạm vi các tính năng multimedia tiên tiến đã được tích hợp vào chipset, đưa đến một giải pháp hệ thống hữu hiệu để thu chương trình mediacast di động". 
-Chipset của Qualcomm cũng tương thích với môi trường Java. J2ME có thể hoàn toàn xây dựng trên chipset như là một phần mở rộng cho giải pháp BREW. 
-

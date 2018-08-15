@@ -1,9 +1,0 @@
-Microsoft cũng xây dựng một 'Google Base' riêng
-Tập đoàn phần mềm khổng lồ Mỹ hôm qua tuyên bố họ đã sẵn sàng tung ra một "khu chợ trực tuyến" mang tên Fremont như một sự đáp lại chương trình tương tự mà Google, hãng đối thủ hàng đầu, giới thiệu hai tuần trước.
-Fremont là dịch vụ miễn phí, cho phép mọi người đăng tải và tạo danh sách mọi chủ đề, dù đó là việc rao bán chiếc ghế dài hay tìm kiếm đối tác. Microsoft dự định lập chỉ mục tất cả các nội dung và đưa vào kết quả tìm kiếm khi khách hàng sử dụng công cụ search của họ.
-Tập đoàn này cũng sẽ cải tiến danh sách Fremont với những bản đồ được địa phương hóa và cung cấp qua cổng Internet mới nâng cấp Live.com. 
-Đối với doanh nghiệp hay cá nhân, chương trình này giúp họ tham gia vào một môi trường thương mại trực tuyến đang phát triển. Đứng từ phía nhà cung cấp dịch vụ tìm kiếm qua Internet, nó mang đến nhiều thông tin và trang web hơn nhằm bổ sung cho cơ sở dữ liệu.
-Người sử dụng có thể xem trước Fremont tại Fremont.live.com. Tuy nhiên, Microsoft hôm qua khẳng định dịch vụ hiện giờ chỉ hoạt động giới hạn cho một số thành viên trong hãng và sẽ ra mắt bản Beta ngay đầu tháng 12.
-Dự án này của Microsoft xuất hiện 2 tuần sau khi Google giới thiệu dịch vụ cơ sở dữ liệu Google Base. Cả Google Base và Fremont đều có chung nhiều thuộc tính giống hệt nhau. 
-Theo những gì diễn ra trên thị trường tìm kiếm giai đoạn qua, có vẻ như hãng dịch vụ Internet hàng đầu Yahoo, hiện đứng thứ 2 về công cụ search, cũng sẽ phản hồi bằng một chương trình tương tự.
-

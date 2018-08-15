@@ -1,7 +1,0 @@
-Salesforce.com triển khai công cụ đa ứng dụng 
-Nhà cung cấp phần mềm quản lý quan hệ khách hàng (CRM) trực tuyến vừa công bố một dịch vụ cho phép các doanh nghiệp sử dụng nhiều tiện ích cùng lúc, bất kể đó là chương trình tự phát triển, của đối tác hoặc nhà cung cấp khác.
-Dịch vụ đăng ký sử dụng theo yêu cầu mang tên Multiforce sẽ cho phép khách hàng truy cập các ứng ụng online và vận hành chúng đồng thời thay vì dùng theo kiểu phần mềm chủ/khách mà thường đòi hỏi khách hàng phải xây dựng hoặc thiết lập một bộ ứng dụng riêng.
-Theo Phill Robinson, Phó chủ tịch phụ trách marketing của Salesforce.com, khi sử dụng dịch vụ này, doanh nghiệp có thể chia sẻ các mô hình dữ liệu, hệ thống an ninh và giao diện người sử dụng.
-Trong khi đó, đối thủ cạnh Siebel Systems lại có cách nhìn khác đối với dịch vụ như Multiforce. Chính sách của Salesforce.com bây giờ có vẻ là không muốn làm phần mềm cho khách hàng mà tự khách hàng phải làm, Keith Raffel, Giám đốc sản phẩm của Siebel, nói. Ngày càng có nhiều khách hàng nói với chúng tôi rằng họ muốn trông cậy hẳn vào một công ty cung cấp giải pháp cho họ. Ngược lại, Robinson của Salalesforce.com phản bác rằng Siebel hoạt động theo cơ chế phần mềm client/server và rất khó xây dựng hoặc tùy biến các ứng dụng.
-Dịch vụ Multiforce sẽ trở thành một bộ phận mở rộng của dịch vụ Customforce (một công cụ tùy biến) mà Salesforce.com đang cung cấp. Multiforce cũng sẽ có mặt trong Summer '05, phiên bản sản phẩm mới mà Salesforce chuẩn bị tung ra vào tháng 6 tới.
-

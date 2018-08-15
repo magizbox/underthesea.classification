@@ -1,8 +1,0 @@
-Nghe nhạc với iTunes for Windows
-iTunes, phần mềm chơi nhạc xuất sắc trên hệ điều hành Mac, đã có phiên bản cho Windows. Mặc dù giá tải mỗi bài hát là 0,99 USD, quá đắt với người dùng Việt Nam, và dịch vụ cũng chưa được cung cấp cho khu vực, các tính năng khác vẫn cho chúng ta tiếp cận vô số bản nhạc miễn phí chất lượng cao. 
-Chương trình giúp bạn rip đĩa CD và mã hóa theo định dạng MP3 hoặc định dạng ACC có chất lượng rất cao của riêng iTunes, tạo ra danh sách chơi nhạc (playlist) thông minh, nghe nhạc từ hơn 250 trạm phát thanh Internet miễn phí... iTunes còn cung cấp khả năng đốt các playlist tùy biến lên đĩa CD hoặc ghi nội dung lên đĩa DVD để tạo bản sao lưu dự phòng cho cả một bộ sưu tập nhạc. 
-Một số tính năng đáng chú ý khác bao gồm Party Shuffle, cho phép bạn bổ sung, xóa và sắp xếp lại các bài hát một cách dễ dàng; Apple Lossless, cho bạn nhập bản nhạc từ đĩa CD với chất lượng hầu như nguyên vẹn trong khi dung lượng giảm một nửa. Chương trình tự động chuyển đổi định dạng WMA của hệ điều hành Windows sang định dạng ACC. Nếu nó chơi trực tiếp được các file WMA thì sẽ tiện hơn nhiều. 
-Bạn cũng có thể sử dụng dịch vụ Rendezvous để chia sẻ những bài hát yêu thích trên bất kỳ mạng và hệ điều hành nào. Tính năng iMix cho phép bạn gửi những bản nhạc trong playlist của bạn cho mọi người xem và so sánh iMix của những người dùng khác...
-Sau khi dùng thử, VnExpress đánh giá cao phần mềm miễn phí này. Điều đáng tiếc là người dùng Việt Nam không sử dụng hết được những tính năng của nó vì bị nhà cung cấp giới hạn. Dẫu vậy, đây vẫn là một chương trình hay, nên sử dụng. 
-iTunes là một phần mềm khá lớn (18 MB), có rất nhiều tính năng đang chờ bạn khám phá. Bạn có thể tải chương trình tại đây.
-

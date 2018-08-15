@@ -1,7 +1,0 @@
- Color Impact: phối màu giúp bạn
-Đây là chương trình rất dễ sử dụng. Chỉ cần lựa chọn 1 màu cơ bản, chương trình sẽ tự động lựa chọn và đưa ra những màu phối hợp hoàn chỉnh với màu cơ bản. Sau khi chọn được những màu mà bạn thích, bạn sẽ gắp và thả màu đó vào bảng màu của mình. 
-Color Impact cung cấp sẵn một bộ các công thức phối màu, giúp bạn tạo ra nhiều bảng màu khác nhau từ một màu cơ bản. Nếu bạn đã từng học về đồ họa, bạn có thể tự viết công thức phối màu nhằm tạo ra nhiều hơn nữa các bảng màu đặc trưng cho riêng mình. 
-Chương trình có thể xuất các bảng màu ra nhiều dịnh dạng khác nhau như: BMP, GIF, JPG, PNG, CSS, HTML, ACO, ACT, ACF, WMF, EMF,… và có thể được sử dụng trong các ứng dụng đồ hoạ khác như Photoshop, Flash, Corel, PaintPro, Firework,… 
-Đối với những bạn mê thiết kế web, chương trình cung cấp một công cụ có thể xem trước những màu này được thể hiện trong trang web như thế nào, và có thể xuất ra định dạng CSS để bạn có thể sử dụng trong Dreamweaver hay các ứng dụng thiết kế web khác. 
-Thông tin thêm về Color Impact có tại địa chỉ http://www.tigercolor.com . Bạn có thể tải về bản dùng thử (3.29MB) 14 ngày tại đây . 
-

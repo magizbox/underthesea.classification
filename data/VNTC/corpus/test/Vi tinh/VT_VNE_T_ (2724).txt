@@ -1,6 +1,0 @@
-Mạng dữ liệu LHC thử nghiệm thành công bước đầu
-Một trong những dự án điện toán lưới lớn nhất thế giới mang tên Large Hadron Collider (LHC) đã vượt qua cuộc thí nghiệm quan trọng khi cấp đủ dữ liệu vào 2 ổ cứng máy desktop trong mỗi giây suốt 10 ngày.
-Các nhà nghiên cứu đã thành công trong việc duy trì luồng dữ liệu liên tục với mật độ trung bình 600 MB mỗi giây suốt 10 ngày giữa trụ sở Trung tâm nghiên cứu hạt nhân châu Âu (CERN) tại Geneva (Thụy Sỹ) và 7 địa điểm khác tại Bắc Mỹ. Trên thực tế, mật độ dữ liệu thu được là 500 MB. Theo CERN, nếu truyền tải lượng thông tin đó qua một kết nối gia đình 512 Kb/giây, có thể phải mất đến 250 năm.
-Thành công này là một bước quan trọng trong việc quản lý các luồng dữ liệu khổng lồ sẽ truyền trên LHC, Jamie Shiers, một nhà quản lý tại CERN, phát biểu. Khi LHC chính thức đi vào hoạt động năm 2007, nó sẽ là công cụ vật lý có mật độ dữ liệu lớn nhất trên hành tinh này, tạo ra khoảng 1.500 MB thông tin mỗi giây trong một thời gian là 1 thập kỷ.
-Mục tiêu của dự án Large Hadron Collider là liên kết gần 6.000 nhà khoa học trên thế giới, giúp họ thực hiện những thí nghiệm quy mô lớn cũng như các phép giả lập nhằm nâng cao sự hiểu biết của loài người về các thành phần nhỏ hơn nguyên tử. Mạng Large Hadron Collider này tập hợp hơn 200 viện nghiên cứu.
-

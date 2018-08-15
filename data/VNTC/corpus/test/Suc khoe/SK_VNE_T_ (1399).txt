@@ -1,6 +1,0 @@
-Phát hiện sự cố tim nhờ protein
-Khi bị stress, trong máu sẽ xuất hiện một loại protein đặc biệt được gọi tắt là BNP. Dựa vào lượng protein này, người ta có thể biết được những bệnh nhân bị tắc nghẽn động mạch tim nào đang gặp nguy hiểm, các nhà khoa học Đan Mạch khẳng định.
-Protein "stress" thực chất là một chuỗi axit amin B-natriuretic, được giải phóng vào trong máu khi tim ở tình trạng căng thẳng. Protein này đang được coi là một yếu tố dự báo sự cố tim đáng tin cậy, bên cạnh cholesterol và protein C-reactive.
-Các nhà nghiên cứu đã định lượng BNP ở khoảng 1.000 bệnh nhân bị tắc nghẽn động mạch tim (hiện tượng thường gây ra triệu chứng đau thắt ngực), nhưng đang trong trạng thái ổn định. Sau đó, số bệnh nhân này được theo dõi sức khỏe trong suốt 9 năm. Kết quả cho thấy, nguy cơ tử vong ở những người có nhiều protein "stress" cao gấp 2,5 lần so với những người thấp nhất. Nhờ vào dấu hiệu này, các bác sĩ có thể xác định được bệnh nhân nào cần phẫu thuật tim nhân tạo khẩn cấp.
-Hiện nay, một số bệnh viện trên thế giới đã dựa vào protein BNP để đánh giá tình trạng của những bệnh nhân hay thở gấp - một dấu hiệu của chứng bệnh xung huyết tim, trong đó tổ chức tim không thể làm tốt chức năng bơm máu. Hiện nay, giá của một lần xét nghiệm không quá 50 USD.
-

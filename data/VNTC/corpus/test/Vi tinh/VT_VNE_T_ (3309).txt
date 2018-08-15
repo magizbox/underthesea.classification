@@ -1,6 +1,0 @@
-Lỗi kết nối Bluetooth cho phép tấn công DoS
-Khiếm khuyết này được công bố trên mạng tin an ninh Bugtraq bởi một chuyên gia tư vấn bảo mật có tên Hugo Vázquez Caramés và chi tiết cũng đã được chuyển đến cơ quan quản lý chuẩn kết nối không dây tầm ngắn Bluetooth.
-Lỗ hổng này cho phép thực hiện một dạng tấn công từ chối dịch vụ đơn giản với một công cụ L2ping Linux, Caramés cho biết. Do bản chất ping (thăm dò để tìm đối tượng kết nối) trong giao thức Bluetooth - trong đó đòi hỏi phải có kết nối được thiết lập - và số lượng kết nối hạn chế mà chuẩn không dây này có thể quản lý, chỉ cần một đợt lệnh ping đơn giản với công cụ L2ping cũng có thể cản trở Bluetooth trên nhiều thiết bị. Khi đó, thiết bị sẽ không thể xác định các máy khác và ngược lại.
-Việc tấn công được thực hiện bằng cách làm lụt thiết bị bằng các lệnh ping, chiếm dụng tất cả khả năng thu nhận yêu cầu (request). Thiết bị mục tiêu sau đó sẽ ngừng cố gắng thực hiện kết nối và có thể phải khởi động lại để hoạt động bình thường.
-Nokia cũng đã phát hiện vấn đề này và phát hành phần mềm bảo vệ người sử dụng. Những sản phẩm của hãng điện thoại Phần Lan có nguy cơ bị ảnh hưởng bao gồm model 6310, 6310i, 6650, 8910, 8910i và các bộ điện thoại ôtô Nokia 610, Nokia 810. 
-

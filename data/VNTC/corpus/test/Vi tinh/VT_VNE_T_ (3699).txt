@@ -1,8 +1,0 @@
-Microsoft ra mắt bản thử nghiệm 'Virtual Earth'
-Phiên bản Beta miễn phí cho công cụ tìm kiếmVirtual Earth cung cấp tổng hợp hình ảnh, bản đồ vệ tinh và những dữ liệu trong  danh mục các trang vàng để tìm và chia sẻ thông tin về các vùng trên nước Mỹ.
-Người sử dụng có thể nhập địa chỉ để quan sát bản đồ và một bức ảnh chụp từ vệ tinh. Trường tìm kiếm đặt ở phía trên bên trái trang web cho phép người dùng thu nhận thông tin về doanh nghiệp hiển thị trên một bảng có thể thu gọn lại được.
-Virtual Earth mua bản quyền thông tin từ những chỉ dẫn trong danh mục các trang vàng của Mỹ. Dịch vụ miễn phí này được thiết kế tương thích với công cụ của Microsoft, bao gồm MapPoint, MSN Search và hình ảnh vệ tinh từ TerraServer-USA.
-Thêm vào đó, tính năng "scratch pad" cho phép mọi người lưu lại những địa chỉ mà họ vừa tìm kiếm. Virtual Earth cũng bao gồm tính năng "Locate Me" nếu người dùng đang ở một điểm truy cập Wi-Fi. Vị trí của họ sẽ được hiển thị bằng một chấm sáng trên bản đồ.
-"Khi bạn ở một thành phố lạ và cần tìm một hàng ăn Trung Quốc gần đó hay hệ thống thẻ ATM, kiểu tìm kiếm truyền thống sẽ không mang lại những thông tin về vị trí cụ thể mà bạn cần", Stephen Lawler, Tổng giám đốc Virtual Earth, khẳng định.
-Sơ đồ hoá dựa trên hình ảnh vệ tinh đã thu hút sự quan tâm của nhiều hãng tìm kiếm. Google cũng đã cung cấp một dịch vụ tương tựgần đây cho phép mọi người quan sát hình ảnh 3 chiều của một vị trí cụ thể.
-

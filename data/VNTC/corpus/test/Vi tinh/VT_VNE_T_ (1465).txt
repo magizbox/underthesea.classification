@@ -1,6 +1,0 @@
-Intel giúp đỡ các đối tác châu Á phát triển Linux
-Hãng sản xuất chip số 1 thế giới cung cấp tài liệu, phần mềm và hỗ trợ cài đặt máy để bàn nhằm mở rộng tầm ảnh hưởng tại khu vực đang có sự "bùng nổ" của hệ điều hành "Chim cánh cụt".
-Cách làm này đã được áp dụng trong vòng nhiều năm qua đối với PC sử dụng Windows và server chạy Linux. "Chúng tôi muốn kiến trúc của Intel là nền của mọi sự lựa chọn", người phát ngôn của Intel cho biết. 
-Intel đã đưa ra bộ "Intel Quick Start" dành cho Linux, hỗ trợ việc cài đặt Red Hat, Novell và Red Flag. Trong tương lai, một phiên bản  mới hơn sẽ hỗ trợ Linux theo tiêu chuẩn phần mềm của Trung Quốc.
-Linux đang mở rộng ảnh hưởng nhanh tại thị trường châu Á-Thái Bình Dương và đã trở thành hệ điều hành đứng thứ hai thế giới về số lượng người dùng. Năm 2002, có 3% máy tính toàn cầu được cài đặt Linux, nhưng theo dự đoán của hãng nghiên cứu thị trường  IDC, con số này sẽ tăng lên 6% vào năm 2007.
-

@@ -1,6 +1,0 @@
- Acer TravelMate 8100: Vượt qua giới hạn công nghệ 
-TravelMate 8100 sử dụng CPU Pentium M được sản xuất theo công nghệ 90nm, 2MB L2 cache và 533 Mhz FBS do đó TM8100 có thể đạt công suất nhanh hơn, mạnh hơn nhưng lại tiết kiệm điện năng nhiều hơn. 
-Chipset 915PM Express hỗ trợ công nghệ đồ họa PCI Express mới nhất của Intel và chipset WLAN Intel PRO/Wireless 2915ABG, hỗ trợ các chuẩn WLAN 802.11a,802.11b, 802.11g cùng công nghệ WLAN Acer Signal Up Wireless (độc quyền của Acer) sẽ giúp TravelMate 8100 bắt tín hiệu và liên lạc bằng sóng vô tuyến tăng lên 25% so với các máy không sử dụng công nghệ này. 
-Ngoài ra TravelMate 8100 còn có hệ thống bảo mật và quản lý password bằng card điện tử thông minh Acer TravelMate Smart Card giúp bảo mật dữ liệu, bảo vệ máy tính và chống mất cắp tốt hơn. 
-TM8100 dự kiến sẽ có mặt tại thị trường Việt Nam vào cuối tháng 1 với giá bán khoảng 2.199 USD. 
-

@@ -1,6 +1,0 @@
-Phát hiện gene mới gây ung thư
-Các nhà khoa học Baltimore vừa phát hiện ra một gene có tên là PIK3CA tham gia trong quá trình phát triển của hàng loạt bệnh ung thư. Gene này thường trở nên tích cực khi khối ung thư bắt đầu lan rộng.
-Các chuyên gia hàng đầu về gene gây ung thư của Đại học Johns Hopkins đã phát hiện ra PIK3CA có mặt ở 32% bệnh nhân ung thư ruột kết, 27% trong ung thư dạ dày và khoảng 8% trong ung thư vú. Nhóm cũng ghi nhận được 92 kiểu đột biến của gene này.
-Theo tiến sĩ Victor Velculescu, trưởng nhóm nghiên cứu, số đột biến của gene cho thấy tầm quan trọng của nó trong quá trình phát triển của khối u. Những đột biến này thường xuất hiện rất muộn, khi khối u ở giai đoạn từ lành chuyển sang dạng xâm lấn. 
-Ung thư là một loại bệnh phức tạp, do sự tương tác của hàng trăm loại gene và yếu tố môi trường gây nên. Cho đến nay, người ta đã tìm ra nhiều gene ung thư khác nhau, từ p53 liên quan đến hành chục loại ung thư cho đến BRCA hiện diện trong ung thư vú và buồng trứng. Song theo nhóm nghiên cứu, phát hiện về gene PIK3CA là một dấu mốc quan trọng, theo đó người ta sẽ sử dụng nó như một dấu hiệu đáng tin cậy trong chẩn đoán ung thư và là mục tiêu tấn công của hàng loạt dược phẩm mới.
-

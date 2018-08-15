@@ -1,7 +1,0 @@
-Hiệp hội các nhà nghiên cứu chống virus tấn công thiết bị di động đã phát hiện ra một loại virus có thể lây lan từ máy tính sang các thiết bị di động chạy hệ điều hành Windows Mobile.
-Sau khi đột nhập vào một máy tính chạy hệ điều hành Windows, sâu Crossover tự mình trốn tránh trong một thư mục. Một khi người sử dụng kết nối một thiết bị chạy hệ điều hành Windows Mobile với chiếc máy tính đó thông qua Microsoft ActiveSync, sâu Crossover sẽ tự động kích hoạt và lây nhiễm sang thiết bị.
-Các bản sao sâu Crossover đã được gửi đến một loạt các thành viên của một nhóm thành viên và được chứng minh là có khả năng tấn công theo mô hình kể trên. Tuy nhiên, bản sao sâu Crossover đưa ra để chứng minh tính năng đã được thiết kế để không gây ra thiệt hại nào.
-"Đoạn mã này - sâu Crossover - chỉ được lập trình phục vụ mục đích học tập. Con sâu máy tính này thực sự đã thu hẹp được khoảng cách giữa thiết bị cầm tay và máy tính để bàn", tác giả của sâu Crossover khẳng định.
-Các hãng bảo mật từ nhiều năm trở lại đây đã cảnh báo người sử dụng về các mối đe dọa virus tấn công thiết bị di động. Cuối tuần qua, McAfee công bố số liệu thống kê cho biết hãng đã phát hiện tổng cộng 200 virus tấn công thiết bị di động và cảnh báo các virus tấn công thiết bị di động cũng đang trên đà phát triển mạnh mẽ như những người anh em chuyên tấn công PC.
-Tuy nhiên, các loại phần mềm độc hại tấn công hệ điều hành Windows Mobile hiện nay vẫn khá hiếm. Con virus đầu tiên tấn công hệ điều hành này được phát hiện từ tháng 07/2004.
-

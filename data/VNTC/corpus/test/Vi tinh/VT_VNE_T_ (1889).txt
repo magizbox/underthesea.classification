@@ -1,8 +1,0 @@
-Xử lý tiếng Việt trên website (2)
-Tôi có một vấn đề khó khăn về xử lý tiếng Việt xin mọi người giúp đỡ: Hiện nay tôi đang làm website về gia phả của dòng họ.Tôi đã sử dụng một vài chương trình để làm như: GreatFamily, Win Généalogic, GénéaTique2004 nhưng các chương trình này không cho phép gõ tiếng Việt mặc dù tôi đã lựa chọn các loại font để thử : như VNI, Unicode&. Sau khi chuyển thành các Files HTML, muốn đọc được tiếng Việt tôi phải sửa lại tag head từng trang web một: meta http-equiv="Content-Type" content="text/html; charset=utf-8".Và sau đó dùng Vietkey đánh lại tất cả các chữ muốn hiển thị tiếng Việt, do vậy ra rất mất thời gian.Xin hỏi các bạn trên mạng, bạn nào biết chương trình có thể gõ trực tiếp tiếng Việt và sau đó chuyển thành các Files GEDCOM, HTML hoặc PHP-MYSQL mà không cần sửa gì cả. Mong các bạn hồi âm, hướng dẫn cho. Xin chân thành cảm ơn!
-Diệu Anh
-Hồi âm:
-Bạn có thể theo hướng dẫn đầy đủ tại hai trang sau:http://vnexpress.net/Vietnam/Vi-tinh/Kinh-nghiem/2002/08/3B9BF6AE/http://vietunicode.sourceforge.net/howto/
-NQ
-Neu ma lam web bang HTML thi ban dung Microsoft FrontPage de lam, vi chuong trinh nay cho phep ban danh tieng viet. Ban co the dung Vietkey ( Vn - Unicode 1) de danh tieng viet tren site cua ban....Than. 
-

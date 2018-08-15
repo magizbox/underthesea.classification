@@ -1,8 +1,0 @@
-Virus làm lộ dữ liệu của cảnh sát?
-Cảnh sát thành phố Kyoto (Nhật Bản) vừa thừa nhận việc nhiều thông tin nhạy cảm liên quan đến các vụ điều tra, trong đó có cả danh sách những tội phạm sắp bắt giữ, bị rò rỉ trên Internet. Nhà chức trách cho rằng nguyên nhân có thể là virus ở một máy tính cá nhân.
-Trong tổng số 19 tài liệu bị lộ có nhiều báo cáo điều tra và một danh sách những kẻ tình nghi mà cảnh sát đang dự định tóm. Lỗi ở đây bắt nguồn từ việc một sĩ quan đã soạn thảo những văn bản nói trên bằng máy tính xách tay riêng của anh ta và sau đó những thông tin này đã bị phát tán qua những hệ thống chia sẻ file mạng ngang hàng trên Internet.
-Theo cảnh sát Kyoto, nhân viên nọ đã nhắc đến 20 cá nhân trong những văn bản này. Ít nhất trong số đó có tới 11 là tên thật kèm theo những thông tin chi tiết về địa chỉ, ngày sinh và tội phạm mà những người này thực hiện.
-Graham Cluley, chuyên gia công nghệ của hãng phần mềm diệt virus Sophos, cho biết: Cơ quan cảnh sát Kyoto khẳng định rằng những file nhạy cảm này bị rò rỉ là do virus và họ rất lấy làm tiếc vì đã để một người sử dụng máy tính cá nhân khi làm những công việc như vậy. 
-Cluley nhấn mạnh rằng tất cả những máy tính dùng cho mục đích công nên được bảo mật một cách thích hợp để tránh rò rỉ dữ liệu và các tổ chức nên có những chính sách nghiêm ngặt trong việc cho phép sử dụng phương thức chia sẻ file đối với máy tính công vụ.
-Cảnh sát Kyoto chỉ phát hiện ra sự việc trên khi bộ phận đối ngoại của họ được thông báo, mặc dù trên thực tế họ cũng áp dụng quy định cấm các sĩ quan an ninh lưu thông tin thu thập trong ca trực vào ổ cứng máy tính riêng. Anh chàng sĩ quan cẩu thả nọ đang bị thẩm vấn. 
-

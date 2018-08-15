@@ -1,8 +1,0 @@
-Kẻ xấu vẫn dẫn trước trong cuộc đua bảo mật hệ thống
-Một nghiên cứu của Gerhard Eschelbeck, Giám đốc công nghệ thông tin của hãng Qualys (Mỹ), cho thấy các nhà quản trị hệ thống hiện nay xử lý lỗ hổng an ninh nhanh hơn nhưng những mối đe dọa lợi dụng khiếm khuyết cũng xuất hiện sớm hơn. 
-Theo Eschelbeck, công tác vá lỗi trong năm qua đã được cải thiện nhưng gần 70% các hệ thống hiện tại vẫn bị nguy cơ tấn công.
-Năm 2005, các nhà quản trị hệ thống đã rút ngắn bớt được 2 ngày trong số thời gian mà người ta thường phải bỏ ra để bịt lỗ hổng ở những hệ thống có kết nối trực tiếp với Internet. Cụ thể, cứ khoảng 19 ngày thì một nửa số lỗi nghiêm trọng được xử lý, hoặc là bằng một bản vá hoặc là bằng một giải pháp an ninh khác. Năm ngoái, thời gian này là 21 ngày còn một năm trước nữa là 30 ngày.
-Tuy nhiên, theo Eschelbeck, 19 ngày để khắc phục được 50% số hệ thống bị thủng thì vẫn chưa đủ đảm bảo: 80% số vụ khai thác xuất phát từ cái 50% số hệ thống bị lỗi này mặc dù tỷ lệ hổng có vẻ đang dần được thu hẹp. Một nửa số hệ thống bị lỗi hiện nay được bảo vệ an toàn trong vòng khoảng 48 ngày, so với 62 ngày của năm ngoái.
-Để tăng cường khả năng bảo mật, Eschelbeck cho rằng các cơ quan, tổ chức nên ưu tiên việc vá lỗi vì 90% khe hở an ninh bắt nguồn từ 10% số lỗi: Với sự xuất hiện liên tục và tính phức tạp của những lỗ hổng, các doanh nghiệp không thể khắc phục được hết mọi khiếm khuyết tiềm tàng. Điều quan trọng là ưu tiên vá những lỗi có nguy cơ gây thiệt hại nhất đối với mạng máy tính của mình.
-Nghiên cứu của Eschelbeck phân tích dữ liệu từ hơn 32 triệu lượt quét lỗi. Thông tin thống kê về 2003 và 2004 là tính cả năm còn thông tin của 2005 là tính riêng ở 3 quý đầu năm.
-

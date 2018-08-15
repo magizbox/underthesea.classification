@@ -1,5 +1,0 @@
-Mỹ: Điểm đến thứ 12 của sâu Cabir
-Bắt nguồn từ Philippines, virus điện thoại di động đầu tiên trên thế giới này đã xuất hiện tại Bắc Mỹ trong một cửa hàng bán thiết bị điện tử ở Santa Monica, California, khi có người qua đường phát hiện tín hiệu trên màn hình chiếc Nokia trong tủ trưng bày.
-Theo Mikko Hypponen, Giám đốc nghiên cứu của hãng bảo mật F-Secure (Phần Lan), ảnh hưởng lớn nhất của virus có tới 15 phiên bản này là khả năng hút hết pin của thiết bị liên lạc. 
-Khác với virus máy tính lây lan rất nhanh ra toàn cầu qua Internet, Cabir (còn được gọi là Caribe) phát tán chậm qua khoảng cách ngắn của kết nối không dây Bluetooth. Ngoài ra, để virus nhiễm vào máy còn cần một điều kiện là người sử dụng khởi động lại điện thoại sau khi chấp nhận chương trình. Theo Hypponen, việc Cabir có mặt ở nhiều nơi chỉ có thể là do một chiếc điện thoại chứa virus được mang đi từ nước này sang nước khác. 
-

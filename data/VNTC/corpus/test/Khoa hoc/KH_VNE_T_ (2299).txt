@@ -1,7 +1,0 @@
-Sử dụng vi khuẩn để... chụp ảnh
-Các nhà nghiên cứu vừa phát triển một loại phim dùng trong camera độc nhất vô nhị từ những lớp vi khuẩn nhạy cảm với ánh sáng. Tuy cần đến 4 giờ để chụp và chỉ hoạt động với ánh sáng đỏ, chất lượng của phim cũng đạt tới độ phân giải cao.
-Camera sống này sử dụng ánh sáng để chuyển đổi gene trong vi khuẩn, sau đó tạo ra một chất hóa học ghi hình ảnh có thể làm tối màu. Với kích thước nhỏ, vi khuẩn cho phép thiết bị cảm biến truyền tải độ phân giải 100 megapixel/2,5 cm2. 
-Để xây dựng bộ cảm biến sinh học, nhóm nghiên cứu do Chris Voigt dẫn đầu tại đại học California (Mỹ) chọn vi khuẩn E.Coli trong thức ăn nhiễm độc. Họ đưa các gene từ tảo xanh lục quang hợp vào trong màng tế bào của E.Coli. Mỗi gene sẽ mã hóa một protein để có thể phản ứng trước ánh sáng đỏ. Sau khi được kích hoạt, protein đó sẽ tắt khả năng hoạt động của một gene thứ hai và biến chất chỉ thị sang màu đen. Kết quả là một bức hình đơn màu sẽ hiển thị trên lớp biến thể E.Coli dày đặc.
-Camera sống sẽ không bao giờ xuất hiện tại các gian hàng mà chỉ phục vụ trong nghiên cứu gene. Nhưng thành công của họ khi tạo chuỗi vi khuẩn phản ứng với ánh sáng đã mở đường cho sự phát triển của công nghệ nano mà trong đó những chất li ti được sản xuất với độ chính xác cao nhờ các tia sáng.
-Nhóm nghiên cứu đang tiếp tục mở rộng dải màu trong bộ cảm biến. Có thể họ sẽ dùng retinol, chất giúp võng mạc cảm nhận được những màu sắc khác nhau.
-

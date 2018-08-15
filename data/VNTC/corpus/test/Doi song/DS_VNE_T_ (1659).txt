@@ -1,4 +1,0 @@
-Chọn nhà hàng theo... hiệu ứng dây chuyền
-Nếu bạn đứng trước ba nhà hàng lạ nằm liền nhau, trong đó một nhà đang đông khách và hai nhà còn lại vắng vẻ. Bạn sẽ vào nhà hàng nào? Phần đông người được hỏi cho rằng họ sẽ vào nhà đông khách, bởi theo họ, chắc chắn nhà hàng đó có tên tuổi nhất.
-Những người này liệu có lý? Để trả lời câu hỏi này, một nhà thống kê Đại học Stanford đã xây dựng một thuật toán nhằm diễn tả lại cách mà nhà hàng thu hút khách. Giả thiết mà anh ta đưa ra là số lượng khách tới nhà hàng đông hơn số thực khách đang có ở trong đó. Kết luận: chính sự lựa chọn ban đầu của các khách hàng đầu tiên đã tạo ra một "hiệu ứng dây chuyền". Và trong tất cả các trường hợp, luôn có một nhà hàng đầy khách trong thời gian nhanh nhất so với các nhà bên cạnh mà không phụ thuộc vào chất lượng món ăn của họ. 
-

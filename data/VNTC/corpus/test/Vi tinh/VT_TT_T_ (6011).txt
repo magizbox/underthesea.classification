@@ -1,6 +1,0 @@
- Dịch vụ tìm kiếm thông tin thu phí của Yahoo
-Dịch vụ Yahoo Search Subscriptions này sẽ được thể hiện trên trang web tìm kiếm chính của Yhaoo, cho phép người dùng lựa chọn các dịch vụ thuê bao tìm kiếm thông tin theo yêu cầu. Tuy nhiên các nội dung được cung cấp cho người dùng cũng sẽ còn tùy thuộc vào các đối tác chuyên cung cấp thông tin cho Yahoo. Người dùng sẽ được truy cập toàn phần vào những trang web chuyên chứa những thông tin độc đáo tùy theo mức độ trả tiền thuê bao. Những người dùng không trả tiền khác sẽ không thể mày mò thông tin ở những trang web này hoặc dịch vụ chỉ cung cấp một mẩu tin nhỏ dạng “chào hàng”. 
-Ban đầu dịch vụ Subscription đã ký kết với các nhà cung cấp thông tin chuyên ngành như ConsumerReports.org, The Wall Street Journal Online, TheStreet.com và The New England Journal of Medicine để cung cấp thông tin cho khách hàng. Trong vài tuần tới đã lên kế hoạch cung cấp thêm thông tin cho người thuê bao các nội dung lấy từ Factiva và LexisNexis AlaCarte. 
-Yahoo dự định rằng các tính năng phong phú có trong dịch vụ này sẽ ngày càng hấp dẫn người dùng Yahoo và sẽ thu hút ngày càng nhiều hơn lượng người truy cập vào cơ cấu tìm kiếm hùng mạnh của mình. 
-Người dùng có thể vào đây để thử nghiệm dịch vụ tìm kiếm thông tin mới này của Yahoo. 
-

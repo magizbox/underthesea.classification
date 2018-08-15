@@ -1,6 +1,0 @@
-Không có SP2 cho phần mềm ăn cắp
-Người sử dụng máy tính đang chạy những bản crack của hệ điều hành Windows XP sẽ không thể cài được phần mềm nâng cấp Service Pack 2 mà Microsoft chuẩn bị tung ra trong quý II năm nay. Thông báo này vừa được Danny Beck, Giám đốc sản phẩm Windows của Microsoft Australia, công bố.
-Trước khi cài đặt, SP2 sẽ kiểm tra một danh sách mã sản phẩm, chuyên dùng để chống xâm phạm bản quyền. Nếu mã ID này nằm trong số những bản ăn cắp đã được xác định thì chương trình mới sẽ không cho install, Beck cho biết. Cũng theo ông này, SP2 sẽ được cung cấp qua Internet tại Australia. Kênh phân phối qua CD thì chưa chính thức được phê chuẩn nhưng có thể sẽ được quyết định trong tháng tới.
-Ở Anh, Microsoft cho biết đĩa CD sẽ được cung cấp miễn phí tại các cửa hàng. Việc áp dụng phương thức phân phối cũng sẽ khác nhau tùy theo từng vùng trên thế giới và dựa vào những gì mà hãng phần mềm coi là tốt nhất cho khách hàng. 
-Gói phần mềm nâng cấp SP2 tập trung chủ yếu vào an ninh để tăng độ bảo mật trong cài đặt mặc định XP lên mức cao nhất có thể. Nhiều nguồn tin cho biết dung lượng chương trình này có thể sẽ được cắt bớt xuống còn 80MB vào thời điểm chính thức ra mắt. Tất nhiên, từ nay đến lúc người sử dụng phổ thông có thể tiếp cận sản phẩm này thì Microsoft còn phải tiến hành một vài đợt thử nghiệm nữa.
-

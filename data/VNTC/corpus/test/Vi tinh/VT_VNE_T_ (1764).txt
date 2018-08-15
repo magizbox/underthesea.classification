@@ -1,6 +1,0 @@
-Khai trương website giải thưởng Sao Khuê
-Trang web bằng tiếng Việt có đăng tải đầy đủ thông tin về chương trình bình chọn giải thưởng phần mềm Việt Nam vừa được ra mắt tạiwww.vinasa.org.vn/saokhue. Các đơn vị muốn gửi sản phẩm tham gia có thể tải mẫu đơn đăng ký tại đây.
-Giao diện thân thiện và được trình bày rõ ràng, website liên tục cập nhật thông tin về diễn biến giải Sao Khuê để những ai quan tâm tiện theo dõi. 
-Bên trái màn hình, 5 thư mục được thiết kế gọn nhẹ gồm: tin tức, giới thiệu chung, quy chế giải thưởng, mẫu hồ sơ, trang chủ. Bên phải là lịch tin tức cùng những hình ảnh về diễn biến hoạt động của giải.
-Phần chính giữa của trang gồm những tin tức nổi bật như giới thiệu về giải Sao Khuê 2005 cùng nhiều tin liên quan khác. 
-

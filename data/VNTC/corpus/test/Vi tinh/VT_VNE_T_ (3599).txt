@@ -1,8 +1,0 @@
-Acer Việt Nam trình làng PC để bàn Veriton 3700GX
-Sản phẩm này sử dụng bộ xử lý Pentium IV nền FSB 800 MHz và chipset 915G mới nhất của Intel, hỗ trợ đắc lực khi chạy các ứng dụng lớn và xử lý đồ hoạ phức tạp. Thiết kế nhỏ gọn cho phép Veriton 3700GX chiếm dụng ít không gian.
-Acer Veriton 3700GX có chất lượng đồ họa cao nhờ tích hợp Intel Graphics Media Accelerator 900 (chia sẻ bộ nhớ tối đa lên đến 224 MB), hiển thị sắc nét trên màn hình LCD hoặc màn ảnh rộng như Plasma 42, hỗ trợ xem phim, làm việc trên hai màn hình độc lập (Dual Display).
-Hệ thống âm thanh nổi trung thực với chức năng Intel High Definition Audio hỗ trợ loa 5.1. Khả năng lưu trữ có Intel Matrix Storage hỗ trợ RAID 0/1 giúp tăng tốc độ truy xuất dữ liệu và an toàn trong trường hợp một ổ cứng bị hỏng.
-Giao tiếp đồ hoạ mở rộng của Veriton 3700GX hỗ trợ PCI Express x16, ưu điểm card cắm rời hoặc ADD 2 card, hỗ trợ 2 màn hình độc lập (Dual display).
-Sản phẩm được thiết kế theo kiểu Tool-less, cho phép dễ dàng tháo lắp các thiết bị bên trong bằng tay không cần dùng vít. 
-Giá từ 678 USD (chưa bao gồm 5% VAT). Xem cấu hình chi tiết tại đây.
-

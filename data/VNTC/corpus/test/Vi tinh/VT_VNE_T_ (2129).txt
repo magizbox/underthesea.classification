@@ -1,8 +1,0 @@
-Paris Hilton - 'mồi' của virus, mục tiêu của hacker
-Hãng bảo mật Sophos (Anh) cảnh báo 2 virus Sober.K và Ahker.C đang phát tán trong những e-mail giả vờ chứa phim sex của Hilton. Trong khi đó, chiếc điện thoại di động của cô đào nhiều điều tiếng này cũng vừa bị moi thông tin đưa lên mạng.
-Sâu Sober.K phát tán trong những bức thư có dòng chủ đề Paris Hilton, pure!, You visit illegal websites, Your new Password và Paris Hilton SexVideos, sử dụng tiếng Anh hoặc Đức, tùy theo đối tượng mà nó gửi mail tới. Nếu được kích hoạt, Sober.K sẽ thả vào PC nạn nhân một số file thực hiện như filenamescsrss.exe, winlogon.exe và smss.exe.
-Trong khi đó, Ahker.C xuất hiện với những tiêu đề thư như "Paris Hilton...download it!" và một file đính kèm có tên "ParisXXX.zip". Nếu xâm nhập vào máy tính, virus này sẽ tắt hết các tính năng phòng vệ và tường lửa, phong tỏa việc truy cập tới một số website và mở cổng hậu cho hacker khai thác về sau. Đây là một chiêu bài đã cũ: lấy chuyện sex của nhân vật nổi tiếng để lừa người nhận e-mail. Đáng tiếc là vẫn có khá nhiều người mắc bẫy, chuyên gia Graham Cluley của Sophos phát biểu.
-Sophos phát hiện 2 virus nói trên cùng ngày với việc hacker đã truy nhập vào danh bạ liên lạc trong chiếc điện thoại T-Mobile của Paris Hilton để lấy và công bố số điện thoại riêng của những nhân vật nổi tiếng khác như Anna Kournikova, Lindsay Lohan và Vin Diesel.
-Theo một số hãng dịch vụ tìm kiếm thông tin trực tuyến, Paris Hilton hiện là một trong những người đẹp được search nhiều nhất trên Internet, vì thế mà giới tin tặc khó có thể bỏ qua mà không lợi dụng.
-Một điều thú vị là ngay sau khi xuất hiện các virus liên quan đến Hilton nói trên, Sophos lại phát hiện sâu Derdero.A, phát tán trong những e-mail với lời cảnh báo về virus Ahker.C.
-

@@ -1,5 +1,0 @@
- "Chuột nói" kết hợp VoIP của Sony
-“Chuột nói” của Sony có hình dạng cũng như mọi con chuột máy tính thông thường khác với một nút cuộn. Tuy nhiên, khi chuột mở ra thì lại có hình dạng của một chiếc điện thoại và người dùng có thể sử dụng “chuột nói” như là một chiếc điện thoại VoIP bình thường, nút cuộn lúc này sẽ trở thành phím điều chỉnh âm lượng âm thanh. 
-Khi người dùng nhận một cuộc gọi, sẽ có âm thanh phát ra trong máy tính và đèn led trên chuột sẽ phát sáng báo hiệu. “Chuột nói” cũng kèm theo chức năng loại bỏ tạp âm để tăng chất lượng cuộc gọi. Sau khi hoàn tất cuộc gọi, thì người dùng chỉ việc đóng lại và tiếp tục sử dụng chức năng của một “chú” chuột máy tính thông thường. 
-Nặng 67gr với kích thước 45.5x23.9x89.2mm (khi đóng lại) và độ phân giải 800 dpi, kết nối thông qua cổng USB/USB 2.0, chỉ tương thích với Windows 2000/XP. “Chuột nói” sẽ có mặt tại thị trường Nhật Bản với giá 65 USD vào ngày 18-02 với 5 màu là trắng, đỏ, xanh lá cây, xanh dương và đen. 
-

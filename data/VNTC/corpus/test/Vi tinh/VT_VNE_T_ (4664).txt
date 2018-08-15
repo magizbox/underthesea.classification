@@ -1,6 +1,0 @@
-Intel thay đổi lộ trình phát triển chip máy chủ
-Hãng sản xuất thiết bị xử lý số một thế giới đã quyết định hoãn lại kế hoạch ra mắt Itanium 2 lõi kép đầu tiên, và thay thế Xeonđa lõi bằng một thiết kế mới.
-Montecito, phiên bản lõi kép của Itanium 2, sẽ chỉ được xuất xưởng với sản lượng lớn cho từ giữa 2006, thay vì ra mắt đầu năm sau như trong tuyên bố ban đầu. Intel cũng quyết định thực hiện một số chuyển đổi nhất định trong cấu trúc chip để đạt chuẩn chất lượng mà công ty đề ra. Tuy nhiên, Montecito sẽ không được xây dựng với Foxton, công nghệ quản lý điện năng cải tiến, và tốc độ kết nối FSB tới bộ nhớ là 533 MHz , chứ không phải 667 MHz theo dự kiến.
-Intel cũng loại bỏ Whitefield, tên mã của Xeon lõi kép cho máy chủ bốn và đa thiết bị xử lý. Hãng đang chuyển sang chip Tigerton, dự kiến phát hành năm 2007 - tương đương với khung thời gian của Whitefield.
-Tigerton sử dụng công nghệ kết nối tốc độ cao, cho phép mỗi thiết bị xử lý nối trực tiếp tới bộ chipset của máy chủ. Hiện nay, Xeon cho server đa lõi phải chia sẻ kết nối FSB tới chipset để có thể truy cập dữ liệu từ bộ nhớ hệ thống hoặc I/O. Điều này khiến khoảng cách về khả năng vận hành giữa chip máy chủ của Intel và Opteron của AMD càng bị nới rộng. Cấu trúc thế hệ mới mà Giám đốc điều hành Intel Paul Otellini giới thiệu hồi tháng 8 sẽ được coi là bản thiết kế chi tiết cho Tigerton.
-

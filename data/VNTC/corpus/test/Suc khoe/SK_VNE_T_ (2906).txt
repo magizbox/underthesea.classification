@@ -1,6 +1,0 @@
-Theo dõi sức khỏe bằng... miếng dán
-Chỉ cần một miếng dán nhỏ có gắn bộ vi xử lý trên da, chúng ta có thể theo dõi thường xuyên thân nhiệt, huyết áp, đường huyết và được cảnh báo ngay khi có sự cố.
-Miếng dán điện tử có đính một bộ vi xử lý bằng silic gọi là Sensium, trong đó có những bộ cảm biến dành cho từng triệu chứng. Ví dụ có cảm biến theo dõi xung điện của tim, cảm biến kiểm tra thân nhiệt và lượng đường huyết... Dữ liệu thu được sẽ được chip Sensium xử lý. Chíp này được một cục pin giống như pin đồng hồ đeo tay cung cấp năng lượng. Thông tin sau đó được gửi tới một máy tính để phát hiện sự cố, thông qua điện thoại di động hoặc PDA. 
-"Bác sĩ siêu mỏng" là công nghệ mới nhất do các nhà khoa học của Trường London's Imperial (Anh) chế tạo và đang được công ty Toumaz phát triển. Thiết bị sẽ bắt đầu được thử nghiệm trong vài tháng nữa.
-Nhóm phát triển cho biết sản phẩm mới sẽ là công cụ lý tưởng cho những người muốn theo dõi từ xa sức khỏe của người già. Tuy nhiên, theo giới chuyên môn, không có gì thay thế được việc quan sát, chẩn đoán và nhận định của bác sĩ chuyên khoa.
-

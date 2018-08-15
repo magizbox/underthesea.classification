@@ -1,6 +1,0 @@
-Dịch vụ thông tin đồ họa đầu tiên ở VN
-Hôm nay, Thông tấn xã Việt Nam (TTXVN) cho biết đang hợp tác cùng công ty Graphic News của Anh thử nghiệm dịch vụ thông tin đồ họa. Đây là lần đầu tiên loại hình tin tức này có mặt tại Việt Nam.
-Thông tin đồ họa được sử dụng khá rộng rãi trên thế giới. Các hãng tin lớn như Reuteurs, CNN, AFP& đều có bộ phận thực hiện nghiệp vụ này. Tuy nhiên, đây lại là một khái niệm rất mới mẻ ở Việt Nam. Hiện nay, hầu hết các báo trong nước chỉ sử dụng họa sĩ để dàn trang và trình bày chứ không có bộ phận chuyên làm tin đồ họa. Khi có nhu cầu thì khai thác lại từ báo in hoặc Internet. 
-Theo TTXVN, cơ quan này bắt đầu triển khai dự án tin đồ họa từ tháng 4/2004. Đối tượng hướng tới của dịch vụ mới này là các báo, tạp chí, truyền hình. Nội dung được cung cấp gồm có thông tin về tình hình Việt Nam và thế giới bằng tiếng Việt, tiếng Anh và các ngôn ngữ khác. Tùy theo nhu cầu, cơ quan mua tin có thể yêu cầu được cung cấp nội dung dưới dạng ảnh đơn hoặc tin dàn trang hoàn chỉnh với các định dạng đồ họa bitmap (ảnh, có phần mở rộng là JPEG, .GIF,. BMP) hoặc đồ họa vector của Adobe (.AI) để in với kích cỡ tùy ý. 
-Trong giai đoạn thử nghiệm, người dùng có thể download miễn phí các bản tin đồ họa từ website của TTXVN tại địa chỉ http://www.vnanet.vn/photosvgr.asp.
-

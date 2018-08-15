@@ -1,6 +1,0 @@
-Sửa file IO.SYS (1)
-Tôi muôn sửa file IO.SYS nhưng dùng Edit de sửa thì nó không chạy được. Xin các bạn chỉ giúp có chương trình nào có thể sửa được hoặc sửa bằng các lệnh trong DOS thì làm thế nào? Xin cảm ơn.
-Anh Trung
-Hồi âm:
-Chao ban. File IO.SYS la mot file thuoc tinh an cua DOS, chi duoc thuc hien trong pham vi cac cau lenh cua DOS (DOS COMMAND)  .Truoc khi edit ban da mo thuoc tinh an do chua? O ms-dos prompt go lenh nhu sau: cd.. attrib -s -h -r IO.SYS edit io.sys. Thuc hien cac thay doi sau cho dung voi cac hieu lenh cua DOS. Sau khi xong cac thao tac, nhan ALT+ F, chon S de luu tru lai. Nhan ALT+ F chon X de ra khoi DOS editor. Go vao lenh attrib +h +s +r io.sys, go lenh EXIT de ra khoi MS-DOS prompt. Ban co the tham khao them o day: http://www.csulb.edu/~murdock/dosindex.html
-

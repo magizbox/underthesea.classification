@@ -1,7 +1,0 @@
-IBM ra mắt hệ thống bán lẻ POS tại Việt Nam
-Big Blue vừa giới thiệu hệ thống POS (Point of sale) lần đầu tiên có mặt tại VN dành cho ngành công nghiệp dịch vụ khách sạn và giải trí. Giá bán dao động từ 700 đến 5.000 USD.
-Lĩnh vực dịch vụ khách sạn và giải trí cùng với mảng kinh doanh bán lẻ luôn có những đòi hỏi rất khắt khe. Do đó, việc thay đổi và phát triển nhằm đáp ứng kịp thời nhu cầu của khách hàng và thị trường là cần thiết, ông Trương Phi Dũng, Giám đốc Ban hệ thống máy tính cá nhân, Công ty IBM Việt Nam và Đông Dương, nhận định. 
-Những hệ thống POS mới gồm: SurePOS 300, SureOne POS, SurePOS 500. Mỗi model đều có kết nối USB và hỗ trợ nhiều hệ điều hành khác nhau, gồm cả Windows và Linux. 
-Chiếc máy mà trước đây chỉ phục vụ cho nhu cầu ghi nhận tiền chi trả nay đã trở thành một hệ thống phức tạp, kết nối Internet với nhiều dịch vụ khác. Hệ thống hiện đại này cho phép các nhà kinh doanh hoạt động hiệu quả và năng suất, giúp họ hiểu rõ nhu cầu và phục vụ khách hàng được tốt hơn, bà Issaraporn Phoomchaichote, chuyên gia bán hàng của Bộ phận giải pháp cửa hàng bán lẻ, IBM Thái Lan, nói. 
-Đến nay, IBM là nhà cung cấp hệ thống POS hàng đầu thế giới với gần 2 triệu sản phẩm được bán ra cho hơn 100.000 cửa hàng tại 100 quốc gia. 
-

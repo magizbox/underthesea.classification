@@ -1,7 +1,0 @@
-Hệ thống ATM của VCB gặp sự cố
-Chiều qua, một số khách hàng sử dụng thẻ thanh toán điện tử của VCB phản ánh rất khó rút tiền tại các máy ATM, thậm chí đã bị nuốt thẻ do phải thao tác nhiều lần. Giám đốc Trung tâm Tin học VCB Đào Minh Tuấn chiều nay xác nhận điều này và khẳng định hệ thống ATM hiện đã hoạt động bình thường.
-Ông Tuấn cho biết, trong thời gian từ 3 đến 4 h chiều qua, VCB cho chạy thử nghiệm chương trình Prepaid Card (bán thẻ điện thoại, internet qua ATM). "Do chạy 2 chương trình cùng một lúc nên mạng bị chậm lại khiến thời gian xử lý giao dịch trên máy chậm hơn thường ngày", ông giải thích. 
-Bình thường, mỗi thao tác của máy chỉ mất vài giây, tổng một giao dịch có thể là 20-30 giây. Tuy nhiên, chiều qua, khách hàng phải chờ đến hơn 1 phút mới rút được tiền. Một số người sốt ruột đã thao tác nhiều lần và bị máy nuốt thẻ.
-Trao đổi với VnExpress chiều nay, Trưởng phòng Quản lý thẻ VCB Nguyễn Tú Anh khẳng định, sự cố diễn ra trong hơn 1 tiếng và chỉ cục bộ ở một số nơi. "Máy hoạt động bình thường trở lại ngay khi chúng tôi dừng test chương trình mới. Ngoài ra, đường truyền viễn thông chiều qua cũng có vấn đề, khiến mạng bị chậm lại", bà nói thêm. 
-Hiện VCB có khoảng 160 máy ATM lắp đặt trên toàn quốc, với gần 190.000 tài khoản cá nhân. Bà Tú Anh cho biết đang xúc tiến các công việc cuối cùng để có thể sớm triển khai nhiều dịch vụ tiện ích mới trên ATM ví dụ như Prepaid Card, thanh toán hàng hoá... Dự kiến, ngay từ tháng 3 tới, khách hàng của VCB có thể mua thẻ điện thoại trả trước của VDC trên ATM.
-

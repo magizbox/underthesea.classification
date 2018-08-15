@@ -1,6 +1,0 @@
-Toshiba phát triển màn hình không dây
-Thiết bị này sẽ kết hợp sự thuận tiện của máy tính bỏ túi Tablet PC với sức mạnh của một máy xách tay. Hãng chế tạo cho biết sản phẩm hoàn thiện sẽ được tung ra thị trường trong vòng 3 năm nữa.
-Mẫu máy thử nghiệm mà Toshiba giới thiệu tại Triển lãm công nghệ CeBit (Hanover, Đức) là một màn hiển thị dùng bút stylus và không cần kết nối dây dẫn với máy tính xách tay. Màn hình LCD TFT rộng 12,1 inch với độ phân giải XGA (1024 pixel x 768 pixel) liên kết với máy tính thông qua giao thức không dây 802.11b. Màn hình thử nghiệm này có độ dày 1,7 cm, nặng 500g và đi kèm với chiếc máy xách tay Toshiba Dynabook SS SX. 
-Hajime Yamaguchi, một chuyên gia tại Trung tâm thí nghiệm thiết bị điện của Toshiba, cho biết công ty sẽ phải làm cho màn hình mỏng và nhẹ hơn nữa trước khi bán ra thị trường. Vấn đề còn lại là thời lượng pin. Mẫu thử nghiệm chỉ có thể hoạt động trong có 1 tiếng khi tách biệt về nguồn điện với máy tính. Yamaguchi tuyên bố: Nếu người tiêu dùng thấy rằng thời lượng pin khoảng 2 hoặc 3 tiếng là chấp nhận được thì việc chúng tôi cho ra mắt sản phẩm này trong vài năm tới là điều không khó.
-Toshiba đang muốn phát triển nhiều loại màn hình với kích thước từ 10 đến 15 inch cùng với một dòng PC không nối dây màn hình. Hãng còn có kế hoạch cung cấp những sản phẩm này cho các công ty máy tính xách tay khác.
-

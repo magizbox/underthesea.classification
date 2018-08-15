@@ -1,5 +1,0 @@
-Nhật, Trung, Hàn phát triển hệ điều hành mới
-Hôm 3/4, tại Bắc Kinh, ba quốc gia Đông Á đã ký thỏa thuận hợp tác phát triển một hệ điều hành dựa trên nền Linux, được xem là đối trọng nặng ký của Windows trong thời gian tới.
-Thỏa thuận đạt được sau một cuộc họp của các giới chức chính phủ từ ba nước. Nó sẽ đẩy mạnh sự phổ cập của phần mềm mã mở tại Đông Á. Cả ba quốc gia sẽ mở một diễn đàn để các hãng phần mềm mã mở tư nhân trao đổi thông tin mật thiết hơn. Ngoài ra, từng nước tự mình đẩy mạnh việc sử dụng mã mở trong chính phủ, tạo điều kiện cho khối tư nhân đi theo.
-Thỏa thuận này là một phần nỗ lực nhằm giảm thiểu phụ thuộc vào hệ điều hành của Microsoft, vốn bị ba nước này quy kết là làm giảm năng lực của ngành công nghiệp phần mềm máy tính của họ.
-

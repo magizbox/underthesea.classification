@@ -1,6 +1,0 @@
-Windows bị tấn công sau 5 ngày phát hành bản sửa lỗi
-Sâu Zotob.B, chỉ được hãng bảo mật Trend Micro xếp vào hạng "thường thường bậc trung", đã tấn công vào những hệ thống máy tính chưa cài bản vá lỗi Windows mới nhất và gây nhiều phiền toái cho người dùng Internet.
-Trước đó, sâu Zotob.A đã được sử dụng để tấn công lỗi Plug-and-Play với khả năng tự lây nhiễm và sao chép qua một file tên Botzor.exe trong hệ điều hành Windows 98/ME/2000/XP/Server 2003. Microsoft đã công bố miếng vá trong bản tin bảo mật hàng tháng vào ngày 9/8. Tuy nhiên, chỉ vài hôm sau, chương trình nguy hiểm hướng vào khai thác lỗ hổng này lại xuất hiện.
-Zotob.B cài một chương trình có tên CSM.exe vào tệp hệ thống Windows, sau đó nó bắt đầu thâm nhập FTP server và nhân bản. Virus quét địa chỉ IP của những máy tính chưa cài bản vá lỗi, tải file HAHA.exe vào FTP server và tiếp tục lặp lại quá trình này. Phần mềm cũng có thể mở cổng hậu, tạo cổng ngẫu nhiên trên máy tính và kết nối tới IRC server nhằm phục vụ những mục đích khác trong tương lai.
-Trung tâm dò tìm virus của Trend Micro bắt đầu ghi nhận sự xuất hiện của Zotob.B vào sáng hôm qua, với khoảng 1.000 máy tính tại Bắc Mỹ và Đan Mạch bị lây nhiễm. 
-

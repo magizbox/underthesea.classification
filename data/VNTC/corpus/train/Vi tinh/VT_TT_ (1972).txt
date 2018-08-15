@@ -1,7 +1,0 @@
- Cho văn bản rực rỡ với CoolColor Text Generator
-CTG chỉ có đúng một giao diện sử dụng duy nhất và vô cùng thân thiện. Muốn tạo đoạn văn bản “long lanh 7 sắc cầu vồng” thì bạn check vào ô “Rainbow”; tạo đoạn văn bản chuyển tiếp giữa 2 tông màu tự chọn thì check vào “Gradual Color”; còn muốn văn bản của mình có màu sắc “búa xua” thì chọn “Ramdom Color”. Sau đó bạn chỉ cần gõ hoặc dán đoạn văn bản đã soạn sẵn vào ô “Text” là CTG sẽ tự động biến màu sắc của đoạn văn bản trở nên long lanh như ý. 
-Nếu tạo văn bản ở mức độ 7 sắc cầu vồng thì CTG sẽ cung cấp cho ta 3 hiệu ứng là màu sắc đảo nghịch, màu sắc đối xứng và “Crazy Text”, tức các ký tự trong văn bản sẽ to nhỏ bất thường không theo 1 quy luật nào cả. CTG sẽ cung cấp cho bạn một bảng màu đầy đủ để bạn tự chọn màu ở chế độ chuyển tông giữa hai màu. 
-CTG không làm việc được với bảng mã Unicode Việt Nam nhưng hoạt động tốt với các bảng mã thông dụng như VNI Windows, TCVN ABC… cho nên việc tạo văn bản bằng tiếng Việt cũng không gặp gì khó khăn. 
-Bạn nên chọn chế độ lưu file là HTML để xuất file văn bản ra dưới dạng web, từ đó bạn có thể dán qua Microsoft Word để gián tiếp tạo ra hiệu ứng màu sắc văn bản lạ mắt, mà rất khó làm được bằng các trình xử lý văn bản. 
-Công ty DicotSoft đang bán ra công cụ này với giá là 9,95 USD. Người dùng có thể vào đây để tải bản CoolColor Text Generator 1.0 về dùng thử với dung lượng chỉ khoảng 580 KB. Hiện CTG đã có mặt tại các cửa hàng phần mềm. 
-

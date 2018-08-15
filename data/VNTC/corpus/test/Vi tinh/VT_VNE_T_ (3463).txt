@@ -1,8 +1,0 @@
-Microsoft bồi thường 850 triệu USD cho IBM 
-Phán quyết cuối cùng của Tòa án liên bang hôm 1/7 đã buộc hãng phần mềm lớn nhất thế giới phải trả 775 triệu USD, đồng thời bồi thường thêm 75 triệu USD cho các chương trình điện toán của tập đoàn máy tính khổng lồ trong vụ kiện chống độc quyền kéo dài từ thập kỷ trước.
-Microsoft cho rằng phán quyết này có phần thiên vị sự buộc tội quá đáng và mức bồi thường cao của IBM. Tuy nhiên, Phó giám đốc cao cấp, cố vấn của Microsoft Brad Smith cũng khẳng định: "Đây sẽ là động lực và kinh nghiệm cho chúng tôi giải quyết những vấn đề liên quan với các công ty khác".
-Cuộc chiến pháp lý này đã diễn ra từ những năm 90 khi Tòa án liên bang nhận thấy Microsoft có những hành động vi phạm quy định về độc quyền khi gây sức ép với nhiều hãng sản xuất máy tính, buộc họ phải sử dụng phần mềm của mình.
-775 triệu USD là một trong những khoản tiền bồi thường lớn nhất trong chuỗi thanh toán kéo dài của tập đoàn phần mềm. Năm ngoái, Microsoft cũng phải chấp thuận trả 2 tỷ USD cho Sun Microsystems. Cũng trong năm 2004, Ủy ban châu Âu phạt hãng 597 triệu USD vì những cáo buộc về độc quyền tương tự. Bên cạnh đó, Microsoft bị ép phải sản xuất phiên bản mới của Windows XP không có tính năng Windows Media Player, được biết đến với tên gọiWindows XP Home Edition N.
-"Gạt tất cả những vụ chống độc quyền lại sau lưng, cả Microsoft và IBM sẽ tiếp tục cùng nhau phát triển, hợp tác và cạnh tranh lành mạnh để mang lại những sản phẩm và dịch vụ tốt nhất nhằm phục vụ nhu cầu khách hàng", Brad Smith bày tỏ.
-Vụ kiện độc quyền do RealNetworks tiến hành chống lại Microsoft và một số vụ nhỏ khác vẫn chưa thể đi đến kết luận cuối cùng.
-

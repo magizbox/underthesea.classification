@@ -1,8 +1,0 @@
-Trung Quốc - thùng chứa rác e-mail của thế giới
-Bất chấp các nỗ lực của nhà chức trách, đất nước đông dân nhất thế giới đã trở thành điểm đến yêu thích số hai của spam, chỉ sau Mỹ. 
-Theo thống kê của Hiệp hội mạng Trung Quốc (ISC), từ khi Internet xuất hiện tại đây, các máy chủ đã nhận được hơn 150 tỷ thư rác, chiếm 30% e-mail. Riêng năm ngoái, người dân đại lục phải chịu cả thảy 46 tỷ e-mail không mời. Đó là một sự lãng phí nguồn lực to lớn, Gong Shaohui, thành viên hiệp hội chống spam, phàn nàn.
-ISC cũng đã đưa ra một danh sách đen, gồm 656 máy chủ spam trên thế giới, trong đó có 62 tại lục địa, 65 ở Đài Loan, 6 đặt trên đất Hong Kong. Họ cũng ra tối hậu thư, cảnh cáo hôm nay sẽ là thời hạn cuối cùng để những kẻ gửi spam tự ngừng hoạt động nếu không muốn bị khoá. Dù vậy, vài giờ trước khi thời hạn chấm dứt, vẫn chẳng có vẻ gì là các spammer sẽ tự giác rút lui.
-Có hai lý do cơ bản dẫn tới tình trạng này, Huang Mingsheng, chủ tịch tổ chức 263, một nhà cung cấp dịch vụ Internet chính, giải thích. Thứ nhất, chúng ta không có những hình phạt pháp lý với tệ thư rác. Thứ hai, các hãng e-mail cũng chẳng mặn mà gì với việc đầu tư vào công nghệ chống spam.
-Tháng 9 năm ngoái, chính quyền Trung Quốc đã chặn 127 máy chủ spam nội địa, khiến các e-mail bị tự động trả lại. Nhưng điều đó vẫn chưa đủ, và người dùng Internet vẫn thường xuyên phàn nàn là phải bỏ đi nhiều địa chỉ e-mail mà họ đã dùng nhiều năm, vì spam.
-Năm ngoái, trên thế giới, có khoảng 50% e-mail là thư không mời. Theo báo cáo của hội thảo Thương mại và Phát triển của Liên Hiệp Quốc, nguồn lực thiệt hại quy ra tiền lên tới 20,5 tỷ USD.
-

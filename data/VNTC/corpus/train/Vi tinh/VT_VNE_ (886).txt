@@ -1,5 +1,0 @@
-NASA phát triển siêu máy tính Linux
-Hôm qua, Cơ quan Hàng không vũ trụ Mỹ (NASA) đã lựa chọn hãng Silicon Graphics làm nhà thầu chế tạo siêu máy tính 500 terabyte sử dụng hơn 10.000 chip Itanium của Intel. Đây sẽ là một trong những supercomputer Linux mạnh nhất thế giới.
-Siêu máy tính mới, với tên gọi Space Exploration Simulator (Thiết bị thám hiểm không gian mô phỏng), bao gồm 20 hệ thống SGI Altix được cài đặt riêng rẽ, mỗi hệ thống tích hợp 512 bộ vi xử lý. NASA phát triển máy tính này nhằm phục vụ thám hiểm không gian, nghiên cứu hiện tượng nóng lên của khí hậu toàn cầu và công nghệ vũ trụ.
-Silicon Graphics cho biết, họ đã cài đặt 3 hệ thống Altix đầu tiên cho Trung tâm nghiên cứu Ames của NASA. Dự kiến, siêu máy tính với 10.240 chip Intanium sẽ được hoàn thiện trong những tháng tới. 
-

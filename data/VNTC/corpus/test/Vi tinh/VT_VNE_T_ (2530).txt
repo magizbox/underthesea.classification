@@ -1,6 +1,0 @@
-Nhắn tin để nhận trả lời bằng virus?
-Tin tặc lại vừa tung ra phần mềm thứ 3 có khả năng phát tán qua các tin nhắn đa phương tiện (MMS) Khi hoạt động, virus mang tên Mabir.A gửi một thông điệp dạng MMS cho bất cứ tin nhắn SMS hay MMS nào mà điện thoại bị lây nhiễm nhận được.
-Mabir.A, cũng sử dụng cách phát tán qua sóng Bluetooth, nhắm vào điện thoại di động Series 60 chạy hệ điều hành Symbian. Về cơ bản, có thể coi đây là một biến thể của Cabir(vốn chỉ lây lan qua  Bluetooth) được bổ sung thêm khả năng gửi tin MMS. Phân tích của hãng bảo mật Phần Lan F-Secure cho thấy Mabir.A sử dụng mã nguồn và cơ chế hoạt động tương tự như những phiên bản Cabir đầu tiên và có thể là tác phẩm của cùng một hacker.
-Khi phát hiện mục tiêu đầu tiên trong tầm sóng, virus sẽ bắt đầu gửi các bản sao tới chiếc điện thoại này. Sau đó, mỗi khi có tin nhắn gửi đến, virus đều tạo ra và gửi đi một thông điệp trả lời (reply). 
-Đầu tháng 3 vừa qua, các hãng phần mềm bảo mật cũng đã phát hiện virus CommWarrior sử dụng cách lây lan qua tin nhắn MMS.
-

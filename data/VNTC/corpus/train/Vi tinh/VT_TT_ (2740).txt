@@ -1,6 +1,0 @@
- Bạn muốn xóa dữ liệu vĩnh viễn?
-Những thông tin nhạy cảm như tài khoản ngân hàng, thẻ tín dụng, hình ảnh riêng tư hay tài liệu quan trọng... vẫn tồn tại trên ổ cứng kể cả khi bạn đã xóa và còn cẩn thận làm rỗng “thùng rác” (Recycle Bin). Trong trường hợp này, giải pháp tốt nhất để yên tâm dữ liệu đã được xóa vĩnh viễn là phần mềm Nova Drive Erase Pro của Nova Development. 
-Phần mềm tương thích với các ổ đĩa sử dụng hệ điều hành Windows, không bó buộc bởi dung lượng hay mạch ghép nối và cho phép thực thi trên nhiều PC tùy thích. Drive Erase Pro sẽ chép đè toàn bộ dữ liệu lên tất cả những vị trí trên ổ đĩa cứng với một ký tự, sau khi hoàn tất nó sẽ lại tiếp tục với các ký tự bất kỳ. Tiện ích Disk Viewer sẽ hiển thị thông tin kiểm chứng về trạng thái xóa dữ liệu. 
-Một tiện ích khác được kèm theo là SurfSecret Privacy Protector giúp người dùng xóa những dấu vết khi truy cập Internet như: từ khóa tìm kiếm trên Google, dấu vết của chương trình tin nhắn IM (Instant Message) hay P2P... và 30 ứng dụng khác. SurfSecret Privacy Pro còn có chế độ Stealth Mode để bảo đảm rằng sẽ không ai có thể hay biết khi tiện ích đang hoạt động âm thầm trên máy tính. 
-Drive Erase Pro hoạt động trên các phiên bản của hệ điều hành Windows 98/ME/NT/2000/XP hay tất cả các ổ cứng USB, FireWire khác chạy hệ điều hành Windows với giá bán lẻ 29,95 USD. 
-

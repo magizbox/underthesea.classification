@@ -1,7 +1,0 @@
-Spyware gia tăng gấp 3 trong một quý
-Theo khảo sát của chương trình Spy Audit do hai hãng ISP Earthlink và Webroot Software thực hiện, số máy tính nhiễm phần mềm gián điệp tăng 230% trong 3 tháng cuối 2004.
-Các chương trình Trojan theo dõi bàn phím và hệ thống cũng phát triển với tỷ lệ 114% trong cùng thời gian này. 
-Trong quý IV năm ngoái, Spy Audit đã quét và phát hiện tới 33.096.255 phần mềm spyware, adware và nhiều loại chương trình xâm nhập lén lút khác trên PC. Số phần mềm theo dõi hệ thống tăng từ 48.260 tháng 10/2004 lên 159.262 tháng 12. Riêng Trojan tăng từ 55.228 lên 118.043.
-Spaw Audit đã ghi nhận cả năm 2004 có tổng số 116,5 triệu spyware, adware và các loại khác. Tỷ lệ trung bình là cứ 25 lần quét thì phát hiện một spyware. Matt Cobb, Phó chủ tịch EarthLink, nhận xét: Sự gia tăng này cho thấy spyware đang nhanh chóng trở thành một trong những mối đe dọa nguy hiểm nhất trên Internet. 
-Trojan và spyware thường được thiết kế với khả năng ghi nhận các lệnh gõ trên bàn phím, chụp màn hình và thu thập thông tin cá nhân như số thẻ an sinh, tài khoản ngân hàng, mã truy nhập, số thẻ tín dụng, password&.
-

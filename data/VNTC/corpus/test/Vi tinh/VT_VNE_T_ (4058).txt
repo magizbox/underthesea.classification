@@ -1,5 +1,0 @@
-Để tivi kết nối với máy tính cho hình rõ nét
-Hiện giờ, tôi có 1 tivi LG 29 inch có ngõ vào computer với độ phân giải là "640 x 480". Computer của tôi có hệ điều hành Windows XP Service Pack 2 , Pentium 4 CPU 2.26 GHz, RAM 248 MB. 
-Tivi kết nối với máy tính xem vẫn được nhưng không rõ cho lắm. Vậy tôi cần thêm những gì nữa không để kết nối từ computer với tivi xem cho rõ.
-Xuan Tran
-

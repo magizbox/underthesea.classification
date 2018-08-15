@@ -1,7 +1,0 @@
-Microsoft, Fujitsu phát triển máy chủ thế hệ mới
-Hãng phần mềm khổng lồ Mỹ và đại gia sản xuất máy tính Nhật Bản vừa đạt được thỏa thuận hợp tác trong việc xây dựng máy chủ thế hệ tiếp theo chạy trên nền Windows. Sản phẩm mới sẽ được tung ra thị trường từ năm 2005.
-Đầu năm tới, Fujitsu và Microsoft sẽ trình làng máy chủ sử dụng bộ vi xử lý Intel Itanium chạy trên nền Windows Server 2003 và đến năm 2007, công ty cũng sẽ ra mắt người dùng dòng server hiện đại hơn, sử dụng công nghệ Longhorn.
-Các nhà lãnh đạo của Fujitsu cho biết cuối năm nay, hai công ty sẽ lập một đội ngũ gồm hàng chục kỹ sư để phát triển dự án này tại trụ sở chính của Microsoft ở Redmond, bang Washington. Cả hai hãng sẽ dồn sức vào phát triển dịch vụ tích hợp nền và các dịch vụ hỗ trợ khách hàng. 
-Steve Ballmer, Giám đốc điều hành của Microsoft, đánh giá cao mối quan hệ hợp tác này. Ông khẳng định: "Fujitsu thực sự là một trong những đối tác quan trọng nhất của Microsoft trên toàn cầu. Chúng tôi cam kết sẽ phát huy thế mạnh của mỗi bên để tung ra những sản phẩm thế hệ tiếp theo. Tuy nhiên, đây thực sự là một lĩnh vực kinh doanh mới mẻ đối với công ty".
-Fujitsu và Microsoft cho biết đến năm 2007, thị trường máy chủ mới cùng các sản phẩm phần mềm và dịch vụ trên thế giới sẽ đạt 800 triệu yen (7,2 tỷ USD) doanh thu. Lợi nhuận sẽ được chia đôi cho 2 công ty.
-

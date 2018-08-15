@@ -1,8 +1,0 @@
-May Nintendo DS - nan nhân tiêp theo cua Trojan 
-Sau may chơi game câm tay PSP cua Sony, đên lươt san phâm hai man hinh DS cua hang Nintendo trở thành nan nhân cua một chương trình tấn công do cac tay chuyên viêt virus may tinh phát tán. 
-Nhiêm Trojan, Nintendo DS chi con la phê liêu.
-Loai Trojan nay, đươc đăt tên DSBrick (bơi trươc đo PSPbrick la tên goi cua phân mêm tấn công may PSP), se xâm nhâp vao NintendoDS dươi dang ROM, sau đo chen đe dư liêu vao nhưng khu vưc then chôt cua bô nhơ trong may. Như vây, chiêc may bi nhiêm se không thê khơi đông binh thương đươc va có thể chi con la môt cai chăn giây xa xi.
-Theo bao cao cua hang bảo mật F-Secure (Phân Lan), DSBrick thương đi kem trong cac têp tin nen co tên 'r0mloader.zip' va 'taihen.zip', vôn đươc nguy trang băng cac chưc năng nap dư liêu ROM, hoặc phát tán trên nhưng trang hoạt họa Hentai Nhật Bản co nôi dung không lanh manh. 
-Rât may la nhưng têp nen trên chi co thê sư dung đươc ơ nhưng may DS đa bi chinh sưa, bơi vây, nguy cơ DSBrick lây lan rông la không cao. 
-Tin tưc vê phân mêm Trojan nay đươc công bô chi môt tuân sau khi Sony phai đau đâu vơi san phâm pha hoai tương tư trên may PSP. 
-

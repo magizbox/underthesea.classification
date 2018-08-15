@@ -1,5 +1,0 @@
-Intel ngừng sản xuất dòng chíp Pentium II
-Trong thời gian tới, những bộ vi xử lý thuộc dòng PII tốc độ 266, 333, 366 và 466 MHz sẽ không còn xuất hiện trên thị trường phần cứng máy tính nữa.
-Đây là một quyết định khá bất ngờ của Intel. Tuy nhiên, cũng phải đến ngày 1/6/2006, hãng sản xuất phần cứng này mới hoàn toàn chấm dứt những công việc có liên quan đến Pentium II.
-Có nhiều nguyên nhân dẫn đến quyết định nói trên. Bên cạnh sự ra đời của Pentium III và Pentium IV có tốc độ xử lý và nhiều tính năng cao hơn, Pentium II còn phải đối mặt với vấn đề sở hữu trí tuệ. Hãng máy tính All Computer của Canada cho rằng Intel sử dụng các vi mạch của họ để sản xuất chip Pentium II và đòi bồi thường số tiền bản quyền 500 triệu USD.
-

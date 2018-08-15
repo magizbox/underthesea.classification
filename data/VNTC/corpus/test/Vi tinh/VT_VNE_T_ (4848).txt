@@ -1,8 +1,0 @@
-Không cài được đĩa main (2)
-Em có một vấn đề như thế này. Máy tính của em cài WinXP bình thường nhưng khi cài đĩa main thì lại không cài được. Sau mỗi lần cài xong một phần nào thì lại không khởi động tiếp được mà nó chỉ dừng lại ở màn hình Windows starting up. Cho em hỏi đó là lỗi gì và cách khắc phục như thế nào? Em xin chân thành cảm ơn!
-Lê Anh Tuyến
-Hồi âm:
-Tình trạng này có liên quan đến hệ điều hành Windows và ổ đĩa cứng, nếu Windows bị hỏng Data thì có thể gặp khó khăn khi copy file từ CD vào hệ thống PC. Em phải xóa hết từ đầu và cài lại Windows, nên xóa trắng ổ cứng trước khi cài lại Windows. Nếu sau khi cài lại hệ điều hành mà vẫn bị như vậy thì em coi lại ổ đĩa cứng và tạo lại Partition.
-Qui Hung
-Bạn đang sử dụng Main Intell đúng không. Bạn thử sử dụng cách này xem sao. Khi bạn vào khởi động máy vào Windows thì sau khi trên bàn phím ba đèn Num Lock, Caps Lock và Scroll Lock sáng lên đồng thời thì bạn gõ Enter liên tục càng nhanh càng tốt. Khi đó bạn sẽ vào được Windows. Chúc bạn thành công.
-

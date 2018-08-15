@@ -1,6 +1,0 @@
-Kỹ thuật mới chống ngáy 
-Với một số người, ngáy không phải là chuyện đùa. Vì thế, Viện Kỹ thuật Y sinh tại Đại học Southern California (USC) đã phát triển một giải pháp nghiêm túc cho vấn đề này. 
-Ngáy sinh ra khi mô mềm trong đường thở - vòm miệng hoặc lưỡi gà - chùng xuống trong khi ngủ và rung động. Việc phẫu thuật mô này có thể làm hết ngáy nhưng lại có thể gây ra nhiều tác dụng phụ. 
-Ý tưởng của USC là làm cho các cơ nằm gần mô mềm trên co lại khi cơn ngáy bắt đầu. Quá trình này sẽ kéo căng mô mềm và làm dừng quá trình rung động của nó. Để làm điều đó, các đoạn dây xoắn nhỏ sẽ được lồng vào trong cơ và một đoạn dây riêng biệt được đặt dưới gối bệnh nhân. 
-Sợi dây dưới gối sau đó phát ra các xung điện - vài lần mỗi giây, với điện tích rất yếu - vào sợi dây ở trong cơ để giữ mô mềm căng ra. Hệ thống sẽ sử dụng một microphone để nghe xem tiếng ngáy bắt đầu khi nào, trước khi bật nút điện. Với mỗi người, độ mạnh và thời gian của xung điện được tìm ra qua thử nghiệm, sao cho đủ để dập tắt tiếng ngáy mà không làm người ngủ thức dậy. 
-

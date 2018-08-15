@@ -1,6 +1,0 @@
-Lỗi hệ thống mật khẩu của Oracle 
-Những yếu kém trong một cơ chế bảo mật của gói phần mềm cơ sở dữ liệu có thể tạo cơ hội cho kẻ tấn công dễ dàng khám phá mật khẩu người dùng, khiến nhiều doanh nghiệp có nguy cơ bị lộ thông tin.
-Joshua Wright, chuyên viên của viện SANS (Mỹ) và Carlos Sid, thuộc Đại học London, khẳng định phương pháp mà hãng phần mềm Mỹ đang sử dụng để lưu và mã hóa mật khẩu không đảm bảo an toàn. Họ đã tìm ra cách khôi phục password cơ sở dữ liệu, kể cả những chuỗi ký tự được sắp xếp khá rắc rối, chỉ trong vài phút. 
-Cả hai đã gửi thông báo cho Oracle từ tháng 7 nhưng không nhận được câu trả lời. Công ty này cũng từ chối bình luận về khiếm khuyết trên. Wright khuyên người sử dụng có thể tự bảo vệ hệ thống bằng cách thay đổi sang mật khẩu phức tạp hơn và đăng ký quyền sử dụng giới hạn.
-Hãng phần mềm cơ sở dữ liệu có trụ sở tại California đang liên tục bị công kích vì những vấn đề liên quan đến khả năng bảo mật. Oracle thường tỏ ra chậm chễ trong việc sửa lỗi và cung cấp những bản vá không chuẩn xác khi cập nhật phần mềm.
-

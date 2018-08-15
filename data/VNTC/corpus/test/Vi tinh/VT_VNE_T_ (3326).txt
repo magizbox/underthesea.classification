@@ -1,7 +1,0 @@
-Oracle hoàn tất phiên bản CSDL điện toán lưới thứ 2
-Phần mềm cơ sở dữ liệu (CSDL) Oracle 10 Realse 2 sẽ được phát hành vào cuối tháng 6 và dự kiến trong vòng một năm sẽ được hơn một nửa số khách hàng của Oracle cài đặt.
-Oracle cho biết bản mới vẫn được thiết lập dựa trên những tính năng trong phiên bản hiện tại mà hãng phát hành tháng 2 năm ngoái. Phần mềm CSDL này được thiết kế để cho phép khách hàng doanh nghiệp kết hợp sức mạnh xử lý của một số máy chủ rẻ tiền, tạo ra một giải pháp đỡ tốn kém hơn thay thế cho server cao cấp.
-Theo Mark Townsend, Giám đốc quản lý sản phẩm CSDL của Oracle, những cải tiến lớn trong Oracle 10 Realse 2 tập trung vào bảo mật, độ ổn định của CSDL và đơn giản hóa việc quản lý các cài đặt CSDL lớn.
-Oracle 10 Realse 2 sẽ hỗ trợ XQuery, một chuẩn mới dành cho các nhà phát triển để viết những ứng dụng mà có thể truy hồi văn bản XML từ một CSDL. Là một phần trong chương trình hợp tác với Microsoft, Oracle 10g dùng Common Language Runtime của Microsoft. Điều đó cho phép cơ sở dữ liệu chạy nhiều chương trình được viết bằng các ngôn ngữ Microsoft như C# hay Visual Basic.
-Oracle cũng đã bổ sung một số cải tiến được thiết kế để giúp các nhà quản trị CSDL hiệu quả hơn trong quản lý hệ thống và có thể vận hành một vài CSDL cùng lúc. Oracle 10g Release 2 còn có khả năng phân tích tốt và nhiều công cụ tự động hơn, phục vụ cho việc tối ưu hóa các truy vấn và back-up dữ liệu mã hóa. Oracle chưa công bố giá bán sản phẩm mới
-

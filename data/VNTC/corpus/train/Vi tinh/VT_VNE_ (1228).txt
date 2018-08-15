@@ -1,7 +1,0 @@
-Đánh máy Unicode (1)
-Cám ơn các anh chị đã chỉ cho cách khắc phục khi đánh máy Unicode chữ i thành I. Tuyệt vời. Hiện nay tôi còn hai vấn đề khi đánh Unicode như sau :1. Khi viết mail bằng unicode, chữ A có dấu không bao giờ là chữ hoa được, như chữ à hay ánh 2. Khi vie^'t trong Word thi` hay chừa một space ở cuối chữ Ví dụ như khi viết chữ Cuối thì luôn luôn có một khoảng cách giữa chữ "ố" với chữ "i" ở cuối cùng, thành : Cuố i Nhờ anh chị nào biết chỉ dẫn dùm. Rất cám ơn
-Nhật Trường
-Hồi âm:
-1- Theo tôi có thê ban đa chon sai font chư, ban cứ chon đúng như khi ban go trong Word. Ngoai ra trong Mail ban thư vao Format  Ecoding  Enicode (UTF-8) hay Western European (ISO). Ban xem kêt qua như thế nao ? 
-2- Đây la lôi khoang cach. Ban vao Word chon Tools  Options trong the Edid bo chon "Use Smart cut and paste  OK. Chúc ban thanh công. 
-

@@ -1,7 +1,0 @@
-Mạng Wi-Fi đạt tốc độ ngang với Ethernet 
-Hệ thống cáp quang Ethernet có tốc độ truyền dữ liệu 100 Mb/giây, nhanh hơn khả năng 54 Mb/giây trong mạng Wi-Fi. Tuy nhiên, sản phẩm không dây sử dụng chip True MIMO thế hệ ba của Airgo (Mỹ) đang thách thức ưu điểm này. 
-Thiết bị định tuyến RangeMax 240 của Netgear, giá 180 USD, được xây dựng trên công nghệ True MIMO Gen3. Giống như bộ chipset True MIMO đầu tiên (trong sản phẩm Pre-N của Belkin và SRX của Linksys), phiên bản thế hệ 3 được trang bị hai ăng-ten truyền và 3 ăng-ten nhận tín hiệu nhằm tăng tốc độ và mở rộng phạm vi hoạt động, trong khi vẫn duy trì khả năng tương tác với các sản phẩm theo chuẩn Wi-Fi 802.11g.
-Nhân tố tăng tốc cho Gen3 nằm ở công nghệ mở rộng kênh điều hợp (Adaptive Channel Expansion), giúp nới rộng băng thông bằng cách sử dụng 2 trong 3 kênh không chồng chéo lên nhau thuộc băng tần 802.11g 2,4 MHz. Với mã hóa WPA2, sản phẩm đạt tốc độ nhanh tương đương Ethernet.
-Loại tốc độ này phù hợp với nhu cầu sử dụng tại nhà và văn phòng, hỗ trợ ứng dụng điện thoại VoIP, mạng chơi game, tải video... Ví dụ, RangeMax 240 cho phép truyền video theo định dạng DVD từ một ổ cứng desktop tới máy tính xách tay không dây cách đó 30 mét mà không hề bị gián đoạn trong khi vẫn có thể duyệt web. 
-Công nghệ cũng sẽ có vai trò quan trọng đối với các thiết bị không phải laptop như máy tính để bàn và sản phẩm gia dụng do chúng không được trang bị bộ điều hợp. 
-

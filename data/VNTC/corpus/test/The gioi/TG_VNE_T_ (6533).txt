@@ -1,8 +1,0 @@
-Đường dây nóng của quân đội Israel bị hack
-Một công dân Israel đã đột nhập vào đường dây nóng của quân đội nước này, thay đổi mã truy cập khiến quan chức Israel không thể kiểm soát được các cuộc gọi thông báo về những vụ bắn đạn pháo ở Gaza. 
-Sau một tuần liên tiếp thực hiện các vụ không kích nhằm vào các nhóm chiến binh ở phía bắc Dải Gaza, không quân Israel quyết định thử một biện pháp mới: rải truyền đơn khuyến khích dân Palestine "chỉ điểm" bất cứ chiến binh nào định phóng rocket nhằm vào Israel. 
-"Ai cũng hiểu rõ rằng những quả đạn pháo sẽ gây ra hậu quả thế nào", quân đội Israel nói trong các tờ giấy truyền đơn. "Giờ đây, tất cả các mọi người có thể đóng góp vào việc bảo vệ gia đình và bản thân họ. Đừng ngần ngại! Hãy chặn các vụ bắn rocket bằng cách quay số 054 691 2273". 
-Tuy nhiên chỉ vài giờ sau đó, nhân viên kiểm soát đường dây nóng không thể truy nhập vào hộp thư thoại để nhận các cuộc gọi thông báo. Nguyên nhân là do một người Israel đã đột nhập vào hệ thống thư thoại và thay đổi mã truy nhập. Có vẻ như những binh sĩ không quân Israel đã sơ suất quên đổi mã số mặc định, khiến bất cứ ai cũng dễ dàng nghe được các thông điệp trong hộp thư thoại. 
-"Tôi thay đổi mã số bởi vì không muốn các tổ chức khủng bố nghe được những thông điệp đó. Trước mỗi thông điệp, hệ thống thư thoại đều dẫn ra những số điện thoại mà từ đó họ nhận được thông tin", hacker này nói với báo chí. "Tôi lo rằng những tên khủng bố có thể xác định được danh tính người gọi và sẽ làm hại họ". 
-Nhân viên quân đội Israel vẫn chờ đợi hacker này đưa cho họ mã truy nhập mới. 
-

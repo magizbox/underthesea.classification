@@ -1,8 +1,0 @@
-Torvalds nghiêm khắc với các nhà phát triển nhân
-Linus Torvalds, tác giả Linux, đã bày tỏ thái độ cứng rắn với những ai "cung cấp những thay đổi về nhân (kernel) hệ điều hành này vào phút chót". Ông tuyên bố sẽ chỉ "cười mỉa mai và từ chối hợp nhất".
-Nhóm phát triển nhân Linux gần đây đưa ra quan điểm rằng "những tính năng mới phải được đưa vào phiên bản kernel tiếp theo ngay trong 2 tuần sau khi bản trước đó được phát hành".
-Nhưng James Bottomley, hiện đảm nhận công việc duy trì mã hỗ trợ SCSI trong nhân, cho biết ông thấy rất khó để triển khai kế hoạch "cửa sổ hợp nhất trong hai tuần". "Đây là một lý thuyết đẹp, trừ việc những chuyên gia cộng tác luôn để mặc tôi ngập chìm trong quá trình kiểm tra xem bản vá của họ có phù hợp với những phần còn lại của hệ thống hay không, không cần biết thời gian còn lại là bao nhiêu".
-Torvalds đáp lại rằng Bottomley cần phải có thái độ kiên quyết với những người cộng tác: "Nếu họ còn tỏ ra chậm chạp, hãy bảo họ dừng lại và tốt hơn là không nhận bản vá của họ trên cửa sổ đó. Khi đó, lỗi là do mã của họ đến chậm lại, chứ không phải do công việc của ông".
-Torvalds khẳng định ông sẽ không nhân nhượng với những ai gửi tính năng cho kernel quá trễ: "Mọi người luôn phàn nàn rằng tôi quá mềm mỏng, nhưng không phải thời điểm này. Nếu các chuyên viên phát triển bỏ lỡ hoặc bắt đầu gửi dồn dập vào phút cuối, tôi sẽ từ chối và cười nhạo nếu họ còn kêu ca".
-Phiên bản nhân Linux 2.6.14 đã phải ra mắt muộn 1 tháng vì những thông báo lỗi chỉ đến vào phút cuối cùng.
-

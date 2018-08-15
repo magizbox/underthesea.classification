@@ -1,6 +1,0 @@
-Bản vá Windows mới lại gây trục trặc máy tính
-Bản sửa lỗi nghiêm trọng cho hệ điều hành của Microsoft trong bản tin tháng 12 đã gây ra một số rắc rối cho những người đang thử nghiệm trình duyệt Internet Explorer 7.
-Jeremy Dallman, Giám đốc dự án bảo mật Internet Explorer, cho biết họ đã nhận được nhiều thông báo từ phía khách hàng về những biểu hiện khác thường của trình duyệt sau khi cài bản cập nhật mới nhất. Ví dụ, Internet Explorer bị lỗi ngay khi mở, đường kết nối hiển thị một trang trống (blank), hoặc nhiều cửa sổ sẽ mở ra đồng thời mỗi khi khởi động trình duyệt.
-Dallman cho biết Internet Explorer 7 vẫn đang trong giai đoạn thử nghiệm và trục trặc chỉ xảy ra khi nó được cài song song với Internet Explorer 6. Khi đó, bản beta của trình duyệt thế hệ mới sẽ phát sinh một khóa với cấu hình không chuẩn trong Windows Registry, phần lõi của hệ điều hành lưu các thiết lập máy tính. Chỉ cần xóa khóa này, mọi vấn đề sẽ được khắc phục.
-Bản tin tháng 12 của Microsoft bao gồm một miếng vá cho lỗ hổng bảo mật trong Windows, có khả năng bị khai thác để tấn công trực tuyến người sử dụng trình duyệt, và 3 lỗi khác. 
-

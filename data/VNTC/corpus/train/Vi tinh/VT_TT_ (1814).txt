@@ -1,6 +1,0 @@
- Hacker Nga bán rẻ mã nguồn tấn công Windows
-Kaspersky Lab cho biết rằng nhóm cao thủ hacker của Nga bán ra bộ mã nguồn này đã chịu trách nhiệm về một số vụ tấn công vào lỗi WMF của một số hệ thống máy tính chạy Windows vào tháng 12-2005. Kaspersky, giám đốc của Kaspersky Lab nhận định rằng đây là hành động thuộc dạng “mua bán vũ khí” giữa các băng nhóm xã hội đen kỹ thuật số và chắc chắn sẽ là một mối nguy hiểm tiềm tàng cho người dùng Windows khắp mọi nơi. 
-Lỗi bảo mật WMF tạo điều kiện cho đủ loại mã độc như virus, trojan, spyware xâm nhập vào Windows và giúp cho hacker chiếm đoạt hoàn toàn máy tính. Hệ thống máy tính của nghị viện Anh cũng đã từng bị tấn công thông qua việc lợi dụng lỗi bảo mật WMF này. 
-MessageLabs, công ty phụ trách bảo mật e-mail chính phủ Anh cho biết rằng đã có rất nhiều e-mail chứa mã độc chuyên tấn công vào lỗi WMF đã được gửi đến cho tất cả mọi cơ quan của chính phủ Anh trong tháng qua. Kaspersky Lab cũng đã dò ra được hàng ngàn e-mail có chứa mã độc khai thác lỗi WMF trong một tuần. 
-Lỗi bảo mật WMF đã được Microsoft sửa chữa xong nhưng hiện vẫn còn rất nhiều chủ nhân máy tính Windows nối mạng Internet vẫn không cần biết đến khái niệm “Update” là gì, nên giới hacker xã hội đen vẫn còn rất nhiều đất sống. 
-

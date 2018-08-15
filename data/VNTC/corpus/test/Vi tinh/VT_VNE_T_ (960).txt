@@ -1,8 +1,0 @@
-Lỗi font chữ (2)
-Thời gian gần đây, khi gõ văn bản bằng Microsoft Word (Office XP), dùng vietkey hoặc unikey, kiểu TCVN3 hay Unicode, tôi đều gặp một hiện tượng như sau: Khi định gõ chữ "ý" tức là hai kí tự y + s, thì màn hình xóa trắng kí tự "ý" và phần hiển thị Language hiển thị ngôn ngữ là Hebrew, chứ không phải là English (U.S) như bình thường. Kiểm tra lại style của văn bản thì ghi là "Arial, Latin 12pt, (Complex) 10pt, kèm theo một kí tự kiểu chữ ả rập"(ví dụ khi tôi đang gõ Unicode). Các dấu, các chữ khác đều gõ bình thường, chỉ gặp khó khăn khi gõ chữ "ý"Tôi đã thử đủ mọi cách mà không làm sao thoát được tình trạng này, bỏ script, bỏ auto detect language, quét virus bằng BKAV và NAV đều không đưa lại kết quả gì cả. Rất mong các bạn cho lời khuyên để tôi có thể giải quyết tình trạng này. Xin chân thành cảm ơn.
-Phương Minh
-Hồi âm:
-Bạn tắt phần AutoCorrect đi: Tools - AutoCorrect Options - bỏ dấu chọn khỏi Replace text as you type - OK.
-Dong Ngo
-Chào bạn,   Bạn vào địa chỉ: http://unikey.sourceforge.net/manual/ukfaq.htm#chu-yđể tham khảo cách khắc phục chữ ý trong Microsoft Word (Office XP). Chúc bạn thành công.   
-

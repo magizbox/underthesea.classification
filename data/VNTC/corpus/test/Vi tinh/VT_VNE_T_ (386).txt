@@ -1,7 +1,0 @@
-Xuất hiện biến thể Sober.F
-Công ty phần mềm an ninh Network Associates (Mỹ) phát hiện virus mới hôm nay và cảnh báo nguy cơ ở cấp trung bình. Đây là một loại sâu e-mail có khả năng tự sao chép vào các địa chỉ thư điện tử trên máy nạn nhân và phát tán khá nhanh. 
-Biến thể này có nhiều tính năng giống những phiên bản trước, tiêu biểu nhất vẫn là việc ẩn trong phần đính kèm và sử dụng những dòng chủ đề thư như: Bad Gateway, Best, Confirmation Required, Connection failed, damn!, Datenbank-Fehler, Details, Einzelheiten, Faulty mail delivery. Chỉ khi người nhận mail mở file đính kèm thì virus mới có thể lây lan vào hệ thống.
-Sau khi xâm nhập vào máy, Sober.F gửi đi bản sao của nó dưới dạng attachment với một tên file bất kỳ. Tiếp đó, virus tự cài đặt vào thư mục hệ thống của PC nạn nhân bằng một tên file được tạo ra từ một chuỗi ký tự có sẵn bên trong nó.
-Sober.F, được coi là loại virus khó truy tìm và có khả năng lẩn tránh nhiều công cụ quét virus. Network Associates cho biết số thông báo mà khách hàng gửi về cho họ đã lên đến 100.
-Thông tin chi tiết về virus và công cụ xử lý do Network Associates cung cấp có thể tham khảo tại đây. 
-

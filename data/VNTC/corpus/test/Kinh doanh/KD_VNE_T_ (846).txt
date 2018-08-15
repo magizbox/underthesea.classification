@@ -1,6 +1,0 @@
-Ngân hàng Đông Á triển khai giải pháp Flexcube
-Sáng nay, Ngân hàng Thương mại Đông Á (EAB) TP HCM thông báo triển khai công nghệ Flexcube của Công ty I-flex (Ấn Độ) như là giải pháp ngân hàng cốt lõi. Theo tổ chức nghiên cứu độc lập IBS của Anh, Flexcube được xếp hạng là giải pháp ngân hàng bán chạy nhất thế giới trong năm 2002 và 2003.
-Trần Phương Bình, Tổng giám đốc EAB, cho biết Flexcube giúp ngân hàng phân tích các yêu cầu của khách, rủi ro có liên quan đến hoạt động của ngân hàng, những khách hàng, doanh nghiệp đang phát triển... Hiện EAB triển khai Flexcube trọn gói cho tất cả các dịch vụ như cho vay cá nhân, bảo lãnh, thanh toán quốc tế, thông tin cho người quản lý...
-Ông Bình cũng cho biết thêm với việc đưa vào hoạt động công nghệ mới này, ngân hàng sẽ có thể cung cấp cho khách việc cung ứng trực tuyến, thời gian thực hiện các giao dịch, tính hiệu quả của nghiệp vụ, dễ dàng tích hợp với các hệ thống bên ngoài và tính linh hoạt trong giới thiệu sản phẩm mới.
-Đến nay, I-flex phục vụ trên 450 đơn vị tại hơn 100 nước, cung cấp các sản phẩm và dịch vụ theo yêu cầu khách hàng giúp giảm chi phí, đáp ứng nhanh chóng nhu cầu thị trường, nâng cao mức độ dịch vụ khách hàng và giảm rủi ro.
-

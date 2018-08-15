@@ -1,7 +1,0 @@
-Máy chiếu trong điện thoại di động
-Công ty Upstream của Phần Lan đang nghiên cứu công nghệ máy chiếu LED nhỏ gọn đầy tiềm năng, hứa hẹn chỉ một vài năm nữa người tiêu dùng có thể mang cả "hệ thống rạp hát mini" trong túi. 
-Hình ảnh lưu trong điện thoại sẽ được chiếu trực tiếp lên tường, dù độ sáng sẽ không cao như chuẩn hiện nay. Tuy nhiên nó giải phóng nội dung điện thoại và máy nghe nhạc khỏi phạm vi gò bó của màn hình. Với kích thước nhỏ và giá thành tương đối thấp, các nhà sản xuất có khả năng đặt đèn LED bên trong máy MP3, điện thoại và những sản phẩm điện tử cầm tay khác chỉ với chi phí vài USD.
-Mẫu máy chiếu mô phỏng hiện nay của Upstream bằng một hộp diêm. Việc giảm kích thước dựa trên nguyên ký ánh sáng tự nhiên hoặc từ nến và đèn LED đều tỏa theo tất cả mọi hướng. Công ty đã xây dựng một hệ thống quang học phức tạp, có thể thu nhận ánh sáng và phóng rộng ra. Hệ thống quang "chân không ánh sáng" này hình thành nên một khung bao quanh đèn LED. "Ý tưởng ở đây là gom lại mọi tia sáng và chiếu tới mục tiêu", Mikko Alasaarela, Giám đốc Upstream, giải thích ngắn gọn.
-Tuy vậy, dù công ty đã giải quyết nhiều vấn đề cơ bản trong thiết kế và sản xuất hệ thống ánh sáng, họ vẫn cần nâng cao hơn về chất lượng và khả năng vận hành. Alasaarela cho biết giá thành sản phẩm sẽ không vượt quá 10 USD.
-Công nghệ LED đang được nhiều người tiêu dùng quan tâm vì nó tốn ít điện năng, tuổi thọ kéo dài và không chứa thủy ngân (một lượng nhỏ độc tố trong nhiều thiết bị điện tử hiện nay). 
-

@@ -1,8 +1,0 @@
-HP dẫn đầu về số máy chủ bán ra trên toàn cầu
-Theo số liệu quý IV do IDC vừa công bố, lần thứ 10 liên tiếp, HP chiếm vị trí số 1 trong bảng xếp hạng doanh thu server của cả ba môi trường hệ điều hành chính là Unix, Windows và Linux. 
-Cụ thể, thị phần doanh thu máy chủ Unix liên tục tăng 2% đối với cả dòng máy cao cấp và trung bình. Server Linux tăng 27,4% về số máy bán ra và doanh thu tăng 35,7% so với cùng kỳ năm ngoái. Lượng máy chủ Windows bán ra cũng tăng 19% so với cùng kỳ năm ngoái.
-Số lượng máy chủ phiến mỏng x86 của HP bán ra tăng 92,6%, gấp đôi tốc độ tăng trưởng của thị trường toàn cầu, kéo theo thị phần cũng tăng gần 9%. 
-HP cũng vừa công bố kết quả kinh doanh quý IV, trong đó, doanh thu của tập đoàn này đạt mức kỷ lục trong mọi lĩnh vực kinh doanh. Con số thu về của cả quý là 21,4 tỷ USD, tăng 8% so với cùng kỳ năm trước.
-Bà Carly Fiorina, Chủ tịch kiêm Tổng giám đốc điều hành của HP, dự báo: "Doanh thu nửa đầu năm tài chính 2005 của chúng tôi sẽ vào khoảng 41,8 tỷ USD đến 42,3 tỷ USD. Lợi nhuận tính toán không theo các quy tắc tài chính chung trên mỗi cổ phiếu sẽ từ 0,72 USD tới 0,74 USD". 
-Cũng trong đầu tháng 12, HP đã nhận giải thưởng Sáng kiến tự do mới 2004 do Bộ trưởng Lao Động Mỹ trao tặng vì đã có những nỗ lực sáng tạo đặc biệt trong việc đào tạo, tuyển mộ người khuyết tật, giúp họ có cơ hội tham gia đầy đủ cuộc sống cộng đồng.
-

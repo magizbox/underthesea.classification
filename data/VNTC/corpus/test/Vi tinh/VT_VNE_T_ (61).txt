@@ -1,6 +1,0 @@
-Phần mềm hỗ trợ RAMBooster v1.6
-Thật khó chịu mỗi khi hệ thống bị treo. Phần mềm này có thể góp phần phòng ngừa tình trạng đó và cho phép bạn theo dõi việc Windows sử dụng dung lượng RAM quý giá của mình.
-Nếu dung lượng ấy tụt xuống dưới một mức quy định, RAMBooster v1.6 sẽ báo động hoặc tự động nâng dung lượng RAM hiện có. Điều này được thực hiện bằng cách "làm sạch" những thông tin tồn tại trước đó trong RAM (làm đầy bộ nhớ đệm) và ra lệnh cho Windows tái phân bổ tất cả mọi thứ sang tệp trung gian (swap). Lưu ý là chương trình này không defrag RAM của bạn, không nâng gấp đôi dung lượng RAM và không điều chỉnh hệ thống.
-Một hạn chế của phần mềm là khi bạn mở lại một chương trình nào đó lần thứ 2, nó sẽ không mở nhanh như thông thường nếu chương trình đang nằm ở RAM. Tuy nhiên, đổi lại điều này, ứng dụng đó có thể sử dụng RAM hiệu quả hơn rất nhiều và mỗi khi hệ thống của bạn chậm hoặc treo thì nó vẫn ổn định.
-Để tải miễn phí RAMBooster v1.6, bấm vào đây.
-

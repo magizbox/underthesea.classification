@@ -1,8 +1,0 @@
-Biến thể mới của Nachi
-Phiên bản B của sâu e-mail này xuất hiện hôm qua, phát đi những thông điệp chính trị vào các máy tính chạy Windows dùng tiếng Nhật. Số PC bị tấn công không nhiều vì mức độ nguy hiểm của virus mới không cao như đàn anh của nó.
-Nachi.B cài một file HTML có tiêu đề Hãy để lịch sử nói với tương lai (Let History Tell Future) vào thư mục Windows System. Văn bản này nhắc đến những sự kiện quan trọng trong Thế chiến II, liên quan đến Nhật và Trung Quốc, đặc biệt là khi đạo quân Thiên Hoàng xâm lược vùng Mãn Châu.
-Joe Telafici, Giám đốc hãng phần mềm an ninh Network Associates, cho biết: Virus mới có vẻ như được viết với mục đích trả thù nước Nhật. Chúng tôi cho rằng tác giả của nó có thể là người Trung Quốc.
-Sâu Nachi.B - sẽ tự ngừng hoạt động vào ngày 1/6 - tìm kiếm đường kết nối Internet qua các website Google, Intel và Microsoft. Nó có thể khai thác 4 khiếm khuyết trong các phần mềm Microsoft, trong số này có 2 lỗi ở WebDav và dịch vụ Workstation. 
-Một điểm đáng chú ý ở Nachi.B là nó còn loại bỏ khỏi máy tính các phiên bản virus Mydoom-A và B. Trước đây, phiên bản Nachi đầu cũng đã truy tìm và khắc phục lỗ hổng mà sâu Blaster chui qua. Tuy nhiên, cũng vì khả năng quét cực mạnh khi săn lùng, Nachi.B có thể làm gián đoạn lưu thông mạng.
-Theo Liebenstein, Giám đốc sản phẩm của Symantec, vì nhiều khách hàng đã cài bản nâng cấp chống phiên bản Nachi trước nên tác động của virus mới sẽ không lan rộng. Đến nay, công ty phần mềm chống virus này mới chỉ nhận được 20 thông báo của khách hàng, trong khi con số ghi nhận của Network Associates là gần 100.
-

@@ -1,6 +1,0 @@
-Oracle cảnh báo nguy cơ khai thác khiếm khuyết CSDL
-Hãng phần mềm Mỹ đang khuyến cáo khách hàng áp dụng ngay bản nâng cấp mà họ phát hành hồi tháng 8 do sự xuất hiện của những loại mã tấn công thông qua lỗ hổng phần mềm cơ sở dữ liệu.
-Trong một bản tin an ninh gần đây, Oracle cho biết khiếm khuyết nói trên có thể ảnh hưởng tới một số sản phẩm của hãng, trong đó có các phiên bản phần mềm cơ sở dữ liệu, máy chủ ứng dụng và quản lý doanh nghiệp 8i, 9i và 10g (Bản tin và phần mềm nâng cấp được Oracle phát hành tại http://www.oracle.com/technology/deploy/security/pdf/2004alert68.pdf. 
-Nguy cơ do lỗ hổng trong phần mềm Database Server và Application Server được Oracle mô tả thuộc loại cao bởi kẻ tấn công có thể lợi dụng lỗi bằng khả năng truy cập từ xa mà không cần mật mã và tên đăng nhập của người sử dụng hợp pháp. Theo Oracle, lỗ hổng ở Enterprise Manager được đánh giá ở mức trung bình vì hacker cần có khả năng truy nhập vào mạng sử dụng Enterprise Manager và cả tài khoản người sử dụng hợp pháp trên máy tính chạy phần mềm quản lý này.
-Hồi tháng 9, Trung tâm phản ứng sự cố máy tính của chính phủ Mỹ đã công bố một cảnh báo về những lỗ hổng này, trong đó lưu ý chúng có thể bị khai thác để tắt hoặc khống chế các hệ thống có khiếm khuyết, phá hoại hoặc ăn cắp dữ liệu. Oracle nhấn mạnh rằng việc khách hàng cần cài đặt ngay phần mềm vá lỗi là hết sức cấp thiết.
-

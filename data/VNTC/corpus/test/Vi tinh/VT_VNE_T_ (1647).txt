@@ -1,7 +1,0 @@
-Mở CSDL dùng chung khi lập trình bằng Visual Fox (1)
-Tôi làm thử phần mềm bằng Visual Fox7 nhưng không biết làm cách nào để các mở CSDL để dùng chung trên mạng LAN. Cụ thể là Form add nhiều Table, nên khi mở form cùng lúc trên nhiều máy bị báo lỗi. Nhờ các anh chị chỉ dùm tôi với. Xin chân thành cám ơn.
-Hoàng Sơn
-Hồi âm:
-Bạn tham khảo phần Help của Visual Fox những lệnh sau đây: Open Database Use Set Exclusive 
-Lenh Open Database và Use có thêm tuỳ chọn là shared để mở file dữ liệu ở dạng dùng chung. Bạn thử xem sao.
-

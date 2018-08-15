@@ -1,6 +1,0 @@
-Mở Excel chỉ có màn hình xám (1)
-Mình đang dùng Excel 2003, nhưng không biết thế nào mà bây giờ khi mở File Excel nó chỉ hiện lên màn hình xám, không có nội dung gì, muốn mở được phải vào ExcelFile Open chọn fiile mới được. Làm như thế này lâu, thật là khó chịu. Nhờ các bạn chỉ giùm.
-Thanh Hung
-Hồi âm:
-Cái này mình không chắc lắm, tuy nhiên có 1 vài suy đoán.Có thể máy tính của bạn bị virus chăng, bạn thử quét virus = chương trình notorn antivirus xem sao (nhớ cập nhật virus trước khi quét nha). Sau đó bạn cài đặt lại chương trình Excel xem sao, biết đâu lại được. Good luck.
-

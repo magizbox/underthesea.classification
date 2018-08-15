@@ -1,5 +1,0 @@
-AMD áp dụng công nghệ tiết kiệm điện cho chip Opteron
-Máy chủ dùng chip Opteron của AMD sẽ sớm được hưởng lợi ích do công nghệ quản lý mức tiêu thụ điện PowerNow mang lại. Đây là sự kết hợp giữa các tệp lệnh cho bộ vi xử lý và hệ điều hành, giúp tăng hoặc giảm điện năng cấp cho chip tương ứng với mức độ vận hành của nó.
-Tương tự như công nghệ Cool'n'Quiet được sử dụng trong các hệ thống máy để bàn của AMD, PowerNow sẽ rất hữu ích với các máy chủ, giúp cắt giảm chi phí về điện năng và làm mát tại các trung tâm dữ liệu. Margaret Lewis, nhà phân tích chiến lược tiêu thụ của AMD, nhận xét: Công nghệ này giống như việc chiếc quạt trong xe hơi biết tăng tốc khi động cơ đạt đến độ nóng nhất định.
-Theo Lewis, các tệp lệnh của PowerNow đã được tích hợp vào chip Opteron từ tháng 5. Những khách hàng đã mua máy chủ sử dụng bộ vi xử lý này có thể kích hoạt PowerNow thông qua nâng cấp BIOS (basic input output system) sẵn có trên trang web của AMD và công nghệ này sẽ được sử dụng rộng rãi vào nửa đầu năm 2005.
-

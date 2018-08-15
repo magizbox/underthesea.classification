@@ -1,8 +1,0 @@
-Mất tính năng screen saver trên WinXP (2)
-Máy tính của tôi chạy WinXP tự dưng bị mất tính năng Screen Saver không thể đặt chế độ màn hình chờ dù đã thử mọi cách. Ai biết cách khắc phục chỉ giúp tôi nhé. Tôi muốn bảo mật được thông tin khi có việc đột xuất mà không phải tắt máy. Xin chân thành cảm ơn!
-Vietracimex
-Hồi âm:
-Muốn để máy ở chế độ chờ (standby) hoặc hibernate, bạn đừng sử dụng các hình ảnh 3 chiều như 3D flowerbox, 3D flying object, 3D pipes. Bạn nên cài SP2 cho XP nếu không muốn cài SP2 bạn có thể download phần Q306676 để sửa lỗi đó. Tham khảo ở đây:http://support.microsoft.com/default.aspx?scid=kb;en-us;306676sd=tech.
-TOM
-Chào anh.1. Anh có thể coi lại trong registry có bị hư hay không.Start -- Run -- Regedit --gõ EnterRegistry Key: HKEY_USERS\.DEFAULT\Control Panel\Desktop Trong này anh sẽ thấy 1 chuỗi dữ liệu gọi là "ScreenSaverActive", anh nhấn chuột 2 cái lên nó nếu thấy dữ liệu là 0 thì cho vào 1. Sau đó anh chỉ cần khởi động lại máy là xong.2. Anh đang dùng Windows XP, nếu anh có đi đâu đột xuất thì anh cứ gõ "Windows Key" (giữ Ctrl và Alt ở góc trái bàn phím) + L. Nó sẽ khóa màn hình lại ngay lập tức, anh không cần tắt máy.Hy vọng giúp được anh.
-

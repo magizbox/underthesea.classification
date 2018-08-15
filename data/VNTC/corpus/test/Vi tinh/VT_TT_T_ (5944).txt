@@ -1,6 +1,0 @@
- Bộ thiết bị nhập liệu trực quan của Tactiva
-TactaPad: Tương tác với máy vi tính trực tiếp rất “tự nhiên” bằng cách sử dụng đôi tay của bạn như trong thế giới thực. Camera của TactaPad sẽ ghi nhận liên tục các chuyển động của đôi tay bạn trên bề mặt xử lý TactaPad. Bóng mờ của bàn tay bạn sẽ được hiển thị trên màn hình trực tiếp. 
-Thao tác với TactaPad bằng cách thao tác trực tiếp bằng hai tay với nhiều điểm chạm trên bề mặt cùng một lúc. Con trỏ xuất hiện cùng với mỗi lần bạn chạm vào bề mặt TactaPad. Di chuyển, xử lý, thao tác với đối tượng thông qua TactaPad rất dễ dàng. 
-Khi bạn chạm vào TactaPad, tactile sẽ phản ứng lại cảm giác của bạn để thực hiện tác vụ. Khi nhấn lên bề mặt, nút nhấn sẽ cho người dùng cái cảm giác phản hồi để biết chắc rằng nó đã nhận được yêu cầu từ họ. Khi kéo rê, người dùng cũng sẽ có cảm giác đàn hồi mềm, chỉ cần một cái chạm nhẹ vừa đủ để di chuyển qua bề mặt. 
-Không cần dùng đến chuột vẫn xử lý được các thao tác xoay đối tượng, xử lý bảng tính … với hoạt động của hai tay trên bề mặt. Bạn có thể tham khảo thêm thông tin về TactaPad tại đây . 
-

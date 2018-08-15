@@ -1,8 +1,0 @@
-MU Việt Nam ra mắt bản open beta
-13h ngày 29/9, phiên bản chính thức Xứng danh anh hùng sẽ được phát hành trên toàn quốc. Thời gian thử nghiệm sẽ kéo dài 3-4 tháng trước khi giới thiệu bản thương mại Commercial Launch.
-Hệ thống máy chủ vận hành game Xứng Danh Anh Hùng có gần 300 máy HP cấu hình cao gồm server game, dữ liệu, các sự kiện, xếp loại, web, FTP (máy chủ cho tải game về)... cùng thiết bị mạng của Cisco như Bộ chuyển mạch chính và phụ. MU Việt Nam còn được phục vụ bằng băng thông 2 GB/giây, chạy cáp quang. 
-Theo nhà cung cấp MU Việt Nam các quy định về bảo mật được thựchiện theo tiêu chuẩn của Công ty Webzen (Hàn Quốc). Máy chủ đặt trong phòng lớn, hạn chế tối đa ra vào, có lắp hệ thống chống cháy nổ, báo động, camera theo dõi. Chương trình firewall được cài đặt, chống xâm nhập từ bên ngoài.
-Công ty cổ phần viễn thông FPT cũng đang chuẩn bị ra mắt công cụ bảo vệ và khôi phục tài sản người chơi bằng 1-Touch (1-Chạm). Đây là ứng dụng trực tuyến nhằm hỗ trợ game thủ thông báo các hiện tượng có thể xảy ra trong quá trình chơi game như lỗi, phá hoại (hack), mất đồ, khôi phục đồ& Người chơi có thể sử dụng 1-Chạm theo đường dẫn thông báo trên trang www.muonline.vn vài ngày tới.
-Thời gian qua, nhóm GM của MU Việt Nam đã hoàn tất cuốn sách hướng dẫn MU Việt Nam - Xứng Danh Anh Hùng bằng tiếng Việt, với nội dung giới thiệu cốt truyện, nhân vật cách chơi, nâng cấp nhân vật, đánh thành (Chung Sức Phá Thành - Công Thành chiến).
-"Chúng tôi cũng vừa hoàn thiện Bảng quy định các điều khoản tham gia MU Việt Nam cùng chính sách hỗ trợ cho người chơi. 60 sự kiện nhỏ trong game sẽ trình diễn hằng ngày kể từ khi phát hành chính thức", ông Huỳnh Ngọc Hải, Trưởng nhóm GM, cho biết.
-

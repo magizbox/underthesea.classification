@@ -1,7 +1,0 @@
-HSBC hứng chịu hàng nghìn virus mỗi ngày
-Theo một quan chức của ngân hàng nổi tiếng thế giới này, ngày nào nhẹ nhất thì hệ thống máy tính của họ bị khoảng vài nghìn mưu toan xâm nhập và có lúc cao trào, con số này lên đến 100.000 vụ/ngày.
-Phát biểu tại Hội nghị về tội phạm điện tử tổ chức ở London (Anh), Alan Jebson, Giám đốc điều hành HSBC, cho biết, với việc quản lý số tài sản hơn nghìn tỷ USD, hệ thống dịch vụ của ngân hàng này luôn là mục tiêu hấp dẫn của giới tin tặc. Tuy nhiên, các thủ đoạn lừa đảo bằng e-mail mạo danh HSBC còn là mối đe dọa lớn hơn đối với 18,9 triệu khách hàng sử dụng các dịch vụ trực tuyến của họ. 
-Chúng tôi rất lo ngại những yếu tố này sẽ hủy hoại sự phát triển của dịch vụ ngân hàng điện tử, Jebson nói. Khách hàng chỉ tiến hành giao dịch khi họ thực sự cảm thấy thuyết phục về độ an toàn. Nhiều người hiện nay không còn dám chắc đâu là e-mail thật của các tổ chức tài chính gửi đến.
-Để tăng cường độ bảo mật các khâu xác thực thông tin, HSBC đang xem xét triển khai hệ thống kiểm tra sinh trắc học 3 lớp, theo đó khách hàng phải khai báo 3 dạng thông tin cá nhân để khẳng định quyền đăng nhập.
-Tuy nhiên, theo Jebson, việc tinh vi hóa quy trình xác thực thông tin cũng đồng nghĩa với sự gia tăng những bất tiện cho khách hàng khi sử dụng. Tuy nhiên, đây là một cuộc chơi mà chúng ta không được phép thua, nhà lãnh đạo của HSBC phát biểu.
-

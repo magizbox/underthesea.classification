@@ -1,8 +1,0 @@
-Cứu dữ liệu trên đĩa quang bằng Iso Buster
-Đôi khi việc sao lưu những dữ liệu lớn, quan trọng trên các CD-R, DVD-R, tỏ ra kém an toàn do bị trầy xước và hư hỏng các bad sectors. Sẽ là "tai họa" nếu có một ngày bạn không thể truy xuất dữ liệu từ những chiếc đĩa đó.
-Hãy thử dùng Iso Buster để thoát khỏi "thảm họa". Đây là một chương trình khá nhỏ gọn và đơn giản, chức năng bung ra trực tiếp file image (.iso, .bin, .tao) là một lợi thế lớn so với các ứng dụng khác. Điều này, sẽ giúp người dùng nhanh chóng cứu toàn bộ đĩa dữ liệu và dùng trình burn đĩa thông thường lưu thành bản khác ngay.
-Iso Buster có thể cứu dữ liệu trên các đĩa DVD với nhiều loại format khác nhau - điều mà không phải trình phục hồi dữ liệu nào cũng có thể làm được. 
-Ngoài ra, Iso Buster còn có thể tìm thấy những dữ liệu bị ghi các track trùng lên nhau, nên gây ra tình trạng bị ẩn track khi truy xuất đĩa theo cách thông thường. Lỗi này thường xuất hiện do tình trạng ghi đi ghi lại nhiều lần bằng trình ghi đĩa của Nero.
-Với Iso Buster bạn còn dùng được như một công cụ để sao lưu dữ liệu từ đĩa quang vào ổ cứng nhanh chóng và an toàn hơn. Tải phiên bản Iso Buster 1.7 mới nhất để dùng thửtại đây.
-Cùng với Iso Buster, còn có một số phần mềm phục hồi dữ liệu như: CD-Check (ứng dụng này chỉ thực sự mạnh với CD), Bad Copy (khá chậm vì phần phục hồi và xuất file bị tách rời), CD/DVD Diagnostic, CD/DVD Recovery, Copy It Anyway.
-

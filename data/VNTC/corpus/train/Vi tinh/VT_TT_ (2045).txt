@@ -1,7 +1,0 @@
- Đĩa cứng mini cho ĐTDĐ của Cornice và Seagate
-Seagate đã giới thiệu loại đĩa cứng mini ST1.3 0,85 inch với dung lượng đạt đến 12 GB. Loại đĩa cứng ST1.3 12 GB này có mức tiêu thụ năng lượng thấp hơn đến 30% so với loại ST1.3 6 GB đã từng giới thiệu trước đây. 
-Cornice cũng giới thiệu 2 loại đĩa cứng mini 0,85 inch thuộc dòng Cornice Dragon với dung lượng 8 và 10 GB. Dòng đĩa cứng Cornice Storage Element dung lượng 3 GB đã được Samsung dùng để trang bị cho ĐTDĐ thông minh chuyên dùng để nghe nhạc của mình là chiếc SGH-1300. 
-Seagate cho biết loại đĩa cứng mini ST1.3 của mình đã được chế tạo theo công nghệ ghi đĩa trực giao hiện đại nhất hiện nay. Các đĩa cứng này được các công ty đem ra giới thiệu trong lần này thật sự được xem là mini khi kích thước của nó chỉ là: dài 4 cm, rộng 3 cm và dày chỉ 0,5 cm. 
-Cornice còn trang bị cho 2 loại đĩa cứng mini của mình công nghệ độc đáo mang tên Drop Safe. Tức đĩa cứng mini của Cornice có khả năng “cảm nhận” được thiết bị đang trong quá trình bị rơi, để tự động ngưng hoạt động nhằm bảo vệ cho đĩa cứng an toàn trước khi thiết bị tiếp đất ở mức…vỡ tan tành. 
-Cornice sẽ tung ra các kiểu đĩa cứng mini của mình trong quý này, còn người dùng yêu thích sản phẩm vượt trội của Seagate phải đợi đến tận quý 3 năm nay. 
-

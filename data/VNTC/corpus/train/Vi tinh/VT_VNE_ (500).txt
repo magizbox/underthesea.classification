@@ -1,5 +1,0 @@
-Spam tăng 30% trong tháng 3
-Theo công ty an ninh Sybari (Mỹ), riêng ngày 25/3, lượng thư rác thậm chí còn vượt quá 1 triệu e-mail. Mỗi một đợt bùng phát spam được cấu thành bởi hàng nghìn hoặc hàng triệu thư, xâm nhập khắp các địa chỉ trên thế giới.
-Vào ngày 1/3, Sybari ghi nhận 660.000 spam mới và trong ngày cuối cùng của tháng thì con số đã đạt 883.000. 
-Julian Bogajski, chuyên gia của Sybari, cho biết công nghệ thống kê spam của Sybari đánh giá số đợt phát tán thư rác khác nhau xảy ra trong từng ngày riêng lẻ bằng cách gắn một mã số vào mỗi e-mail thay vì ước tính số thư chui vào từng Inbox.
-

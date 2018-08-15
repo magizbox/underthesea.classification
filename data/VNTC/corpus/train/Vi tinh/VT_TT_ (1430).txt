@@ -1,7 +1,0 @@
- Child Rroof: công cụ hạn chế quyền sử dụng máy tính
-Công cụ Child Rroof cho phép các bậc phụ huynh lựa chọn các ứng dụng phù hợp với trình độ của trẻ để cho chúng vọc thoải mái mà không ảnh hưởng gì đến tính an toàn của hệ thống. 
-Child Rroof cực kỳ dễ sử dụng. Sau khi cài đặt thành công, quý phụ huynh vào tính năng “Add” để chọn những ứng dụng nào đã cài đặt trên máy tính phù hợp với trình độ của trẻ. Sau khi lựa chọn xong, phụ huynh nhắp vào nút “Child” là Child Rroof sẽ chuyển sang chế độ “Child” chuyên dùng cho trẻ em. Chỉ những ứng dụng đã được chọn mới hiện lên màn hình và trẻ em chỉ có thể sử dụng một ứng dụng duy nhất trong số ứng dụng đã chọn trong cùng một thời điểm, đảm bảo giảm thiếu tối đa vấn đề nhiễu loạn phần mềm khi trẻ em vọc máy “quá tay”. 
-Người dùng có thể vào menu Option để thiết lập một tổ hợp phím bí mật chỉ riêng mình biết để chuyển đổi qua lại giữa chế độ “Child Mode” cho trẻ em dùng và chế độ “Parent Mode” của bố mẹ. 
-Trên lý thuyết thì Child Rroof là công cụ chuyên dùng để giới hạn quyền sử dụng máy tính của trẻ em, nhưng người dùng cũng có thể sử dụng nó như một công cụ bảo mật nho nhỏ, nhằm hạn chế quyền truy cập của mọi người vào máy tính của mình trong trường hợp đi vắng hoặc cho người khác mượn máy sử dụng tạm. 
-Child Rroof hiện vẫn là công cụ miễn phí và tương thích với toàn bộ các Windows, người dùng có thể vào đây để tải Child Rroof 1.0 về dùng. 
-

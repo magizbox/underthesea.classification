@@ -1,7 +1,0 @@
-Đĩa dung lượng 1 TB dùng công nghệ ánh sáng 3 chiều
-Hãng InPhase Technologies vừa ra mắt Tapestry HDS5000, giống như đĩa DVD thông thường nhưng có dung lượng lên tới 1 Terabyte (tương đương 1.000 GB) nhờ ứng dụng công nghệ lưu trữánh sáng 3 chiều.
-"Tapestry HDS5000 là cú đột phá vào thị trường thiết bị lưu trữ, sẽ làm mọi người hài lòng với giá rẻ, hiệu quả sử dụng cao và dung lượng lớn", Nelson Diaz, Giám đốc điều hành của InPhase, cho biết. 
-InPhase cũng dự kiến đưa ra sản phẩm lưu trữ có khả năng ghi được vào năm 2006. Thiết bị này có dung lượng lên đến 200 GB, tốc độ ghi dữ liệu 20 Mb/giây, đủ để chứa 14 giờ video chất lượng cao.
-Kỹ thuật lưu trữ dữ liệu bằng ánh sáng 3 chiều đã bắt đầu được nghiên cứu từ những năm 60 của thế kỷ trước. Bằng cách tách đôi ánh sáng laser xanh rồi sử dụng chúng để ghi dữ liệu, dung lượng của đĩa có thể tăng lên rất nhiều lần so với phương pháp ghi thông thường. Công nghệ này cũng cho phép khả năng truy cập nhanh hơn.
-"Kỹ thuật này tiếp tục chứng tỏ sức mạnh của ánh sáng laser xanh, giúp nâng cao dung lượng cũng như hiệu suất hoạt động của thiết bị. Lưu trữ bằng công nghệ không gian 3 chiều có nhiều tiềm năng để trở thành một phần quan trọng của kỹ thuật lưu trữ quang học", Wolfgang Schlichting, chuyên viên của hãng phân tích thị trường IDC, nhận xét.
-

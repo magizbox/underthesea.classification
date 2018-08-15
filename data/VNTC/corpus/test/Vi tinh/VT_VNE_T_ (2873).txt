@@ -1,9 +1,0 @@
-Chip 1 GB nhỏ và rẻ nhất thế giới
-Hãng thiết bị bán dẫn Matrix (Nhật) vừa ra mắt chip 1GB siêu nhỏ, được đánh giá là thách thức mới đối với công nghệ Flash dù sản phẩm này được thiết kế với công nghệ 3D chỉ dùng để ghi một lần.
-Siva Sivaram, Giám đốc điều hành của Matrix, cho biết hãng đã áp dụng sáng kiến tăng mật độ ô nhớ trong mỗi chip bằng cách xếp chồng chúng lên nhau, nhờ đó giảm đáng kể diện tích bề mặt. Ý tưởng này cho phép thiết kế chip trên một bảng mỏng và giảm chi phí sản xuất. "Chúng tôi học theo phương pháp xây nhà cao tầng, vì diện tích 'đất' silicon vô cùng đắt đỏ", Sivaram so sánh.
-Chip 1 GB này có diện tích bề mặt 31 mm2, tương đương sản phẩm có dung lượng 0,5 GB trước đó của hãng, và bằng 1/3 kích thước của chip nhớ Flash cùng dung lượng trên thị trường hiện nay.
-Bộ nhớ Flash truyền thống có thể ghi nhiều lần, nhưng sản phẩm của hãng Matrix chỉ được dùng đế ghi một lần duy nhất. Dan Steere, Phó giám đốc kinh doanh của Matrix, khẳng định đây không hề là trở ngại với những công ty chuyên cung cấp âm nhạc, video, hay game... trên thẻ nhớ. Hơn thế, chip có thể lưu những nội dung trên trong vòng 100 năm. Hãng cho biết công nghệ này sẽ là bước đệm để phát triển thẻ nhớ sử dụng một lần trong tương lai. 
-Không chỉ nhỏ hơn chip Flash cùng dung lượng, thẻ nhớ tích hợp sản phẩm của Matrix có giá thấp hơn 20 - 50%. Matrix tin tưởng công nghệ này sẽ là sự lựa chọn hợp lý cho những khách hàng muốn mua thẻ Flash giá rẻ để ghi nhạc, hình ảnh, video và các nội dung khác.
-Chip Matrix đã có mặt trong thẻ nhớ MMC, và sẽ tích hợp trong hầu hết các định dạng khác, đặc biệt là SD (Secure Digital) và Memory Stick, vào cuối năm nay.
-"Công nghệ này thể hiện một tiềm năng tuyệt vời. Với giá thành hợp lý, nó chắc chắn sẽ chiếm lĩnh thị trường thẻ nhớ, đặc biệt trong trong các sản phẩm dân dụng như camera hay thiết bị nghe nhạc", Mark DeVoss, chuyên gia trong lĩnh vực bộ nhớ của iSupply, dự đoán. 
-

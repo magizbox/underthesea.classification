@@ -1,6 +1,0 @@
-Lỗ hổng cũ trong phiên bản Netscape mới
-Netscape 8.0, được tuyên bố là an toàn hơn Internet Explorer (IE), vừa ra mắt đã gặp ngay những lỗi bảo mật nghiêm trọng của Firefox.
-Netscape 8.0 được đánh giá rất an toàn do tận dụng những cải tiến bảo mật của Firefox. Tuy nhiên, trình duyệt này lại xây dựng trên Firefox 1.0.3 - phiên bản xuất hiện hailỗ hổng liên quan đến mã Javascript gần đây, và đã được Mozilla nâng cấp lên bản vá lỗi 1.0.4.
-Ben Goodger, kỹ sư hàng đầu của Firefox, đã đăng tải khám phá của mình về mức độ nguy hiểm của lỗi trong Netscape tại trang Bugzillavà phát biểu: "Nếu người dùng đánh giá cao bảo mật, thì những gì tôi chỉ ra ở trang này đã cho thấy trình duyệt nào lấy lại ý tưởng từ sản phẩm của Mozilla sẽ không bao giờ có thể đưa cho bạn bản nâng cấp nhanh như chúng tôi đã hỗ trợ được".
-Tuyên bố này đã khiến Netscape tự ái và phản bác rằng phiên bản mới nhất của Firefox chẳng có gì mới mẻ, bởi những lỗi đó đã được nâng cấp trong Firebadger từ khá lâu. Hãng cũng khẳng định Netscape chỉ hoạt động trên Windows, do đó họ không cần phải điều chỉnh gì cả.
-

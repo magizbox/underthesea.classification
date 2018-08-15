@@ -1,8 +1,0 @@
-Không thấy Task Manager (2)
-Mình đang dùng Windows XP, gần đây khi mình bấm "Ctrl+Alt+Delete" thì không thể nhấn "Task Manager" được nữa, cái nút thì vẫn còn đó nhưng nó không cho bấm vào. Xin các anh chị giúp giùm. 
-Trường
-Hồi âm:
-Bạn Vào Start /Run /Trong hộp thoại Run Gõ: Regedit, rồi Enter.Hộp thoại regedit propertise xuất hiện. Bạn vào các khoá sau :HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\. Bạn sẽ thấy một khoá ở bên phải cửa sổ tên là DisTskMaNager0. Bạn click đúp vào đó và chọn số 1 nhấn F5 cho làm tươi màn hình. Thoát khỏi cửa sổ regedit. Bạn sẽ tìm thấy Task manager của HĐH. Chúc bạn thành công!
-tuanntbkit
-Để khắc phục bạn thực hiện những bước sau:1) Run\Regedit2) [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System], bạn tìm và xóa Key: DisableTaskmgr hoặc thay giá trị 1 thành 0. Chúc vui.
-

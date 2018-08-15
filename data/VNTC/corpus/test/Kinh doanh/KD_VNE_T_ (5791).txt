@@ -1,5 +1,0 @@
-Viettel nghẽn mạch di động
-Chiều qua (5/10), nhiều khách hàng sử dụng mạng di động Viettel rất khó thực hiện các cuộc gọi sang các mạng di động khác, trong khi các cuộc gọi nội mạng vẫn thực hiện bình thường.
-Phó giám đốc Kỹ thuật Viettel Mobilie thừa nhận, tình trạng nghẽn mạch trong ngày hôm qua là có thật. Trước đó, tại một số khu vực trên địa bàn TP HCM và Hà Nội, người sử dụng điện thoại di động đã gặp hiện tượng cuộc gọi bị báo lỗi kết nối khi mạng khác gọi vào mạng 098, hiện tượng này sẽ hết khi thao tác nhiều lần.
-Trong 2 ngày 4 và 5/10, VNPT đã cung cấp thêm cho mạng di động Viettel 15 luồng kết nối với khả năng chuyển tải 450 cuộc gọi cùng lúc, nâng tổng số luồng kết nối vào khoảng 240 luồng.
-

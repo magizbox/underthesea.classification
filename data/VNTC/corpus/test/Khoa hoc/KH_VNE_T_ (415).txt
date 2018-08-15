@@ -1,5 +1,0 @@
-Vì sao sờ vào kim loại thấy lạnh?
-Khi chạm vào một vật bằng kim loại, ta cảm thấy lạnh mặc dù bản thân vật đó không phải như vậy. Đó chính là bởi kim loại dẫn nhiệt tốt: nhiệt lượng của tay ta đã truyền sang vật đó. 
-Nói cách khác, tay ta bị mất nhiệt lượng, và chính kim loại đã tạo cho ta cảm giác lạnh. 
-Các vật bằng kim loại có khả năng truyền dẫn nhiệt một cách dễ dàng. Da của tay ta là nơi nóng nhất, sự di chuyển của nhiệt sẽ diễn ra theo chiều từ tay sang kim loại. Chính vì thế mà ta có cảm giác bị lạnh đi khi chạm vào kim loại. Ngược lai, gỗ và vải là những chất dẫn nhiệt kém nên chúng không "hấp thụ" được nhiệt lượng do tay ta phát ra. Vì thế chúng không tạo cho ta cảm giác lạnh. 
-

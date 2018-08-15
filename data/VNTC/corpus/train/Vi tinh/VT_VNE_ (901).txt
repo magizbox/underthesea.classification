@@ -1,7 +1,0 @@
-Microsoft phát hành bản vá lỗi Internet Explorer
-Đại diện hãng phần mềm Mỹ thông báo tuần tới họ sẽ tung ra phiên bản khắc phục những khiếm khuyết bị nhóm tin tặc ở Nga, có tên "Hangup Team", khai thác hồi tháng 6.
-Bản nâng cấp này được áp dụng cho 3 trình duyệt Internet Explorer 5.01, 5.5 và 6.0. 
-Đầu tháng 6, Microsoft đã phát hành một bản vá lỗi tạm thời và sau đó lại ra mắt một công cụ dùng để "dọn" những hệ thống bị tấn công. Các nhà lãnh đạo của hãng hứa sẽ trình làng phần mềm sửa lỗi trước ngày ra mắt bản nâng cấp định kỳ hàng tháng. 
-Đại diện của Microsoft khẳng định: "Vấn đề bây giờ là chất lượng 'dọn' khiếm khuyết vì bản vá lỗi sửa được lỗ thủng nhưng lại tác động đến các ứng dụng khác thì coi như là công cốc".
-Trong tháng 6, một số lỗ hổng đã gây ảnh hưởng nặng nề đến người sử dụng. Đặc biệt, hàng nghìn website bị Download.jectkhai thác  và trở thành những bãi mìn rải đầy phần mềm phá hoại. Máy chủ của các địa chỉ này do đó đặt người lướt web vào vòng ngắm của những cuộc tấn công nguy cơ cao. Băng nhóm tội phạm Nga khai thác những server chạy phần mềm ISS của Microsoft. Sau đó, chúng cài đặt Trojan vào máy tính nạn nhân chạy Internet Explorer. Lúc này, Trojan sẽ chạy mã nguy hiểm trong hệ thống tấn công để thu thập những thông tin về tài chính nhằm mục đích "hốt" tiền trong tài khoản.
-

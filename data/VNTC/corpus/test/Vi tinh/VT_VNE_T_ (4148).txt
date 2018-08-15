@@ -1,7 +1,0 @@
-Trojan 'giảng kinh Koran' để chặn web sex
-Một loại virus mới đã xuất hiện và đóng vai trò như công cụ "bảo vệ đạo đức", bằng cách hiển thị một đoạn kinh Hồi giáo nếu người sử dụng ghé thăm các trang web khiêu dâm.
-Hãng bảo mật Sophos của Anh cho biết Trojan mang tên Yusufali.A sẽ quét thanh tiêu đề chứa tên trang web trên cửa sổ trình duyệt đang hoạt động. Chương trình sẽ chỉ chạy nếu nó thấy bất kỳ một trong 9 từ mặc định, trong đó có sex, xxx, teen, hay những từ chỉ bộ phận nhạy cảm trên cơ thể...
-Khi cho rằng đó là trang web đồi trụy, Trojan sẽ thu nhỏ cửa sổ và hiển thị một thông điệp có đoạn "Thánh Ala biết quý vị đi đến đâu và làm những gì". Nếu site này vẫn không được đóng lại, nút "Bấm vào đây để thoát" (For Exit Click Here) sẽ xuất hiện và người dùng buộc phải thoát khỏi Windows.
-Do cách lập trình hạn chế này, Yusufali.A có thể chặn cả các trang chính thống như website y tế, giáo dục và những site dành riêng cho thanh thiếu niên.
-Sophos không ghi nhân được nhiều thông báo của người dùng về ảnh hưởng của Yusufali.A. Hãng cũng đã đăng tải các bước hướng dẫn để xóa Trojan này.
-

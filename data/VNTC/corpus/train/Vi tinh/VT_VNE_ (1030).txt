@@ -1,6 +1,0 @@
-Xử lý file trùng lặp bằng Xplorer2 Lite
-Ổ cứng ngày càng rẻ và có sức chứa càng lớn. Mặt trái của vấn đề là bạn sẽ rất khó khăn trong việc quản lý và chỉnh sửa các tập tin trùng lặp vì Windows Explorer không cho bạn so sánh 2 thư mục đặt kề nhau. Khi đó, bạn nên dùng Xplorer2 Lite.
-Xplorer2 Litelà một sự thay thế hoàn hảo cho Windows Explorer, giúp việc so sánh các tệp tin trở nên dễ dàng hơn. Phần mềm này đánh hơi ra các tập tin trùng lặp và tìm kiếm những phiên bản mới nhất của tập tin qua các thư mục. Đây là một công cụ rất hữu ích cho những ai muốn đồng bộ hóa nội dung của máy tính để bàn với các ổ cứng di động. 
-Bạn có thể mua Xplorer2 Pro, một phiên bản bổ sung chức năng tìm kiếm cao cấp, đồng bộ hóa giao thức truyền file FTP và web cùng khả năng thống kê lưu lượng sử dụng thư mục con với giá 25 USD. Còn với người dùng thông thường, bản miễn phí cũng đủ đáp ứng hầu hết các nhu cầu quản lý file.
-Chương trình có dung lượng 567 KB, có thể tải tại đây.
-

@@ -1,6 +1,0 @@
-Virus mới tấn công các doanh nghiệp
-Chương trình phá hoại này có thể sẽ lây lan rất nhanh trên Internet khi văn phòng, công sở khắp thế giới bắt đầu một tuần làm việc mới.
-Virus mang tên Evaman, được phát hiện hôm qua, là một loại sâu phát tán e-mail số lượng lớn. Nó được thiết kế để gây lụt các máy chủ mail, làm chậm nghiêm trọng đường truyền máy tính và gây ra những thiệt hại về tài chính do sút giảm năng suất.
-Virus mới xuất hiện chỉ vài ngày sau khi các công ty an ninh trực tuyến phát hiện một loại Trojan được thiết kế để thu lượm thông tin tài khoản ngân hàng điện tử. Evaman có rất nhiều điểm tương đồng với sâu Mydoom, một chương trình phá hoại từng tiêu hao của các doanh nghiệp hàng trăm triệu USD hồi tháng Giêng. Giống như Mydoom, Evaman sử dụng một địa chỉ e-mail giả mạo để tạo ra những thông điệp mới với phần đính kèm mang virus. Việc mở file attachment này sẽ giúp mã phá hoại chui vào hệ thống và tại đây, nó sẽ tự động phát ra hàng chục thông điệp mới.
-Tim Hartman, Giám đốc kỹ thuật của hãng phần mềm diệt virus Symantec, cảnh báo Evaman là một virus có mức độ nguy hiểm cao không kém Mydoom. Chuyên gia này cho biết những bức thư mang Evaman thường có chủ đề liên quan đến một giao dịch không thành hoặc thông báo lỗi khi gửi thư.
-

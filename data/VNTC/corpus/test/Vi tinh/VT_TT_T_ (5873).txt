@@ -1,6 +1,0 @@
- VNPT chuẩn bị triển khai diện rộng mạng NGN
-Mạng công nghệ thế hệ mới NGN có tính năng tích hợp các loại dịch vụ trên giao thức IP, góp phần giảm bớt chi phí và đơn giản hóa việc quản lý và điều hành các hoạt động viễn thông. Thay vì nhiều tổng đài điều hành nhiều loại dịch vụ, sẽ có 1 tổng đài chung điều hành tất cả các loại dịch vụ viễn thông. 
-VNPT đã triển khai công nghệ NGN trên mạng đường trục từ năm 2003. Theo kế hoạch, từ đầu năm 2006 VNPT sẽ triển khai NGN xuống các tổng đài và hệ thống truyền dẫn nội hạt và dự kiến từ năm 2008 đến 2010 sẽ chuyển đổi hoàn toàn sang mạng NGN. 
-Theo tính toán bước đầu của VNPT, tuy chi phí ban đầu khá tốn kém nhưng việc chuyển đổi sang mạng NGN sẽ khiến chi phí điều hành khai thác giảm mạnh và đặc biệt là giúp hệ thống hạ tầng viễn thông của Việt Nam phù hợp với sự phát triển của công nghệ viễn thông thế giới trong tương lai. 
-Việt Nam hiện là một trong số ít quốc gia trong khu vực đã triển khai mạng công nghệ mới này. 
-

@@ -1,5 +1,0 @@
-MD dùng nhãn 3D để bảo đảm hàng thật
-Loại nhãn dùng công nghệ ánh sáng 3 chiều (holography) gắn trên bao bì các hộp đựng chip sẽ cho phép khách hàng xác định các sản phẩm của chính hãng.
-Nhãn 3D, mang logo hình mũi tên của AMD rất khó làm giả, sẽ được gắn lên góc dưới bên trái hộp đựng các sản phẩm Athlon 64 FX, Athlon 64, Sempron và Opteron. Việc áp dụng tính năng bảm đảm mới được triển khai sau khi báo điện tử DigiTimes (Đài Loan) đăng tin cảnh sát tại đây thu giữ 60.000 chip AMD của một tổ chức đang có ý định đánh tráo nhãn sản phẩm để bán vào thị trường Đức và Trung Quốc. Bằng cách thay đổi thông tin cấu hình trên nhãn sản phẩm như vậy, tội phạm thổi phổng tốc độ xung đồng hồ của chip cũng như dung lượng lưu trữ tạm thời cache, nhờ đó có thể bán chip với giá trị cao hơn. 
-Phát ngôn viên AMD cho biết đây chỉ là thủ đoạn tráo nhãn chứ công ty chưa phát hiện bất cứ trường hợp nào làm giả sản phẩm của họ xuất phát từ Đài Loan. Người này cũng phủ nhận thông tin cho rằng việc áp dụng nhãn quang 3D là hệ quả của việc trên thị trường đang tồn tại một số chip có khiếm khuyết.
-

@@ -1,8 +1,0 @@
-Vướng mắc trong Excel (2)
-Trong ung dung phan mem Excel, nguoi ta co the dung no nhu mot bang tinh voi cac cong thuc va cong dung cua no khien cho nguoi ta co the tinh nhanh va chinh xac hon rat nhieu so voi phuong phap thu cong. Tuy nhien vua qua, toi gap mot truong hop ma chua tim ra cach giai quyet. Do la mot file duoc su dung tren phan mem Excel, trong co cac cot co the tinh tong mot cach binh thuong, the nhung lai co cot thi khong the tinh duoc tong mot cach chinh xac. No duong nhu duoc mac dinh bang mot so thap hon rat nhieu so voi tong ma chi can nhin qua bang mat ta cung co the biet la sai. Toi da su dung tat ca cac bien phap ma da tung dung de khac phuc nhu format lai cot do, nhung khong the tinh dung duoc, tham chi, copy phan do roi sang file moi cung khong the nao cong duoc. Rat mong nhan duoc su tro giup. Xin chan thanh cam on.
-Thanh Van
-Hồi âm:
-Có thể bạn đã vô tình đặt ẩn một số cel mà trong đó có giá trị cũ hoặc do copy từ một sheet nào đó sang bản tính của bạn mà bản gốc đó có một số cel ẩn có giá trị. Bạn cần vào format cells chọn mục column/ unhide cho cột có tổng không chính xác đó xem có cel nào hiện lên nữa không. Nếu có chắc bạn đã biết các xử lý rồi.
-Nguyễn Đức Hưởng
-Kiem tra lai xem co bi Circular o o nao do khong. Thong thuong chi can 1 o circular, toan bo phep tinh cua bang se cho dap so sai va thong bao tai khu vuc Startus phia day mam hinh. Giai quyet xong tinh trang nay chac chan phep tinh se OK thoi. Chuc may man.
-

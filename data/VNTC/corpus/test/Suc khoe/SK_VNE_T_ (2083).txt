@@ -1,7 +1,0 @@
-Tìm ra hợp chất chống SARS
-Viện Khoa học Trung Quốc (CAS) và Trường Bách khoa Singapore vừa tuyên bố đã tìm thấy một hợp chất tự nhiên từ một loại cây ăn được có khả năng kìm hãm virus SARS sinh sôi và truyền bệnh.
-Với sự trợ giúp của máy tính, tiến sĩ Zhu Weiliang và cộng sự đến từ Viện Dược vật học Thượng Hải thuộc CAS đã sàng lọc được 220 hợp chất đặc biệt, trong đó có những chất sở hữu khả năng trói buộc và vô hiệu hóa một protease của virus SARS tên là 3CL-PRO. Nhóm không tiết lộ tên chính xác của nhóm chất này.
-Theo giới chuyên môn, protease 3CL-PROđược xem là chìa khóa giúp virus SARS lây lan, vì thế, sự bất lực của protease này đồng nghĩa với việc virus không còn khả năng phát tán. "Những hợp chất vừa được tìm thấy có thể giữ chặt toàn bộ protease3CL-PROcủa virus SARS", Zhu cho biết.
-Mặc dù chưa được thử nghiệm trên cơ thể người, song các mô phỏng trên máy tính cho thấy hợp chất mới đeo bám protease của SARS rất hiệu quả. Tuy nhiên, chúng cũng thể hiện một vài phản ứng phụ. 
-Hiện nhóm nghiên cứu đang phát triển thuốc và văcxin phòng SARS dựa trên các hợp chất tự nhiên vừa tìm được. Chẳng bao lâu nữa, người ta sẽ tiến hành thử nghiệm lâm sàng những dược phẩm đặc trị SARS, Phó giám đốc CAS, ông Jiang Hualiang khẳng định.
-

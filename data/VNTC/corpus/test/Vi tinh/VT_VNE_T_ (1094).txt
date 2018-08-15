@@ -1,8 +1,0 @@
-Điện thoại di động 3G mới của DoCoMo 
-Hãng phân phối thiết bị không dây Nhật Bản vừa trình làng model N900iL, điện thoại di động thế hệ 3 đầu tiên trên thế giới có thể thực hiện thoại IP ngay trong mạng nội bộ (LANs).
-Theo NTT DoCoMo, N900iL hoạt động như một trình duyệt Web thông thường và có thể chụp ảnh.
-Takumi Suzuki, phát ngôn viên của DoCoMo, cho biết: "Đây là thế hệ điện thoại di động đầu tiên sử dụng công nghệ W-CDMA. Do đó, dòng máy này có thể gọi điện thoại theo giao thức Internet. Vì vậy, các công ty có thể tiết kiệm được chi phí liên lạc". Ông cũng khẳng định ngay khi mạng này được cài đặt thì thoại IP sẽ được sử dụng miễn phí. Tuy nhiên, nó chỉ có tác dụng truyền âm thanh chứ không truyền dữ liệu.
-Tháng 10/2001, DoCoMo đã trình làng FOMA , điện thoại di động thế hệ 3 đầu tiên sử dụng công nghệ W-CDMA.
-Kể từ tháng 6, 4,6 triệu người sử dụng điện thoại FOMA trong tổng số 82,7 triệu thuê bao ở Nhật Bản. Người sử dụng FOMA có thể đàm thoại theo đường link của video và tải được rất nhiều dữ liệu trong đó có hình ảnh động với tốc độ 384 Kbps.
-NEC cũng sẽ ra mắt mẫu điện thoại di động mới và hệ thống mạng trọn gói. Tuy nhiên, hãng vẫn chưa thông báo về giá cả. Mặc dù vậy, NEC vẫn chưa có ý định tung sản phẩm này ra ngoài biên giới Nhật Bản.
-

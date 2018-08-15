@@ -1,6 +1,0 @@
-Khôi phục tệp .zip bị lỗi
-Zip Repair là ứng dụng sửa và phục hồi các file nén bị lỗi trong quá trình tải về máy. Chương trình hoạt động dễ dàng và không đòi hỏi bất cứ thao tác chuyên môn nào. 
-Công cụ có giao diện người dùng tương đối đơn giản, hỗ trợ cài/gỡ đầy đủ. Zip Repair cũng có thể sửa lỗi CRC và cho phép extract file ngay cả khi tệp nén mất khá nhiều dữ liệu. Chương trình hỗ trợ định dạng Zip64 và những file lớn trên 2 GB, miễn là ổ lưu trong máy bạn có đủ dung lượng trống. 
-Sau khi cài và khởi động chương trình, nhấn nút Add Zip File để chọn những tệp .zip cần khôi phục, tiếp đó bấm Repair và chọn nơi lưu file. Tuy nhiên, cần đóng chương trình này lại mới có thể mở được tệp đã khôi phục.
-Có thể tải bản miễn phí hoặc mua Zip Repair, dung lượng 1,54 MB, với giá 19,95 USD tại đây. 
-

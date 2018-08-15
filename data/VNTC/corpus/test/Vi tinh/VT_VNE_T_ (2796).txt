@@ -1,6 +1,0 @@
-Samsung đưa hệ thống giao dịch qua mạng vào VN
-Công ty Samsung Vina, thành viên của tập đoàn điện tử Samsung, vừa chính thức giới thiệu hệ thống giao dịch gọi tắt là GSBN, tại TP HCM, chiều qua. Đây là chương trình giao dịch thương mại được thiết kế nhằm phục vụ việc lên kế hoạch kinh doanh giữa tập đoàn này với các đối tác toàn thế giới.
-Hệ thống GSBN gồm các giai đoạn: chào hàng, cung cấp dịch vụ, phân tích đơn hàng và thông tin thị trường, tiếp thị và đặt hàng giữa các doanh nghiệp với nhau trên mạng Internet, qua địa chỉ: www.samsunggsbn.com/vn.
-Theo đó, khách hàng và đối tác có thể tìm thấy những thông tin cần thiết về sản phẩm, công nghệ Samsung và những vấn đề liên quan. GSBN tạo sự liên kết chặt chẽ giữa khách hàng và đối tác của hãng trên phạm vi toàn cầu, giúp họ dễ dàng đặt hàng, nhận hàng hoặc hủy bỏ đơn hàng theo yêu cầu và có thể theo dõi được hóa đơn của mình ở mọi thời gian, địa điểm. Thông qua việc sử dụng giao thức B2B (Business to Business), khách hàng và đối tác của Samsung sẽ giảm được lượng hàng tồn kho, được giao hàng theo đúng yêu cầu, tiết kiệm đáng kể chi phí giao dịch. 
-Hệ thống bắt đầu ứng dụng từ tháng 4/2003. Dự kiến, đến hết năm 2005, có 50 chi nhánh và văn phòng của tập đoàn điện tử Samsung với 830 đối tác và khách hàng trên thế giới sử dụng GSBN. 
-

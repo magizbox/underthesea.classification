@@ -1,8 +1,0 @@
-Lưu chương trình phát trên Internet (2)
-Xin chao cac ban doc gia. Xin cho tôi hỏi: Làm cách nào co thể lưu lại (save, cất lại) một chương trình phát trên internet hay một chương trình phim được đã download về để coi lại sau nay. Tôi thực sự rất muốn được các bạn giúp đỡ. Chân thành cảm ơn va trân trọng kính chào. 
-Nguyen Van Nam
-Hồi âm:
-Bạn đã nói là một chương trình phim được đã download. Nếu đã download thì nó phải ở trong Local Hard Disk của máy bạn rồi. Tức là bạn đã SAVE nó rồi.
-T.O.M.
-Bạn tải phần mềm Download Accelerator về, cài đặt và chọn chế độ startup, mỗi khi nghe 1 chương trình Media thì Download Accelerator yêu cầu bạn download. với phần mềm này sẽ giúp bạn download rất nhanh http://www.click-now.net/cgi-bin/download.pl?file=0934.
-

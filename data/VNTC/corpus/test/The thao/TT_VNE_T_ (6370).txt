@@ -1,9 +1,0 @@
-Một quả vôlê thấp thành công
-Trong trường hợp phải thực hiện một quả vôlê tầm thấp, điều bạn cần tránh là để vợt ở tầm cao hơn bóng. Thay vào đó, giải pháp hiệu quả nhất là đoán trước đường bay của bóng và "chặn" vợt vào nơi phù hợp, ở tầm thấp hơn bóng.
-Tình huống
-Với một quả vôlê thấp, chắc chắn bạn sẽ phải đẩy lên, nếu không muốn mắc lỗi. Nhưng có một thực tế là nếu bạn thường xuyên cầm vợt ở tầm cao để xử lý, bạn sẽ giúp cho đối thủ dễ dàng thực hiện một quả đánh chéo sân ngay sau đó, hoặc nếu không, bạn sẽ đưa bóng vào lưới.
-Điều này thường xảy ra khi bạn không có sự chuẩn bị tốt cho vị trí và quá trình vung vợt. Bạn hay cầm vợt cao hơn đường bóng đang bay tới, với mặt vợt vuông góc sân. Khi đó, bạn sẽ phải vung vợt xuống và múc bóng lên, theo như hình chuyển động (Sự chuyển động này giống như một chữ C). Trong trường hợp bạn nghe tiếng vợt kêu "cách" khi chạm mặt sân, tức là bạn đã không thực hiện được quả vôlê thấp thành công.
-Giải pháp
-Khi thực hiện những quả vôlê, các thày thường dạy người chơi nên giữ vợt tầm cao trên cổ tay. Nhưng với những quả vôlê thấp, điều đầu tiên bạn cần làm là hướng đầu vợt vào nơi mà bạn phán đoán đường bóng sẽ đi tới. Với sự chuẩn bị như vậy, bạn sẽ có thêm thời gian để giữ thăng bằng, ổn định vợt, trước khi bạn bắt đầu thực hiện cú đánh vôlê của mình.
-Trong trường hợp quả bóng đi thẳng về phía mắt cá chân, bạn vẫn phải hướng vợt ở tầm như trên, nhưng độ mở của vợt lớn hơn để làm sao bạn có thể đón bóng trên đúng đường đi của nó. Điều này sẽ giúp bạn đánh vào phần sau của quả bóng (chứ không phải phần trên) và di chuyển vợt từ thấp lên cao theo đường chéo. Quá trình di chuyển theo đà của bạn khi đánh bóng qua lưới cũng theo hướng đi lên, trên cùng một đường và góc như khi bóng tới. Thay vì đẩy bóng lên sử dụng nhiều độ xoáy dưới (underspin), bạn nên lái bóng qua sân và tấn công. Khi đó, thực hiện một quả vôlê thấp là rất hợp lý.
-

@@ -1,6 +1,0 @@
-Google sẽ gỡ bỏ hết thông tin của AFP
-Đáp trả việc hãng tin Pháp kiện họ với lý do xâm phạm bản quyền, Google quyết định bắt đầu loại bỏ hết các nội dung có nguồn gốc liên quan đến AFP khỏi hệ thống thu thập tin tức của mình.
-Steve Langdon, phát ngôn viên của Google, tuyên bố đây là phản ứng trực tiếp trước đơn kiện của AFP. Hãng dịch vụ tìm kiếm không công bố thời điểm tất cả các đường link của AFP bị gỡ bỏ hết nhưng khẳng định công ty đang tích cực thực hiện việc này.
-Các đơn vị phát hành nội dung có quyền không tham gia vào dịch vụ Google News của chúng tôi, nhưng trên thực tế, hầu hết đều muốn có mặt trong hệ thống này vì họ tin rằng điều đó có lợi cho độc giả và chính họ, Langdon phát biểu.
-Tuần trước, AFP đệ đơn lên một tòa án ở quận Columbia (Mỹ) đòi Google phải bồi thường 17,5 triệu USD, đồng thời yêu cầu tòa cấm Google dùng nội dung của họ trên dịch vụ Google News (lấy thông tin từ 4.500 nguồn).
-

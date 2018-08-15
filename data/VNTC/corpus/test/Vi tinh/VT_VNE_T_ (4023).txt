@@ -1,8 +1,0 @@
-2 công cụ hỗ trợ phát triển IM mới của Skype
-Hãng cung cấp dịch vụ điện thoại Internet bắt đầu cho phép các trang web và những ứng dụng mạng khác có thể kết nối tới hàng triệu người dùng hệ thống tin nhắn nhanh của Skype.
-Công ty tại Luxemburg này đã công khai công cụ phát triển mang tên SkypeWeb và SkypeNet nhằm mở rộng phần nền cho bất cứ ai muốn tích hợp tính năng tin nhắn nhanh Skype IM.
-Janus Friis, nhà đồng sáng lập hãng, bày tỏ hy vọng sẽ có một lượng lớn các nhà sản xuất phần cứng cũng như phần mềm cài Skype IM trong sản phẩm của họ thời gian tới. Người chơi game trực tuyến cũng có thể dùng chương trình để chế giễu đối thủ hay thảo luận chiến thuật với đồng đội. Skype IM có khả năng tích hợp trong phần mềm nghe nhìn trên máy tính cá nhân, blog, website kết bạn hay eBay...
-Nhà cung cấp tin tưởng rằng động thái này sẽ có ảnh hưởng không nhỏ tới Yahoo, MSN và AOL. Với 51 triệu người đăng ký, Skype IM có tiềm năng phát triển lớn gấp đôi cộng đồng Yahoo hiện nay. "Skype muốn thâu tóm toàn bộ thế giới còn lại của Internet", Friis phát biểu. Đại điện của Microsoft, AOL và Yahoo chưa đưa ra lời bình luận nào về sự kiện này. 
-Tuy nhiên, điểm hạn chế của hai công cụ mới là chưa được tích hợp tính năng gọi điện thoại Internet (VoIP) mà Skype bắt đầu cung cấp từ ngày 29/8/03 (đã đạt kỷ lục 12 tỷ phút cuộc gọi và chứng tỏ sức cạnh tranh đáng kể với mạng điện thoại mặt đất và di động). 
-Quyết định ra mắt hai công cụ mới của Skype chỉ đến đúng vài ngày trước lễ kỷ niệm 2 năm ra mắt dịch vụ điện thoại Internet.
-

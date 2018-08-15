@@ -1,7 +1,0 @@
-Tại sao khi khách chơi game, PC bị lagg? (1)
-Tôi có 1 phòng Net 21 máy, tôi kéo mạng ngang hàng tôi cắm tất cả các máy vào switch ( switch loại cnet 24 port) và roter drayter vigo2500. Tôi dùng Win XP SP2 với cấu hình máy khá mạnh. Tại sao khi chơi game, nhất là Võ Lâm Truyền Kỳ, máy thường bị lagg (trễ hình). Tôi qua tiệm khác máy chạy rất bình thường mặc dù cấu hình của họ thấp hơn của tôi. Vậy tôi nêu lý do trên xin được tư vấn. Vấn đề này tôi nghĩ là do đường truyền nhưng không biết cách khắc phục.
-Tôi xin chân thành cảm ơn và mong thư sớm
-Vũ Huy Hoàng
-Hồi âm:
-Có hai nguyên nhân khiến máy tính khi chơi game bi lagg (hình bị giật). Thứ nhất là bạn chưa cài đúng chuẩn Driver Graphic Card của chính hãng. Thứ hai là nếu bạn đã cài đúng chuẩn drive rồi mà vẫn bị lagg thì bạn hãy làm như sau: right klick chuột vào khoảng trống màn hình rồi chọn Properties--Setting--Advanced--Troubleshoot-- rồi kéo thanh gạt về Full rồi OK. Máy tính chơi game sẽ không bị lagg nữa. Chúc thành công!
-

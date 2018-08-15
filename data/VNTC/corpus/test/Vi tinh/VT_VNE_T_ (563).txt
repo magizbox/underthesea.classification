@@ -1,6 +1,0 @@
-Nhu cầu máy tính ở châu Á tăng nhẹ
-Công ty nghiên cứu IDC vừa công bố số máy tính cá nhân (PC) được tiêu thụ tại khu vực này (trừ Nhật Bản, nhưng gồm cả thị trường trọng điểm là Australia và Ấn Độ) đạt 7,4 triệu chiếc trong quý I, tăng 16% so với cùng kỳ năm ngoái. Mức tăng trưởng này cao hơn so với dự đoán trước đó.
-Tuy nhiên, theo IDC, so với quý trước thì doanh số giảm 5% do nhu cầu người tiêu dùng những tháng đầu năm chững lại. "Thị trường PC khu vực châu Á - Thái Bình Dương sẽ có một sự tăng trưởng vững chắc trong năm nay", nhà phân tích IDC Bryan Ma cho biết.
-Từ ngày 1/6, Trung Quốc sẽ áp dụng chuẩn WAPI mới, theo đó, nước này cấm nhập khẩu, chế tạo và kinh doanh những thiết bị không dây không sử dụng chuẩn WAPI do trong nước phát triển. Động thái này khiến các nhà sản xuất lớn như Intel, Texas Instruments và Broacom lo ngại và họ cho rằng Trung Quốc đang cản trở sự cạnh tranh trên thị trường.
-Trong quý I này, nhà phân phối máy tính Trung Quốc, Lenovo, dẫn đầu thị trường với 10,9% thị phần, theo sát là các hãng HP với 10,8%. IBM đứng thứ ba - 7,4% và Dell xếp ở vị trí thứ 4 với 7,3%. Tuy nhiên, xét về tốc độ trưởng hằng năm thì Dell đứng đầu với mức tăng doanh số 51,5%.
-

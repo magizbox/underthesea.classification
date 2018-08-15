@@ -1,8 +1,0 @@
-Đã có hòm thư Yahoo tiếng Việt
-Ngày 24/5, hãng dịch vụ trực tuyến Yahoo tuyên bố bản địa hóa thêm 7 ngôn ngữtrong tháng này, và bắt đầu từ 15/6, người Việt Nam đã có cơ hội tuyệt vời để sở hữu một hộp "Yahoo! Thư" tiếng Việt hoàn chỉnh.
-Yahoo! Thư chỉ áp dụng cho những địa chỉ mail mới đăng nhập với đuôi @yahoo.com.vn. Bước đầu sẽ khá rắc rối cho những ai quen dùng Yahoo! Mail và quên gõ ".vn" khi gửi thư đến địa chỉ tiếng Việt, nhưng đây sẽ không phải là vấn đề lớn, đặc biệt với những ai từng gặp khó khăn trước những yêu cầu và thông báo bằng tiếng Anh khó hiểu trong Yahoo! Mail. 
-Để đăng ký một thư tiếng Việt, người dùng có thể mở trực tiếp trang http://mail.yahoo.com.vn, hoặc vào địa chỉ http://mail.yahoo.com như thông thường và chọn ngôn ngữ "Việt Nam" ở cuối trang. Tuy còn một số lỗi chính tả nhỏ, giao diện tiếng Việt của "Yahoo! Thư" rất đơn giản và dễ hiểu, ngay cả với những người lần đầu đăng ký tài khoản.
-Giao diện trang đăng ký tài khoản.
-Sau khi đăng ký, người sử dụng không nhất thiết phải vào trang tiếng Việt mà có thể gõ ID trực tiếp vào trang chủ Yahoo! Mail thông thường, hòm thư sẽ tự động nhận dạng và chuyển sang ngôn ngữ tiếng Việt.
-Tuy nhiên, hòm thư tiếng Việt không có một số tính năng cơ bản xuất hiện trong Yahoo! Mail, ví dụ như người dùng không thể lướt qua một số tiêu đề tin tức cập nhật (headline) của dịch vụ Yahoo! News trực tiếp trong hòm thư, hay "Yahoo! Thư" cũng thiếu thư mục "Bulk" chứa thư rác và thư dung lượng lớn.
-

@@ -1,6 +1,0 @@
-Trojan ăn cắp dữ liệu 50 ngân hàng quốc tế
-Hãng bảo mật Sunbelt tại Florida (Mỹ) đã phát hiện ra nguy cơ một nhóm tấn công nào đó sử dụng phần mềm dò phím để thu thập thông tin cá nhân từ hàng nghìn máy tính khác nhau, ảnh hưởng đến hàng chục ngân hàng thế giới.
-Thông tin bao gồm chi tiết thẻ tín dụng, mã số bảo mật, tên người dùng, mật khẩu đăng nhập vào website ngân hàng, các đoạn hội thoại tin nhắn nhanh... Một phần dữ liệu này sau đó được gửi đi trong một file có nguồn gốc từ một server tại Mỹ. Alex Eckelberry, Giám đốc Sunbelt, cho biết họ đã nhận thấy thông tin bí mật của khách hàng ở rất nhiều ngân hàng khi vô tình dò ra file này. Trong số đó có chi tiết về một tài khoản 350.000 USD của khách hàng, và dữ liệu khác của một công ty nhỏ ở California với tài khoản 11.000 USD có thể dễ dàng tiếp cận.
-Trojan dò phím này hoạt động tương tự chương trình phần mềm gián điệp CoolWebSearch, bí mật thâm nhập vào một máy tính nào đó để thu thập dữ liệu. Sunbelt cho rằng chúng xuất phát từ một website khiêu dâm. Người dùng Windows XP chưa cài bản nâng cấp Service Pack 2 sẽ bị nhiễm virus khi vào trang đó. Khách hàng sử dụng Windows 2000 và ME cũng có nguy cơ bị tấn công nếu hệ điều hành chưa cài bản vá lỗi.
-FBI đang bắt tay vào tiến hành điều tra vụ việc, dự kiến diễn ra trong vòng 2 tuần với khoảng 2.000 máy tính. 
-

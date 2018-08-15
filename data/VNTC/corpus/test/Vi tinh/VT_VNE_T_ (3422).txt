@@ -1,7 +1,0 @@
-Bản nâng cấp cuối cùng cho Windows 2000
-Nhà sản xuất phần mềm lớn nhất thế giới Microsoft sẽ chính thức ra mắt bản Update Rollup (Nâng cấp tổng hợp) cho hệ điều hành 5 tuổi của họ vào cuối tháng này theo kế hoạch gia hạn hỗ trợ. 
-Microsoft sẽ không cung cấp thêm tính năng nào cho sản phẩm, mà chủ yếu tập hợp lại các bản vá lỗi trước đây để biến thành một gói tiện ích mới. 
-Theo một đại diện của hãng, bên cạnh bản sửa lỗ hổng cũ, Update Rollup "có thể kèm theo giải pháp cho những vấn đề bảo mật ở mức "trung bình" và "thấp" không xuất hiện trong bản tin an ninh hàng tháng của Microsoft".
-Hãng phần mềm có trụ sở ở Redmond, Washington (Mỹ) đã tuyên bố hồi tháng 11 năm ngoái rằng sẽ chỉ tung ra bản Update Rollup, chứ không phải gói Service Pack thứ 5. Theo đó, SP4 ra mắt tháng 3/2003 trở thành phiên bản Service Pack cuối cùng cho Windows 2000.
-Mặc dù sau Windows 2000 đã xuất hiện khá nhiều phiên bản khác, hệ điều hành này vẫn rất phổ biến trong các doanh nghiệp, có mặt trong gần một nửasố máy tính được dùng tại những nơi này, theo điều tra của hãng AssetMetrix mới đây.
-

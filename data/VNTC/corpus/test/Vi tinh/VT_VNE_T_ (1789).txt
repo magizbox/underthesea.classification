@@ -1,7 +1,0 @@
-Tên miền của Diễn đàn tin học bị rao bán
-Từ đêm 6/1, các thành viên của diễn đàn này khi truy cập vào địa chỉ diendantinhoc.com đều bị chuyển hướng lần lượt sang một vài trang web có thông tin liên quan đến phần mềm iCMS.
-Đích cuối cùng được trỏ đến là 1 website rao bán chính tên miền diendantinhoc.com với giá 9.000 euro. 
-Ông Dương Vi Khoa, quản trị diễn đàn, cho biết thủ phạm của vụ hack tên miền này rất có thể ở Hà Nội hoặc một tỉnh lân cận. "Tôi đã theo dõi trạng thái của diendantinhoc.com kể từ tháng 9/2004, thời điểm mà domain này đã bị lấy, nhưng chưa có động tác nào để chuyển đổi đi. Tôi sẽ tìm cách liên hệ để lấy lại tên miền, có thể là với thủ phạm hoặc với chính nhà cung cấp dịch vụ đang lưu giữ tên miền này".
-Theo ông Khoa, cho dù thủ phạm là ai, hoặc vì động cơ gì cũng không đáng được coi trọng vì đã phá hoại một sân chơi lành mạnh của hàng chục nghìn thành viên diễn đàn cũng như của hàng trăm nghìn người yêu công nghệ thông tin khác. 
-Mặc dù được cộng đồng công nghệ thông tin biết đến từ lâu, chỉ đến khi vụ việc iCMS được nhắc nhiều trên báo chí thì Diễn đàn tin học mới được nhiều người biết đến. Theo ông Khoa, các thành viên đang sử dụng địa chỉ http://ddth.com/để truy cập và mọi hoạt động vẫn diễn ra bình thường.
-

@@ -1,5 +1,0 @@
- Từ điển thuật ngữ CNTT trên mạng
-Từ điển có chức năng cho nhiều người cùng lúc có thể tham gia: đưa các phương án dịch nghĩa khác nhau cho một thuật ngữ, trao đổi, ghi chú và bình bầu các phương án từ đó tiến tới thống nhất một phương án dịch trên cơ sở ý kiến của số đông. Người dùng còn có thể đưa các thuật ngữ mà mình chưa biết dịch để cho mọi người cùng trao đổi đưa ra các phương án lựa chọn. 
-Hiện tại trang web từ điển thuật ngữ CNTT mới xây dựng được 500 thuật ngữ bao gồm: gần 300 thuật ngữ trong TCVN 6695:2000, hơn 100 thuật ngữ lấy từ diễn đàn Java và còn lại là một số thuật ngữ lấy trong các diễn đàn dịch thuật khác. 
-Anh Đặng Minh Tuấn, thành viên trong tiểu ban xây dựng bộ chuẩn thuật ngữ (TCVN 6695:2000) thuộc Trung tâm Tiêu chuẩn của Tổng cục tiêu chuẩn Đo lường chất lượng cho biết, phải mất 2 năm mới ra được 300 từ. Vì vậy việc xây dựng trang web trên sẽ rút ngắn thời gian rất nhiều do có sự đóng góp của cả cộng đồng. 
-

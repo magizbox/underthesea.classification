@@ -1,6 +1,0 @@
-Điện thoại thay đổi âm nhạc theo nhịp chân
-Siemens vừa phát triển phần mềm tích hợp trong thiết bị nghe nhạc, cho phép tăng giảm nhịp phù hợp với tốc độ người chạy, biến thiết bị MP3 trong điện thoại thành máy luyện tập thể dục đa năng. 
-Phát minh của Siemens bao gồm phần mềm Jogger kết hợp với một công tơ đo bước chân. Thiết bị này có kích cỡ bằng hộp diêm gọn nhẹ, đeo ngang hông. Thông tin về nhịp chân sẽ được chuyển vào điện thoại qua cổng Bluetooth và hiển thị trên màn hình. 
-Phần mềm này cũng đo độ dài sải chân, giúp ta biết được tốc độ cũng như lượng calo tiêu hao trong quá trình luyện tập. Ngoài ra, khi kết nối điện thoại với máy tính, người sử dụng có thể dựa vào thông tin đã ghi để xây dựng chương trình chạy hợp lý.
-MP3 là thiết bị lý tưởng cho người đi dạo hay chạy bộ. Hiện nay, rất nhiều điện thoại di động đã được trang bị MP3 và có thể chơi nhạc từ bộ nhớ trong hoặc thẻ nhớ ngoài. Tuy nhiên, nghe nhạc trong khi chạy đôi khi gây khó chịu vì nhịp điệu không hòa hợp với tốc độ chạy. Phần mềm của Siemens được thiết kế nhận biết và điều chỉnh âm nhạc phù hợp nhịp chạy, mà vẫn giữ nguyên cường độ âm nhạc. 
-

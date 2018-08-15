@@ -1,9 +1,0 @@
- Tạo mạng LAN qua Internet với Hamachi
-Mỗi máy tính kết nối vào mạng Hamachi lần đầu sẽ được gán cho một ID; một máy chủ sẽ có nhiệm vụ “dẫn đường” cho các máy khách kết nối được với nhau, tạo thành một mạng LAN ảo qua Internet. Sau khi đã kết nối, các máy khách không cần thêm sự hỗ trợ nào khác từ máy chủ Hamachi nữa. 
-Mỗi mạng trong Hamachi chính là một mạng LAN ảo, với tên và mật khẩu khác nhau. Sau khi gia nhập vào mạng bạn có thể kết nối, chia sẻ dữ liệu với các máy tính khác cùng ở trong mạng. 
-Sau khi tải chương trình về từ www.hamachi.cc/download (đã có bản Việt hóa) và cài đặt, người dùng có thể kết nối vào mạng Hamachi với một nick name tùy chọn và được cung cấp một ID. Chọn Launch Hamachi để khởi động chương trình. Bấm vào nút Power On ở phía dưới bên trái cửa sổ. 
-Nếu là lần đầu tiên sử dụng Hamachi, chương trình sẽ xuất hiện một bảng đề nghị bạn tài khoản mới, sau đó bạn sẽ được cấp 1 IP trên mạng LAN. Để tạo một mạng LAN riêng, trên thanh điều khiển bạn hãy chọn nút Create New Network ở giữa. Đặt tên cho mạng tại phần Network Name và tạo mật khẩu cho mạng tại Network. 
-Người khác muốn vào mạng LAN mà bạn đã tạo thì sẽ chọn Join Network, đánh tên và pass của bạn vào. Cứ như vậy ai muốn vào mạng thì cứ đánh đúng tên và pass là được. 
-Sau khi vào mạng thành công, những người trong cùng mạng có thể chia sẻ dữ liệu cho nhau một cách dễ dàng, gửi thông điệp như trong mạng nội bộ. 
-Nhờ sự đơn giản, tiện lợi cùng khả năng kết nối tốt và độ an toàn cao lại tốn rất ít bộ nhớ, Hamachi đã nhanh chóng thu hút đông đảo người dùng trong việc chia sẻ dữ liệu qua mạng, nhất là để tạo ra các “phòng game” ảo trên Internet. Hiện nay, Hamachi đã rất phổ biến ở VN với vô số room dành riêng cho các game Halflife, Starcraft, Warcraft. 
-

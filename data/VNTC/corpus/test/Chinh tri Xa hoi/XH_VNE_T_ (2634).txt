@@ -1,6 +1,0 @@
-Ngày hội đào tạo và cộng đồng Cisco tại TP HCM
-Chương trình do tập đoàn công nghệ mạng và trường Tin học VSIC tổ chức vào ngày 8/1, nhằm công bố việc VSIC chính thức trở thành đối tác uỷ quyền, được phép chiêu sinh và đào tạo chuyên gia công nghệ cao cấp CCNP của công ty này ở Việt Nam.
-Chương trình CCNP (Cisco Certified Network Professional) cung cấp những kỹ năng về mạng cục bộ và mạng diện rộng. Học viên được đào tạo cách xử lý trên hệ thống mạng lớn, phức tạp và nắm vững về các giao thức. CCNP tập trung vào các học phần như: bảo mật, mạng hội tụ, chất lượng dịch vụ, mạng riêng ảo (VPN) và các công nghệ băng rộng.
-Sau khoá học gồm 5 giai đoạn, kéo dài 11 tháng, học viên nhận chứng chỉ Network Engineering do VSIC cấp và dự 4 môn thi quốc tế để lấy bằng CCNP do Cisco cấp. 
-Chương trình dành cho đối tượng tốt nghiệp lớp 12 trở lên, đã có chứng chỉ CCNA hoặc kiến thức tương đương, biết về công nghệ Microsoft. Vì tài liệu là tiếng Anh nên người học phải có khả năng đọc hiểu tiếng Anh chuyên ngành.
-

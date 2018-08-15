@@ -1,8 +1,0 @@
-Lỗi khi cài Yahoo Messenger All New (2)
-Khi em cai "yahoo messenger all new" xong, vao su dung sign-in nhu binh thuong. Duoc khoang 2 phut thi man hinh hien len thong bao nhu sau: "Error Ypager.exe has generated error and will be closed by windows You will need to restart the program An error log is being created". Hien nay em dang dung win2000, da chay windows update, mac du em da cai lai nhieu lan va format het toan bo o cung nhung khong khac phuc duoc loi tren, em mong duoc moi nguoi chi bao de sua chua chuong trinh. Em xin chan thanh cam on.
-Na Na
-Hồi âm:
-Chao ban , minh cung bi loi giong het nhu ban! Lam minh phai format va cai lai window (win XP), bay gio thi moi chuyen da on! Ban thu cai lai win di! 
-DD
-Đối với Windows 2000 thì bạn cài thêm bản nâng cấp SP3 (thêm SP4 càng tốt) thì sẽ hết lỗi này. 
-

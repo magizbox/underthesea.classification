@@ -1,8 +1,0 @@
-Mozilla bắt đầu thương mại hóa Firefox
-Tổ chức phần mềm mã mở phi lợi nhuận này vừa công bố kế hoạch thành lập công ty Mozilla Corporation chịu trách nhiệm phát triển, tiếp thị, kinh doanh và phân phối những sản phẩm như Thunderbird và Firefox.
-Công ty được mở với mục đích làm làm đòn bẩy thúc đẩy giá trị về mặt kinh tế chủ yếu cho trình duyệt Firefox. Với chiến lược này, tổ chức hy vọng phát triển doanh thu và đầu tư hiệu quả hơn cho công nghệ mã mở cũng như hỗ trợ và phục vụ các chương trình phi lợi nhuận khác.
-Quyết định của Mozilla xuất phát từ những thành công liên tiếp đến với Firefox khi trình duyệt này thu hút một lượng lớn người sử dụng với mốc 75 triệu lượt tải, vượt xa dự đoán của giới quan sát.
-"Nhiều người cho rằng công ty sẽ khó có thể để lại dấu ấn trên thương trường, nhưng tôi tin tưởng rồi Mozilla Corportion cũng tự làm nên sự nghiệp lớn", Paul Kirby, chuyên gia phân tích của hãng nghiên cứu AMR (Mỹ), nhận định. "Mozilla có lẽ sẽ chủ yếu tập trung vào những phiên bản kinh doanh với giao diện thân thiện người dùng, tăng thêm sức cuốn hút của trình duyệt".
-Hầu hết những nhân viên hiện tại của tổ chức sẽ chuyển qua công ty mới dưới sự quản lý của Mitchell Baker, Giám đốc tổ chức phần mềm mã mở Mozilla.
-Tuy nhiên, Mozilla khẳng định người dùng chưa phải trả tiền cho Firefox hay Thunderbird, và vẫn có thể phân phối mã nguồn theo luật mã mở hiện nay.
-

@@ -1,5 +1,0 @@
- Lợi dụng bão Katrina phát tán virus
-Các email này được gởi đến với địa chỉ giả dạng từ các tổ chức từ thiện hoặc mang nội dung cập nhật tin tức mới nhất về cơn bão Katrina đang hoành hành tại Mỹ. Nội dung sẽ bao gồm một đoạn tin tức về cơn bão và có một liên kết để người dùng nhấn vào xem chi tiết. Khi người dùng nhấn vào liên kết này, máy tính sẽ bị nhiễm virus hoặc trojan mà hacker cài sẵn. 
-Người dùng cũng được cảnh báo với dạng email giả dạng yêu cầu nhập thông tin tài khoản để cứu trợ cho nạn nhân đang bị bão. Thông tin sẽ bị ăn trộm theo hai dạng scam hay phishing. 
-Một vài công ty về IT cũng đã đưa thông tin hỗ trợ lên trang web của mình để giúp đỡ cho các nạn như, có thể tham khảo tại đây: IBM , Cisco Systems , Microsoft . 
-

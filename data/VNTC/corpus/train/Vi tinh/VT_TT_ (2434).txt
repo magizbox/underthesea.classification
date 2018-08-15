@@ -1,7 +1,0 @@
- Đã nối xong tuyến cáp Việt Nam đi Hồng Kông
-Công ty Truyền thông FPT cho biết sau khi được tin tuyến cáp quang biển SMW3 được khắc phục, FPT đã tiến hành kiểm tra và kết quả là thông tin được truyền tải qua tuyến cáp này hoàn toàn thông suốt. 
-Trước đó, FPT đã đàm phán ký hợp đồng khẩn với VNPT, Viettel và ETC nhằm san tải đường truyền để đảm bảo thông tin liên lạc được thông suốt, VDC đã cho FPT thuê đường truyền có dung lượng 45 Mbps qua tuyến cáp TVH (Thái Lan - Việt Nam - Hong Kong). 
-"Chúng tôi quyết định thuê dài hạn đường truyền 45 Mbps của VDC, nâng dung lượng đường truyền của FPT lên 135 Mbps nhằm đảm bảo tốc độ truy cập mạng được nhanh hơn", vị đại diện này nói. Hiện tại, FPT có đường truyền qua SMW3 với dung lượng 90 Mbps. 
-Thủ tướng Chính phủ cũng vừa cho phép xây dựng thêm tuyến cáp quang từ biển Việt Nam đi Hong Kong. Tuyến cáp này có dung lượng 10 Gbps, với tổng kinh phí đầu tư khoảng 150 triệu USD nhằm đảm bảo yêu cầu truyền dẫn thông tin, đặc biệt là trong những trường hợp xảy ra sự cố đứt cáp vừa qua. 
-Đồng thời, tuyến cáp đi từ Việt Nam sang Hong Kong và Singapore cũng được xây dựng, nâng số tuyến cáp quốc tế của Việt Nam thành 4 tuyến. Hiện nay, nước ta có 2 tuyến cáp quang quốc tế là SMW3 với dung lượng 10 Gbps và tuyến TVH 560 Mbps đi từ Việt Nam tới Thái Lan và Hong Kong. 
-

@@ -1,6 +1,0 @@
-Có 867 triệu tài khoản 'chat' năm nay
-Khảo sát của hãng Radicati (Anh) cho thấy việc sử dụng phần mềm nhắn tin nhanh trên máy tính nối mạng (IM) để chat trong gia đình và doanh nghiệp sẽ tiếp tục tăng và dự kiến đến 2009 số account đăng ký dùng dịch vụ này sẽ lên đến 1,2 tỷ. 
-Nghiên cứu của Radicati - được thực hiện với 523 tổ chức, doanh nghiệp trên toàn cầu - cho thấy phần lớn lưu lượng sử dụng IM năm nay diễn ra trên các mạng công cộng với mật độ trung bình 12,5 tỷ tin nhắn gửi đi mỗi ngày.
-Báo cáo nói trên chia thị trường IM thành các khu vực như công cụ nhắn tin, nhà cung cấp tiện ích IM trong doanh nghiệp và nhà cung cấp dịch vụ quản lý IM. Lĩnh vực quản lý được dự báo sẽ trở thành một phần không thể tách rời của thị trường này khi mà các doanh nghiệp hiện còn dùng mạng IM công cộng sẽ chuyển sang sử dụng dịch vụ quản lý để có được sự trợ giúp đầy đủ về bảo mật, chống lại các nguy cơ ngày càng gia tăng về virus qua con đường IM.
-Lưu hồ sơ và bản ghi (file log) các nội dung đăng nhập qua IM để đảm bảo những yêu cầu nghiêm ngặt về quản lý thông tin nội bộ doanh nghiệp cũng được dự báo sẽ thúc đẩy nhu cầu sử dụng các công cụ quản lý.
-

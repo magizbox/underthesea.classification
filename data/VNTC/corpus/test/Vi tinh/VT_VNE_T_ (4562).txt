@@ -1,7 +1,0 @@
-Công nghệ 70 nm hứa hẹn bước tiến lớn cho DRAM
-Samsung, hãng chế tạo chip nhớ lớn nhất thế giới, vừa tuyên bố sẽ chuyển sang phát triển những sản phẩm đầu tiên dùng công nghệ 70 nanomét (nm), cho phép tăng gấp đôi số lượng chip trên cùng một tấm silicon đơn.
-Samsung ước tính số chip có thể tích hợp lên mỗi tấm wafer sẽ tăng ít nhất là 100% so với công nghệ 90 nm đang áp dụng trong hầu hết dây chuyền chế tạo DRAM của họ hiện tại
-Hiện nay, Samsung đã dùng công nghệ 70 nm để chế tạo thiết bị nhớ NAND flash nhưng DRAM thì vẫn được làm theo kỹ thuật 90 nm và 80 nm. Samsung đang nỗ lực đầu tư nghiên cứu để xúc tiến nhanh công nghệ 70 nm nhằm khắc phục những hạn chế liên quan đến các khoang DRAM xếp chồng lên nhau, đồng thời cải thiện chức năng tái nạp (refresh) dữ liệu.
-Tập đoàn công nghệ Hàn Quốc dự kiến sẽ bắt đầu sử dụng công nghệ 70 nm cho DRAM từ giữa năm tới, bắt đầu với các sản phẩm có dung lượng 512 MB, 1 GB và 2 GB.
-Trên thị trường, giá của các loại chip nhớ DRAM được sử dụng rộng rãi nhất hiện nay đã giảm hơn 1/3 trong năm nay.
-

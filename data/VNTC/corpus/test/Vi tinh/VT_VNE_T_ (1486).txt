@@ -1,7 +1,0 @@
-80.000 máy tính của chính phủ Anh bị tê liệt
-Hầu hết số máy tính của Bộ Lao động và Hưu trí nước này (DWP) đã không thể hoạt động trong khoảng thời gian dài khi tiến hành nâng cấp chương trình quản lý đồ họa.
-Ngay khi sự cố xảy ra, hàng loạt chuyên gia máy tính đã vào cuộc để tìm hiểu nguyên nhân và khắc phục hậu quả. Microsoft, bên cung cấp phần mềm và EDS (Electronic Data Systems), đơn vị thực hiện quá trình nâng cấp, đã bị chính phủ Anh khiển trách về vấn đề này.
-Cả hai nhà cung cấp dịch vụ nói trên đều đùn đẩy trách nhiệm cho nhau. Microsoft cho rằng đơn vị cài đặt đã thực hiện không chính xác các bước trong quá trình nâng cấp còn EDS thì lại cho rằng phần mềm mà họ sử dụng có một thành phần không thể upload được. 
-EDS đã kí một hợp đồng với chính phủ Anh, theo đó họ sẽ thực hiện 54% công việc quản lý mạng thông tin trị giá 4,5 tỉ USD của DWP.
-Hiện tại, hệ thống nói trên đã hoạt động bình thường trở lại, tuy nhiên, nguyên nhân chính thức vẫn chưa được công bố.
-

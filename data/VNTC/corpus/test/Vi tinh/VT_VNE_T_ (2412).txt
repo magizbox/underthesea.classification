@@ -1,6 +1,0 @@
-Microsoft thử nghiệm chương trình nâng cấp mới
-Bắt đầu triển khai từ hôm qua, dự kiến hệ thống Windows Update hoàn chỉnh sẽ ra mắt vào cuối năm nay, cho phép người sử dụng Windows XP, 2000, Server 2003 và bộ Office tải tất cả các phần mềm update theo cơ chế tự động hoặc lựa chọn.
-Ở mức độ thử nghiệm hiện tại, Microsoft Update sẽ cập nhật cho chương trình cơ sở dữ liệu SQL Server, hệ thống e-mail Exchange và phần mềm lịch trình, bên cạnh các bản nâng cấp cho Windows và Office.
-Tăng cường cơ cấu quản lý hệ thống vá lỗi là một mục tiêu quan trọng của Microsoft khi mà máy tính dùng sản phẩm của họ thường xuyên bị đe dọa rất lâu trước khi các lỗ hổng an ninh được khắc phục, mà nguyên nhân chủ yếu là do khách hàng sử dụng những phiên bản chưa nâng cấp.
-Microsoft cho biết sẽ tiếp tục cung cấp riêng rẽ các tiện ích Windows Update và Office Update cho những khách hàng còn muốn sử dụng theo cách này.
-

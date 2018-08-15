@@ -1,7 +1,0 @@
-Tin nhắn SMS tự hủy sau 40 giây
-Một nhà cung cấp dịch vụ tại Anh đã phát hành chương trình nhắn tin theo phong cách "điệp vụ bất khả thi", nhưng tất nhiên thông điệp SMS này không biến thành một làn khói mỏng sau khi người nhận đọc xong như trong phim.
-Hãng cung cấp Staellium cho biết dịch vụ mang tên StealthText của họ cho phép các quan chức, doanh nhân trao đổi những nội dung nhạy cảm qua tin nhắn mà không phải lo ngại thông điệp sẽ bị rơi vào tay kẻ xấu.
-Dịch vụ xóa tin SMS 40 giây sau khi mở đã thu hút sự quan tâm của các công ty dịch vụ tài chính, những nhân vật nổi tiếng và bộ quốc phòng Anh.
-"Khả năng gửi tin nhắn tự hủy sẽ mang đến nhiều lợi ích lớn cho mọi người từ những khách hàng sử dụng điện thoại di động hàng ngày đến những cơ quan, doanh nghiệp", Giám đốc điều hành Carole Barnum của Staellium nói. "Mùa xuân năm tới, chúng tôi sẽ cung cấp thêm dịch vụ e-mail, voice, tin nhắn hình xóa tự động".
-Dịch vụ này có thể áp dụng trên khắp thế giới nhưng chỉ dành cho đối tượng sử dụng thẻ SIM của Anh và điện thoại hỗ trợ WAP. Công ty Staellium khẳng định StealthText sẽ được phát hành trên toàn châu Âu, Mỹ và một số nước châu Á ngay trong 2006.
-

@@ -1,6 +1,0 @@
-Tìm ổ cài USB 2.0 (1)
-Tôi có ổ USB 2.0 (40GB) cài đặt bằng driver "Intel(r) 82801DB/DBM USB 2.0 Enhanced Host Controller - 24CD", nay bị lỗi máy không tự nhận được ổ USB. Các bạn giúp tôi tìm Driver để cài lại với. Xin chân thành cám ơn.
-Tiểu Ngọc
-Hồi âm:
-Máy báo lỗi? Bạn hãy lấy bút ghi lại, ổ đĩa loại nào? Seagate hay Maxtor? Intel và Microsoft thì bạn không cần tìm drive vì cả 2 như bóng với hình, (USB 2.0 Enhanced Host Controller) nếu bạn thấy dòng chữ ấy trong device, là máy của bạn đủ sức cho các usb ver1.1 hay 1.0. nếu ổ đĩa rời của bạn loại usb ver 2.0, mà máy bạn chỉ hỗ trợ usb ver 1.0 hay 1.1 bạn hãy nâng cấp thành ver 2.0 bằng cạc PCI usb 2.0.. khi bạn nối ổ đĩa cứng (hard diskdrive) nên xài loại sử dụng nguồn điện riêng (power hub) có cắm sẵn cổng USB. Thông thường ổ đĩa cứng cần rất nhiều điện để hoạt động..12volt trong khi đó usb chỉ có 5volt......... một cách để nhận dạng usb trên máy.. ở chỗ cắm usb nếu thấy nhánh xương rồng kèm thêm dấu + hay chữ Enhanced là ver 2.0. Nếu chỉ có mỗi nhánh xương rồng là ver 1.0 hay 1.1..... 
-

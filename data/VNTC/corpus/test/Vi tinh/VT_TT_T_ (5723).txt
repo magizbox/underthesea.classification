@@ -1,6 +1,0 @@
- Lỗi lớn trong bản nâng cấp Internet Explorer
-Lỗ hổng này phép tin tặc chạy các đoạn mã nguy hiểm trên máy tính của nạn nhân khi họ vào trang web độc hại. 
-Đây là lần thứ ba trong vòng gần một tháng qua Microsoft đã phải hành động để đối phó với những vấn đề yếu kém trong an ninh của Internet Explorer. 
-Cả lỗi cũ lẫn những lỗ hổng vừa phát hiện đều nằm trong một thư viện chứa nhiều bộ phận và tính năng scripting có tên ActiveX. Lỗi trước đây là ADODB.Stream trong khi khiếm khuyết mà Kuperus vừa phát hiện thì nằm ở Application.Shell. 
-Hiện nay, Microsoft đã cung cấp thông tin mới nhất về những trục trặc này, người dùng có thể vào đây để biết chi tiết. 
-

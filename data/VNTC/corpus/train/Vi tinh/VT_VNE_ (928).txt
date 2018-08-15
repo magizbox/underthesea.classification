@@ -1,7 +1,0 @@
-Trái bóng màu nhiệm Magic Ball
-Magic Ball là bản làm lại (remake) xuất sắc của trò chơi lừng danh Arkanoid. Trong game này, bạn sẽ gặp lại cố nhân đã từng làm bạn mê mệt năm xưa với nhiều nét mới, đẹp hơn, đa dạng hơn. 
-Cũng giống Arkanoid, trong Magic Ball, bạn sẽ được trang bị bệ phóng để tung ra những trái cầu để phá tường cản. Ngoài ra, game còn bổ sung nhiều tính năng mới như rocket, đạn chùm... Đồ họa 3D tuyệt đẹp, những kiểu tường mới và những kỹ xảo hình ảnh đặc biệt sẽ luôn làm bạn kinh ngạc. 
-Để chơi được Magic Ball, máy tính của bạn cần có cấu hình tối thiểu như sau:
-- Windows 2000, Windows ME, Windows XP.- Chip: P300.- 64 MB RAM.- DirecX 3.0.- Card đồ họa 3D.
-Bạn có thể tải bản demo có dung lượng 6 MB tại đây.
-

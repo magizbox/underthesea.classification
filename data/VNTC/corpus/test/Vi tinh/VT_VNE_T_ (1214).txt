@@ -1,7 +1,0 @@
-Từ chức vì để máy tính bị xâm nhập
-Một công tố viên nổi tiếng ở Hà Lan hôm qua đã xin bãi nhiệm sau khi PC của ông ta bị hacker chui vào và khai thác một bức thư mật trong hộp mail.
-Đây là lần thứ 2 trong thời gian gần đây công tố viên Joost Tonino gặp rắc rối với các vấn đề bảo mật thông tin trên máy tính. Tuần trước, ông này cũng đã bị một phen tái mặt vì đã vứt bỏ chiếc PC cũ mà chưa xóa hết dữ liệu bên trong. Ổ cứng của computer này, lẽ ra phải được hủy theo nguyên tắc, có chứa hàng trăm trang thông tin mật liên quan đến các vụ án quan trọng mà Tonino thụ lý, ngoài ra còn có cả số thẻ an sinh, thẻ tín dụng và nhiều file hồ sơ thuế cá nhân của ông ta.
-Một tài xế taxi đã vớ được cái máy tính đó và quyết định bán những thông tin bên trong cho một phóng viên chuyên về tội phạm của một đài truyền hình địa phương. Nhà báo này tuần qua đã công bố tất cả những nội dung bên trong món hàng ổ cứng quý giá lên sóng truyền hình. Ngoài ra anh ta còn cố gắng mở hộp mail trong máy để lấy thêm dữ liệu. 
-Sau kinh nghiệm xương máu đó, dù công tố viên Tonino đã lập tức thay đổi password, tin tặc vẫn khai thác được và công bố bức thư mật nói trên lên một trang web cá nhân. Trong bức thư, Tonino khẳng định rằng những thông tin trong chiếc máy tính bị mất lần trước không phải là quan trọng.
-Mặc dù Bộ trưởng Tư pháp Hà Lan Hein Donner không có ý định truy tố Tonino, công tố viên này vẫn quyết định từ chức với lý do uy tín của mình đã bị ảnh hưởng. Tonino cho biết sẽ chấp nhận làm một công việc khác tại cơ quan cũ.
-

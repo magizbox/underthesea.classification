@@ -1,7 +1,0 @@
-Oracle: Đã đến lúc chuyển đổi SAP
-Trước việc khách hàng dùng R/3 của hãng SAP (Đức) đang đối mặt với việc phải mua lại giấy phép (license) và bổ sung ứng dụng để nâng cấp mySAP ERP hoặc mySAP Business Suite, hôm 20/6, Oracle tung ra Oracle Fusion for SAP (OFF SAP), giúp chuyển đổi sang nền Oracle.
-Chương trình mới, áp dụng tại khu vực châu Á - Thái Bình Dương, được Charles Phillips, Chủ tịch của Oracle, công bố tại Sydney (Australia), điểm dừng đầu tiên trong chương trình Chiến dịch ứng dụng toàn cầu của Oracle. 
-Trong khuôn khổ chương trình OFF SAP, Oracle sẽ cung cấp cho các khách hàng của SAP R/3 tới mức 100% license, để chuyển từ các ứng dụng SAP sang Oracle. Thêm vào đó, bộ phận tư vấn của Oracle cũng cung cấp miễn phí dịch vụ SAP Migration Insight, trong đó bao gồm tư vấn cho khách hàng sử dụng SAP R/3 trong việc đánh giá các phương án chuyển đổi qua Oracle. 
-SAP buộc các khách hàng nuốn nâng cấp SAP R/3 lên mySAP ERP hoặc mySAP Business Suite phải mua lại license hoặc phải bổ sung lại các ứng dụng và điều này sẽ làm tiêu tốn của khách hàng một khoảng thời gian và tiền bạc đáng kể.
-Chủ tịch Oracle cho biết: Theo thông tin từ một công ty phân tích hàng đầu thế giới thì chỉ có 6% khách hàng của SAP đã nâng cấp lên mySAP ERP. Giờ thì họ đã có một giải pháp với chi phí thấp và không phải tốn thêm tiền vào việc nâng cấp, đó là tham gia vào chương trình OFF SAP.
-

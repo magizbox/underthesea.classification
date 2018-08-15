@@ -1,5 +1,0 @@
-Những bí mật của vật chất bóng tối, sự đa dạng trong kích thước vật thể, và thậm chí là cả trạng thái phát triển của vũ trụ sau vụ nổ Big Bang có thể được làm rõ nhờ sức mạnh xử lý của hệ thống siêu điện toán lưới lớn nhất hành tinh.
-Hệ thống siêu điện toán lưới Large Hadron Collider (LHC) hiện đang được xây dựng gần Geneva sẽ là kết cấu khoa học lớn nhất trái đất với khả năng xử lý 13 petabyte (PB) dữ liệu mới năm (1PB = 1 triệu GB).
-LHC sẽ mô phỏng sự đụng độ giữ hạt proton và ion để giúp các nhà khoa học hiểu được cấu trúc vật chất. Việc khám phá ra những phân tử mới chỉ có thể thực hiện thông qua phương pháp phân tích thống kê một số lượng lớn dữ liệu từ các cuộc thí nghiệm. Đây cũng chính là nhiệm vụ mà hệ thống LHC sẽ thực hiện trong thời gian tới.
-Theo dự kiến, hệ thống siêu điện toán LHC sẽ đi vào hoạt động trong năm 2007. Hiện quá trình xây dựng đang được gấp rút hoàn tất với sự đóng góp rất lớn của cộng đồng khoa học Anh quốc.
-

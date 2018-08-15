@@ -1,8 +1,0 @@
-Phần mềm gián điệp là mối đe dọa lớn nhất trên  web
-Theo hãng bảo mật Anh Sophos, spyware đang lây lan mạnh mẽ trong các doanh nghiệp trong năm nay vì mục đích chính của tội phạm mạng khi phát tán chương trình nguy hiểm này là nguồn thu tài chính.
-Sophos cho biết, phần mềm gián điệp chiếm tới 66,4% trong tổng số toàn bộ các nguy cơ xuất hiện trên mạng tháng 11. Tốc độ phát triển nói chung của spyware đã tăng 48% so với năm ngoái.
-"Spyware có tính năng như một virus, có thể mở cổng hậu tạo cơ hội cho hacker truy cập từ xa và hình thành mạng máy tính bị khống chế. Ngày càng nhiều mã độc xuất hiện trên Internet nhưng với lượng phát tán nhỏ", Paul Ducklin, Giám đốc kỹ thuật của Sophos, nói. "Tác giả soạn virus và những nhóm tội phạm có tổ chức không còn muốn một phiên bản Blaster hay Sasser khác bởi chúng sẽ phản tác dụng và ảnh hưởng đến khả năng quản lý hệ thống".
-Theo Ducklin, Blaster và Sasser không phù hợp cho một vụ bội thu bởi chúng lây lan quá rộng và vượt ra khỏi tầm kiểm soát.
-Một trong những nguy cơ lớn năm 2005 là phishing có chủ đích nhằm mang lại hiệu quả lớn hơn. "Thay vì gửi đi 1 triệu e-mail lừa đảo mà trong đó có ít nhất 900.000 người không quan tâm đến ngân hàng trực tuyến, tại sao bạn không lập trình để e-mail chỉ đến tay những đối tượng người nào sử dụng dịch vụ thôi", Ducklin nói.
-Mỹ, Hàn Quốc và Trung Quốc vẫn chiếm hơn 50% tất cả các vụ lừa đảo toàn cầu. Thống kê mới đây của hãng America Online cho thấy cứ 4 người Mỹ thì có 1 người trở thành mục tiêu của phishing. AOL cũng khẳng định 81% máy tính tại Mỹ không cài phần mềm diệt virus, spyware cập nhật.
-

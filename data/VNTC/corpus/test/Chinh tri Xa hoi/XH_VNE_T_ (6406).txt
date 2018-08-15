@@ -1,8 +1,0 @@
-200 xe buýt ở Hà Nội được gắn 'hộp đen' 
-Từ 13/9, 200 xe buýt trên 12 tuyến đã được gắn hệ thống kiểm tra giám sáttốc độ, thời gian xe chạy, số lần phanh gốc và tăng tốc đột ngột, số km chạy từng tuyến... Đây được coi là hệ thống đánh giá hoạt động của xe buýt chính xác nhất hiện nay. 
-Hệ thống quản lý và điều hành xe buýt (Tacho System, do Hàn Quốc sản xuất) bao gồm nhiều bộ cảm biến được lắp đặt trước người lái, cửa lên xuống, hộp số và dộng cơ... Ngoài ra, còn có hệ thống thu nhận tín hiệu đặt ở trên tuyến như tại nút giao thông, điểm dừng đỗ, điểm dễ xảy ra xung đột giao thông hoặc nơi lái xe dễ vi phạm. Những thông tin nhận được qua bộ cảm biến sẽ được truyền về trung tâm điều hành, xử lý và lưu trữ theo hệ thống. 
-Theo ông Nguyễn Thái Sơn, phụ trách điều hành, Tổng công ty Vận tải Hà Nội, hệ thống này sẽ giúp người quản lý biết số lần xe chạy quá tốc độ hay việc mở cửa xe, liên quan đến sự an toàn của hành khách. Đây là tiêu chí đánh giá khách quan hiệu quả làm việc đối với từng lái xe. Hệ thống tự động này cũng giúp giảm nhân lực điều hành, giám sát trên các tuyến xe buýt hiện nay.
-Sau một tháng thử nghiệm, những "hộp đen" được gắn trên xe hoạt động khá hiệu quả, cho phép đơn vị quản lý biết hoạt động xe buýt chính xác theo từng giây. Tuy nhiên, hệ thống này vẫn chưa thể xử lý những vi phạm tức thời, do đặc thù chỉ xử lý thông tin trọn gói trên toàn tuyến. Những số liệu vi phạm sẽ được lưu trữ để là căn cứ xử lý. 
-Ngoài 200 xe buýt hiện tại, Tổng công ty Vận tải Hà Nội sẽ tiến hành nhân rộng toàn bộ 708 xe buýt trên tất cả các tuyến nội đô và liên tỉnh, với tổng vốn đầu tư trên 8 tỷ đồng.
-Ý kiến của bạn
-

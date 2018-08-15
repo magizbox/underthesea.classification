@@ -1,5 +1,0 @@
- Tăng tốc khởi động và tắt máy tính
-FastWin cho phép bạn tinh chỉnh các thông số để tăng tốc khởi động Windows như tắt chức năng hiển thị logo Windows, thanh tiến trình trong quá trình khởi động, tắt chức năng tự động dò tìm thư mục và máy in mạng, quản lý các chương trình tự khởi động cùng với Windows… 
-Để tăng tốc quá trình shutdown máy, chương trình cho phép bạn bỏ thông báo tắt máy tính, tự động tắt các ứng dụng đang chạy mà không cần hỏi ý kiến của bạn, giảm thời gian chờ… Bạn có thể thực hiện việc tinh chỉnh bằng tay hoặc nhấn nút Quick Optimization để chương trình tự chọn các thông số tối ưu. Sau đó nhấn nút Apply và khởi động lại máy, bạn sẽ thấy quá trình khởi động lại nhanh hơn hẳn so với trước kia. 
-embalado FastWin tương thích với Windows XP, giá 9,99 EUR, tải bản dùng thử tại đây (dung lượng 1,7 MB). Bạn cũng có thể tìm mua phần mềm này tại các cửa hàng bán đĩa CD Software. 
-

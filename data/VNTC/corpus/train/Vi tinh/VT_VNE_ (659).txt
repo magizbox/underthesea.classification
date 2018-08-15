@@ -1,6 +1,0 @@
-Cách cài mail vào Outlook Express (1)
-Tôi đang dùng một account địa chỉ là hopthu.com tuy nhiên tôi muốn cài OE để tiện sử dụng . Nhưng khi đăng ký xong thì chỉ có thể send Email chứ không thể receive được mà máy báo lỗi là: Your server has unexpectedly terminated the connection. Possible causes for this include server problems, network problems, or a long period of inactivity. Account: 'hopthu.com', Server: 'hopthu.com', Protocol: POP3, Port: 110, Secure(SSL): No, Error Number: 0x800CCC0FXin vui lòng hướng dẫn cho tôi cách sử dụng OE và chỉ cho tôi biết một địa chỉ free nào khác mà có hỗ trợ OE. Xin chân thành cảm ơn.
-nguyen thi lan anh
-Hồi âm:
-Tôi thấy là nếu bạn đang dùng Hộp thư thì nó đã hướng dẫn quá rõ ràng cách cấu hình cho OE rồi. Có hình minh hoạ đàng hoàng http://www.hopthu.com/support/help.htm   Bạn có thể chọn một hộp thư khác hỗ trợ POP3 nếu thích: Nếu quan tâm về dung lượng thì có hộp thư 200MB của Nhân Hoà: www.vnws.com, nếu quan tâm đến tốc độ: thì tốt nhất nên đăng ký (miễn phí) với bưu điện dịch vụ 1260 trả sau, bạn sẽ được cung cấp một hộp thư, tốc độ nhanh vì máy chủ nằm ở Việt Nam.
-

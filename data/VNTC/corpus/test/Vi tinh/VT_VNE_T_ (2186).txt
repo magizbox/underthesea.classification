@@ -1,7 +1,0 @@
-VN đã có Internet tốc độ cao trên mạng truyền hình cáp
-Chiều 28/2, tại Hà Nội, dịch vụ CableHome dành cho hộ gia đình và BizNet Cable phục vụ khách sạn của Trung tâm viễn thông thế hệ mới (VNGT) và Công ty dịch vụ truyền thanh - truyền hình Hà Nội (BTS) đã được khai trương. 
-Đây là lần đầu tiên ở Việt Nam, công nghệ truyền dẫn Internet băng thông rộng qua mạng truyền hình cáp được ứng dụng và triển khai trên thực tế tới từng hộ gia đình và doanh nghiệp .
-CableHome và BizNet Cable là dịch vụ truy nhập Internet băng thông rộng sử dụng công nghệ theo chuẩn DOCSIS của Mỹ. Đến cuối năm 2004, tại Mỹ các dịch vụ truy nhập Internet tốc độ cao sử dụng công nghệ này có số lượng thuê bao nhiều nhất, chiếm 58,6% trong tổng số 33,5 triệu hợp đồng Internet băng thông rộng. 
-Các thuê bao Internet tốc độ cao của VNGT sẽ có kết nối mạng liên tục 24 giờ/ngày thông qua đường dây truyền hình cáp của Đài truyền hình Hà Nội. BizNet Cable dành riêng để hỗ trợ phát triển doanh nghiệp trọn gói cho phép các cơ quan, doanh nghiệp truy cập Internet với tốc độ download tối đa 10 Mb/giây, upload tối đa 2 Mb/giây (cao hơn tốc độ tối đa 8 Mb/giây download và 600 Kb/giây upload của ADSL). 
-VNGT sẽ nâng cấp cơ sở hạ tầng trong năm 2006 để cung cấp thêm các dịch vụ như chơi game trực tuyến, đàm thoại hội nghị truyền hình, thiết lập hệ thống camera cảnh báo hoặc làm việc tại nhà.
-

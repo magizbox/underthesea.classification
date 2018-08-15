@@ -1,8 +1,0 @@
-Tối ưu hóa ảnh web bằng Image Optimizer
-Ảnh nhẹ hơn đồng nghĩa với thời gian tải trang ngắn hơn, yêu cầu về băng thông thấp hơn, tăng được lượng banner quảng cáo... Image Optimizer giúp bạn thực hiện điều đó bằng công nghệ nén đặc biệt, cho phép giảm hơn 50% kích thước file, trong khi chất lượng giảm rất ít.
-Image Optimizer cung cấp chế độ nén đặc biệt MagiCompression, hàn lại các điểm ảnh bị rạn khi nén bằng cách hòa nó với các pixel xung quanh. Vì thế, nếu không phải dân chuyên nghiệp, bạn sẽ khó lòng nhận ra sự khác biệt giữa file ảnh gốc nặng 300 K và file đã được nén có dung lượng chỉ chừng 120 K.
-Với Image Optimizer, bạn có tất cả điều khiển tương tác của toàn bộ quy trình tối ưu hóa các định dạng ảnh GIF, JPEG và PNG, từ thay đổi thiết lập nén tới áp dụng những thông số đó tại những vùng nhất định trong ảnh.
-Một tính năng hữu ích khác là Batch, cho phép bạn nén đồng thời nhiều file ảnh, với độ nén được bạn thiết lập từ trước. Ngoài ra, hàng loạt công cụ khác sẽ cho phép bạn chỉnh sửa một cách cơ bản các file ảnh như cắt, điều chỉnh tương phản, độ sáng, loại bỏ tạp nhiễu...
-Với khả năng nén cao, nhiều tính năng linh hoạt, Image Optimizer là công cụ rất hữu ích với những nhà phát triển web.
-Chương trình nặng 1 MB, bạn có thể tải bản dùng thử tại đây.
-

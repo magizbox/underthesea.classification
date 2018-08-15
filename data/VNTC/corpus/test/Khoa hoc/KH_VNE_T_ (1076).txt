@@ -1,5 +1,0 @@
-Hệ thống quan sát hồng ngoại cho xe hơi
-Lái xe trong đêm tối là một trong những tình huống căng thẳng và dễ gây tai nạn nhất. Từ tháng 10 tới, hãng BMW danh tiếng của Đức sẽ đưa vào sử dụng hệ thống quan sát ban đêm bằng hồng ngoại có tên BMW Night Vision. 
-Hệ thống này gồm một camera hồng ngoại nhiệt gắn chìm phía trước mũi xe và một màn hình nhỏ hiển thị ảnh thu được phía trước mặt người lái. Trên màn ảnh, các vật cản trên đường sẽ biểu hiện thành những vùng sáng, vật thể càng ấm càng sáng hơn. Người (đi bộ bên lề đường) và động vật (băng ngang đường) sẽ là những điểm sáng nhất trên ảnh. 
-Hệ thống sẽ giúp cho người lái dự kiến được những tình huống nguy hiểm sớm hơn và có thể chuẩn bị tinh thần đề phòng tốt hơn. Từ trước đến nay, công nghệ hỗ trợ quan sát ban đêm bằng hồng ngoại thường chỉ được áp dụng trong lĩnh vực quân sự. 
-

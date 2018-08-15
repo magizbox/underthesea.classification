@@ -1,8 +1,0 @@
-Excel lại trở thành mục tiêu tranh chấp bản quyền
-Vừa trải qua vụ Alacritech và Forgent Network, hiện giờ hãng phần mềm khổng lồ này lại phải đối mặt với vụ kiện mới liên quan đến chương trình bảng tính Excel được cho là của hãng Guatemalan (Mỹ).
-Guatemalan khởi kiện Microsoft với luận cớ rằng phần mềm dùng trong gói ứng dụng Office để chuyển thông tin giữa chương trình bảng tính Excel và Access thực tế là sự ăn cắp ý tưởng của nhà sáng lập Guatemalan - Carlos Armando Amado.
-Amado nói năm 1992, ông đã gửi công nghệ mà ông viết vào năm 1990 này đến Microsoft. Tuy nhiên, phát ngôn viên của Microsoft khẳng định họ đã bắt đầu nắm trong tay sáng chế này từ năm 1989. 
-Mặc dù tổng giá trị chưa được công bố, tòa án bang California cho biết họ sẽ yêu cầu bên bị hoàn trả 2 USD cho mỗi bản sao phần mềm được bán ra. Điều này có nghĩa là Microsoft sẽ phải bồi thường khoảng 500 triệu USD nếu thua kiện. 
-Hãng phần mềm khổng lồ mới đây cũng gặp rắc rối với công ty Alacritech liên quan đến hệ điều hành Longhorn, chưa kể vụ kiện với Forgent Networks về bản quyền công nghệ nén ảnh trong định dạng JPEG.
-Cũng liên quan đến Excel, cuối năm ngoái Microsoft đãthưa kiện một công ty phần mềm tài chính có tên Savvysoft với lý do xâm phạm thương hiệu chương trình bảng tính nổi tiếng của họ nhưng hóa ra chính Microsoft cũng quên đăng ký nhãn hiệu này. Sản phẩm mà hãng Savvysoft cung cấp là một phần mềm có tên TuborExcel dựa trên nền Linux. 
-

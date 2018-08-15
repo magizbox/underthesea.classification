@@ -1,7 +1,0 @@
-500 USD tiền thưởng phát hiện mỗi lỗi trình duyệt Mozilla
-Tổ chức phát triển phần mềm nguồn mở Mozilla Foundation vừa trao 2.500 USD cho một nhà nghiên cứu bảo mật người Đức vì đã xác định và thông báo cho họ 5 lỗi trong trình duyệt web cùng tên.
-Chúng tôi quyết định phát triển chương trình trao thưởng tiền mặt này nhằm khuyến khích các thành viên trong cộng đồng sử dụng phát hiện khiếm khuyết ở trình duyệt Mozilla, Chris Hofmann, Giám đốc kỹ thuật Mozilla Foundation, phát biểu. Đây là một trong những cách để chúng tôi đảm bảo một phần mềm an toàn cho người sử dụng.
-Các lỗi mà chuyên gia người Đức nói trên phát hiện liên quan đến một cơ chế cho phép các ứng dụng thay đổi chi tiết giao diện người sử dụng của trình duyệt. Ví dụ, nếu bị lợi dụng, chức năng này có thể làm thay đổi nút Home, khiến nó download các chương trình nguy hiểm. 
-Tuần trước, Mozilla đã phát hành bản nâng cấp 1.0.2 để khắc phục một khiếm khuyết gây tràn bộ đệm trong mã Netscape mà họ vẫn dùng với trình duyệt Mozilla và phục vụ cả việc tạo hoạt ảnh GIF trong Firefox.
-Microsoft, vốn chỉ áp dụng tiền thưởng cho người cung cấp thông tin bắt giữ tin tặc viết virus tấn công các phần mềm của họ, không có bình luận gì về động thái của Mozilla.
-

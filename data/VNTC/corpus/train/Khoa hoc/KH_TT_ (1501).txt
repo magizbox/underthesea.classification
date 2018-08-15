@@ -1,5 +1,0 @@
- Công nghệ mới - Quảng cáo trên trời 
-Công nghệ này chiếu các chùm tia laser cường độ cao vào không khí. Loại tia này không thể nhìn thấy bằng mắt thường, nhưng có thể biến các phân tử khí tại một vùng nào trong không trung thành plasma phát ra tia sáng có thể thấy bằng mắt thường. 
-Bằng cách chiếu nhiều cột tia laser vào không khí và phân bố các điểm phát sáng plasma thích hợp, các nhà khoa học đã có thể tạo ra được những hình ảnh ba chiều đơn giản trong không gian. 
-Trong tương lai, khi được cải tiến, một máy phát laser ứng dụng công nghệ này sẽ có thể phát ra cùng lúc nhiều tia laser hơn vào không trung để tạo ra những hình ảnh phức tạp có độ phân giải cao hơn. Công nghệ này nếu hoàn thiện có thể được sử dụng để tạo ra các hình ảnh quảng cáo lung linh lơ lửng trên không trung. 
-

@@ -1,6 +1,0 @@
-Cách quản lý domain (1)
-Tôi được bàn giao một Website nhưng vì tôi chưa biết cách quản lý thế nào. cụ thể các công việc như sau:+ Thay đổi mật khẩu Domain+ Tạo hòm thư trong domain đó+ Thay đổi server hostingVà một số công việc quản trị Web đó- Hiện nay tôi đang giữ mật khẩu của Web đó (xin được không nêu ra)Vây tôi phải làm thế nào? vào đâu để thực hiện những việc đó?.Xin chỉ giúp và cho thêm ví dụ cụ thể. Xin chân thành cảm ơn. Mong sớm nhật được hồi âm!
-Bạch Hồng Hiếu
-Hồi âm:
-Chào bạn Hồng Hiếu. Quản lý 1 domain không đơn giản chút nào đâu, nhất là khi domain là hosting cho các website đang hoạt động. Nếu bạn chưa phải là một Administrator thì lời khuyên duy nhất là phải học để trở thành 1 Administrator, những việc làm không chắc chắn (guậy) trên server có thể sẽ làm die server của bạn đấy. 
-

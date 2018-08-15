@@ -1,7 +1,0 @@
-Bản thử nghiệm cuối cùng của Thunderbird và Firefox 1.5
-Tuần qua, Tổ chức phần mềm mã mở Mozilla đã phát hành hai bản Beta 2 cho cả trình duyệt "Cáo lửa" và công cụ e-mailmiễn phí. Hai chương trình này không có thêm tính năng mới nhưng hoạt động  được cải thiện đáng kể so với Beta 1.
-Trong Thunderbird 1.5 Beta 2, Mozilla đã tăng cường độ ổn định của nhiều tính năng như hệ thống dò phishing, hỗ trợ RSS, podcast, tự động hoàn chỉnh địa chỉ e-mail người nhận, phần mềm lọc spam... Công cụ e-mail này hoạt động trên Windows, Linux, và Mac OS X 10.2 trở lên.
-Trong khi đó, Firefox 1.5 Beta 2 được hỗ trợ khả năng dàn trang và sửa lỗi tất cả những lỗ hổng bảo mật xuất hiện trong thời gian qua.
-Phiên bản chính thức của Thunderbird 1.5 sẽ ra mắt vào cuối năm nay cùng với trình duyệt Firefox. 
-Người sử dụng có thể tải Firefox và Thunderbird tại website của Mozilla hoặc ở đây.
-

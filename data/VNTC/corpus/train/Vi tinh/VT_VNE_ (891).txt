@@ -1,6 +1,0 @@
-Microsoft tiết lộ chương trình phần mềm diệt virus
-Hôm qua, Giám đốc điều hành chi nhánh ở Pháp của đại gia phần mềm Mỹ hé mở về một kế hoạch tham gia vào thị trường ứng dụng an ninh. 
-Tuy nhiên, đại diện của Microsoft ở Mỹ từ chối cung cấp thông tin chi tiết và thời gian ra mắt sản phẩn mới của hãng.
-Trong khi đó, Giám đốc kỹ thuật dự án an ninh Microsoft ở Pháp, Nicolas Mirail, cho biết phần mềm diệt virus của họ sẽ sử dụng hai công cụ khác nhau để phát hiện những file bị nhiễm. Thứ nhất, nó sẽ thường xuyên kiểm soát danh sách cập nhật các loại virus để kiểm tra những tác động tiềm tàng. Công cụ thứ hai sẽ phân tích các hệ thống máy tính để xác định liệu trước đây chúng có bị nhiễm virus không. Sau đó, phần mềm sẽ đưa ra gợi ý về nguy cơ xảy ra sự cố  an ninh trong tương lai của các hệ thống.
-Giám đốc Microsoft Pháp cho biết gói phần mềm chống virus sẽ không bao gồm tường lửa. Tuy nhiên, ứng dụng này sẽ được tích hợp trong hệ điều hành Windows XP khi Microsoft phát hành phiên bản nâng cấp Service Pack 2. Mirail khẳng định phần mềm này  tương thích với hệ điều hành Windows XP và Longhorn.
-

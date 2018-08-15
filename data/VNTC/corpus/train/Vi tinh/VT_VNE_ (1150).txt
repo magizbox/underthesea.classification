@@ -1,6 +1,0 @@
-Sony nâng cấp thiết bị lưu trữ
-Với tốc độ ghi 12 MB/giây (tương đương 43 GB/giờ) và dung lượng 80 GB dữ liệu chưa nén, thiết bị backup mới có tên AIT-2 Turbo của Sony là một bước đột phá trong việc sao lưu dữ liệu. 
-Sản phẩm này là bản nâng cấp của AIT-2 (tốc độ 6 MB/giây, dung lượng 40 GB). AIT-2 Turbo sử dụng băng từ xoắn ốc có bước xoắn 8 mm, do đó kích cỡ của sản phẩm nhỏ hơn rất nhiều so với định dạng LTO, DLT và S-AIT (các định dạng về băng từ lưu trữ dữ liệu). Việc áp dụng kỹ thuật ghi mới cho phép nâng cao khả năng ghi dữ liệu so với các model trước đó mặc dù tốc độ quay của các cuộn băng là như nhau. 
-Sản phẩm này có phần vượt trội hơn so với VS160 của Quantum (dung lượng 80 GB và tốc độ 8 MB/giây), giá bán cũng thấp hơn (800 Euro so với 850 Euro). Sony cho biết AIT-2 Turbo có thời gian sử dụng lên đến 300.000 giờ và tương thích với server của HP, IBM, Dell và FSC.
-Ngoài ra, hãng điện tử này còn sử dụng công thức nén 2,6:1 để sản xuất thiết bị ghi dữ liệu đã nén có dung lượng lên đến 208 GB.
-

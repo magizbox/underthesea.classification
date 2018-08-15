@@ -1,6 +1,0 @@
-Rắc rối với Yahoo Messenger (1)
-Tôi có một phòng NET. Không hiểu tại sao có một máy khi cài yahoo mesenger để chat , nếu lần đầu nhập nic thì vào chat được, song khi thoát ra vào lại nic đó thì máy báo lỗi không vào được, nhưng nhập nic khác thì lại vào được và cũng tương tự nếu thoát ra vào lại thì lại bị báo lỗi không thể vào được. Nếu muốn vào lại thì phải cài lại yahoo messenger. Trong khi các máy khác thì không sao. Mặc dù tôi đã Format lại ổ cứng. Các máy của tôi đều có cấu hinh như nhau : PIII550, Ram128, ổ cứng 6.4Mb và đều dùng winXP-sp1. Xin các bạn hãy giúp tôi. Xin trân thành cảm ơn. 
-Nguyen Khac Hieu
-Hồi âm:
-Theo kinh nghiem của tôi  thì anh nên format ( full format) lại ổ cứng rồi cài đặt lại hệ điều hành và Yahoo Messager. Hoặc là anh thử cài lại bằng hệ điều hành  Win98 xem sao sau đó nếu được thì upgrade lên. WinXP. Chúc thành công. 
-

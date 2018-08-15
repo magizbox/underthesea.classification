@@ -1,6 +1,0 @@
- E-mail không mã… như xe không khóa!
-PWC cho biết rằng việc gửi đi những e-mail không được mã hóa cũng tương tự như gửi đi một tấm bưu thiếp không phong bì qua hệ thống bưu điện và người nhận sẽ luôn là người được đọc cuối cùng. Nguyên nhân của hiện tượng bảo mật kém cỏi này chính vì đa số các doanh nghiệp đều cho rằng việc mã hóa e-mail bằng các phương pháp hiện đại và có hệ thống là quá “mắc mỏ”. 
-Chris Potter, giám đốc nghiên cứu bảo mật của PWC nhận định rằng đa số các doanh nghiệp hiện nay đều không nghĩ rằng việc thất thoát các bí mật thương mại sẽ gây thiệt hại cho công ty gấp nhiều lần so với việc đầu tư xứng đáng vào một hệ thống bảo mật e-mail và đôi khi việc thất thoát bí mật này sẽ gây sụp đổ cho cả một doanh nghiệp lớn. 
-Chris Potter cho biết thêm rằng với trình độ của các hacker hiện nay thì việc chặn lại để đọc một e-mail đang trên đường di chuyển là chuyện không quá khó khăn, và việc “thuê” một hacker nào đó chuyên đọc lén thư thương mại của đối thủ cạnh tranh là việc các doanh nghiệp có thể làm được. 
-PWC đã thực hiện cuộc nghiên cứu của mình tại trên 1.000 doanh nghiệp tại Anh, trong đó có đến 88% số doanh nghiệp đã trang bị kết nối băng thông rộng. 
-

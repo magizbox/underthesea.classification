@@ -1,7 +1,0 @@
-Khai báo Modem (1)
-Theo tôi được biết thì hai máy tính có thể kết nối và truyền dữ liệu với nhau thông qua mạng điện thoại cố định nếu hai máy này có gắn modem và line điện thoại. Vậy xin hướng dẫn tôi cách khai báo cho các máy trong trường hợp các PC sử dụng hệ điều hành Win98, Win XP và Win 2003serer 
-Tôi xin chân thành cám ơn!
-Nguyễn Văn Danh
-Hồi âm:
-Để có thể nối hai máy, hai máy đó cần có card mạng và nối ngang hàng với nhau, để hai máy có thể cùng kết nối Internet dùng ISA (hoặc tương tự) để share đường truyền. Vấn đề này không đơn giản đâu, tốt nhất bạn cần một người có khả năng có thể giúp bạn.
-

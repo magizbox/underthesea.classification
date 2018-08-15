@@ -1,6 +1,0 @@
-XDR RAM 512 MB cho PlayStation 3
-Samsung vừa công bố một mẫu chip nhớ 90 nanomét dành cho thiết bị chơi game của Sony, có khả năng truyền dữ liệu với tốc độ đạt tới 9,6 Gb/giây, tốc độ hoạt động trung bình là 4,8 Gb/giây ở hiệu điện thế 1,8 Volt.
-Sản phẩm này được thiết kế nhắm vào các ứng dụng băng rộng công suất cao, trong đó có các bộ công cụ game console, TV kỹ thuật số, máy chủ và máy trạm cao cấp.
-Yeong Ho Kang, Phó chủ tịch phụ trách tiếp thị sản phẩm bộ nhớ của Samsung, phát biểu: Chúng tôi đã phối hợp chặt chẽ với Sony để đảm bảo thế hệ tiếp theo của các hệ thống giải trí máy tính có những gì mà Sony muốn khi tung ra PlayStation 3, tức là một bộ nhớ nhanh nhất với hiệu suất về nhiệt ở mức tối ưu.
-XDR DRAM dựa trên công nghệ giao diện nhớ XDR của hãng Rambus và có thể hỗ trợ một số tiêu chuẩn nhập/xuất dữ liệu.
-

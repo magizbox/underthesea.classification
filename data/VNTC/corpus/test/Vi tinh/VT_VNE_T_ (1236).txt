@@ -1,6 +1,0 @@
-Cách download file lab (1)
-Em xin hoi moi nguoi ve cach lay file lab (huong dan thuc hanh) tren Internet. Vi du : nhung file lab tren website: quantrimang.com. em rat cam on.
-hungnt
-Hồi âm:
-Cac cisco lab, MSCE Lab deu viet bang Flash. Thong thuong file flash se chua trong thu muc Windows à Temporary Internet Files (Doi voi Windows 98, Me) va trong thu muc C:\Documents and Settings\Ten_May_Ban\Local Settings\Temporary Internet Files doi voi Win 2000, XP,2003. Tuy nhien de ho tro tim kiem flash nhanh nhat moi ban xem bai viet sau http://www.quantrimang.com/inc_contents.asp?Cat_ID=15news_id=1173 hoac download phan mem Flash Movie Exact Pilot. Moi thac mac xin gui ve Support Team: support@quantrimang.com de duoc tro giup. 
-

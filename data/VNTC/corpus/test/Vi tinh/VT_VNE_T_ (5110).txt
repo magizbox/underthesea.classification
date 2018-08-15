@@ -1,5 +1,0 @@
-Dùng Nero Vision 4 làm một DVD
-Tôi có nhiều đĩa DVD karaoke, tôi dùng DVD decrypter để Rip vào HDD sau đó dùng Nero 7 Premium (Nero Vision) để làm lại 1 DVD Karaoke chọn lọc. Nhưng khi làm thì không thể nào chọn 2 audio stream cùng lúc vì vậy đĩa karaoke chọn lọc này không thể ngắt giọng hát được. Nếu dùng Nero Vision mà chọn audio stream 1 thì có cả giọng hát và nhạc, khi chọn audio stream 2 thì chỉ có nhạc đệm, vì vậy DVD chọn lọc chì có 1 stream audio chứ không giống các DVD gốc có tới 2 audio stream (1 stream vừa có giọng hát và nhạc đệm, và 1 stream chỉ có nhạc đệm).
-Tôi dùng các phần mềm khác để chọn (VD DVD Tool Copy) thì làm được DVD karaoke chọn lọc có cả 2 stream như đĩa gốc nhưng không thể làm Menu được như Nero Vision. Vậy nhờ anh chị nào biết dùng Nero Vision để làm 1 DVD video mà có thể có 2 audio stream như dĩa DVD karaoke gốc được xin chỉ giúp. Hay có thể giới thiệu 1 software khác có thể làm cả 2 stream và vừa làm đươc Menu DVD như Nero Vision. Xin thành thật cảm ơn!
-Phan Hoàng Hải
-

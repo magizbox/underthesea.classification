@@ -1,7 +1,0 @@
-Xác nhận mã số trên ĐTDĐ để tránh phishing
-Công ty Meridea (Phần Lan) vừa giới thiệu một công nghệ bảo mật bằng điện thoại di động mà họ cho là sẽ chặn ngang những vụ lừa đảo ngân hàng trực tuyến (phishing).
-"Cơ chế xác thực thông minh" của Meridea sẽ gửi một ứng dụng Java tới điện thoại của khách hàng. Khi đăng nhập vào ngân hàng hoặc thực hiện giao dịch tài chính online, điện thoại của họ sẽ nhận được một mã chỉ có hiệu lực vào thời điểm đó từ phần mềm ngân hàng trực tuyến. 
-Người dùng nhập mã này vào ứng dụng trong điện thoại. Ứng dụng này ghi nhận và hiển thị số giao dịch, đồng thời sẽ tạo ra cho khách hàng một mã xác thực cuối cùng. Sáng kiến này khiến kẻ trộm không thể thực hiện âm mưu lừa đảo trực tuyến nhằm rút tiền từ tài khoản ăn trộm nếu không có điện thoại của nạn nhân.
-Tuy nhiên, điểm hạn chế là để sử dụng hệ thống này mọi người phải có thiết bị di động riêng và phải hỗ trợ Java. Hơn nữa, nhiều người cam thấy khó chịu và gặp phiền toái khi áp dụng kiểu thử thách mật mã này.
-Khách hàng dùng cơ chế xác thực thông minh sẽ phải trả khoảng 3,5 - 5 USD. Meridea cho biết, nơi đầu tiên triển khai hệ thống này có thể sẽ là Đức và vùng Viễn Đông.
-

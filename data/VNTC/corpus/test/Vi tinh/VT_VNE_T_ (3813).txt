@@ -1,7 +1,0 @@
-Một chuẩn Wi-Fi siêu mạnh sẽ sớm xuất hiện
-Ba tổ chức hăng hái nhất trong cuộc cạnh tranh đề xuất gửi lên Tổ chức kỹ sư điện và điện tử quốc tế (IEEE), xin xác lập thế hệ tiếp theo của tiêu chí kết nối không dây 802.11n, đã thỏa thuận cùng phối hợp để đi đến một chuẩn thống nhất.
-TGnSync, WwiSE và MITMOT tuyên bố họ sẽ gác lại những bất đồng để cùng nhau xây dựng một hệ thống khai thác công nghệ của nhau. 
-Chuẩn 802.11n đang được xúc tiến để đạt tốc độ 100 Mb/giây và cho phép thiết bị kết nối hoạt động với khoảng cách xa hơn các mạng Wi-Fi hiện hành.
-Theo dự kiến, đề xuất về một chuẩn không dây trung lập thống nhất sẽ được công bố để thu thập ý kiến trong kỳ họp tháng 9 năm nay và đề xuất hoàn chỉnh sẽ được nhóm thẩm định đánh giá vào kỳ họp tháng 11, thông báo của IEEE cho biết. Tuy nhiên, nếu chuẩn thống nhất chưa thể được thông qua và ra mắt, nhóm thẩm định sẽ tiếp tục quá trình chọn lọc.
-Phe TgnSync bao gồm các công ty Intel, Philips và Sony, còn WwiSE tập hợp những cái tên như HP, Motorola and Buffalo.
-

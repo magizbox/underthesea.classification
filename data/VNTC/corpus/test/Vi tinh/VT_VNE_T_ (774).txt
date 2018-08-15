@@ -1,5 +1,0 @@
-MasterCard nâng cấp hệ thống xử lý giao dịch
-Công ty cung cấp giải pháp thanh toán hàng đầu thế giới vừa tuyên bố triển khai Oracle Database và Real Application Clusters tại trụ sở ở Brussels (Bỉ). Giờ đây, hệ thống của MasterCard có thể hỗ trợ tới 20 triệu giao dịch một giờ so với 9-11 triệu giao dịch/giờ trước đây.
-Oracle Real Application Clusters mang lại hiệu suất hoạt động mà MasterCard cần, với khả năng mở rộng cần thiết để duy trì vị thế cạnh tranh của công ty. Với công nghệ của hãng phần mềm doanh nghiệp lớn nhất thế giới, MasterCard có thể rút ngắn thời gian cần thiết để triển khai các loại hình thông báo tài chính mới từ 2 năm xuống còn 6 tháng 
-Ông Peter Vandenbroucke, Phó chủ tịch phụ trách phát triển các hệ thống của MasterCard, nhận định: "Với nền tảng mới này, chúng tôi có thể mang lại cho khách hàng các dịch vụ có chi phí thấp hơn và đáp ứng được những thỏa thuận về cấp độ dịch vụ khắt khe nhất".
-

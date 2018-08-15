@@ -1,5 +1,0 @@
- MSN và Yahoo hợp tác liên thông 2 trình tin nhắn
-Mặc dù vậy, liên thông cũng có nhiều mặt hạn chế. Người dùng sẽ có thể sử dụng cả tin nhắn ký tự (text) lẫn âm thanh nhưng sẽ không được sử dụng những tính năng cao cấp như chia sẻ hình ảnh và ảnh động. 
-Sáng kiến kết hợp dịch vụ là niềm mong đợi từ phía người dùng để không phải quản lý cùng lúc nhiều trình tin nhắn và tài khoản tương thích với từng chương trình nữa. Nhưng dường như sự liên thông giữa Yahoo và MSN không nhắm tới mục đích mang đến cho người dùng sự thuận tiện mà là hợp tác để chống lại Google đang xâm lấn sang thị trường tin nhắn với trình Google Talk mới của mình. 
-Ngoài ra, mức độ nguy hiểm khi liên thông giữa Yahoo Messenger và MSN Messenger cũng sẽ tăng theo vì các trình tin nhắn đang là mục tiêu béo bở cho hacker. 
-

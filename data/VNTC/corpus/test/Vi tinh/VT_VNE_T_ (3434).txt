@@ -1,8 +1,0 @@
-Hacker bẻ khóa phần mềm mới của Google 
-Một ngày sau khi Google cung cấp dịch vụ Video Viewer, Jon Johansen, hacker nổi tiếng người Na-Uy (có biệt danh là DVD Jon) đã lập tức thay đổi ứng dụng này để chương trình có thể phát video không cần qua máy chủ của Google.
-Google giới thiệu công cụ Video Viewer hoạt động trên ứng dụng VLC nguồn mở ngày 27/6. Đây là dịch vụ tìm kiếm video qua web, cho phép mọi người chỉ cần sử dụng từ khóa để "lục lọi" video trong cơ sở dữ liệu của nhiều nhà cung cấp trực tuyến. Google Video Viewer. 
-Hãng dịch vụ trực tuyến này đã cài mã để Video Viewer - dung lượng 1 MB và vẫn đang trong giai đoạn thử nghiệm - chỉ phát những file lưu trên máy chủ Google qua trình duyệt Internet Explorer và Firefox. Tuy nhiên, Jon Johansen, còn có biệt danh DVD Jon, đã tung phần mềm bẻ khóa lên trang web "So Sue Me" của mình, cho biết anh ta chỉ cần một ngày để "ra lệnh" công cụ của Google phát video trên bất cứ server nào.
-Johansen, 21 tuổi, đã nổi tiếng từ vài năm trước khi công bố phần mềm DeCSS phá mã chống sao chép trên DVD. Hacker này cũng được biết đến khi thay đổi mã trong phần mềm âm nhạc iTunes của hãng máy tính Apple.
-Ngày hôm qua Google đã xác nhận những chỉnh sửa của Johansen trên Video Viewer. Hãng cũng lưu ý rằng mã Johansen lấy được không phải qua hack bởi đây là nguồn mở, và không đủ mạnh để khống chế hệ thống của Google.
-Google khuyến cáo mọi người không nên cài phần mềm của Johansen vì "nó có thể tạo ra những lỗ hổng bảo mật trên máy tính và phá vỡ khả năng truy cập Google Video Viewer của PC", phát ngôn viên của hãng cho biết.
-

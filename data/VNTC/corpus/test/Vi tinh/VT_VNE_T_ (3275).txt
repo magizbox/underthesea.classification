@@ -1,8 +1,0 @@
-Microsoft công bố bản tin bảo mật tháng 6
-Hôm qua, hãng phần mềm số một thế giới đã chính thức cung cấp 10 bản vá lỗi, trong đó có 3 bản khắc phục lỗ hổng "nghiêm trọng" của Windows và Internet Explorer (IE), có nguy cơ cho phép hacker khống chế hoàn toàn máy tính.
-Trong số 3 lỗi này, lỗ hổng trong IE (MS05-025) và hệ thống hỗ trợ HTML Help (026) cho phép các trang web cài phần mềm nguy hiểm lưu trong file đồ họa PNG để kiểm soát hệ thống người dùng. Lỗi mang số 027 liên quan đến Server Message Block (SMB) - giao thức Windows dùng để chia sẻ file, máy in, cổng serial và giữa các PC - được đánh giá là có nguy cơ lây nhiễm sâu cao nhất trong Windows 2000, XP và Server 2003.
-"Tin tặc có thể tạo ra một cuộc tấn công tự động để cài virus hoặc sâu vào PC", Stephen Toulouse, Giám đốc Trung tâm bảo mật của Microsoft, cho biết. "Tuy nhiên, cả 3 lỗi này cũng như 7 lỗi khác đều chưa từng được thông báo hoặc bị hacker khai thác, dù chúng ảnh hưởng đến tất cả các phiên bản Windows".
-7 bản tin bảo mật còn lại công bố 4 lỗ hổng được xếp ở mức "quan trọng" xuất hiện trong Web Client Service, Outlook Web Access for Exchange Server 5.5, Outlook Express, và Windows Interactive Training, và 3 lỗi "trung bình" trong Microsoft Agent, Telnet Client, và ISA Server 2000.
-Mặc dù chỉ được liệt vào mức trung bình, lỗi ở Agent có thể tạo cơ hội cho kẻ tấn công kiểm soát thông điệp pop-up trên máy tính. Agent là một phần mềm giao diện người dùng thường được cài trước trong PC để quản lý tính năng hoạt ảnh. Sau khi bị khai thác, Agent có thể lừa người dùng tải mã nguy hiểm qua những cảnh báo pop-up.
-Bản tin bảo mật tháng tiếp theo được dự kiến sẽ ra mắt vào ngày 12/7.
-

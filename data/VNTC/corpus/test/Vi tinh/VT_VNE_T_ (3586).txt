@@ -1,6 +1,0 @@
-2 năm nữa sẽ có pin nhiên liệu và bộ xạc phù hợp cho ĐTDĐ
-Công nghệ pin nhiên liệu- hứa hẹn là một giải pháp thay thế hoàn hảo cho loại pin di động tiêu hao năng lượng nhanh hiện nay - sẽ lần đầu xuất hiện tại Nhật vào giữa năm 2007.
-Tại triển lãm Wireless Japan 2005 diễn ra hôm qua, NTT DoCoMo và KDDI, hai nhà cung cấp dịch vụ viễn thông di động hàng đầu của Nhật, đều tuyên bố sẽ ra mắt bộ xạc pin nhiên liệu phù hợp với điện thoại di động vào năm 2007. Thiết bị mà DoCoMo đang phát triển hợp tác cùng Fujitsu được thiết kế theo kiểu giá đỡ với kích cỡ 5,9 x 2,2 x 1 inch, tăng thời lượng pin lên 8 tiếng, cung cấp đủ năng lượng theo yêu cầu sử dụng của người dùng.
-Từ nhiều năm qua, DMFC (pin nhiên liệu methanol trực tiếp), hoạt động bằng phương pháp hòa lẫn methanol với nước và khí để sản sinh điện năng. Công nghệ này được đánh giá là giải pháp vượt trội so với pin lithium ion dùng trong máy tính xách tay và nhiều thiết bị điện tử khác hiện nay. DMFC có thể nhanh chóng phục hồi năng lượng khi gắn trực tiếp bộ xạc nhiên liệu vào.
-Nhiều công ty điện tử lớn tại Nhật đã mất hàng năm trời để đầu tư phát triển loại xạc pin này, nhưng những sản phẩm từng được giới thiệu đều khá to và cồng kềnh, chưa thể tích hợp trong những thiết bị di động nhỏ gọn hoặc không sản xuất đủ lượng điện yêu cầu.
-

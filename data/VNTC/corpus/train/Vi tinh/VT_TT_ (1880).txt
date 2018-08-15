@@ -1,9 +1,0 @@
- Máy tính Thánh Gióng ứng dụng công nghệ mới
-Bốn sản phẩm MTTG CMS mới đều được ứng dụng các công nghệ mới của Intel. Theo đó, các máy tính mới được nâng cao về cấu hình so với MTTG giai đoạn 2, sử dụng màn hình lớn 17”. 
-Khi mua sản phẩm MTTG mới của CMS, khách hàng được mua kèm 1 modem ADSL giảm giá 30% để truy cập Internet băng thông rộng. 
-Các sản phẩm MTTG mới gồm: 
-- T310 (cấu hình Intel Celeron D Processor 310, bộ nhớ 128MB, ổ cứng 40GB, màn hình 15”. Giá bán 4.840.000đ); 
-- T510C (cấu hình Intel Celeron D Processor 336, bộ nhớ 256MB, ổ cứng 40GB, màn hình 17”. Giá bán 5.850.000đ); 
-- T510P (cấu hình Intel Pentium 4 Processor 611, bộ nhớ 256MB, ổ cứng 40GB, màn hình 17”. Giá bán 6.860.000đ); 
-- T710 (cấu hình Intel Pentium 4 Processor 631, bộ nhớ 512MB, ổ cứng 80GB, màn hình siêu phẳng 17”. Giá bán 8.280.000đ). 
-

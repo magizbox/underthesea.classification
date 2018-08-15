@@ -1,8 +1,0 @@
-Sony chuẩn bị trình làng ổ ghi DVD ngoài
-Tháng tới, hãng điện tử khổng lồ này sẽ tung ra cái mà họ tuyên bố là ổ ghi DVD ngoài đầu tiên trên thế giới với khả năng hoạt động không cần thông qua máy tính.
-Thiết bị mang tên DVDDirect đi kèm với bộ công cụ đốt và biên tập DVD dành cho Windows XP và 2000. Sự hỗ trợ bổ sung sẽ cho phép ghi 2 lớp với tốc độ 2,4x, ghi 1 lớp đạt tốc độ 16x và ghi đè (rewrite) ở mức 4x. Khả năng ghi theo định dạng DVD-R đạt tốc độ 8x và ghi đè cũng là 4x.
-Ổ mới của Sony có 8MB RAM sử dụng công nghệ bảo vệ bộ nhớ đệm. DVDDirect còn có thể kết nối với máy quay camcorder hoặc thiết bị VCR để thu từ băng sang đĩa theo thời gian thực. Tuy nhiên, trong khi sản phẩm này sẽ mã hóa hình video theo định dạng MPEG 2, tự động tạo ra các chương (chapter) mới theo chu kỳ 5, 10 hoặc 15 phút/lần, thì nó lại chỉ hỗ trợ đĩa DVD+R đơn và 2 lớp, một yếu tố làm hạn chế khả năng sử dụng (playback) trên các đầu máy nội địa của Nhật. 
-DVDDirect có 3 chế độ ghi HQ, SP và SLP, đặt hình video nén vào một mức chất lượng đủ để lưu 1, 2 hoặc 6 tiếng nội dung tương ứng với từng chế độ nói trên. Máy có đường video đa hợp với jack cắm s-video và ngõ tiếng analogue stereo audio.
-Sony dự định dùng sản phẩm này để khai thác những khách hàng đang lưu trữ nội dung ghi trên băng từ và nay có nhu cầu chuyển sang DVD nhưng lại không thích dùng máy tính làm nơi lưu trữ đầu tiên.
-Theo kế hoạch, ổ ghi ngoài DVDDirect sẽ xuất hiện trên thị trường Mỹ từ tháng 11 với giá xấp xỉ 300 USD.
-

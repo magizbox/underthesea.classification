@@ -1,5 +1,0 @@
-Thêm một Trojan Downloader xuất hiện
-Trong suốt khoảng thời gian từ lúc phần mềm này được phát hiện ra cho đến lúc công ty BlackSpider (Anh) đưa ra công cụ tiêu diệt đã có khoảng 58.000 bản sao của nó được phát tán.
-Khoảng 120.000 thư điện tử chứa Trojan Downloader có tên là Small.bdq được gửi tới một nhóm các công ty của Anh. Theo e-mail cảnh báo của BlackSpider, Trojan được ghi nhận khi nó tấn công các công ty ở Châu Âu trong khoảng thời gian 10 phút. Cuộc tấn công này còn diễn ra cho đến ngày 18/7. Thư chứa Trojan có tiêu đề như Bảo mật, 'hỗ trợ, cập nhật, và cập nhật bảo mật. Nội dung thư là lời cảnh báo của người quản trị mạng yêu cầu người nhận mở một file đính kèm để ngăn việc tài khoản thư điện tử bị đình chỉ hoạt động tương tự như hai Trojan Downloader đã phát hiện ngày 6/7. File đính kèm có kích cỡ 2,8 KB với tên zam.exe.
-John Cheney, Giám đốc điều hành của BlackSpider, phát biểu: "Mục tiêu của chủ nhân các phần mềm tấn công này là muốn thu được danh tiếng và Trojan Small.bdq đã chứng minh cho điều đó. Ảnh hưởng của nó là không lớn nhưng doanh nghiệp cần nhận thức được mục tiêu của chúng là khai thác thông tin nhạy cảm về hợp tác giữa các công ty".
-

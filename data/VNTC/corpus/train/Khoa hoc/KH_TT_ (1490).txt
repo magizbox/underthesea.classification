@@ -1,6 +1,0 @@
- Xây dựng hệ thống cảnh báo lũ quét
-Trong năm 2006, dự án sẽ lắp đặt các thiết bị đo mưa tự động mới kết hợp với những quan trắc ước lượng mưa của hệ thống rađa tại các trạm quan trắc, nhằm tạo ra một quy trình dự báo lũ quét hiệu quả. 
-Chương trình quy hoạch phòng chống lũ quét nhằm xây dựng quy hoạch tổng thể và chi tiết về phòng tránh lũ quét cho các tỉnh miền núi trên toàn quốc, trong đó tập trung nghiên cứu và xây dựng tiêu chí xác định các khu vực có nguy cơ xảy ra lũ quét và điều tra, thống kê các khu vực dân cư dễ bị ảnh hưởng trực tiếp của lũ quét. 
-Chương trình cũngc sẽ xây dựng hệ thống cảnh báo lũ quét, tổ chức cắm biển cảnh báo nguy hiểm ở những khu vực này để nhân dân có ý thức chủ động phòng tránh vàxây dựng kế hoạch di dời các hộ sống trong vùng có nguy cơ cao tới nơi an toàn. 
-Dự án nằm trong khuôn khổ đề án "Tăng cường năng lực dự báo sớm và chính xác bão, lũ" có tổng vốn đầu tư 256 tỷ đồng, dự kiến hoàn thành vào cuối năm 2008. 
-

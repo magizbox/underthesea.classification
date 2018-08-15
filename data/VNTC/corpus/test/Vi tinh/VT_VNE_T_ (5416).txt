@@ -1,7 +1,0 @@
-Phần mềm Adobe Flash cho thiết bị di động
-Phiên bản Macromedia Flash Lite 2 và Flash Player SDK 7 sẽ hỗ trợ người sử dụng điện thoại và các thiết bị điện tử gia dụng khác xem mọi trang web cài flash.
-Hai phần mềm này cũng tạo điều kiện cho hãng sản xuất và cung cấp nội dung có thể tùy biến giao diện người dùng, mang đến khả năng tương thích với những thiết bị hoạt động trên hệ điều hành, thiết bị xử lý và kích thước màn hình khác nhau. Hiện nay, các nhà phát triển ứng dụng và xây dựng website cho sản phẩm di động bị hạn chế bởi sự đa dạng về dung lượng và kích cỡ thiết bị.
-Theo Adobe, Flash Lite 2 và Flash Player SDK 7 được hình thành dựa trên Flash Player 7, do đó chúng hỗ trợ Unicode, cải tiến khả năng quản lý và vận hành dữ liệu XML cũng như tiết kiệm chi phí triển khai và tăng tốc độ truyền tải nội dung.
-Một số công ty sản xuất điện thoại, trong đó có Nokia, Samsung và Sony Ericsson, đã ra mắt những thiết bị cho phép khách hàng mở site được tạo từ flash. Adobe ước tính khoảng 45 triệu sản phẩm di động tương thích flash đã được xuất xưởng trong năm 2005. 
-Flash là công nghệ thuộc Macromedia, công ty gần đây đã sát nhập vào Adobe, hỗ trợ hiện thị và xem nội dung đa phương tiện trên website.
-

@@ -1,8 +1,0 @@
- Ổ đĩa cứng siêu nhỏ mới của Cornice
-Dòng sản phẩm này được công ty phát triển lên từ dòng sản phẩm Cornice's Dragon 4GB đến 6GB thành Cornice's Dragon 8GB đến 10 GB. Và kích thước thì được làm cho thon gọn và nhỏ hơn đến không thể ngờ. Các thông tin đính kèm cho thấy, với một ổ đĩa cứng kích thước 40x30x3.75(mm), cân nặng 10,5 gram, có sức chứa là 10 GB. Tốc độ truyền tải 6MB/s, điện năng tiêu thụ bình quân từ 4,5W cho đến 10,8W tùy tác vụ (xem phim, nghe nhạc...). 
-Điều này sẽ gây được chú ý rất lớn từ các nhà sản xuất các thiết bị điện tử di động như máy chơi nhạc, máy xem video, điện thoại di động. Các thiết bị của họ sẽ có sức chứa nhiều hơn nhờ vào dòng đĩa cứng mới này. 
-Ông Camillo Martino, CEO của hãng Cornice cho biết, dòng sản phẩm đĩa cứng micro Dragon của Cornice sẽ là giải pháp lưu trữ mới cho các khách hàng. Hãng Cornice đang ở trong cuộc đua với các công ty sản xuất bộ nhớ flash, bằng mọi cách nâng cao khả năng lưu trữ trên các ổ đĩa ngày càng nhỏ hơn. Hiện nay sản phẩm của Cornice có giá 18,5USD cho mỗi GB, rẻ hơn nhiều so với bộ nhớ NAND-flash (có giá từ 35-45 USD trên mỗi GB). Với việc giảm đi 40% kích thước của ổ cứng, có thể nói Cornice's Dragon là dòng đĩa cứng nhỏ nhất thế giới hiện nay. 
-Công ty cũng đã phát triển một mẫu đĩa USB sử dụng các ổ đĩa cứng của mình làm kho lưu trữ. 
-Sản phẩm của Cornice đã được công ty SAMSUNG sử dụng trong điện thoại di động SGH-i300 có tích hợp chức năng của một máy nghe nhạc, được bày bán ở châu Âu vào tháng 11 năm ngoái và một số hãng khác trong đó có Creative Techology. 
-Bạn có thể tìm hiểu thêm thông tin từ địa chỉ sau: http://www.corniceco.com/products/dragon-series.html 
-

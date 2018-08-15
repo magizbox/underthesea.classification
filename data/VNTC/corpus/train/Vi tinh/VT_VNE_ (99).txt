@@ -1,6 +1,0 @@
-Hỏi cách tạo server VPN (1)
-Các bạn có thể chỉ cho mình cách tạo một server VPN để chia sẻ Internet cho mạng LAN của mình được không. Mình đang dùng Win 2000 SP4.
-mttbc
-Hồi âm:
-VPN (virtual private network) không phải là để chia sẻ kết nối vào Internet mà để tạo ra một mạng "nội bộ" thông qua Internet có tính bảo mật cao giữa các máy trạm ở cách xa nhau (ở khác thành phố, thậm trí khác quốc gia). Các máy trạm này phải có sẵn kết nối vào Internet. Nếu bạn chỉ muốn chia sẻ kết nối vào Internet giữa một vài máy trong nhà hoặc cơ quan của bạn thì đừng bận tâm về VPN làm gì. (Trên thực tế để thiệt lập được một mạng VPN thì cần phải đầu tư khác nhiều). Cách chia sẻ Internet cụ thế thế nào còn phụ thuộc vào cách mà bạn truy cập vào Internet và cấu hình mạng LAN của bạn. Bạn nên xem các phần trả lời trước về vấn đề này. 
-

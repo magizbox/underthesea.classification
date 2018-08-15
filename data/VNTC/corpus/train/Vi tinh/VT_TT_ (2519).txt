@@ -1,6 +1,0 @@
- Nhà tiên phong về máy tính qua đời
-Ông cũng là người đầu tiên cảnh báo về sự kiện Y2K và đã giới thiệu phím backslash và escape trên máy tính. 
-Bob Bemer phát triển hệ thống bảng mã ASCII (American Standard Code for Information Interchange) vào năm 1961 bằng cách đặt một giá trị số chuẩn cho các chữ cái, chữ số, dấu câu và các ký tự khác. 
-“Trước khi ASCII ra đời, chúng tôi có tới 60 cách để biểu diễn các ký trong máy tính. Đó thật sự là một tháp Babel”, ông Bemer cho biết trong một tờ báo đưa tin mấy năm trước. 
-Bob Bemer lập gia đình 6 lần với 5 người phụ nữ và có 5 người con với vợ đầu, 6 người còn lại với các bà vợ khác. 
-

@@ -1,6 +1,0 @@
-HP vá lỗi một số khiếm khuyết HTTP
-Đây là những lỗ hổng nghiêm trọng trong chương trình quản lý hỗ trợ web (Web-Enabled Management Software), có khả năng mở cửa nhiều phần mềm cho hacker tấn công từ xa.
-HP đã phát hành bản nâng cấp cho HP HTTP Server, một bộ phận trong Web-Enabled Management Software, cho phép tấn công từ chối dịch vụ hoặc chạy mã nguy hại từ xa. Theo hãng bảo mật Đan Mạch Secunia, khiếm khuyết này - một lỗi đường ranh trong khâu xử lý tham số đầu vào - có thể bị khai thác để chiếm quyền điều khiển một máy host chạy HTTP Server hoặc bị virus lợi dụng.
-Những sản phẩm Web-Enabled Management của HP bị ảnh hưởng (chạy Linux và một số bản Windows) bao gồm từ phiên bản 5.0 tới 5.95. Hãng cho biết người sử dụng có thể khắc phục vấn đề bằng cách nâng cấp lên chương trình Systems Management Homepage 2.0. 
-Các phần mềm liên quan bao gồm: HP/Compaq Insight Management Agents, HP Array Configuration Utility, HP Insight Manager 7.x, HP Performance Management Pack, HP Performance Management Pack Tools, HP ProLiant Performance Analyzer, HP Version Control Agent và HP Version Control Repository Agent. 
-

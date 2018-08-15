@@ -1,9 +1,0 @@
-Yahoo tích hợp tính năng chống spyware vào toolbar
-Yahoo đã phát hành phiên bản nâng cấp thanh công cụ các dịch vụ Internet sau nhiều tháng thử nghiệm. Toolbar này có thêm tính năng "lọc" những phần mềm không mong muốn như spyware và adware.
-Yahoo toolbar có các tính năng như hộp tìm kiếm, 1 nút ngăn chặn quảng cáo pop-up và shortcut của các dịch vụ Internet Yahoo như e-mail, lịch, notepad, game. Đặc biệt nó còn có mục nghe nhạc trực tuyến Launch.
-Khi người sử dụng lướt web, phần mềm gián điệp và quảng cáo thường được tự động tải vào hệ thống của họ mà không cần sự đồng ý. Sau đó chúng sẽ thực hiện nhiều hành động không được mong đợi, như theo dõi quá trình khai thác web của người dùng và tung ra các chương trình quảng cáo pop-up.
-Khi lần đầu tiên Yahoo phát hành công cụ này vào hồi tháng 5, sản phẩm của hãng đã bị chỉ trích vì nó không quét theo mặc định phần mềm quảng cáo. Tuy nhiên, phiên bản mới được trình làng trong tuần này đã khắc phục được nhược điểm trên, quét theo mặc định những phần mềm không mong muốn và nhiều chương trình nguy hiểm khác.
-Sau khi quét những phần mềm này, thanh công cụ nâng cấp của Yahoo sẽ liệt kê những chương trình mà nó tìm thấy, phân loại và cung cấp thông tin về chúng. Sau đó, nó sẽ đưa ra lời khuyên về những chương trình nguy hiểm để người sử dụng gỡ bỏ chúng ngay lập tức.
-Mặc dù một số chuyên gia an ninh đánh giá phần mềm gián điệp và quảng cáo có mức độ nguy hiểm như nhau, nhiều người khác lại coi spyware nguy hiểm hơn nhiều so với adware. 
-Bạn có thể tải miễn phí thanh công cụ Yahoo nâng cấp tại trang http://toolbar.yahoo.com/
-

@@ -1,7 +1,0 @@
-Châu Á nỗ lực chuẩn hóa ngôn ngữ cho Internet
-Hôm qua, hội nghị quốc tế nhằm giúp đỡ người dùng Internet không sử dụng mẫu tự phương Tây bắt đầu diễn ra tại Malaysia. Nội dung chủ yếu được thảo luận là các chuẩn để ghi ký tự và ngôn ngữ phục vụ cho việc liên lạc trên mạng bằng các thứ tiếng Trung, Ấn, Ảrập... 
-Máy tính không thể dịch các biến thể khu vực của các ký tự và điều này thường gây trở ngại trong giao tiếp khi những người ở một vùng ngôn ngữ này muốn truy cập thông tin từ vùng khác. Việc chuẩn hóa cũng cho phép các tên miền thông dụng như .com, .org... được phát triển bằng các ngôn ngữ khác thay vì chỉ sử dụng ký tự Latin như hiện nay. 
-Các nhà tổ chức nhận xét nếu hội nghị thành công, nó sẽ đánh dấu một bước tiến lớn trong quá trình biến Internet trở thành nguồn tài nguyên quốc tế thực sự. 
-Hiện nay, tốc độ đăng ký các tên miền đang ở mức cao nhất từ trước đến nay và tổng số đã lên tới hơn 63 triệu. 
-Mặc dù Internet được phát triển tại các quốc gia nói tiếng Anh, trọng tâm của mạng toàn cầu đang di chuyển về phía đông. Tổ chức quản lý hệ thống tên miền ICANN cho biết người dùng Internet các nước châu Á sẽ chiếm đa số trong thời gian tới. Trong số trên 100 triệu người dùng trên toàn thế giới đang sử dụng kết nối tốc độ cao thì có tới hơn một nửa sống tại châu Á. ICANN tin rằng trong vài năm tới, đa số người dùng Internet sẽ là công dân châu Á và điều đó sẽ có ảnh hưởng lớn về kinh tế đối với khu vực.
-

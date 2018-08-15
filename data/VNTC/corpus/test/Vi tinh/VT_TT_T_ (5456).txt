@@ -1,6 +1,0 @@
- Sony đưa ra phiên bản cập nhật PSX thứ hai
-TTO - Phiên bản cập nhật cuối cùng của phần mềm dành cho hệ thống PSX có version là 1.2 thêm vào một vài tính năng mới. Nổi bật là khả năng hỗ trợ DVD+RW. 
-Hơn nữa PSX cũng hỗ trợ DVD-R và DVD-RW dùng để ghi đĩa mặc dù ổ quang có sẵn cũng có khả năng trình diễn trong môi trường DVD+R và DVD+RW. 
-Bản cập nhật còn bổ sung khả năng hỗ trợ ảnh GIF chuyển từ PlayStation sang camera kỹ thuật số và cho phép ảnh JPEG, TIFF, MPEG1 và video từ đĩa CD-R đưa vào máy. Những file này cũng có thể xem trực tiếp từ CD-R. 
-Ngoài ra, do tính cạnh tranh và sự phổ biến của MP3, Sony đã tăng cường khả năng nhận biết các track MP3 lưu trong CD-R lên rất nhiều so với trước đây. Cuối cùng, bản update sửa chữa vài trục trặc phần cứng xuất hiện trong các version trước của PSX giúp tăng tốc độ đọc đĩa DVD và trình diễn hình ảnh mượt mà hơn. 
-

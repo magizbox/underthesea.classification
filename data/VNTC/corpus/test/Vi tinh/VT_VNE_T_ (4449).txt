@@ -1,6 +1,0 @@
-Kết hợp ăng-ten để mở rộng Wi-Fi lên 5 km
-Công ty chuyên sản xuất thiết bị viễn thông không dây Nhật Bản Maspro Denkoh đã xây dựng thành công một hệ thống Wi-Fi dựa trên ăng-ten có khả năng thu tín hiệu cao và tương thích với các thiết bị chuẩn IEEE 802.11b/g.
-Maspro đã phát hành hai mẫu ăng-ten hình ống dài khoảng 40 cm và hình vuông với kích thước ngắn hơn, tại Nhật từ tháng 9 nhưng chưa có kế hoạch phân phối toàn cầu.
-Khi nối hai ăng-ten dạng ống với nhau, khoảng cách đường truyền có thể tăng lên 4,8 km, còn mỗi mẫu riêng lẻ chỉ thu tín hiệu trong phạm vi gần 2 km. Trong khi đó, hai ăng-ten vuông có khả năng hoạt động với khoảng cách 1 km. Chúng cũng tương tác với các thiết bị theo chuẩn LAN không dây chuyên hỗ trợ ăng-ten ngoài.
-Toàn bộ hệ thống bao gồm một camera, thiết bị mã hóa video, bộ truyền tín hiệu và ăng-ten. Giá thành sản phẩm phụ thuộc vào khoảng cách truyền. Phiên bản 5 km có giá 5.255 USD, còn bản 1 km là 4.700 USD.
-

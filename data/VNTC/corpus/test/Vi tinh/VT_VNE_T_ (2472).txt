@@ -1,8 +1,0 @@
-Xạc đầy pin trong 60 giây
-Toshiba đã phát triển thành công một loại pin Lithium-ion có khả năng nạp được tới 80% năng lượng trong chưa đến một phút. Nhà sản xuất tuyên bố việc xạc đầy 100% có thể chỉ mất vài phút.
-Mẫu pin mới của Toshiba.
-Tốc độ thu nhận năng lượng này cao hơn rất nhiều so với các công cụ lưu điện mini hiện nay mà thông thường phải mất từ 1 đến 4 tiếng mới đạt được 80% dung lượng. Toshiba khẳng định sản phẩm mới của họ có thể đem lại thời gian sử dụng lâu hơn nhiều dòng pin Lithium-ion hiện có và chỉ bị giảm sút 1% công suất sau 1.000 lần xạc.
-Loại pin này có thể hoạt động ở nhiệt độ -40C với giới hạn dung lượng nạp tối đa là 80%. Nếu nạp đầy thì nhiệt độ hoạt động cho phép là 25C. Ở mức 45C thì tuổi thọ sản phẩm sẽ bắt đầu giảm, mất khoảng 5% công suất sau 1.000 lần xạc.
-Nhà sản xuất cũng khẳng định pin mới sẽ góp phần hạn chế tác động môi trường vì tiêu thụ ít năng lượng và thải ít khí carbon dioxide hơn. Toshiba cho biết bí quyết công nghệ của họ là việc sử dụng các phần tử nano nhằm hạn chế chất điện phân hữu cơ dạng lỏng bị thất thoát trong quá trình xạc. Những phần tử siêu nhỏ nói trên nhanh chóng hấp thu và lưu trữ một khối lượng cực lớn các Lithium-ion và không gây ra bất cứ tác động nào đối với điện cực. 
-Pin mới của Toshiba sẽ bắt đầu được bán trên thị trường vào năm tới, ban đầu phục vụ các ứng dụng công nghiệp và tự động hóa, sau đó sẽ phát triển cho thiết bị di động.
-

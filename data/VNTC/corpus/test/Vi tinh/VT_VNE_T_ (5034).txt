@@ -1,9 +1,0 @@
-ICANN dự định ra mắt tên miền đơn ký tự
-Tên miền Internet đang trở nên dài và phức tạp hơn do sự sáng tạo địa chỉ website trong khung .com bị thu hẹp. Trong khi đó, hầu hết những tên đơn giản nhất như "a.com, "b.com" vẫn chưa hề được sử dụng. 
-Một số trang như Overstock.com muốn đăng ký thương hiệu "o.com" do quy trình kinh doanh mới của họ đã mở rộng, không chỉ là cung cấp những mặt hàng tồn kho giảm giá. Trước những yêu cầu như thế, Tổ chức tên miền quốc tế ICANN đã quyết định cho địa chỉ web chỉ chứa một chữ cái vào hoạt động bắt đầu từ năm tới
-"Rõ ràng đây là một 'mặt hàng' rất giá trị", Kurt Pritz, Phó giám đốc doanh nghiệp của ICANN, nói. "Nhưng những tên miền này sẽ được kinh doanh như thế nào? Hơn nữa, quá trình chuyển đổi sẽ diễn ra không mấy dễ dàng".
-Tên miền một chữ cái với hậu tố .com, .net và .org bị gạt sang một bên từ năm 1993 khi các kỹ sư lập trình lo ngại về nguy cơ bùng nổ nhu cầu tên miền. Họ không chắc liệu cơ sở dữ liệu tên miền duy nhất khi đó có đủ sức chứa hàng triệu địa chỉ (hiện tại có 40 triệu tên miền .com).
-Chỉ 6 tên miền đơn được thừa nhận thời điểm đó là "q.com," "x.com, "z.com," "i.net," "q.net," và "x.org" được cho phép tiếp tục duy trì hoạt động.
-Một ý kiến đề xuất là tách cơ sở dữ liệu duy nhất này thành 26 database khác nhau. Ví dụ, đuôi .org" sẽ được chia thành "a.org", "b.org"... Khi đó, ví dụ tên miền của hãng thông tấnThe Associated Press không phải là "ap.org" mà là "ap.a.org".
-Hiện nay, các kỹ sư đã rút ra rằng quy trình trên là không cần thiết. Cơ sở dữ liệu vẫn có thể lưu và quản lý hàng triệu tên miền mà chưa hề gặp trục trặc gì. Do vậy, ICANN đã chấp nhận những tên chứa 1 ký tự.
-

@@ -1,5 +1,0 @@
- TP.HCM: lập chiến lược hỗ trợ doanh nghiệp phần mềm
-Theo chương trình này, thành phố sẽ tập trung hỗ trợ hệ thống thông tin, cụ thể là xây dựng cổng thông tin doanh nghiệp phần mềm thành phố, hỗ trợ các doanh nghiệp đào tạo nguồn nhân lực và khách hàng của ngành phần mềm. 
-Chương trình cũng đề ra mục tiêu đến năm 2010, thành phố xây dựng được tối thiểu 10 doanh nghiệp phần mềm quy mô lớn có trên 500 lập trình viên, và 100 doanh nghiệp có quy mô từ 100 lập trình viên trở lên. Thành phố phấn đấu đến năm 2010 doanh thu của ngành phần mềm sẽ đạt khoảng 400-450 triệu USD, tăng gấp 3 lần so với doanh số thực tế giai đoạn 2001-2005 và chiếm tỷ trọng 2-2,5% GDP của thành phố. 
-Để hỗ trợ thêm cho các doanh nghiệp, UBND TP.HCM cũng đã cam kết sẽ bù lỗ cho các doanh nghiệp phần mềm khi có khó khăn về giá sử dụng Internet để các doanh nghiệp được sử dụng dịch vụ với giá ngang bằng với các nước trong khu vực. Bộ Bưu chính Viễn thông cũng đang nghiên cứu chương trình hỗ trợ giá và phương thức kết nối Internet cho các khu phần mềm tập trung trong cả nước. 
-

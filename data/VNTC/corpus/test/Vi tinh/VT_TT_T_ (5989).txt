@@ -1,8 +1,0 @@
- PC giá 299 USD
-Tại Mỹ, AMD có kế hoạch hợp tác với Radio Shack để giới thiệu đến người dùng. 
-Ngay sau khi kế hoạch của MIT, phát triển bởi Nicholas Negroponte giới thiệu laptop có giá 100 USD gây được tiếng vang lớn, AMD cũng đưa ra giới thiệu con át chủ bài Personal Internet Communicator chỉ với giá 299 USD. AMD PC dựa trên bộ vi xử lý AMD Geode GX 366Mhz và có ổ đĩa cứng dung lượng 10GB. Hệ thống cũng bao gồm 4 cổng USB, cổng kết nối audio và 1 cổng VGA. Cấu hình chuẩn không bao gồm monitor nhưng PC được bán ra kèm với một chuột và bàn phím. 
-Hệ thống đã được cài đặt sẵn Windows CE và Microsoft Internet Explorer, Media Player, PowerPoint, Macromedia Flash Player cũng như trình xử lý soạn thảo văn bản và bảng tính của SoftMaker. 
-Personal Internet Communicator được giới thiệu với mục đích chính là cung cấp dịch vụ truy cập Internet nhanh và tiện lợi. AMD hy vọng sẽ giới thiệu đến các nước như Nga, Trung Quốc và Thổ Nhỹ Kỳ. AMD cũng đã tài trợ 400 thiết bị này cho các nạn nhân của bão Katrina vừa qua. 
-Giới phân tích nhận xét AMD Personal Internet Communicator sẽ là đối thủ đáng gờm cho MacMini của Apple. Mặc dù MacMini có cấu hình mạnh mẽ hơn PIC nhưng có giá cao hơn nhiều. 
-Radio Shack cũng tin tưởng rằng AMD Personal Internet Communicator sẽ làm tăng doanh số bán ra nhưng người tiêu dùng ở Mỹ có vẻ không thích thú lắm với các PC có cấu hình thấp. 
-

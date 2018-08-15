@@ -1,6 +1,0 @@
- Khóa học an ninh mạng miễn phí
-Nội dung khóa học xoay quanh 3 chủ đề chính là những vấn đề an toàn thông tin đặt ra cho 1 quốc gia, bao gồm các bản chất đáng lưu ý của Internet, chiến tranh thông tin- một tương lai rất gần, các vấn đề về InfoSec cần lưu ý khi xây dựng và bảo vệ hạ tầng CNTT cho quốc gia. Lộ trình nghiên cứu an toàn thông tin như ứng dụng TCP/IP trong InfoSec, mã hoá và giao tiếp an toàn trên internet, giới thiệu và thực hành kỹ năng phân tích ngữ nghĩa dòng packet. Chủ đề cuối cùng là khám phá thế giới các hacker với tìm kiếm trên không gian ảo và một số kỹ thuật tấn công trên mạng internet 
-Đây sẽ là hoạt động định kỳ của mỗi năm của VSEC nhằm mục đích cung cấp các kiến thức về an ninh mạng cho các đối tượng trên. Thông tin chi tiết về khóa học xem tại www.security.com.vn/niipa2.htm . 
-Mục tiêu sau cùng của quá trình đào tạo an toàn thông tin là kiến thức và kỹ năng thực tế cho học viên. Được biết VSEC đã tham khảo bộ chuẩn NSTISS của Mỹ về đào tạo an toàn thông tin để xây dựng chương trình đào tạo VSEC-Training 
-Dịp này, VSEC cũng dành học bổng VSEC – BASIC cho quản trị mạng các cơ quan báo đài tại TP.HCM. 
-

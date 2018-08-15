@@ -1,7 +1,0 @@
-eBay phát hành công cụ phân tích giá
-Hãng đấu giá trực tuyến hôm qua đã giới thiệu một dịch vụ mới, cho phép người mua và bán truy cập tới hàng triệu danh mục mặt hàng để xem xét diễn biến, xu hướng tăng giảm giá cả trong vòng 90 ngày.
-Công cụ eBay Marketplace Research cung cấp thông tin tùy biến, biểu đồ, số liệu... theo thời gian thực của mọi giao dịch trên thị trường trực tuyến. 
-Với người mua, dịch vụ này giúp họ kiểm tra giá bán trung bình và ước tính họ có thể sẽ phải trả bao nhiêu cho một sản phẩm nào đó. Đối với người bán, Marketplace Research mang lại những thông tin cần thiết như giá bình quân, chi phí giao hàng và những thuật ngữ được tìm kiếm nhiều nhất, hỗ trợ họ họ dễ dàng hình dung, nắm bắt xu hướng và đưa ra giá khởi điểm hợp lý.
-Dịch vụ mới được phân chia theo 3 mức: 2,99 USD với 2 ngày sử dụng, 9,99 USD/tháng (thuê bao cơ bản) và 24,99 USD/tháng (thuê bao chuyên nghiệp). Hai loại giá đầu sẽ cung cấp diễn biến thông tin trong 60 ngày, còn loại thứ 3 hiển thị dữ liệu 90 ngày.
-"eBay Marketplace Research, ra mắt ngay trước dịp mua sắm lớn nhất trong năm, mang lại cho cả người mua và bán sự thuận tiện trong giao dịch điện tử", Bill Cobb, Giám đốc eBay tại Bắc Mỹ, cho biết.
-

@@ -1,6 +1,0 @@
-Người dùng Windows không nhận được bản vá lỗi
-Hãng phần mềm Microsoft đã sửa 3 lỗ hổng đồ họa trong hệ điều hành của mình  nhưng không thể chuyển các chương trình update trong bản tin an ninh tháng 11 tới người đăng ký dịch vụ cập nhật phần mềm SUS (Software Update Services).
-Bobbie Harder, Giám đốc chương trình của Microsoft, thừa nhận rằng bản nâng cấp đáng ra phải xuất hiện từ 5 giờ chiều ngày 8/11, nhưng cho đến hôm nay nó vẫn chưa đến tay khách hàng. "Chúng tôi đã phát hiện trục trặc này trong SUS 1.0 và hy vọng sẽ sớm có biện pháp giải quyết", Harder cho biết. 
-SUS là dịch vụ phân phối những bản vá lỗi, nâng cấp cho sản phẩm của Microsoft và hoạt động tương tự Microsoft Windows Update. Tập đoàn dự định ngừng chương trình này vào tháng 12/2006 và khuyến khích khách hàng chuyển sang phiên bản mới hơn Windows Server Update Services (WSUS).
-Bản tin an ninh của Microsoft sửa lỗi trong cách hệ điều hành xử lý ảnh Metafile, về mặt lý thuyết có thể tạo cơ hội cho hacker kiểm soát hệ thống từ xa. Windows Metafile là định dạng đồ họa sử dụng một số ứng dụng CAD (thiết kế hỗ trợ máy tính - computer-aided design) với phần mở rộng .wfm hoặc .emf.
-

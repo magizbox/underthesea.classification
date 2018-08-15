@@ -1,7 +1,0 @@
- Trojan “Trình duyệt Đỏ” tấn công hầu hết ĐTDĐ
-Các công ty bảo mật đều thừa nhận rằng đây là một dạng trojan hiếm hoi có khả năng tấn công vào hầu hết mọi ĐTDĐ hiện nay. Khi lây nhiễm vào máy, trojan RedBrowser sẽ đưa ra một thông điệp trên màn hình để quảng cáo cho một dịch vụ tư vấn nào đó, có lẽ là tình dục, với giá trên trời là từ 5 đến 6 USD cho một thông điệp gửi đến người dùng. 
-RedBrowser lây nhiễm bằng cách tự quảng cáo mình trên web là một trình duyệt đời mới hiện đại nhất. Khi người dùng ngây thơ dùng ĐTDĐ thông minh hoặc máy tính để tải về và cài đặt lên máy là lập tức trojan RedBrowser sẽ lây nhiễm vào máy và tung ra các thông điệp quảng cáo. Để lây nhiễm sang các máy khác, RedBrowser sẽ lấy bất kỳ một số điện thoại nào đó lưu trong máy và gửi đi một tin nhắn MMS có kèm theo chính nó đến số điện thoại đã chọn. 
-RedBrowser có thế tấn công và nhiều loại ĐTDĐ thông minh, PDA và đặc biệt ưa thích những ĐTDĐ thông thường có cài đặt Java. Ngoài ra các thiết bị điện tử tiêu dùng có cài các trình java của Sun Microsystems cũng có thể bị trojan này lây nhiễm. 
-Điều may mắn rằng RedBrowser hiện mới chỉ lây nhiễm tại Nga và ngoài việc tung thông điệp quảng cáo, nó cũng chưa gây thêm tác hại gì. 
-Forrester Research ước lượng rằng hiện có tổng cộng khoảng 100 virus ĐTDĐ đã từng xuất hiện và một số vẫn còn hoạt động. 
-

@@ -1,7 +1,0 @@
-Phục hồi dữ liệu bằng VirtualLab Data Recovery 
-Một lần, nhận thấy chiếc máy tính trở nên ì ạch, bạn đem ra dọn dẹp và thật phấn khởi vì nó phục hồi được phần nào tốc độ. Đột nhiên, bạn giật mình nhận thấy mình đã quá tay xóa mất vài chục tập tin quý giá. Khi ấy, hãy cầu viện đến VirtualLab Data Recovery.
-Sử dụng một công nghệ mới, đang chờ cấp bản quyền, VirtualLab Data Recovery sẽ quét các ổ đĩa để tìm những phân vùng có chứa dữ liệu. Những gì được tìm thấy sẽ hiển thị trên một cửa sổ giống với trình duyệt web với các tệp tin và thư mục bạn có thể chép vào một thiết bị lưu trữ an toàn khác. Khi tìm được tập tin muốn phục hồi, bạn cần kết nối với máy chủ của VirtualLap để nó thực hiện các tác vụ cần thiết.
-Làm việc trên các phân vùng FAT 12, FAT 16, FAT 32 và NTFS. VirtualLab Data Recovery có thể phục hồi dữ liệu từ hầu hết các phương tiện lưu trữ, lấy lại những file đã bị xóa, những phân vùng bị hỏng và thậm chí còn cứu vãn được cả những dữ liệu tưởng chừng đã mất hẳn sau khi format ổ đĩa. Ngay cả khi Windows không nhận ổ đĩa, vẫn có khả năng VirtualLab tìm và phục hồi được dữ liệu cho bạn. 
-Lưu ý: Chương trình được cung cấp miễn phí, nhưng nếu bạn dùng chúng để phục hồi dữ liệu cho máy chủ, bạn sẽ phải trả tiền và mức phí sẽ phụ thuộc vào số lượng dữ liệu cần phục hồi.
-Phần mềm tương thích với Windows 95 trở lên và máy chủ 2003, có dung lượng 2 MB. Bạn có thể tải tại đây.
-

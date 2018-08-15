@@ -1,9 +1,0 @@
-Tìm ra hai nguyên tố mới siêu nặng 
-Bảng Hệ thống tuần hoàn các nguyên tố có thể cần bổ sung hai ô nữa, với việc các nhà khoa học quan sát được bằng chứng đầu tiên về hai nguyên tố siêu nặng 113 và 115. 
-Việc săn tìm các nguyên tố siêu nặng không phải là một nhiệm vụ dễ dàng. Càng nhiều proton và neutron gói trong một hạt nhân, nguyên tử càng trở nên bất ổn định. Để tạo được các nguyên tố nặng hơn uran (có 92 proton), các nhà khoa học đã phải bắn phá cùng lúc nhiều hạt nhân nhỏ hơn để tạo nên dạng hạt nhân nặng có tuổi thọ ngắn. 
-Trong công trình mới này, một nhóm các nhà nghiên cứu thuộc Viện nghiên cứu hạt nhân ở Dubna, Nga và Phòng thí nghiệm quốc gia Lawrence Livermore đã phá vỡ một khối nguyên tử ameridi-243 (mỗi nguyên tử có 95 proton) bằng một chùm nguyên tử canxi-48 (mỗi nguyên tử có 20 proton). Trong số hàng tỷ thành phần bắn ra, họ đã phát hiện 4 nguyên tử của nguyên tố 115. Sau khoảng 90 miligiây, mỗi nguyên tử mới này lại phân rã thành nguyên tố 113 - một nguyên tố chưa hề được quan sát trước đó.
-Hơn một giây sau nguyên tố 113 cũng biến mất, thay bằng nguyên tố 111 và sau đó là dubnium (nguyên tố 105).
-"Phát hiện này đã mở ra chân trời mới cho bảng hệ thống tuần hoàn", Ken Moody thuộc phòng thí nghiệm Livermore bình luận. "Nó cho phép chúng ta mở rộng các nguyên lý cơ bản của hoá học. Từ ngành hoá học mới đến vật liệu mới và công nghệ mới". 
-Trước mắt, hai nguyên tố tạm được gọi theo số thứ tự nguyên tử, hay số proton mà chúng có: ununtrium (113) và ununpentium (115). Tổ chức Hoá học Ứng dụng và Tinh chất quốc tế sẽ đặt lại tên cho chúng sau khi phát hiện này được công nhận độc lập. 
-Vào năm 2002, lời khẳng định phát hiện ra nguyên tố 118 đã bị rút lại sau khi các phòng thí nghiệm khác thất bại trong việc cho ra kết quả tương đương. 
-

@@ -1,7 +1,0 @@
-Không nên tải XP SP3 phát tán trên Internet
-Microsoft, nhà cung cấp hệ điều hành Windows, vừa ra khuyến cáo khẳng định phiên bảnService Pack 3 đăng trên trangThe Hotfixlà "không chính thức" và đang tiến hành một cuộc thanh tra nội bộ để tìm hiểu xem ai đã tiết lộ thông tin ra ngoài.
-Theo Mike Brannigan, cố vấn chiến lược kinh doanh của Microsoft, tải hệ điều hành giả Windows XP SP3 trên The Hotfix sẽ có thể tác động xấu đến máy tính và tự đặt chúng "nằm ngoài hệ thống hỗ trợ của Microsoft và OEM (các nhà sản xuất thiết bị gốc)" vì đó không phải gói phần mềm hoàn thiện.
-"Chưa đến lúc để thử nghiệm chương trình, do vậy đây không phải là SP3. Những ai cài bản giả này đang vô tình khiến PC và dữ liệu của họ gặp nhiều nguy cơ tiềm tàng không thể khắc phục được", Brannigan nhấn mạnh.
-Tuy nhiên, Ethan Allen, nhà sáng lập và quản trị The Hotfix, cam đoan rằng dù không phải là bản chính thức, phiên bản trên website này sẽ tạo cơ hội cho người dùng mường tượng những gì sẽ xuất hiện trong phần mềm chính thức trước khi nó được phát hành. Và Allen cũng cho biết hệ điều hành được lấy từ nguồn nội bộ của Microsoft, chứ không phải họ tự sáng tạo ra. 
-Microsoft đã tuyên bố Windows XP SP3 sẽ chỉ xuất hiện sau khi Windows Vista ra mắt vào cuối 2006.
-

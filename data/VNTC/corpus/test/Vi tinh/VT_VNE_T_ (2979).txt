@@ -1,6 +1,0 @@
-Microsoft cảnh báo lỗi TCP/IP
-Trong thông cáo liên quan đến tính năng xử lý giao thức nói trên ở phần mềm của họ, Microsoft cho biết khiếm khuyết có thể cho phép hacker thiết lập các giá trị tùy thích trong một kết nối TCP để gây tê liệt mạng.
-Lỗ hổng này cũng cho phép kẻ xâm nhập giành quyền truy nhập đầy đủ vào những máy tính bị lỗi. Khi khai thác thiếu sót này, đầu tiên kẻ tấn công phải đoán hoặc tìm ra địa chỉ IP và cổng nguồn thông tin cũng như điểm đến của một kết nối mạng TCP, thông báo tư vấn của Microsoft giải thích. Các giao thức hoặc chương trình duy trì những khoảng liên lạc (session) kéo dài hoặc có những thông tin TCP/IP dễ đoán đều bị nguy cơ.
-Tuy nhiên, Microsoft cũng nhấn mạnh rằng những máy tính đã cài bản Windows XP SP2 và Windows Server SP1 không bị ảnh hưởng và khiếm khuyết nói trên không thuộc loại nguy cơ đặc biệt nghiêm trọng. Lỗi này đã được xử lý trong bản vá lỗi MS05-019 mà Microsoft phát hành tháng 4 nhưng hiện nay đã được phát hành lại vì gặp một số vấn đề không tương thích.
-Tham khảo thêm về khiếm khuyết TCP/IP mà Microsoft thông báo tại đây.
-

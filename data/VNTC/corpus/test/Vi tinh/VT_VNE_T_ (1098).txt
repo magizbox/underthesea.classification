@@ -1,6 +1,0 @@
-Xây dựng mô hình ba chiều bằng 3D Canvas
-Thế giới đồ họa ba chiều vẫn bị thống trị bởi những tên tuổi nổi tiếng và đắt giá như Maya, 3D Studio Max, Softimage hoặc Renderman. Tuy vậy, phần mềm miễn phí 3D Canvas vẫn tìm được chỗ đứng cho riêng mình nhờ sự đơn giản nhưng độc đáo và hiệu quả.
-Chương trình mang tính trực quan rất cao, với các đối tượng và bảng màu được bố trí hợp lý trên các panel và tab, giúp bạn truy cập thuận tiện. Khởi tạo một hình ba chiều trong 3D Canvas rất đơn giản. Bạn chỉ cần kéo một phôi mẫu từ bảng Component vào không gian làm việc và đặt đối tượng vào khung cảnh. Bạn có thể tô màu cho các đối tượng 3D và tạo hoạt ảnh bằng cách biến đổi hình dạng và vị trí của chúng trong thời gian thực rồi ghi lại theo định dạng AVI. 
-Trong 3D Canvas, phần Tutorials và các hình vẽ mẫu của chương trình cũng như các tập tin trợ giúp được thực hiện rất xuất sắc, có thể xem như một khởi đầu lý tưởng cho các bạn muốn làm quen với công nghệ 3D. Giao diện của chương trình cũng khá giống 3D Studio Max - phần mềm đồ họa 3D phổ biến nhất tại Việt Nam hiện nay - nên sau khi đã thành thạo 3D Canvas, bước kế tiếp của bạn với Max sẽ thuận lợi hơn rất nhiều.
-Phần mềm có dung lượng 5,9 MB. Bạn có thể download tại đây.
-

@@ -1,9 +1,0 @@
-Mobile Games 2004 giao lưu với sinh viên Hà Nội
-Tối 25/6, công ty Công nghệ di động FPT (FPT Mobile) và các nhà đồng tổ chức đã giao lưu khởi động cuộc thi viết game cho điện thoại di động (ĐTDĐ) với sinh viên thủ đô tại hội trường ký túc xá Đại học Bách Khoa.
-Mặc dù trời rất nóng, hội trường ký túc xá vẫn chật kín sinh viên. Giải thích cho sự háo hức này, Lê Xuân Linh, sinh viên lớp Luyện kim 3, Đại học Bách Khoa, nhận xét: "Vì đây là lần đầu tiên một cuộc thi như thế này được mở ra nên chúng tôi rất quan tâm và muốn tham gia để thử sức mình".
-Ông Trần Tuấn Việt, đại diện FPT Mobile, cho biết mục đích của cuộc thi này là tạo sân chơi lành mạnh cho giới trẻ yêu thích công nghệ thông tin, phát triển các ứng dụng trên ĐTDĐ do người Việt Nam tự viết, đồng thời tạo cầu nối giữa ứng dụng công nghệ và thị trường.
-Thí sinh dự thi phải gửi tới ban giám khảo một game hoàn chỉnh, được viết trên nền tảng J2ME (phiên bản MIDP 1.0) và có thể chơi được trên chương trình giả lập ĐTDĐ Samsung do Ban tổ chức cung cấp.
-Cuộc thi diễn ra từ nay đến hết tháng 9/2004, được chia làm hai giai đoạn, với tổng giá trị các giải thưởng hơn 100 triệu đồng, bao gồm tiền mặt và hiện vật. Ngoài ra, nhà tài trợ FPT-Aptech còn trao tặng 6 suất học bổng trị giá 250 USD/suất cho những thí sinh đoạt giải ở vòng chung kết. 
-Trước đó, ngày 19/6, Ban tổ chức gồm FPT Mobile, báo Tuổi Trẻ, tạp chí PC World Việt Namvà nhà tài trợ Samsung Vina đã có cuộc giao lưu với sinh viên TP HCM tại nhà hát Bến Thành.
-Để biết thêm thông tin chi tiết về thể lệ cuộc thi, bạn đọc có thể tham khảo tại trang web chính thức của Mobile Games 2004 www.samsungmobilegames.com.vn. 
-

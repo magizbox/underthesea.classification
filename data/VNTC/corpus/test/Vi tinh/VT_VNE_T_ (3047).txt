@@ -1,7 +1,0 @@
-Firefox được tích hợp thanh công cụ chống phishing
-Hãng bảo mật Netcraft (Anh) mới phát hành một toolbar giúp bảo vệ người dùng Firefox khỏi các site lừa đảo trực tuyến. Công cụ được cài đặt như một phần mở rộng hoặc plug-in này sẽ tự động phong tỏa các trang web đáng ngờ.
-Một cơ sở dữ liệu về các website do Netcraft và người sử dụng đóng góp thông tin sẽ được dùng để hiển thị tất cả những đặc điểm của bất kỳ trang web nào mà PC chạy Firefox truy cập, trong đó có địa điểm quốc gia, thâm niên cũng như độ phổ biến của website.
-Những thông tin này sẽ giúp đánh giá các website có khả năng là lừa đảo bởi hầu hết những địa chỉ này đều tồn tại trong thời gian rất ngắn và thường được đặt host ở một số nước như Trung Quốc và Nga.
-Netcraft khẳng định thanh công cụ của họ đã phong tỏa được hơn 7.000 website phishing kể từ khi phát hành. Toolbar này đã được thiết kế cho Internet Explorer của Microsoft từ tháng 12 năm ngoái.
-Tải bản toolbar miễn phí cho Firefox tại đây.
-

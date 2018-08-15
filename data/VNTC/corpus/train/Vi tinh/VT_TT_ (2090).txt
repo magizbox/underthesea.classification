@@ -1,7 +1,0 @@
- Systran: công cụ phiên dịch “sống” đa năng
-Chỉ cần một máy tính nối mạng Internet cộng với website Systranbox là bạn có thể “ảo thuật” với những ngôn ngữ phổ biến nhất trên thế giới một cách tiện dụng với hiệu quả. Systran là công cụ dịch sống trên Internet hàng đầu. Nó có thể dịch qua lại ngược xuôi 12 ngôn ngữ như: Anh, Nga, Pháp, Đức, Tây Ban Nha, Ý, Thổ Nhĩ Kỳ, Ả Rập, Nhật Bản, Trung Quốc, Hàn Quốc, Thụy Điển. 
-Đối với khách du lịch thì đây là công cụ phiên dịch… miễn phí và không biên giới. Chỉ cần biết chút đỉnh tiếng Anh là bạn có thể chat với… toàn thế giới thông qua công cụ dịch sống cực nhanh này. 
-Systran có hai chế độ sử dụng. Chế độ “dịch sống” văn bản (Text) với một câu dịch tối đa là 150 ký tự và chế độ dịch nguyên một trang web từ ngôn ngữ này sang ngôn ngữ khác. Tuy nhiên chế độ dịch web chỉ tương thích tốt với những website bằng tiếng Anh, Pháp, Đức… Người dùng chỉ việc chọn giữa hai chế độ “Text” hoặc “Web Page”, sau đó nhập vào văn bản hoặc địa chỉ Web để Systran tự động chuyển ngữ chỉ trong một thời gian ngắn. 
-Bạn có thể kết hợp công cụ phiên dịch trực tuyến này với website từ điển Anh - Pháp - Việt online http://vdict.com/ để cùng nhau hiểu được mọi ngôn ngữ trên thế giới. 
-Ngoài việc giới thiệu trang web dịch sống miễn phí Systran, Công ty Digitalriver cũng giới thiệu nhiều gói phần mềm dịch đa ngữ hết sức hiệu quả. Người dùng có thể vào trang http://www.digitalriver.com/dr/v2/ec_dynamic.main?sp=1&amp;pn=2&amp;sid=28102 để tham khảo thêm. 
-

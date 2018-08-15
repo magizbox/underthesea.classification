@@ -1,8 +1,0 @@
-'Sober.N được viết vì mục đích kiếm tiền'
-Đó là đánh giá của Graham Cluley, cố vấn công nghệ cao cấp cho hãng Sophos (Anh), về một trong những biến thể sâu Sober nguy hiểm nhất hiện nay. Ông cũng khẳng định thời những hacker viết phần mềm virus chỉ để nổi danh giờ đã qua.
-Hiện nay, nhiều loại virus được thiết kế bởi các nhóm tội phạm chuyên tìm kiếm mục tiêu tài chính thực trên mạng. Virus Sober.N (một số hãng bảo mật khác gọi là Sober.P hoặc S) có thể coi là một ví dụ điển hình. Nó xuất hiện trong 5% e-mail trên toàn thế giới, và chiếm tới gần 20% trong số virus được phát hiện gần đây.
-Sober.N được phát tán nhằm mục đích xâm nhập máy tính cá nhân, cài phần mềm ăn cắp khóa dữ liệu, tiếp cận số tài khoản ngân hàng, mật khẩu cũng như các thông tin tài chính nhạy cảm khác. 
-Lý do khiến Sober lan tràn nhanh và mạnh như hiện nay là vì tác giả của virus này sử dụng công nghệ spam để phát tán ngay từ giai đoạn đầu. 
-Phần lớn "thành công" của Sober.N liên quan đến việc nó lợi dụng sự kiện giải bóng đá thế giới để mời chào vé miễn phí cho người sử dụng, dù chỉ được phát tán dưới phiên bản tiếng Đức.
-Phiên bản tiếng Anh chủ yếu liên quan đến vấn đề bảo mật của người dùng, như báo lỗi tài khoản e-mail, hay tìm đối tác giao dịch trên mạng... Theo Cluley, rất nhiều virus lây lan nhanh chóng nhờ kiểu "thông báo vấn đề cho khách hàng" như vậy.
-

@@ -1,6 +1,0 @@
-Nguy cơ lớn trên cổng TCP 445 
-Hãng khảo sát Gartner vừa cho biết có sự gia tăng mạnh các hoạt động dò la liên quan đến khiếm khuyết trong giao thức Windows Server Message Block (SMB) của Microsoft và cảnh báo doanh nghiệp cần có biện pháp ngay để bịt lỗ hổng.
-Cổng 445 có thể được dùng vào việc khai thác một lỗi nghiêm trọng tên làIncoming SMB Packet Validation Remote Buffer Overflow Vulnerability (đã được vá trong bản tin an ninh MS05-027 phát hành ngày 14/6 của Microsoft), John Pescatore, Phó chủ tịch Gartner, phát biểu. Sự gia tăng các hoạt động xâm nhập qua con đường này tiềm ẩn một nguy cơ lớn mà các nhà quản trị hệ thống ở doanh nghiệp cần để ý bởi vì nó báo trước nhiều cuộc tấn công có thể xảy ra.
-Theo Gartner, mối đe dọa nói trên cho thấy, kể từ khi Microsoft tung ra bản sửa lỗi định kỳ tháng 6, giới hacker cũng đã phát triển mã khai thác mà chúng có thể dùng để tiến hành những vụ tấn công quy mô qua giao thức SMB, vốn được sử dụng rất rộng rãi.
-Hãng khảo sát khuyến cáo các doanh nghiệp nên kiểm tra ngay việc cập nhật bản sửa lỗi và hệ thống tường lửa để đảm bẳo rằng việc truy nhập qua cổng 445 được ngăn chặn từ mọi hướng. 
-

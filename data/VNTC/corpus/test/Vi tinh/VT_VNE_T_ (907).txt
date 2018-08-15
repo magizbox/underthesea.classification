@@ -1,6 +1,0 @@
-AMD chuẩn bị tung ra chip Sempron
-Hãng sản xuất chip lớn thứ hai thế giới công bố trong nửa cuối năm nay, họ sẽ đưa ra thị trường bộ vi xử lý thông dụng Sempron, hướng tới máy tính văn phòng và phần cứng của người tiêu dùng. Loại chip này được sử dụng cho cả máy tính để bàn và máy tính xách tay. 
-AMD vẫn giữ kín các chi tiết kỹ thuật của sản phẩm. Tuy nhiên, phát ngôn viên Jo Albers của hãng xác nhận Sempron sẽ đáp ứng các nhu cầu sử dụng phần cứng đa tính năng, bao gồm tải và chơi nhạc, gửi ảnh kỹ thuật số. 
-AMD vẫn tiếp tục sản xuất loại chip Duron nhưng Sempron sẽ dần thay thế trong các lĩnh vực kể trên, chủ yếu là cho những ứng dụng dùng trên máy để bàn. 
-Tuần trước, AMD tung ra 4 chủng loại chip Athlon 64 mới, mang lại sự vận hành tốt hơn và tăng cường các tính năng bảo mật cho máy tính để bàn, đồng thời củng cố vị thế nhà cung cấp chip thế hệ mới của hãng. 
-

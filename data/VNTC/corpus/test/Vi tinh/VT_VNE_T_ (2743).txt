@@ -1,7 +1,0 @@
-Windows XP SP2 đạt 180 triệu lượt download
-Nick McGrath, Giám đốc phụ trách chiến lược nền tảng của Microsoft, cho biết hầu hết máy tính chạy hệ điều hành của họ hiện nay đã cài đặt bản nâng cấp nói trên và tiến độ cập nhật trong thời gian tới vẫn sẽ được duy trì như hiện nay.
-Một thăm dò bạn đọc của VnExpresscho thấy gần một nửa số người trả lời đã cài Windows XP SP2. Số người dùng XP cập nhật bản SP1 cũng khá cao, chiếm 32%. Phiên bản Windows ME tỏ ra ít được sử dụng nhất với chưa đầy 2% số bạn đọc cài trên máy tính.
-Phủ nhận những lời chỉ trích rằng người sử dụng các phiên bản Windows trước XP đang bị bỏ rơi với một tương lai bảo mật không rõ ràng, Nick McGrath nhấn mạnh rằng an ninh tốt còn tùy thuộc vào cả thói quen cập nhật.
-Trên trang web của Microsoft hiện nay có hẳn một phần hướng dẫn cách chăm sóc phần mềm, bao gồm từ sách trắng về kỹ thuật chuyên sâu cho tới những đoạn video hướng dẫn người sử dụng gia đình các kiến thức cơ sở.
-McGrath cũng cho biết quá trình tăng cường thêm một số cơ chế vá lỗi khác nhau của Microsoft đã hoàn tất. Nhiều doanh nghiệp bắt đầu triển khai hệ thống cập nhật bản nâng cấp theo cơ chế tự động, quan chức của Microsoft nói. Mỗi bản patch là một đối tượng riêng biệt và có thể dễ dàng gỡ bỏ nếu gây ra bất cứ sự không tương thích nào.
-

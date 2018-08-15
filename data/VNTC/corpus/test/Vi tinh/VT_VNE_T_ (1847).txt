@@ -1,7 +1,0 @@
-ISP bị cướp tên miền
-Một nhà cung cấp dịch vụ Internet ở New York (Mỹ) hôm qua xác nhận họ đang phải tìm cách thu hồi lại domain và dịch vụ e-mail của mình sau một vụ tấn công khống chế.
-Đại diện của nạn nhân, hãng Panix.com, cho biết quyền sở hữu tên miền này đã bị chuyển đổi tối hôm 14/1 sang cho một công ty ở Australia, hồ sơ máy chủ tên miền (DNS) thì bị chuyển sang Anh còn hệ thống mail của công ty thì bị lái sang cho một doanh nghiệp ở Canada.
-Panix cho biết hầu hết khách hàng sẽ hoặc không thể truy cập vào tên miền Panix.com hoặc sẽ bị dẫn tới một địa chỉ khác. E-mail gửi tới tên miền này cũng đang được dẫn về một địa chỉ khác và tất cả số thư đó đều được coi là mất hoặc bị khống chế. Hiện nay chưa xác định được domain của Panix đã bị chuyển đổi như thế nào trong khi người đại diện của nạn nhân tỏ ra rất phẫn uất với đơn vị cấp phát tên miền mà họ đăng ký.
-Panix được thành lập năm 1989, chuyên cung cấp dịch vụ truy cập Internet và thư điện tử cho các địa phương ở Mỹ như New York, Long Island, Westchester, Rockland và New Jersey. 
-Tháng 9 năm ngoái, cảnh sát Đức bắt được một thiếu niên dính líu đến việc bắt cóc tên miền của website eBay tại Đức. Vụ tấn công này xảy ra vào cuối tháng 8 khi người truy cập địa chỉ eBay.de được dẫn tới một DNS khác và tất nhiên là không thể tham gia các cuộc mua bán ở mạng giao dịch trực tuyến này.
-

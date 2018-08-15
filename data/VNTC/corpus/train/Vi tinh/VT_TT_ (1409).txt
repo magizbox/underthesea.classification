@@ -1,6 +1,0 @@
- Không cần đeo kính vẫn nhìn được 3D
-LL-151-3D thật ra đã được Sharp trình diễn khả năng của nó vào cuối năm 2002 với hy vọng có thể xuất hiện rộng rãi trên thị trường vào cuối năm 2003. Sharp cũng đã kết hợp công nghệ 3D vào trong màn hình điện thoại di động và màn hình máy tính xách tay. 
-Màn hình này có thể xem như một dạng TFT sandwich, tức là bao gồm 2 bản TFT độc lập cách nhau bởi một bản thị sai quang học (paralax panel). Chính tấm phân cách này đã tạo ra các pixel khác biệt nhìn thấy bởi 2 mắt, thủ thuật này đã đánh lừa cảm giác của não bộ, cho phép ta nhìn thấy hình ảnh có dạng 3 chiều. Chức năng 3D này có thể tắt đi khi chúng ta chỉ cần dùng đến cách nhìn 2D thông thường như khi gõ văn bản, soạn mail, … 
-Theo lời của Ian Matthew, giám đốc bộ phận phát triển kinh doanh các sản phẩm 3 chiều của Sharp tại Mỹ thì, “Làn sóng thứ 4 của công nghệ LCD chính là ở đây, và Sharp đã trở thành nhà tiên phong, đưa ra một giải pháp thực tiễn, cho phép người dùng tự do lựa chọn cách nhìn 2D hay 3D trong cùng một màn hình”. 
-Màn hình này hiện có giá bán lẻ là 1.500 USD (giá tại Mỹ). 
-

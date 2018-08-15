@@ -1,8 +1,0 @@
-Chỗ ngồi tốt nhất trong rạp chiếu bóng
-Nếu thường xem phim, bạn sẽ nhận thấy có một số hình tượng nổi lên khác thường trên màn ảnh: hình người tựa hồ như tách khỏi bối cảnh và nhô lên, giống như cảnh thực vậy. Thực tế, ảo giác này không phụ thuộc vào tính chất của cuốn phim, mà vào chỗ ngồi của bạn trong rạp.
-Các ảnh trên phim mặc dù được quay bằng những ống kính có tiêu cự rất ngắn nhưng khi chiếu lên màn ảnh thì đã được phóng đại lên rất nhiều - đến một trăm lần - do đó có thể nhìn bằng hai mắt trên một khoảng rất xa. Ta sẽ thấy sự nổi lên rõ nhất khi nhìn ảnh trên màn dưới một góc đúng bằng góc mà máy quay phim "nhìn" nguyên vật trong lúc quay. Lúc ấy, trước mắt chúng ta sẽ hiện ra những cảnh tượng tự nhiên.
-Nhưng làm thế nào để tìm được khoảng cách phù hợp với góc trông tốt nhất ấy? Muốn thế, cần phải chọn một chỗ ngồi trước hết đối diện với chính giữa tấm ảnh, và hai nữa, tiêu cự của vật kính lớn hơn chiều rộng của cuốn phim bao nhiêu lần thì chỗ ngồi đó phải cách màn ảnh một khoảng lớn hơn chiều rộng của ảnh bấy nhiêu lần.
-Để quay phim, nói chung người ta thường dùng những ống kính có tiêu cự 35 mm, 50 mm, 75 mm, 100 mm, tùy theo đặc điểm của đối tượng được quay. Chiều rộng tiêu chuẩn của cuộn phim thường là 24 cm. Vậy, đối với tiêu cự là 75 mm chẳng hạn, thì sẽ được
-Khoảng cách phải tìm/chiều rộng của tranh = tiêu cự/chiều rộng cuốn phim = 75/24, cho kết quả gần bằng 3.
-Vậy là muốn tìm khoảng cách từ chỗ ngồi tốt nhất tới màn ảnh trong trường hợp này, ta chỉ việc nhân chiều rộng của hình trên màn ảnh với 3 là được. Giả sử chiều rộng của hình trên màn ảnh là 6 bước thì chỗ ngồi xem phim tốt nhất phải là cách màn ảnh 18 bước.
-

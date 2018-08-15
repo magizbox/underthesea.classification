@@ -1,6 +1,0 @@
-Nhật hướng tới siêu máy tính mới trong vòng 5 năm
-Cường quốc công nghệ châu Á dự định từ nay đến 2010 sẽ phát triển một supercomputer mà họ hy vọng sẽ đủ mạnh để giành lại ngôi vị số 1 đã mất vào tay các nhà phát triển siêu máy tính Mỹ năm ngoái.
-Chính phủ Nhật muốn xây dựng một hệ thống có khả năng xử lý 1.000.000 4 phép tính/giây vào cuối năm tài chính kết thúc vào tháng 3/2011. Tốc độ này vượt xa mức 135,5 nghìn tỷ phép tính/giây trong các cuộc kiểm tra độc lập tiến hành đầu năm nay đối với máy Blue Gene/L của IBM, hiện là siêu máy tính mạnh nhất thế giới, được thiết kế cho Cơ quan an ninh hạt nhân quốc gia thuộc Bộ năng lượng Mỹ. 
-Hệ thống mạnh nhất của Nhật hiện nay là Earth Simulator của hãng NEC, có tốc độ gần 36 nghìn tỷ phép tính/giây. Cỗ máy này giữ được vị trí số 1 thế giới đến năm ngoái thì bị 2 supercomputer mới là SGI và Blue Gene/L hạ bệ.
-Vài năm trở lại đây, Mỹ và Nhật đang ganh đua nhau trong lĩnh vực siêu máy tính phục vụ cho nghiên cứu khoa học, dự báo thời tiết và nhiều công tác khác.
-

@@ -1,8 +1,0 @@
-Dự thi TTVN 2004: Tư liệu các dân tộc VN trên CDROM
-Nặng lòng với văn hóa truyền thống VN cùng niềm ham mê tin học sẵn có, ba thành viên nhóm Namsoft gồm Phạm Hoàng Nam, Lê Văn Lập, Phạm Minh Huyền đã xây dựng thành công sản phẩm phần mềm Đại gia đình các dân tộc Việt Nam. 
-Thành viên nữ duy nhất, Phạm Minh Huyền năm nay vừa tròn 16 tuổi, là người khởi xướng đề tài đồng thời là thành viên có nhiều cảm hứng sáng tạo trong nhóm. Huyền kể: "Suốt 3 tháng khảo sát thu thập tư liệu, 5 tháng phát triển sản phẩm, chúng tôi đã nhận được sự ủng hộ nhiệt tình của Ban lãnh đạo Cao đẳng công nghiệp Hà Nội, nơi các thành viên đang công tác và Viện bảo tàng dân tộc học VN". 
-Phiên bản mới nhất 2.0 phát triển trên .Net FrameWork được Namsoft viết dành riêng cho cuộc thi Trí tuệ Việt Nam năm nay. "Vận dụng khả năng diễn đạt thông tin đa phương tiện của máy tính, sản phẩm Đại gia đình các dân tộc Việt Nam trên CDROM mang lại cho người xem những khoảnh khắc sống động trong âm thanh và hình ảnh về con người và văn hóa Việt", Huyền tả.
-Huyền cho biết về phần nội dung, sản phẩm này là cả một kho tư liệu đồ sộ trải rộng từ tổng quát đến chi tiết về cộng đồng 54 dân tộc anh em. Thông qua những ý tưởng nghệ thuật, nhóm muốn gửi gắm những nét văn hóa thuần Việt đặc sắc cho từng chi tiết của sản phẩm. Ngoài ra phần mềm cũng cung cấp thêm một số tiện ích phục vụ cho công tác triển lãm của bảo tàng.
-Huyền tự hào: "Hiện tại, sản phẩm của chúng tôi là duy nhất trên thị trường khai thác mảng đề tài giới thiệu cộng đồng dân tộc VN. Trong tương lai, nhóm sẽ bổ sung và làm phong phú thêm tư liệu về dân tộc học nhằm tiến tới thương mại hóa sản phẩm".
-Namsoft hy vọng sản phẩm sẽ chính thức được Viện Bảo tàng Dân tộc học VN công nhận và khai thác.
-

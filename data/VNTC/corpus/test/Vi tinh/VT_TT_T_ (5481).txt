@@ -1,6 +1,0 @@
- Khóa thay đổi ngày giờ máy tính với Clock Guard 
-Thật ra điều đó thật đơn giản, bạn chỉ cần cài đặt chương trình Clock Guard vào máy. Cũng cần nói thêm đây là chương trình chuyên khóa đồng hồ hệ thống của Windows, không cho bất cứ ai thay đổi ngày giờ nếu không có mật khẩu. Lần đầu tiên khi cài đặt chương trình vào máy, bạn sẽ được hỏi nhập vào mật khẩu. 
-Bạn nhập mật khẩu vào ô Input Password (nhớ đánh dấu chọn mục Conceal password while typing trước khi gõ mật khẩu, nếu không mật khẩu của bạn sẽ hiện rõ trên màn hình cho mọi người nhìn thấy hết!). Sau đó nhấn OK . 
-Ở màn hình kế tiếp, bạn chọn mục Block Date/Time Properties Windows and Lock Clock . Nhấn OK . Và bây giờ bạn có thể yên tâm rồi đó, không ai có thể sửa ngày giờ trong Windows nếu không biết mật khẩu “giải mã”. 
-Clock Guard 3.3.0 tương thích với mọi Windows (Windows 95/98/ME/NT/2000/XP). Bạn có thể xem thông tin và tải bản dùng thử 30 ngày của chương trình về từ địa chỉ http://leithauserresearch.com/ (dung lượng 490 KB) hay tìm mua tại các cửa hàng bán CD Software. 
-

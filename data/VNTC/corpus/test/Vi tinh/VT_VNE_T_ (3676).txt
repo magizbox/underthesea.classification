@@ -1,8 +1,0 @@
-Giao thức SSH đánh dấu 10 năm phát triển
-Tháng 7/1995, nhà phát triển phần mềm Tatu Ylonen người Phần Lan công bố lên mạng thông tin bảo mật Bugtraq phiên bản Secure Shell (SSH) 1.0. Đánh giá vai trò của SSH, nhiều chuyên gia cho rằng thật khó tưởng tượng một thế giới công nghệ thông tin mà không có sự hiện diện của công cụ này. 
-Trong lời giới thiệu về SSH, công cụ được dùng trong việc quản trị từ xa các hệ thống Unix phổ biến nhất hiện nay, tác giả Ylonen viết: Bạn muốn tìm một cơ chế đăng nhập an toàn rlogin? Hay muốn ngăn chặn sự giả mạo địa chỉ IP, giả mạo tên miền và định tuyến? Muốn chạy kết nối X11 và các cổng TCP/IP an toàn qua một mạng không an toàn? Lo lắng về độ bí mật thông tin cá nhân? Hãy đọc cái này.
-Cũng trong năm 1995, Ylonen thành lập một công ty có tên SSH Communications Security Corp để tiếp tục phát triển SSH và các giải pháp mạng khác.
-Hiện nay, có một số phiên bản SSH khác nhau cho tất cả các nền ứng dụng, trong đó OpenSSH, phát hành năm 1999, là phiên bản nổi tiếng nhất và được dùng rộng rãi nhất, chiếm tới 88% mức độ triển khai trên thực tế (thống kê tháng 7/2004). 
-Kết luận chung về ảnh hưởng của SSH nhân dịp kỷ niệm 10 công cụ này ra đời, nhà phân tích Karl Miller (Australia) phát biểu: Nếu không có nó thì nhất định một thứ tương tự cũng đã phải ra đời.
-Theo Miller, giấy phép cho SSH ban đầu rất cởi mở nhưng dần dần trở nên hạn chế hơn. Tuy nhiên, dự án OpenSSH đã áp dụng phiên bản cuối cùng với giấy phép tự do - bản 1.2.12 - và một bản nâng cấp có chỉnh sửa và dọn dẹp nhiều. Năm 2001, nhà phát minh Ylonen từng cố tác động để OpenSSH bỏ cụm chữ SSH khỏi cái tên của nó nhưng không thành công.
-

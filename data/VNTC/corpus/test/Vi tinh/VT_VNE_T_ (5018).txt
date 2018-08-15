@@ -1,7 +1,0 @@
-I-O Data xin lỗi về sự cố Trojan trong ổ cứng
-Hãng sản xuất thiết bị ngoại vi Nhật Bản đang tiến hành đổi lại sản phẩm sau khi phát hiện hàng loạt đĩa cứng mà họ đã xuất xưởng có chứa mã nguy hiểm.
-Những ổ đĩa cứng lưu động thuộc dòng HDP-U của I-O Data có thể đã bị nhiễm Tompai.A, một loại sâu có khả năng mở cổng hậu, tạo cơ hội cho hacker khống chế hệ thống.
-Những sản phẩm bị ảnh hưởng nằm trong serie: 4957180059693 HDP-U40 YBS0000001xx - YBS0005520xx, 4957180059709 HDP-U60 YBT0000001xx - YBT0001000xx và 4957180059716 HDP-U80 YBV0000001xx - YBV0002480xx. 
-Có lẽ, máy tính của một chuyên gia phát triển trình điều khiển đĩa cứng của I-O Data trước đó đã bị nhiễm virus và phần mềm nguy hiểm đó đã thâm nhập vào hàng loạt sản phẩm của hãng này. I-O Data cam kết sẽ thắt chặt quá trình sản xuất để tránh lặp lại vấn đề lần thứ hai.
-HP, IBM và đặc biệt là Dell cũng từng gặp tại nạn tương tự trước đây. Năm 1999, nhiều hệ thống máy tính của Dell tại châu Âu đã bị trục trặc trong 4 ngày do nhiễm chương trình FunLove - một virus Windows không độc hại nhưng rất khó xóa bỏ.
-

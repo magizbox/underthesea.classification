@@ -1,6 +1,0 @@
-Để cài được phần mềm đóng băng ổ cứng (1)
-Các anh các chị cho tôi hỏi 1 chút nhé, phần mềm deep free (đóng băng ổ cứng) của tôi đang hoạt động thì bỗng nhiên không hoạt động được nữa. Khi tôi gỡ bỏ nó đi để cài lại thì lại không cài được mà báo lỗi. Vậy mong mọi người giúp tôi trả lời câu hỏi này. 
-Tôi xin chân thành cảm ơn. Nguyen Huy Tung
-Hồi âm:
-Chương trình bạn dùng là bản miễn phí của Faronics (không nhớ chắc chính xác tên - lâu không dùng chương trình này nên ko nhớ chắc lắm) chỉ cho dùng 60 ngày, sau 60 ngày sẽ khôngo dùng được nữa. Bạn nói cho tôi xem bạn muốn đóng băng ổ nào (ổ C, D, E ... hoặc C và E, D và F ...), gửi về địa chỉ email của tôi, tôi sẽ gửi cho bạn file cài đặt tương ứng (dùng thoả mái, bao lâu cũng được). À quên, nếu bạn muốn chỉnh sửa được giờ hệ thống khi đang chạy Deep Freeze thì nói luôn (bản bạn đang dùng không cho phép thay đổi ngày, giờ hệ thống - trừ phi bạn vào bios để thay đổi).
-

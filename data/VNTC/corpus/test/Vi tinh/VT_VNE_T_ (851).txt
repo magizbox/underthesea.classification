@@ -1,6 +1,0 @@
-Phần mềm chơi nhạc nhiều tiện ích Quintessential Player 
-Nếu bạn đang tìm kiếm một phần mềm miễn phí có dung lượng nhỏ với nhiều tính năng cho phép bạn chơi hầu hết các định dạng audio và video, rip đĩa CD và chuyển đổi sang file MP3, Quintessential Player chính là chương trình dành cho bạn.
-Quintessential Player có khả năng tùy biến rất cao, cho phép bạn lựa chọn một giao diện từ đơn giản nhất để tiết kiệm không gian màn hình tới cực kỳ phức tạp với vô số tính năng thuận tiện. Ngoài ra, bạn còn có thể bổ sung hàng loạt hiệu ứng hình ảnh, chức năng thư viện, DSP filter, các gói ngôn ngữ và các plug-in để mở rộng khả năng của chương trình. 
-Quintessential Player hỗ trợ hầu hết định dạng audio chính, bao gồm MP3, MP3 Pro, Ogg Vorbis, WAV, và Windows Media. Nếu cài đặt đủ plug-ins và codec cần thiết, bạn sẽ chơi được cả các file video như AVI, MPEG, RM... Đặc biệt, chương trình còn cho phép bạn nghe radio trực tuyến và ghi lại âm thanh streaming từ các trạm phát như Shoutcast và Icecast.
-Phiên bản 4.5 hỗ trợ video, nhiều kiểu plug-in mới, cải thiện chức năng rip và encode đĩa CD, chơi lại file audio trong khi rip đĩa, cùng với giao diện mới cập nhật. Quintessential Player thực sự là một phần mềm chơi nhạc hàng đầu hiện nay với sự hiệu quả, ổn định và linh hoạt ít thấy. Bạn có thể tải chương trình tại đây.
-

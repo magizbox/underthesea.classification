@@ -1,6 +1,0 @@
-Bí mật hạt nhân bị rò rỉ bởi virus máy tính
-Thông tin bị rò rỉ bao gồm hơn 40 MB những báo cáo bí mật có liên quan đến một vài nhà máy điện hạt nhân của Nhật Bản từ năm 2003 đến nay. Và ngay lập tức chúng được phát tán lên mạng.
-Ngoài ra còn có những bức ảnh bên trong nhà máy điện hạt nhân. Tên và địa chỉ của các kĩ sư trong nhà máy cũng bị đánh cắp. Nhà chức trách Nhật Bản khẳng định rằng thông tin bị rò rỉ không liên quan trực tiếp đến những phần quan trọng nhất của hệ thống hạt nhân.
-Theo tập đoàn Mitsubishi, sự việc xảy ra khi một kĩ sư 30 tuổi thuộc công ty con Electric Plant Engineering (MPE) của tập đoàn này sử dụng máy tính cá nhân để truyền file qua mạng chia sẻ file ngang hàng Winny (Winny là một trong những mạng chia sẻ file phổ biến ở Nhật Bản với hơn 250.000 người sử dụng). Máy tính của anh ta bị nhiễm một virus cho phép người dùng Winy ở ngoài Nhật Bản truy cập và lấy đi những thông tin nhạy cảm của công ty. 
-Graham Cluley, cố vấn kĩ thuật cao cấp của Sophos, phát biểu: Điều đáng lo là sự việc liên quan một nhà máy điện nguyên tử. Đây cũng là một lời cảnh báo nghiêm khắc đối với các công ty về vấn đề bảo mật máy tính.
-

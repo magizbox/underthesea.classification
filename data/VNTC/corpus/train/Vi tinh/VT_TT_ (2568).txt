@@ -1,5 +1,0 @@
- Các mạng di động phải tăng dung lượng tổng đài
-Đây là giải pháp cấp thời trước tình trạng trục trặc của các mạng di động (nghẽn mạng, lặp tin nhắn) trong thời gian qua. 
-Đối với hai mạng di động lớn nhất hiện nay là Vinaphone và MobiFone, Tổng công ty Bưu chính - viễn thông VN (VNPT) đã chỉ đạo hai mạng di động này mở rộng gấp đôi dung lượng tổng đài nhắn tin trong dịp tết, đảm bảo tin nhắn không bị nghẽn, không bị lặp. VNPT cũng khuyến cáo khách hàng nên tắt chức năng báo cáo việc gửi tin trên máy di động để hệ thống mạng bớt quá tải, giúp việc gửi tin được dễ dàng hơn. 
-Dự báo trước khả năng nghẽn mạng trong thời điểm giáp tết, mạng di động MobiFone chính thức khuyến cáo khách hàng chỉ nên thực hiện cuộc gọi hoặc nhắn tin nếu thật sự có nhu cầu vào giờ cao điểm của thời gian giáp tết. Trong trường hợp cuộc gọi hay tin nhắn không thực hiện được, khách hàng nên gọi vào thời điểm khác, không nên gọi lại hoặc nhắn tin lại để tình trạng nghẽn mạng không trầm trọng thêm. 
-

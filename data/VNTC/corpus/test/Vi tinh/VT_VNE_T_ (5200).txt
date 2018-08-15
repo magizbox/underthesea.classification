@@ -1,7 +1,0 @@
-HP trình làng 'phòng họp ảo'
-Hệ thống Halo Collaboration Studio của Hewlett-Packard tạo môi trường thuận lợi cho phép mọi người có thể nhìn thấy nhau, nói chuyện và điều hành từ xa như thể họ vẫn đang ở trong cùng một phòng. 
-Phòng Halo có thể chứa tối đa 6 người ngồi quanh bàn, đối diện với đồng nghiệp qua 4 màn hình plasma 50 inch (127 cm). Máy quay được đặt sát màn hình nhằm tạo cảm giác như người nói đang nhìn trực tiếp vào người ở địa điểm phía bên kia. HP đã hạn chế sự cố ngắt quãng đường truyền và tránh ảnh hưởng đến mạng Internet công cộng.
-Sản phẩm hợp tác cùng với hãng DreamWorks này chủ yếu phục vụ những tập đoàn lớn. Nó giúp các công ty tiết kiệm thời gian và chi phí bay từ địa điểm này đến một thành phố khác. Mỗi phòng ảo giá khoảng 550.000 USD và lệ phí 18.000 USD/tháng.
-Jeffrey Katzenberg, Giám đốc điều hành DreamWorks, cho biết ý tưởng xây dựng hệ thống bắt đầu được hình thành sau vụ 11/9 ở Mỹ. Sự kiện đó đã khiến ngành hàng không phải cắt giảm hàng loạt chuyến bay, an ninh lộn xộn và việc đi lại trở thành một vấn đề nan giải. Hai khách hàng lớn chấp thuận sử dụng công nghệ của HP là PepsiCo và AMD.
-Tuy nhiên, phòng họp video không phải là sản phẩm mới mẻ. Công ty Teliris được thành lập năm 2002 ở Anh cũng đã phát triển mô hình tương tự. "Những gì Hewlett-Packard vừa giới thiệu lạc hậu hơn sản phẩm mới của chúng tôi đến 2 thế hệ", Marc Trachtenberg, Giám đốc điều hành Teliris, nhận xét. "Phòng ảo của Teliris tinh xảo hơn về mặt kỹ thuật, nhiều tính năng và giá thành thấp hơn tới một nửa".
-

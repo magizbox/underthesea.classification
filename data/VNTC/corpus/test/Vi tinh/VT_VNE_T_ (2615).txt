@@ -1,7 +1,0 @@
-Lỗi ICMP ảnh hưởng sản phẩm của một loạt nhà cung cấp
-Các ISP và doanh nghiệp được cảnh báo nên nâng cấp hạ tầng liên lạc Internet sau khi người ta phát hiện khiếm khuyết với nhiều mức độ khác nhau trong sản phẩm của các công ty lớn như Cisco, Juniper, Microsoft và IBM.
-Một số chuyên gia bảo mật nhận thấy quy trình thực hiện TCP/IP không thể xác thực một cách đầy đủ các thông báo lỗi của giao thức Internet Control Message Protocol (ICMP). Do đó, hacker có thể cài đặt lại (reset) hoặc làm chậm kết nối đã thiết lập bằng cách sử dụng những thông báo lỗi ICMP giả mạo.
-Các ứng dụng phụ thuộc vào kết nối TCP thông lượng cao hoặc thấp nhưng kéo dài bị nguy cơ lớn nhất từ những vụ tấn công này. Để giả mạo một thông báo ICMP, hacker chỉ cần biết hoặc đoán ra cổng TCP nguồn và đích đến. Trung tâm an ninh mạng CERT (Mỹ) cảnh báo các đường truyền Border Gateway Protocol (BGP) cũng nằm trong nhóm bị nguy cơ tấn công nhiều nhất. BGP được sử dụng để cung cấp những thông tin định tuyến quan trọng. Một cuộc tấn công kéo dài nhắm vào các router bị lỗi chạy giao thức này có thể tác động rất xấu đến mạng đang hoạt động. 
-Các quản trị viên được khuyến cáo nên nâng cấp hoặc cài bản sửa lỗi ngay (nếu có) còn người sử dụng đầu cuối cần tìm cách lọc các thông báo ICMP dưới dạng work-around.
-Xem danh sách các sản phẩm bị ảnh hưởng và cảnh báo an ninh liên quan tại đây.
-

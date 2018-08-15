@@ -1,5 +1,0 @@
-Các nhà khoa học tại Viện công nghệ Georgia (Mỹ) đang nghiên cứu phương pháp chuyển đổi năng lượng từ những chuyển động và đàn hồi của cơ bắp thành nguồn điện linh hoạt hơn so với công nghệ truyền thống như pin.
-Những sợi dây nano làm từ oxit kẽm, không độc hại và an toàn với con người, sẽ được cấy vào cơ thể. Mỗi khi sợi nano bị uốn cong và co giãn, nó sẽ sản sinh điện, tức bất cứ ai cũng có thể tạo ra nguồn năng lượng chỉ cần bằng cách di chuyển hay vận động cơ bắp.
-Chuyên gia nghiên cứu Zhong Lin Wang và sinh viên Jinhui Song tại viện Georgia đã xây dựng thành công một mẫu phát điện nano (nanogenerator) mô phỏng. Wang khẳng định nó đủ nhỏ để không làm trở ngại hay gây khó chịu cho con người.
-Theo Wang, ứng dụng đầu tiên cho công nghệ này sẽ là trong quân đội. Các bộ phát điện nano sẽ được cài trong giày của các quân nhân, giúp họ không cần mang theo pin để nạp năng lượng cho thiết bị điện tử mỗi khi hành quân.
-

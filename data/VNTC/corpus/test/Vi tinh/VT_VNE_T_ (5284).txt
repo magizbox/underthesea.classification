@@ -1,6 +1,0 @@
-HP mở trung tâm dịch vụ điện toán tiện ích
-Hệ thống này cho phép khách hàng truy cập và sử dụng các nguồn tài nguyên máy tính chuyên dụng hiện có của HP với nhiều mức giá dịch vụ khác nhau.
-Thông qua hệ thống có tên Dịch vụ điện toán linh hoạt (Flexible Computing Services), các doanh nghiệp có thể nhanh chóng khai thác thêm được nhiều nguồn tài nguyên CNTT khi cần thiết. Với giá thành tính theo đơn vị sử dụng, dịch vụ thích hợp cho khách hàng có nhu cầu về điện toán chuyên sâu vượt quá khả năng cung cấp của hệ thống họ hiện có.
-Flexible Computing Services cung cấp khả năng tính toán dựa trên tất cả các nền tảng công nghệ, từ 32 bit đến 64 bit, bao gồm hệ thống máy chủ HP ProLiant sử dụng bộ vi xử lý Intel Xeon và AMD Opteron và máy chủ HP Integrity sử dụng bộ vi xử lý Intel Itanium. Những server này có thể chạy với hầu hết hệ điều hành và ứng dụng phổ biến hiện nay. 
-Các dịch vụ mới được thiết kế dành cho các ngành dầu khí, dịch vụ tài chính, chăm sóc sức khỏe cũng như những nhà cung cấp phần mềm độc lập cần kiểm tra phần mềm trên kiến trúc máy tính lớn trước khi tung ra sản phẩm. Xem thêm về dịch vụ điện toán tiện ích của HP tại www.hp.com/go/utility.
-

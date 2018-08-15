@@ -1,7 +1,0 @@
-Hỏi về thiết kế website (1)
-Hiện nay tôi đang tập thiết kế website, tôi dùng Frontpage XP. Nhưng tôi có một vấn đề rất khó chịu mà lâu lắm rồi không khắc phục được, vì là tự học theo tài liệu trên mạng nên lắm lúc có câu hỏi chẳng biết hỏi ai.Khi tôi thiết kế một trang riêng biệt và dùng định dạng bằng bảng. Khi làm trong chế độ normal thi tất cả đều bình thường, nhưng khi dùng preview hoặc upload lên host và xem trên trình duyệt thì nó không như ý muốn của tôi. Cứ lệch lạc làm sao ý! ví dụ khi chuyển từ trang Vidu1 sang Vidu2 thi những phần cố định như banner, header và navigation cứ bị lệch đi khoảng 3,4 px. Tôi đã thử view source của rất nhiều trang web dưới chế độ HTML để tham khảo, nhưng cũng không sao định dạng cho nó được.Lấy ví dụ trang trang vnexpress này! khi mình chuyển từ Trang Chủ sang Thế Giới, thì những phần cố định nhu banner và các bảng không bị lệch gì. Nhưng của tôi nó cứ chạy lung tung. Ai có thể cho tôi thêm chút kinh nghiệm không? Cảm ơn rất nhiều.
-Cong Thanh
-Hồi âm:
-Chào bạn. Có rất nhiều vấn đề ảnh hưởng đến các element của trang web. Chi tiết hơn bạn có thể vào trang http://www.vncoder.comđể trao đổi.     
-http://www.vncoder.comlà một diễn đàn của các LTV Việt Nam.
-

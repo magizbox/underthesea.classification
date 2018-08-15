@@ -1,7 +1,0 @@
-Alexa 'mở cửa' danh mục tìm kiếm
-Bản thử nghiệm nền tảng tìm kiếm web (Alexa Web Search Platform Beta) về cơ bản cho phép các chuyên viên phát triển thâm nhập vào trong danh mục 4 tỷ trang web của công ty để lựa chọn dữ liệu và tạo công cụ search riêng.
-Quyết định mở rộng cơ sở hạ tầng hệ thống đánh giá website Alexa của Amazon.com sẽ tạo điều kiện cho mọi người xây dựng những công cụ tìm kiếm giá rẻ. Các nhà phát triển sẽ có cơ hội đẩy nhanh quá trình phát triển ứng dụng search với công nghệ dò tìm, lưu trữ và xử lý của Alexa. Cước phí được thu dựa trên mức độ sử dụng dung lượng và băng thông.
-"Nhiều doanh nhân gặp lúng túng do thiếu thông tin và một công cụ đánh giá chính xác. Hiện giờ, chỉ với chi phí thấp hơn một máy nghe nhạc iPod, họ có thể thâm nhập toàn bộ trường tìm kiếm và bắt đầu tự điều chỉnh theo ý muốn", Geoffrey Mack, Giám đốc sản xuất của Alexa, khẳng định. 
-Ý tưởng này đã được một vài công ty thử nghiệm từ năm 2000 nhưng không thành công. Những chương trình đó thất bại đúng vào giai đoạn khủng hoảng dotcom và khi đó chưa xuất hiện thị trường tìm kiếm chiều sâu hay dịch vụ quảng cáo qua search.
-Theo Danny Sullivan, biên tập viên của hệ thống Search Engine Watch (Mỹ), hiện nay cũng có một số nhà cung cấp phát hành dịch vụ tương tự Alexa miễn phí như Rollyo và Gigablast. 
-

@@ -1,3 +1,0 @@
-Công ty phát triển công nghệ và thị trường Expedite Media Group vừa tung ra một phần mềm mới có tên gọi là Thần hộ mệnh, giúp các bậc phụ huynh biết được vị trí con mình từ xa thông qua một trang web bảo mật.
-Phần mềm này, được cài trực tiếp vào điện thoại di động của trẻ, cứ mỗi 7 giây sẽ trao đổi thông tin với các vệ tinh định vị toàn cầu và truyền dữ liệu vào một trang web để các bậc cha mẹ có thể biết được vị trí, hướng di chuyển cũng như tốc độ lái xe của trẻ. Thần hộ mệnh cũng có thể được sử dụng trong các công ty cho thuê mướn xe, giúp người quản lý nắm trong tay vị trí chính xác của từng chiếc xe và từ đó dễ dàng lên lịch điều động xe.
-

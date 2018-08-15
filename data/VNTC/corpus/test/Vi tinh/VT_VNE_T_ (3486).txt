@@ -1,8 +1,0 @@
-Sắp có thanh công cụ GoogleBar cho Firefox
-Theo thông tin từ một e-mail đăng trên trang web của Mozilla, điểm dừng tiếp theo cho thanh công cụ của Google là trình duyệt của tổ chức phần mềm mã mở này.
-E-mail gửi ngày 1/7 được ký tên Fritz Schneider, kỹ sư của Google, có đoạn: "Tôi nghĩ mọi người nên để mắt đến một phần mềm mới mà Google sẽ giới thiệu trong tuần tới: thanh công cụ dành cho Internet Explorer (IE) chuẩn bị xuất hiện trong Firefox. Phiên bản này sẽ có mặt vào thứ 5, ngày 7/7".
-GoogleBar là một dự án độc lập, mang đến cho người dùng Firefox đầy đủ mọi đặc điểm mà thanh công cụ Google hiện có. Thanh công cụ này sẽ hoạt động với Windows 2000 và XP của Microsoft, Mac OS X 10.2 và những phiên bản Linux 8.0 trở lên, với khả năng tìm kiếm chuyên nghiệp, truy cập nhanh tới nhiều tính năng cao cấp của Google như kiểm tra lỗi chính tả hay phần mềm biên dịch. 
-"Công cụ này tương đối giống với bản dành cho IE mới nhất trừ việc chặn pop-up", Fritz cho biết. Tính năng chặn pop-up đã được tích hợp từ lâu trong Firefox.
-Mặc dù thanh công cụ Google đã xuất hiện trên IE hơn 4 năm, đây là lần đầu tiên hãng tìm kiếm khổng lồ này giới thiệu một phiên bản cho người dùng trình duyệt được phát triển bởi Mozilla. Việc ra mắt GoogleBar cho thấy hãng đã thừa nhận sự thâm nhập ngày càng sâu của trình duyệt mã mở. 
-Hãng đối thủ cạnh tranh của Google và Microsoft là Yahoo đã ra mắt thanh công cụ cho Firefox từ hồi tháng 2.
-

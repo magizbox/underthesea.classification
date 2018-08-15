@@ -1,7 +1,0 @@
-ICANN phản ứng đơn kiện của VeriSign
-Tổ chức tên miền quốc tế hôm 5/4 gửi hồ sơ đòi tòa án liên bang Mỹ bác bỏ hầu hết những cáo buộc trong đơn kiện của hãng dịch vụ Internet. Họ cho rằng những gì mà VeriSign nêu ra chưa thực sự chín muồi để một cơ quan pháp luật xem xét.
-ICANN nhất định cho rằng vấn đề chỉ là bất đồng xoay quanh cách hiểu đối với một hợp đồng giữa họ và VeriSign chứ hoàn toàn không phải là độc quyền hay vi phạm thỏa thuận. Tổ chức này đề xuất cả hai bên trước hết phải làm rõ cách tiếp cận và diễn giải những giao kết trong hợp đồng này. 
-VeriSign thì vẫn khăng khăng rằng ICANN đã cố tình thao túng vai trò điều hành hệ thống tên miền và ngăn cản việc triển khai những dịch vụ mới như các tên miền được quốc tế hóa và một dịch vụ truy hồi tên miền (Site Finder). VeriSign tin rằng những dịch vụ này sẽ rất hữu ích cho người sử dụng và đồng thời thúc đẩy sự phát triển của Internet.
-VeriSign hiện là đơn vị quản lý cơ sở dữ liệu chủ yếu của tên miền .com và .net. Tháng 2 năm nay, họ phát đơn kiện ICANN với lý do cơ quan quản lý hệ thống tên miền web đã cố tình can thiệp vào hoạt động của họ và vi phạm một thỏa thuận giữa hai bên. 
-Một ngày sau khi VeriSign phát đơn kiện ICANN, một nhóm 8 đơn vị quản lý tên miền khác đồng loạt có hành động tương tự với VeriSign, nhằm mục tiêu không cho dịch vụ truy hồi tên miền nói trên đi vào hoạt động. Họ nhấn mạnh rằng đây chỉ là một công cụ nhằm lừa bịp người sử dụng mua những tên miền mà sẽ không bao giờ có thể đăng ký được.
-

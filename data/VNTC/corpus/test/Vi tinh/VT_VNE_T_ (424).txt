@@ -1,6 +1,0 @@
-Bổ sung thêm chương trình vào VKLinux (1)
-Toi co chuong trinh VietkeyLinux 3.0 cua Viet Khang. Tuy nhien co 1 so chuong trinh can thiet de phat trien them he thong nhu C++ hay cac Kerel ma trong Viet Key Linux khong co. Vi vay toi muon bo sung them cac package cua mot so cac Linux khac nhu Redhat LInux 7.1 VN nhung toi khong cho vao duoc. Mong cac ban chi giup. Cam on rat nhieu!
-hanhhd
-Hồi âm:
-Do Vietkey 3.0 su dung cac Kernel va cac thu vien co Version cao hon Linux 7.1 Vi the viec ban cai mot so goi RPM tu linux 7.1 vao Vietkey 3.0 tat nhien la khong duoc. Dieu nay la do Linux khong co tinh tuong thich nguoc.Toi co de nghi nhu sau: neu ban can Package nao de cai dat thi ban co de download ma nguon phien ban moi nhat tu Internet tien hanh dich roi cai dat vao may. Neu ban khong quen voi cach cai dat nay. Ban hay thu RPM cua cac phien ban khac nhu Redhat 8 Redhat 9.Chuc ban thanh cong.
-

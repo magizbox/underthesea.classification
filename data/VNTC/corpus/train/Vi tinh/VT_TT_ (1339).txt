@@ -1,7 +1,0 @@
- Máy nghe nhạc Mulstick C635: Điệu đàng đón giáng sinh
-Ưu điểm của C635 là có thêm chức năng 2 khe cắm headphone cho phép 2 người nghe cùng lúc một bản nhạc, mà không cần phải tách mỗi người một loa như những dòng máy khác. 
-Chế độ thiết lập password bảo vệ thông tin cá nhân, cho phép lưu trữ bất cứ điều bí mật nào mà không sợ bị nhìn ngó. 
-Máy được thiết kế rất bắt mắt, rất nhỏ gọn (nặng 26g), được phối màu trắng và vàng cam nóng. Netac C635 đột phá về kiểu dáng lẫn chất lượng, nghe MP3/WMA/FM với chất lượng âm thanh cao, ghi âm trực tiếp từ FM nhanh hơn, ghi âm lời bài hát - âm thanh từ các nguồn nhạc: Walkman, Discman,DVD,... qua ngõ line-in. Màn hình LCD 7 màu, hiển thị lời bài hát khi phát định dạng file .LRC. Ngoài ra còn có phần mềm hỗ trợ học ngoại ngữ (A-B). 
-Mulstick C635 tương thích với Linux, Windows 98 trở lên, hoạt động ở tần số 20Hz-22KHz. Pin AAA ( có thể hoạt động trong 4 giờ), màn hình LCD 7 màu với đèn backlight. 
-Có 3 dung lượng tùy chọn:128MB/256MB/512MB với giá bán 72USD/92USB/112USD do Công ty DigiWorld phân phối độc quyền. 
-

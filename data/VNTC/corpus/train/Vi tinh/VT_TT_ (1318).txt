@@ -1,5 +1,0 @@
- Samsung SCH-i830 hoạt động trên 4 băng tần CDMA (EVDO) và GSM 
-Đây là Pocket PC đầu tiên sử dụng hệ điều hành Windows Mobile và có thể hoạt động tốt trên cả 4 băng tần CDMA (EVDO) 800/1900 và GSM 900/1800. Mặc dù dựa trên SCH-I730 nhưng I830 lại hoàn toàn biến mất tính năng Wi-Fi và camera, được thiết kế nắp trượt với bàn phím QWERTY. 
-SCH-I830 sử dụng CPU Intel Bulverde 520 MHz, màn hình 2.8-inch, hỗ trợ độ phân giải QVGA (240 x 320 pixel) 65 ngàn màu, bộ nhớ trong 64MB và 128MB bộ nhớ flash, kích thước 115 x 58 x 24 (mm). 
-Điểm nổi bật của sản phẩm này là khả năng hỗ trợ Bluetooth, khe cắm thẻ nhớ mở rộng SD/MMC, 2 loa Stereo với hệ thống âm thanh SRS TruSurround và speakerphone. Giá tham khảo: khoảng 820 USD 
-

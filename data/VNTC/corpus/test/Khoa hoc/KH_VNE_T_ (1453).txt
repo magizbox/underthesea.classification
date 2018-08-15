@@ -1,9 +1,0 @@
-Xe hơi đầu tiên làm từ phân tử
-Một nhóm nghiên cứu Đại học Rice (Texas, Mỹ) vừa thông báo đã phát triển thành công chiếc xe hơi - phân tử đầu tiên trên thế giới, vận hành trên một đường cao tốc hiển vi bằng vàng. 
-Chiếc xe tí hon này chẳng có ghế ngồi cũng như thiết bị lái truyền thống, nhưng nó là giải pháp thực sự cho những thành phố luôn bị tắc đường.
-"Việc chế tạo thành công một chiếc xe hơi phân tử đã đánh dấu bước tiến đầu tiên hướng tới việc sản xuất ở cấp độ vi mô", giáo sư James M Tour và cộng sự, tác giả công trình, nói.
-Chiếc xe hơi phân tử gồm một gầm và hai trục xe làm từ phenylene ethynylene với hệ thống xoay trung tâm và các trục xe quay tự do. Bánh xe là những quả cầu làm từ carbon nguyên chất (fullerene), mỗi bên chứa 60 nguyên tử. Chất xúc tác paladi được sử dụng để tạo ra phản ứng cần thiết nhằm gắn kết trục và gầm xe với nhau.
-Toàn bộ chiếc xe hơi chỉ có bề ngang 3-4 nanomét, rộng hơn chút xíu so với bề ngang của sợi ADN. Hãy hình dung một sợi tóc người còn có đường kính khoảng 80.000 nanomét.Công đoạn lắp ráp các trục và gầm xe chỉ trong 6 tháng, nhưng lắp bánh xe fullerene thì có khăn hơn nhiều, vì theo các nhà khoa học, vật liệu được sử dụng - fullerenes - không tương thích với các chất xúc tác chuyển kim loại. Tuy nhiên, khó khăn này cũng được khắc phục. 
-Nhóm nghiên cứu nhận thấy chiếc xe khá ổn định trên bề mặt, và vẫn đứng yên tại chỗ cho đến khi nhiệt độ bề mặt được làm nóng lên 170 độ C, có lẽ là nhờ lực bám dính tốt giữa các bánh xe và bề mặt bằng vàng bên dưới. Bề mặt bằng vàng này giúp chiếc xe lăn đi chứ không phải là trượt giống như trên băng. 
-Sau sản phẩm xe hơi, nhóm nghiên cứu đã thiết kế một chiếc xe đẩy nano có thể chuyên chở hàng hoá phân tử. Việc phát triển những thiết bị dạng này đã mở ra chân trời mới cho lĩnh vực hoạt động của công nghệ phân tử. 
-

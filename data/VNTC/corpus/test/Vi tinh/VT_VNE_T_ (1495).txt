@@ -1,8 +1,0 @@
-Chip PlayStation 3 mạnh gấp 10 hiện tại
-Sony, IBM và Toshiba vừa tiết lộ một số chi tiết về bộ vi xử lý sẽ được sử dụng trong máy chơi game PlayStation 3. Mang tên Cell, chip này có khả năng xử lý hàng nghìn tỷ phép tính mỗi giây.
-3 công ty đã bắt tay vào phát triển Cell từ năm 2001 nhưng trước đây, họ cung cấp rất ít thông tin về sự vận hành của nó. Theo thông báo chung được đưa ra hôm qua, chip này sẽ gồm một số lõi xử lý riêng rẽ thực hiện các tác vụ cùng nhau, nâng năng lực xử lý lên gấp 10 lần so với chip hiện tại. Khi được đặt vào các máy chủ mạnh, Cell có khả năng tính toán 16 nghìn tỷ phép tính mỗi giây. Nó cũng được thiết kế đặc biệt để có thể xử lý những chi tiết đồ họa tinh tế thường có trong trò chơi điện tử cũng như các yêu cầu về dữ liệu cho phim và tập tin đa phương tiện băng thông rộng.
-Tuy nhiên, đây mới chỉ là thông tin ban đầu, các chi tiết cụ thể sẽ được công bố vào tháng 2/2005 tại Hội thảo quốc tế về mạch thể rắn (Solid State Circuits) tại San Francisco (Mỹ).
-PlayStation 3 được dự kiến ra mắt vào năm 2006 nhưng các nhà phát triển hy vọng sẽ đưa ra được nguyên mẫu vào đầu năm tới để chuẩn bị cho các trò chơi sẽ xuất hiện đồng thời với thời điểm máy được đưa ra thị trường.
-IBM cho biết sẽ bắt đầu sản xuất Cell vào đầu năm 2005 tại các nhà máy ở Mỹ. Những thiết bị đầu tiên sử dụng loại chip này sẽ là máy trạm và máy chủ. Phiên bản đầu tiên có đầy đủ chức năng của PS3 sẽ ra mắt vào tháng 5/2005 nhưng loại máy chơi game thế hệ mới sẽ chỉ có thể có mặt trên thị trường sớm nhất vào đầu năm 2006.
-Ngoài việc tạo nên sức mạnh cho PlayStation 3, Cell còn được sử dụng trong tivi độ nét cao và máy tính cấu hình cao. 
-

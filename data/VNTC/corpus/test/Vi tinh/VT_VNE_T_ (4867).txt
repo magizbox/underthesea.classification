@@ -1,6 +1,0 @@
-Xóa chức năng tự hiện trong search bar (1)
-Làm ơn hãy chỉ tôi làm cách nào để xóa chức năng tự hiển thị những cái search cũ mình đã đánh vào. Vào trong tools, Internet option, content, autocomplete, xóa hết. Nhưng cái đó chỉ là tạm thời. Có cách nào khác để disable chức năng đó hoàn toàn không? Tôi đang xài Window XP Home Edition. Cảm ơn rất nhiều!
-Viet Nguyen
-Hồi âm:
-Bạn vào chỗ tương tự (chỗ mà bạn chọn "xoá hết" ý") và loại bỏ dấu chọn (uncheck) ở hộp "Forms" rồi nhấn OK. Bạn hay tìm những cái gì mà cần phải giữ bí mật vậy?
-

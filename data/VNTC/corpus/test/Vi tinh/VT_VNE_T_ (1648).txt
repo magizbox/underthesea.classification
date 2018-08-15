@@ -1,6 +1,0 @@
-Máy hay bị treo và báo lỗi (1)
-Dàn máy của tôi trước kia sử dụng chơi game rất ổn định nhưng từ khi chuyển sang truy cập Internet và chat thì hiện nay xuất hiện lỗi sau: thường xuyên treo máy hoặc chạy một số chương trình mà trước kia vẫn chạy thì máy báo lại lỗi "not egnough memory...." hoặc có lúc máy báo "An error database ......". Dàn máy của tôi có cấu hình là Pen III 850 và Celeron 1.8 MHz Ram 128. Tôi rất lúng túng trong vấn đề này không biết nguyên nhân vì đâu. Vậy tôi rất mong được hướng dẫn cách chữa trị. Chân thành cảm ơn.
-Vũ Hường
-Hồi âm:
-Có lẽ bạn phải thay thanh RAM đấy. Nếu dùng WinXP thì tốt nhất là mua thanh 256.
-

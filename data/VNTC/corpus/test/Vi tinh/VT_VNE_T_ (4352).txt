@@ -1,9 +1,0 @@
-Những e-mail lừa đảo từ... người quen trên Yahoo
-Trong nhiều ngày qua, một số người dùng Yahoo thường bất ngờ nhận được e-mail của bạn bè mời xem ảnh, nhưng khi được hỏi thì những người đó tỏ ra ngạc nhiên bởi họ không hề gửi đi bất cứ thư nào như thế.
-Chị D. Hằng, một phóng viên báo điện tử, cho biết: "Khi một người bạn hỏi tôi vừa gửi cho anh ta cái gì thế, tôi rất ngạc nhiên, tưởng là ai đó vô tình biết mật khẩu và sử dụng tài khoản của tôi để trêu đùa. Tuy nhiên, sau đó chính tôi cũng nhận được e-mail của anh bạn này nhưng anh ta cam đoan là không gửi gì cho tôi cả".
-Đây chính là phương pháp phishing kiểu mới tấn công vào khách hàng của hãng dịch vụ trực tuyến lớn nhất thế giới mà công ty phần mềm bảo mật Websense vừa công bố. 
-Khách hàng sẽ nhận được một tin nhắn nhanh hoặc e-mail từ địa chỉ của một người bạn nào đó với nội dung mời xem ảnh kỳ nghỉ hay buổi tiệc sinh nhật. Thông điệp chứa một liên kết dẫn đến site lừa đảo trông giống hệt Yahoo. Sau khi đăng nhập, tên và mật khẩu người dùng lập tức bị lưu lại, nhưng đặc biệt hơn, họ được đưa trở lại trang ảnh Yahoo Photos thật. Điều này sẽ khiến cho người sử dụng khó nhận ra là họ vừa bị lừa.
-Một điều khá thú vị nữa là trang phishing này hoạt động ngay trên máy chủ web miễn phí do dịch vụ Yahoo Geocities cung cấp. Websense cho rằng phạm vi ảnh hưởng của vụ lừa đảo này rất rộng và không thể ước tính được.
-Yahoo chưa đưa ra bất cứ bình luận nào về vấn đề này.
-Để đảm bảo an toàn, người dùng web ở Việt Nam nên cảnh giác khi nhận được e-mail từ địa chỉ quen thuộc nhưng có nội dung bằng tiếng Anh, và cần kiểm tra xem có đúng người đó gửi thư cho mình không.
-

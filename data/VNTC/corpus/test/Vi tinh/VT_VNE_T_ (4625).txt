@@ -1,6 +1,0 @@
-3 hacker khống chế tới 1,5 triệu máy tính
-Kết quả điều tra sau vụ bắt giữnhững kẻ tình nghi người Hà Lan ngày 6/10 cho thấy quy mô mạng máy tính bị chúng kiểm soát lớn hơn 15 lần so với ước tính ban đầu.
-Trước đây, cảnh sát Hà Lan đã phỏng đoán có khoảng 100.000 cỗ máy bị lợi dụng để thực hiện âm mưu bất chính và coi đó là mạng zombie lớn nhất bị phát hiện. Tuy nhiên, nhà chức trách đã lần ra tới 1,5 triệu máy tính và máy chủ bị nhiễm sâu Toxbot. Trong số đó, có hơn 30.000 PC đang hoạt động tại Hà Lan.
-Hệ thống máy tính ma (zombie) này hỗ trợ đắc lực cho việc gửi thư rác hoặc thực hiện tấn công từ chối dịch vụ DDoS. Cả 3 thủ phạm nói trên bị buộc tội tống tiền một công ty của Mỹ và đang lưu giữ một lượng lớn tài khoản ăn cắp trên hệ thống thanh toán trực tuyến PayPal và eBay để thực hiện giao dịch không mất tiền.
-Giới quan chức Hà Lan cho biết kẻ tình nghi 27 tuổi trong số 3 tên  đã được thả vì "lý do cá nhân" trong quá trình chờ phiên tòa sơ thẩm. Theo một số nguồn tin, lượng người bị bắt có thể sẽ không chỉ dừng lại ở con số 3 sau khi vụ án tiếp tục được mở rộng điều tra.
-

@@ -1,8 +1,0 @@
-IBM giới thiệu công cụ hạn chế tấn công nội bộ
-IBM vừa công bố phần mềm và dịch vụ hỗ trợ doanh nghiệp quản lý hệ thống hiệu quả hơn và duy trì an ninh mạng để tránh bị tấn công bất ngờ từ bên trong.
-Ngày 6/6 vừa qua, IBM đã tung ra bản nâng cấp 4.6 cho sản phẩm Tivoli Identity Manager. Chương trình này cho phép nhà quản lý kiểm soát những biến cố có thể xảy ra bên trong mạng, từ đó có thể thay đổi và đưa ra những nguyên tắc bảo mật mới. Ví dụ, trong một tình huống cụ thể, phần mềm có thể tự thay đổi chế độ bảo mật để tước đi quyền tiếp cận ứng dụng của một nhóm người dùng nhất định. 
-Tivoli Identity Manager 4.6 có thể đưa ra những thông báo tự động, cung cấp chi tiết thông tin về những tài khoản đã bị ngừng hoạt động, xác định quyền truy cập của người dùng, và nhiều vấn đề bảo mật khác. Từ đó, quản trị mạng có thể phát hiện sớm và dễ dàng khoanh vùng các trường hợp nghi vấn về hoạt động bất hợp pháp của một ID nào đó. 
-IBM cũng tuyên bố hợp tác cùng hãng quản lý định dạng Viisage để cung cấp dịch vụ giúp doanh nghiệp giảm nguy cơ bị tấn công từ bên trong qua mạng nội bộ. Viisage là công ty chuyên cung cấp công nghệ và dịch vụ xác nhận tính hợp lệ của ID và thông tin cá nhân của nhân viên qua những câu hỏi tự động về cơ sở dữ liệu khách hàng.
-Tivoli Identity Manager 4.6 được giới doanh nghiệp rất quan tâm do các chuyên gia an ninh mạng gần đây đã cảnh báo rằng những nhân viên bất mãn chính là hiểm họa lớn nhất với công ty. Khi họ bị khiển trách hoặc sa thải, họ sẽ làm mọi cách để trả thù.
-Phần mềm này sẽ có mặt trong quý III và giá thành tính theo số người dùng và số thiết bị xử lý trong mỗi mạng.
-

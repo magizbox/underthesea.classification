@@ -1,6 +1,0 @@
-Lỗi nghiêm trọng trong phần mềm bảo mật của Symantec
-Kẻ tấn công từ xa có thể giành quyền kiểm soát toàn bộ hệ thống máy tính đã được bảo vệ bởi chương trình chống virus của hãng bảo mật Mỹ mà không cần bất cứ sự tương tác nào từ phía người sử dụng.
-Để thực hiện âm mưu, kẻ tấn công gửi một lượng lớn dữ liệu với mục đích làm quá tải vùng lưu trữ đặc biệt trong bộ nhớ (heap). Thủ thuật này tương tự như phương pháp làm tràn bộ đệm, cho phép kẻ chủ mưu ghi chèn dữ liệu lên bộ nhớ hệ thống để chạy mã nguy hiểm. 
-Chuyên gia nghiên cứu độc lập Alex Wheeler cho biết nguy cơ xảy ra khi phần mềm Symantec quét file RAR, định dạng được sử dụng để lưu những tệp âm thanh và video lớn, trong e-mail để dò virus và sâu. Hệ thống sẽ bị tấn công ngay cả khi người dùng không mở thông điệp hay bấm vào file đính kèm. Wheeler khuyến nghị mọi người tắt tính năng quét tệp RAR cho đến khi Symantec cung cấp bản vá lỗi.
-Symantec cho biết họ sẽ nâng cấp Antivirus Software Library để sửa lỗ hổng này, đồng thời khẳng định chưa ghi nhận trường hợp bị khai thác nào. Chi tiết về bản cập nhật được đăng tại đây.
-

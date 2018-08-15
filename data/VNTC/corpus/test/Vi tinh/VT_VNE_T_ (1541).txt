@@ -1,6 +1,0 @@
-Người dùng FireFox không click quảng cáo nhiều bằng IE
-Hãng marketing trực tuyến Adtech AG (Đức) cho biết người sử dụng trình duyệt miễn phí của Mozilla bấm vào đường link quảng cáo trên các trang web ít hơn 5 lần so với những người dùng Internet Explorer (IE) của Microsoft.
-Qua phân tích 1.000 website và thói quen bấm tiếp vào các đường liên kết web của người sử dụng những trình duyệt khác nhau, công ty có trụ sở ở Frankfurt phát hiện ra rằng chỉ có 0,11% người dùng FireFox bấm vào các mục quảng cáo. Trong khi đó, khách hàng dùng Internet Explorer có tỷ lệ click từ 0,44% (đối với IE 6) tới 0,53% (đối với IE 5.5).
-Việc này có lẽ là do sự khác biệt về thói quen lướt web của người dùng FireFox và IE, bên cạnh nguyên nhân khách hàng dùng công cụ chống quảng cáo pop-up, Dirk Freytag, Giám đốc điều hành AdTech, nhận định. Trình duyệt FireFox của Mozilla tích hợp sẵn công cụ chặn cửa số quảng cáo xen ngang màn hình (pop-up) trong khi IE (ngoại trừ bản Windows XP SP2) lại không có.
-Adtech cũng cho biết thị phần của FireFox đã mở rộng nhanh chóng trong mấy tháng qua tại khu vực châu Âu, chiếm 5,5% tổng số trình duyệt được dùng (theo thống kê tính đến cuối tháng 11), tăng gấp đôi so với mức 2,2% của tháng 8. Hiện nay, 3 phiên bản Internet Explorer của Microsoft, IE 5, IE 5.5 và IE 6, chiếm xấp xỉ 90% thị trường phần mềm browser ở châu Âu.
-

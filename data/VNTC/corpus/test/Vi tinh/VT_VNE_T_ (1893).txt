@@ -1,7 +1,0 @@
-Tóm tác giả Trojan theo dõi webcam
-Cảnh sát Tây Ban Nha vừa bắt giữ một người đàn ông bị nghi ngờ tạo ra phần mềm có mục đích bí mật ghi lại hoạt động của người sử dụng Internet thông qua webcam của họ đồng thời ăn cắp những thông tin bí mật.
-Cơ quan điều tra xông vào bắt quả tang tại nhà nhân vật có biệt danh J.A.S đầu tuần này khi anh ta đang theo dõi một số người lướt web. Trojan do J.A.S tạo ra được phát tán qua mạng chia sẻ ngang hàng và có thể ẩn trong một file. Khi được download vào PC, tác giả của nó sẽ có thể truy nhập máy tính nạn nhân từ xa.
-Trojan này còn cài đặt một công cụ theo dõi hoạt động bàn phím để thu thập những thông tin như password hoặc quyền truy nhập những kho ảnh cá nhân và nhiều thông tin nhạy cảm khác trên PC bị lây nhiễm. Nó cũng tạo điều kiện cho hacker điều khiển webcam qua kết nối với máy tính, xem và ghi bất cứ thứ gì trong tầm nhìn của webcam đó.
-Cảnh sát Tây Ban Nha đánh giá Trojan này thuộc loại rất tinh vi và cho rằng nó đã lây nhiễm vào ít nhất vài nghìn máy tính ở một số quốc gia. Theo các nhà chức trách, hiện chưa có phiên bản phần mềm an ninh mới nào có khả năng phát hiện Trojan này.
-Trong khi đó, Graham Cluley, chuyên gia công nghệ của hãng bảo mật Anh Sophos, cho rằng có thể đây là một phiên bản Trojan xuất hiện từ lâu và đã được liệt kê trong danh sách phát hiện của các phần mềm diệt virus. Vấn đề bây giờ là cảnh sát Tây Ban Nha phải cung cấp thêm thông tin chi tiết để khẳng định đây là Trojan mới hay cũ.
-

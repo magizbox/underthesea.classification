@@ -1,7 +1,0 @@
- KeyPhantom USB Keylogger đầu tiên được phát hành
-Keylogger là phần mềm lưu lại các thao tác trên bàn phím của người dùng. Từ mật khẩu, thông tin tài khoản ngân hàng hay các cuộc đàm thoại nhạy cảm khác đều có thể dễ dàng bị ăn cắp bởi phần mềm này. 
-Thiết bị USB Keylogger KeyPhantom có hình dạng như một dây cáp USB bình thường, có khả năng lưu trữ đến 2 triệu thao tác nhấn phím trên bàn phím vào bộ nhớ flash. Hoạt động bằng cách kết nối giữa cổng USB của máy tính và bàn phím sử dụng cổng USB. Khi người dùng gõ phím trên bàn phím, thông tin sẽ đựơc lưu vào bộ nhớ flash của KeyPhantom. Người dùng có thể lấy lại thông tin đã gõ qua KeyPhantom. 
-Ngoài chức năng lưu thao tác bàn phím, KeyPhantom còn có thể được sử dụng như một USB adapter bình thường với độ dài 50cm. DesignREM phát hành ba loại KeyPhantom hướng đến 3 loại người dùng. KeyPhantom Home dành cho người dung gia đình, có giá 199 USD, lưu trữ dữ liệu từ bất kỳ máy tính nào. KeyPhantom Corporate giá 269 USD được thiết kế dành cho doanh nghiệp và KeyPhantom Forensic thì dành cho những nhà thi hành luật pháp với giá 349 USD. 
-Giờ đây, việc sao lưu ăn cắp thông tin nhạy cảm qua keylogger đã có thể thực hiện được cả trên phần cứng lẫn phần mềm. Như vậy, hệ thống máy tính hiện tại khi được tích hợp thiết bị phần cứng KeyPhantom dạng keylogger này vẫn có thể thấy được nhưng trong tương lai, có thể sẽ được tích hợp vào ngay chính bàn phím thì người dùng khó lòng mà phòng bị. 
-Việc sử dụng phần mềm hay phần cứng keylogger cũng có thể là con dao hai lưỡi hoặc bị lợi dụng bởi những kẻ có mưu đồ xấu. 
-

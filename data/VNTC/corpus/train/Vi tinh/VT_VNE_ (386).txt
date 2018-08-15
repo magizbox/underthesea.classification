@@ -1,8 +1,0 @@
-Không mở được file Autocad (2)
-Mình có một file autocad. Khi thực hiện lệnh Open thì nhìn được file đó trong khung View nhưng khi mở lại thì không được, mặc dù đã thực hiện lệnh Recover. Xin mọi người giúp đỡ. 
-Hồ Xuân Thuần
-Hồi âm:
-Xin hỏi bạn đã sử dụng phiên bản AutoCad bao nhiêu để mở phai đó. Nếu trong trường hợp bạn sử dụng AutoCad2002 để mở file đó thì bạn không thể sử dụng AutoCad R14 để mở lại phai đó, mà bạn phải sử dụng lại chính AutoCad2002 hoặc các phiên bản mới hơn mới mở được. Đây chi là một trong các trường hợp có thể xảy ra đối với các phai AutoCad mà tôi biết, bạn hãy thử xem. Chúc bạn may mắn! 
-Nguyễn Minh Hải
-Bạn có thể tạo một file AutoCAD mới (File / New ..) rồi Insert cái drawing mà bạn muốn mở vào. Như vậy là có thể xem được file đó, sau đó nhớ save lại là xong.
-

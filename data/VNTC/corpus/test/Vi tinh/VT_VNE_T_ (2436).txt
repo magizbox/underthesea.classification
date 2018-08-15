@@ -1,5 +1,0 @@
-Siêu máy tính IBM lập kỷ lục mới
-Cơ quan an ninh hạt nhân Mỹ (NNSA) hôm qua cho biết máy Blue Gene/L đặt tại Trung tâm nghiên cứu Livermore ở nước này đã đạt tốc độ xử lý 135,3 nghìn tỷ phép tính dấu phẩy động/giây (135,3 teraflop) sau một kiểm tra bằng phần mềm benchmark.
-Tốc độ nói trên đã vượt xa kỷ lục trước đây do chính siêu máy tính này xác lập mùa thu năm ngoái là 70,72 teraflop. Phiên bản Blue Gene tại Livermore hiện mới chỉ sử dụng khoảng một nửa số lượng tối đa 131.072 bộ xử lý mà thiết kế cho phép. Kiểu thiết kế này của IBM cho phép thực hiện việc tính toán với tốc độ vô cùng lớn trong một cỗ máy chiếm ít diện tích và tiêu thụ ít điện năng hơn so với các supercomputer truyền thống. Phiên bản hoàn thiện của Blue Gene/L tại Livermore theo dự kiến sẽ được hoàn thành vào tháng 6 hoặc 7 năm nay.
-Siêu máy tính Blue Gene của IBM được đặt tên theo mục đích ứng dụng của nó trong việc thực hiện giả lập trên máy tính về các quy trình sinh học. Big Blue đã cho phép rất nhiều tổ chức nghiên cứu khác, trong đó có một phòng nghiên cứu sinh học của Nhật và Trung tâm hạt nhân châu Âu CERN, tiếp cận công nghệ này.
-

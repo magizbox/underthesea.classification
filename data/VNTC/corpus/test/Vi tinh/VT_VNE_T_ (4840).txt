@@ -1,8 +1,0 @@
-Wi-Fi là 'một thuật ngữ không có nghĩa'?
-Nhiều người vẫn cho rằng Wi-Fi là từ viết tắt của "Wireless Fidelity", một kiểu chơi chữ giống như Hi-Fi. Tuy nhiên, Phil Belanger, một trong những thành viên sáng lập Hiệp hội Wi-Fi (Wi-Fi Alliance), đã bác bỏ quan điểm này.
-Trang blog khá nổi tiếng Boingboing đã đăng lại bài viết của Phill Belanger, toàn văn như sau: 
-"Wi-Fi không phải thuật ngữ viết tắt của cụm từ nào cả. Nó không hề có nghĩa. Wi-Fi và hình biểu tượng (logo) theo phong cách âm dương được thiết kế bởi hãng Interbrand, công ty đã đặt ra những tên nổi tiếng như 'Prozac', 'Compaq', 'Oneworld', 'Imation'...
-Chúng tôi, những người sáng lập Wireless Ethernet Compatibility Alliance (hiện nay là Wi-Fi Alliance), đã thuê Interbrand thiết kế thương hiệu và logo để nhấn mạnh khả năng tương tác lẫn nhau và khuếch trương công nghệ. Chúng tôi cần một cái gì đó dễ nắm bắt hơn thuật ngữ 'IEEE 802.11b Direct Sequence'. 
-Lý do duy nhất bạn nghe thấy thuật ngữ 'Wireless Fidelity' là vì một số đồng nghiệp trong nhóm cảm thấy không hài lòng. Họ không hiểu về thương hiệu hay tiếp thị. Họ không thể tưởng tưởng việc sử dụng tên 'Wi-Fi' mà không có một vài lời giải thích rõ ràng. Do đó, chúng tôi thỏa thuận thêm vào dòng chữ 'viết tắt của Wireless Fidelity' phía sau tên này. Đây là một sai lầm và chỉ làm cho mọi người khó hiểu và làm loãng thương hiệu. Sau này, khi Wi-Fi đã thành công hơn và có thêm những thành viên từ các doanh nghiệp lớn trong hội đồng quản trị, hiệp hội chấp nhận 'đoạn mở rộng' này.
-Như thế, Wireless Fidelity được sáng tác sau khi chúng tôi đã chọn từ 10 thuật ngữ khác nhau do Interbrand đề xuất. Và nó không có nghĩa gì cả. Đây chỉ là một cố gắng vụng về trong việc tìm ra hai từ hợp với Wi và Fi".
-

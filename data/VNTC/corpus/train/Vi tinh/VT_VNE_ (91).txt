@@ -1,5 +1,0 @@
-Samsung Vina kết luận về vụ nổ điện thoại C100
-"Chúng tôi đã xác định được chiếc điện thoại này là hàng của Samsung sản xuất, nhưng không được nhập khẩu chính thức qua kênh phân phối. Riêng pin của máy có thể khẳng định không phải của chính hãng mà là hàng giả từ nguồn cung cấp khác". Đó là kết luận của Samsung Vina sau khi kiểm tra số IMEI và serial của thiết bị gây sự cố.
-Hiện tượng cháy nổ được Samsung Vina xác định là phát xuất từ pin khi được cắm vào nguồn xạc. Pin bị phá hủy gần như hoàn toàn nhưng bản thân mạch điện chính trên thân máy không bị hư hỏng, thẻ SIM vẫn hoạt động tốt.
-Theo nguồn tin của VnExpress, "khổ chủ" Nguyễn Thế Đăng, sau khi nhận được chiếc điện thoại C100 mới từ Samsung Vina, đã viết thư cảm ơn hãng. 
-

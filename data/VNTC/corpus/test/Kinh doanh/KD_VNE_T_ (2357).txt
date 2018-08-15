@@ -1,5 +1,0 @@
-Thêm một ngân hàng thực hiện bao thanh toán
-Sau Deutsche Bank (Đức), Ngân hàng Far East National Bank (FENB) của Mỹ cũng vừa được Ngân hàng Nhà nước cho phép thực hiện nghiệp vụ bao thanh toán cho các doanh nghiệp.
-Theo đó, sau khi bên mua và bên bán thỏa thuận giao hàng và thời hạn thanh toán, bên bán sẽ ký hợp đồng bao thanh toán với FENB. Trên cơ sở này, FENB sẽ thanh toán trước cho bên bán tối đa 80% trị giá lô hàng, phần còn lại sẽ được FENB đảm bảo thanh toán tiếp khi đến hạn.
-Khi thực hiện bao thanh toán, ngân hàng sẽ phải chịu toàn bộ rủi ro khi bên mua không có khả năng chi trả, trừ một số trường hợp bên mua từ chối thanh toán do lỗi của bên bán. Theo FENB, dịch vụ này sẽ được triển khai vào cuối tháng 2 hoặc đầu tháng 3. 
-

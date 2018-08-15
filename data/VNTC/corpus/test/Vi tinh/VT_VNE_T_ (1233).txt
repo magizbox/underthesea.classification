@@ -1,5 +1,0 @@
-Mỹ chuẩn bị triển khai băng thông rộng trên dây điện
-Ủy ban viễn thông liên bang Mỹ (FCC) hôm qua đã tạo tiền đề cho các công ty đẩy mạnh dịch vụ băng thông rộng trên đường dây điện (BPL) với việc thông qua một loạt quy định giới hạn tạp nhiễu của loại hình truy cập này đến tần số của các thiết bị sử dụng sóng radio.
-Quy định của FCC yêu cầu các nhà cung cấp dịch vụ BPL phải sử dụng các thiết bị có thể thay đổi tần số nếu chúng gây tạp nhiễu, đồng thời có thể tắt được từ xa. Ngoài ra, các thành viên Ủy ban cũng yêu cầu thành lập hệ thống cơ sở dữ liệu quốc gia về các cài đặt của BPL nhằm phục vụ cho các cơ quan hoạt động trong lĩnh vực an toàn cộng đồng, người chơi radio nghiệp dư và các đối tượng khác có mối quan ngại về những tạp nhiễu có thể có.
-Theo FCC, Internet trên dây điện sẽ là một đối thủ cạnh tranh của các loại hình băng thông rộng hiện tại, giúp giảm cước phí truy cập và tạo ra nhiều dịch vụ mới. 
-

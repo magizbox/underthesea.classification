@@ -1,5 +1,0 @@
- Thanh công cụ cho người mê bóng đá
-Được phát triển bởi Eyal Zoref cho người dùng Mozilla như là một phần mở rộng, thanh công cụ world_cup_2006 mang đến tất cả thông tin cần thiết về World Cup 2006 sắp diễn ra tại Đức bao gồm tính năng tìm kiếm và các tùy chọn hỗ trợ hữu ích trong việc tìm thông tin về World Cup cũng như các liên kết hay cho người dùng tham khảo. 
-Ngoài ra, thanh công cụ cũng tích hợp Weather Component cho phép hiển thị thông tin thời tiết và tính năng đánh dấu. 
-Hoàn toàn miễn phí và gọn nhẹ (5KB), hoạt động trên tất cả các phiên bản của hệ điều hành Windows và yêu cầu sử dụng Mozilla. Thanh công cụ FIFA World Cup 2006 có thể tải về tại đây . 
-

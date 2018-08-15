@@ -1,7 +1,0 @@
-Intel giới thiệu cấu trúc chip thế hệ mới
-Hãng sản xuất thiết bị xử lý số một thế giới dự định sẽ thay đổi căn bản cấu trúc được sử dụng trong sản xuất chip hiện nay, nhằm nâng cao khả năng vận hành và giảm sự sản sinh sức nóng.
-Giám đốc điều hành Paul Otellini sẽ giới thiệu chi tiết "cấu trúc thế hệ mới", dự kiến ra mắt vào nửa sau 2006 tại Diễn đàn các nhà phát triển Intel vào 23/8 ở San Francisco (Mỹ). 
-Đầu năm nay, Otellini cũng cho biết những thiết bị xử lý đa lõi thế hệ mới của Intel sẽ có tên mã là Merom, Conroe và Woodcrest. Chip dựa trên công nghệ tương tự trong thiết bị xử lý cho máy tính xách tay Pentium M, tăng khả năng quản lý lượng điện năng tiêu thụ và giảm xung nhịp đồng hồ.
-Cấu trúc trong Pentium M mang lại khả năng vận hành tối đa trong khi chỉ cần một lượng điện vừa đủ để chip có thể hoạt động. Nguyên tắc thiết kế này, kết hợp với quá trình xử lý đa lõi trên chip đơn, sẽ cho phép Merom, Conroe và Woodcrest hoạt động hiệu quả mà không làm nóng máy. Merom là chip máy tính xách tay, Conroe chuyên được sử dụng cho PC để bàn, còn Woodcrest dùng trong server. Otellini từ chối tiết lộ chip mới sẽ là 2 lõi hay 4 lõi.
-Tuyên bố này của Intel báo hiệu sự kết thúc của cấu trúc Netburst, vốn là nền tảng trong Pentium IV và Xeon suốt 5 năm qua. Netburst được thiết kế nhằm tăng độ ổn định xung nhịp, tuy nhiên, sự xuất hiện của thế hệ xử lý 90 nm và những vấn đề rò rỉ năng lượng gần đây đã đặt dấu chấm hết cho công nghệ này. 
-

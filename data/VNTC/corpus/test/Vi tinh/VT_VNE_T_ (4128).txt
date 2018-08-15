@@ -1,7 +1,0 @@
-Tổng dung lượng lưu trữ trên thế giới đạt gần 500 triệu GB
-Nghiên cứu mới của hãng khảo sát IDC cho thấy công suất trong các thiết bị đã xuất xưởng tăng 59,3% trong quý II/2005, và đạt tổng cộng 457 petabyte, trong khi toàn bộ số sách của Thư viện Quốc hội Mỹ cũng chỉ khoảng 20.000 GB thông tin.
-Lưu trữ dạng đĩa và những thành phần liên quan cũng mang lại 5,6 tỷ USD doanh thu cho các nhà cung cấp trong quý này. 
-HP đứng đầu về khả năng tiêu thụ hệ thống ổ đĩa với 23,4% thị phần, tiếp theo là IBM 20,5% và EMC 14,4%. Trong khi đó, EMC chiếm lĩnh thị trường dung lượng ngoài, đạt doanh thu 21,2%. HP bám đuổi phía sau với 18,8% còn IBM là 13,8%. 
-3 trong số 5 nhà cung cấp hàng đầu đã đạt mức độ phát triển 2 con số trong quý II, trong đó Dell dẫn đầu với 27,1% tốc độ tăng trưởng hàng năm, HP và IBM là hơn 13%.
-Tuy nhiên, sự phối hợp giữa các hãng cũng khiến số liệu thống kê trở nên không chính xác. Ví dụ Dell kinh doanh ổ đĩa của EMC, trong khi Sun và HP cùng ký thoả thuận OEM với Hitachi về phần cứng lưu trữ.
-

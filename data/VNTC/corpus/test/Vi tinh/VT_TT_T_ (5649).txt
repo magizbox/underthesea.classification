@@ -1,7 +1,0 @@
- Google: 'Gmail' không phải là trò đùa ngày cá tháng 4
-Lý do nhiều người nghĩ đó là tin đồn vì hôm qua là ngày 1-4, hơn nữa trong thông cáo báo chí gửi đi, Google đã viết một đoạn khá thông tục: “Dịch vụ tìm kiếm chỉ là hoạt động trực tuyến thứ hai, còn e-mail mới là số một: 'Chết tiệt thật', các nhà sáng lập của Google nói". 
-Hơn nữa, ngày 31-3, Google còn đưa tin “tuyển dụng kỹ sư để làm việc trên mặt trăng vào năm 2007”. Động thái này của Google càng khiến dân ghiền net bàn tán xôn xao trên các diễn đàn. 
-Trên diễn đàn Slashdot.org, có thông điệp viết: “đây là trò đùa khiếp nhất trong lịch sử ngành công nghệ”. Nhưng nhiều ý kiến bảo vệ lại chỉ ra rằng giá lưu trữ hiện nay rất rẻ và Google đã đăng ký tên miền Gmail.com. 
-Trả lời Reuters, phó chủ tịch của Google Rosenberg phát biểu: “Vì hôm qua là ngày cá tháng 4 nên chúng tôi đã đưa ra thông báo có tính chất hài hước một chút. Việc tuyển dụng kỹ sư để làm việc tại một trung tâm trên mặt trăng thực sự chỉ là trò đùa, nhưng dự án cung cấp Gmail là hoàn toàn nghiêm túc ”. 
-Thực tế, hiện này Google đang chạy thử Gmail tại địa chỉ www.gmail.com , nhưng hãng chưa công bố chính thức thời điểm sẽ cung cấp dịch vụ này. 
-

@@ -1,6 +1,0 @@
-Hỏi về mạng không dây (1)
-Em đang có một máy IBM-T41 dùng công nghệ Centrino. Em nghe nói nếu mình dùng điện thoại di động nối như thế nào đó với máy xách tay là có thể kết nối INTERNET phải không ạ? Vậy nếu kết nối được thì em phải làm như thế nào? Máy em đã có sắn card Wireless rồi ạ. Mong được sự giải đáp kịp thời. 
-Đỗ Trần Ngọc
-Hồi âm:
-Xin chào. Theo tôi biết và đang dùng thì điện thoại thường giao tiếp với máy tính qua Bluetooth hoặc hồng ngoại còn wireless thì không biết điện thoại có chức năng đó hay không (tuỳ loại) Nếu bạn muốn dùng mobile như một modem để kết nối internet thì trước hết điện thoại của bạn phải có chức năng của 1 modem, sau đó kết nối máy tính với điện thoại qua cổng Bluetooth hoặc hồng ngoại. Bluetooth thì nhanh hơn nhưng cài đặt khá phức tạp, còn đối với hồng ngoại thì quá trình cài đặt modem tự động hoàn toàn (chỉ cần bật hồng ngoại ở điện thoại). Các cách cài đặt để kết nối internet thường được hướng dẫn trong sách và đĩa CD kèm theo điện thoại chẳng hạn như SonyErricsson K700i. Nhưng lưu ý là cước nối Internet qua điện thoại dd là rất đắt VD: vinawap 45 đ/Kilobyte. 
-

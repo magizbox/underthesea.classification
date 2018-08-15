@@ -1,9 +1,0 @@
-- Mở một file ảnh muốn biến thành bức tranh khắc gỗ (hình 1)- Double click vào layer Background - chọn OK, layer Background trở thành Layer 0
-- Chọn Layer - Duplicate Layer (hình 2)- Chọn Filter -Other - High Pass với thông số: Radius: 3 pixels- Bấm tổ hợp phím Shift + Ctrl + U (hình 3)
-- Chọn Image - Adjustment - Posterize với thông số: Levels: 2 (hình 4)- Đổi phương thức trộn màu Blending Mode của layer thành Multiply- Click chọn Layer 0 điều chỉnh thông số: Opacity: 70%
-(Hình 2)
-(Hình 3)
-(Hình 4)
-(Hình 5)
-Ta được kết quả như hình 5
-

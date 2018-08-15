@@ -1,7 +1,0 @@
-ĐTDĐ nghe FM: Nhỏ hơn với IC của Philips
-Hãng sản xuất thiết bị điện tử hàng đầu thế giới vừa cho ra đời thiết bị thu sóng radio FM tích hợp trên điện thoại di động (ĐTDĐ) được đánh giá là bé nhất thế giới hiện nay. 
-Bộ phận tích hợp bên trong này giúp giảm bớt thể tích của ĐTDĐ có chức năng FM và FM+RDS(Radio Data System). Kích cỡ của IC (Intergrated Circut) FM TEA5761 đã giảm từ 150 mm xuống còn 50 mm, trong khi đó, IC TEA5764 tích hợp RDS chỉ có 70 mm. Hai sản phẩm thuộc dòng chip dò sóng WL-CSP rất thông minh và tiện ích.
-Philips đã cho ra đời các sản phẩm có chứa FM, AM/FM và FM+RDS, hỗ trợ RBDS (Radio Broadcast Data System), một tiêu chuẩn trong hệ thống truyền dữ liệu qua sóng radio (RDS) của Mỹ. Người sử dụng các thiết bị mới này sẽ biết được sóng từ trạm nào phát ra, dễ dàng dò tìm các chương trình và được đảm bảo tín hiệu tốt nhất. Ngoài ra, dòng sản phẩm mới này còn giúp tăng tỉ lệ sử dụng radio trên đầu người ở các quốc gia, đặc biệt ở khu vực châu Á nơi thị trường ĐTDĐ đang phát triển đến chóng mặt.
-Ngày nay, 15% điện thoại trên thế giới có tích hợp chức năng nghe FM. Theo dự đoán, với nhu cầu của thị trường hiện nay, con số này sẽ tăng lên 50% trong thời gian tới.
-FM TEA5757 đang trong quá trình sản xuất còn AM/FM TEA5777 dự kiến sẽ xuất hiện vào tháng 1/2005 trong khi FM+RDS TEA5764 đã có mặt trên thị trường.
-

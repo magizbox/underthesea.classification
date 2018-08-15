@@ -1,7 +1,0 @@
-Hitachi thu nhỏ kích thước, tăng dung lượng ổ đĩa 
-Sản phẩm Microdrive 3K8 kích thước 1 inch được phát hành với hai phiên bản 6 GB và 8 GB, tiêu thụ ít hơn 40% năng lượng so với thế hệ 3K6 và đồng thời nhẹ hơn 20%.
-Hình quảng cáo ổ đĩa 3K8 của Hitachi.
-Hitachi hiện là nhà cung cấp ổ cứng cho sản phẩm iPod Mini của Apple vì thế việc điều chỉnh kỹ thuật nói trên là sự báo trước về những sản phẩm máy nghe nhạc iPod dung lượng cao sắp ra mắt. 
-Ổ cứng 3K8 tạm thời được cung cấp với số lượng hạn chế nhưng sẽ được phát hành đại trà số lượng lớn vào tháng 10, kịp phục vụ cho mùa làm ăn cuối năm của Apple. 3K8 hỗ trợ chuẩn liên kết CE-ATA, PATA và ATA trên MMC. Cả 2 phiên bản 6 GB và 8 GB đều có 1 đĩa cứng đơn. Ổ có độ dày 5 mm, trọng lượng 13 g, với số vòng quay 3.600 vòng/phút. Hitachi tuyên bố đây là những hình mẫu sản phẩm hàng đầu thế giới hiện nay trong dòng ổ đĩa 1 inch.
-Ngoài ra, 3K8 còn được trang bị công nghệ cảm ứng Extra Sensory Protection (ESP) của Hitachi, cho phép lập tức phong tỏa đầu đọc/ghi nếu phát hiện ra độ cao trong không gian của sản phẩm bị tụt xuống khi sản phẩm bị rơi trong khoảng 10 cm đầu tiên.
-

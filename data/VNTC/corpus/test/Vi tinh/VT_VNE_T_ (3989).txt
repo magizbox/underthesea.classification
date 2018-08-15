@@ -1,8 +1,0 @@
-Oracle công bố Database 10g phiên bản 2
-Bản nâng cấp bộ phần mềm cơ sở dữ liệu của Oracle hứa hẹn mang đến cho khách hàng khả năng quản lý, hiệu suất và tính bảo mật tăng cường, giúp cắt giảm chi phí và đơn giản hóa việc quản trị thông tin.
-Oracle Database 10g phiên bản 2 có năng lực điện toán lưới mạnh hơn, tính sẵn sàng cao và khả năng quản lý đơn giản. Người sử dụng có thể chuyển đổi một nhóm hệ thống máy chủ thông thường thành một nền điện toán với khả năng khắc phục lỗi và mở rộng cao. Phiên bản này cũng bao gồm nhiều cải tiến khác, cho phép dễ dàng chia sẻ tài nguyên lưu trữ trong môi trường mạng lưới đồng thời tích hợp mức bảo mật dữ liệu cao cấp hơn.
-Trong quá trình xây dựng Database 10g phiên bản 2, Oracle đã phối hợp trực tiếp với nhiều khách hàng cũng như các nhà cung cấp phần mềm độc lập (ISV), các công ty tích hợp hệ thống (SI) tại khu vực châu Á - Thái Bình Dương để cùng thử nghiệm chương trình beta và thu thập ý kiến đánh giá.
-Tất cả các bản Oracle Database 10g phiên bản 2 (bao gồm Enterprise Edition, Standard Edition và Standard Edition One) đều hỗ trợ hệ điều hành Red Hat Enterprise Linux 3.0. Oracle dự kiến, trong khoảng 1-3 tháng nữa, gói phần mềm cơ sở dữ liệu mới này cũng sẽ hỗ trợ các nền Linux, UNIX và Windows.
-Oracle Database 10g phiên bản 1 đã dẫn đầu trong các thử nghiệm ứng dụng SAP nối tiếng nhất, Nick Evered, Phó chủ tịch phụ trách kinh doanh công nghệ của Oracle châu Á - Thái Bình Dương, phát biểu. Với phiên bản 2, chúng tôi hy vọng vị trí này sẽ được củng cố vững chắc hơn. 
-Tham khảo thêm tại đây.
-

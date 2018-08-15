@@ -1,7 +1,0 @@
-Miếng lót cốc thông minh
-Các nhà khoa học Đức mới sáng chế ra một tấm bìa lót điện tử có thể gọi người phục vụ đổ thêm bia khi vại bia đã hết.
-Hai nhà khoa học Andreas Butz tại Đại học Munich và Michael Schmitz, Đại học Saarland, cho biết ở dưới bề mặt miếng lót có một tấm kim loại mỏng gắn các cảm biến phản ứng với sức nặng của cốc bia cùng vị trí và sự di chuyển của miếng lót cốc. Bộ cảm ứng sẽ truyền thông tin qua sóng radio tới quầy bar, tại đó tín hiệu được nhận và giải mã bằng một máy tính.
-Khách hàng có thể gọi khẩn trương bằng cách đập đập miếng lót và gọi nhiều bia hơn bằng một sấp tấm lót thể hiện số cốc cần gọi.
-Các nhà sáng chế cho biết miếng lót thông minh còn có nhiều khả năng hơn thế. Nó có thể được sử dụng để đánh giá màn trình diễn của một người hát karaoke hay cho ý kiến về quyết định của trọng tài trong một trận đấu thể thao trên màn hình tivi.
-Một ý kiến ủng hộ sẽ được ghi lại bằng cách giơ cốc lên khiến bộ cảm ứng di chuyển. Ý kiến phản đối sẽ được ghi nhận bằng cách giơ cốc lên rồi lật ngược miếng lót và đặt cốc lên tấm kim loại, gây ra sự chuyển động kép của bộ cảm ứng.
-

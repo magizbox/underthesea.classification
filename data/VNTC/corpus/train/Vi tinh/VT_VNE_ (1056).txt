@@ -1,7 +1,0 @@
-Microsoft điều tra 10 lỗi ở XP Service Pack 2
-Hãng phần mềm khổng lồ đang tìm hiểu những thông tin của hãng bảo mật Finjan Software (Mỹ) cung cấp hôm 9/10, theo đó bản nâng cấp an ninh cho hệ điều hành Windows XP (SP2) có rất nhiều lỗi nghiêm trọng.
-Theo Gil Arditi, Giám đốc bảo mật của Finjan, một số khiếm khuyết ở nhóm nói trên có thể bị hacker lợi dụng để giành quyền khống chế hoàn toàn một hệ thống hoặc tải mã tấn công vào máy tính nạn nhân.
-Finjan đã thông báo chi tiết cho Microsoft về những lỗi này, đồng thời còn thiết kế hẳn một mẫu chứng minh khả năng lỗ hổng bị khai thác để Microsoft tham khảo. 
-Finjan tuyên bố họ không công bố chi tiết những khiếm khuyết này ra đại chúng cho tới khi nào Microsoft phát hành bản vá lỗi cho tất cả. Tuy nhiên, trong một báo cáo liên quan tới những lỗ hổng này, công ty ứng dụng bảo mật vẫn trình bày sơ bộ phương thức mà hacker có thể lợi dụng lỗ hổng SP2 để truy nhập file từ xa, tăng quyền ưu tiên điều khiển hệ thống, chạy mã phá hoại mà không cần sự tương tác của chủ máy, hoặc thậm chí có thể khống chế PC mục tiêu khi máy tính duyệt một trang web.
-Microsoft chưa khẳng định bất cứ điều gì liên quan đến 10 lỗ hổng nói trên.
-

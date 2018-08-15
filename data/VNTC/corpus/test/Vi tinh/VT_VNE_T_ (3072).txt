@@ -1,7 +1,0 @@
-Netscape 8 gây trục trặc Internet Explorer
-Hãng phần mềm Microsoft cảnh báo khách hàng rằng phiên bản trình duyệt mới nhất của Netscape sẽ phá hỏng khả năng thể hiện XML trong Internet Explorer (IE).
-Dave Massy, Giám đốc phụ trách chương trình IE, cho biết, sau khi cài Netscape 8, IE sẽ hiển thị tệp XML như một dạng trang rỗng, kể cả những file XML đã chuyển đổi XSLT.
-Microsoft không chỉ rõ những phiên bản nào của IE bị ảnh hưởng, nhưng một thành viên trên diễn đàn DeveloperDex khẳng định mình đã gặp rắc rối với IE 6.0, dù đã được nâng cấp Windows Service Pack 2.
-Microsoft cho hay hãng đang nghiên cứu vấn đề và sẽ hợp tác với Netscape để tìm giải pháp cho trục trặc này. Tuy nhiên, hiện nay, nhiều người sử dụng thường dùng song song cả hai trình duyệt, mà không chuyển hoàn toàn sang Netscape. Rắc rối mới được phát hiện này sẽ khiến nhiều người chần chừ khi cài phiên bản Netscape 8.0, bởi nó làm ảnh hưởng đến việc thực thi ứng dụng trong IE. Do đó, đây là lợi thế trước mắt của Microsoft nhằm ngăn một lượng lớn người dùng chuyển từ IE sang Netscape. 
-Sự việc này cũng là một đòn mạnh với Netscape, vì chỉ mới hai tuần trước đó, hãng đã phải đưa ra bản nâng cấp để vá lỗi bảo mật trong phiên bản trình duyệt mới ra của mình.
-

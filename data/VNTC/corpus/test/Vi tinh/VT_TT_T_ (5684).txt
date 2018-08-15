@@ -1,5 +1,0 @@
- FireFox hỗ trợ VoIP
-VoIP đang là xu hướng liên lạc của toàn cầu và rất phổ biến ở mọi nơi. Việc bổ sung hỗ trợ VoIP vào FireFox không sớm thì muộn cũng sẽ được tiến hành. Bộ mở rộng Zoep FireFox Extension được tạo bởi VoIPSter và nó sẽ cho phép người dùng thực hiện các cuộc gọi thoại miễn phí hay có thể gởi tin nhắn trực tiếp sau khi cài đặt phần bổ sung cho FireFox tại đây . Chỉ việc thực hiện vài cú click chuột và người dùng có thể sử dụng thật tiện lợi mà không cần chuyển đổi qua lại các ứng dụng để vừa duyệt web vừa gọi VoIP cùng một lúc. 
-Phần mở rộng bổ sung này từ Zoep rất dễ sử dụng và kết hợp hoàn hảo với FireFox. Nhận hoặc gọi miễn phí sử dụng nền tảng OpenZoep VoIP đơn giản chỉ với một cú click chuột. Theo như VoIPSter cho biết, người dùng có thể kết nối liên lạc với các người dùng VoIP khác trên nền OpenZoep mã mở hay Jabber và trong tương lai, có thể kết nối đến cả người dùng Google Talk. 
-Thông tin về Zoep có thể tìm thấy và tải về tại đây . Người dùng có thể theo các bước hướng dẫn để cài đặt cho FireFox trên hệ điều hành Windows. 
-

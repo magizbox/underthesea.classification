@@ -1,9 +1,0 @@
-Windows XP N sẽ ra mắt trong tháng 7
-Trong nỗ lực làm dịu bớt áp lực của giới quan chức Ủy ban châu Âu, Microsoft đã thực hiện một số thay đổi với Windows XP N - phiên bản hệ điều hành giản lược tính năng Media Player.
-Một trong những thay đổi dễ thấy nhất chính là tên phần mềm. Ban đầu, hãng định đặt tên là Reduced Media Edition nhưng cuối cùng phải chuyển thành Windows XP N do bị phản đối từ phía nhà chức trách châu Âu.
-Gói phần mềm mới cũng kèm lời giải thích nguồn gốc của chữ N, ý nói XP Home Edition N có nghĩa là "Not with Windows Media Player" (không có Windows Media Player).
-Microsoft cho biết đã đồng ý một thay đổi nhỏ do RealNetworks yêu cầu, cho phép một số loại file nghe nhìn nhất định của nhà cung cấp nhạc trực tuyến này có thể được đăng ký qua Windows. Microsoft cũng đã xóa file nhạc mẫu (Sample Music) trong thư mục My Music, cũng như quyền truy cập tới Windows Movie Maker trong phiên bản mới.
-Hãng phần mềm có trụ sở tại Redmond, Washington (Mỹ) tiết lộ rằng gói media sẽ vẫn có mặt trên website của hãng, cho phép những khách hàng có nhu cầu khôi phục lại các tệp Windows XP chuẩn đã bị xóa trong phiên bản N.
-Phần mềm chỉnh sửa mới sẽ được gửi đến các xưởng sản xuất máy tính vào tuần tới với 5 phiên bản ngôn ngữ, và xuất hiện trên thị trường vào 1/7/2005. 10 phiên bản ngôn ngữ tiếp theo cũng sẽ ra mắt ngay trong tháng 7. Phần mềm này được cài trong bản Home và Professional với giá tương đương với những phiên bản tích hợp tính năng đầy đủ.
-Theo một đại diện của Microsoft, hãng đã cung cấp phiên bản không kèm Media Player tới các nhà sản xuất máy tính từ tháng 1, nhưng từ đó cho tới nay, chưa có mẫu PC nào được xuất xưởng với phần mềm mới.
-

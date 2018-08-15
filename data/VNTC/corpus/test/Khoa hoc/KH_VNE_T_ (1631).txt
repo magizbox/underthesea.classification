@@ -1,7 +1,0 @@
-Tính tuổi cho mặt trăng
-Các nhà khoa học Anh và Đức tuyên bố đã tìm ra tuổi chính xác của chị Hằng. Đến nay, người đẹp đã 4,527 tỷ tuổi. Con số này được cho là chính xác nhất từ trước tới nay.
-Nhóm nghiên cứu đến từ Đại học Oxford và Đại học Cologne và Muenster tính toán tuổi của mặt trăng bằng cách phân tích những hòn đá được các nhà du hành tàu Apollo lấy về từ mặt trăng. Họ đo đạc tỷ lệ phân huỷ chất đồng vị của khoáng chất Tungsten 182 - rất phổ biến trong các hòn đá của mặt trăng, để tính ra tuổi của chị Hằng.
-Theo các nhà khoa học thì mọi chất đồng vị phóng xạ đều phân huỷ và biến đổi thành những sản phẩm hạt nhân khác nhau qua thời gian.
-Nhìn vào tỷ lệ giữa chất đồng vị phóng xạ mẹ với lượng sản phẩm hạt nhân con, và dựa trên tốc độ phân huỷ của chất đồng vị mẹ, họ có thể tính ra hòn đá trên mặt trăng đã tồn tại bao lâu.
-Nhóm thừa nhận những biện pháp tính toán sau này có thể sẽ đưa ra con số chính xác hơn, nhưng ước đoán hiện thời vẫn là chính xác nhất, chỉ chênh lệch vài chục triệu năm.
-

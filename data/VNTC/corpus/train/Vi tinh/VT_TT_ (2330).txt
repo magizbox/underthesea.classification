@@ -1,6 +1,0 @@
- Tiện dụng sẽ đem đến vị thế mới cho Skype
-Chức năng có tên là SkypeWeb, đã được tích hợp vào hơn 50 website trên toàn thế giới. Salesforce.com là một ví dụ. Họ đã cài đặt tính năng này vào trong hệ phần mềm quản trị quan hệ khách hàng, cho phép người dùng biết được đối tác của mình có đang trực tuyến hay không. 
-Theo một số đánh giá thì Skype tốt hơn về chất lượng dịch vụ so với Yahoo Voice hay Google Talk. Sở dĩ như vậy là do Skype có nền tản về công nghệ VoIP tốt hơn. Tuy nhiên, xét về mặt giao diện và độ thân thiện, Skype vẫn chưa thể bì được với hai đối thủ. 
-Nhưng với tính năng kỳ này, có thể cho rằng Skype đã vượt qua một trong những hạn chế lớn nhất của điện thoại, đó là không thể quan sát tình trạng Online của đối tác, một trong những "tiện nghi" không thể thiếu đối với cư dân Internet. Một trong những nguyên nhân Google Talk vẫn chưa được yêu thích bằng Yahoo Messenger chính ở điểm này. Đứng trên quan điểm người dùng mà nói thì Yahoo Messenger vẫn được chấm điểm về độ thân thiện cao hơn. 
-Tuy nhiên, để sử dụng được chức năng này vẫn còn là một quá trình khá nhiêu khê, đòi hỏi một số am hiểu nhất định về máy tính. Hiện nay cũng chỉ mới có quản trị web mới có thể thao tác trên chức năng này. Hy vọng Skype có thể cải tiến được giao diện hơn nữa để người dùng … đỡ vất vả. 
-

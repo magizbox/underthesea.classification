@@ -1,8 +1,0 @@
-Đèn LED hoạt động theo cơ chế giống loài bướm
-Khi các nhà khoa học phát triển công nghệ đèn chiếu sáng cao cấp, họ không nhận ra rằng loài bướm châu Phi đã sử dụng phương pháp tương tự trong hơn 30 triệu năm qua.
-Đèn sử dụng diode phát sáng (LED) mà các chuyên gia thuộc viện nghiên cứu MIT (Mỹ) giới thiệu năm 2001 là một biến thể của đèn diode dùng trong màn hình và các thiết bị điện tử phổ biến. Nhà khoa học Alexei Erchak và đồng nghiệp đã giới thiệu công nghệ mang tên "hiệu quả ánh sáng chiết xuất thấp". Đèn sử dụng tinh thể ánh sáng hai chiều (một màng mắt cáo 3 góc khắc axit phủ bên trên) để cải thiện khả năng chiết xuất ánh sáng.
-Cấu trúc lớp phủ đó còn được gọi là gương phản xạ Bragg, nhằm kiểm soát hướng chiếu sáng, mang lại khả năng hoạt động cao hơn đáng kể so so với đèn chuẩn.
-Gần đây, chuyên gia Pete Vukusic và Ian Hooper thuộc trường Đại học Exeter (Anh), khẳng định loài bướm swallowtail, sống ở vùng Đông và Trung Phi, cũng sử dụng phương pháp tương tự để phát tín hiệu cho nhau trong tự nhiên. 
-Chúng có cánh đen với những sắc tố màu xanh sáng hoặc xanh ngọc. Lớp sắc tố hoạt động như những tinh thể ánh sáng 2D và tỏa ra ánh sáng huỳnh quang. Lớp phủ cũng có một gương nằm bên dưới để phản xạ lại với những ánh sáng chiếu vào nó. Một lần nữa, cơ chế này giống hệt gương Bragg trong LED.
-"Không như diode, hệ thống của loài bướm không cần chất bán dẫn và không tỏa năng lượng bức xạ. Điều đó khiến hiệu quả được nhân lên gấp đôi", Vukusic nói. Ông khẳng định việc nghiên cứu cấu trúc tự nhiên sẽ hỗ trợ đắc lực các nhà khoa học cải tiến thiết bị nhân tạo.
-

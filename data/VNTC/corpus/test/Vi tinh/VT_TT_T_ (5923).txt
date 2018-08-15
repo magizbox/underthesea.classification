@@ -1,5 +1,0 @@
- Biết thông tin dinh dưỡng thực phẩm nhờ camera phone
-Người dùng sẽ biết được thông tin dinh dưỡng của một loại thực phẩm như lượng calori trong đó, bằng cách dùng chiếc camera phone của mình để đọc các mã vạch trên bao bì sản phẩm. 
-Người sử dụng có thể kết nối với Internet và gửi các mã vạch trên đến nhà cung cấp dịch vụ để nhận được các thông tin dinh dưỡng của sản phẩm đó. 
-Với khả năng này, người dùng có thể biết được thành phần các chất dinh dưỡng hoặc nguồn năng lượng trong các loại thực phẩm. Nhờ vậy người dùng có thể kiểm soát được nguồn năng lượng cung cấp cho cơ thể mình cũng như có chế độ ăn uống hợp lý để giảm cân. Dịch vụ hỗ trợ thông tin dinh dưỡng của hơn 700 loại thực phẩm khác nhau để cung cấp cho người dùng. 
-

@@ -1,6 +1,0 @@
-Cách in trang chẵn/lẻ trong Excel (1)
-Kính chào các anh các chị. Xin các anh các chị chỉ cho cách in trang chẵn/ lẻ trong Microsoft Excel. Xin cảm ơn!
-Nguyễn Thế Hưng
-Hồi âm:
-Chao ban. Theo toi biet, Excel khong the in trang chan le nhungminh co the lam viec do qua trung gian MS Word. Anh hay mo Word, sau do anh su dung chuc nang "Insertion - Objet" cua Word de chen\ file excel cua anh vao. Nhu vay, luc in bang Word, anh se co the in trang chan le duoc.
-

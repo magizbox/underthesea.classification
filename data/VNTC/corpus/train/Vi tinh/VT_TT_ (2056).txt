@@ -1,6 +1,0 @@
- eBay thử nghiệm dịch vụ thanh toán qua ĐTDĐ 
-Paypal Mobile, chi nhánh của Paypal, hiện đang tiến hành thử nghiệm dịch vụ này trong nội bộ nhân viên của eBay và Paypal. Toàn bộ quá trình thử nghiệm trong suốt những ngày qua đều diễn ra khá suông sẻ. 
-Nữ phát ngôn viên Amanda Pires của eBay cho biết rằng công ty sẽ chính thức tung ra dịch vụ thanh toán trực tuyến qua ĐTDĐ này trong vài tuần tới tại Mỹ, Anh và Canada. 
-Điều độc đáo nhất của dịch vụ này là người giao dịch trên eBay có thể thanh toán trực tiếp với nhau thông qua ĐTDĐ của họ, và chỉ phải trả cho eBay một khoản phí rất nhỏ. Khách hàng của eBay giao dịch với nhau chỉ đơn giản bằng cách gửi mã số sản phẩm, nhập vào số tài khoản, nhập vào số tiền cần trả và gửi đi dưới dạng văn bản đơn thuần bằng ĐTDĐ. 
-Để sử dụng dịch vụ này, người dùng cần phải đăng ký số ĐTDĐ của họ trên website của Paypal, sau đó chọn cho mình một mã số đặc biệt để bảo mật tài khoản. Trước đây, eBay và Paypal là 2 cơ cấu thanh toán trực tuyến riêng biệt, nhưng eBay đã chính thức “thôn tính” Paypal từ năm 2002. 
-

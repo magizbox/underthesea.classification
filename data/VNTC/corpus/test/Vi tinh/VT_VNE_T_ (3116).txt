@@ -1,7 +1,0 @@
-IE 7 không hỗ trợ Windows 2000
-Microsoft vừa khẳng định thời của Windows 2000 đã kết thúc và hãng sẽ không đầu tư cải tiến cho hệ điều hành này để tương thích với trình duyệt phiên bản mới Internet Explorer 7 (IE 7).
-Trình duyệt sắp ra mắt sẽ chỉ chạy trên Windows XP Service Pack 2 (SP2) ngay khi hãng cung cấp bản beta trong thời gian ngắn tới. Lý do duy nhất ở đây là một số chương trình bảo mật trong IE 7 chỉ hoạt động trên tính năng của hệ điều hành XP SP2 và không thể chạy trong Windows 2000.
-Như vậy, cánh cửa IE 7 đã chính thức đóng lại với khách hàng dùng Windows 2000 vì sự phụ thuộc của trình duyệt vào XP SP2. "Windows 2000 đã lỗi thời và không có gì đáng ngạc nhiên khi chúng tôi không hỗ trợ hệ điều hành này", Microsoft tuyên bố.
-Một số nhà phân tích cũng ủng hộ quan điểm trên bởi họ cho rằng nếu người dùng quan tâm đến cải tiến bảo mật thì tốt hơn là nên có kế hoạch cài XP SP2, do Windows 2000 không thể đáp ứng được nhu cầu bảo vệ người dùng trước nguy cơ an ninh hiện nay.
-Thông báo này hoàn toàn khác với những gì Microsoft hé mở cách đây không lâu. Khoảng giữa tháng 2, một số quan chức của hãng khẳng định trình duyệt mới có thể sẽ hỗ trợ cả Windows 2000. "Chúng tôi luôn lắng nghe ý kiến của những khách hàng dùng Windows 2000, và để ý đến những mong muốn đó trong quá trình xây dựng IE 7", Dean Hachamovitch, trưởng nhóm phát triển IE7, từng phát biểu. "Chúng tôi sẽ thực hiện nguyện vọng hỗ trợ Windows 2000 cho khách hàng."
-

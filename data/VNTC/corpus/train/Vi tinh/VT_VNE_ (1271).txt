@@ -1,8 +1,0 @@
-Trung Quốc triển khai mạng IPv6 lớn nhất thế giới
-Hôm qua, Trung Quốc chính thức khai trương mạng Internet thế hệ mới CERNET2. Đây là mạng đầu tiên trên thế giới hoàn toàn dựa trên giao thức IPv6 và được coi là một bước đột phá trong công nghệ Internet của nước này.
-CERNET2 (mạng nghiên cứu và giáo dục Trung Quốc) kết nối 25 trường đại học ở 20 thành phố. Hệ thống này đạt tốc độ 40 Gb/giây trong một thử nghiệm hôm 7/12. Đây là tốc độ kỷ lục đối với các ứng dụng thực tế, nơi tốc độ trung bình của mạng kết nối các trường đại học chỉ ở mức từ 2 đến 10 Gb/giây. Dự kiến, ở giai đoạn kế tiếp, CERNET2 sẽ mở rộng ra 100 trường đại học.
-Giám đốc Ủy ban CERNET nhận xét: "Chúng tôi chỉ là những kẻ học việc và theo sau trong công cuộc phát triển Internet thế hệ thứ nhất, nhưng chúng tôi đã bắt kịp những nền công nghiệp hàng đầu thế giới trong Internet thế hệ tiếp theo, trở thành người đi đầu và giành được sự tôn trọng cũng như quan tâm từ cộng đồng thế giới.
-Giới chuyên gia cho rằng, mạng giáo dục trực tuyến của Trung Quốc sẽ thúc đẩy quốc gia này vào cuộc đua kỹ thuật số toàn cầu và có thể sẽ tác động tới ngành công nghiệp, thậm chí cả người tiêu dùng.
-Bước chuyển sang IPv6 mang lại cho Trung Quốc lợi thế về số địa chỉ IP trên Internet, cho phép đại lục bổ sung một lượng địa chỉ rất lớn. Hiện nay, riêng Mỹ đã có tới 4 tỷ địa chỉ IP, chiếm 74% tổng số trên toàn thế giới.
-CERNET2 được tài trợ bởi Quỹ Internet thế hệ mới của Trung Quốc(CNGI) với số vốn lên đến 169 triệu USD.
-

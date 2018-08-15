@@ -1,6 +1,0 @@
-Khai giảng khoá đào tạo mới về an ninh mạng
-Chương trình do Trung tâm Tin học, ĐH Khoa học Tự nhiên TP HCM tổ chức, khai giảng vào ngày 30/5. Khoá học gồm 60 tiết, diễn ra trong một tháng với nội dung phù hợp yêu cầu thực tế về bảo mật mạng của các doanh nghiệp Việt Nam.
-Nội dung khoá học dựa trên chương trình đào tạo mới nhất của tổ chức chuyên về an ninh mạng Comptia, Mỹ (Comptia Security+). Học viên sẽ được trang bị lý thuyết và thực hành, từ khái niệm cơ bản về an ninh mạng đến các kiến trúc bảo mật chuyên sâu như điều khiển truy cập, xác nhận quyền hạn, các dạng tấn công, giải pháp phòng chống, mã hóa, chữ ký điện từ, bảo mật truyền thông, thiết kế hệ thống mạng an toàn, phát hiện thâm nhập... Hướng dẫn khóa học là những giáo viên đang dạy công nghệ thông tin và đảm nhiệm an ninh cho mạng trường ĐH Khoa học Tự nhiên TP HCM.
-Khóa học này dành cho người quan tâm đến bảo mật thông tin mạng máy tính, có kiến thức căn bản về lĩnh vực này và hệ điều hành Windows/Linux. Học viên có nhiều thuận lợi hơn nếu có chứng chỉ CCNA hoặc MCSA và khả năng đọc hiểu tiếng Anh chuyên ngành. Học phí một khóa học là 2.200.000 đồng.
-Độc giả cần thêm thông tin, có thể liên hệ số điện thoại: (08) 8206227 - 8206716 - 8208546, hoặc truy cập địa chỉ: www.tatavietnam.com hoặcwww.vuevietnam.com
-

@@ -1,8 +1,0 @@
-Hỏi về vấn đề tạo miền qua truy cập ADSL (2)
-Hiện ở cửa hàng tôi đang sử dụng đường truy cập ADSL Mega Net, lúc đầu các máy cài đặt mạng LAN và thiết lập theo network là workgroups. Tình hình là các máy con đều bị mất đặc tính properties với thông báo Administrator disable Control Panel. Nếu tôi muốn cài lại WinXP và đặt miền là Domain thì có thể các máy con không truy cập mạng được khi máy chủ quản lý ở chỗ tôi bị ngắt khỏi mạng hoặc vì lý do nào đó như khởi động lại không? Xin vui lòng gỡ rối vấn đề này giùm tôi! Tôi rất lấy làm cảm kích nếu ai đó vui lòng chỉ giúp. 
-Nguyễn Hồng Hải
-Hồi âm:
-Xem chừng vấn đề "rối" của bạn có nguồn gốc xâu xa hơn một chút. Bạn cần tìm hiểu thêm về mạng và domain nói chung. Ít nhất lúc đó bạn sẽ biết mình muốn hỏi về vấn đề gì. 
-Dong Ngo
-Theo như bạn mô tả thì rất có thể như sau: 1. Có ai đó đã chỉnh sửa Registry trong máy để cấm không cho truy cập vào properties của mục bạn muốn vào, vì bạn không nói rõ properties của cái gì nên không thể nói chính xác được. 2. Bị virus chỉnh sửa Registry, tìm chương trình diệt virus diệt thử xem   Còn câu hỏi sau thì bạn hỏi không rõ ràng nên không biết ý bạn muốn gì, nếu bạn nói rõ thì chắc chắn sẽ có cách giải quyết vấn đề tốt hơn đó. 
-

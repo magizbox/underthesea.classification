@@ -1,8 +1,0 @@
- Nghe phone trên iPod với Tekkeon myTalker
-myTalker là cổng kết nối Bluetooth đầu tiên giúp người dùng sử dụng tai nghe (headphone) để gọi hoặc nhận cuộc gọi điện thoại trong khi nghe nhạc với iPod hoặc máy MP3 Player. 
-myTalker kết nối giữa iPod hay máy nghe nhạc MP3 cùng tai nghe nhạc và gắn kết với bất kỳ điện thoại di động nào hỗ trợ Bluetooth, cũng giống như một bộ tai nghe Bluetooth. Các cuộc gọi đến sẽ được nghe trực tiếp từ tai nghe của iPod và nói thông qua microphone của myTalker mà có thể gắn ở cổ áo. 
-Những nút nhấn trên myTalker cho phép người dùng hiệu chỉnh dung lượng âm thanh volume và sử dụng các tính năng gọi cao cấp như gọi lại số điện thoại (redial), kết nối bằng giọng nói, hội thảo, và chờ. Tình trạng của myTalker và dung lượng pin sẽ được thông báo đến người dùng qua một bộ báo cáo. 
-Bộ pin của myTalker cung cấp đến 5 giờ cho thời gian gọi và 120 giờ thời gian chờ. myTalker có thể được sạc thông qua cổng USB hay bộ nguồn USB sử dụng cáp USB. Cân nặng chỉ có 33g với kích thước nhỏ gọn, myTalker tương thích với tất cả các dòng iPod và bất kỳ máy nghe nhạc MP3 nào được trang bị khe cắm audio chuẩn cũng như kết hợp với bất kỳ điện thoại di động Bluetooth 1.1 hay 1.2 nào. 
-Các tính năng chính: Một chạm truy cập đến các tính năng gọi chuẩn cũng như nâng cao (cũng đòi hỏi sự hỗ trợ từ phía ĐTDĐ): 
-- Trả lời / kết thúc cuộc gọi - Từ chối cuộc gọi - Giữ cuộc gọi - Hội thảo - Cuộc gọi chờ - Quay lại số vừa kết nối - Chuyển cuộc gọi đến (từ) myTalker 
-

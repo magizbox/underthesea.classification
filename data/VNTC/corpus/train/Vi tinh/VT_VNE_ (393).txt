@@ -1,7 +1,0 @@
-Lỗi trong ZoneAlarm mở toang tường lửa
-Hãng Zone Labs vừa cảnh báo một số phiên bản tường lửa cá nhân do họ cung cấp có nguy cơ bị tấn công gây tràn bộ nhớ đệm. Điều này có thể được thực hiện qua công cụ e-mail, khiến hệ thống tưởng như vẫn đang được bảo vệ trở nên trống hoác trước các vụ xâm nhập phá hoại.
-Những phiên bản bị khiếm khuyết này bao gồm ZoneAlarm 4.0, ZoneAlarm Plus 4.0, ZoneAlarm Pro 4.0, ZoneAlarm Pro 4.5, Zone Labs Integrity Client 4.0 và 4.5. 
-Nhà cung cấp cho biết nếu bị khai thác, một hacker cao tay có thể khiến tường lửa ngừng điều tiết lưu thông dữ liệu, tung ra mã tùy thích hoặc nâng mức ưu tiên đối với mã riêng của mình. 
-Khiếm khuyết nói trên, lần đầu tiên được hãng bảo mật eEye Digital Security phát hiện, bắt nguồn từ một bộ đệm chưa được kiểm tra trong giao thức truyền mail giản đơn SMTP, từ đó dẫn đến tình trạng tràn dữ liệu. Những hệ thống mang khiếm khuyết có khả năng bị khai thác từ xa là những đối tượng hoạt động như một máy chủ SMTP.
-Zone Labs cho biết họ không khuyên khách hàng sử dụng các sản phẩm an ninh nói trên để bảo vệ máy chủ vì đó chỉ là các công cụ tường lửa cá nhân. Hơn nữa, họ có cung cấp một loại tường lửa chuyên dụng cho máy chủ trong loạt phần mềm Integrity. Người sử dụng ZoneAlarm hiện được khuyến cáo nên nâng cấp sang phiên bản 4.5.538.001, đồng thời những ai đang dùng Integrity Client 4.0 và 4.5 cũng nên chuyển sang 4.0.146.046 và 4.5.085.
-

@@ -1,6 +1,0 @@
- Gia tốc Windows XP
-SystemBoosterXP là một chương trình tự động điều phối với cách cấu hình cực kỳ đơn giản. Chương trình sẽ theo dõi những tập tin mà bạn truy cập nhiều nhất và tiến hành cache nó. Tức là, những tập tin này sẽ được nằm trong tư thế sẵn sàng để cho Windows sử dụng, giảm thiểu tối đa thời gian máy tính cần để truy xuất đến nó. 
-Cách sử dụng cũng rất đơn giản. Mặc định, booster sẽ theo dõi tất cả các tập tin trên đĩa cứng. Bạn có thể thiết lập chế độ chạy booster cho một số thư mục cụ thể để tiết kiệm không gian bộ nhớ. Cũng có thể chọn chế độ ưu tiên của chương trình (Boosting priority), tốc độ làm mới (cập nhật) các tập tin (Refresh rate). Lưu ý SystemBooster yêu cầu bạn mở chức năng DisableLastAccess của NTFS, 
-có thể kích hoạt chức năng này bằng thao tác sau: 
-Run --&gt; cmd, gõ vào FSUTIL BEHAVIOR SET DISABLELASTACCESS 0, nhấn Enter. Chương trình hiệu quả nhất với các máy tính có dung lượng RAM từ 128 - 256 MB. Ít hơn hoặc nhiều hơn đều không đem lại hiệu quả rõ rệt. Bạn có thể tải về bản dùng thử tại địa chỉ http://www.systembooster.com/download.htm . 
-

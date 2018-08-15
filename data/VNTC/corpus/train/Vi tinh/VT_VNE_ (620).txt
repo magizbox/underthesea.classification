@@ -1,6 +1,0 @@
-AMD đẩy mạnh nghiên cứu chip cho máy tính xách tay
-Hãng sản xuất bộ vi xử lý lớn thứ hai thế giới vừa khai trương phòng thí nghiệm chip dành riêng cho máy laptop có kiểu dáng mỏng và nhẹ tại Nhật Bản. Khoảng 15-20 kỹ sư sẽ làm việc tại đây trong vòng 12-18 tháng tới.
-Cơ sở nghiên cứu tại Tokyo sẽ do Steve Polzin, kiến trúc sư trưởng của AMD, đảm trách. Theo hãng chip, sở dĩ Nhật Bản được chọn là nơi đặt phòng thí nghiệm mới do tỷ lệ người dùng máy tính xách tay ở nước này cao. Năm ngoái, dòng notebook chiếm gần 55% thị phần máy tính trong nước.
-Nhật Bản còn là quốc gia có nền công nghiệp điện toán di động phát triển mạnh, Kazuo Sakai, Phó chủ tịch phụ trách bán hàng của AMD khu vực Nam Á - Thái Bình Dương và Nhật Bản, nhận định. Với việc lập phòng lab mới, người dùng xứ Phù Tang có cơ hội tích hợp nhiều tính năng lên thiết bị di động.Theo AMD, hãng tiếp tục phát triển 3 loại chip Athlon 64, Alchemy và Geode tiết kiệm điện năng cho máy tính xách tay, đồ điện tử gia dụng và thiết bị viễn thông. 
-Công ty có trụ sở tại Sunnyvale, California (Mỹ), cho biết các kỹ sư ở phòng thí nghiệm Tokyo cũng sẽ hợp tác chặt chẽ với nhóm đồng nghiệp ở Austin (Texas, Mỹ), Dresden (Đức) và Đài Bắc (Đài Loan). Hãng sản xuất máy tính xách tay Nhật Bản, Sharp, vừa đạt được thỏa thuận phát triển công nghệ với AMD.
-

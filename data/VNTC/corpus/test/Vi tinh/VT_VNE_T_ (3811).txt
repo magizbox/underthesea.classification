@@ -1,6 +1,0 @@
-Cisco.com thay đổi toàn bộ mật khẩu khách hàng 
-Hãng giải pháp mạng của Mỹ này đang tiến hành gửi mật khẩu mới cho tất cả người dùng đã đăng ký trong trang Cisco.com sau khi phát hiện ra một lỗ hổng lớn trong phần mềm tìm kiếm, có thể làm lộ password.
-John Noh, phát ngôn viên của Cisco, cho biết những mật khẩu này được sử dụng rộng rãi bởi khách hàng, nhân viên và đối tác của Cisco để được quyền truy cập vào những khu vực đặc biệt hay nhận e-mail thông báo...
-Cisco đã phát hiện lỗ hổng từ hôm 1/8 và đã nhanh chóng sửa lỗi. Tuy nhiên, lo ngại những thông tin đã bị rò rỉ trước đó, hãng quyết định cung cấp mật khẩu mới cho người dùng Cisco.com, và khách hàng sẽ không thể truy cập khu vực đặc biệt cho đến khi họ nhận được password. Noh không khẳng định hãng sẽ mất bao lâu để gửi đi tất cả thông báo tới người sử dụng cũng như từ chối tiết lộ chi tiết về lỗ hổng.
-Cisco mua công cụ của Google để tăng sức mạnh cho tính năng tìm kiếm trên trang của mình. "Lỗi không liên quan đến sản phẩm của Google mà xuất phát từ một phần ứng dụng web của Cisco", Noh khẳng định.
-

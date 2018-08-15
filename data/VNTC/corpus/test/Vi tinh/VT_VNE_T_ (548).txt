@@ -1,7 +1,0 @@
-Thị trường phần mềm quản lý lưu trữ hồi phục
-Hôm qua, hãng nghiên cứu Gartner công bố doanh số bán các sản phẩm sao lưu và phục hồi dữ liệu tăng 7,9% trong năm 2003, đạt 5 tỷ USD trên toàn cầu. Năm trước đó, thị trường này đã giảm 8%, chỉ đạt 4,6 tỷ USD.
-Nhà phân tích Carolyn DiCenzo của Gartner tin tưởng thị trường này sẽ tiếp tục đà tăng trưởng tương tự trong năm nay.
-Năm 2003, EMC giành vị trí số 1 về doanh số với 28,3% thị phần. Veritas Software xếp thứ hai, chiếm 18,7% thị phần. IBM đứng thứ 3 với 13%, tiếp theo là HP - 5,6% và Computer Associates - 5,3%. Trong bảng xếp hạng top 5 này, chỉ có IBM và HP là giành thêm được thị phần năm ngoái, trong đó có việc HP đánh bật Computer Associates International khỏi vị trí thứ 4.
-Còn Công ty IDC dự báo chi tiêu cho công nghệ thông tin toàn cầu sẽ tăng 5% trong năm nay, hơn 2% so với năm ngoái. Tháng trước, hãng nghiên cứu này công bố doanh thu phần mềm lưu trữ tăng 8% trong năm 2003, đạt 6,29 tỷ USD, riêng quý IV tăng 18%.
-Theo IDC, chi tiêu cho phần mềm lưu trữ vẫn ít hơn so với phần cứng lưu trữ. Nhưng nhu cầu về phần mềm sẽ ngày càng tăng khi nhiều cơ quan, tổ chức đang có xu hướng cắt giảm chi phí hành chính.
-

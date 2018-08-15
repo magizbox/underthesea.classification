@@ -1,8 +1,0 @@
-80% nhân viên dùng IM tại công sở
-Tin nhắn nhanh (IM) đang ngày một phổ biến tại nơi làm việc, nhưng hầu hết các công ty đều thất bại trong việc kiểm soát nhân viên sử dụng dịch vụ này.
-Cuộc điều tra YouGov do hãng bảo mật Akonix (Anh) tiến hành cho thấy IM không chỉ là một ứng dụng mang tính giải trí mà còn là công cụ kinh doanh hữu hiệu khi nó là cầu nối để tiếp cận thông tin, duy trì liên lạc và làm cho mối quan hệ của công ty với khách hàng hay đối tác trở nên gần gũi hơn.
-IM được dùng phổ biến nhất ở lứa tuổi 18 - 28, và 80% trong nhóm này công nhận họ sử dụng chúng để tán gẫu với bạn bè và gia đình khi đang làm việc. Theo nghiên cứu của hãng Gartner, hầu hết dịch vụ IM được tải về máy tính văn phòng là do mục đích cá nhân của mỗi nhân viên.
-Điều tra của Akonix: - 25% sử dụng IM nói những điều ông chủ không tán thành.- 16% dùng đển gửi và nhận thông tin nhạy cảm về công ty.- 25% dùng IM để tán gẫu với bạn bè và người thân. - 25% dùng IM để tải nhạc và phim tại nơi làm việc. (Cuộc điều tra được tiến hành trực tuyến ở Anh với 2000 người tham gia)
-Có tới 1/4 số người sử dụng thừa nhận rằng IM chính là phương tiện hoàn hảo cho việc tán gẫu tại cơ quan. Nhiều người đã dùng IM để gửi đi những thông điệp mà chắc chắn ông chủ họ sẽ không hài lòng. Nguy hiểm hơn, 16% đã nhận hoặc gửi thông tin nhạy cảm về công ty qua IM.
-"IM có những thuận lợi nhất định, nhưng nó cần được quản lý nghiêm ngặt để tránh rò rỉ thông tin. Hơn thế, phải áp dụng nhiều giải pháp kỹ thuật để ngăn IM trở thành mục tiêu của những kẻ chuyên phát tánspam vàvirus", Bill Harmer, Giám đốc điều hành của Akonix, phát biểu. "Có thể cho phép sử dụng dịch vụ này, nhưng cần có biện pháp bảo vệ chính doanh nghiệp của mình một cách đầy đủ, nếu không bạn sẽ phải trả giá".
-

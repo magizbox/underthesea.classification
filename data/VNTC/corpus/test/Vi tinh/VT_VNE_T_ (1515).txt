@@ -1,6 +1,0 @@
-Trang web chống spam của Lycos bị đánh sập
-Vừa đưa ra chương trình Screen saver chống spam"Make love not spam" chưa được bao lâu thì website cung cấp phần mềm này của Lycos Euro đã bị hacker "hỏi thăm".
-Khi truy cập vào trang makelovenotspam.com, người dùng chỉ nhận được một thông điệp duy nhất trên màn hình: "Yes, attacking spammers is wrong. You know this, you shouldnt be doing it. Your IP address and request have been logged and will be reported to your ISP for further action" (Tấn công những người gửi spam là sai. Bạn biết điều này và bạn không được phép làm như vậy. Địa chỉ IP và những truy vấn từ máy tính của bạn đã bị lưu lại và sẽ được chuyển cho nhà cung cấp dịch vụ Internet để có những xử lý tiếp theo). 
-Công ty sản xuất phần mềm chống virus E-Secure nghi ngờ trang web này đã bị một nhóm ủng hộ việc gửi thư rác tấn công. Trước đó, hãng từng khuyến cáo người dùng không nên sử dụng chương trình của Lycos vì có thể sẽ phải đối mặt với những vấn đề pháp lý. 
-Năm ngoái, Symbiot, một hãng bảo mật ở Texas (Mỹ) cũng đã bị tấn công sau khi thiết kế một chương trình chống lại DDoS.
-

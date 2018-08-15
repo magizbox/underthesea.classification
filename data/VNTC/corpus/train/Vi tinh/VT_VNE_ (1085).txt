@@ -1,6 +1,0 @@
-Văn phòng Quốc hội khai trương thư viện điện tử
-Chiều qua, phần mềm thư viện điện tử của Văn phòng Quốc hội đã đi vào hoạt động. Đây là chương trình thuộc dự án Hỗ trợ cải cách pháp luật cho nhà nước Việt Nam do Quỹ hỗ trợ phát triển quốc tế của Vương quốc Đan Mạch (DANIDA) tài trợ. 
-Đơn vị được Đan Mạch lựa chọn làm đối tác triển khai dự án là Công ty công nghệ tin học Tinh Vân với sản phẩm thư viện số LIBOL. Theo đại diện của công ty, trong kỳ họp này, LIBOL có thể phục vụ mọi yêu cầu tìm hiểu và tra cứu dữ liệu của các đại biểu Quốc hội qua hệ thống Intranet của Văn phòng Quốc hội. Sắp tới, những thông tin về kho sách của thư viện sẽ được đưa lên trang web của Quốc hội (www.na.gov.vn) để những người sử dụng bên ngoài cũng có thể tra cứu.
-Với cơ chế tìm kiếm qua chuẩn Z39.50, người sử dụng thư viện Quốc hội Việt Nam còn dễ dàng tìm kiếm được thông tin trong thư viện trực tuyến của các nghị viện và trường đại học trên thế giới hoặc bất cứ thư viện nào đã đưa kho sách của họ lên mạng Internet và cho phép truy nhập trực tuyến. 
-Sự ra đời của thư viện điện tử tại Văn phòng Quốc hội sẽ phục vụ tốt cho công tác khai thác thông tin của các đại biểu Quốc hội, giúp tin học hoá nghiệp vụ thư viện của cơ quan này với lượng dữ liệu được quản lý khá đa dạng. 
-

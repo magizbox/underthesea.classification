@@ -1,7 +1,0 @@
- Bản cập nhật mới cho Windows Vista
-Song song với việc bổ sung các tính năng bảo mật, phiên bản (CTP build 5270) này cũng kèm theo một vài chức năng xử lý và giao diện người dùng. Phiên bản này là bản thứ 3 mang tên CTP (Community Technology Preview) hay còn gọi là bản đánh giá nhận xét về công nghệ. 
-Một vài thay đổi như Microsoft AntiSpyware giờ đây có tên mới là Windows Defender. Phiên bản mới vào tháng 12 vừa qua được phát triển dựa trên công nghệ mới mà Microsoft giới thiệu rằng có khả năng dò tìm và diệt các phần mềm, chương trình độc hại nhiều hơn trước đây. 
-Người dùng cũng sẽ làm quen với chức năng mới là BitLocker Drive Encryption, mã hóa bảo mật dữ liệu trên máy tính, phòng tránh mất hay dữ liệu bị trộm. Hơn nữa, giờ đây đã có thêm bộ quản lý thiết thực hơn cho các thiết bị lưu trữ di động bằng cách cho phép người quản trị hệ thống có khả năng khóa các cài đặt. 
-Một vài bộ quản lý Parental được thiết kế để hỗ trợ các bậc phụ huynh giới hạn và theo dõi việc sử dụng truy cập Internet với một vài bổ sung khác như: bộ lọc tường lửa, nút nhấn tắt/mở bộ quản lý, SuperFetch, kể cả phần cập nhật cho Windows Media Center và Windows Media 11 cũng được tích hợp thêm. 
-Microsoft cũng phát hành phiên bản cập nhật cho Windows Server đến người dùng thử nghiệm. Windows Server LongHorn sẽ không có sẵn trong MSDN hay TechNet, chỉ được giới thiệu đến những người tham gia một chương trình thử nghiệm riêng. 
-

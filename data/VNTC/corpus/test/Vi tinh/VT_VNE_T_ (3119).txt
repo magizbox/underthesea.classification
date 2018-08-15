@@ -1,8 +1,0 @@
-Vụ lừa đảo bằng Trojan lớn nhất thế giới
-Cảnh sát Israel vừa phát hiện ra một đường dây gián điệp công nghiệp quy mô lớn đã sử dụng phần mềm Trojan để rình mò và lấy cắp thông tin của những công ty hàng đầu nước này.
-Theo tường thuật của báo chí Israel, một loạt các công ty ứng dụng, sản xuất TV, điện thoại di động, nhập khẩu ôtô đã bị cài Trojan - được viết bởi cặp vợ chồng Michael Haephrati và Ruth Brier-Haephrati sống tại Anh - để theo dõi động thái của các hãng đối thủ cạnh tranh với tỷ lệ thành công rất cao.
-Đôi tin tặc đã sử dụng hai phương pháp tấn công đơn giản để qua mặt hệ thống an ninh thông thường như vành đai bảo vệ hay chương trình chống virus. Phương pháp đầu tiên là gửi đĩa đề xuất một vấn đề kinh doanh nào đó tới nhân viên trong công ty, và khi được mở ra, đĩa này sẽ tải Trojan vào máy tính cá nhân. Một quá trình tương tự cũng được thực hiện qua e-mail, tiếp cận PC nhờ sự mất cảnh giác của người dùng.
-Chương trình nói trên đã rất hiệu quả trong việc thu thập tài liệu mật của mục tiêu mà nó nhằm tới, cũng như kiểm soát hoạt động những máy tính bị nhiễm. Cảnh sát cho biết họ đã truy cập một loạt các FTP server ở Anh và Israel, và khám phá ra tới 10.000 tài liệu bị phần mềm nguy hiểm ăn cắp từ các công ty nạn nhân.
-"Thật khó có thể tin rằng hầu hết các chuyên viên cao cấp tại những doanh nghiệp này lại không hề ý thức được sự tồn tại của spyware", cảnh sát Israel nói. "Họ đáng lẽ phải sớm phát hiện ra rằng tài liệu đã bị ăn cắp theo cách thức nào".
-Đến nay, đã có thêm 21 người bị đặt vào diện nghi vấn bao gồm cả lãnh đạo công ty, thám tử tư, thậm chí cựu thành viên trong ngành an ninh Israel. Cảnh sát nước này đang tiếp tục mở rộng điều tra dưới sự hỗ trợ của Interpol và các nhà chức trách tại Anh, Mỹ và Đức.
-

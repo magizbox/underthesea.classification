@@ -1,6 +1,0 @@
-Hỏi về thiết kế trang web (1)
-Có trang web bằng tiếng Việt nào chỉ dẫn về cách thiết kế trang web mà không cần phải biết ngôn ngữ lập trình không? Hay những trang web chỉ dẫn cách thiết kế trang web mà bất cứ ai cũng có thể làm được nếu chỉ biết sử dụng máy tính không?
-bui doan chung
-Hồi âm:
-Trang web www.vitinh.de co day HTML kha chi tiet, phu hop voi nhung ai moi hoc thiet ke web. Hoc thiet ke web khong nen dung software, nen hoc HTML, sau nay co the phat trien chuyen nghiep hon. 
-

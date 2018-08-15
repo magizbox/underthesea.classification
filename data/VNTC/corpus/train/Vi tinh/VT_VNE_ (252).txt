@@ -1,8 +1,0 @@
-Bảo vệ mật khẩu mail (1)
-Chao anh cac anh chi! Hien tai toi dang su dung chuong trinh mail cua yahoo, toi co the lam cach nao de bao ve duoc mat khau cua minh. Co the ai do tim duoc mat khau cua toi hay khong ? (bang mot trang web nao do). Cam on su giup do cua cac anh, cac chi. 
-Bùi Nguyễn Công Quỳnh
-Hồi âm:
-Theo tôi biết thì việc tổ chức bảo mật của Yahoo Mail khá tốt, còn việc bạn sợ bị đánh cắp password thì bạn có thể vào Option của mail để thay đổi password. Cần nhớ rằng password phải có nhiều ký tự (từ 8 trở lên), có cả chữ hoa lẫn chữ thường cùng với các ký tự đặc biệt, và password thì không được gần giống với tên mail.
-Nói chung thì việc đặt password là để cản đường dân xoàng xoàng thôi, chứ với hacker thì không ăn thua. Khi hacker xâm nhập vào cơ sở dữ liệu của các máy chủ rồi thì password kiểu gì cũng không bảo vệ nổi.
-Nói nghe ghê vậy thôi chứ địa chỉ mail của mình thì người ta lấy để làm gì, không bổ ích gì cả (đối với đa số người). Chúc bạn an tâm sử dụng mail.
-

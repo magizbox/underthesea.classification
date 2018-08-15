@@ -1,5 +1,0 @@
-Khám phá bí mật của mạng với Angry IP Scanner
-Hiện nay, hầu hết máy tính nối mạng đều chạy hệ điều hành Windows nhưng Microsoft không giúp gì người dùng trong việc tìm sự cố và những bí ẩn trong hệ thống mạng. Tuy nhiên, bạn có thể thực hiện điều đó với phần mềm miễn phí Angry IP Scanner.
-Angry IP Scanner cho phép bạn ping một loạt địa chỉ IP và trả lại tốc độ ping, tên máy chủ và các địa chỉ IP đang hoạt động - tất cả được gói gọn trong một giao diện Windows hấp dẫn, dễ đọc. Đây là một tiện ích hoàn hảo khi bạn cần tìm hiểu xem PC nào đang kết nối với mạng của bạn. 
-Để sử dụngAngry IP Scanner, bạn cần tải về file setup tại đây, giải nén và cài đặt chương trình.
-

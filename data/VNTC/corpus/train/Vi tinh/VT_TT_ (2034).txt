@@ -1,3 +1,0 @@
- Sẽ thanh tra hoạt động cấp phát tên miền
-Lý do thanh tra được giải thích là do dư luận có nhiều ý kiến cho rằng VNNIC chưa sòng phẳng trong việc cấp phát tên miền đối với khách hàng. Mặc dù được giao nhiệm vụ quản lý tên miền nhưng VNNIC đã để xảy ra tình trạng tên miền bị đem rao bán tràn lan trên mạng Internet, trong khi qui định về quản lý và sử dụng tài nguyên Internet cấm chuyển nhượng, cho thuê, bán lại tài nguyên Internet. 
-

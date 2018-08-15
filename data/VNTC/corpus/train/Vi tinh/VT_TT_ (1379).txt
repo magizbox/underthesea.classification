@@ -1,4 +1,0 @@
- Máy MP3 “lõi kép” đầu tiên trên thế giới!
-Chip xử lý của máy C150 có chức năng gần giống như chip lõi kép xài cho máy tính, nhưng chỉ chuyên xử lý âm thanh và hình ảnh. Lõi đầu tiên của C150 chuyên dùng để gia tăng chất lượng âm thanh cho các bài nhạc số đang chơi, còn lõi thứ hai chuyên dùng để xử lý video dạng MPEG1 để đưa chất lượng hình ảnh lên mức cao nhất có thể được. 
-Hiện TCLAST chưa công bố thêm thông tin gì về C150 ngoài một vài hình ảnh trông rất hấp dẫn. 
-

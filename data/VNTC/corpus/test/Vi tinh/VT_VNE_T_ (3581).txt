@@ -1,7 +1,0 @@
-Mozilla tiếp tục thử nghiệm trình duyệt độc lập mới
-Tổ chức phần mềm mã mở này vừa ra mắt bản Alpha 2 cho trình duyệt độc lập sau Firefox. Phiên bản mang tên Deer Park, tích hợp hệ thống tự động cập nhật, có khả năng vá lỗi trình duyệt chỉ với những file nâng cấp nhỏ. 
-Với tính năng này, người dùng sẽ không phải tải và cài đặt lại toàn bộ phiên bản khi xuất hiện lỗi trình duyệt. Tuy nhiên, hệ thống hiện nay chưa hoạt động. Theo Chris Hofmann, Giám đốc kỹ thuật của Mozilla, đó là do họ muốn hạn chế số người dùng định thử dịch vụ cập nhật mới vì cần đảm bảo trình duyệt chạy hoàn hảo trước khi chính thức ra mắt.
-Alpha 2 còn có thêm tính năng Fastback, cho phép lưu (cache) những trang đã xem trước đây vào trong một bộ nhớ đệm để nhanh chóng mở ra khi bấm nút định hướng Back (trở lại trang trước) hay Forward (trở lại trang sau).
-Deer Park Alpha 2 cũng có một số cải tiến về công cụ chặn pop-up, hỗ trợ tốt hơn cho hệ điều hành Mac OS X, thêm một vài bản vá lỗi bảo mật và tính năng kéo/thả để sắp xếp lại các phím tab.
-Alpha 2 có thể hoạt động trên các phiên bản hệ điều hành của Windows, Mac và Linux. Tải bản Alpha 2 tại đây.
-

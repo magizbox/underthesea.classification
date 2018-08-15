@@ -1,7 +1,0 @@
-Chương trình nguy hiểm Rootkit xuất hiện trong IM
-Các chuyên gia bảo mật vừa cảnh báo về một loại sâu mới chưa được đặt tên trong hệ thống tin nhắn nhanh (IM). Nó là sự pha trộn của những phần mềm không mong muốn, trong đó có cả Rootkit, công cụ khai thác những phần chưa được bảo vệ trong máy tính.
-Khi bạn bấm vào link chứa sâu, một chương trình chứa mã tấn công sẽ nhanh chóng thâm nhập vào hệ thống của bạn, Tyle Wells, Giám đốc kỹ thuật của công ty FaceTime (Mỹ), cho biết. Đây là lần đầu tiên chúng tôi chứng kiến rootkit hoạt động như là một gói các ứng dụng nguy hiểm được gửi tới máy tính qua IM. Xu hướng này quả không dễ chịu chút nào.
-Ngoài tệp rootkit lockx.exe, sâu mới còn tung ra một phiên bản của Sdbot. Trojan này sẽ mở một cổng hậu trên máy tính bị nhiễm để hacker điều khiển hệ thống từ xa. Nó cũng để lại một vài ứng dụng spyware và phần mềm quảng cáo adware, bao gồm 180Solutions, Zango, Freepod Toolbar, MaxSearch, SearchMiracle và Media Gateway. 
-Tất cả phần mềm "không mời mà đến" này sẽ khai thác toàn bộ tài nguyên của hệ thống, làm chậm máy tính, vô hiệu hóa chương trình bảo mật và thay đổi trang tìm kiếm trên trình duyệt của người dùng. Sâu mới chỉ được tìm thấy trong chatroom của hệ thống tin nhắn nhanh AOL. 
-Những cuộc tấn công IM bằng sâu và mã nguy hiểm đang diễn ra với mật độ ngày càng dày hơn trước đây. Theo nhà cung cấp bảo mật IMlogic của Mỹ, số nguy cơ trong mạng tin nhắn nhanh và chia sẻ ngang hàng P2P đã tăng 3.269% trong quý III/2005 so với cùng kỳ năm ngoái.
-

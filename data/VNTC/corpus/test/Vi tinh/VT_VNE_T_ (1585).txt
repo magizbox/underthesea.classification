@@ -1,6 +1,0 @@
-Còn quá sớm để nói nhiều về WiMAX
-Một báo cáo mới đây của công ty tư vấn thị trường IDC cảnh báo các hãng sản xuất thiết bị và cung cấp dịch vụ kết nối  wireless đừng lạc quan quá mức về mạng không dây băng rộng.
-Theo IDC, công nghệ kết nối không dây tốc độ cao này có cơ hội phát triển rất tiềm năng nhưng vẫn còn quá sớm để các nhà cung cấp gắn bó với việc phát triển nó, mặc dù trên thực tế, một số công ty thiết bị mạng đang có những động thái rất tích cực ở lĩnh vực này, trong đó có Intel, Fujitsu, Microelectronics America và Wi-LAN. 
-Cho tới khi các hãng cung cấp lớn có sự cam kết chắc chắn triển khai WiMAX, thì chỉ có cơ hội cho một thị trường nhỏ tồn tại đến năm 2008, báo cáo của IDC viết. Ngoài ra, một vấn đề nữa là liệu có đủ chỗ để WiMAX song song tồn tại với rất nhiểu công nghệ mạng có dây và không dây hiện hành hay không.
-IDC cho rằng WiMAX có thể là một giải pháp rẻ tiền hơn các loại đường T-1 dùng cho backhaul của các điểm truy cập không dây (backhaul là phương thức mà các bộ chuyển mạch nhận dữ liệu từ mạng chính backbone). Câu hỏi đặt ra là khối lượng triển khai có đủ lớn để người ta cân nhắc đến việc đầu tư hay không. Cũng theo IDC, các chipset WiMAX có thể hỗ trợ công nghệ này trên máy tính xách tay vào năm 2007. 
-

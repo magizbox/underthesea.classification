@@ -1,6 +1,0 @@
-Tạo và đưa web miễn phí lên mạng (1)
-Làm ơn giúp tôi làm thế nào để tạo một WEB Hosting miễn phí và cách đưa trang WEB lên từ phần mềm: "CoffeeCup VisualSite Designer 3.0 ". Xin cảm ơn!
-Lê Quốc Anh
-Hồi âm:
-Hiện nay trên Internet có rất nhiều site cung cấp freehost, bạn có thể vào Google tìm kiếm. Bạn có thể thử vào trang www.web1000.com , thủ tục đăng ký đơn giản. Còn upload bạn có thể dùng các chương trình ftp hoặc ngay chính IE cũng rất nhanh. 
-

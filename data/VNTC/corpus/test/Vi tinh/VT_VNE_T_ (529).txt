@@ -1,6 +1,0 @@
-Lỗi khi restart (1)
-Toi dang su dung Win 98 va Win 2000. Bong hom nay, software DvdXCopy cua toi khong the ghi dia duoc nen toi phai install lai. Nhung khi toi restart may thi may khong start binh thuong nua. No hien thi:Stop: 0x0000001EKMODE_EXCEPTION_NOT_HANDLEDAddress EB6A0A14 base at EB6A0000 DateStamp 3bd43a73 PxHelp20.sys.Toi da boot lai o Safe Mode cung khong the duoc, chi co the dung Win98 ma thoi. Nho cac ban giup toi giai quyet su co nay. Cam on nhieu. Xin chao.
-Dong Vu
-Hồi âm:
-KMODE_EXCEPTION_NOT_HANDLED rat nhieu nguyen nhan tao ra loi nay.nhung rat co the o phan device drive vi co hien thi tep tin PXHELP20.SYS truoc nhat 2k ban co update SP 4 cho windows chua ?? hay quet virus tren may thu xem co dinh backdoor NT hack virus khong ?? hay update drive cho windows thong thuong NFORCE hay NVIDIA drive. Ban hay vao device manager se thay. Ban khong noi CD drive hay DVD drive la loai nao? Co the ban phai update lai firmware cho drive hay vao trang nha cua ho de xem thu, thuong duoc de duoi muc drive dowload hay support.
-

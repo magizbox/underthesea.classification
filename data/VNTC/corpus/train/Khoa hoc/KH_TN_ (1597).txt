@@ -1,3 +1,0 @@
-Các nhà khoa học thuộc Viện công nghệ Massachusetts (Mỹ) đang chế tạo các cơ bắp nhân tạo cho robot để nó có thể làm việc nhanh hơn gấp 1.000 lần so với con người mà không cần phải nạp năng lượng. 
-Cơ bắp của thế hệ robot hiện nay di chuyển chậm hơn 100 lần so với cơ bắp của con người. Loại cơ bắp đang được chế tạo được làm từ chất liệu polymer tiếp hợp và có thể dẫn điện như dây kim loại, khác với các loại polymer truyền thống (như cao su và chất dẻo) có đặc tính cách điện. Với loại cơ bắp mới này - vốn có tính bền rất cao- các robot tương lai sẽ thực hiện nhiều công việc phức tạp thay cho con người như có thể khâu các mạch máu lại... (NK)
-

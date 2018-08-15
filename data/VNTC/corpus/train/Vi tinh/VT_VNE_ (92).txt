@@ -1,9 +1,0 @@
-Làm sao loại bỏ trang lạ trong homepage (2)
-Chào các bạn, xin các bạn chỉ cho tôi cách loại ngay cái trang web đáng ghét http://www.yuhmee.com/?src=homepage khi nó cứ luôn luôn chễm chệ trong mục homepage của tôi, mặc dù tôi đã biết bao nhiêu lần thiết lập homepage trở lại thành www.google.com. Các ơn các bạn. 
-Ân
-Hồi âm:
-Máy của bạn bị dính 1 loại spyware rồi. Hãy download Adaware / Spyware Blaster về để khử cái trang đó đi. 
-Le Dong Phuong
-Ban dung spybot (http://www.safer-networking.org/) thu xem. 
-nlc
-

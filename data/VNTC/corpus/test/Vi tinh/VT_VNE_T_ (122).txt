@@ -1,6 +1,0 @@
-Lưu file từ máy in (1)
-Máy tính của tôi dùng chung cho cả nhà. Có cách nào để khi một máy nào đó trong nhà tôi in thì tôi có thể lưu file vừa in đó lại không? Mong mọi người chỉ giúp. Cảm ơn.
-nguyenthehung
-Hồi âm:
-Bạn có thể thực hiện như sau để giải quyết vấn đề. Windows 2000/ XP: vào Start/ Settings/ Printers (hoặc Start/ Printers and Faxes đối với Windows XP), nhấp chuột phải vào biểu tượng máy in, chọn thẻ Advanced, đánh dấu Check vào dòng "Keep printed documents (giữ lại các tài liệu đã được in)" và nhấp OK là xong. Windows 9x/Me: Không có dòng này. Để biết thêm về vấn đề này, mời bạn vào trang Web http://www.dung.co.nr hoặc http://www.phamminhdung77.netfirms.com hoặc http://www.phamminhdung77.web1000.com, mục "góc sinh hoạt Báo viết e-CHÍP" để biết thêm thông tin. Thân mến. 
-

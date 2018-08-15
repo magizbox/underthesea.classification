@@ -1,6 +1,0 @@
-Ngân hàng mất 2,75 tỷ USD cho tội phạm mạng
-Hãng nghiên cứu Gartner khẳng định nếu bảo mật ngân hàng an toàn hơn, họ đã có thể ngăn ngừa thiệt hại hàng tỷ USD từ những vụ lừa đảo với thẻ ATM và Debit.
-Những mất mát này là kết quả của việc rò rỉ dữ liệu cá nhân mà tội phạm mạng kiếm chác được qua những vụ lừa đảo trực tuyến (phishing) và chương trình dò phím (keystroke). Sau đó, chúng dùng những thông tin ăn cắp để đăng ký làm thẻ ATM và ung dung rút tiền từ tài khoản của khách hàng.
-Gartner ước tính có tới 3 triệu người Mỹ trở thành nạn nhân của những cú lừa ngoạn mục kiểu này trong 12 tháng qua với mức độ thiệt hại trung bình 916 USD mỗi vụ. Trong hầu hết các trường hợp, ngân hàng và trung tâm tài chính sẵn sàng đứng ra hỗ trợ và bồi thường cho người sử dụng.
-Chuyên gia của Gartnet cho biết nguyên nhân của tình trạng này là do khách hàng đơn giản chỉ cần cung cấp số chứng minh thư và số tài khoản là đã có thể đăng ký được thẻ ATM. Thẻ cũng được phát hành kèm mã bảo mật ngân hàng nhằm tăng thêm độ an toàn cho tài khoản. Khách hàng không được phép biết mã này, do đó họ không thể vô tình cung cấp thông tin cho tội phạm mạng khi chúng tấn công trực tuyến. Tuy nhiên, có đến 1/2 những nhà cung cấp ATM không kiểm tra mã khi người dùng thực hiện việc rút tiền
-

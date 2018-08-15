@@ -1,6 +1,0 @@
-Ericsson phát triển mạng viễn thông nông thôn miền Trung 
-Hãng viễn thông Thụy Điển vừa được Tổng công ty bưu chính viễn thông Việt Nam (VNPT) chọn cung cấp hệ thống chuyển mạch số cho dự án Phát triển mạng viễn thông nông thôn các tỉnh miền Trung. 
-Dự án trên, sử dụng khoản vay từ Ngân hàng hợp tác quốc tế Nhật Bản, bao gồm việc triển khai khoảng 140.000 thuê bao mới cho vùng xa của 10 tỉnh miền Trung gồm Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, Quảng Trị, Thừa Thiên Huế, Quảng Nam, Quảng Ngãi, Bình Định và Phú Yên. 
-Khi dự án hoàn tất vào năm 2005, VNPT sẽ có thể cung cấp những dịch vụ liên lạc hiện đại cho người dân ở các tỉnh này, đồng thời tạo cho VNPT nền tảng để triển khai nhiều ứng dụng dịch vụ hữu dụng, mang lợi ích xã hội cao cho khu vực nông thôn như kết nối Internet, đào tạo, chăm sóc y tế từ xa.
-Ông Gunnnar Wenneberg, Tổng giám đốc Ericsson Việt Nam, cho biết theo thỏa thuận, Ericsson sẽ cung cấp cho VNPT các hệ thống chuyển mạch AXE 810 sử dụng phần mềm Enabler tiên tiến cùng với những trạm thuê bao xa Engine Access Ramp. "Chúng tôi cam kết hỗ trợ VNPT nhằm đưa các dịch vụ thông tin liên lạc chất lượng cao đến với ngày càng nhiều người dân Việt", ông khẳng định.
-

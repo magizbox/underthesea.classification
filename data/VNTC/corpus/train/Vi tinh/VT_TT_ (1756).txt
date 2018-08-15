@@ -1,8 +1,0 @@
- Ma thuật bàn phím bằng “Keystroke Converter”
-Keystroke Converter có thể tráo đổi toàn bộ các phím trên bàn phím của bạn một cách vô cùng linh động, nó có thể thay phím này bằng phím khác vô cùng dễ dàng, biến bàn phím của bạn thành một công cụ bảo mật hết sức lợi hại. 
-Nếu không muốn thay đổi hệ thống bàn phím quen thuộc đã dùng, bạn chỉ cần tráo đổi các phím hệ thống như Ctrl, Alt, Shift, Table, Win, Esc hoặc các phím di chuyển… lẫn lộn với nhau là bạn đã có một dạng bàn phím có độ bảo mật cao hơn hẳn so với các dạng bàn phím khác. Còn nếu đủ sức thiết lập một hệ thống phím gõ mới thì máy tính của bạn đã gần như là một “mê cung” đối với bất kỳ tay tò mò nào. 
-Cách sử dụng Keystroke Converter cũng không hẳn là dễ dàng lắm nhưng bạn chỉ cần kiên nhẫn một chút là có thể “mò” ra ngay. Nhấn vào nút “Add” để đưa vào các phím cần thay đổi, Modify dùng để chỉnh sửa hệ thống bàn phím mới, Enable để kích hoạt hệ thống bàn phím mới hoạt động, Disable để trả lại dạng bàn phím truyền thống… 
-Tính năng “Add Self Key” rất độc đáo, giúp bạn thêm vào hoặc bỏ đi bất kỳ loại phím nào bạn thích, kỳ lạ nhất là nó đã sáng tạo sẵn cho bạn hàng loạt phím mới như Reset, Zoom, Jump, Play, Clear, Wake, Auto, Copy v.v Ngoài ra nó cũng tạo sẵn hàng loạt chỗ trống để bạn tự mình thêm vào các ký tự ngoài bảng chữ cái Latin… 
-Keystroke Converter cũng cung cấp sẵn tính năng “Screen Keyboard”, tức gõ phím bằng cách click chuột vào một bàn phím ảo có sẵn trên màn hình, để phục vụ cho những ai lười gõ phím. 
-Công ty SoftBoy đang bán ra phiên bản Keystroke Converter 5.3 với giá đến những 44,95 USD. Người dùng có thể vào đây để tải về bản dùng thử với dung lượng chỉ là 980KB. Hiện công cụ này đã có mặt tại các cửa hàng phần mềm tin học. 
-

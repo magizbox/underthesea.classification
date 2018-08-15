@@ -1,6 +1,0 @@
-Ổ cứng tốc độ cao của Maxtor
-Đầu tuần này, Seagate tung ra thị trường loại ổ cứng dung lượng 400 GB. Ngay lập tức, Maxtor cũng không chịu kém cạnh khi công bố sản phẩm mới với tốc độ cao hơn mặc dù dung lượng chưa thể bằng đối thủ.
-Hôm thứ 5 vừa qua, hãng sản xuất thiết bị lưu trữ Mỹ đã bắt đầu giới thiệu các sản phẩm mới thuộc dòng ổ cứng Atlas chất lượng cao đang được ưa chuộng hiện nay. 
-Có hai phiên bản được đưa ra thị trường, bao gồm Atlas 10K V và 15K II, đều sử dụng đĩa từ có kích thước 3,5 inch, ứng dụng công nghệ Ultra 320 SCSI. Atlas 10K V có tốc độ quay 10.000 vòng/phút với thời gian tìm kiếm dữ liệu trung bình là 4 phần triệu giây. Còn với 15K II, tốc độ quay của các đĩa từ đạt 15.000 vòng/phút, thời gian tìm kiếm dữ liệu trung bình chỉ mất 3 phần triệu giây. Các loại ổ cứng công nghệ Serial-ATA cũng sẽ được  Maxtor giới thiệu vào thời gian sắp tới. 
-Những ổ cứng mới nói trên có dung lượng 36 GB, 73 GB, 147 GB và 300 GB, được thiết kế với thời gian sử dụng an toàn lên đến 1,4 triệu giờ. 
-

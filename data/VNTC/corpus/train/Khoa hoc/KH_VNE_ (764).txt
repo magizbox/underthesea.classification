@@ -1,6 +1,0 @@
-Máy điều hoà nhịp tim chạy bằng thân nhiệt  
-Một ngày nào đó, các bệnh nhân sẽ được gắn những chiếc máy điều hoà nhịp tim vận hành bằng nhiệt cơ thể, thay vì phải mổ để thay pin cho máy. Công ty Biophan Technologies ở New York đang phát triển một loại "pin nhiệt sinh học", có thể chuyển thân nhiệt thành điện năng. 
-Nếu thành công, nó sẽ giúp các bệnh nhân đã qua cấy ghép sống lâu hơn mà không cần phải phẫu thuật để thay pin, tránh được những áp lực tâm lý và nguy cơ nhiễm trùng. Hiện tại, cứ sau vài năm, hầu hết các bệnh nhân gắn máy điều hoà nhịp tim đều phải làm phẫu thuật để thay pin cho máy. 
-Các nhà chế tạo cho biết pin sinh học có thể làm việc lâu tới 30 năm. Nó được cấu tạo từ vật liệu nhiệt điện - dạng vật liệu bán dẫn đặc biệt có thể sản sinh điện khi một mặt của nó nóng lên và mặt kia lạnh đi. Những tấm vật liệu tương tự đã được dùng để phát  điện cho các tàu vũ trụ khi chúng ở quá xa mặt trời, xa đến mức các pin quang điện trở nên vô dụng. 
-Tiến bộ trong công nghệ nano nay đã mở ra khả năng ứng dụng loại vật liệu này để nạp điện cho các thiết bị tí hon, chẳng hạn các thiết bị cấy ghép trong y học. Một số chuyên gia tin rằng loại pin này có thể được gắn vào dưới da, nơi chênh lệch nhiệt độ lên đến 5 độ C. 
-

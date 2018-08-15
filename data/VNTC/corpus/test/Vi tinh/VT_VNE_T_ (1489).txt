@@ -1,6 +1,0 @@
-Wireless card cho laptop (1)
-Khong hieu sao thoi gian gan day may tinh xach tay (Laptop) cua em khong nhan duoc wireless card nua. Khi em cam wireless card vao may, card khong he power up (may khong nhan the). Kinh mong cac anh chi giup do em. Thong tin ve may tinh: Sony Vaio, Pentium 3, 1.6Gh, WindowXp Home Edition operating system, Local Ethanet connection, 1394 modem connection.Em xin chan thanh cam on.
-Trung Nguyen
-Hồi âm:
-Bạn quên không cho biết Wireless card đó là loại gì. Tuy nhiên có những khả năng sau đây:   1. Card đó bị hỏng (thử cắm sang máy khác xem sao). 2. Khe cắm trên máy của bạn bị hỏng (điều này rất hay xảy ra nếu ai đó cắm card sai cách nhưng cứ cố "nhét" vào khiến cho một (vài) pins bên trong bị gãy hoặc cong), bạn thử lấy đèn pin soi vào xem có thấy gì khác lạ không, hoặc lấy một card khác cắm (đúng cách) vào xem card này có hoạt động không. 3. Các khe cắm card này bị "disabled" (xem bản danh sách phần cứng trong Control panel - System) nếu đúng thì "enable" chúng lên. 4. Bo mạch chủ của máy tính bị hỏng phần hỗ trợ cho các khe cắm card PC này. 
-

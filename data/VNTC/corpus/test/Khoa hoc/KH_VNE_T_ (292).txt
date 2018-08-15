@@ -1,7 +1,0 @@
-Gấu bông trông trẻ
-Nếu các ông bố bà mẹ quá bận rộn không có thời gian trông con, Microsoft đã có một giải pháp: một chú gấu bông trông trẻ.
-Ý tưởng này nằm trong một dự án mới được công bố tại cuộc triển lãm diễn ra tuần này do hãng phần mềm khổng lồ tổ chức.
-Đồ chơi trông trẻ có chứa một camera và một hệ thống vi tính với công nghệ nhận diện giọng nói và khuôn mặt, cho phép nó tương tác với các em bé, chơi game với chúng và đọc truyện cho bé nghe. Con vật được kết nối qua mạng Internet không dây nên các ông bố bà mẹ cũng có thể thông qua đồ chơi này để mắt tới em bé khi họ đi làm hoặc đi chơi.
-Một ứng dụng tương tự khác là một robot văn phòng có thể được điều khiển thông qua Internet để xử lý những cuộc hội thảo qua điện thoại, hoặc thực hiện các nhiệm vụ lặp lại trong văn phòng.
-Hãng phần mềm cũng công bố một công nghệ mang tên SmartPhlow, sử dụng một điện thoại hoặc máy tính di dộng để giám sát giao thông và đưa ra những phương án dự phòng, dựa trên dữ liệu lưu trữ và thời gian thực. Hệ thống đã được thử nghiệm ở Seattle, Mỹ.
-

@@ -1,5 +1,0 @@
- Microsoft sẽ có công cụ tìm kiếm để cạnh tranh với Google
-Hiện tại Microsoft chưa có kế hoạch tích hợp công cụ tìm kiếm mới của mình vào trong Windows Vista, phiên bản mới của hệ điều hành Windows sẽ thay thế Windows XP vào đầu năm sau, nhưng rất có thể “người khổng lồ” Microsoft sẽ đưa công cụ tìm kiếm vào trong Windows Messenger và dịch vụ Hotmail vì hiện đang có rất nhiều người dùng sử dụng cả hai dịch vụ này trên toàn thế giới. 
-Mục đích của Microsoft là cung cấp chính xác những liên kết thay vì chú trọng vào phần chỉ định thông tin tìm kiếm bởi người dùng Internet. Holloway cho biết: “Theo như khảo sát thì 50% thời gian người dùng thực hiện việc tìm kiếm sẽ không tìm được URL mà họ muốn tìm”. Khả năng của công cụ tìm kiếm từ Microsoft sẽ được cải tiến để gần gũi hơn với người dùng. 
-Ví dụ những người mua bán bất động sản có thể tìm một nhóm những ngôi nhà theo các mức giá cùng với những tiện nghi mà họ muốn tìm, hoặc những người dạo web có thể tìm, một nhà hàng với các thực đơn theo món đặc biệt riêng biệt của từng vùng mà họ thích. 
-

@@ -1,8 +1,0 @@
-Điện toán lưới gặp cản trở vì vấn đề quản lý dữ liệu
-Tổ chức nghiên cứu công nghệ doanh nghiệp mang tên 415 tại Mỹ khẳng định nhiều công ty đang hoãn lại kế hoạch mở rộng điện toán lưới do khả năng kiểm soát dữ liệu còn hạn chế trong lĩnh vực này. 
-"Tại thời điểm hiện nay, việc ứng dụng điện toán lưới là điều hoàn toàn dễ hiểu. Nhưng nó đòi hỏi quá nhiều thời gian để thu nhận thông tin cần thiết cũng như quá trình xử lý phức tạp", John Abbott, Trưởng nhóm phân tích 415, cho biết.
-Theo tổ chức nghiên cứu này, những cải tiến chậm chạp từ phía các nhà cung cấp đã khiến người sử dụng phải phụ thuộc vào nguồn riêng của họ để quản lý thành công dữ liệu trong điện toán lưới. Một vài hãng dược phẩm lớn khẳng định họ không thể tận dụng lợi ích của điện toán lưới trên phạm vi rộng do sự phức tạp và những bất cập trong kiểm soát và xử lý thông tin.
-Công ty Johnson  Johnson (Mỹ) đã kêu gọi ngành công nghiệp  điện toán xây dựng phương pháp mới hỗ trợ khai thác dữ liệu nhập/xuất trong lưới, cũng như hình thành giao diện chuẩn cho các nhà phát triển ứng dụng.
-Phương pháp quản lý dữ liệu truyền thống đã được thiết lập và đi vào hoạt động, nhưng 415 cho rằng chúng chỉ chạy trên máy tính trung ương hay cấu trúc server/client, do đó cần được mở rộng hơn với cấu trúc lưới. Thêm vào đó, cũng cần có một biện pháp mới để quản lý những thông tin động như trong dịch vụ tài chính.
-"Hiện tại, không một phương pháp hay một nhà cung cấp nào có vị trí thống trị, do đó không ai có khả năng bao quát và giải quyết mọi mặt của vấn đề", Steve Wallage, Giám đốc 415, nhận định. "Họ không hề tảng lờ hay bỏ qua rắc rối, mà đã cố gắng tìm kiếm, mở rộng lưới điện toán, xâm nhập thị trường mới..., nhưng nguyên nhân then chốt ở đây là quản lý dữ liệu không phải sở trường của họ".
-

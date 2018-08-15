@@ -1,7 +1,0 @@
-Bảo mật trong Win XP (1)
-Toi dung Win XP, format NTFS, xin cho toi cach bao mat o cung va folder: chong xoa, chong sao chep. Toi xin chan thanh cam on. 
-Tran Anh Dung
-Hồi âm:
-Chao ban! Ban dung WinXP hoac Win 2000, ban lai chon quan ly phan vung la NTFS. Nhu vay ban co the hoan toan yen tam la PC cua ban co the ho tro toi da cac che do bao mat.Ban muon duoc bao mat Folder (hoac o dia logic) hay lam nhu sau:- Right click vao folder (hoac o dia logic), chon Properties, chon security.- Bam vào Add de thêm các User mà ban muon han che quyen (Read, Write...).- Chon cac quyen (cho phep hoac khong cho phep) ban muon gan cho user.
-Chuc ban thanh cong!
-

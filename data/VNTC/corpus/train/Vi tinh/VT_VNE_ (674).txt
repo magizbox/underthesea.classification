@@ -1,4 +1,0 @@
-Lỗi khi tắt máy 
-Hiện nay, tôi đang sử dụng mainboard Intel865GBF, card graphic on board, bộ xử lý Celeron 2.4GHz, cài Win ME. Không hiểu sao khi chọn shutdown hay restart, máy chỉ hiện ra màn hình đen với dấu nháy, không thể tắt máy được. Mong được các bạn giúp đỡ.
-Nguyen Duy Phuoc
-

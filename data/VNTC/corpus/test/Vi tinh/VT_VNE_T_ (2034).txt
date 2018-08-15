@@ -1,8 +1,0 @@
-Độ dễ sử dụng: Linux không còn xa Mac và XP
-Một cuộc thử nghiệm do tạp chí Sự lựa chọn của người tiêu dùng (Australia) thực hiện vừa đưa ra kết luận rằng không có nhiều sự khác biệt về độ thuận tiện khi sử dụng giữa Chim cánh cụt và hệ điều hành của Apple và Microsoft.
-Các chuyên gia đã kiểm tra Windows XP Home cài Service Pack 2, Mac OS X 10.3, Linspire, Xandros Desktop OS 2.5 Deluxe, Mandrakelinux Discovery 10.0 và Novell SUSE Linux Personal 9.1. Windows XP và các bản Linux dùng nền phần cứng gồm chip Pentium IV 3,0 GHz và Athlon 1,2 GHz. Hệ điều hành của máy Mac thì chạy trên máy Apple G4 Mac.
-Cuộc thử nghiệm tiến hành các tác vụ liên quan đến xử lý văn bản, in, thiết lập kết nối Internet, cài chương trình e-mail và nhắn tin nhanh IM, kiểm tra mức độ an ninh, tạo bản sao lưu (backup) trên đĩa CD-RW/DVD-RW, nghe nhạc, tùy biến màn hình desktop, xem phim, cài đặt kết nối với máy ảnh số, xem ảnh, cài phần mềm và bổ sung thiết bị ngoại vi.
-Kết quả cho thấy Windows mất 90 phút để cài đặt trong khi các hệ điều hành khác mất khoảng 20 phút. Tuy nhiên, Windows cho phép cái phần mềm dễ dàng hơn và với một lượng người sử dụng đông đảo, việc tìm kiếm sự trợ giúp cũng thuận tiện.
-Mac thì khẳng định được ưu thế về tính năng chạy DVD, cài phần mềm và công cụ phát triển tuy nhiên chưa mạnh về tường lửa (không được đặt mặc định) và tính năng nhắn tin nhanh iChat chỉ kết nối tới mỗi mạng của AOL.
-Xandros được nhóm nghiên cứu đánh giá là phiên bản Linux tốt nhất trong số được kiểm tra vì nó có bao gồm cả phần mềm cho phép cài đặt ứng dụng Windows. Về khả năng hỗ trợ cài đặt phần mềm thì không một hệ điều hành Linux nào ghi được điểm cao.
-

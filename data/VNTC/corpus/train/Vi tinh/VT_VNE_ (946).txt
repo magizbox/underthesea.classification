@@ -1,7 +1,0 @@
-Lỗi khi khởi động phần cứng (1)
-Máy tính của tôi hiện nay không thể khởi động được, khi bật lên chỉ thấy màn hình màu đen và không có thêm bất cứ t ín hiệu gì . Tôi đã kiểm tra bộ nguồn và màn hình thì thấy vẫn còn tốt chỉ có quạt ở trên bộ vi xử lí trung tâm (CPU) là không chạy hay chính xác hơn là khi khởi động nó có quay một vài vòng rồi lại thôi . Xin hỏi đó là lỗi của main hay lỗi gì ? Tôi đã đem đi sửa một lần thì được bảo là hết pin CMOS nhưng đem về đã thay pin và chạy được một vài ngày lại hỏng .Hay có lỗi liên quan đến bios ? Đèn ở trên main và ổ cứng vẫn sáng. Xin được hỏi đó là lỗi gì và sửa như thế nào? Xin chân thành cảm ơn các anh chị!
-Gia Luan
-Hồi âm:
-Lỗi của máy như vậy là rất nghiêm trọng. Quạt CPU khộng chạy (dù chỉ là một vài giây) sẽ có thể làm hỏng hoàn toàn CPU. Bạn nên xem lại những điều sau:   
-1. PowerSupply bị hỏng: Thay 2. Quạt và heatsink của CPU bị hỏng: Thay 3. Cáp dẫn điện vào ainboard bị hỏng: Thay PowerSupply.
-

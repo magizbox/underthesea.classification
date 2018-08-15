@@ -1,7 +1,0 @@
-Đồng hồ chính xác nhất thế giới
-Chiếc đồng hồ hoàn hảo nhất, mỗi ngày chỉ chạy chậm lại một phần triệu triệu triệu giây, đang từng bước trở thành hiện thực, các nhà khoa học Nhật Bản tiết lộ.
-Trợ lý giáo sư Hidetoshi Katori và cộng sự, Đại học Tokyo, cho biết chiếc đồng hồ quang học của họ hoạt động dựa trên sự dao động của nguyên tử stronti, chỉ chạy chậm đi một phần 1018 giây mỗi ngày.
-Những chiếc đồng hồ tốt nhất hiện nay sử dụng nguyên tử xezi 133, có khả năng hấp thụ sóng radio ở một tần số nhất định để khiến các electron nhảy lên và xuống giữa các nấc năng lượng. Nếu tần số này (dao động của đồng hồ) bị xê dịch, ngay lập tức nó sẽ được điều chỉnh để giữ cho đồng hồ chạy đều đặn.
-Loại đồng hồ xezi có độ chính xác tới 1 phần 1015, nói cách khác, chúng chỉ chạy chậm 1 phần nghìn triệu triệu giây mỗi ngày. Tuy nhiên, đồng hồ xezi đã đạt đến ngưỡng tới hạn của nó, bởi các sóng radio có tần số thấp hơn nhiều so với sóng quang học (sóng ánh sáng nhìn thấy).
-Công trình của các nhà khoa học Nhật Bản là nỗ lực gần đây nhất trong cuộc chạy đua quốc tế nhằm phát triển đồng hồ nguyên tử hoạt động bằng laser.
-

@@ -1,9 +1,0 @@
-Lỗi IE 6: Cài bản vá vẫn bị khai thác
-Microsoft đang xem xét một lỗ hổng mới trong trình duyệt Internet Explorer (IE), có khả năng cho phép tin tặc chạy mã nguy hiểm trên máy tính dùng hệ điều hành Windows.
-Theo Tom Ferris, chuyên gia nghiên cứu bảo mật tại California, Mỹ, vấn đề xảy ra với IE 6 hoạt động trên Windows XP và Service Pack 2 kể cả đã cài tất cả các bản vá lỗi từ trước tới nay. Những trình duyệt và hệ điều hành khác cũng có khả năng bị ảnh hưởng.
-Ferris gửi chi tiết về lỗ hổng tới Microsoft từ 14/8 và hôm qua một đại diện của tập đoàn này khẳng định đã nhận được thông báo nhưng họ vẫn chưa ghi nhận được bất cứ trường hợp khai thác nào. 
-Hãng bảo mật Secunia (Đan Mạch) cho biết hiện nay vẫn còn khá nhiều lỗi chưa thể khắc phục trong IE 6. Chỉ trong 2 năm qua, họ đã cảnh báo về 69 lỗ hổng liên quan đến IE nhưng mới chỉ có khoảng 2/3 số lỗi được vá.
-Cuối tuần trước, trung tâm bảo mật SANS (Mỹ) cũng đưa ra cảnh báo về một lỗi trong hệ điều hành Windows có thể bị lợi dụng để vô hiệu hoá các chương trình quét virus. 
-Lỗ hổng liên quan đến quá trình Windows xử lý khoá registry trong nền tảng hệ điều hành. Nếu khoá registry dài hơn 254 ký tự, hacker có thể lợi dụng để ẩn mã độc và đánh lừa phần mềm diệt virus do chương trình này không thể tìm và quét những khoá registry phức tạp, đồng thời ứng dụng quản lý và sửa chữa registry của Windows bị vô hiệu hoá. Mitchell Ashley, chuyên gia công nghệ của StillSecure (Mỹ), cho biết tin tặc cũng có khả năng giấu và chạy mã nguy hiểm bằng việc bổ sung khóa registry vào Autorun hoặc vào khóa Run. 
-Lỗi ảnh hưởng đến Windows 2000, XP và Service Pack 2. 
-

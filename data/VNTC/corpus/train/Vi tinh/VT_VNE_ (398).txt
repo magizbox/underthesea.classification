@@ -1,7 +1,0 @@
-Hacker dọa tấn công các website cá độ
-Cơ quan phòng chống tội phạm điện tử Anh (NHTCU) vừa xác nhận đang có một số âm mưu tống tiền do một số nhóm tin tặc Đông Âu thực hiện. Chúng đe dọa sẽ cho lụt dữ liệu và nhấn chìm nhiều địa chỉ cá độ bóng đá trước khi vòng chung kết Euro 2004 khởi tranh.
-Phát ngôn viên của NHTCU cho biết: Chúng tôi biết một số sự kiện thể thao lớn đang nằm trong tầm ngắm của hacker, trong đó có giải vô địch bóng đá châu Âu tại Bồ Đào Nha mùa hè này. Nhiều trang web mục tiêu đã nhận được e-mail yêu cầu họ phải nộp từ 20.000 đến 30.000 bảng nếu không muốn bị tấn công từ chối dịch vụ. 
-Những vụ tấn công kiểu này có thể làm tê liệt một website và không ai có thể truy nhập được. Điều đó, tất nhiên, sẽ tác động nghiêm trọng tới các trang web này khi mà khách hàng không thể sử dụng dịch vụ của họ trong những thời điểm cao trào của các sự kiện thể thao.
-Các chuyên gia tài chính ước đoán nếu sự cố như vậy xảy ra, các website cá độ có thể thất thu hàng nghìn bảng mỗi giờ bị tê liệt. Đại diện của một trang web từng nhận được e-mail đe dọa cho biết họ sẽ không bao giờ chấp nhận trả một xu và nhượng bộ trước phương thức tống tiền rẻ rúng và ác độc này.
-Tháng trước, một website đánh cá tỷ số của Ireland, Paddy Power, cũng đã bị dính đòn và chết cứng nhiều giờ nhưng họ không nhận được yêu cầu về tiền bạc nào. Mới đây trang chủ của tập đoàn mã mở SCO và hãng phần mềm Microsoft cũng bị tấn công từ chối dịch khá nghiêm trọng, nhưng nguyên nhân có vẻ không liên quan đến tình trạng tống tiền như trên. 
-

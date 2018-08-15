@@ -1,6 +1,0 @@
-Bản vá lỗi an ninh dành cho Linux
-3 nhà cung cấp Linux chính trên thị trường thế giới là Red Hat, Novell SuSE và Mandrakesoft đã đồng loạt đưa ra các bản nâng cấp dành cho hệ điều hành "Chim cánh cụt", nhằm bịt các lỗ hổng an ninh được phát hiện trong thời gian vừa qua. 
-Hãng bảo mật Secunia (Đan Mạch) cho biết, Red Hat đưa ra 3 bản, Mandrakesoft 2 bản và Novell SuSE cung cấp 1 bản, tất cả đều nằm trong nỗ lực ngăn chặn nguy an ninh đe dọa những máy tính sử dụng hệ điều hành Linux.
-Trong tháng 12 vừa qua, một nhà nghiên cứu về bảo mật và an ninh mạng đã phát hiện ra một lỗi nghiêm trọng ở chương trình xử lý đồ họa của Linux, cho phép kẻ tấn công tạo ra ảnh đính kèm những đoạn mã nguy hiểm. Việc người sử dụng click vào những bức ảnh này sẽ mở cửa cho kẻ tấn công xâm nhập trái phép hệ thống. Trước đó, nhiều lỗ hổng khác cũng được đề cập, cho phép hacker sử dụng phương pháp tấn công từ chối dịch vụ (denial-of-service), khai thác lỗi tràn bộ đệm và sai sót trong các văn bản Adobe Acrobat để len lỏi vào máy tính của nạn nhân.
-Thời gian gần đây, những kẻ chuyên viết virus và hacker đã bắt đầu chú ý nhiều hơn đến hệ điều hành ngày càng phổ biến này.
-

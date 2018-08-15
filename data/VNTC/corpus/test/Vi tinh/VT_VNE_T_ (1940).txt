@@ -1,6 +1,0 @@
-Bỏ chức năng chống cài phần mềm (1)
-Tôi có một thắc mắc nhỏ kính nhờ các anh chị giúp đỡ. Máy tính tôi trước đây một người bạn giúp tôi cài dặt bảo vệ không cho cài bất cứ phần mềm nào mới vào máy. Nay cứ mỗi khi tôi cài phần mềm mới vào máy khi tắt máy thì cũng tự động xoá phần mềm đã cài đặt. Kính mong các anh chị giúp tôi gỡ bỏ chức năng trên. Xin chân thành cảm ơn. (Xin hướng dẫn kỹ chút nhé).
-Vu Duy
-Hồi âm:
-Chào người anh em cùng họ "Vũ"! Có lẽ bạn đã kích hoạt chế độ "Dont save setting at exit". Để giải quyết, hãy làm như sau: Chọn Start\Run, gõ vào gpedit.msc và nhấn Enter để mở Group Policy. Vào khung bên trái, chọn User Configuration\ Adminisrtative Templates\ Desktop. Nhấn phím phải chuột vào "Dont save setting at exit" ở khung bên phải rồi chọn Properties. Sau đó chọn Disabled và nhấn OK hay Apply để tùy chọn này được thực thi. (Nếu dùng WinXP, bạn phải có quyền "Admin" đấy nhé). Khởi động lại máy tính. Xong!
-

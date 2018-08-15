@@ -1,6 +1,0 @@
-Mã khai thác lỗi giống lỗ hổng bị Zotob lợi dụng
-Tuần qua, một đoạn mã đã được công bố trên Internet nhằm tận dụng lỗi công nghệ plug-and-play, từng gây nên "đại dịch sâu Zotob", mà Microsoft xếp vào hàng "quan trọng" trong Windows 2000 và Windows XP. 
-Hãng bảo mật Symantec cho biết mã này cho phép gây trục trặc, phá hỏng máy tính, nhưng tin tặc không thể cài chương trình nguy hiểm để giành quyền kiểm soát toàn bộ hệ thống. Tập đoàn sản xuất hệ điều hành Windows đã cung cấp miếng vá vào ngày 11/10 trong bản tin bảo mật MS05-047, cùng với bản sửa lỗi cho 13 lỗ hổng khác. 
-Đây không phải đoạn mã đầu tiên tận dụng một lỗi đã được vá trong bản tin tháng 10. Tuy nhiên, dù nhiều chuyên gia đã đưa ra cảnh báo về nguy cơ xuất hiện sâu mới, vẫn chưa có vụ tấn công nào thực sự diễn ra.
-Một đại diện của Microsoft cho biết họ đã phát hiện đoạn mã mới nhất, và khuyến cáo người sử dụng nhanh chóng cài MS05-047. Nhưng ai đã cập nhật hệ thống với bản vá MS05-039 được phát hành trong bản tin tháng 8 cũng được bảo vệ trước lỗi này. 
-

@@ -1,5 +1,0 @@
-EMC dẫn đầu thị trường phần mềm lưu trữ thế giới
-Theo báo cáo của IDC được công bố hôm qua, EMC tiếp tục giành vị trí số 1 về phần mềm lưu trữ trong quý IV/2003, chiếm 31,7%. Tính cả năm ngoái, hãng đạt mức doanh thu tăng cao trong tất cả thị trường phần mềm lưu trữ chính.
-Howard Elias, Phó chủ tịch marketing doanh nghiệp và công nghệ của EMC, cho biết: Sự tăng trưởng thị phần trong quý IV năm ngoái là nhờ EMC tập trung vào khả năng cung cấp một giải pháp toàn diện, đáp ứng những yêu cầu về quản lý vòng đời thông tin khác nhau của khách hàng".
-Theo IDC, cũng trong quý cuối năm 2003, EMC tiếp tục dẫn đầu thị trường lưu trữ mạng và NAS (Networked Attached Storage). Tại khu vực châu Á - Thái Bình Dương (trừ Nhật Bản), doanh thu từ hệ thống lưu trữ RAID của EMC tăng 66% so với năm trước, với mức tăng thị phần 5,9% - vượt xa so với các đối thủ cạnh tranh. 
-

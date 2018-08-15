@@ -1,4 +1,0 @@
- Microsoft Virtual Server 2005 RC2 hỗ trợ Linux
-Trong “làn sóng” Windows Server “Longhorn” tiếp theo, công nghệ ảo sẽ trở thành một phần của môi trường Windows qua công nghệ Windows Hypervisor và người dùng sẽ có thể sử dụng không giới hạn số lượng các hệ điều hành ảo trên một máy chủ vật lý. 
-Virtual Server 2005 RC2 hỗ trợ các phiên bản Red Hat Enterprise Linux 2.1, 3.0, 4; Red Hat Linux 7.3, 9.0; SUSE Linux Enterprise Server 9.0, SUSE Linux 9.2, 9.3, 10.0. Người dùng phiên bản Virtual Server 2003 RC2 cũ có thể tải về Virtual Machine Additions cho Linux trên website Microsoft Connect ( http://www.connect.microsoft.com/ ) để có thể bổ sung tính năng hỗ trợ Linux. 
-

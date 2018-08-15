@@ -1,6 +1,0 @@
- Chuyển chữ cái Latin sang chữ cái… Ai Cập cổ đại!
-Phần mềm Imhotext của Direct Logic sẽ giúp chúng ta “dịch” các chữ cái từ bảng chữ cái Latin sang “bảng chữ cái” của ngôn ngữ Ai Cập cổ đại một cách nhanh nhất. 
-Giao diện ban đầu của Imhotext là một bảng chữ tượng hình chìm màu vàng. Nhập câu văn bạn cần dịch vào ô “Enter Text To Convert” với tối đa là 96 ký tự và nhấn vào nút “Convert to Hieroglyphics” để Imhotext “chuyển ngữ” sang tiếng Ai Cập cổ đại. Người dùng có thể in ra những “bản dịch” này bằng máy in màu để có được những thông điệp trang trí “không đụng hàng” 
-Direct Logic cũng cung cấp sẵn cho người dùng bảng chữ cái của tiếng Ai Cập cổ tương thích với từng chữ cái của bảng chữ cái Latin! Người dùng có thể vào thư mục cài đặt chương trình Imhotext để tham khảo thêm. 
-Chưa rõ tính khoa học và chính xác của công cụ chuyển ngữ kỳ lạ này đến đâu nhưng Direct Logic cũng đang bán ra phần mềm này với giá là 15 USD. Người dùng có thể vào đây để tải về bản dùng thử có dung lượng khoảng 1,8 MB. Hiện bản Imhotext 1.0 đã có mặt tại các cửa hàng phần mềm tại Việt Nam. 
-

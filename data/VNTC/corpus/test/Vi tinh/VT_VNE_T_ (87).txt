@@ -1,7 +1,0 @@
-Intel xuất xưởng chip Xeon MP mới 
-Hôm nay, hãng sản xuất chip số 1 thế giới tung ra bộ vi xử lý Xeon MP cải tiến dành cho các hệ thống máy chủ dùng nhiều chip. Sản phẩm mới nâng cao hiệu suất hoạt động lên 25% so với các phiên bản trước và cho phép khách hàng hợp nhất nhiều ứng dụng trên ít hệ thống server hơn.
-Bộ vi xử lý mới của Intel, có tốc độ 3,0 GHz và một bộ nhớ đệm L3 dung lượng 4 MB, hiện có mặt trên thị trường toàn cầu với mức giá 3.692 USD khi mua từ 1.000 đơn vị trở lên. Hãng sản xuất chip cũng đang đưa ra Xeon MP tốc độ 2,7 GHz và 2,2 Ghz có bộ nhớ đệm L3 dung lượng 2 MB với giá lần lượt là 1.980 USD và 1.177 USD áp dụng cho các đơn đặt hàng 1.000 bộ sản phẩm.
-Sự kết hợp của việc nâng cao tốc độ và bộ nhớ đệm trong Xeon MP mới này sẽ mang lại một sự tăng cường quan trọng cho hiệu suất hoạt động và tỷ lệ giá-hiệu năng vượt trội dành cho các tác vụ doanh nghiệp, ông Richard Dracott, Tổng giám đốc phụ trách tiếp thị và kế hoạch doanh nghiệp thuộc Nhóm các nền tảng dành cho doanh nghiệp của Intel, nhận định.
-Các nhà sản xuất hệ thống, gồm Unisys, Bull, Dell, Egenera, Fujitsu, Fujitsu Siemens Computers, Gateway, HP, Hitachi, IBM, Kraftway, Langchao, Lenovo, NEC, Powerleader, Samsung và Toshiba dự định trong năm nay sẽ đưa ra hơn 50 sản phẩm sử dụng chip Xeon MP, mỗi hệ thống có thể dùng từ 4 đến 32 bộ vi xử lý.
-Theo giới phân tích, kiến trúc Intel hiện được sử dụng trong hơn 85% hệ thống máy chủ xuất xưởng. Các server sử dụng từ 4 bộ vi xử lý trở lên chiếm trên 56% tổng doanh thu thị trường máy chủ năm 2003. 
-

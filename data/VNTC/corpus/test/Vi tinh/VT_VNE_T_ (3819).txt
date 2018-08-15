@@ -1,9 +1,0 @@
-Virus đầu tiên xuất hiện trong Windows Vista
-Phiên bản thử nghiệm hệ điều hành mới của Microsoft mới ra mắt được 8 ngày, nhưng một hacker người Áo đã thành công trong việc viết chương trình khai thác hàm Monad và được coi là mối đe doạ đầu tiên củaVista. 
-Theo Mikko Hyppnen, Giám đốc nghiên cứu của F-Secure, virus được viết bởi một tin tặc tự coi là "Second Path To Hell (con đường thứ 2 dẫn tới địa ngục), tên thật là Mario, thuộc nhóm hacker ngầm tự xưng là Ready Ranger Liberation Front (Lực lượng giải phóng cơ động) ở Áo.
-Virus này được công bố hôm 21/7, chỉ vài ngày sau khi Microsoft phát hành hàm hệ thống Monad có trong mã của bản thử nghiệm Beta 1. Không như giao diện người dùng đồ hoạ Windows trước đây phụ thuộc vào chuột để định hướng, hàm hệ thống này cho phép người dùng sử dụng câu lệnh dạng text (văn bản), rất giống DOS, hệ tiền nhiệm của Windows
-Do tính chất phức tạp của nó, hàm hệ thống mới là một cơ hội lớn để hacker khai thác. "Monad rất giống hàm BASH của Linux, nghĩa là nó chứa rất nhiều câu lệnh và chức năng", Mario nói. "Chúng tôi sẽ có khả năng tạo ra nhiều mã phức tạp như chúng tôi đã thực hiện với Linux".
-F-Secure đặt tên dòng virus này là Danom. Sau khi kiểm tra mã, Hyppnen khẳng định Danom chưa thể gây ra những thiệt hại đáng kể cho người dùng Windows. "Tuy nhiên, đây là bằng chứng rõ ràng cho thấy ý tưởng viết virus có khả năng khám phá những vùng đất mới và phần nền mới đã hình thành".
-Hầu hết các chuyên gia bảo mật đều ngạc nhiên do không nghĩ virus lại xuất hiện nhanh chóng như thế trong Vista. "Hệ điều hành mới ra mắt được 8 ngày. Điều ngạc nhiên ở đây là chương trình nguy hiểm đến quá sớm, thậm chí còn vài ngày trước khi hệ điều hành được giới thiệu".
-Microsoft chưa có phản hồi gì về vấn đề này.
-

@@ -1,7 +1,0 @@
-Thận trọng khi bán ổ lưu trữ
-Công ty giám định Disklabs (Anh) cho biết dữ liệu như thư từ, sơ yếu lý lịch, tài liệu bảng tính, số điện thoại và địa chỉ e-mail đều có thể tìm thấy trên những thiết bị lưu trữ cũ mà họ mua về.
-Đáng lo ngại là Disklabs còn có thể khôi phục các file tạm thời mà trình duyệt Internet Explorer của Microsoft sử dụng để ghi lại hoạt động của người dùng trên mạng. Chỉ bằng một vài thao tác nhỏ, Disklabs có khả năng xây dựng lại gần như toàn bộ cookies, thông tin đăng nhập, mật khẩu vào website và thậm chí cả tài khoản ngân hàng trực tuyến. 
-Để kiểm tra mức độ cẩn thận của người tiêu dùng khi xóa dữ liệu, Disklabs đã mua 100 ổ cứng và 50 thẻ nhớ, bao gồm SD, ổ flash, SIM và memory stick, từ trang đấu giá trực tuyến eBay. Simon Steggles, Giám đốc công ty, cho biết mọi người thường bán thiết bị lưu trữ khi nâng cấp máy tính cá nhân hoặc đổi điện thoại mới.
-"Hầu hết mọi người chỉ thực hiện những bước phổ thông nhất để xóa file", Steggles nói. "Thậm chí có người còn không thực hiện khâu đơn giản đó. Chúng tôi đã tìm thấy một khối lượng lớn thông tin mật về cá nhân và doanh nghiệp trong những sản phẩm này".
-Nhìn chung, các file chỉ được xóa tạm thời và vẫn tồn tại một thời gian dài, kể cả khi đã format lại ổ và thẻ nhớ. Việc khôi phục thông tin là "nghề" của các hãng kiểm định và cả những kẻ tội phạm am hiểu kỹ thuật. Do đó, trước khi bán thiết bị, người dùng nên tìm sự hỗ trợ của một chuyên gia công nghệ, họ sẽ biết cách phá vỡ thông tin trong ổ lưu ra từng bit để không thể phục hồi.
-

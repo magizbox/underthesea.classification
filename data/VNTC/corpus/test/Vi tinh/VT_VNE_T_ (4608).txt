@@ -1,8 +1,0 @@
-Màn hình HD có độ phân giải gấp 4 lần hiện nay
-Công ty CMO của Đài Loan vừa trình diễn tại triển lãm quốc tế FPD, diễn ra từ 19/10 ở Yokohama (Nhật), màn hình LCD 56 inch 3840 x 2160 pixel, gấp đôi tỷ lệ phân giải theo chiều rộng và chiều cao của chuẩn HDTV đang có mặt trên thị trường.
-Màn hình 3840 x 2160 của CMO.
-Sản phẩm của CMO có độ tương phản 1000:1 và độ sáng 600 nit. Do số điểm ảnh lớn, tốc độ truyền dữ liệu lên tới 1,4 Gb/giây, cao hơn nhiều so với thiết bị hiện tại, nhưng cũng đòi hỏi công nghệ xử lý ảnh đắt đỏ. Chen Li Yi, Giám đốc của CMO, hy vọng sẽ có thể loại bỏ một vài thành tố nhất định để giảm số mạch tích hợp trong quá trình phát triển. 
-16:9 (hoặc 1,78:1) là tỷ lệ "rộng : cao" của màn hình TV độ phân giải lớn. Màn hình chữ nhật này lớn hơn chuẩn màn hình TV và máy tính 4:3. Tuy vậy, 1,78:1 cũng không rộng bằng những hệ thống được trang bị trong hầu hết các rạp chiếu phim hiện nay (2,35:1).
-Màn hình này có khả năng sẽ xuất hiện vào quý III năm tới và giá thành ban đầu không hề thấp. Chen cho biết mức giá sản phẩm cơ sở dự kiến sẽ là 10.000 USD, do đó khách hàng sẽ phải chi thêm một khoản tiền nữa để mua trọn bộ thiết bị được xây dựng với màn hình đó.
-Hãng truyền hình NHK của Nhật cũng nhiều lần giới thiệu mô hình Super Hi-Vision, tỷ lệ màn hình 16:9 với 4320 dòng ngang, gấp 4 lần độ phân giải trong sản phẩm của CMO và 16 lần HDTV hiện nay. NHK cho biết phải vài năm nữa thiết bị mới có thể xuất hiện trên thị trường.
-

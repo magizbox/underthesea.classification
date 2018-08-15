@@ -1,8 +1,0 @@
-Vấn đề về @hopthu.com (2)
-Do nhu cầu thường xuyên nhận gởi e-mail hơi nhiều mà dung lượng chứa thư đến trong hopthu.com chỉ có 5MB nên tôi thường xuyên xóa một số thư để tăng dung lượng nhưng thấy tiếc một số thư quan trọng phải xóa đi. Mà ngăn webbox có dung lượng 5MB, tôi không bao giờ dùng tới nên xin quí báo chỉ cách bỏ không sử dụng ngân webbox để lấy thêm 5MB dung lượng cho nhu cầu gởi nhận thư quan trọng, cám ơn!
-Tran Thanh Khiet
-Hồi âm:
-Bạn có thể chuyển sang dùng hộp thư của www.vnws.com, được đến 50Mb.
-Luan
-Có thể là mình hiểu sai ý của bạn, nhưng nếu chỉ để giữ những bức thư thì đơn giản nhất là bạn copy vào Word, ngay cả vói những hòm thư rộng rãi cũng nên làm như vậy. Nếu dịa chỉ cũ của bạn có thể thay đổi được thì bạn nên vào gawb.com khai hòm thư pop3 như tôi đang dùng, 50MB, cho thoải mái, hoặc lớm hơn nữa thì vào spymac.com hòm thư pop free 1G dùng cho đã 
-

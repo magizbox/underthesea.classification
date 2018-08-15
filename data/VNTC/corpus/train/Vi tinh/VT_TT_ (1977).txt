@@ -1,6 +1,0 @@
- Di chuyển các thư mục ứng dụng 
-1. “Move and Map” là tính năng giúp bạn chuyển tất cả file và folder đến bất kỳ vị trí nào trong ổ cứng kèm theo toàn bộ bản đồ kết nối nó với hệ thống Windows. Bạn chỉ cần kéo và thả thư mục cần “giải tỏa” vào thư mục hoặc phân vùng đĩa cứng đã định và EZ File Transplanter sẽ chu toàn cho bạn mọi việc sau đó. Để quá trình di dời diễn ra êm thắm, bạn nên đánh dấu di chuyển toàn bộ shortcuts, registrys, settings và sau đó nhấn Start là xong. 
-2. “Switch Driver” giúp bạn chuyển toàn bộ nội dung của một phân vùng đĩa cứng này sang một phân vùng đĩa cứng khác, nhưng toàn bộ ứng dụng đã cài đặt trên phân vùng đĩa cứng cần chuyển vẫn hoạt động hoàn hảo khi quá trình chuyển đổi hoàn tất. 
-3. “Map Only” là tính năng giúp bạn tìm kiếm và xác lập lại các đường kết nối vào hệ thống để thay đổi nó cho phù hợp với vị trí mới. Tính năng này thường ít đụng đến đối với đa số người dùng bình thường. 
-Người dùng có thể tải bản dùng thử trong 30 ngày với dung lượng chỉ là 777KB tại http://superwin.swmirror.com/ezxplanz.exe . Hiện EZ File Transplanter đã có mặt tại các cửa hàng phần mềm. 
-

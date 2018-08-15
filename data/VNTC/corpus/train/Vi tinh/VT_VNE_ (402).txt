@@ -1,7 +1,0 @@
-Sâu Bizex tấn công Instant Messenger
-Một loại virus mới, xâm nhập qua công cụ nhắn tin nhanh (IM), đang phát tán và nhắm vào những người sử dụng ICQ với lời mời tới thăm một website. Tại địa chỉ này, một loại mã phá hoại sẽ được cài vào máy của người truy cập.
-Hãng phần mềm an ninh Kaspersky (Nga) vừa đưa ra lời cảnh báo về khả năng lan rộng của virus này và ước tính số PC đã nhiễm trên thế giới có thể lên tới 50.000. Tuy nhiên, Brian Dunphy, một chuyên gia virus của công ty Symantec, lại cho rằng, nguy cơ của virus này là thấp vì họ mới chỉ ghi nhận khoảng 5 bản sao của nó. 
-Sâu Bizex gửi đi một thông điệp, hướng dẫn người sử dụng ICQ tới địa chỉ có tên jokeworld. Một khi đã mở website này, Bizex bắt đầu lây lan vào máy, truy nhập danh sách ICQ của nạn nhân để phát tán bản sao của nó sang các máy khác, đồng thời quét máy tính đã nhiễm để tìm thông tin về những hệ thống thanh toán điện tử đã được cài đặt, trong đó có dịch vụ của hãng Wells Fargo  Co. và American Express (thuộc Anh).
-Theo Kaspersky, virus này mang mưu toan kiếm tiền bằng cách ăn cắp thông tin tài chính, mặc dù những âm mưu này có vẻ không kéo dài được lâu. Hãng an ninh Nga cho biết, chỉ 4 tiếng sau khi sâu Bizzex xuất hiện, website jokeworld đã đóng cửa.
-Chỉ khi người sử dụng click vào một đường link tới trang web nói trên thì nguy cơ thiệt hại mới có thể xảy ra. Vì thế, việc tránh bị lây nhiễm virus cũng rất đơn giản nếu như người truy cập luôn tuân thủ nguyên tắc: không click vào những đường link lạ.
-

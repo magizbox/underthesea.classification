@@ -1,8 +1,0 @@
-Hòm thư Gmail đã được nâng lên 2 GB
-Thực hiện tuyên bố cách đây vài hôm, Google đã nâng dung lượng tài khoản e-mail miễn phí cho khách hàng lên gấp đôi, đồng thời bổ sung thêm một số tiện ích mới cho dịch vụ đang chạy thử nghiệm beta này.
-Người sở hữu hòm thư điện tử Gmail hiện nay ngoài việc được sử dụng dung lượng liên tục tăng còn có thể gửi file đính kèm lên tới 10 MB mỗi thông điệp. Nếu truy nhập vào tài khoản Gmail hiện nay và xem thông báo số MB đã sử dụng, khách hàng có thể nhận thấy dung lượng thực tế thậm chí còn lớn hơn cả mức 2 GB.
-Kế hoạch của chúng tôi là tiếp tục tăng dung lượng cho khách hàng và không chỉ dừng lại ở 2 GB. E-mail đã trở thành một công cụ quan trọng trong đời sống và chúng tôi muốn Gmail đảm bảo đáp ứng được nhu cầu của người sử dụng, một thông báo của Google viết.
-Trong các tính năng mới mà Google đang thử nghiệm với các tài khoản Gmail có công cụ chống phishing. Nếu một e-mail có vẻ ngoài khả nghi xuất hiện trong hộp thư, phần mềm của hãng sẽ cảnh báo khách hàng về nguy cơ bị lừa đảo. Một đường link sau đó sẽ mở ra trang tư vấn về cách phát hiện những bức thư lừa đảo.
-Ngoài việc hỗ trợ rất nhiều trình duyệt phổ thông, dịch vụ Gmail hiện nay còn cho dùng qua giao thức POP3 miễn phí. 
-Động thái của Google được thúc đẩy một phần vì sức ép từ việc Yahoo mới đây công bố kế hoạch tăng công suất hòm thư miễn phí lên 1 GB. Hotmail cũng đang rục rịch với một kế hoạch tương tự.
-

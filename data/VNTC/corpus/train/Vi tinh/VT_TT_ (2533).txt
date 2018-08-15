@@ -1,7 +1,0 @@
- Tạo bộ sưu tập phim số cho iPod Video
-- Bước 1: Chọn nguồn file. Nếu chuyển đổi định dạng DVD thì nhấp vào biểu tượng “Convert DVD”, còn nếu chuyển đổi định dạng VCD hoặc các file video khác có sẵn trên máy tính thì bạn chọn biểu tượng “Convert File”. 
-Riêng với VCD, người dùng nên chép file .DAT vào máy và chuyển đuôi file .DAT thành .MPG để công cụ dễ hoạt động. 
-- Bước 2: Chọn một thư mục nào đó trên máy tính để lưu phim cho iPod Video. 
-- Bước 3: Chọn đúng kiểu file dành cho iPod Video. Có thể chọn MP4 hoặc H.264 đều được. Sau đó nhấp vào biểu tượng “Start Copy” và chờ đến khi quá trình chuyển đổi định dạng hoàn tất. Sau đó bạn chép file vừa được đổi định dạng vào máy iPod Video để thưởng thức. 
-Phần mềm này vừa xuất hiện ở VN, người dùng quan tâm có thể tìm mua ở các cửa hàng bán phần mềm tin học hoặc vào http://www.intervideo.com/jsp/iVideoToGo_Download.jsp?mode=ipod để tải bản dùng thử. 
-

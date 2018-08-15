@@ -1,8 +1,0 @@
- Hitachi và Seagate cùng phát hành đĩa cứng 400 GB
-Loại đĩa cứng 400GB Hitachi Deskstar 7K400 gồm có 5 lớp đĩa cứng xoay được đặt chồng lên nhau, mỗi lớp có dung lượng 80GB. Deskstar 7K400 có tốc độ quay là 7.200 vòng/phút, tốc độ truy xuất thông tin trung bình là 8,5 mili giây, kèm theo cache nhớ của riêng ổ cứng là 8 MB. 
-Seagate cũng tung ra loại ổ cứng Seagate Barracuda 7200.8 dung lượng 400GB có cấu trúc tương tự như Deskstar 7K400, nhưng tốc độ truy xuất thông tin nhanh hơn, khoảng 8 mili giây. Cả hai loại đĩa cứng dung lượng khổng lồ này đều sử dụng chuẩn SATA 1.5Gb/s. 
-Cả 2 loại đĩa cứng này đều đề được chế tạo để tương thích hoàn toàn với loạt chuẩn công nghệ ATA đời mới là NCQ. 
-Chuẩn công nghệ này cho phép đĩa cứng cùng lúc xử lý được nhiều yêu cầu phức tạp do máy tính đưa ra với hiệu suất rất cao trong thời gian ngắn. Hiện nay các loại đĩa cứng này có thể đọc và ghi dữ liệu ngay trong cùng 1 thời điểm dữ liệu được tải về. 
-Theo Seagate cho biết, công nghệ NCQ cho phép những máy tính có hệ thống tương thích hoàn toàn với NCQ có khả năng “ép” các đời đĩa Barracuda trước đây có tốc độ 7.200 vòng/phút đạt đến tốc độ những 10.000 vòng/phút, tức gia tăng đến 30% hiệu quả truy xuất dữ liệu. 
-Hiện loại đĩa cứng Hitachi Deskstar 7K400 có giá thấp nhất trên mạng là 230 USD, còn loại Seagate Barracuda 7200.8 có giá thấp nhất là 236 USD. Giá toàn phần của mỗi loại lên gần đến 300 USD. 
-

@@ -1,8 +1,0 @@
-Cách truy cập Internet không dây (2)
-Hiện nay tôi có một máy tính xách tay P-IV-M, vậy làm sao có thể truy cập mạng Internet khi tôi đến điểm truy cập Internet không dây?Mong các ban chỉ giúp.
-Thế Tùng
-Hồi âm:
-Ban muon su dung duoc mang WIFI bat buoc may ban phai co card wifi wireless, tuy tung model co tich hop san khe cam PCI ben trong may ban hay khong, neu kong co ban phai mua loai cam ngoai qua khe cam mo rong. Cach thao lap kha don gian, gia hien tai cho cacrd lap trong la 35 usd theo chuan 802.11b, va card gan ngoai la khoang 40 usd. Voi loai lap ben trong thi kha nang bat song manh hon loai gan ngoai. Nhung thong thuong voi cau hinh nhu ban noi hau het cac dong may deu co tich hop san khe cam PCI trong may. 
-Luan Nguyen 
-Sau day la nhung diem chu yeu neu ban muon xai khong day khi den dia diem truy cap khong day (Mot so yeu to ban can phai hoi nguoi LAN admin truoc de nguoi nay cung cap cho ban nhung thu can thiet de giup ban truy cap). Neu diem truy cap internet khong day khong co may chu ma chi dung wireless router hay access point thi ban can phai lam cong viec sau1. Ban phai hoi nguoi LAN admin la ho su dung channel may (default channel is 11), va LAN admin phai cho ban biet share key (encryption key). Make sure la he thong wireless xai DHCP thi de ban co the get IP address automatically ma khong can phai configure your laptop. Neu khong co DHCP thi ban can phai configure your laptop same subnet voi wireless router hay access point. Doi khi ban can them nhung chi tiet khac moi co the truy cap. Noi chung check with LAN admin before you try to access wireless internet. Hy vong giup ban giai quyet phan nao thac mac.
-

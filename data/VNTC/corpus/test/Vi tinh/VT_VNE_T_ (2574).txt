@@ -1,6 +1,0 @@
-Hai nguy cơ xâm nhập và tấn công DoS ở sản phẩm Cisco
-Nhà cung cấp thiết bị mạng Mỹ vừa công bố 2 lỗ hổng an ninh trong IOS, một có thể khiến các thiết bị dùng hệ điều hành mạng của Cisco bị tấn công từ chối dịch vụ (DoS) và một cho phép xâm nhập bất hợp pháp vào hệ thống.
-Lỗi cho phép xâm nhập giúp hacker xác định và gửi những gói dữ liệu đặc biệt, gọi là thông điệp Internet Key Exchange (IKE) Xauth, tới bộ định tuyến (router) cấu hình giống một Easy VPN Server. Sau đó, hacker có thể giành quyền truy nhập mạng và khai thác các tài nguyên bên trong. Lỗi này chỉ ảnh hưởng các thiết bị chạy trên IOS Easy VPN Server. Tham khảo thêm tại đây.
-Khiếm khuyết liên quan đến nguy cơ tấn công DoS ảnh hưởng đến các router và thiết bị IOS chạy server Secure Shell (SSH) trong quản lý từ xa. Kẻ tấn công có thể lợi dụng lỗ hổng này theo nhiều cách khác nhau, trong đó có việc lợi dụng một lỗi bộ nhớ để gửi đi nhiều lệnh khiến router khởi động lại. Lỗi này ảnh hưởng các thiết bị IOS chạy SSH phiên bản 2. Tham khảo thêm tại đây.
-Cisco đã phát hành bản sửa lỗi cho cả 2 khiếm khuyết trên.
-

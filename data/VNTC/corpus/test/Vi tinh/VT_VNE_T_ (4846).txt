@@ -1,6 +1,0 @@
-Phục hồi mật khẩu Admin của AcerRouter201 (1)
-Xin chào tất cả các bạn! Tôi đang sử dụng AcerRouter201. Tôi đã thay đổi Password của Router. Hiện nay tôi quên mất Pass.Vậy xin mọi người ai biết có cách nào để Reset lại được Pass của Router này. Xin chân thành cảm ơn!
-Trần Hoàng
-Hồi âm:
-Phía sau lưng cái Box AcerRouter201 của bạn có một lỗ nhỏ là Reset, bạn hãy dùng một cây nhỏ vừa với cái lỗ để nhấn vào nút năm bên trong. Nên nhấn giử một vài giây, tất cả sẽ trả lại vị trí của nhà sản xuất. Bạn phải dùng pass và login name của họ đấy.
-

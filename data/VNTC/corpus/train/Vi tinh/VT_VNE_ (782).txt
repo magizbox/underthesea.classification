@@ -1,8 +1,0 @@
-Microsoft mở rộng dịch vụ nhắn tin sang AOL và Yahoo
-Sắp tới, Microsoft sẽ kết nối dịch vụ nhắn tin trên mạng (IM) với các hệ thống của American Online và Yahoo. Đây được coi là bước tiến lớn nhằm cho phép người dùng các mạng khác nhau liên lạc được với nhau. 
-Sau cuộc họp với các đối tác vào hôm qua, Taylor Collyer, giám đốc tiếp thị của Microsoft cho biết, hãng sẽ bổ sung tính năng kết nối với mạng IM của AOL và Yahoo cho phiên bản kế tiếp của phần mềm nhắn tin nhanh dùng trong doanh nghiệp Live Communications Server ra mắt vào cuối năm nay. Tuy nhiên người dùng sử dụng dịch vụ MSN Messenger miễn phí sẽ chưa được cung cấp tính năng hoạt động liên mạng này trong một thời gian nữa. 
-Live Communications Server khác với MSN Messenger ở chỗ nó hoạt động trong mạng của các cơ quan và các đoạn đàm thoại có thể kiểm soát, ghi lại được, gần giống với hệ thống e-mail doanh nghiệp. 
-Dịch vụ nhắn tin nhanh cho phép người dùng gửi và nhận những đoạn tin ngắn bằng văn bản trên màn hình máy tính. Người tiêu dùng nhanh chóng chấp nhận loại hình liên lạc này và nó phát triển rất nhanh trong vài năm qua. Tuy nhiên, nhiều doanh nghiệp vẫn ngần ngại trong việc áp dụng hoặc chấp thuận sử dụng IM tại công sở vì e ngại những hệ thống này có thể phương hại đến an ninh hoặc bị nhân viên lạm dụng. 
-Đại diện các hãng Microsoft, Yahoo và AOL cho biết, lâu nay các doanh nghiệp vẫn đề nghị có được những hệ thống nhắn tin đủ tin cậy để sử dụng tại nơi làm việc. 
-Mặc dù Microsoft chưa bổ sung tính năng nhắn tin nhanh tới AOL và Yahoo cho dịch vụ MSN Messenger, bạn vẫn có thể giao tiếp với khách hàng của các dịch vụ này bằng một chương trình duy nhất, Trillian, với điều kiện bạn phải có tài khoản ở các dịch vụ tương ứng.
-

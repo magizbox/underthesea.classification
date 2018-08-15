@@ -1,6 +1,0 @@
-Lập trung tâm dự phòng thảm họa tài chính
-Cục Tin học - Thống kê Tài chính, Bộ Tài chính đang gấp rút xây dựng Trung tâm dữ liệu dự phòng sau thảm họa (DRC), nhằm đảm bảo mọi hoạt động công nghệ thông tin cho hệ thống tài chính khi có sự cố với thời gian gián đoạn thấp nhất.
-Theo Cục trưởng Phạm Văn Thuận, DRC sẽ lưu trữ và chạy song song một hệ thống dữ liệu khác có cùng nội dung bên cạnh hệ thống dữ liệu vận hành hàng ngày của hệ thống thuế, kho bạc, hải quan và chứng khoán.
-Dữ liệu lưu trữ tại trung tâm luôn được cập nhật, đồng bộ với dữ liệu của các ngành trực thuộc với mục đích dự phòng nóng cho cơ sở dữ liệu tại các trung tâm chính. Trong trường hợp có sự cố như thiên tai và hỏa hoạn, nguồn dữ liệu quốc gia vẫn không bị ảnh hưởng.
-Ngoài ra, trung tâm còn có nhiệm vụ đào tạo chuyên sâu, chuyển giao công nghệ thông tin cho các ngành khác; thử nghiệm các chương trình tin học quốc gia.
-

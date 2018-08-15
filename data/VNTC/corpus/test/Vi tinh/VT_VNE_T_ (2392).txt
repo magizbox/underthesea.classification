@@ -1,6 +1,0 @@
-Virus giả dạng screensaver Playboy
-Hãng bảo mật Sophos (Anh) đang khuyến cáo người truy cập Internet cảnh giác với một loại sâu phát tán bằng cách giả dạng phần mềm lưu màn hình (screensaver) với mồi câu là hình ảnh hai đô vật nữ rất khêu gợi.
-Virus mang tên Elitper.D, phát tán qua các mạng ngang hàng và kênh chat dưới lớp ngụy trang là hình ảnh hai nữ đô Torrie Wilson và Sable. Hai đấu sỹ chuyên nghiệp tóc vàng này rất nổi tiếng và từng xuất hiện nhiều lần trên trang bìa của tạp chí khiêu dâm Playboy. Sable, cựu người mẫu của hãng quần áo jeans hiệu Guess, tên thật là Rena Mero. Còn Torrie Wilson thì có hình ảnh xuất hiện trên hàng chục nghìn website với vô số kho ảnh và video clip.
-Một điểm đáng chú ý khác ở sâu Elitper.D là nếu phát tán qua e-mail thì nó lại giả dạng một phần mềm sửa lỗi Microsoft Windows XP SP2. 
-Khi xâm nhập vào máy tính, Elitper.D thực hiện một số thay đổi trong cài đặt an ninh, phong tỏa khả năng truy cập của máy tính vào một số website và mở ngỏ PC nạn nhân cho các cuộc tấn công về sau.
-

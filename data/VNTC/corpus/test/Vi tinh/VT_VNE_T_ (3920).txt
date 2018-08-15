@@ -1,7 +1,0 @@
-Acer ra mắt máy xách tay tốc độ 1,73 GHz
-Máy sử dụng CPU Pentium M 740, được sản xuất theo công nghệ 90 nm với 2 MB L2 cache và 533 Mhz FSB, đẩy nhanh công suất hoạt động và tiết kiệm điện năng đáng kể so với các loại notebook khác. Sản phẩm vừa được Công ty Cổ phần Thế giới số - Digiworld giới thiệu tại thị trường Việt Nam.
-Đây là dòng TM 4152, sử dụng chipset WLAN Intel PRO/Wireless 2.200 BG, hỗ trợ các chuẩn WLAN 802.11b/g. WLAN máy này được ứng dụng công nghệ WLAN Signal Up Wireless độc quyền của Acer, với hệ thống ăng-ten bao quanh màn hình, tạo khả năng bắt tín hiệu và liên lạc bằng sóng vô tuyến tăng 25% so với notebook thông thường.
-TM 4152 còn thiết kế chipset 915 PM Express và kết hợp bộ nhớ thế hệ thứ 2 DDR2, giúp chạy nhanh hơn các dòng sử dụng bộ nhớ DDR. 
-Máy có thiết kế 4 cổng USB 2.0 ở rìa ngoài, 1 cổng Fire Wire, cổng Audio Line - in, cổng VGA và S - Video. 
-Sản phẩm có trọng lượng 2,9 kg, kể cả pin. Giá: 1.299 USD.
-

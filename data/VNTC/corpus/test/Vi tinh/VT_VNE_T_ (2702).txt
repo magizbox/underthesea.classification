@@ -1,8 +1,0 @@
-Ra tay 'hành hiệp' bằng virus
-Các chuyên gia tại Trung tâm nghiên cứu, phân tích spam và virus của hãng Sophos (Anh) vừa phát hiện một sâu mới mang tên Nopir.B được phát tán với mục đích trừng phạt những kẻ "coi thường pháp luật, dám xâm phạm các file nhạc trên mạng".
-Hình ảnh hiển thị trên máy nhiễm sâu Nopir.B.
-Sâu W32/Nopir.B, có nguồn gốc từ Pháp, lây lan qua các hệ thống chia sẻ ngang hàng (peer-to-peer), lấy mục tiêu là các đối tượng sao chép file để sản xuất và kinh doanh DVD. Virus hiển thị một hình họa mang nội dung chống xâm phạm bản quyền và tìm cách xóa tất cả các tệp nhạc MP3, phá hỏng nhiều tiện ích của hệ thống cũng như các chương trình có đuôi .COM trong máy bị nhiễm.
-Việc ăn cắp nhạc và phim đang lan tràn trên Internet, tiêu tốn của ngành công nghiệp giải trí hàng triệu USD mỗi năm. Sâu Nopir.B nhắm vào những kẻ tải nhạc trái phép, nhưng lại thất bại trong việc phân biệt giữa tội phạm thực sự và những người tự tạo các tệp MP3 cho riêng họ, Graham Cluley, cố vấn công nghệ cao cấp của Sophos, cho biết. Dù nhìn nhận theo khía cạnh nào cũng không thể nói virus này là 'vô tội' vì nó gây thiệt hại quá lớn cho người dùng máy tính Windows.
-Mặc dù chưa có nhiều thông báo về Nopir.B, Sophos khuyến cáo người dùng máy tính phải luôn đảm bảo phầm mềm diệt virus được cập nhật và các doanh nghiệp cần tự bảo vệ với các giải pháp cụ thể để tránh mối đe dọa spam và virus.
-Việc xâm phạm bản quyền trên mạng, như phân phối nhạc, phim, các chương trình TV bất hợp pháp đang là vấn đề bức xúc gần đây. Tuần trước, một người đàn ông ở Canada đã mất việc vì tung lên mạng phần đầu trong loạt phim khoa học Doctor Who của đài BBCba tuần trước khi nó chính thức được phát sóng.
-

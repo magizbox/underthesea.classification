@@ -1,8 +1,0 @@
-VoodooPC công bố PC nhanh nhất thế giới
-Máy tính chơi game của hãng sản xuất computer Canada dựa trên công nghệ chipset và bộ vi xử lý mới nhất của hai công ty AMD và Nvidia.
-Mặc dù sử dụng chipset nForce 4 của Nvidia nhưng chiếc máy lại được gọi là Voodoo Rage SLi, dựa theo tên một loại chip đồ họa cũ của ATI. Ngoài chipset của Nvidia, PC này còn có bộ xử lý AMD Athlon 64 FX-55 và một cặp Nvidia GeForce 6800 Ultras chạy trong chế độ SLi.
-Một hệ thống như vậy sẽ có giá khoảng 4.850 USD. Tất nhiên nếu người sử dụng chấp nhận bỏ bớt một số tính năng thì giá có thể xuống còn 3.017 USD. 
-Trong khi đó, trên website của mình, VoodooPC có vẻ dè dặt hơn khi tuyên bố sản phẩm của họ là chiếc máy tính làm mát bằng không khí chạy nhanh nhất. Rage SLi chạy nhanh hơn so với các hệ thống làm mát bằng chất lỏng. 
-Theo Trentent Tye, Giám đốc phần mềm của VoodooPC, những game như Doom III có thể chạy với tốc độ 107 khung hình/giây (frame per second - fps) dù được đặt ở chế độ chi tiết cao với mức phân giải là 1600 x 1200. Sắp tới, những máy tính chơi game cao cấp hiện nay sẽ có thể chơi những trò như Doom III với chế độ cài đặt ở mức 30 fps, Tye nói.
-Voodoo đang bắt đầu nhận các đơn đặt hàng mua Rage SLi nhưng không cho biết bao giờ sẽ chính thức xuất xưởng.
-

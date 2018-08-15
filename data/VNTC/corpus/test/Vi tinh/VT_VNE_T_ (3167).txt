@@ -1,6 +1,0 @@
-Thoại và băng rộng sẽ được cung cấp trên một mạng
-Martin Backstrom, Giám đốc công nghệ của Ericsson, cho rằng viễn thông 3G có thể cung cấp các dịch vụ tốc độ cao thông qua mạng lưới thông tin di động với chi phí hợp lý. 
-Tại hội thảo về liên lạc di động băng rộng do Ericsson vừa tổ chức ở Hà Nội, Backstrom cho rằng các chuẩn như WiMax cũng là sự lựa chọn cho những nơi không có cáp đồng nhưng vẫn có nhu cầu về dịch vụ DSL (Digital Subscriber Line).
-Ông nhận định WCDMA Evolved là bước phát triển hoàn chỉnh của công nghệ di động băng thông rộng với tính năng HSDPA (truy cập gói tốc độ cao), cải thiện tốc độ tải dữ liệu lên mức 14 Mb/giây. "Di động băng rộng sẽ phát triển nhanh nhờ vào lợi thế phát triển quy mô lớn có được trong quá trình triển khai công nghệ WCDMA trên toàn cầu. Và WCDMA có tính năng HSDPA sẽ là giải pháp hiệu quả không chỉ cho liên lạc thoại di động mà còn cho các dịch vụ băng rộng", đại diện Ericsson khẳng định.
-Hiện nay, truy cập băng rộng vẫn chủ yếu được thực hiện nhờ các công nghệ trên mạng hữu tuyến như DSL, cáp tivi hay cáp quang. Đối với mạng di động GSM, việc triển khai giới thiệu các khả năng truyền dữ liệu tăng cường dựa trên công nghệ EDGE sẽ giúp kết nối băng rộng tốc độ tầm trung ở mọi nơi.
-

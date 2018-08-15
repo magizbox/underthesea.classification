@@ -1,8 +1,0 @@
- Một bước tiến mới của Google
-Google đang trong một cuộc đua về cung cấp dịch vụ Internet với các đối thủ sừng sỏ như Microsoft, Yahoo, AOL, InfoSpace ... chính vì thế bước tiến lần này có thể nói là một bước ngoặc lớn đối với họ. 
-"Điện thoại di động là một vật vô cùng thiết thân, mang nhiều cá tính của chính chủ nhân mình. Chính bởi thế, nhu cầu chăm sóc chiếc điện thoại thân yêu là một điều không thể thiếu. Và đương nhiên, mục đích là để mọi thông tin khách hàng cần phải được truy xuất đến một cách nhanh nhất có thể". 
-Tư tưởng này chính là ý tưởng để ra đời dịch vụ trên. Chỉ cần một vài cái bấm tay, bạn đã có thể có được thông tin mình cần. 
-Việc đầu tiên, rất nhiều dịch vụ vốn có của Google sẽ được tối ưu hóa để có thể hoạt động trên một màn hình kích thước nhỏ như ở điện thoại di động. Thứ hai, các dịch vụ này cũng được tối ưu hóa để có thể hoạt động suôn sẻ trên mạng có tốc độ thấp như ở mạng điện thoại di động. 
-Về mặt kỹ thuật, dịch vụ thiết kế trang chủ cá nhân trên điện thoại di động sẽ hoạt động tốt với tất cả các trình duyệt trên nền xHTML. Mọi chiếc điện thoại hỗ trợ xHTML đều có thể sử dụng dịch vụ này của Google. Google triệt để ứng dụng quy tắc "tạo nên sự khác biệt cho riêng bạn trong một thế giới mà mọi thứ đều gần giống nhau". 
-Được biết, hiện nay, hãng T-Mobile ở Đức đã thiết lập Google là trang nền của những chiếc điện thoại thế hệ mới của công ty. Tuần rồi, Motorolar cũng đã ký với Google hợp đồng cho việc được phép tích hợp rất nhiều dịch vụ của Google vào trong một số mẫu điện thoại di động đời mới của mình. 
-

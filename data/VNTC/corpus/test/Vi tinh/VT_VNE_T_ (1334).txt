@@ -1,8 +1,0 @@
-Tách audio từ đĩa VCD (2)
-Toi co 1 dia nhac duoi dang VCD va muon thau lai tieng hat tren VCD sang CD AUDIO duoi dang wav. Xin nho cac ban chi dum lam cach nao de thau duoc. Xin cam on.
-Thai Minh
-Hồi âm:
-Có thể dùng VirtualDub để mở file .dat trên VCD (thực chất là fileMPEG1), chọn save File - save WAV để tách phần âm thanh ra.
-Le Dong Phuong
-Bạn có thể dùng phần mềm Herosoft để chuyển VCD thành audio hoặc MP3.
-

@@ -1,6 +1,0 @@
- Aptech bắt đầu đào tạo chuyên gia Hệ thống thông tin
-Đây là chương trình đào tạo mới nhất của Aptech, tập trung vào việc thiết kế, xây dựng, quản lý hệ thống mạng máy tính và thiết lập các tuyến phòng thủ, chính sách bảo mật thông tin. 
-Đối tượng học viên là những HSSV yêu thích Công nghệ thông tin (CNTT) có mong muốn trở thành chuyên gia trong lĩnh vực quản trị và bảo mật mạng máy tính và các chuyên viên quản trị mạng máy tính trong các doanh nghiệp. 
-Chương trình ACNP kéo dài 6 tháng, gồm hai học phần là Quản trị hệ thống (ACNA) và Bảo mật thông tin (ACSP) với giáo trình bằng tiếng Việt. Kết thúc khóa học, học viên được cấp chứng chỉ của Tập đoàn Aptech (Ấn Độ), đồng thời được trang bị các kiến thức cần thiết để phục vụ cho việc thi chứng chỉ MCSA, MCSE của Microsoft. 
-Đặc biệt, Aprotrain-Aptech cho biết sẽ ưu đãi 10% học phí cho 50 học viên đầu tiên nhập học ACNP. Đối với các học viên đã và đang học tại các cơ sở của Aptech ưu đãi 20% học phí. Mọi chi tiết liên hệ: Trung tâm Đào tạo Lập trình viên Quốc tế Aprotrain-Aptech, 285 Đội Cấn, Q.Ba Đình, Hà Nội; ĐT: (04) 7623654; Email: aptech@aprotrain.com 
-

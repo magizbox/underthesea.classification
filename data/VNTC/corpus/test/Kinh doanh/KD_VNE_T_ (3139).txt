@@ -1,4 +1,0 @@
-Eximbank tham gia liên minh thẻ VCB
-Ngân hàng xuất nhập khẩu VN (Eximbank) và Ngân hàng Ngoại thương VN (VCB) hôm qua đã ký kết chương trình kết nối hệ thống máy rút tiền tự động và POS. Đây là thành viên thứ 8 trong liên minh thẻ do VCB đứng đầu.
-Việc kết nối giữa hai ngân hàng được thực hiện theo giao thức chuẩn quốc tế ISO 8385, cho phép khách hàng sử dụng sản phẩm thẻ của Eximbank rút tiền mặt trên toàn hệ thống hơn 400 máy ATM của Vietcombank và máy của các ngân hàng thương mại khác trong liên minh. Ngược lại, sản phẩm thẻ mang thương hiệu Connect24 của Vietcombank và các ngân hàng khác trong liên minh thẻ cũng sử dụng được tại mạng lưới các máy ATM của Eximbank.
-

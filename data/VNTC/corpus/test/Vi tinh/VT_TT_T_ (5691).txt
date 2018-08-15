@@ -1,9 +1,0 @@
- Adobe với LightRoom, bước chân đầu tiên vào môi trường web
-Với sản phẩm đầu tay sau cuộc thôn tính Macromedia là LightRoom, Adobe từng bước lộ rõ tham vọng thật sự của mình. 
-LightRoom là một trình xử lý ảnh chuyên nghiệp, được thiết kế để có thể làm việc liên thông với Adobe Photoshop. Điều đặc biệt là Adobe đã sử dụng bộ phần mềm rất nổi tiếng về flash của Macromedia để giúp khách hàng có thể tạo các trang web cá nhân. Điều đó cho thấy họ đang tiến bước từ môi trường máy để bàn lên môi trường web. 
-LightRoom hỗ trợ làm việc với rất nhiều định dạng file ảnh khác nhau, bao gồm cả loại dữ liệu thô chưa qua xử lý. LightRoom được thiết kế để làm việc cực kỳ linh động và thông minh, thể hiện một sự đầu tư công phu và tỉ mỉ của nhà sản xuất. 
-Hiện nay, LightRoom đang được phát hành bản beta thử nghiệm, số lần download trong 24 giờ qua là 16.000 lần, một con số không phải là nhỏ đối với một chương trình xử lý ảnh chuyên nghiệp. Adobe muốn chính người dùng sẽ củng cố cho sản phẩm của mình trước khi biến nó thành thương phẩm với giá bán lẻ ít hơn giá của Photoshop là 650 USD. 
-Bạn có thể vào đây để tải bản dùng thử của LightRoom. 
-Điều đặc biệt thu hút của Lightroom, đây là một chương trình kiến trúc mở. Điều đó có nghĩa, nó cho phép các hãng thứ 3 có thể tùy biến theo ý thích. Và chính vì vậy, vô hình chung, LightRoom là một đối thủ nặng ký của Aperture, một chương trình xử lý ảnh mới của Apple. 
-Adobe đã thật sự bước những bước đầu tiên tiến vào môi trường web, một môi trường mà ở đó, sở trường của họ không biết liệu sẽ đem lại những tiện ích mới gì cho người tiêu dùng, và điều quan trọng nhất là liệu khách hàng có chấp nhận sự thay đổi khi mà họ đã quá quen thuộc với những công cụ có sẵn của mình... 
-

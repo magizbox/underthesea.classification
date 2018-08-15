@@ -1,6 +1,0 @@
-Tại sao PC treo khi chat hoặc chơi game? (1)
-Em không hiểu sao máy tính của em rất hay bị treo (một ngày có thể tới 7-8 lần), mặc dù lúc mới mua em đã chọn những phần tốt nhất. Em đã cài lại máy nhiều lần (em dùng XP media center) nhưng vẫn không chữa được, đi bảo hành máy nhưng người ta nói là không tìm ra được lỗi của máy ( máy em mới mua được 4 tháng). Khi em đang chat hoặc chơi game thì máy rất hay bị treo. Em đo nhiệt độ ổ cứng thì thường là 42-45 độ. Em đã lên mạng để tìm cách chữa nhưng vẫn chưa tìm được. Mong mọi người giúp em chỉ ra nhưng nguyên nhân.. Em xin cám ơn mọi người rất nhiều.
-Trần Đức Quyền
-Hồi âm:
-Bạn hãy xem lại cạc hình ( graphic card ). Bạn đã chọn những phần tốt nhất? Muốn cài HDH media center card hình phải 1 trong 2 loại NVIDIA geforce hay ATI radeon 128MB hay ít nhất tương đương giá thành từ 100 usd cho đến 600 usd cho mỗi card. Nếu có thêm những chi tiết về chiếc máy cùa bạn có thể tìm cho bạn nơi để update drive. Bạn hãy xem chi tiết hardware yêu cầu cho media center http://www.microsoft.com/windowsxp/mediacenter/partners/dfw/partnerlisting.mspx.
-

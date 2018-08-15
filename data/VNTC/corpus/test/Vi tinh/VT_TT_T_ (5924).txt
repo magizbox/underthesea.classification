@@ -1,4 +1,0 @@
- Chụp ảnh chất lượng… gigapixel!
-Thiết bị GigaPxl Project (có một phần cấu trúc phần cứng tên là Cold War) sử dụng một công nghệ chụp ảnh đặc biệt để nâng cao độ phân giải của ảnh lên đến mức gigapixel, tức cao gấp hàng trăm lần so với độ phân giải của các máy ảnh số mạnh nhất hiện nay. 
-Thiết bị này giúp bạn chụp được các bức ảnh “siêu chất lượng” với hình ảnh cực kỳ rõ nét, đặc biệt có thể chụp các bức ảnh theo chiều ngang với một góc rất rộng mà chất lượng ảnh vẫn rất tốt. Tuy nhiên với độ phân giải siêu cao như thế này thì việc sao chép, in ấn các bức ảnh đòi hỏi phải có những chương trình xử lý ảnh chuyên dụng mới có thể làm việc được với nó. 
-

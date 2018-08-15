@@ -1,9 +1,0 @@
-Việt Nam tự làm thiết bị châm cứu bằng laser
-Thiết bị châm cứu 4 kênh bằng laser đi ốt bán dẫn do tiến sĩ Vũ Doãn Miên - Viện Khoa học vật liệu, và cộng sự ở Viện Ứng dụng công nghệ, tự nghiên cứu lắp ráp bằng các linh kiện trong nước.
-Thiết bị này tương đối gọn nhẹ và được lắp đặt theo nguyên lý: ánh sáng được phát ra từ chip laser đi ốt bán dẫn nằm trong máy và ngay sau đó ánh sáng đi qua bốn sợi quang (4 kênh) ghép nối với chip laser. 
-Những sợi quang này tương đương với các kim châm. Vì thế, thay bằng kim đâm trực tiếp vào da thịt của bệnh nhân, các bác sĩ chỉ cần dán những sợi quang dẫn laser vào các huyệt và khởi động kích thích huyệt đạo. Nhờ đó, sử dụng thiết bị này không chỉ tránh được sự đau đớn cho bệnh nhân, mà còn phòng tránh được một số bệnh có thể lây nhiễm qua kim, nhất là HIV/AIDS. 
-Một ưu điểm khác của thiết bị này là có thể giữ nhiệt độ laser ổn định ở 25oC nhờ pin lạnh Peltier; đồng thời có thể thay đổi công suất phát ra khác nhau để phục vụ cho từng đối tượng người bệnh. Đặc biệt, mọi chế độ hoạt động của thiết bị nằm trong phần mềm và hiển thị lên màn hình, nên giúp cho các thầy thuốc xử lý rất dễ dàng.
-Để chế tạo thành công thiết bị này, các cán bộ khoa học kỹ thuật phải nghiên cứu chọn ánh sáng laser có bước sóng thích hợp để vừa có thể xuyên sâu vào các huyệt đạo, vừa không gây nguy hiểm cho cơ thể. 
-Sản phẩm có thể sử dụng cho nhiều mục đích khác nhau như điều trị nội mạch, trị các bệnh viêm nhiễm, điều trị bỏng, châm cứu trị bệnh và châm cứu cai nghiện ma túy. 
-Thiết bị chuẩn bị đưa vào thử nghiệm thay cho phương pháp châm cứu bằng kim thông thường tại Trung tâm cai nghiện ma túy tại Ba Vì (Hà Tây).
-

@@ -1,6 +1,0 @@
-Sửa ảnh nhanh bằng CorrectPhoto
-Nếu là một nhiếp ảnh gia kỹ thuật số không chuyên, hẳn vô số lần bạn phải xóa bỏ các kiểu ảnh thiếu hoặc thừa sáng, sai màu... dù đó là những kỷ niệm quý báu. Bạn không cần phải làm như vậy nữa vì từ nay CorrectPhoto sẽ giúp bạn làm đẹp những bức ảnh đó chỉ với vài cú bấm chuột.
-Giao diện của CorrectPhoto rất dễ sử dụng, với hầu hết các công cụ đều ở dạng biểu tượng, mang tính trực quan cao. Bạn có thể chỉnh sửa màu da người, cây cối hay bầu trời bằng cách click vào các nút tương ứng. Tương tự là điều chỉnh độ sáng, bổ sung đèn flash, cân bằng màu... Dùng CorrectPhoto, bạn cũng loại bỏ được những hình ảnh không mong muốn khỏi khung hình bằng công cụ cắt với rất nhiều tỷ lệ cho trước. 
-Các tính năng khác của CorrectPhoto cho phép bạn sửa chữa, quản lý, lưu trữ và chia sẻ ảnh kỹ thuật số. Mặc dù rất đơn giản, phần mềm vẫn giúp các tác phẩm của bạn trông như của những nhiếp ảnh gia chuyên nghiệp. 
-Chương trình chỉ tương thích với Windows XP. Bạn có thể tải bản dùng thử có thời hạn 14 ngày với dung lượng 4,2 MB tại đây. 
-

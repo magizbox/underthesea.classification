@@ -1,7 +1,0 @@
-Cả Windows Media Player và IE đều bị lỗi mới
-Một lỗ hổng được tìm thấy trong chế độ cài mặc định của phần mềm nghe nhạc và trình duyệt phổ biến nhất hiện nay Internet Explorer (IE) của Microsoft, cho phép tội phạm mạng thực hiện tấn công và khai thác từ xa.
-Theo thông báo của công ty bảo mật eEye (Mỹ), những hệ thống bị ảnh hưởng bao gồm Windows XP Service Pack 1 và Service Pack 2, Windows NT, Windows 2003 và Windows 2003 SP1, cũng như tất cả các phiên bản của Windows 2000.
-eEye xếp lỗi này ở mức độ "nghiêm trọng" bởi nó có thể bị lợi dụng từ xa và ảnh hưởng đến những thiết lập trong cả hai chương trình thông dụng. "Lỗ hổng sẽ bị khai thác và nhiễm sâu nếu nạn nhân mở một file hoặc vào trang chứa phần mềm nguy hiểm", Marc Maiffret, một giám đốc của eEye cho biết. "Sau đó hacker có thể thay đổi mã trong máy tính với vai trò người sử dụng".
-Phát ngôn viên của Microsoft cho biết họ đã nhận được cảnh báo của eEye, nhưng khẳng định chi tiết lỗ hổng sẽ không được công khai rộng rãi và cũng chưa có vụ tấn công nào được ghi nhận. Trung tâm phản ứng bảo mật của tập đoàn phần mềm đang tiếp tục nghiên cứu và khắc phục.
-Lỗi này được phát hiện chỉ vài ngày sau khi Microsoft công bố bản tin bảo mật tháng 10. Theo eEye, lỗi mới không liên quan đến bất cứ 14 lỗ hổng bảo mật trong Windows đã được vá tuần trước.
-

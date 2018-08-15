@@ -1,7 +1,0 @@
-Thức dậy sảng khoái với đồng hồ thông minh 
-Bạn sẽ không bao giờ phải thức dậy với cảm giác mệt mỏi, rã rời, nhờ vào một chiếc đồng hồ tương lai có thể theo dõi giấc ngủ và chờ đến khi người chủ đi vào giai đoạn tốt nhất mới đánh thức anh ta.
-Thiết bị mang tên SleepSmart dựa trên nguyên lý rằng mô hình giấc ngủ lặp lại cứ sau 90 phút với chu kỳ gồm các giai đoạn: ngủ nhẹ, ngủ sâu, và REM (mắt chuyển động nhanh) - tại đó chúng ta mơ nhiều nhất.
-Thời điểm thức dậy trong chu kỳ đó có thể ảnh hưởng tới cảm giác của bạn khi tỉnh giấc - và thức dậy vào giai đoạn ngủ nhẹ có nghĩa là bạn sẽ dễ dàng cảm thấy tươi tỉnh hơn.
-Thông qua một chiếc vòng gắn trên đầu có các điện cực và bộ vi xử lý, SleepSmart ghi lại các mô hình sóng riêng biệt được tạo ra trong mỗi giai đoạn ngủ, và truyền dữ liệu tới chiếc đồng hồ đặt cạnh giường. Người sử dụng sẽ đặt đồng hồ khoảng thời gian muộn nhất mà anh ta cần phải dậy. Chuông đồng hồ sẽ reo vào giai đoạn ngủ nhẹ cuối cùng trước thời hạn.
-Ý tưởng về SleepSmart đến từ một nhóm sinh viên tại Đại học Brown, Rhode Island. Họ đã hoàn thành sản phẩm mẫu và dự định tung ra thị trường vào năm sau.
-

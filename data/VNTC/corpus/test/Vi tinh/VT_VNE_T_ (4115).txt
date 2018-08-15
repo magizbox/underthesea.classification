@@ -1,6 +1,0 @@
-DVD Jon 'ra tay' với Windows Media Player
-Jon Lech Johansen, hacker người Na Uy nổi tiếng với kỹ thuật vô hiệu hóa công cụ bảo vệ đĩa DVD (nên được gọi là DVD Jon), vừa lập chiến tích mới khi xuyên thủng mã bảo mật phần mềm nghe nhìn của Microsoft.
-Mục tiêu của vụ hack là cho phép mọi người dùng được Windows Media Player trên nhiều nền điều hành khác nhau, trong đó có cả các hệ điều hành mã mở. Chi tiết cách thức tiến hành việc này được tác giả đăng trên website riêng So Sue Me. 
-Năm nay 21 tuổi, Johansen có niềm đam mê đặc biệt trong việc xâm nhập và vô hiệu hóa các hệ thống bảo vệ để cho phép những hệ điều hành khác nhau sử dụng được nhiều phần mềm thương mại hoặc đơn giản chỉ là loại bỏ được mã bảo vệ bản quyền số.
-Hồi tháng 3, Johansen đã tiến hành phá mã công cụ chống sao chép trên hệ thống nhạc trực tuyến iTunes của Apple trong vòng 24 giờ.
-

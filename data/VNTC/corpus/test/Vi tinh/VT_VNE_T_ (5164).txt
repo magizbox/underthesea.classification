@@ -1,8 +1,0 @@
-Chuẩn chính thức cho WiMax di động
-Tổ chức kỹ sư điện tử quốc tế IEEE tuần này đã thông qua chuẩn băng thông rộng không dây di động 802.16e, cho phép trạm cơ sở kết nối tới những thiết bị đang di chuyển.
-Bộ thông số 802.16e là sự mở rộng của chuẩn kết nối cố định 802.16-2004. Tuy nhiên, hai phiên bản WiMax này không tương thích với nhau. IEEE đang nghiên cứu để cả hai có thể cùng hoạt động trong một trạm cơ sở hai chế độ, hỗ trợ một ăng-ten đơn có thể liên lạc với thiết bị tiếp sóng gắn tại các tòa nhà và trên tàu, ôtô...
-Ngay cuối năm 2005, 802.16-2004 và 802.16e sẽ được hợp nhất trong một tài liệu và trở thành 802.16e-2005.
-802.16e là bản phác thảo chuẩn lần thứ 12 của nhóm nghiên cứu IEEE Task Group, bắt đầu hình thành từ 2002 và dự kiến hoàn tất trong 18 tháng, nhưng tính đến nay thời gian đã nhân đôi.
-Chuẩn chính thức này sẽ mở đường cho sự phát triển của các sản phẩm WiMax di động. Hiện nay, nhiều trạm cơ sở và hệ thống máy khách tương thích 802.16e đã xuất hiện trên thị trường.
-WiMax có tốc độ xử lý dữ liệu 20 Mb/giây và phạm vi phủ sóng lên tới 3 km. Công nghệ này vừa bổ sung, vừa thay thế cho mạng Wi-Fi. Giới quan sát dự đoán, WiMax sẽ phổ biến trong các thiết bị di động như PDA và điện thoại thông minh vào năm 2007.
-

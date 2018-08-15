@@ -1,5 +1,0 @@
-Kính hiển vi 'nhanh nhất thế giới'
-Các nhà khoa học Australia đã tạo ra một thiết bị mà họ gọi là chiếc kính hiển vi chính xác và nhanh nhất trên thế giới, đủ mạnh để có thể xác định những mẩu vật chất nhỏ bé chỉ trong vài phần giây. 
-Tổ chức nghiên cứu CSIRO của Australia đã phát triển thiết bị này để phân tích vật chất, hỗ trợ cho quá trình điều tra tội phạm của cảnh sát. "Chúng tôi có thể tìm kiếm các vật liệu thu thập được trên một bề mặt nào đó đang điều tra và so sánh nó với vật liệu rơi ra từ quần áo hoặc một chiếc xe để phân tích", thành viên nhóm nghiên cứu, tiến sĩ Alan Butcher, nói. Trong hầu hết các trường hợp, thiết bị này có thể được dùng để tìm ra thành phần chính xác của vật liệu. Một chùm tia điện tử sẽ scan, phân tích và chụp X-quang vật liệu, xác định thành phần của nó và mỗi lần phân tích chỉ mất khoảng 5 miligiây thay vì cả ngày như hiện nay. 
-Thiết bị cũng có thể được ứng dụng trong ngành khảo cổ, trong pháp y hay trong công nghệ khoáng vật.
-

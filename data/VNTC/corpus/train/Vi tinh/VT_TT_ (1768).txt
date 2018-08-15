@@ -1,6 +1,0 @@
- BKIS đào tạo chuyên viên an ninh mạng cho VNPT
-Đây là chương trình đào tạo chuyên viên an ninh mạng có quy mô lớn nhất mà BKIS đã thực hiện với các đối tác là các bộ ngành và cơ quan chính phủ trong thời gian qua. 
-Tham gia khóa học, các chuyên viên của VNPT được trang bị những kiến thức cơ bản về an ninh mạng, nghiên cứu các kỹ thuật xâm nhập, tấn công mà tin tặc thường sử dụng và các biện pháp phòng chống. 
-Các khóa học diễn ra trong 4 tuần tại Hà Nội, Đà Nẵng và TP.HCM, từ ngày 13-3 đến 7-4. 
-BKIS hiện là một trong các Trung tâm an ninh mạng hàng đầu Việt Nam, là đồng sáng lập và cũng là đại diện của Việt Nam trong Hiệp hội các tổ chức Cứu hộ máy tính của khu vực Châu Á Thái Bình Dương - APCERT. 
-

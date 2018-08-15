@@ -1,7 +1,0 @@
-Intel ra mắt dòng Pentium IV mới
-Trung tâm chú ý của loạt chip cho máy để bàn công bố hôm qua này là bộ nhớ đệm (cache) dung lượng 2 MB (gấp đôi so với Pentium cùng loại hiện hành), tăng thêm rất nhiều công suất hoạt động của máy tính.
-Bốn bộ vi xử lý Pentium IV thuộc dòng 600 series mới có tốc độ từ 3 GHz tới 3,6 GHz và tất cả đều có bus đạt 800 MHz. Trong số này, loại Pentium IV 660 hàng đầu có giá bán là 605 USD với yêu cầu đặt mua tối thiểu 1.000 chiếc trong khi loại 630 có giá 224 USD.
-Nhà sản xuất chip có trụ sở ở Santa Clara, California (Mỹ) cũng mới giới thiệu một thành viên khác của gia đình Pentium IV Extreme Edition với tốc độ 3,73 GHz và bus 1.066 GHz. Loại chip này được thiết kế dành giới chuyên nghiệp và dân nghiện game.
-Loạt sản phẩm Pentium IV mới của Intel xét về một số mặt có thể được coi là những phiên bản cuối cùng của loại này. Bắt đầu từ quý II năm nay, Intel sẽ bán ra dòng thiết bị xử lý lõi kép với tốc độ nhanh hơn nhiều các loại chip lõi đơn hiện hành.
-Đối thủ cạnh tranh AMD của Intel cũng sẽ tung ra chip 2 lõi vào mùa hè này, đồng thời phát hành một dòng chip máy tính xách tay tiết kiệm năng lượng có tên Turion.
-

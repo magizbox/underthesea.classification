@@ -1,8 +1,0 @@
-Website cho phép gửi thông điệp tới tương lai
-Vào ngày 19/12/2010, bạn nhận được một e-mail, gợi bạn nhớ lại rằng bạn từng hẹn hò mới một cô sinh viên và khi đó bạn ấp ủ trở thành giám đốc một công ty phần mềm. Bức thư đó có thể do chính bạn soạn từ dịch vụ FutureMe.
-FutureMe.Org là một trong số ít những dịch vụ tạo điều kiện cho người sử dụng gửi thư đến chính họ hoặc bạn bè trong tương lai. Matt Sly, 29 tuổi, nảy ra ý tưởng về FutureMe khoảng 4 năm trước đây khi nhớ lại hồi còn đi học, anh luôn được ra bài tập là... tự viết thư cho mình.
-Trang web FuruteMe, hợp tác cùng Jay Patrikios, 31 tuổi, sống tại San Francisco (Mỹ), cho phép mọi người đặt thời gian lên tới 30 năm tính từ thời điểm họ gửi thư. 
-Tuy vậy, Sly cho biết đa số người dùng chỉ đặt lịch e-mail trong vòng 3 năm và chủ yếu với nội dung thông báo cho người nhận về những việc họ đang làm hoặc hỏi người đó có tình cảm với họ không.
-"Chúng tôi muốn mọi người nghĩ xa hơn về tương lai của họ để so sánh với mục tiêu, ước mơ, hy vọng và những nỗi sợ hãi họ đang trải qua hiện nay", Sly nói.
-Gần đây, Forbes.com cũng hợp tác cùng Yahoo và Codefix Consulting để thực hiện dự án gửi thông điệp đến tương lai (trong khoảng 20 năm). Hai dịch vụ e-mail tương tự đang hoạt động ở Mỹ là myLastEmail.com hay LastWishes.com hứa hẹn sẽ gửi lời nhắn nhủ tới người yêu thương sau khi người sử dụng qua đời.
-

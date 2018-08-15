@@ -1,8 +1,0 @@
-Nhật giành lại ngôi vô địch siêu máy tính
-Hãng điện tử khổng lồ NEC vừa tuyên bố tung ra một supercomputer dạng vector được coi là có tốc độ mạnh nhất thế giới hiện nay với khả năng xử lý dữ liệu ổn định vượt xa máy Blue Gene/L do IBM sản xuất.
-NEC cho biết máy SX-8 mới ra đời có tốc độ xử lý cực đại lên tới 65 teraflop (65 nghìn tỷ phép tính dấu phẩy động/giây) và khả năng hoạt động ổn định ở mức xấp xỉ 90% của tốc độ 58,5% teraflop. Máy SX-8 có kiến trúc khác hẳn Blue Gene/L của IBM. Hãng điện tử Nhật cho biết SX-8 dùng kiến trúc vector nên đem đến độ ổn định khi hoạt động cao hơn nhiều so với dạng máy tính vô hướng (scalar) như của IBM.
-Giám đốc điều hành NEC Tadao Kondo cho biết: Đến nay, chúng tôi đã nhận được 100 đơn đặt hàng và những sản phẩm đầu tiên sẽ được xuất xưởng sang Anh để phục vụ trung tâm khí tượng quốc gia của nước này và sang Đức để dùng trong Trung tâm điện toán cao cấp ở Stuttgart.
-NEC dự kiến trong 3 năm tới sẽ cho thuê hoặc bán được khoảng 300 chiếc SX-8. Mức phí cho thuê hàng tháng đối với một siêu máy tính này là 1,17 triệu yên còn giá mua thì tương tương 130 triệu yên.
-Tháng 9 vừa qua, IBM đã giành ngôi số 1 của làng siêu máy tính thế giới khi cho ra mắt Blue Gene/L với tốc độ xử lý cao hơn cả thiết bị Earth Simulator của NEC, vốn là máy mạnh nhất suốt một thời gian dài. Blue Gene/L có thể xử lý thông tin ổn định ở tốc độ 36,01 teraflop.
-Hiện nay, các siêu máy tính chủ yếu được dùng trong việc thiết kế và sản xuất những sản phẩm phức tạp như máy bay, ôtô, dược phẩm và phục vụ nghiên cứu khí hậu.
-

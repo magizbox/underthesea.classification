@@ -1,7 +1,0 @@
- Những biểu hiện bất thường của "dế"
-- Với máy SAMSUNG X620 nối qua cáp E700 phải sử dụng phần mềm EasyStudio PIMS &amp; File Manager, để truy cập Internet bạn phải cài chương trình Internet Access riêng thì mới truy cập được. Bạn có thể cài phần mềm này miễn phí tại 89A Nguyễn Đình Chiểu, Q.3 hoặc tại số 300 Cộng Hòa, Q.Tân Bình (TP.HCM). 
-Tôi đang sử dụng ĐTDĐ Samsung E800, nhưng máy dạo này hay bị mất sóng và hay bị treo, tắt nguồn. Trong phần tin nhắn, nếu chọn ký tự S viết hoa thì máy bị treo nhưng ký tự S thường thì không sao? (Hoàng Anh, TP.HCM) 
-- Để khắc phục lỗi trên trước tiên bạn phải cài lại phần mềm cho máy, nếu vẫn bị tình trạng trên thì phải đem đến trung tâm để kiểm tra và sửa chữa phần cứng. Hiện tại giá cài đặt lại phần mềm cho Samsung E800 là khoảng 120.000 đồng tại các siêu thị ĐTDĐ. 
-Tôi đang dùng ĐTDĐ Siemens S65 hàng xách tay, khi mang về Việt Nam lắp sim Vinaphone vào là dùng được ngay nhưng một số dịch vụ qua các tổng đài 996, 997, gửi MMS... lại không dùng được. Đại lý chính của hãng tại TP.HCM ở địa chỉ nào? (Thế Phiệt, Bình Thuận) 
-- Bạn có thể nạp lại phần mềm cho Siemens S65 với giá 200.000 đồng và phải cài đặt trên máy thì mới sử dụng được các dịch vụ 996, 997, GPRS, MMS… địa chỉ trung tâm bảo hành của Siemens tại TP.HCM: 101 Trần Hưng Đạo, phường Cầu Ông Lãnh, quận 1. 
-

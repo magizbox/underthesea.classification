@@ -1,6 +1,0 @@
- Dòng chip xử lý Xeon lõi đơn cuối cùng dành cho máy chủ
-Kiểu Xeon LV 3GHz có mức tiêu hao năng lượng chỉ là 55 watt và kiểu Xeon MV 3,2GHz tiêu thụ chỉ khoảng 90 watt, trong khi loại chip lõi kép 3,8GHz có mức tiêu thụ điện năng vào khoảng 110 watt cho mỗi lõi xử lý. 
-Các nhà sản xuất chip xử lý hiện đang cố gắng tập trung nghiên cứu để giảm thiểu càng nhiều càng tốt điện năng tiêu thụ của các dòng chip xử lý được tung ra trong tương lai. Điều này không phải vì giá dầu tăng và giá điện tăng nên phải “tiết kiệm điện” ở các chip xử lý, mà chính vì mức độ tiêu thụ điện năng thấp sẽ kéo dài tuổi thọ và khả năng xử lý của chip, cũng như tránh được nguy cơ tỏa nhiệt quá mức có thể dẫn đến cháy máy… Các kiểu chip xử lý sử dụng ít điện năng đã được trang bị cho một số đời máy chủ phiến dẹt và một số máy chủ khác. 
-Intel hiện đang hơi bị tụt hậu trước đối thủ cạnh tranh là AMD trong việc tung ra các chip xử lý lõi kép chuyên dùng cho máy chủ, nhưng Intel cũng đã tung được hơn 12 kiểu chip lõi kép và chip đa lõi từ trước đến nay. Trong vài tuần tới, Intel sẽ giới thiệu loại chip Xeon lõi kép đầu tiên dành cho máy chủ mang tên mới là Paxville và sẽ có những chip Paxvile có đến 4 lõi xử lý hoặc hơn nữa. 
-Hiện chưa rõ giá và thời điểm bán ra chính thức của 2 kiểu chip Xeon lõi đơn cuối cùng của Intel. 
-

@@ -1,6 +1,0 @@
-BizTalk Server 2004 nhận giải công nghệ xuất sắc
-Tạp chí InfoWorld (Mỹ) đã công nhận sản phẩm thuộc nhóm ứng dụng và tích hợp dành cho doanh nghiệp của Microsoft là giải pháp tự động hóa quy trình tốt nhất trong năm qua.
-Đây là giải thưởng được trao hằng năm nhằm tôn vinh những công nghệ tạo ra ảnh hưởng lớn nhất đối với ngành công nghệ thông tin.
-BizTalk Server 2004 là một phần của hệ phần mềm máy chủ (Windows Server System - WSS), được phát triển nhằm giúp khách hàng tự động hoá và quản lý các quy trình kinh doanh phức tạp trong nội bộ một tổ chức, kết nối với các ứng dụng, đối tác kinh doanh, đội ngũ nhân viên và hệ thống lưu trữ. 
-WSS cung cấp cơ sở hạ tầng cho hệ thống công nghệ thông tin, phát triển ứng dụng, tích hợp khả năng quản lý, bảo mật& Được xây dựng dựa trên nền hệ điều hành Windows Server, sản phẩm này tạo thuận lợi cho các chuyên gia kết nối và quản lý môi trường công nghệ thông tin, giảm bớt chi phí cũng như độ phức tạp của công việc. Ngoài ra, hệ thống WSS còn hỗ trợ các tiêu chuẩn công khai của ngành công nghệ phần mềm, giúp tăng khả năng tương tác với các ứng dụng khác. 
-

@@ -1,8 +1,0 @@
-Cách truy cập khi biết địa chỉ IP (2)
-Xin chỉ cho mình cách vào một địa chỉ trên Internet khi biết địa chỉ IP. Ví dụ như tôi muốn vào đia chỉ IP : 203.162.175.167.
-Lê Minh Khôi
-Hồi âm:
-Bạn chỉ cần gõ địa chỉ đó vào address của Internet Explorer rồi nhấn Enter. Tuy nhiên không phải bất cứ địa chỉ IP nào cũng có một tên miền, và không phải địa chỉ IP nào bạn cũng truy cập vào được. 
-Dong Ngo
-Chao ban, ban vao site www.download.com va download software SCANNER, tu do ban co the tim kiem rat de dang neu biet dia chi IP hoac nguoc lai. Cach thu hai: ban vao commade (Ms DOS tren w98 hoac w2000 va xp thi chon start, excute va go cmd), khi man hinh dos xuat hien thi ban go : nslookup, may se bao cho ban biet server va dia chi IP cua provider ma ban dang su dung de vao internet, ban se nhin thay dau hieu  , tu day ban go dia chi IP vao , bam enter thi se hien ra web site co ten dia chi do. Cach de dang nhat , khi biet dia chi IP: ban go truc tiep vao khung adresse: http://198.64.132.22, bam enter no se hien ra ten website dia chi tren la IP cua mang www.vnexpress.net. Chuc ban thanh cong.
-

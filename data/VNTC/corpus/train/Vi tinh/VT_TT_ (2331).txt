@@ -1,6 +1,0 @@
- Chip truyền tín hiệu âm thanh… dưới da
-Đây có thể nói là một loại công nghệ “không dây” độc nhất vô nhị vì đã dùng da người làm vật truyền dẫn tín hiệu âm thanh đến tai nghe. 
-Các nhà khoa học của Viện nghiên cứu này đã thiết kế thành công một số chip điện tử sử dụng điện thế cực thấp với kích thước cực nhỏ đến nỗi chúng có thể hoạt động được bằng năng lượng lấy từ cơ thể người khi được cấy vào dưới da hoặc vào trong cơ thể. 
-Người thử nghiệm được dán vào tay một số chip xử lý dạng này, khi bật nút Play của iPod thì tín hiệu âm thanh sẽ truyền từ máy nghe nhạc đến các chip xứ lý, các chip sẽ truyền dẫn tín hiệu dưới da đến tai nghe với tốc độ 2 megabit/giây và mức độ tiêu thụ năng lượng chỉ dưới 10 microwatt. 
-Các nhà khoa học tin tưởng rằng loại chip đột phá này của KAIST sẽ cực kỳ hữu dụng trong mọi nghiên cứu về cơ thể người, ngoài ra ý tưởng biến cơ thể người thành một loại “mạng” có thể nối với các mạng khác cũng không còn là điều viễn tưởng. 
-

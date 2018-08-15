@@ -1,6 +1,0 @@
- Viettel được cấp luồng thông tin lớn nhất 
-Đây là số luồng thông tin lớn nhất từ trước tới nay mà Viettel nhận được, nâng tổng luồng E1 của mạng này lên 500 luồng. 
-Ông Trung cho biết để đảm bảo mạng lưới thông suốt trong dịp Tết, công ty đang khẩn trương lắp đặt thêm các trạm thu phát sóng BTS, phấn đấu nâng tổng số trạm BTS trên toàn quốc lên 1.700 trạm, tăng gần 200 trạm so với hiện nay. 
-Bên cạnh đó, công ty sẽ bổ sung các trạm BTS tại các khu vực tập trung đông người và nâng cấp cấu hình trạm BTS. 
-Cũng trong chiều 12-1, Viettel Mobile đã công bố đón nhận khách hàng thuê bao thứ 2 triệu . 
-

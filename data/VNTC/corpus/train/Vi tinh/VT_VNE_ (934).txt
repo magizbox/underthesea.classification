@@ -1,8 +1,0 @@
-Yahoo phát hành công cụ tìm kiếm mới
-Hôm qua, Yahoo ra mắt phiên bản beta của công cụYahoo Local giúp người lướt web có thể search thông tin gần nhà hơn. Động thái này thể hiện hãng không hề thua kém các đối thủ nặng ký khác trong lĩnh vực tìm kiếm.
-Yahoo Localkhai thác công nghệ tìm kiếm của hãng - Yellow Pages và Map - để truy tìm thông tin và kết quả được khoanh vùng. Người dùng có thể nhập địa chỉ, thành phố, nước hoặc mã zip vào ô tìm kiếm trên trang này. 
-Đại diện của Yahoo cho biết người lướt web có thể lọc kết quả tìm kiếm theo không gian, mức độ, thể loại và các nhân tố khác. Do đó, họ có thể ghi lại những địa điểm thường xuyên sử dụng nhất để quét thông tin đã được search.
-Yahoo Local có thêm một số dịch vụ như tính năng tìm kiếm địa phương được tích hợp vào Yahoo Maps. Nhờ đó, người dùng có thể định vị địa điểm gần nhà như rạp chiếu phim, khách sạn và máy rút tiền. Đặc biệt, tính năng tìm kiếm ảo có tên SmartView cũng đuợc bổ sung vào Yahoo Local. Hãng hy vọng sản phẩm mới của mình sẽ được đánh giá cao nhờ các tính năng khác như đặt chỗ khách sạn và nhà hàng.
-Phiên bản thử nghiệm này đã có mặt ở thị trường Mỹ và đại diện của Yahoo ở London cho biết hãng chưa có ý định khai trương công cụ của mình ở thị trường nước ngoài.
-Hôm qua, hãng Ask Jeeves cũng thông báo tháng 9 sẽ khai trương công cụ tìm kiếm CitySearch dành cho giới doanh nghiệp. Trong khi đó, Google cũng vừa ra mắt người lướt web ứng dụng tìm kiếm theo vị trí địa lý. Đặc biệt, hôm qua, Microsoft giới thiệu với khách hàng công cụ tìm kiếm tuỳ biến.
-

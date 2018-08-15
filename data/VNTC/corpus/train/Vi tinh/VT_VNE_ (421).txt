@@ -1,8 +1,0 @@
-Hỏi về ổ ghi đĩa 16xDVD (2)
-Em thấy ở cửa hàng có bán một ổ đĩa với kí hiệu sau : 16xDVD. Ổ này có thể ghi đĩa được không ạ và chức năng cụ thể của nó như thế nào?. Vì em đang ở nước ngoài nên không hiểu. Xin cảm ơn. 
-Nguyễn Quang Thời
-Hồi âm:
-Không, đó chỉ là ổ DVD-ROM, có tốc độ đọc 16x (khi đọc đĩa DVD). Hiện tốc độ ghi DVD cao nhất mới chỉ là 8x. Ổ DVD-ROM chỉ có thể đọc đĩa DVD (và đĩa CD), chứ không ghi được. 
-Dong Ngo
-16x DVD la ky hieu noi ve toc do doc dia cua o dia do. Tren thuc te thi toc do do it khi dat duoc lam. Neu tren o dia khong co ghi RWDVD (ReWritable) hoac RWCD thi o dia do khong ghi duoc CD VA DVD dau. 
-

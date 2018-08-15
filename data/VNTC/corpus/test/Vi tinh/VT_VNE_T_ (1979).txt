@@ -1,6 +1,0 @@
-Màn hình máy tính chuyển màu xanh (1)
-Máy tính của tôi Pemtium 3. Không hiểu tại sao mỗi khi truy cập Internet thì thỉnh thoảng màn hình máy tính chuyển qua màn hình xanh. Tôi phải tắt máy để khởi động lại. Xin các anh chị chỉ bảo giùm trường hợp của tôi.
-HOÀNG QUÍ DƯƠNG
-Hồi âm:
-Khi màn hình chuyền màu xanh (blue screen of death) điều này rất thường xảy ra với HDH Win Me, đối với XP thì hầu như không thấy. Bạn không còn cách nào khác ngoài việc tắt máy bằng cách rút ổ cấm điện, bạn hãy chạy disk clean up, scan disk, defragmenter.bạn vào startall programsaccessoriessystem tools. Tuần tự từng bước một, đối với scan disk và defragmenter nên chạy ở safe mode.
-

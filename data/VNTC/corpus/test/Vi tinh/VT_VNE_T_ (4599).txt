@@ -1,7 +1,0 @@
-Firefox đạt 100 triệu lượt tải
-Tổ chức phần mềm mã mở Mozilla vẫn đang chứng kiến tốc độ phát triển ổn định của trình duyệt mã mở từ khi ra mắt tháng 11 năm ngoái. Trung bình, mỗi ngày Firefox thu hút khoảng 200.000 - 300.000 lượt tải.
-"Đây là điểm mốc vô cùng quan trọng. Cộng đồng người sử dụng và tiếp thị rộng khắp trên toàn thế giới, chưa kể những nhà phát triển, đã giúp sản phẩm duy trì vị thế vững chắc", Asa Dotzler, một phát ngôn viên của Mozilla, nói.
-Firefox đã lôi kéo được một lượng đông đảo những người hâm mộ thực sự mà ít công ty khác có được. Hàng nghìn người đã tình nguyện và sẵn sàng giúp tuyên truyền về trình duyệt, tham gia vào những diễn đàn hỗ trợ và tìm kiếm mã để sửa lỗi.
-Nhưng không vì thế mà Firefox không gặp rắc rối. Những lỗ hổng tìm thấy trong trình duyệt đang tăng lên và hãng bảo mật Symantec gần đây khẳng định Firefox không an toàn bằng Internet Explorer của Microsoft trong nửa đầu 2005. Và trang web khuyếch trương cho trình duyệt SpreadFirefox.com từng bị hacker đánh sập.
-Con số 100 triệu lượt tải của Firefox xuất hiện cùng ngày với việcNetscape phát hành phiên bản nâng cấp dựa trên phần mềm của Firefox, bao gồm một số bản vá lỗi. Netscape gần đây đã tham dự vào cuộc chiến trình duyệt sau khi Hewlett-Packard cam kết sẽ sản xuất máy tính và notebook được trang bị Netscape.
-

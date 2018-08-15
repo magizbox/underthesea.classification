@@ -1,8 +1,0 @@
-Tấn công máy tính Windows 2000 qua địa chỉ IP
-Một lỗ hổng nghiêm trọng được tìm thấy trong lõi hệ điều hành phổ biến nhất của Microsoft, khiến nó mất hoàn toàn khả năng hoạt động cho đến khi được vá lỗi.
-Marc Maiffret, Trưởng nhóm nghiên cứu tại hãng bảo mật eEye (Mỹ), cho biết lỗ hổng trong hệ điều hành này có thể tạo cơ hội cho những kẻ tấn công từ xa xâm nhập vào PC qua địa chỉ IP mà không cần bất cứ hành động hay sự can thiệp nào từ phía người dùng máy tính.
-"Vấn đề nan giải nhất ở đây là không thể tắt thành phần bị lỗi này", Maiffret nói. "Nó luôn ở trạng thái hoạt động. Người dùng không thể gỡ bỏ, cũng không thể cài lại".
-Lỗ hổng xảy ra với Windows 2000, những Maiffret lưu ý rằng họ vẫn đang trong quá trình thử nghiệm và có nhiều dấu hiệu cho thấy những phiên bản khác cũng có khả năng bị ảnh hưởng. eEye từ chối cung cấp thêm thông tin theo nguyên tắc "không mô tả chi tiết kỹ thuật lỗ hổng cho đến khi nhà sản xuất phần mềm đưa ra bản vá lỗi hoặc lời khuyên".
-eEye cũng đề cập đến một vấn đề trong Internet Explorer cho phép tin tặc thực hiện cuộc tấn công làm tràn bộ đệm khi người dùng vô tình vào một trang chứa mã độc. Lỗi này được xếp vào loại "rất nguy hiểm", ảnh hưởng đến Internet Explorer, Windows XP, SP1, Windows 2003 và Windows 2000. 
-Đại diện của Microsoft cho biết họ sẽ sớm đưa ra nhận định về thông tin mà eEye cung cấp hôm qua. "Chúng tôi đang tìm hiểu và sẽ cố gắng bảo vệ khách hàng như một phản ứng bảo mật thông thường", một đại diện của Microsoft nói.
-

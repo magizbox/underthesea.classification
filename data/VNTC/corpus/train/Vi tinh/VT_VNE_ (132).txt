@@ -1,7 +1,0 @@
-115 triệu người sẽ truy cập dữ liệu qua ĐTDĐ tháng này
-Hãng khảo sát thị trường EMC dự báo số người tải thông tin qua mạng GSM toàn cầu sẽ tăng 13% so với tổng số 100 triệu của tháng 9/2003. Con số này gồm tất cả những khách hàng đang sử dụng GPRS, i-mode, CDMA 2000 và các dịch vụ nhắn tin đa phương tiện.
-Mức tăng trưởng nói trên chủ yếu là nhờ số khách hàng ở khu vực châu Á, nhất là Nhật Bản và Hàn Quốc, nơi game trực tuyến và những nội dung sex đang thu hút số đông người sử dụng dịch vụ di động, bên cạnh các ứng dụng như e-mail và nhắn tin. 
-Trong lĩnh vực này, châu Âu còn chậm hơn châu Á khá nhiều. Vào tháng 9 năm ngoái, mới chỉ có khoảng 16 triệu người sử dụng mạng GPRS tại cựu lục địa. Trong khi đó, riêng con số thuê bao i-mode ở Nhật đã là 38,5 triệu. 
-Dịch vụ GPRS vẫn đứng đầu trong số các mạng GSM hiện có. Tính đến cuối tháng 12/2003, thế giới có hơn 970 triệu người sử dụng GSM, trong đó 180 triệu là khách hàng lần đầu sử dụng dịch vụ. Thống kê của Hiệp hội GSM quốc tế cho biết con số đó tương đương với 80% của 227 triệu chiếc điện thoại di động kỹ thuật số được bán ra trên thế giới năm 2003. Theo kết quả nghiên cứu của EMC, đã có 1 tỷ người gọi điện thoại bằng mạng GSM trong quý cuối năm 2003. 
-Khoảng 70 triệu thuê bao mới tập trung tại khu vực châu Á - Thái Bình Dương, trong đó, riêng Trung Quốc chiếm tới 42,8 triệu, cao hơn tổng số của cả châu Âu (mới tăng lên 42 triệu). Thị trường GSM khu vực Bắc Mỹ và Ấn Độ tăng thêm cùng một mức: 10 triệu khách hàng. Con số thuê bao mới ở Nga cao hơn một chút, đạt 16 triệu. 
-

@@ -1,6 +1,0 @@
-Có phải cài đặt mạng sai? (1)
-Tôi có một vấn đề muốn đuợc giúp đỡ. Ở nhà tôi có 5 máy tính, một MoDem thường, và một Switch, card mạng. Tôi nối mạng để chia sẻ Internet bằng cách: dùng một máy cài Win2k làm máy chủ có cài Proxy, máy chủ được nối với MoDem, và Switch, các máy còn lại được nối qua Switch và truy cập Internet qua IP của máy chủ. Nhưng kết quả là: khi vào Internet máy chủ thì vào nhanh còn các máy khác vào rất chậm (có thể nói là không vào được). Như vậy tôi có lắp đặt sai không, có cách nào khắc phục không?
-Ho Viet Thang
-Hồi âm:
-Ve nguyen tac ban lam nhu vay la rat dung. Tuy nhien ban khong noi ro la Proxy cua ban la gi ? co cau hinh nhu the nao? De cho mang nhanh hon ban nen dung che do NAT cho phep cac may con dung IP cua may chu de di thang ra ngoai khong can qua Proxy. Neu nhat thiet phai dung Proxy thi ban nen xem lai cau hinh cua Proxy cua minh. Neu proxy co cau hinh binh thuong Ban co the thuc hien cac lenh do duong de tim ra mang dang nghen mach tai dau. Chuc ban thanh cong. 
-

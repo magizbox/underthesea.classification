@@ -1,5 +1,0 @@
- Học đàn guitar trên mạng
-Chương trình đưa ra các tính năng như chơi bản nhạc, in ấn, nhập và xuất ra các định dạng MIDI và ASCII: các bản nhạc và bản phối âm dạng này rất phổ biến và dễ dàng khai thác từ tài nguyên Internet. Guitar Pro còn cho phép dịch chuyển giọng và rất nhiều chức năng hữu ích khác cần kể đến: bảng hợp âm cho guitar, bộ đánh nhịp bài hát, chức năng chỉnh dây cho guitar điện... 
-Nhà cung cấp Guitar Pro cũng tạo một website riêng với hàng nghìn bản nhạc, bài hát, bài phối âm đủ các thể loại từ cổ điển đến các dòng nhạc hiện đại như jazz, rock... Bạn có thể dễ dàng thăm các trang này tại www.mysongbook.com và tìm kiếm các bản nhạc ưa thích và tải về học tập miễn phí. 
-Chương trình nhỏ gọn hữu ích Guitar Pro có thể tải xuống bản dùng thử miễn phí tại đây: http://www.guitar-pro.com/ 
-

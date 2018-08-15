@@ -1,7 +1,0 @@
-Lỗi tràn bộ đệm trong Acrobat Reader 5x 
-Hacker đã tìm ra một lỗ hổng mới trên một trong những ứng dụng khách phổ biến nhất hiện nay - Acrobat Reader, cho phép chúng tấn công và kiểm soát toàn bộ máy tính qua liên kết hay file PDF đính kèm.
-"Khai thác lỗi từ xa và làm tràn bộ đệm trong Adobe Acrobat Reader dành cho hệ điều hành Unix có thể tạo điều kiện cho kẻ tấn công chạy mã tùy ý", hãng bảo mật iDefense (Mỹ) cảnh báo.
-Lỗ hổng này ảnh hưởng đến phiên bản phổ biến Acrobat Reader 5x (bản 5. trở lên) dành cho Unix và Linux. Lỗi được tìm thấy trong tính năng UnixAppOpenFilePerform, hoạt động khi Acrobat Reader mở những tài liệu nhất định. Dữ liệu trên máy tính người dùng sẽ bị sao chép thành nhiều bản, gây ra hiện tượng tràn bộ đệm và tạo cơ hội cho hacker thay đổi mã. Một kẻ tấn công từ xa có thể dễ dàng chọn bất cứ dữ liệu nào để khai thác mà không cần biết địa chỉ của các tệp chứa dữ liệu đó.
-Lỗ hổng này không quá nguy hiểm bởi khi tấn công xảy ra, hai thông báo lỗi sẽ xuất hiện trên màn hình. Tuy vậy, đóng cửa sổ thông điệp cũng sẽ không ngăn được nguy cơ tiếp tục bị khai thác. Do đó, iDefense khuyên người dùng nên nâng cấp lên phiên bản không bị lỗi như Acrobat Reader 7.0.
-Khá nhiều lỗ hổng liên quan đến Acrobat Reader đã xuất hiện trong những tuần gần đây, nhưng chưa có lỗi nào thực sự nguy hiểm. Lỗi nghiêm trọng nhất ảnh hưởng đến Acrobat Reader là vào tháng 12/2004 khi phiên bản Acrobat Reader 5x và 6x xuất hiện cho phép hacker cài mã độc từ xa.
-

@@ -1,5 +1,0 @@
- Virus cải dạng thành Microsoft's MSN Messenger beta
-Tuy nhiên, chương trình chạy không phải là chương trình Install mà là một chương trình gởi link download này đến cho những người đối tác (bao gồm cả bạn thân của bạn) mà nó lấy được từ máy bị lây nhiễm. Những link này đều có nhãn giả mạo là "MSN Messenger 8 working beta". 
-Nó cũng kết nối máy bạn với những máy chủ botnet (software robots: những chương trình tự động điều khiển máy bạn từ xa thường cho mục đích phát tán bom thư và virus) để tấn công các máy khác. 
-Những chương trình nguy hiểm lây lan qua các dịch vụ tin nhắn trực tuyến ngày càng nhiều hơn. Trong một cuộc nghiên cứu tháng 11 của Akonix Systems thì đã có đến con số 62. Đương nhiên, MSN Messenger là một môi trường lý tưởng. 
-

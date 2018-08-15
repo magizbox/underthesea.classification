@@ -1,8 +1,0 @@
-ATI và Nvidia hàng nào mạnh hơn (2)
-Em thấy trên mấy diễn đàn có người thì nói là RADEON của ATI ngon hơn Geforce của Nvidia, có người thì nói ngược lại. Thực ra cái nào mới là ngon nhất hả mấy anh? Và CARD mạnh nhất trên thị trường bây giờ có phải là 5950 Ultra không? Còn 9800 pro và 9800 XT khác nhau ở chỗ nào thế? Xin chào. Rất mong nhận được thư hồi âm.
-thuanvt
-Hồi âm:
-Tham khảo ở đây: 3D Performance with Far Cry - Part 1 ATI và ở đây: 3D Performance with Far Cry - Part 2 NVIDIA
-Cybernaut
-Khó có thể nói ATI và nVidia ai mạnh hơn ai. Mỗi người có một điểm mạnh riêng. Nhìn chung nếu bạn mua card mạnh nhất của mỗi hãng thì kết quả sẽ tương đương nhau thôi (dù không bao giờ là hoàn toàn giống nhau). Vì vậy bạn nên chọn loại nào rẻ hơn thì mua. Ngoài ra, ATI có một điểm mạnh là thiết kế của card nhỏ gọn hơn, tiêu thụ ít năng lượng hơn.Hiện thời giòng card mạnh nhất là:   ATI: Radeon X800 (trong đó card mạnh nhất là X800XT). Card Redeon 9800 (và 9800XT) là đời trước của X800. 9800XT mạnh hơn 9800 Pro và khác ở chỗ là có clock speed cao hơn nhiều RAM hơn (dù 9800PRO cũng có một phiên bản có cùng lượng RAM là 256MB)   Nvidia: Geforce 6800 (còn gọi là NV40), trong đó mạnh nhất là card Geforce 6800 Ultra Extreme. 5950 Ultra là đời trước của 6800. Lưu ý là 6800 Ultra của nVdia, ngoài việc thiết kế của card rất to (chiếm thêm một PCI slot nữa), thì còn yêu cầu về điện nguồn rất cao. Card này yêu cầu phải có tới 2 đường điện vào (gấp đôi ổ cứng) và bộ nguồn (Power Supply) của bạn phải ít nhất là 480W. Tóm lại nếu bạn muốn nâng cấp lên 6800 thì sẽ rất tốn tiền.
-

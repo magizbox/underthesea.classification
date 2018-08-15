@@ -1,6 +1,0 @@
-Công cụ quét lỗi 'ăn theo' báo cáo của SANS
-Ngay sau khi Viện nghiên cứu an ninh thông tin Mỹ (SANS) công bố 20 lỗi bảo mật nghiêm trọng nhất phát hiện trong quý I, hãng Qualys đã tung ra một dịch vụ scan phục vụ việc xác định những khiếm khuyết này trên hệ thống.
-Tuy nhiên, người ta phát hiện ra rằng dịch vụ này còn cho phép người sử dụng thực hiện việc quét lỗi trên cả máy của người khác. Qualys tuyên bố họ đã áp dụng một số biện pháp ngăn chặn nhưng vẫn bóng gió rằng khả năng này vẫn có thể xảy ra. Chúng tôi cố gắng tránh khả năng dịch vụ bị lạm dụng, chẳng hạn như quy trình đăng ký e-mail, lệnh xác nhận được phép quét thiết bị&, Gerhard Eschelbeck, Giám đốc công nghệ của Qualys, nói. Tuy nhiên, Internet là một kiến trúc mở và có rất nhiều công cụ download miễn phí, cho phép mọi người thực hiện việc quét trực tuyến một cách hoàn toàn bí mật.
-Theo Eschelbeck, những hacker muốn sử dụng một công cụ quét vào mục đích xấu sẽ không lấy dịch vụ như của Qualys vì những thông tin để lại trong quá trình đăng ký (audit trail). 
-Dùng thử dịch vụ quét lỗi của Qualys tại đây. 
-

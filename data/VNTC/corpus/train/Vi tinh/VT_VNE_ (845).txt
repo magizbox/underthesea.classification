@@ -1,7 +1,0 @@
-Boeing cung cấp Internet tốc độ cao trên máy bay
-Hôm qua, hãng hàng không khổng lồ của Mỹ thông báo sẽ thực hiện một kế hoạch lớn, theo đó, cho phép hành khách trên các chuyến bay của họ truy cập Internet băng thông rộng.
-Hãng Siemens AG vừa ký hợp đồng trở thành khách hàng đầu tiên trên thế giới sử dụng Connexion của Boeing, dịch vụ Internet băng thông rộng trên máy bay, hôm 22/7. Theo đó, nhân viên của Siemens có thể truy cập mạng trên các chuyến bay Lufthansa (Đức) được trang bị công nghệ này.
-Dịch vụ Connexion cho phép hành khách gọi điện qua Internet (VoIP) với giá cước rẻ hơn nhiều so với dịch vụ điện thoại rất đắt đỏ trên các chuyến bay như trước đây. Hành khách cũng có thể gọi VoIP bằng chính điện thoại di động của mình hoặc qua laptop. Khách hàng sẽ phải trả một khoản phí từ 15 đến 30 USD để sử dụng dịch vụ này. 
-Hiện nay, hãng hàng không Lufthansa cung cấp dịch vụ Connexion nhưng vẫn chưa có kế hoạch triển khai cho những chuyến bay đường dài. Một số hãng hàng không khác (Nhật Bản, Trung Quốc, Singapore, Scandinavan, và hãng hàng không All Nippon Airway) cũng có kế hoạch khai thác hệ thống này vào cuối năm nay.
-Boeing dự đoán đến năm 2007 hoặc 2008, doanh thu của hãng sẽ tăng mạnh nhờ dịch vụ Connexion.
-

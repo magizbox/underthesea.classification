@@ -1,6 +1,0 @@
-Sâu Bofra phát tán qua quảng cáo 
-Các chuyên gia bảo mật Mỹ cảnh báo hacker có thể đã tung ra những cuộc tấn công diện rộng tại châu Âu bằng cách sử dụng banner quảng cáo để dẫn người lướt web tới những website tải mã nguy hiểm.
-Trung tâm nghiên cứu an ninh mạng thuộc Viện SANS (Mỹ) cho biết bằng cách đặt một đường link mã tấn công vào trong một banner và phát tới hàng trăm trang web, những kẻ tấn công đã nhân lên gấp nhiều lần số nạn nhân của chúng.
-Banner quảng cáo là một công cụ lý tưởng cho việc tung ra mã nguy hiểm số lượng lớn bởi chúng có thể phát tán virus trên nhiều website cùng lúc. Những người bấm vào các mục quảng cáo trực tuyến này sẽ bị nhiễm virus Bofra, mà một số hãng phần mềm an ninh còn gọi là biến thể của sâu Mydoom. Virus này xuất hiện 5 ngày sau khi lỗ hổng IFRAME trong trình duyệt Internet Explorer 6.0 của Microsoft được phát hiện đầu tháng 11. Bofra kết hợp nhiều phương thức tấn công như gửi thư rác (spam), lừa bịp người sử dụng (social engineering), phát tán virus và Trojan, để tấn công PC mục tiêu.
-Người sử dụng Windows XP đã cài bản Service Pack 2 được coi là không bị ảnh hưởng bởi loại sâu này. Microsoft chưa có bản vá lỗi cho khiếm khuyết IFRAME. Viện SANS khuyến cáo người sử dụng máy tính nên cảnh giác khi lướt web.
-

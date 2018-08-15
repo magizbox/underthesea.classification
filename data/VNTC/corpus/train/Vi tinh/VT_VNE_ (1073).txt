@@ -1,5 +1,0 @@
-Chip Intel 3,8 GHz đã xuất hiện
-Bộ xử lý Pentium IV 570J chưa chính thức được liệt kê trong bảng giá của hãng chế tạo chip hàng đầu thế giới nhưng đã bắt đầu có mặt ở nhiều cửa hàng máy tính tại Nhật trong những chiếc PC Vaio Type R của Sony.
-Với việc Intel quyết định ngừng xúc tiến dòng Pentium IV 4GHz, bộ xử lý 570J được coi là chip Pentium IV có tốc độ nhanh nhất dựa trên nền công nghệ Prescott với công nghệ tăng cường khả năng hoạt động thông qua những bộ nhớ truy cập nhanh (cache) bổ sung và tốc độ frontside bus mạnh hơn.
-Pentium 570J còn được sử dụng trong máy tính chơi game Compaq X 5010T của HP, công bố vào ngày mai. Hãng Dell cũng có kế hoạch dùng bộ xử lý này cho PC chơi game Dimension XPS. 
-

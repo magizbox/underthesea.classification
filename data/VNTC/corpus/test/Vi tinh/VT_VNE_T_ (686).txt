@@ -1,9 +1,0 @@
-VITECO sắp trình làng modem ADSL
-Mang tên V-ADSL, sản phẩm của Công ty thiết bị điện thoại VITECO (VTC) có tốc độ tối đa đạt 8 Mbps khi tải xuống và 1 Mbps tải lên. Thiết bị này, vừa đoạt giải Khoa học kỹ thuật thanh niên của Trung ương Đoàn và Viện Khoa học công nghệ, sẽ có mặt trên thị trường vài tháng tới.
-Tác giả của modem ADSLmade in Việt Nam là các kỹ sư Bùi Quang Trung, Nguyễn Lê Cường và Nguyễn Song Tùng đều thuộc Trung tâm VTC của công ty. Cả nhóm cho biết ưu điểm lớn nhất của V-ADSL là được tích hợp đầy đủ các tính năng Bridge/Router, Spliter, có giao diện USB và Ethernet.
-V-ADSL được thiết kế dựa trên bộ vi xử lý GS8 120 của hãng GLobeSpan với những đặc tính hỗ trợ kết nối Internet cho các máy tính trong mạng LAN; Cổng USB cho phép kết nối tới PC tích hợp giao diện USB; Các dịch vụ NAT, firewall và lọc IP nhằm bảo vệ mạng nội bộ; Cấu hình mạng thông qua các giao thức DHCP server và DHCP Relay; Các dịch vụ bao gồm định tuyến IP, cấu hình DNS, RIP, giám sát thực thi DSL và IP...
-Hệ thống mạng khi sử dụng thiết bị này cần có dịch vụ ADSL qua đường thoại với ít nhất 1 địa chỉ Internet public cho mạng LAN, một hoặc nhiều PC trang bị card NIC 10/100 Base-T hoặc 1 máy tính có cổng USB. Yêu cầu 1 hub/switch Ethernet khi modem được kết nối tới nhiều hơn 1 PC hoặc 1 LAN.
-Để cấu hình hệ thống bằng chương trình hỗ trợ web, cần có một trình duyệt web như Internet Epxplorer 5.0, Netscape 6.1 hoặc các phiên bản mới hơn.
-Kỹ sư Bùi Quang Trung kể: "Khó khăn nhất là khi chế tạo thiết bị phần cứng đòi hỏi chi phí lớn với các chi tiết phải hàn dán thủ công trong khi có nhiều chủng loại linh kiện khó tìm mua".
-V-ADSL đã được thử nghiệm 1 năm trong môi trường mạng thực tế tại Hà Nội và Hải Phòng dưới sự đo kiểm, đánh giá của Viện Kỹ thuật bưu điện. 
-

@@ -1,6 +1,0 @@
-Gắn ba ổ gồm 2 CD ghi và 1 DVD (1)
-Tôi có ba ổ đĩa. Nhưng khi gắn vào máy chỉ nhận được 2 ổ, xin hướng dẫn tôi để gắn vào máy (xài Win XP Pro). Tôi có gắn thử nhưng chỉ nhận dược 2 ổ ghi mà thôi còn ổ DVD không nhận được. Xin hỏi làm sao máy có thể nhận được ổ thứ 3.
-thanh
-Hồi âm:
-That su thi o CD lap vao may ma dung voi win XP pro thi khong the cam chung cap voi HDD duoc cho nen neu ban dung main board co cong SATA thi kiem mot cai o HDD cam vao SATA con 2 khe ATA tha ho ma cam co the den 4 o CD DVD CD-RW.
-

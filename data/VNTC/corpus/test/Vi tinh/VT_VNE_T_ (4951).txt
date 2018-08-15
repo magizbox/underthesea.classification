@@ -1,6 +1,0 @@
-Panasonic giới thiệu chipset đầu tiên cho Blu-ray
-Hãng điện tử Nhật tháng tới sẽ phát hành mẫu chipset điều khiển ổ quang đầu tiên, cho phép ghi mọi loại đĩa sử dụng các công nghệ rewritable khác nhau, trừ HD DVD. Thông báo này không gây nhiều bất ngờ vì từ lâu Panasonic đã khẳng định sẽ hỗ trợ định dạng do Sony dẫn đầu.
-Chipset của Panasonic bao gồm một chip điều chỉnh cơ chế mô phỏng (analogue) và chip còn lại có nhiệm vụ xử lý tín hiệu kỹ thuật số phù hợp. Một trong những tính năng của thiết bị xử thứ hai là hỗ trợ những định dạng mà Panasonic liệt kê: BD-ROM, BD-R/RE, DVDR/RW, DVD-RAM, DVD-ROM, CD-R/RW và CD-ROM. 
-Bộ chipset được trang bị cả hai phương pháp sửa lỗi PR (Partial Response - Phản ứng cục bộ) và ML (Maximum Likelihood - Khả năng tối đa) nhằm giảm thiểu những ảnh hưởng về tiếng ồn trong hệ thống chuyển động nhanh.
-Chipset, xuất hiện trong các phiên bản ATAPI và Serial ATA, sẽ có mặt dưới dạng bản mẫu trong tháng 12 và được sản xuất hàng loạt vào tháng 1/2006.
-

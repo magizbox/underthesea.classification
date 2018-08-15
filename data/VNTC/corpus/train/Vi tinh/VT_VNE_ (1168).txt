@@ -1,6 +1,0 @@
-Thẻ nhớ MMC nhỏ bằng móng tay
-Dự kiến vào cuối quý I năm 2005, Samsung sẽ bắt đầu sản xuất hàng loạt dòng thẻ nhớ đa phương tiện MMCmicro dùng cho máy điện thoại di động (ĐTDĐ) với kích thước chỉ có 12 x 14 x 1,1 mm.
-Thể tích của sản phẩm mới chỉ bằng 1/3 so với loại thẻ nhớ đa phương tiện RS-MMC (24 x 32 x 1,4 mm) đang được dùng trong các loại ĐTDĐ đời mới hiện nay. MMCmicro có thể đọc dữ liệu với tốc độ 10 Mb/giây và ghi với tốc độ 7 Mb/giây, so với 2,18 Mb/giây và 2,08 Mb/giây của RS-MMC. Samsung cho biết trước mắt sẽ đưa ra sản phẩm có dung lượng lần lượt là 32 MB, 64 MB và 128 MB. Cả 2 loại thẻ nói trên đều hoạt động được ở mức điện áp 1,8 hay 3,3 vol.
-Thẻ MMCmicro 128 MB có thể chứa khoảng 60 bức ảnh kỹ thuật số với độ phân giải 5 megapixel hay gần 1 giờ phim video định dạng QVGA (320 x 240 pixel). Người dùng có thể xoá và ghi dữ liệu trong khoảng hơn 100.000 lần.
-Thị trường thẻ nhớ được dự đoán sẽ tăng từ 520 triệu USD trong năm nay lên 920 triệu USD vào năm 2007. Việc nghiên cứu và phát triển dòng thẻ nhớ này giúp nâng cao tốc độ, giảm kích thước cho điện thoại thế hệ thứ 3 đang phát triển rất mạnh hiện nay.
-

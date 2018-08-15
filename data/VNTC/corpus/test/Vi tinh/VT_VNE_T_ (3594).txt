@@ -1,9 +1,0 @@
-RAM và chip tăng giá mạnh
-Một tuần gần đây, giá bộ nhớ trong tăng khoảng 15%, CPU cũng lên giá từ 3% đến 5% tuỳ loại. Hiện các linh kiện này đã giữ mức giá ổn định trong khi thị trường máy tính vẫn chưa có dấu hiệu sôi động trở lại.
-Nhiều doanh nghiệp máy tính tại Hà Nội cho biết, giá RAM và bộ vi xử lý tăng là do nhà sản xuất có chính sách lên giá sản phẩm. Cụ thể, CPU Celeron tăng 5%, còn Pentium IV tăng 3%. Giá một số loại chip được bán ra tại miền Bắc như sau:
-Celeron 1,8 GHz giá 954.000 đồng; Celeron 2,26D GHz giá 1.001.700 đồng; Pentium IV 2,26 GHz khoảng 1.701.300 đồng; Pentium IV 2,266E GHz xấp xỉ 2.003.400 đồng; Pentium IV 3,2E GHz giá 3.720.600 đồng.
-Trong khi giá RAM thường tăng thì DDRAM II lại giảm khoảng 10%. DDRAM V-Data 128 MB Bus 333 giá 190.800 đồng, loại 256 MB giá 341.850 đồng; DDRAM Kingston 512 MB Bus khoảng 795.000 đồng; DDRAM II của Apacer, KingMax, V-Data dung lượng 512 MB Bus 533 giá 826.800 đồng.
-Ngược lại với RAM và chip, USB lại giảm giá đáng kể. Các loại ổ lưu trữ di động dung lượng 256 MB giảm 5-7%, dung lượng từ 512 MB đến 2 GB giảm 5-20%, (tuy nhiên USB 2 GB hiện chưa có trên thị trường VN).
-USB 128 MB nhãn hiệu Adata, Lexar, KingMax có giá 222.600 đồng, còn loại dung lượng 256 MB của Kingston và Transcend là 397.500 đồng.
-Trong các tháng 5, 6 và 7, sức tiêu thụ trên thị trường máy tính vẫn chậm. Tuy nhiên, các doanh nghiệp và cửa hàng bán lẻ linh kiện đang rục rịch chuẩn bị cho mùa mua sắm tháng 8, thời điểm kết quả thi đại học được công bố. 
-

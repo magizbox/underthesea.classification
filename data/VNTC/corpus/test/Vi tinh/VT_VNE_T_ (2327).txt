@@ -1,4 +1,0 @@
-Hỏi về Windows Media Encode 
-Tôi đang sử dụng HĐH WinXP Home Edition và chương trình Windows Media Player10. Vừa rồi tôi có cài đặt thêm chương trình Windows Media Encode nhưng vẫn không biết làm cách nào để đặt font chữ trên một số file video clip. Chức năng attributes không thể làm được việc này. Vậy,có phải phải dùng một chương trình khác không? Và đó là chương trình nào? Cảm ơn và chúc quý ban thành công.
-Nguyen Quoc Tuan
-

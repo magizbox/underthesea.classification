@@ -1,6 +1,0 @@
- Bản cập nhật Firefox cho Mac OS X
-Bản cập nhật dành cho trình duyệt Firefox trên hệ điều hành Mac OS X, chạy trên nền máy tính sử dụng vi xử lý (VXL) Intel, ngoài việc nâng cao tính ổn định cho trình duyệt, cũng sẽ sửa luôn một số lỗi bảo mật nghiêm trọng. 
-Phiên bản mới của trình duyệt, Firefox 1.5.0.2 , được dán nhãn " ổn định và bảo mật" của nhóm Mozilla. Nhóm này đưa ra lời khuyên đến mọi khách hàng nên cập nhật phiên bản này càng sớm càng tốt. 
-Phiên bản này sẽ tự động được cập nhật thông qua Internet đối với nhưng người sử dụng Firefox 1.5. Các bản Firefox trước đó muốn cập nhật thì phải truy cập vào website Mozilla.com. 
-Bản Firefox lần này theo đánh giá là sẽ chạy nhanh và ổn định hơn do dựa trên nền tảng chipsets của Apple cho các máy tính chạy hệ điều hành Mac OS X trên nền VXL Intel, so với phiên bản trước đây vốn dựa trên bộ mã dịch của công nghệ chuyển mã Rosetta. 
-

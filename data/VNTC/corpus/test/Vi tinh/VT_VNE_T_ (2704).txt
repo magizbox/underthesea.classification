@@ -1,6 +1,0 @@
-Opera hấp dẫn không kém Firefox
-Sau khi tung ra phiên bản 8.0 của trình duyệt cùng tên, hãng phần mềm Opera Software (Na Uy) cho biết sự đón nhận của người sử dụng đối với browser này là rất lớn. Nhà cung cấp thậm chí đã phải lắp thêm mấy server mới để đáp ứng nhu cầu truy tải.
-Trong 48 giờ đầu tiên sau khi ra mắt hôm 19/4, Opera 8.0 đã được download hơn 600.000 lượt. Hồi đầu tháng 11/2004, phiên bản trình duyệt Firefox 1.0 của Mozilla thu hút 1.000.000 lượt tải trong 24 giờ đầu tiên. 
-Rất nhiều người đã gặp khó khăn khi tải Opera 8.0 vào ngày đầu tiên sản phẩm ra mắt do lưu thông trên các server tăng đột biến, Carsten Fischer, Phó chủ tịch Opera Software, cho biết. Khi số lượt truy tải đạt 120/giây trong vòng một giờ sau khi công bố bản Opera mới, các máy chủ của chúng tôi đã gặp những vấn đề nghiêm trọng khi phản hồi yêu cầu. Công ty đã chuẩn bị cho tình huống lưu thông tăng đột biến nhưng mức thực tế đã vượt qua cả những gì dự tính và chúng tôi phải lắp thêm server.
-Download trình duyệt Opera 8.0 tại http://www.opera.com.
-

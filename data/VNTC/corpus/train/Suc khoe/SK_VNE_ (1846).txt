@@ -1,7 +1,0 @@
-Máy chụp cầm tay giúp phát hiện ung thư vú
-Các nhà khoa học Mỹ vừa cho ra đời một thiết bị nội soi cắt lớp cầm tay nhằm giúp phát hiện sớm ung thư vú ở phụ nữ. Nó sẽ giúp phái đẹp tránh được những bất tiện do việc kiểm tra khối u bằng tia X ở bệnh viện.
-Các nhà khoa học tại Đại học Drexel và Đại học Pennsylvania (Mỹ) đã thiết kế và chế tạo thiết bị này. Họ gọi nó là NIRScanner. Đây là loại máy nội soi cắt lớp cầm tay chạy bằng pin đầu tiên trên thế giới dùng để tự khám ung thư vú tại nhà, giúp cho phụ nữ đến bác sĩ kịp thời khi có biểu hiện mắc bệnh đầu tiên. Các nhà nghiên cứu hy vọng sẽ tiến hành được các thử nghiệm lâm sàng đối với thiết bị và sẽ tung ra thị trường trong vài năm tới.
-"Thiết bị này không thay thế biện pháp chụp X quang hay các kỹ thuật phát hiện ung thư vú khác. Chức năng chính của nó là phục vụ việc tự kiểm tra tại nhà", tiến sĩ Banu Onaral tại Đại học Drexel, thành viên nhóm nghiên cứu, nhận định.
-Onaral cho biết khi khối u hình thành và phát triển, hoạt động trao đổi chất sẽ tăng lên. Thiết bị này giúp phát hiện những thay đổi đó. Nó sẽ phát ra tiếng "bip" to hơn khi tìm thấy một vị trí trên ngực có những thay đổi trong hoạt động trao đổi chất.
-Tiến sĩ Britton Chance, người phát minh ra thiết bị, cho biết NIRScanner sẽ được tung ra thị trường với giá cả phải chăng để cho mọi phụ nữ có thể tiếp cận được, kể cả những người có thu nhập thấp.
-

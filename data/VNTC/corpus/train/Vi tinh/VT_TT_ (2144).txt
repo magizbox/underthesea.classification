@@ -1,5 +1,0 @@
- Toshiba tung ra máy tính bảng chip lõi kép đầu tiên
-Máy tính bảng M400 của Toshiba là dạng máy xách tay lai ghép với máy tính bảng (hay ngược lại). Mới nhìn qua thì nó là một máy xách tay bình thường, nhưng riêng màn hình của nó khi tháo rời ra khỏi phần bàn phím lại trở thành một máy tính bảng với đầy đủ mọi ứng dụng hiện đại được sử dụng thông qua màn hình cảm ứng. 
-Đại đa số các máy tính bảng chạy hệ điều hành Windows XP Tablet PC Edition hiện nay đều được trang bị chip xử lý Pentium M hoặc chip xử lý Crusoe, nhưng M400 có thể xem là máy tính bảng đầu tiên được trang bị chip xử lý lõi kép của Intel. 
-M400 có màn hình cảm ứng 12,1 inch, nặng tổng thể khoảng 2 kg, riêng phần màn hình khi tháo ra chỉ nặng khoảng 700g, và cũng được trang bị đầy đủ mọi tính năng hiện đại như một máy xách tay đời mới hiện nay. Toshiba đang bán ra M400 với giá ban đầu là 1.699 USD. 
-

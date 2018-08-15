@@ -1,8 +1,0 @@
-Sẽ có định dạng XML trong Office 12
-Microsoft vừa tuyên bố sẽ xây dựng XML - định dạng dữ liệu đang được sử dụng rộng rãi trong doanh nghiệp - thành tính năng chuẩn trong gói ứng dụng văn phòng mới phát hành vào năm sau.
-Ngôn ngữ XML, được dùng để chuyển dữ liệu giữa các chương trình và máy tính, sẽ được coi là một định dạng file mặc định (default) trong quá trình xử lý văn bản Word, bảng tính Excel và PowerPoint.
-Những định dạng mặc định mới cho Word, Excel và PowerPoint sẽ thay đổi từ ".doc", ".xls" và ".ppt" sang ".docx," ".xlsx" và ".pptx".
-Tháng trước, Bill Gates cũng đã tiết lộ rằng Office 12 sẽ giúp người dùng "dễ dàng hơn trong việc tập trung và xử lý chuyên môn, hiểu dữ liệu khoá, giảm thiểu thời gian vào việc giải quyết sự phức tạp trong môi trường quá nhiều thông tin".
-Hãng cũng cho biết sẽ thảo luận thêm về định dạng file XML mới tại TechEd, hội thảo thường niên cho các nhà quản lý và phát triển công nghệ thông tin của Microsoft, tổ chức tại Orlando, Florida (Mỹ) vào tuần tới.
-Phiên bản Office hiện tại của Microsoft được bán ra với giá từ 150 đến 400 USD. 
-

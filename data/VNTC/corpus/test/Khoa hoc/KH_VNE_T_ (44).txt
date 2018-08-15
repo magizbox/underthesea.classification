@@ -1,6 +1,0 @@
-Thảm thông minh chống trộm
-Hãng sản xuất thảm Vorwerk của Đức đã hợp tác với nhà sản xuất chip Infineon phát triển sản phẩm mang tên "Chiếc thảm biết nghĩ" đầu tiên trên thế giới. 
-Nó có thể kiểm tra nhiệt độ để điều chỉnh hơi ấm, nhận biết dấu chân để bật đèn và rung chuông báo động nếu cảm nhận được ai đó giẫm lên khi chủ nhà không có trong nhà.
-Tiến sĩ Werner Weber, đứng đầu phòng thí nghiệm công nghệ của Infineon cho biết: "Những tấm thảm trải sàn này được trang bị các bộ cảm ứng có thể thu lại nhiệt độ, mức độ ánh sáng, sự rung động và cả sức ép".
-Các bộ cảm ứng được nối với một máy tính trung tâm có thể điều chỉnh ánh sáng và độ ấm tự động, hoặc bật chuông báo động khi phát hiện thấy những bước chân khả nghi. Theo ông Weber, sản phẩm sẽ được tung ra thị trường vào cuối năm.
-

@@ -1,7 +1,0 @@
-Không thể tắt máy tính (1)
-Xin cho tôi hỏi, máy tính của tôi dùng hệ điều hành WinXP, nhưng khi tôi shutdown thì máy tự động khởi động lại, không thể nào tắt được. Xin cho tôi biết nguyên nhân và cách khắc phục.Tôi xin chân thành cảm ơn, thân chào.
-Lê Anh Huân
-Hồi âm:
-Khi bạn shutdown, máy tính sẽ chạy qua phần save lại setup của bạn. máy bi lỗi trong phần này nên tự đông restart lại trước khi thật sự shutdown. Ngưng (disable) phần tự đông automatic restart bằng cách: Right Click My computer ---Device manager (load System manager) -- Advance. Trong Startup and Recovery nhấp Settings. Đừng Check mark Automatically restart. OK để thoát ra ngoài. Máy bạn khi bị lỗi sẽ không tự khởi động và sẽ nói cho bạn biết là bị lỗi gì. Như vậy bạn mới biết máy mình bị lỗii gì mà sửa hay cầu cứu.
-Bây giờ cứ shutdown máy, máy sẽ cho bạn biết lỗi gì và bạn theo đó mà sửa.
-

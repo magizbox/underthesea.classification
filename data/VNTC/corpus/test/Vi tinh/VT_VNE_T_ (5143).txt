@@ -1,9 +1,0 @@
-Chip giá rẻ hỗ trợ sản xuất điện thoại 20 USD 
-Các hãng sản xuất bán dẫn có thể giúp hạ giá thành điện thoại bằng cách tích hợp mọi tính năng then chốt chỉ trong một chip đơn và sắp xếp các thành tố thông minh hơn trên bề mặt nhỏ để tăng tốc độ hoạt động.
-Giới quan sát khẳng định giá cả điện thoại di động trên thị trường sẽ biến động mạnh trong những năm tới khi sản phẩm 20 USD xuất hiện đầu 2007.
-Nhà sản xuất di động hoàn toàn có khả năng cung cấp thiết bị chỉ khoảng 10 USD nhờ sử dụng pin yếu hơn, lớp chất dẻo chất lượng thấp và phần mềm giản lược tương tự như trong điện thoại nối dài tại nhiều gia đình. Tuy nhiên, Horst Pratsch, Phó giám đốc Entry Platforms thuộc hãng sản xuất chip Infineon (Đức), cho rằng đa số các công ty điện thoại lưỡng lự tham gia dự án bởi giá thấp và chất lượng không cao sẽ làm ảnh hưởng đến hình ảnh thương hiệu của họ. 
-Điện thoại giá rẻ đang dần trở thành xu hướng chính trên thị trường di động 2005 với sự góp mặt của Motorola và Nokia. Hãng sản xuất Mỹ đã phân phối sản phẩm dưới 50 USD cho thị trường mới nổi. "Có khoảng 3,5 tỷ người sống trong vùng phủ sóng nhưng không đủ khả năng sở hữu một chiếc điện thoại", Ameet Shah, Giám đốc chiến lược của Hiệp hội GSM, nhận xét.
-Nhiều công ty bán dẫn đang tìm cách tích hợp những chức năng chính của điện thoại trong một chip với chi phí 5 USD. Infineon hồi tháng 7 khẳng định họ sẽ bắt đầu kinh doanh nền tảng di động 20 USD vào đầu 2006. Hãng Philips của Hà Lan cũng dự tính đến năm 2008 sẽ phát hành một thiết kế mẫu cho phép tạo thiết bị dưới 15 USD.
-Các hãng sản xuất chip đang đóng vai trò quan trọng hơn bao giờ hết đối với nhà phân phối điện thoại di động do họ cung cấp những thiết kế tham khảo hoàn thiện cũng như phần mềm lõi cho các mẫu điện thoại cơ bản.
-Giới phân tích ước tính có khoảng 810 triệu điện thoại di động được tiêu thụ năm nay, trong khi năm ngoái là 680 triệu chiếc. Số thuê bao di động toàn cầu hiện tại đã vượt mức 2 tỷ.
-

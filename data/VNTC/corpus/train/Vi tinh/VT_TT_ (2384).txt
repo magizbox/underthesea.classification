@@ -1,6 +1,0 @@
- ICQ sẽ có thêm trò chơi và nhiều tính năng giải trí
-Người tiên phong về Internet dự tính sẽ phát hành phiên bản nhắn tin ICQ mới nhất - ICQ 4.0 - vào ngày mai (20-4) và lần đầu tiên cho phép đối tác sử dụng giao diện lập trình ứng dụng ICQ (API). 
-Hiện nay, ICQ (trụ sở tại Tel Aviv, Israel) đang hợp tác với nhà xuất bản game Oberon Media và dịch vụ hò hẹn Lava Life thử nghiệm chương trình của hãng. Cả hai đối tác này đều đưa ra ứng dụng chạy trên nền ICQ 4.0. Những ứng dụng này có thể tải về và cài đặt như một plug-in. 
-ICQ 4.0 sẽ có một giao diện mới, thiệp điện tử và nhiều tính năng nhắn tin dạng văn bản mới cho điện thoại di động. Với bản nâng cấp này, các đối tác ICQ sẽ có thể sử dụng API để tạo bất kỳ chương trình nào chạy trong phần mềm nhắn tin này. API hỗ trợ lập trình theo HTML, DHTML và Flash. 
-Theo AOL, hiện nay, ICQ có khoảng 10 triệu người sử dụng mỗi tháng, hầu hết là ở châu Âu, châu Á và Nam Mỹ. Ngược lại, AIM chỉ có khoảng 36 triệu người dùng mỗi tháng, phần lớn là ở Mỹ. Bằng việc mở rộng phát hành API tới giới phát triển, ICQ hy vọng có thể biến công nghệ instant Message của mình trở thành nền ứng dụng. 
-

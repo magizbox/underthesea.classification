@@ -1,5 +1,0 @@
- Sẽ có bản nâng cấp Service Pack 3 cho Windows XP
-Bernard Ourghanlian, giám đốc kỹ thuật và bảo mật của Microsoft tại Pháp đã khẳng định về thông tin trên:”Sắp sửa xuất hiện bản Service Pack 3 dành cho Windows XP”. 
-Bản Windows XP Service Pack 2 đã được tung ra cách đây đúng 1 năm, tức vào tháng 9-2004. Trước khi tung ra bản Service Pack 2, Microsoft luôn khẳng định rằng bản nâng cấp sửa lỗ tầm cỡ này là cực kỳ an toàn, ở tầm mức gần như “đạn bắn không thủng”, nhưng tiếc rằng chỉ sau một năm sử dụng bản SP 2 đã bộc lộ nhiều lỗi bảo mật mà Microsoft vẫn cứ phải liên tục “vá lỗi của bản vá lỗi”. 
-Bernard Ourghanlian cho biết rằng bản SP 3 sẽ được tung ra vào một thời điểm nào đó trong năm 2006, sau khi hệ điều hành đời mới Windows Vista chính thức được bán ra. Microsoft hiện vẫn chưa tiết lộ các chi tiết về bản đại nâng cấp SP 3 này. 
-

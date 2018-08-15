@@ -1,4 +1,0 @@
- Hà Nội: lắp đặt thiết bị đếm xe tự động
-Thiết bị này sẽ được lắp đặt tại các nút giao thông Trần Hưng Đạo-Trần Khánh Dư, Bạch Mai-Đại Cồ Việt, Giải Phóng-Pháp Vân, Giải Phóng-Trương Định, Giải Phóng-Phương Mai và Nguyễn Trãi-Triều Khúc. 
-Thiết bị này sẽ đọc và truyền tín hiệu khi các phương tiện giao thông đi qua nút về trung tâm điều khiển giao thông. Tại đây, máy chủ nhận tín hiệu và sẽ tự động điều chỉnh quy trình hoạt động của đèn tín hiệu giao thông nhằm giải quyết nạn ùn tắc. 
-

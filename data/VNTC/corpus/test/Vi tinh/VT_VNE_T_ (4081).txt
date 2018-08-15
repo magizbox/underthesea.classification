@@ -1,8 +1,0 @@
-Samsung thề sẽ đánh bại Intel trên 'mặt trận' 4G
-Hãng điện thoại di động đứng hàng thứ 3 thế giới đang mở chiến dịch lớn nhằm qua mặt tập đoàn sản xuất chip trong việc xây dựng công nghệ viễn thông thế hệ hậu 3G.
-"Tôi không muốn nhìn thấy 'Intel Inside' ở bất cứ đâu trong kết nối di động hậu 3G. Chúng tôi sẽ dẫn đầu chuẩn công nghệ với WiBro", Chủ tịch Samsung Lee Ki-tae hôm qua tuyên bố trong Diễn đàn 4G tại đảo Cheju, Hàn Quốc. 
-WiBro, công nghệ kết nối di động của Hàn Quốc, cho phép người sử dụng vẫn có khả năng truy cập Internet với tốc độ tương đương băng thông rộng trên mặt đất dù đang trong quá trình di chuyển.
-Trong khi đó, Intel cũng tham vọng chiếm lĩnh thị trường hậu 3G bằng việc phát triển WiMax, dịch vụ có tầm hoạt động rộng, tuy nhiên không thể kết nối di động tại thời điểm này. WiMax, tương tự như Wi-Fi, phải phụ thuộc vào các điểm truy cập (hot spot) để chia sẻ thông tin không dây. 
-"WiMax hiện tại vẫn dựa trên giải pháp cố định. Sẽ phải mất ít nhất một năm nữa để công nghệ này đạt được khả năng di động, do đó chúng ta có đủ thời gian thâu tóm thị trường trong khi WiMax vẫn đang chật vật tìm biện pháp thích ứng", Chủ tịch của Samsung nhận định, và bày tỏ sự tin tưởng rằng Hàn Quốc có thể chuyển nhanh từ mạng 3G sang 4G sau khi ra mắt WiBro vào tháng 4/2006. 
-Ngành công nghiệp viễn thông vẫn chưa thống nhất định nghĩa chuẩn cho 4G nhưng Samsung hy vọng đó sẽ là nền tảng với tốc độ truyền dữ liệu 100 Mb/giây khi di chuyển và 1 Gb/giây cố định trên mặt đất, nhanh gấp 500 lần so với kết nối băng thông rộng hiện nay.
-

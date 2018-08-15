@@ -1,8 +1,0 @@
-Chip nhớ đồ họa tốc độ nhanh gấp đôi hiện nay
-Hãng sản xuất chip lớn thứ hai Hàn Quốc Hynix vừa công bố sản phẩm GDDR 4, được tích hợp trong thiết bị game và card đồ họa máy tính, có tốc độ hoạt động lên tới 2,9 Gb/giây.
-Chip GDDR4, cải tiến từ thế hệ GDDR3, có khả năng xử lý khối lượng lớn các hình ảnh game và video với tốc độ cao hơn nhiều so với chip nhớ đồ họa nhanh nhất trên thị trường hiện nay (1,6 Gb). 
-Hynix khẳng định GDDR4 là sản phẩm lý tưởng cho điện toán 64 bit. GDDR4 cũng cho phép xử lý tổng cộng 11,6 Gb dữ liệu trong một giây. Hãng dự định bắt đầu phát hành phiên bản mẫu trong thời gian tới và sản xuất hàng loạt ngay đầu năm sau. Từ quý III/2006, công ty sẽ nâng tốc độ lên 14,4 Gb/giây.
-Mật độ bit (512 Mb) và tốc độ GDDR4 của Hynix cải tiến vượt qua cả chip của đối thủ Samsung ra mắt cuối tháng 10. Khi đó, hãng điện tử số một Hàn Quốc tuyên bố họ đã dẫn đầu cuộc đua với GDDR4 mật độ 256 Mb, tốc độ2,5 Gb/giây. 
-Samsung cho biết họ sẽ giới thiệu chip GDDR4 2,8 Gb/giây cuối năm nay. Công ty tin tưởng thị trường card đồ họa chất lượng cao sẽ phát triển mạnh bắt đầu từ nửa sau 2006.
-Rambus, hãng sản xuất DDR của Mỹ, cũng vừa phát triển công nghệ mang tên XDR2, nâng khả năng truyền dữ liệu nhập/xuất của DRAM lên 8 GHz.
-

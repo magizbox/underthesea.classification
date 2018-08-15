@@ -1,7 +1,0 @@
-'Quỷ song sinh' đe dọa mạng Wi-Fi
-Bằng cách tạo ra điểm truy cập không dây giả mạo, hacker dễ dàng lừa nạn nhân đăng nhập vào hệ thống của chúng. Lỗ hổng anh ninh mới nhất này, được gọi là "quỷ song sinh", đặt người dùng Internet không dây trước một hiểm họa mới. 
-Phil Nobles, nhà nghiên cứu về Internet không dây và tội phạm mạng, nhận định. "Bởi Wi-Fi hoạt động dựa trên tín hiệu radio nên dễ dàng được xác định bởi người dùng bất hợp pháp bằng cách dò tìm tần số của sóng". 
-Một khi đã kết nối thành công vào mạng qua điểm quỷ song sinh, hacker có thể chặn đứng việc truyền dữ liệu và lừa nạn nhân đăng nhập vào hệ thống của chúng. Những thông tin nhạy cảm như username và passworld có thể bị đánh cắp từ đây.
-Tháng 10/2002, công ty bảo mật ISS đã cung cấp những thông tin chi tiết về dạng trạm phát sóng bất hợp pháp có khả năng nhân bản này. "Trạm phát sóng không dây của hacker phát ra tín hiệu mạnh song song với các trạm chính thức của nhà cung cấp dịch vụ. Nhờ đó, kẻ tấn công có thể lừa người sử dụng Wi-Fi đăng nhập vào server do chúng quản lý", ISS cho biết. 
-Brian Collins, người quản lý hệ thống thông tin ở Đại học Cranfield (Anh), khuyến cáo người dùng mạng không dây có thể tự bảo vệ mình bằng cách luôn đảm bảo kích hoạt chế độ bảo mật trên thiết bị khi kết nối vào mạng. Thông thường, khi đưa sản phẩm ra thị trường, nhà sản xuất chỉ đặt chế độ bảo mật mặc định ở mức tối thiểu. 
-

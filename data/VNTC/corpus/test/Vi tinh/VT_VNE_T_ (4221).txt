@@ -1,9 +1,0 @@
-Microsoft mở rộng sang thị trường đồ họa
-Danh sách dài các đối thủ của hãng phần mềm Mỹ  đang trở nên dài hơn khi họ ra mắt một bộ sưu tập công cụ thiết kế đồ họa chuyên nghiệp Expression, khiêu chiến trực tiếp với Adobe và Macromedia.
-Bộ sản phẩm Expression mới ở dạng thô sơ nhưng đã thể hiện tham vọng khám phá những lĩnh vực mới trong kinh doanh phần mềm của Microsoft, dù điều đó có nghĩa là họ sẽ phải cạnh tranh với chính những công ty xây dựng chương trình hoạt động trên hệ điều hành Windows.
-Expression bao gồm Sparkle, Acrylic và Quartz. Trong số này, Sparkle, công cụ tạo hoạt họa (animation), sẽ kết hợp hài hòa với hệ thống trình bày đồ họa mới của Windows Vista, và hứa hẹn sẽ là giải pháp thay thế cho phần mềm Flash phổ biến của Macromedia.
-Acrylic là chương trình tạo hiệu ứng, minh họa và tạo ảnh với mục tiêu gia nhập thị trường Adobe Photoshop và Adobe Illustrator, trong khi Quartz có nhiệm vụ lấn át chương trình thiết kế web Adobe GoLive.
-Microsoft cho rằng Expression sẽ là một "bước tiến lớn", cải thiện cách mọi người tạo và sử dụng chương trình trên web và Windows. Tuy nhiên, Pam Dezie, Giám đốc chiến lược nền tảng của Adobe, đã đánh giá thấp khả năng cạnh tranh sau khi theo dõi màn trình diễn sản phẩm trong Hội thảo các nhà phát triển PDC 2005 của Microsoft đang diễn ra tại Los Angeles (Mỹ). "Chúng tôi tin tưởng khách hàng sẽ tiếp tục sử dụng công cụ của của Adobe bởi khả năng trình bày mảng, ma trận đồ họa phong phú hơn", Dezie khẳng định.
-Dù công cụ mới chắc chắn sẽ lôi kéo một lượng khách hàng nhất định của Adobe và Macromedia, giới quan sát nhận định rằng sự trung thành của cộng đồng thiết kế với hai công ty này sẽ phần nào giảm ảnh hưởng của Expression. 
-Microsoft cũng thâm nhập lãnh địa Adobe bằng công nghệ XML Paper Specification (trước đó mang tên Metro) trong Windows Vista, cung cấp tính năng tương tự công nghệ PDF.
-

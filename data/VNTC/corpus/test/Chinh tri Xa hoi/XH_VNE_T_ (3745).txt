@@ -1,6 +1,0 @@
-Sẽ cấp phép xây dựng qua Internet
-Năm nay, Bộ Xây dựng sẽ nghiên cứu để triển khai việc cấp phép xây dựng trên mạng Internet nhằm đơn giản hóa thủ tục hành chính và đẩy nhanh thời gian cấp phép xây dựng công trình, đặc biệt là các công trình của dân.
-Tuy nhiên, hiện nay hệ thống hạ tầng và trình độ công nghệ thông tin ở nhiều địa phương còn rất hạn chế, do vậy việc cấp phép xây dựng qua mạng Internet trước mắt chỉ có thể thực hiện tại một số thành phố có trình độ phát triển cao như Hà Nội, TP HCM.
-Bên cạnh việc nghiên cứu và áp dụng công nghệ thông tin vào việc cấp phép xây dựng, Bộ cũng chỉ đạo các đơn vị đẩy mạnh kiểm tra, xử lý các hiện tượng xây dựng không phép, sai phép... Đặc biệt là chấm dứt tình trạng phạt cho tồn tại đối với các công trình vi phạm đang diễn ra hiện nay.
-Theo thống kê của Thanh tra xây dựng, hiện tại tình trạng xây dựng không phép, sai phép vẫn diễn ra phổ biến với tỷ lệ khoảng 27% mà nguyên nhân chính là do quy hoạch xây dựng chưa rõ ràng, thủ tục cấp phép rườm rà và phiền hà, việc kiểm tra còn yếu kém, tình trạng phạt cho tồn tại đã làm giảm hiệu lực quản lý.
-

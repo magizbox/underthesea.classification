@@ -1,8 +1,0 @@
-RAM giả tĩnh 256 MB đầu tiên trên thế giới
-Hãng điện tử Hàn Quốc Samsung vừa cho ra mắt bộ nhớ truy cập ngẫu nhiên đơn bóng bán dẫn UtRAM sử dụng công nghệ xử lý 90 nanometer cho điện thoại di động 3G hoặc các thiết bị cầm tay đa chức năng.
-UtRAM (uni-transistor random access memory) hoạt động với xung nhịp 133 MHz và được coi là RAM giả tĩnh (pseudo-SRAM hay PSRAM) nhanh nhất hiện nay. Sản phẩm có tốc độ xử lý dữ liệu gấp 1,7 lần so với những thiết bị RAM giả tĩnh 80 MHz trên thị trường, hỗ trợ thực hiện tính năng đa phương tiện cao cấp trong điện thoại thế hệ 3.
-PSRAM của Samsung có cấu hình mạch điện của DRAM và giao diện giống như thiết bị SRAM (RAM tĩnh) hay bộ nhớ flash NOR. UtRAM hoạt động theo chuẩn RAM giả tĩnh của Hội đồng thiết bị điện tử JEDEC.
-UtRAM sẽ được bán ra như một thiết bị độc lập hoặc là thành tố then chốt trong gói sản phẩm đa chip. Samsung sẽ cung cấp phiên bản mẫu đầu tiên cho các nhà sản xuất điện thoại cuối tháng này và sẽ phát hành UtRam 256MB hàng loạt vào cuối 2005.
-Thị trường toàn cầu cho RAM giả tĩnh - trong đó Samsung chiếm 30% - ước tính sẽ đạt tốc độ phát triển hàng năm 33% vào 2008. Sự tăng trưởng mạnh mẽ này xuất phát từ những thị trường điện thoại 3G ngày càng mở rộng với những tính năng cao cấp. Hãng nghiên cứu IDC dự đoán điện thoại thế hệ 3 sẽ phát triển 65% mỗi năm, với khoảng 260 triệu sản phẩm và chiếm 30% thị trường thiết bị di động toàn cầu.
-PSRAM/pseudo-SRAM (RAM giả tĩnh) là thiết bị RAM sử dụng kết hợp các phần tử DRAM mật độ cao, chi phí thấp với một giao diện ngoài SRAM để thuận tiện trong việc thiết kế hệ thống. PSRAM phù hợp với các ứng dụng trong điện thoại di động do đáp ứng được nhu cầu tăng mật độ RAM nhằm hỗ trợ thực hiện nhiều hơn các đặc tính và chức năng trong sản phẩm.
-

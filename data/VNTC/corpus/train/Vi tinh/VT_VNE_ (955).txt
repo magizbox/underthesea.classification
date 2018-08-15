@@ -1,6 +1,0 @@
-Siêu chip máy tính cho ngành dược
-Một nhóm nhà nghiên cứu trẻ tuổi ở Đại học bách khoa Ngee Ann (Singapore) đã thiết kế một bộ vi xử lý có sức mạnh tương đương 100 PC thông thường.
-Nhóm nhà khoa học từ 24 đến 27 tuổi sẽ thương mại hóa sản phẩm của họ vào đầu năm tới và chủ yếu là bán cho các công ty sản xuất dược phẩm để giúp tăng khả năng tiết kiệm thời gian và tiền bạc.
-Trưởng nhóm Darran Nathan, 24 tuổi, cho biết, không giống như các loại chip máy tính bình thường sử dụng phần mềm, sản phẩm của anh và đồng sự dựa trên phần cứng máy tính. Một chip PC bình thường phiên dịch các lệnh từ phần mềm rồi mới thi hành, Nathan nói. Chip của chúng tôi có thể tái cấu hình, tức là có thể tải một file thực tế vào trong nó và kết nối lại mạch, tùy theo chu trình diễn ra tiếp theo trong phần cứng. 
-Cũng theo Nathan, ban đầu họ định thiết kế chip này cho ngành viễn thông nhưng sau khi dự án bắt đầu 2 năm trước, cả nhóm nhận ra rằng sản phẩm mà họ phát triển sẽ có lợi nhiều hơn cho ngành dược. Với tốc độ gấp 100 lần máy tính thường, loại chip này rất hữu dụng cho việc thiết kế và điều chế các loại thuốc, Nathan nói. Điều này sẽ giúp các nhà sản xuất cung cấp sản phẩm nhanh hơn cho đời sống và tất nhiên giá thành cũng rẻ hơn. Nathan cho biết sản phẩm chip của họ sẽ có giá khoảng từ 30.000 USD đến 61.000 USD/chiếc. 
-

@@ -1,7 +1,0 @@
-H5N1 - đề tài mới của virus máy tính
-Những kẻ viết chương trình nguy hiểm, vốn luôn tìm kiếm cơ hội tốt nhất để tấn công PC của người sử dụng, đang khai thác mối quan tâm của dư luận về dịch cúm gà nhằm phát tán một Trojan nguy hiểm.
-Naiva.A ẩn sau những tài liệu Word có tiêu đề "Bùng phát ở Bắc Mỹ" (Outbreak in North America) hoặc "Cúm gà là gì?" (What is avian influenza?). Trojan sử dụng một lệnh macro hỗ trợ chỉnh sửa, tạo, xóa file, và một macro khác có khả năng cài phần mềm Ranky.FY trên PC, cho phép tin tặc điều khiển máy tính từ xa.
-"Lợi dụng tình hình rối ren hiện tại để gây sự chú ý và dụ dỗ người dùng click vào tệp đính kèm trong e-mail là một thủ thuật khá ranh mãnh", Jeanine Rother, chuyên gia nghiên cứu của hãng bảo mật Panda, bình luận. "Dù đã liên tục được cảnh báo không nên mở file chưa rõ nguồn gốc, một số người vẫn tảng lờ vì đây là vấn đề liên quan đến cuộc sống và tính mạng của chính họ".
-Số lượng máy tính bị nhiễm Naiva.A rất khó có thể ước tính, nhưng Panda chỉ xếp Trojan này ở mức nguy hiểm không cao.
-Naiva.A ra đời ngay sau khi xuất hiện hàng loạt thư rác quảng cáo cho trang webkinh doanh thuốc Tamiflu, dược phẩm được cho là hiệu quả nhất trong việc bảo vệ con người trước virus H5N1.
-

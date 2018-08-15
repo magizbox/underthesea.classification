@@ -1,6 +1,0 @@
-Hỗ trợ kinh nghiệm lập trình
-Em đang lập trình ứng dụng cho công ty em làm việc. Ứng dụng viếtbằng ngôn ngữ Visual Basic kết nối với CSDL SQL-Server và report bằng công cụ Crytal Report. Mọi việc truy xuất dữ liệu đều suôn sẻ, đến khi báo cáo bằng Crystal report thì gặp lỗi sau:
-The library "pdssql.dll" can't not be found.The data in this report can not refreshed!. . . 
-Lưu ý là em sử dụng thư viện CRAXDDRT.dll của Crystal để truy xuất dữ liệu vào SQL-Server. Em đã kiểm tra kỹ trên các máy tính có cài Win2000 trở đi thì không có lỗi xuất hiện. Còn đối với hệ điều hành Win98 thì báo lỗi đã nêu trên.Hiện tại, em đang phân vân không biết có phải thư viện CRAXDDRT.dll hoặc CRAXDRT.dll có lỗi không? Xin nhờ chỉ giúp.
-Trần Duy Chương
-

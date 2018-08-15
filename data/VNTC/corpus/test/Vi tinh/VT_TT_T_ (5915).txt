@@ -1,5 +1,0 @@
- Cập nhật các đoạn video nóng hổi hằng ngày 
-Trong khi đó với MyVideoDaily, bạn có thể xem các tin tức nóng hổi đang diễn ra trên thế giới chỉ với vài thao tác nhấp chuột. 
-Sau khi cài đặt, bạn mở chương trình lên, khi đó trong phần phía trên, chương trình đã sắp đặt sẵn cho bạn một Menu Bar gồm các đoạn video ở các lĩnh vực như tin tức thời sự, thể thao, kinh tế, âm nhạc, hài kịch của các kênh truyền hình khác nhau. Muốn xem ở lĩnh vực nào thì nhấp vào đó, khi đó sẽ xuất hiện phần Headlines ở khung bên phải. Muốn xem đoạn nào bạn chỉ việc nhấp vào đó, chương trình sẽ hiển thị đoạn video trong khung hình bên trái. 
-Chương trình có dung lượng 660 KB, tương thích với mọi Windows, tải miễn phí tại: http://www.myvideodaily.com/download.htm . 
-

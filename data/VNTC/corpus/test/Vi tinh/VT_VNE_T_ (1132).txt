@@ -1,7 +1,0 @@
-Hỏi về phần mềm xử lý file phim WMV (1)
-Tôi muốn hỏi dùng phần mềm nào để cắt file film WMV cùng với file phụ đề đuôi SMI k? Tôi đã dùng thử chương trình AVI MPEG WMV SPLITTER thì chỉ cắt được file WMV. và Subtitle work để cắt file phụ đề SMI nhưng khi xem lại thì k thể hiện được phụ đề. Cám ơn nhiều. 
-Sỹ
-Hồi âm:
-Bạn có thể tham khảo đầy đủ tại đây:
-http://www.diendantinhoc.com/showthread.htm?t=30492highlight=wmv
-

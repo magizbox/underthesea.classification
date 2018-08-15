@@ -1,6 +1,0 @@
-Cha đẻ web là nhà khoa học vĩ đại thứ nhì sau Einstein
-Tim Berners-Lee, người đặt nền tảng cho mạng thông tin toàn cầu, đã được ban tổ chức giải thưởng Quadriga của Đức ghi nhận là nhà phát minh quan trọng thứ 2 trong thế kỷ 20, chỉ đứng sau tác giả thuyết tương đối.
-Tim Berners-Lee, năm 2003 được phong tước Hiệp sỹ của hoàng gia Anh vì những thành tựu phát minh, đã phát minh ra web khi còn làm việc tại Viện nghiên cứu hạt nhân châu Âu CERN. Ý tưởng ban đầu của ông là nhằm giúp các chuyên gia vật lý phân tử phối hợp nghiên cứu thông qua một mạng lưới nhằm khắc phục sự phân tán về địa lý. Những giao thức liên kết nền tảng này sau đó đã được Berners-Lee công bố tự do cho toàn thế giới và trở thành chuẩn World Wide Web.
-Vai trò to lớn của Berners-Lee được ghi nhận vì ông đã không đăng ký bản quyền World Wide Web cho mục đích thương mại và lợi ích cá nhân mà đã công bố miễn phí cho tất cả mọi người khai thác, Klaus Riebschlaeger, Chủ tịch hội đồng giải thưởng Quadriga, phát biểu. Chính phát minh của ông ấy đã trở thành mạng kiến thức liên kết toàn nhân loại.
-Giải thưởng Quadriga được thành lập năm 2002 nhằm ghi nhận lòng dũng cảm, tầm nhìn chiến lược và tinh thần trách nhiệm đối với cộng đồng của các cá nhân trong 4 lĩnh vực chính trị, kinh tế, xã hội và văn hóa.
-

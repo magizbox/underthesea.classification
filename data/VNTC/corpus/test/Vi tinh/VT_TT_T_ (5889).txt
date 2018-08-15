@@ -1,8 +1,0 @@
- ScanDBX: bạn đồng hành tuyệt vời của Outlook Express
-Và thật là bực mình nếu một ngày nào đó, Outlook của bạn trở chứng. ScanDBX sẽ là một vị cứu tinh tuyệt vời cho bạn. 
-Chức năng chính của ScanDBX là tìm kiếm và sửa chữa những lỗi tiềm ẩn nằm trong OutLook Express của bạn. Có những lỗi bạn không thể ngờ được, nó chính là nguyên nhân của việc Outlook sau một thời gian sử dụng sẽ chậm chạp một cách vô cớ và hay báo lỗi. ScanDBX sẽ giúp bạn dọn dẹp sạch sẽ. 
-Có những lúc bạn bị gián đoạn đột ngột khi đang sử dụng Outlook Express. Những sự cố như vậy thường tạo ra những mail không hoàn chỉnh dẫn tới những lỗi như bạn không thể down về các tập tin đính kèm của mail hay nhiều khi outlook không khởi động được. Những lỗi này cũng được triệt để giải quyết bởi ScanDBX. 
-Ngoài ra, chương trình còn kèm theo một loạt các chức năng vô cùng tiện lợi khác như chức năng sao lưu và phục hồi (backup and restore) hộp thư trong trường hợp bạn phải cài lại máy tính. Chức năng kiểm tra kết nối giúp bạn biết được máy của mình có nối được với các máy phục vụ mail bên ngoài hay không... 
-Tuy nhiên, đây lại là một chương trình thương mại và được Microsoft hỗ trợ hẳn hoi. Bạn phải tốn một số tiền 38 USD để có thể dùng hết mọi chức năng của nó. Bản demo chỉ hỗ trợ quét và chỉnh sửa một số lỗi rất thông thường, tuy nhiên cũng sẽ giúp bạn được rất nhiều trong cơn khốn khó. Bạn có thể vào đây để tải bản dùng thử của chương trình. Trên website cũng có những bài hướng dẫn sử dụng rất sinh động có minh họa hẳn hoi. 
-Chúc bạn giải quyết tốt công việc của mình. 
-

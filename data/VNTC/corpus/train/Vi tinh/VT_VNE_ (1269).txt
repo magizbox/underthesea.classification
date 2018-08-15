@@ -1,7 +1,0 @@
-Virus Google nhảy sang AOL và Yahoo
-Vài ngày sau khi hãng dịch vụ tìm kiếm có biện pháp đối phó với sâu Santy, các công ty bảo mật lại cảnh báo một số biến thể của nó bắt đầu phát tán bằng cả hệ thống search của hãng khác.
-Perl.Santy.B là virus được viết bằng script Perl, lây lan vào những máy chủ web chạy các phiên bản phần mềm mạng tin phpBB 2.x trước bản 2.0.11, hãng Symantec cho biết. Nó sử dụng công cụ tìm kiếm của AOL và Yahoo để xác định các mục tiêu tiềm năng rồi tấn công.
-AOL, lấy công nghệ tìm kiếm của Google làm cơ sở cho hệ thống search của họ, tuyên bố đang điều tra sự vụ và chưa rõ việc Google hạn chế dịch vụ để chống virus có ảnh hưởng gì đến họ hay không. Yahoo, công ty đã từ bỏ nền tìm kiếm của Google từ tháng 2 năm nay, chưa có phản ứng gì.
-Trong số những biến thể khác của Santy có phiên bản C vẫn nhắm vào Google. Hãng bảo mật Nga Kaspersky cũng đã xác định 2 virus khác mà họ gọi là Spyki.A và B, tấn công qua hệ thống Google ở Brazil.
-Bản gốc của sâu Santy xuất hiện cách đây một tuần khi một số mạng tin thấy website của họ bỗng dưng bị xóa và làm biến dạng bởi những dòng text do virus tạo ra. Santy lây lan bằng cách tấn công những trang web sử dụng các phiên bản có khiếm khuyết của phần mềm PHP Bulletin Board (phpBB) và dùng công cụ Google để xác định các mục tiêu này.
-

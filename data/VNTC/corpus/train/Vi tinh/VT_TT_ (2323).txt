@@ -1,7 +1,0 @@
- Điện thoại di động cung cấp tin nóng
-Để các tin nóng có thể bước vào không gian của các máy di động, đương nhiên không thể chỉ lời nói suông mà có thể thành hiện thực. Một trong những bước tiến về công nghệ lớn nhất là Google đã phải tiến hành tối ưu hóa lại toàn bộ hệ thống lấy tin, biên soạn và phát hành để các tin “nóng” có thể hoàn toàn thích hợp với môi trường nhỏ bé của chiếc máy di động. 
-Với những điện thoại có hỗ trợ kết nối Internet, khi người dùng truy cập vào website google.com, họ có thể nhận thấy một liên kết mới dẫn tới một trang web liệt kê các tin nóng được thu thập bởi Google. Công việc còn lại chỉ là tìm kiếm thông tin thích hợp, theo sở thích hoặc theo chủ đề. Hoặc đơn giản chỉ là duyệt tin. 
-Thời gian thông tin được cập nhật được thông báo tại dòng tin phía dưới màn hình. Đây là một dịch vụ miễn phí, tuy nhiên chỉ mới có trong phạm vi nước Mỹ. 
-Dịch vụ này chưa phải là tất cả dành cho chiếc điện thoại. Google cũng đã giới thiệu Gmail dành cho di động cung cấp dịch vụ thư điện tử và duyệt thư qua điện thoại, Local for Mobile cung cấp các dịch vụ định hướng và bản đồ. Một yếu tố khác vô cùng lợi thế dành cho Google là Các điện thoại nền Internet của T-Mobiles, Sony Erricson và Motorolar cũng sẽ hỗ trợ sẵn một thanh tìm kiếm Google trên máy. 
-Google không phải là nhà tiên phong trong ý tưởng này. Thế nhưng, cách làm của họ thì không phải ai cũng có thể tiến hành. 
-

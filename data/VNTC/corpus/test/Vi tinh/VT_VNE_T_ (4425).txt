@@ -1,6 +1,0 @@
-Cài WinXP vào ổ nào? (1)
-Trong nội dung của bài viết về thủ thuật WinXP (Phần II) có nói về file uattend.txt (msbatch.txt) có lệnh "Autopartition=1" (Nếu có 2 ổ C và D thì nó sẽ cho phép cài win trên ổ C). Nhưng trong trường hợp ổ C là phân vùng NTFS thì ở môi trường DOS máy tính sẽ coi ổ D (phân vùng FAT 32) là ổ C. Vậy thì câu lệnh trên sẽ cho phép cài WinXP vào ổ nào: C( NTFS) hay D (FAT32) ?
-Quang Hiệp
-Hồi âm:
-Ổ có định dạng Fat32. Bạn không thể cài hệ điều hành lên ổ có định dạng NTFS nếu bạn cài đặt thông qua DOS.
-

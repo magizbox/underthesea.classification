@@ -1,5 +1,0 @@
- Fujitsu Siemens hợp tác với Microsoft sản xuất TV kỹ thuật số
-Hai công ty này sẽ mở rộng hợp tác và hỗ trợ nhau trong việc phát triển kỹ thuật sản xuất ti vi 
-ACTIVY là kỹ thuật thu tín hiệu DVB (truyền thông video kỹ thuật số - Digital Video Broadcast) dành cho ACTIVY Media Center. Kỹ thuật này do Fujitsu Siemens xây dựng. ACTIVY Media Center được trang bị tính năng HDD recorder, giúp người sử dụng có thể thu được những chương trình trên tivi vào ổ cứng máy tính. Nhờ kỹ thuật này, người sử dụng có thể biên tập các chương trình đã được thu lại, và ghi ra DVD . 
-Trong bài phát biểu của mình, Microsoft mục đích của việc hợp tác này là nhằm cùng nhau hỗ trợ phát triển công nghệ sản xuất tivi kỹ thuật số dành cho đối tượng khách hàng ở thị trường Châu Âu. Vì Microsoft dự đoán, trong tương lai, có thể khách hàng tại thị trường này sẽ có xu hướng chuyển đổi từ loại ti vi thông thường sang loại ti vi kỹ thuật số có sử dụng Windows Media Center. 
-

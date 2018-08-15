@@ -1,6 +1,0 @@
-Biểu tượng IE sẽ được điều chỉnh khiêm tốn hơn
-Theo yêu cầu của một ủy ban giam sát chống độc quyền tại Mỹ, Microsoft quyết định sẽ gỡ bỏ biểu tượng trình duyệt Internet Explorer (IE) trong Windows XP ở những nội dung liên quan đến web.
-Như hiện nay, một số file HTML khi được lưu trên PC đều hiển thị biểu tượng Internet Explorer, kể cả khi trình duyệt này không được đặt ở chế độ mặc định. 
-Ủy ban chống độc quyền nói trên trấn an rằng việc bỏ biểu tượng Internet Explorer trong XP sẽ không khiến hệ điều hành tự động xóa các đường liên kết nhanh (shortcut) của người sử dụng vào ứng dụng duyệt web này. 
-Microsoft khẳng định sẽ thực hiện một số điều chỉnh để giải tỏa những quan ngại trên.
-

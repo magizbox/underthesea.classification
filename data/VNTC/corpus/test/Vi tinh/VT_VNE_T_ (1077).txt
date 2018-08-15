@@ -1,8 +1,0 @@
-Apple trình làng Tiger OS X
-Hôm qua, công ty máy tính Mỹ cho biết đến năm 2005 sẽ ra mắt phiên bản mới của hệ điều hành Mac OS X. Với nhiều tính năng tìm kiếm ưu việt, nhà cung cấp hy vọng sản phẩm giá 129 USD này sẽ vượt mặt phần mềm nâng cấp nổi tiếng của Microsoft: Longhorn.
-Trong hội nghị thường niên của giới phát triển phần mềm thế giới vừa được tổ chức, Apple đã giới thiệu phiên bản Tiger với nỗ lực khuyến khích những người trong ngành lập trình nhiều ứng dụng chạy trên hệ điều hành này.
-Tiger là phần mềm nâng cấp thứ 5 kể từ khi hãng "Quả táo" bắt đầu phát hành OS X năm 2001. Công nghệ tìm kiếm Spotlight của Apple cho phép khách hàng dùng máy Mac tìm kiếm file, văn bản và thông tin được tạo ra bằng bất kỳ ứng dụng nào chạy trên Macintosh. Người sử dụng có thể tìm kiếm bằng cách nhập câu hỏi vào search ở góc bên phải máy tính.
-Microsoft cũng có ý tưởng tung ra một phần mềm nâng cấp có tên là Longhorn. Phiên bản mới của đại gia phần mềm dự kiến ra mắt người dùng vào năm 2006. Một trong những mục đích chính của Tiger và Longhorn là đơn giản hoá quá trình tìm kiếm trong ổ cứng PC.
-Steve Jobs, Giám đốc điều hành của Apple, tự tin nói: "Khi các công ty khác mới hình thành ý tưởng về tính năng tìm kiếm thì chúng tôi đã đi vào sản xuất. Tiger sẽ trình làng trước Longhorn".
-Hãng Apple vốn nổi tiếng với dòng máy tính Macintosh và thiết bị nghe nhạc kỹ thuật số iPod, đặc biệt là Panther OS X, phiên bản mới nhất của Mac OS X, ra mắt người dùng vào tháng 10/2003.
-

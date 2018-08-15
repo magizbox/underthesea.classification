@@ -1,6 +1,0 @@
-Internet không dây đến Bắc Cực
-Những chú gấu vùng băng giá giờ đây nếu có nhu cầu lướt web thì có thể tiếp cận công nghệ truy cập không dây thông qua một điểm Wi-Fi hotspot do 2 nhân viên Intel người Nga thiết lập tại trại Barneo, cách điểm mút cực Bắc 128 km.
-Trong cuộc thử nghiệm kết nối tại điểm truy cập này (dùng chuẩn 802.11b/g kèm theo một số máy tính xách tay vớichip Centrino), các thành viên của nhóm nghiên cứu đã có thể thanh toán hóa đơn từ xa và theo dõi các bản tin dự báo khí tượng. Tuy nhiên, thời tiết vẫn là một vấn đề lớn khi nhiệt độ trong không khí ít khi lên được đến -34 độ C. Điều này rất có hại cho pin và gây ra tình trạng đông cứng các vi mạch của máy tính. Tuy nhiên, hoạt động của laptop qua thí nghiệm nói chung vẫn đáng tin cậy.
-Còn nơi đâu tốt hơn để thử nghiệm công nghệ và thiết bị mới, Dmitry Shparo, nhà nghiên cứu về Bắc Cực sống tại trại Barneo, phát biểu. Chúng tôi cần phương tiện truyền thông di động và các công nghệ kết nối để giữ liên lạc với thế giới.
-Các nhà nghiên cứu dự kiến sẽ sớm triển khai mạng nội bộ không dây WLAN tại vùng băng giá này. Intel coi thí nghiệm nói trên là minh chứng cho thấy công nghệ không dây có thể cho phép người sử dụng khai thác máy tính ở bất cứ nơi đâu trên hành tinh.
-

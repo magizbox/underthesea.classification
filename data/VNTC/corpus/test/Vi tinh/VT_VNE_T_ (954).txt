@@ -1,7 +1,0 @@
-Sắp xếp file nhạc bằng MediaMonkey 
-Cung cấp các công cụ rất mạnh cùng khả năng tương thích cao với trình chơi nhạc Winamp và trình đốt đĩa Nero, phần mềm miễn phí MediaMonkey đáp ứng hầu hết nhu cầu của bạn yêu nhạc. 
-Chương trình quản lý đĩa CD và các tập tin âm thanh OGG, WMA, APE, MPC và MP3. Lần đầu khởi động MediaMonkey, nó sẽ đề nghị bạn quét ổ đĩa để tìm kiếm các tập tin nhạc rồi đưa vào thư viện. Các file nhạc được lựa chọn dựa trên thẻ ID3, cùng các tính năng Auto-Rename và Auto-Tag From File giúp bạn lập chỉ mục cho những track âm thanh chưa được tạo thẻ, khiến việc quản lý thư viện âm nhạc trở nên dễ dàng. 
-Với các công cụ rip đĩa CD và chuyển đổi định dạng, biên tập playlist, MediaMonkey giúp bạn tạo ra những đĩa nhạc hoặc danh sách bài hát theo ý thích. Khi chương trình chơi nhạc, bạn không cần thường xuyên điều chỉnh âm lượng vì tính năng này đã được tự động hóa. 
-Nếu chưa thỏa mãn với những gì MediaMonkey đem lại, bạn có thể vào trang chủ tại www.mediamonkey.com để tải về các plug in của hãng thứ ba. Chương trình hỗ trợ hàng trăm plug in của Winamp với những hiệu ứng hình ảnh và âm thanh đa dạng, phong phú. Bạn cũng có thể chọn Winamp làm trình chơi nhạc mặc định khi sử dụng MediaMonkey.
-Phần mềm nặng 4 MB. Bạn có thể tải bản miễn phí tại đây. 
-

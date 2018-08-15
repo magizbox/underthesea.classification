@@ -1,5 +1,0 @@
- Lỗi bảo mật trong Internet Explorer 7 beta2
-Đây là một dạng lỗi bảo mật có thể làm cho trình duyệt Internet Explorer 7 bị “sập” ngay trong quá trình đọc các file HTML đặc biệt, được thiết kế chuyên dùng để tấn công vào Windows. Ferris đã thử nghiệm Internet Explorer 7 beta 2 bằng các file và công cụ đặc biệt, chuyên dùng để thử nghiệm độ bảo mật của Windows và Internet Explorer, và thật đáng tiếc là Internet Explorer 7.0 đã không qua được “ải” đầu tiên. Ngoài ra lỗi này còn tạo điều kiện cho kẻ tấn công tung một số mã độc vào hệ thống của người dùng. 
-Ferris cho biết rằng đây là một dạng lỗi hoàn toàn mới mà anh chưa từng gặp trong các trình duyệt trước đây. Hiện Microsoft chưa đưa ra bất kỳ lời bình luận gì về phát hiện của Ferris, nhưng nữ phát ngôn viên của Microsoft cho biết công ty hiện đang tích cực điều tra về lỗi bảo mật này. 
-Bạn đọc quan tâm có thể vào đây để tìm hiểu kỹ về phát hiện của Tom Ferris. 
-

@@ -1,7 +1,0 @@
-Phát tán virus qua e-card tăng 90% so với 2004 
-Người dùng PC luôn bất ngờ và vui mừng mỗi khi nhận được những thiệp điện tử (e-card) dễ thương nhưng hãng bảo mật SurfControl khẳng định tình trạng tạo thiệp giả để cài mã nguy hiểm vào máy tính đang tăng nhanh.
-Theo Paris Trudeau, Giám đốc thị trường của SurfControl, e-mail kèm e-card chúc mừng chứa phần mềm nguy hiểm đã tăng 90% so với năm ngoái và đang chiếm tới hơn một nửa số thư điện tử được gửi đi trên toàn thế giới. 
-Số vụ lừa đảo trực tuyến, dụ người dùng khai báo thông tin cá nhân vào website giả, cũng tăng đáng kể, nhưng hiện nay, tin tặc chủ yếu tìm cách lừa mọi người tải phần mềm có khả năng kiểm soát PC từ xa, biến chúng thành cỗ máy tính mazombie, làm "nội gián" cho hacker khai thác.
-Những hoạt động này được thực hiện thường xuyên qua thiệp điện tử với nội dung và hình ảnh cuốn hút khiến người sử dụng dễ bấm chuột vào kết nối tới trang chứa mã nguy hiểm. Một thủ thuật khác có tỷ lệ thành công cũng khá cao là những thông điệp giả dạng như là từ chuyên viên quản trị mạng.
-SurfControl cho biết hệ thống lọc e-mail của họ đã thu nhận được số thư phát tán phần mềm nguy hiểm nhiều gấp 3 lần so với cùng kỳ năm 2004.
-

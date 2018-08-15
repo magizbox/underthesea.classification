@@ -1,5 +1,0 @@
- Microsoft sẽ "khai tử" định dạng file PDF của Adobe ?
-Metro là định dạng file mới sẽ được Microsoft đưa vào trong hệ điều hành Longhorn. Tính năng hỗ trợ định dạng Metro tích hợp sẵn trong Longhorn có thể làm được tất cả các chức năng của phần mềm Adobe PDF hiện nay, từ tạo file, in ấn file PDF trực tiếp mà không cần cài thêm một phần mềm khác. 
-Theo dự báo của các chuyên viên phân tích công nghệ thông tin, sẽ có một cuộc chiến giữa hai định dạng Metro và PDF mà phần thắng có vẻ nghiêng hẳn về phía người khổng lồ Microsoft.Hãng Adobe, người đã khai sinh ra định dạng PDF cũng lập tức lên tiếng cảnh báo rằng Microsoft không nên lấn sân của các hãng phát triển sản phẩm chạy trên Windows mà nên chừa chỗ (chính xác hơn là chừa đất sống) cho các hãng khác. 
-Trước đây, Liên minh châu Âu đã từng buộc Microsoft phải bỏ phần mềm Windows Media Player khỏi Windows đểc ác hãng phát triển phần mềm multimedia có cơ hội phát triển. Nhưng dường như Microsoft đang ngày càng "tham lam" hơn khi tích hợp nhiều chức năng vào Windows để biến hệ điều hành này thành dạng tất cả trong một. 
-

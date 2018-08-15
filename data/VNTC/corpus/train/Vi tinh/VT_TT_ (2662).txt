@@ -1,6 +1,0 @@
- Nokia trang bị công cụ bảo mật của Symantec cho Smart Phone
-Theo thỏa thuận này toàn bộ các điện thọai di động thông minh serie 60 chạy hệ điều hành Symbian xuất xưởng trong thời gian tới đều được cài một công cụ bảo mật chống virus của Symantec. 
-Matti Vänskä, giám đốc công nghệ của Nokia cho biết:”Nokia luôn luôn quan tâm đến vấn đề bảo mật của khách hàng trước hiện trạng mã độc không ngừng tấn công vào các loại điện thoại di động thông minh sử dụng Symbian. Việc kết hợp với Symantec đã giải quyết được vấn đề đó”. 
-Các loại điện thoại di động thông minh hiện nay đều có khả năng chơi media đa năng và nhất là truy cập Internet, nguồn lây nhiễm chính của mọi hiểm họa như virus, trojan, phần mềm gián điệp… 
-Symantec đã hợp tác với Nokia trong suốt hơn 2 năm qua để phát triển các công nghệ chuyên dùng để chống mã độc cho điện thoại di động thông minh và đến ngày nay các thành quả mới nhất của công nghệ này đã được chính thức áp dụng vào các sản phẩm đời mới tung ra thị trường. 
-

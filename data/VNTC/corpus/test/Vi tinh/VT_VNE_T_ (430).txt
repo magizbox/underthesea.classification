@@ -1,6 +1,0 @@
-Cách nào tốt hơn để tạo VCD có độ sắc nét (1)
-Chào các bạn, tôi thưòng dùng Ulead DVD MoviesFactory 2 để conver băng video gia đình ra VCD, tuy nhiên chất lượng không được sắc nét như phim bày bán (hay bị sọc carô), vậy có bạn nào biết cách làm tốt hơn hoặc software tốt hơn xin chỉ dùm. Xin rất cảm ơn. Tôi dùng winXP, Pentium 4, ram 512Mb, ổ cứng 80GB và convert bằng camera digital Sony qua cổng Firewire.
-Tuan Hong
-Hồi âm:
-Anh muon cho VCD ro net nhu DVD thi khong duoc, nhung anh thu lam theo cach sau vi toi da lam qua va chat luong cung kha ro khong thua gi ngoai thi truong. Do la khi anh chuan bi capture hing tu may Digital camera qua Ulead. Anh hay vao setting roi doi capture resolution va chon resolution cao nhat. No se chiem nhieu space nhung chat luong thi ro hon nhieu. Chuc anh thanh cong. 
-

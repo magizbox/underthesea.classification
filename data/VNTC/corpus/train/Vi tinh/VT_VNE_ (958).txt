@@ -1,5 +1,0 @@
-Symbol trình làng PDA tích hợp LAN không dây
-Symbol Technologies hôm qua giới thiệu thiết bị cầm tay Symbol MC50, dòng sản phẩm đầu tiên được hãng đặt tên là thiết bị trợ giúp kỹ thuật số doanh nghiệp (EDA) được thiết kế riêng cho các ứng dụng thiết yếu trong môi trường kinh doanh.
-MC50 thích hợp với những nhà doanh nghiệp phải thường xuyên di chuyển nhưng cần duy trì liên lạc và thông tin liên tục. Sản phẩm sử dụng hệ điều hành Microsoft Windows Mobile 2003 Second Edition và tích hợp mạng nội bộ không dây (LAN) với chuẩn 802.11b. Dựa trên các tiêu chuẩn chung và khả năng bảo mật không dây của Symbol, sản phẩm mới bao gồm cả tính năng tích hợp giọng nói. Với MC50, các giải pháp thoại qua Internet (VoIP) có thể triển khai rộng rãi, cho phép thực hiện liên lạc trong thời gian thực trong các tòa nhà cũng như trên công trường. 
-MC50 có màn hình TFT-LCD 65.000 màu, độ phân giải 240 x 320 pixel, có khe SDIO để cắm card SD hoặc MMC. Tạo nên sức mạnh tính toán cho nó là CPU Intel XScale tốc độ 520 MHz, với 64 MB SDRAM và 64 MB ROM. Ngoài ra, nó còn có các lựa chọn nhập liệu đặc biệt, bao gồm quét mã vạch 1D và 2D, chụp ảnh 1 Megapixel.
-

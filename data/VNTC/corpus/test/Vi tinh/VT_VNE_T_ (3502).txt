@@ -1,7 +1,0 @@
-Trang web của Microsoft ở Anh bị tấn công 
-Nhóm hacker thực hiện vụ này là Apocalypse. Họ để lại bức ảnh với thông điệp: "Tự do cho RAFA - hacker không phải là tội phạm".
-Vụ tấn công này được tiến hành vào ngày thứ 5/7. Hiện giờ bức ảnh đã được gỡ bỏ và trang web www.microsoft.co.uk đã hoạt động trở lại bình thường. Người phát ngôn của Microsoft cho biết đây là lời cảnh báo về bảo mật: "Không có lý do gì để tin tưởng dữ liệu của khách hàng hay bất kì thông tin nhạy cảm khác đã không bị xâm phạm". Các chuyên gia kĩ thuật của Microsoft đang tìm hiểu nguyên nhân. Cuộc tấn công không để lại hậu quả nghiêm trọng.
-Diễn đàn an ninh Zone-H dự đoán lỗi cấu hình của máy chủ của Microsoft là lỗ hổng cho hacker thực hiện cuộc tấn công. Máy chủ của Microsft chạy hệ điều hành Windows 2003 servers và sử dụng phần mềm web server IIS 6.
-Rafael (Rafa) Nunez-Aponte là người Venezuela, bị nghi ngờ là thành viên của nhóm hacker "World of Hell". Tên này đang bị giam giữ tại Mỹ sau khi bị bắt vào tháng 4 tại Miami. Rafa đã thực hiện một loạt các cuộc tấn công vào máy chủ của Bộ quốc phòng Mỹ trước năm 2001.
-Các trang web của tổ chức và chính phủ Mỹ luôn là mục tiêu của Apocalypse trong vài tháng gần đây. Nạn nhân trước bao gồm trang web của đại học Stanford và hải quân nước này. Sau mỗi cuộc tấn công nhóm tin tặc đều để lại thông điệp kêu gọi trả tự do cho Rafa. 
-

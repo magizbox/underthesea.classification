@@ -1,8 +1,0 @@
-Windows lần đầu tiên dẫn đầu thị trường máy chủ
-Hãng nghiên cứu toàn cầu IDG cho biết hệ điều hành của Microsoft xuất hiện trong khoảng 36,9% server, so với 31,7% cho Unix và 11,5% chạy trên Linux. 
-Theo Matt Eastwood, chuyên gia phân tích của IDG, ngày càng nhiều doanh nghiệp sử dụng máy chủ chạy trên Windows cho những ứng dụng như ERP, e-mail và Web hosting. Quyết định chuyển đổi từ Windows NT sang những phiên bản mới cũng ảnh hưởng tích cực đến doanh thu của Microsoft.
-Eastwood không khẳng định thành công của Windows sẽ duy trì trong bao lâu, nhưng nhấn mạnh rằng hai năm trước đây, máy chủ chạy Windows chỉ chiếm 31,5% trên thị trường.
-Thị trường server toàn cầu đạt mức tăng trưởng 8,1%, vượt dự đoán trước đây của IDG (6%). Hãng Gartner cũng vừa thông báo doanh thu máy chủ toàn cầu tăng 5,6% trong quý III. Cả hai công ty nghiên cứu này thừa nhận giá thành server trung bình đã giảm xuống dưới 25.000 USD.
-IBM vẫn dẫn đầu lĩnh vực máy chủ với doanh thu với 4 tỷ USD, trong khi HP đứng thứ hai (3,5 tỷ USD). Toàn bộ máy chủ được tiêu thụ trong quý III vừa qua có tổng giá trị là 12,5 tỷ USD.
-Thiết bị xử lý 64 bit đã phổ biến trong server x86, chiếm 69% tổng số loại máy chủ này được bán ra trong 3 tháng qua. Hầu hết những chip 64 bit vẫn chỉ đang chạy ứng dụng 32 bit nhưng các doanh nghiệp đang tập trung đầu tư hơn cho những dự án tương lai.
-

@@ -1,7 +1,0 @@
-Giảm tiêu hao điện năng chip 1.000 lần bằng nền 65 nm
-Intel đang chuyên sang quy trinh san xuât chip tiêu thu điên năng cưc thâp cho cac nên tang di đông thê hê mơi, dưa trên phương phap xây dưng bộ xử lýYonah, phiên ban loi kep cua chip may tinh xach tay Pentium M. 
-Chu trình sản xuất nay mang lại cho các nhà thiết kế chip của Intel nhiều lựa chọn hơn trong việc nâng cao mật độ mạch điện, tăng cường hiệu suất hoạt động và hạn chế lương điên tiêu thụ, những tính năng mà người sử dụng các thiết bị dung pin đang đòi hỏi. 
-Mark Bohr, Giám đốc bộ phận tích hợp và kiến trúc xử lý của Intel, cho biêt công nghê 65 nm se giam đang kê tinh trang ro ri năng lương trong nhưng thiêt bi kich thươc nho, không đoi hoi kha năng vân hanh cao giông như may tinh hay server. 
-Một trong những nhân tố quan trong giup ha điện năng tiêu thụ của bộ vi xử lý la cải thiện phương thức thiết kế bóng bán dẫn. Viêc sư dung nhưng transistor tiêu thụ it năng lương CMOS 35 nm nhỏ nhất hiên nay cho phep Intel tăng gấp đôi số bong ban dân trên thiêt bi xử lý đơn nhất so vơi phương phap 90 nm. Đông thơi, giai phap nay 
-Với số transistor trên bộ vi xử lý vượt mức một tỷ, điêm manh trong từng bóng bán dẫn se đươc nhân lên gấp bội và tạo ra lợi ích khổng lồ cho toàn bộ thiết bị, Mark Bohr khăng đinh. Qua trinh thư nghiêm đa chưng minh bộ vi xử lý trên công nghệ 65 nm của Intel co thê giảm mức độ rò rỉ điện năng của transistor xuống gần 1.000 lần so với chu trình sản xuất chuẩn hiên nay của Intel.
-

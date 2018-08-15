@@ -1,8 +1,0 @@
-Trình duyệt Opera siêu gọn cho điện thoại di động
-Hãng phần mềm Na Uy vừa công bố một phiên bản browser được thiết kế chuyên biệt cho mục đích hỗ trợ lướt web của khoảng 700 triệu thiết bị liên lạc cá nhân giá thấp đang được sử dụng trên toàn thế giới hiện nay.
-Trình duyệt mang tên Opera Mini này tương thích với các điện thoại trang bị J2ME, có WAP, miễn là các hãng viễn thông di động hỗ trợ dịch vụ. 
-Nhà cung cấp phần mềm cho biết Opera Mini dựa trên một ứng dụng khách Java nhỏ cài trên điện thoại cùng với một phần mềm server đặt từ xa, chuyên xử lý trước các trang web và cấp phát chúng đến điện thoại. Trình duyệt mini này còn sử dụng công nghệ điều chỉnh màn hình nhỏ của Opera với đủ các tiện ích như Bookmarks, History, phân chia trang web thành những mảng nhỏ để dễ duyệt ...
-Theo Opera, việc cài đặt trình duyệt này cũng đơn giản như tải nhạc chuông vì người sử dụng chỉ cần đơn giản gửi một tin nhắn SMS hoặc truy cập vào một đường link thông qua WAP browser hiện có.
-Lướt web bằng điện thoại di động hiện nay vẫn còn hạn chế ở những thiết bị cao cấp có khả năng chạy trình duyệt, Jon S. von Tetzchner, Giám đốc điều hành Opera, phát biểu. Với Opera Mini những chiếc mobile phone cấp thấp cũng có thể lướt web và vì thế tất cả mọi người sẽ khai thác thông tin Internet tốt hơn với thiết bị hiện có của mình.
-Tham khảo thêm và download Opera Mini tại đây.
-

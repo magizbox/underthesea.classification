@@ -1,5 +1,0 @@
-Các công ty an ninh mạng Internet đã kêu gọi người sử dụng máy tính cảnh giác với loại virus "Sâu đen" (BlackWorm) mới xuất hiện trong vòng 2 tuần qua nhưng đã ảnh hưởng đến hàng chục nghìn máy tính trên toàn cầu.
-Loại virus mới này tấn công các phần mềm chống virus đã được cài đặt trong các máy tính cá nhân và phá hủy các tệp tin quan trọng nhất được lưu trữ trong máy tính. Virus này sẽ tự động kích hoạt để hoạt động vào ngày mùng 3 mỗi tháng sau đó.
-Tuy nhiên, các công ty an ninh mạng Internet khuyến cáo người sử dụng máy tính vẫn còn thời gian để loại trừ virus này dù máy tính của họ đã bị nhiễm "Sâu đen" bằng cách vào trang KXLY Weblinks và nhấn chuột vào tiêu đề "Bảo vệ máy tính khỏi virus Sâu đen" đã hiển thị sẵn trong Website này.
-Các công ty an ninh mạng Internet cũng cảnh báo virus KamaSutra được phát tán dưới dạng thư điện tử khiêu dâm có thể đã lây nhiễm 275.00 -500.000 máy tính trên thế giới và đang chờ để tự động kích hoạt vào ngày hôm nay (3/2). Điều nguy hiểm đối với người sử dụng máy tính là họ không thể biết máy tính của họ đã bị nhiễm virus này trước khi nó đã phá hoại hết các tệp tin quan trọng lưu trữ trong máy tính.
-

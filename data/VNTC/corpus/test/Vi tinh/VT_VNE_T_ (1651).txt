@@ -1,8 +1,0 @@
-Đặt password cho Windows 98 và XP (1)
-Chào các bạn! Mình muốn hỏi cách đặt mật khẩu trước khi nạp hệ điều hành để bảo mật cho máy tính. Mong các bạn giúp đỡ. Xin chân thành cảm ơn.
-Nguyen Tuan Anh
-Hồi âm:
-Đối với Windows 98, việc đặt mật khẩu hầu như là chẳng có tác dụng gì vì chỉ cần nhấn phím ESC là người ta sẽ vẫn có thể vào được máy tính của bạn, trừ khi bạn tháo bỏ phím này mỗi khi đi ra ngoài thì họ mới đầu hàng.
-Đối với WinXP, cách tạo mật khẩu như sau: Vào Control Panel. Chọn mục User Accounts. Sau đó nhấn vào Create a password và gõ mật khẩu của bạn vào là xong.
-Tuy nhiên, theo tôi cách bảo mật hiệu quả nhất trong số những cách thông thường là đặt mật khẩu ngay từ khi máy tính bắt đầu khởi động. Có nghĩa là mỗi khi bạn bật máy tính thì phải gõ mật khẩu thì mới có thể dùng tiếp được. Cách làm như sau: khởi động máy tính. Nhấn phím Delete ngay khi bật máy để vào CMOS. Vì mỗi máy có một hướng dẫn khác nhau nên bạn cứ thấy phần nào có chữ Password thì vào rồi sau đó gõ 2 lần mật khẩu. Tiếp tục vào phần Advanced BIOS Features. Trong chức năng Security Option bạn chọn System thay thế cho Setup. Nhấn phím F10 rồi enter để lưu lại thay đổi này. Chú ý là với cách này thì bạn phải nhớ kỹ mật khẩu của mình, nếu quên thì hơi rắc rối đó. Chúc thành công.
-

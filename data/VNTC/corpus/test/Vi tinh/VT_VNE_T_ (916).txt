@@ -1,7 +1,0 @@
-Thi Mobile games 2004
-Cuộc thi viết trò chơi cho điện thoại di động lần đầu tiên tổ chức ở Việt Nam đã chính thức được công bố sáng nay tại TP HCM. Mobile games 2004 mở rộng cho người Việt Nam ở trong và ngoài nước. Thí sinh có thể tham dự theo nhóm và được gửi nhiều game.
-Mỗi sản phẩm dự thi phải là một game hoàn chỉnh, viết trên nền J2ME (phiên bản MIDP 1.0) và chơi được trên chương trình giả lập điện thoại di động Samsung do Ban tổ chức cung cấp. Sản phẩm có nội dung hay, dễ chơi, chơi lâu không chán và kích thước chương trình nhỏ, thuật toán khó, có ý tưởng mới trong thiết kế lập trình... sẽ được chấm điểm cao.
-Ông Nguyễn Văn Đạo, Phó tổng giám đốc Công ty Samsung Vina, nhà tài trợ chính cho Mobile games 2004, nói: "Các chương trình game hiện nay trên điện thoại di động đều của nước ngoài, cách thức chơi và ngôn ngữ chưa thực sự gần gũi với người Việt Nam. Cuộc thi này hy vọng tạo một sân chơi lành mạnh cho giới trẻ yêu thích công nghệ thông tin, phát triển các ứng dụng cho điện thoại di động được viết bởi chính người Việt và sẽ là cầu nối giữa ứng dụng công nghệ và thị trường".
-Cuộc thi sẽ diễn ra từ ngày 1/7-16/8, do Công ty FPT Mobile, tạp chí PC World Việt Nam và báo Tuổi Trẻ đồng tổ chức, cộng đồng Java Vietnam tài trợ kỹ thuật. Lễ tổng kết và trao giải dự kiến tiến hành vào giữa tháng 10 với tổng giá trị các giải thưởng hơn 100 triệu đồng.
-Thông tin chi tiết về cuộc thi có thể tham khảo tại website: http://www.samsungmobilegames.com.vn/hoặc liên hệ địa chỉ e-mail: mobilegames@fpt.com.vn.
-

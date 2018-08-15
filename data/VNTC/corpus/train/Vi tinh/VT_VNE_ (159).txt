@@ -1,9 +1,0 @@
-Cảm ơn cha đẻ Ctrl+Alt+Del
-Mỗi khi bạn muốn loại một phần mềm cứng đờ đáng ghét, mỗi khi bạn cần khởi động lại mà không cần tắt máy, bạn sẽ phải nhờ đến David Bradley. Hôm nay, ông sẽ kết thúc sự nghiệp vẻ vang tại IBM sau 29 năm gắn bó.
-David Bradley là một trong 12 kỹ sư tạo ra chiếc máy IBM PC cách đây gần 24 năm. Song trong suốt cuộc đời mình, chỉ 5 phút viết đoạn mã tạo ra CtrlAltDel đã khiến ông đi vào lịch sử của chiếc máy tính.
-Ý tưởng ban đầu là tạo ra một cách đơn giản để thoát khỏi thế giới PC khi máy bị lỗi. Bradley đảm nhận công việc. Và kết quả là một tổ hợp phím ra đời. Hàng thập kỷ nay, người ta vẫn nhấn chúng khi các chỉ lệnh khác bất lực. Microsoft sau đó đã chấp nhận ý tưởng và phát triển nó thành tính năng cho phép chuyển quyền quản lý, kết thúc chương trình mà không ảnh hưởng tới các hoạt động khác.
-Bradley chọn Ctrl và Alt bởi ông cần hai phím chuyển đổi cho quá trình. Nút Delete được dùng bởi nó nằm tận đầu kia bàn phím, giúp tránh những cú khởi động lại do sơ ý cùng lúc đè lên cả ba phím. Ban đầu, IBM không định phổ biến rộng cách khởi động này. Song các lập trình viên đều thấy nó quá tiện lợi, và tiếng lành đồn xa.
-Tôi không ngờ nó lại trở thành một biểu tượng trứ danh đến vậy, Bradley sau này thú nhận. Ông nói mình cũng chẳng nhớ nổi khoảnh khắc tạo ra CltrAltDel. Nó làm người ta nhớ tới những gì Albert Enstein nói về công thức E = MC 2, hay Alexander Fleming nói về penicillin.
-Dù vậy, sự nổi danh của ông lại dựa trên thất bại của kẻ khác. Tôi tạo ra CtrlAltDel, song chính Bill Gates đã khiến nó được sử dụng thường xuyên đến vậy, Bradley ám chỉ việc phần mềm của Microsoft, trong đó có Windows, liên tục bị treo và phải khởi động nóng. Lời bình luận khiến những người có mặt tại lễ sinh nhật lần thứ 20 của IBM PC phá lên cười, tất nhiên là trừ Hiệp sĩ Bill tội nghiệp.
-Ở tuổi 55, Bradley sẽ tiếp tục giảng dạy tại Đại học North Carolina State.
-

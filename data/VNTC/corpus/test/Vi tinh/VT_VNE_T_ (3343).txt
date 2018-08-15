@@ -1,6 +1,0 @@
-Lõi Linux nâng cấp lên 2.6.12 
-Trong phiên bản mới, nhà phát minh phần mềm "Chim cánh cụt",Linus Torvald, đã có sự cải tiến lớn khi bổ sung hỗ trợ Trusted Platform Modules (TPM) và một số thay đổi lớn đối với nhiều trình điều khiển (driver) cùng các tính năng khác.
-Phiên bản mới được tung ra hơn 3 tháng sau Version 2.6.11 và là lần phát hành đầu tiên kể từ khi Torvald chuyển sang một hệ thống quản lý mã nguồn lõi khác - một động thái được coi là làm chậm quá trình phát triển. Lõi 2.6 được công bố cuối năm 2003, nối tiếp lõi 2.4 và đem tới một loạt cải tiến dành cho các doanh nghiệp lớn.
-Bản Linux 2.6.12 có một driver cho các chip TPM như được dùng trong một số máy tính xách tay của IBM. TPM được thiết kế dưới dạng công cụ phần cứng bảo vệ những dữ liệu quan trọng như password. 
-Một số cải tiến khác liên quan đến IPv6, SELinux, tính năng Software Suspend và công cụ định vị thiết bị Mapper. Một tính năng gọi là tùy biến ngẫu nhiên vùng địa chỉ Address Space Randomization cũng đã được thiết kế để phong tỏa ảnh hưởng của virus. Một số driver khác, liên quan đến thiết bị USB, mạng và chip tiếng, cũng đã được nâng cấp nhiều. Các hệ thống file CIFS, JFS và XFS đều được điều chỉnh.
-

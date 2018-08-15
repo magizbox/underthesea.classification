@@ -1,7 +1,0 @@
-Ngân sách cho RFID tăng lên 3 tỷ vào 2010
-Hãng nghiên cứu Gartner khẳng định công nghệ RFID (radio frequency identification - xác nhận tần sóng) đang phát triển mạnh và sẽ bổ sung, chứ không thay thế, cho hệ thống mã vạch phổ biến hiện nay.
-Theo Gartner, ngân sách toàn cầu cho công nghệ kiểm tra không dây mới nổi này sẽ đạt 504 triệu USD năm nay, tăng gần 3 lần so với 2004. RFID sẽ bắt đầu phổ biến rộng từ 2007 và chi phí đầu tư đạt 3 tỷ vào cuối thập kỷ này.
-RFID được đánh giá là một phương pháp ưu việt để theo dõi giao dịch trong các gian hàng và đại lý bán lẻ. Quét chip chứa dữ liệu lên sản phẩm sẽ cho phép quá trình kiểm kê diễn ra nhanh gọn và trật tự, trong khi khách hàng đảm bảo họ sẽ không mua phải hàng giả.
-Ở Mississippi (Mỹ), công nghệ này còn được sử dụng để xác định nạn nhân trong cơn bão Katrina. Trong tương lai, nó còn trở thành phương tiện lưu lại thông tin cá nhân và được cấy dưới lớp da. Bộ Quốc phòng Mỹ gần đây cũng yêu cầu các đơn vị cung cấp quân trang và những vật dụng cá nhân phải cài RFID vào trong hàng hóa
-Nếu mã vạch tỏ ra hiệu quả hơn trong việc thống kê dữ liệu ở những khu vực như cửa hàng, nhà kho lớn, công nghệ RFID lại rất hữu ích khi quản lý thông tin về tài sản di động và tại những khu vực như bệnh viện, gian hàng bán lẻ...
-

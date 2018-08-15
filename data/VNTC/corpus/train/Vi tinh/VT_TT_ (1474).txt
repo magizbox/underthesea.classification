@@ -1,4 +1,0 @@
- “Thi vị hóa” môi trường tán gẫu trong Yahoo! Messenger
-Đáng chú ý nhất trong số này là IMVironment có tên gọi Chess được cung cấp tại http://messenger.yahoo.com/messenger/imv/index5.html . Nó không chỉ đơn thuần là một cảnh nền cho cửa sổ tán gẫu hiện hành mà còn cho phép hai người đang chat với nhau có thể thi đấu cờ vua. Điều này quả thật tuyệt vời vì sẽ giúp bạn tranh thủ được những khoảng thời gian phải ngồi “chầu chực” để gửi tin cho nhau. Sau khi được tải xong, một cửa sổ sẽ xuất hiện. Bạn hãy nhập vào nick trong Yahoo của người cần chat ở mục To để bắt đầu chơi cờ. Tuy nhiên, bàn cờ vua này chỉ được kích hoạt khi cả hai người đang online mà thôi. 
-Một số IMVironment còn lại cũng rất độc đáo như Yahoo! Photos (sử dụng ảnh của chính mình để làm cảnh nền), Purina Dogs (nuôi chó ảo), Fishtank (bể cá ảo), Jeep (thám hiểm sa mạc bằng xe jeep)... 
-

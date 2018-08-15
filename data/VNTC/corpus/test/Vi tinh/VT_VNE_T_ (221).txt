@@ -1,5 +1,0 @@
-Trò chơi cờ vua Grandmaster Chess
-Tôi đã download trò chơi về cho cậu con trai lớp 4 tập luyện. Sau vài tuần, nó đánh bại luôn cả bố mình, Cathy S., một người chơi, nhận xét về Grandmaster Chess.
-Nhìn chung, Grandmaster Chess có đầy đủ những tính năng cơ bản của môn cờ vua. Điểm mạnh của nó là đồ họa 2D và 3D rất đẹp, cho phép quan sát thế trận từ góc nhìn của mình hay đối thủ. Cách chơi khá đơn giản, với việc nhấc và đặt các quân cờ. Nhưng để chiến thắng máy tính thì lại là cả một vấn đề. Bù lại, game cho phép bạn hoãn một vài nước đi sai.
-Phiên bản miễn phí của trò chơi có giá trị trong 15 ngày, dung lượng 2,56 Mb, download tại đây.
-

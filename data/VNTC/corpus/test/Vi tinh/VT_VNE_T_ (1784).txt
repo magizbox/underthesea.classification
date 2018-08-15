@@ -1,6 +1,0 @@
-Xem phim định dang .wmv trên Internet (1)
-Kính thưa các bạn, máy tôi đã cài đặt Windows Media 10, RealOne 10.5, ... và một số phần mềm media xem phim online khác, Nhưng chỉ xem được trên một số trang website (vietnamnet.tv, ...), Nhưng khi tôi mở trang web có định dạng file là .wmv thì không xem được. Trong khi đó một số máy tính khác cùng phòng thì xem được bằng Windows Media. Mong các bạn chỉ bảo cho tôi được biết. Xin chân thành cám ơn nhiều.
-LÊ THANH BÌNH
-Hồi âm:
-Ban hay mo wmp 10 nhap chuot toolsoptionsfile typesselect allapplyok. muon chon wmp la mac dinh (default) ban hay vao startcontrol paneladd  removenhap chuot set program access and defaultmo rong phan customtim xuong phan choose a default media playerdanh dau o khung use my current media playerdanh dau o khung enable access to this programok.....nho coi bo nhung dau enable access to this program cua nhung ct khac.
-

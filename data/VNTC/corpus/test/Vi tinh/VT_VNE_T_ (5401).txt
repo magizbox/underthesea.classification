@@ -1,7 +1,0 @@
-Lỗi Windows nghiêm trọng đang bị khai thác
-Microsoft vừa đưa ra cảnh báo về một lỗ hổng chưa được vá trong hệ điều hành và đang bị tội phạm trực tuyến lợi dụng để tấn công máy tính của người sử dụng.
-Hacker khai thác lỗ hổng trong cách Windows quản lý định dạng file đồ họa có đuôi .wmf. Một ảnh .wmf chứa mã nguy hiểm được cài bị phát tán qua qua thư rác sẽ cho phép hacker xử lý mã ngay trên hệ thống của nạn nhân. Sau đó, chúng có thể cài phần mềm gián điệp hoặc thu nạp máy tính vào mạng PC bị khống chế (zombie) để tấn công từ chối dịch vụ về sau.
-Microsoft vẫn đang nghiên cứu vấn đề và miếng vá có thể sẽ chỉ ra mắt trong bản tin an ninh tháng 1 tới.
-Hãng bảo mật Đan Mạch Secunia đã đánh giá lỗi này ở mức "vô cùng nguy hiểm". Công ty diệt virus F-Secure cũng khẳng định họ đã chứng kiến ít nhất 3 sâu máy tính khác nhau mà hãng đặt tên là PFV.Exploit.A, .B và .C đang cố khai thác lỗ hổng. 
-Tổ chức bảo mật máy tính Mỹ US-CERT đã công bố một số biện pháp phòng ngừa nhưng khuyến cáo rằng nguy cơ sẽ không thể bị dẹp bỏ cho đến khi Microsoft phát hành bản vá.
-

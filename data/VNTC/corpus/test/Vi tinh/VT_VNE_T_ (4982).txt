@@ -1,7 +1,0 @@
-Điện thoại di động VoIP hiện nay không đạt tiêu chuẩn
-Một số nhà sản xuất đã bắt đầu triển khai công nghệVoIP trên thiết bị cầm tay. Tuy nhiên, Nokia cho rằng tính năng của sản phẩm di động vào thời điểm này không phù hợp để thực hiện cuộc gọi Internet.
-Những đợt thử nghiệm của hãng điện thoại Phần Lan gần đây cho thấy chất lượng cuộc gọi VoIP trên điện thoại di động rất thấp. "Chúng tôi đã kiểm tra dịch vụ Skype và thấy khả năng đàm thoại kém hơn hẳn bình thường", Olli-Pekka Lintula, Giám đốc thị trường nền tảng công nghệ của Nokia, cho biết. "Điện thoại cầm tay hiện chỉ được tối ưu hóa cho đàm thoại trong mạng di động. Do vậy, sử dụng VoIP thông qua những sản phẩm mobile theo công nghệ và thiết kế sẵn có không phải là một quyết định khôn ngoan".
-Lintula cũng cảnh báo rằng mạng không dây trong hầu hết các văn phòng chưa đủ sức để có thể triển khai điện thoại Internet tầm rộng.
-Nokia dự đoán trong tương lai, khối lượng đàm thoại VoIP sẽ rất lớn và lấy đi một phần doanh thu không nhỏ của nhà cung cấp dịch vụ cố định. Người tiêu dùng với đường truyền DSL cũng đang bắt đầu chuyển sang VoIP.
-Về lâu dài, không chỉ các hãng truyền thông cố định mà cả di động cũng sẽ dao động mạnh trước điện thoại Internet. Nokia tiết lộ họ sẽ bắt đầu phát hành điện thoại di động VoIP kiểu mới vào năm 2006.
-

@@ -1,8 +1,0 @@
- Chàng kỹ sư xây dựng và con robot "thám hiểm" cống ngầm
-Sau hai năm mất ăn mất ngủ, đầu tư toàn bộ tiền lương kiếm được (trên 100 triệu đồng) để mua thiết bị và trả tiền công hàn xì cho ông thợ tiện hàng xóm, anh Hưng cho trình làng con robot có sáu bánh xe nặng gần 30 kg. 
-Ngay lần đầu xuất quân, con robot của anh đã phát hiện ra đường cống chính 700 mm có một đoạn bị vỡ sụt, có nguy cơ làm tắc nghẽn cả hệ thống. 
-Ông giám đốc dự án người Mỹ đã không tiếc lời khen ngợi con robot và ông chủ thông minh của nó và đề nghị anh Hưng nghiên cứu thu nhỏ kích thước để con robot có thể kiểm tra được toàn bộ hệ thống cống ngầm, trong đó có trên 60 km ống nhỏ từ 150 đến 250 mm. 
-Được sự giúp đỡ của em trai là thợ kim hoàn kiêm thợ sửa xe máy, anh Hưng đã thu nhỏ được nhiều chi tiết của robot. Phiên bản "robot 4.0" mới nhất của anh Hưng có thể chui và kiểm tra đường ống có kích thước 150mm. Trong trường hợp vướng chướng ngại vật bị lật úp hoặc lật ngang nó vẫn chạy bình thường. Nó có thể mang theo đường ống dẫn nước áp lực cao để thông tắc cống trong trường hợp cần thiết. Hình ảnh ghi lại có độ nét cao, dễ dàng để người điều khiển phân tích và đánh giá thực trạng của từng đoạn cống ngầm. 
-Khi chưa có robot của anh Hưng, để kiểm tra gần 100km cống ngầm chạy khắp các tuyến đường của TP Buôn Ma Thuột, dự án tốn gần 3 tỷ đồng mỗi năm. Trong khi đó, robot của anh Hưng dễ dàng lùng sục khắp các ngóc ngách của hệ thống cống ngầm mà chỉ cần tốn tiền lương cho một người điều khiển. 
-Nhiều tỉnh thành khác nghe tin anh Hưng chế tạo được robot đã háo hức đến xem, đặt hàng. Anh tự tin cho biết, giờ đây, chỉ với 100 triệu đồng, anh có thể chế tạo ba con robot kiểm tra hệ thống cống ngầm cho các đơn vị có nhu cầu. 
-

@@ -1,7 +1,0 @@
-Fujitsu ra mắt chip Sparc64 thế hệ 5
-Hãng Fujitsu Computer System thông báo quý IV năm nay, họ sẽ đưa ra thị trường phiên bản 5 của bộ vi xử lý Sparc64. Với công nghệ hoàn thiện hơn, sản phẩm đạt tốc độ xử lý nhanh hơn phiên bản trước tới 35%.
-Dựa trên công nghệ 90 nanomet nhằm đưa thêm nhiều vi mạch vào trên cùng một miếng silicon, giúp tăng khả năng vận hành của chip, Sparc64 thế hệ 5 có bộ nhớ đệm Level 2 dung lượng 3 MB, tăng 54% tốc độ xung nhịp, lên tới 1,89 GHz. Ba bổ sung về công nghệ này giúp sản phẩm đạt bước tiến vượt bậc về tốc độ xử lý so với thế hệ chip trước nó, với khả năng tính toán 633.133 phép tính mỗi giây.
-Fujitsu dự kiến sử dụng loại chip mới trong các model máy chủ Primepower 650, 850, 900 và 1500. Chip 90 nanomet cũng có thể được phối hợp với những thế hệ chip Sparc64 trước đây trong cùng một hệ thống với các model Primepower 900, 1500 và 2500. 
-Trong năm 2005, hãng sẽ tiếp tục tung ra một phiên bản 5 khác của Sparc64, có tốc độ đồng hồ 2,26 GHz. 
-Fujitsu đang hợp tác chặt chẽ với Sun Microsystems để thúc đẩy sự phát triển của máy chủ thế hệ mới sử dụng chip Sparc. Hai công ty sẽ hợp nhất các sản phẩm máy chủ Solaris/Sparc của họ vào năm 2006 để tạo ra dòng máy mới Advanced Product Line (APL). Khi liên doanh hoàn tất, APL sẽ thay thế các sản phẩm Sun Fire của Sun và Primepower của Fujitsu.
-

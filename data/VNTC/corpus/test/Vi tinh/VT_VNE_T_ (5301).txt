@@ -1,7 +1,0 @@
-Virus thiết bị di động tăng nhanh gấp 10 so với trên PC
-Chương trình nguy hiểm trong những năm tới sẽ gây nhiều thiệt hại lớn cho các thiết bị di động bởi rất ít người sử dụng loại sản phẩm này cài phần mềm bảo vệ hệ thống.
-Theo hãng bảo mật Mỹ McAfee, virus phá hoại thiết bị di động đã bắt đầu xuất hiện từ năm ngoái và đang phát triển mạnh. Chỉ trong vòng 1 năm qua, chúng đã đạt tỷ lệ tăng trưởng gấp 10 lần so với phần mềm chứa mã độc trên máy tính. Chúng cũng tỏ ra rất nguy hiểm nhờ khả năng lây lan nhanh, chủ yếu do phần mềm diệt virus trên thiết bị di động chưa được sử dụng rộng rãi như trong máy tính.
-McAfee cũng mang đến tin không mấy tốt lành cho người sử dụng PC năm 2006 khi khẳng định rằng các chương trình không mong đợi (PUP), trong đó có spywarevà phần mềm quảng cáo, cũng như những cuộc tấn công phishing qua Trojan đã tăng 40% năm nay và sẽ tiếp tục duy trì tốc độ vào năm tới.
-Những kẻ lừa đảo trực tuyến sẽ "sáng tạo" hơn và tập trung khai thác lòng hảo tâm của người dùng như chúng từng thực hiện sau bão Katrina ở Mỹ. Đồng thời, chúng cũng thu hẹp đối tượng tấn công để mang lại hiệu quả cao nhất.
-Một số dịch vụ trực tuyến nổi tiếng như eBay và Amazone.com cũng nằm trong tầm ngắm của những kẻ chuyên ăn cắp thông tin nhạy cảm để thực hiện giao dịch giả.
-

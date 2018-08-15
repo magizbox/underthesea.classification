@@ -1,7 +1,0 @@
-Đẩy nhanh thử nghiệm kết nối nhắn tin giữa SPT với VNPT
-Bộ Bưu chính Viễn thông vừa có công văn yêu cầu Tổng công ty bưu chính viễn thông VN (VNPT) và Sài Gòn Postel (SPT) giải quyết dứt điểm việc kết nối thử nghiệm dịch vụ nhắn tin trước ngày 25/4.
-Theo công văn trên, VNPT và SPT cần chuẩn bị tốt các điều kiện cần thiết cho việc kết nối thử nghiệm, kể cả phương án mời chuyên gia nước ngoài cùng tham gia. Bộ Bưu chính Viễn thông sẽ cử cán bộ tham gia cùng nhóm thử nghiệm để hỗ trợ và giám sát quá trình kết nối dịch vụ nhắn tin. Trong trường hợp thử nghiệm nếu không thực hiện được, VNPT và SPT phải làm báo cáo gửi Bộ, chỉ rõ nguyên nhân và đề xuất hướng xử lý trước 30/4.
-Trước đó, ngày 25/3, SPT đã có công văn đề nghị Bộ yêu cầu thúc đẩy nhanh quá trình thử nghiệm kết nối nhắn tin. 
-Theo lời một đại diện của S-Fone, việc kết nối nhắn tin giữa S-Fone và Mobile Fone đã được thử nghiệm ở TP HCM nhưng kết quả chưa được như mong muốn vì hai bên còn nhiều vướng mắc. 
-S-Fone cho biết, sẵn sàng chuẩn bị mọi điều kiện để thực hiện kết nối nhắn tin. Tuy nhiên, VNPT cho rằng do sử dụng công nghệ khác nhau: CDMA và GSM, nên kỹ thuật của các mạng không tương thích, cản trở việc nhắn tin.
-

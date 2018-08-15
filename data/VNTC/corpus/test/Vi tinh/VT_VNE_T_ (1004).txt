@@ -1,8 +1,0 @@
-Tìm phần mềm đo dung lượng thông tin (2)
-Hiện nay tôi đang dùng dịch vụ internet ADSL của VNN, đối với dịch vụ quay số thì lấy thời gian truy cập để tính cước, cho nên người dùng có để đối soát cước được, tuy không chính xác lắm nhưng cũng có cơ sở để so sánh, nhưng đối với dịch vụ ADSL thì tính tiền dựa vào số lương thông tin tính theo MB đã tải xuống và tải lên của Modem để tính tiền, thế nhưng bưu điện chỉ cho biết tổng tiền phải trả, mà không còn cho khách hàng biết là đã dùng bao nhiêu MB , vậy khách hàng dựa vào đâu để kiểm tra xem số tiền mà bưu điện thu là đúng hay sai ? liệu có một phần mềm nào để cung cấp cho khách hàng để đo được dung lượng thông tin mà Modem đã tải lên và tải xuống để khách hàng có thể so sánh không ? chứ tôi thấy kiểu thu tiền này thật là không rõ ràng chút nào cả, Giả sử như bưu điện có điều chỉnh số tiền đó lên thì khách hàng cũng chẳng thể biết được, vậy mong ban vi tính can thiệp với VDC - là công ty cung cấp dịch vụ này cho khách hàng , để khách hàng khỏi phải nghi ngờ !
-Xuan Vinh
-Hồi âm:
-Ban Xuan Vinh than men. Hien tai tren thi truong co rat nhieu loai phan mem de do thong luong qua cac nut mang, tuy nhien, voi yeu cau cua ban thi theo toi ban nen dung phan mem DU Metter 3.0 cua hang Hagel Technologies. Day la mot phan mem rat de su dung, co bao cao day du ve dung luong ma ban su dung hang ngay, hang thang...
-Hieu
-Bạn có thể tham khảo ở 2 địa chỉ này:www.dumeter.comwww.netlimiter.com 
-

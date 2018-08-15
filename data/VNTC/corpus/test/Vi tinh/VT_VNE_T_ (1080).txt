@@ -1,9 +1,0 @@
-Duyệt web bằng tab với MyIE2
-Kiểu duyệt web thông thường có nhiều bất tiện như chiếm tài nguyên, không gian taskbar và đòi hỏi người dùng thực hiện nhiều tác vụ thủ công. Phần mềm miễn phí MyIE2 sẽ giúp bạn loại bỏ những bất tiện ấy.
-Tất cả các trang web bạn mở ra sẽ được sắp xếp gọn ghẽ trong cửa sổ chính của MyIE2. Như bạn thấy trong ảnh đính kèm, các trang web được gắn thẻ (tab) để tiện duyệt và có thể được đặt ở đỉnh hoặc đáy cửa sổ. 
-Chức năng Mouse Gestures cho phép bạn sử dụng chuột để ra lệnh cho MyIE một cách dễ dàng. Giữ chìm chuột phải và vẽ trong cửa sổ những ký hiệu đơn giản quy ước trước, bạn sẽ thực hiện nhiều chức năng khác nhau. Mới đầu, bạn có thể thấy khá phức tạp nhưng khi đã quen, bạn sẽ thấy nó cực kỳ thuận tiện.
-MyIE2 có chức năng Super DragDrop thật độc đáo, giúp bạn mở các liên kết một cách dễ dàng bằng thao tác kéo - thả. Bạn cũng có thể kéo - thả những chữ hoặc đoạn văn bản đã đánh dấu để tìm kiếm bằng công cụ mặc định hoặc mở ra tab mới. Nếu cùng lúc giữ chìm phím Ctrl, bạn có thể kéo - thả bất cứ nội dung nào vào trang (văn bản hoặc hình ảnh) và nó sẽ được lưu tự động vào thư mục định trước.
-MyIE2 bảo vệ sự riêng tư của bạn bằng cách xóa các thông tin cá nhân như history, cookies, cache... chỉ với một cú bấm chuột. Thậm chí bạn còn có thể thiết lập cho MyIE2 tự xóa bỏ những thông tin đó một cách tự động khi đóng chương trình. 
-Plug in AD Hunter kết hợp một số chức năng chống quảng cáo sẽ giúp bạn loại bỏ tất cả các loại quảng cáo, từ pop-up tới flash, gif và floating. Bạn có thể chọnAuto Filter để chặn pop up hay tự thiết lập "Filter List" để tác vụ được thực hiện chính xác với nhiều tùy biến hơn. Bạn cũng có thể thiết lập một "danh sách trắng" để một số địa chỉ không bị chặn...
-Rất nhiều tiện ích đang chờ bạn khám phá trong một phần mềm nhỏ gọn và hoàn toàn miễn phí, MyIE2 có dung lượng 3,2 MB, có thể tải tại đây.
-

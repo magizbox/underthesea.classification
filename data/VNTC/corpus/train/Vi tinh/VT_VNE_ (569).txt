@@ -1,6 +1,0 @@
-Máy in ảo trong WinXP (1)
-Xin chỉ giùm tôi cách cài máy in ảo trong WinXP, trên thực tế mình không có máy in thực, tôi đã thử add một trong các máy in mà trước nay Windown vẫn hỗ trợ nhưng không được vi khi kiểm tra thì mình không có máy in và Win không cho chạy. Thành thật cảm ơn nhiều.
-Nguyễn Thanh Hùng
-Hồi âm:
-Máy in ảo hoặt động như một máy in thật nhưng nó không in (vì đâu có máy in) thay vào đó nó tạo ra một file PDF được đọc bởi Acrobat reader của Adobe .Nội dung file được xát định như lúc in trên máy in thật ra giấy .File được đọc bởi Acrobat rất thuận tiện cho người đọc như lúc xem trên giấy.Chúng ta có thể cài một vài chương trình như Fire print để tạo một máy in ảo .(không phải cài Drive cho máy in).Cách cài các chương trình này rất đơn giản. 
-

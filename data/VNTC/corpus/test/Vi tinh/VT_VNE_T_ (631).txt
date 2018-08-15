@@ -1,6 +1,0 @@
-Lỗi khi in (1)
-Xin các anh chị chỉ bảo cho cách khắc phục lỗi khi in. Không hiểu tại sao máy in của tôi khi in tài liệu thì luôn in kèm một tờ đề tên file và các số liệu liên quan đến file giữ liệu. Để khắc phục hiện tượng này tôi phải xử lý thế nào ? Xin chân thành cám ơn!
-Thanh Nam
-Hồi âm:
-Trong MS Word, nhấn Tools chọn Options, vào tab Print. Trong phần Include with document xóa dấu chọn trước Document properties. Nhấn OK là xong.
-

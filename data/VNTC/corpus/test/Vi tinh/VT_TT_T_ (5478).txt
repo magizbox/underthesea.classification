@@ -1,8 +1,0 @@
- Digital Camera Enhancer - tạo nên sự khác biệt màu sắc
-Đây là một chương trình thực sự hữu ích, nhỏ gọn, dễ sử dụng, tương thích mọi Windows, tải miễn phí tại http://www.snapfiles.com/get/dcenhancer.html (dung lượng 557KB). 
-Cách sử dụng: 
-- Sau khi cài đặt bạn mở chương trình ra, mặc định đường dẫn sẽ là Start &gt; Programs &gt; mediachance &gt; DCEnhancer &gt; DCEnhancer. Giao diện của chương trình có dạng như hình trên. 
-- Để bắt đầu quá trình chỉnh sửa hình ảnh, bạn nhấn nút Load mở ảnh cần xử lý, sau đó duyệt đến thư mục chứa hình ảnh cần xử lý. Đến đây, bạn không cần phải thao tác thêm gì cả vì chương trình đã tự động hiệu chỉnh màu sắc, chống nhiễu và tạo độ mịn trên bức ảnh một cách tự động. 
-Tuy nhiên, nếu cảm thấy chưa vừa ý với những gì mà chương trình đã làm, bạn có thể chỉnh sửa hình ảnh bằng cách dùng chuột nắm, kéo 4 thanh trượt màu lần lượt là Auto Balance, Color, Midtones, Enh.Details. Ngoài ra, bạn có thể kéo thanh trượt De Noiser để giảm nhiễu trên các bức ảnh hoặc chọn 3 cách hiển thị hình ảnh Landscape (chụp xa), Mid Details (chụp giữa), Close-up (chụp cận cảnh). 
-Khi đã hiệu chỉnh ưng ý, bạn nhấn nút Save và duyệt đến thư mục để lưu ảnh. 
-

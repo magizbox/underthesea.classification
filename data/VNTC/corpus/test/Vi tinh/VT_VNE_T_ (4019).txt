@@ -1,6 +1,0 @@
-PC chống bụi, sâu bọ và không cần đường điện thoại
-Tại Diễn đàn phát triển Intel (IDF) ở San Francisco (Mỹ) hôm qua, hãng sản xuất chip số 1 thế giới trình diễn một mẫu máy tính chịu đựng  được điều kiện thời tiết khắc nghiệt, điện lưới bị gián đoạn và côn trùng, đồng thời có thể truy cập Internet mà không cần dây dẫn. 
-Được thiết kế với mục đích giải quyết tốt nhất nhu cầu công nghệ trong những điều kiện đặc thù về vị trí địa lý tại tất cả các khu vực trên thế giới, sản phẩm có tên gọi Máy tính Cộng đồng mang ý nghĩa đem khả năng truy cập Internet tới cho tất cả dân cư và làng xã tại các khu vực nông thôn, vùng xa xôi hẻo lánh. 
-Nhờ sử dụng hệ thống ắc quy của xe ôtô, chiếc PC này sẽ có nguồn điện năng dự trữ trong trường hợp điện lưới không ổn định. Máy có màn hình mang một bộ lọc đặc biệt nhằm giảm số lượng bụi và sâu bọ vốn có thể chui vào thùng máy, gây ra trục trặc. 
-Máy tính Cộng đồng có thể chịu được nhiệt độ môi trường vượt quá 38 độ C, kết nối Internet thông qua một mạng không dây WiMAX (công nghệ băng thông rộng không dây cho phép truy cập Internet tốc độ cao với khoảng cách xa hàng chục km).
-

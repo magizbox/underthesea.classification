@@ -1,6 +1,0 @@
-'Mắt điện tử' giúp người mù qua đường
-Di chuyển là một trong những khó khăn của người khiếm thị, đặc biệt là khi băng qua những đường phố xe cộ đông đúc. Phát minh mới của Viện công nghệ Kyoto (Nhật Bản) vừa được giới thiệu ở Anh sẻ giúp giải quyết vấn đề đó.
-Các nhà nghiên cứu đã sử dụng một con mắt điện tử được kết nối với một máy tính nhằm xác định vị trí dành cho người đi bộ và quan sát đèn tín hiệu giao thông giúp người mù có thể băng qua đường một cách an toàn hơn.
-"Camera được đặt ngang tầm mắt và nối với một máy tính nhỏ và được hỗ trợ bởi hệ thống thu âm để tiếp nhận thông tin, đưa ra các chỉ dẫn bằng âm thanh qua một loa nhỏ gắn ở gần tai người sử dụng", giáo sư Tadayoshi Shioyama, một trong những người tham gia thiết kế hệ thống trên, cho biết. "Camera có thể cung cấp thông tin cần thiết tại một thời điểm bất kì để giúp người qua đường một cách an toàn. Đó là lý do tại sao phát minh này được xem là một bước đột phá". 
-Trong quá trình kiểm tra hệ thống, các nhà khoa học đã thành công trong việc xác định chính xác vị trí trong 194 trên tổng số 196 lần thử nghiệm. Trong 2 lần sai sót đó, 1 lần người tham gia thử nghiệm đã băng qua đường trong khi không được cung cấp đầy đủ và chính xác các thông tin cần thiết. Nhóm nghiên cứu đang cố gắng khắc phục sai sót và gắn thiết bị nói trên vào mắt kính để người khiếm thị có thể đeo một cách bình thường.
-

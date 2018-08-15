@@ -1,5 +1,0 @@
-Phần mềm diệt quảng cáo pop-up mới
-Một trong những sự khó chịu nhất đối với người truy cập Internet là các mục quảng cáo xuất hiện xen ngang màn hình. Hiện nay, có rất nhiều chương trình giúp người duyệt web giải quyết điều này. Công cụ Pop-Up Stopper v3.1.101 là một ví dụ.
-Chương trình khống chế không cho những cửa sổ mang thông điệp quảng cáo nhảy ra trên màn hình của bạn. Phiên bản này sử dụng công nghệ phong tỏa quảng cáo mới, với một giao diện đã nâng cấp, cùng những lựa chọn về âm thanh và hình ảnh để hiển thị mỗi khi chương trình thông báo cho bạn nó đã phong tỏa xong một mục quảng cáo. 
-Pop-Up Stopper còn cho phép bạn tắt nhanh tính năng ngăn chặn bằng cách click đúp vào biểu tượng trên hệ thống hoặc ấn Shift hay Ctrl khi đi theo một đường link mới. Đây là một phần mềm đơn giản và dễ dùng. Để tải miễn phí Pop-Up Stopper v3.1.101, bấm vào đây.
-

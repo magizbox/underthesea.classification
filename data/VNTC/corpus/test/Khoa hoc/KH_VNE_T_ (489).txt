@@ -1,5 +1,0 @@
-Nuvo - robot dành cho gia đình
-Cuối cùng đã có giải pháp cho trường hợp quên khoá vòi nước hay để cửa sổ mở trước khi đi làm. Người máy Nuvo đã được trao danh hiệu robot hình người đầu tiên có thể phản ứng với giọng nói phát ra từ một điều khiển từ xa.
-Dài 39 cm và nặng 2,5 kg, Nuvo có thể đi lại, đứng dậy và làm theo những mệnh lệnh đơn giản. Nó kết nối với điện thoại di động để mọi người có thể kiểm tra ngôi nhà của mình thông qua một camera kỹ thuật số gắn trên đầu robot. Nuvo được điều khiển bằng một thiết bị từ xa và được lập trình để có thể nhảy và tạo ra âm nhạc.
-Hiện Nuvo được bán tại Nhật Bản với giá khoảng 5.500 USD. Nhà sản xuất đang dự định tung ra 2.300 con.
-

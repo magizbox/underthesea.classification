@@ -1,8 +1,0 @@
-Hỏi về Excel (1)
-Tôi có một vấn đề muốn nhờ giúp đỡ giải quyết: Trong Excel XP muốn gán một macro do tôi tạo cho một cell (ví dụ : A2), để sau khi chỉnh sửa (hoặc nhập mới) nội dung vào cell A2 thì sau khi enter thì macro sẽ được thực hiện. Rất mong nhận được sự giúp đỡ. Xin chân thành cảm ơn. Kính chào.
-Nguyễn Văn Minh.
-Hồi âm:
-Bạn Minh thân mến. Có rất nhiều cách để gán 1 macro cho 1 ô. Đây là một cách đơn giản sử dụng Visual Basic trong Excel.Giả sử macro bạn tạo có tên là MyMacro, và ô bạn muốn gán macro này vào là B2. Tất cả bạn cần làm là gán việc thực hiện macro MyMacro cho biến cố (event) Change của cái worksheet bạn đang làm việc. Khi có sự thay đổi của bất kỳ ô nào trong worksheet, biến cố Change sẽ được gọi. Bạn chỉ cần tạo một lệnh If.. Then... Else để chỉ cho thực hiện MyMacro khi đang ở trong ô B2 mà thôi.Cách làm-Nhấn Alt-F11 để gọi Visual Basic Editor.Trong cửa sổ nhỏ Project-VBAProject, click vào Microsoft Excel Objects, một danh sách những worksheet sẽ hiện ra. Double click vào cái sheet bạn đang làm việc, một cửa sổ Book1-Sheet1(Code) hiện ra. Chọn Worksheet dưới General, và chọn Change cho bên phải. Nhập vào dòng lệnh If như sau:
-Private Sub Worksheet_Change(ByVal Target As Range) If Target.Address = "$B$2" Then MyMacroEnd Sub
-Trở lại bảng tính để thử và Save lại. Chúc bạn thành công. 
-

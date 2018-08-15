@@ -1,7 +1,0 @@
-Công cụ diệt sâu Zotob được phát hành
-Tập đoàn phần mềm có trụ sở tại Redmond, Washington (Mỹ) vừa tung ra phần mềm miễn phí hỗ trợ nạn nhân của những vụ tấn công gây trục trặc máy tínhdo một loạt biến thể sâu mới bắt đầu xảy ra từ cuối tuần trước.
-Chương trình này có khả năng kiểm tra và diệt virus từ Zotob.A đến Zotob.E, cũng như Bobax.O, Esbot.A, Rbot.MA, Rbot.MB và Rbot.MC.
-Đây là phiên bản nâng cấp 1.7.1 cho công cụ xoá mã nguy hiểm Windows Malicious Software Removal Tool của Microsoft. "Sau khi người sử dụng khởi động, chương trình sẽ đưa ra thông báo nếu hệ thống bị nhiễm và quét sạch virus khỏi PC", Debby Fry Wilson, một giám đốc trong Trung tâm hỗ trợ bảo mật Microsoft, cho biết.
-Hãng phần mềm Mỹ thường giới thiệu bản nâng cấp của công cụ diệt virus cùng thời gian với bản tin bảo mật hàng tháng. Phiên bản mới 1.7.1 có thể hoạt động trực tuyến trên trang web của họ hoặc tải từ Microsoft Download Centre.
-"Chúng tôi sẽ tiếp tục nghiên cứu tất cả các thông báo về biến thể sâu mới và sẽ nâng cấp công cụ nhằm đáp ứng nhu cầu người sử dụng", một đại diện của Microsoft hứa hẹn. Tuy nhiên, hãng vẫn đánh giá đợt tấn công những ngày qua ở mức độ "trung bình".
-

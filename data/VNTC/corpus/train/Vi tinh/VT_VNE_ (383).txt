@@ -1,6 +1,0 @@
-Hacker chui vào một số điện thoại Nokia
-Hãng điện thoại Phần Lan vừa thừa nhận, một số máy cầm tay theo chuẩn không dây Bluetooth của họ có lỗ hổng bảo mật, cho phép hacker truy xuất thông tin của nạn nhân. Các mẫu máy gồm 6310, 6310i, 8910 và 8910i.
-Việc tận dụng lỗ hổng trên đã khai sinh một từ lóng kỹ thuật mới: Bluesnarfing. Với thủ thuật này, hacker kết nối với thiết bị mà chủ nhân của nó không hề hay biết. Từ đó, chúng có thể chui vào danh bạ, lịch, e-mail, thậm chí số IMEI điện thoại.
-Hiện chưa có bản vá lỗi nào khắc phục triệt để khiếm khuyết, Keith Nowak, phát ngôn viên của Nokia, thừa nhận. Nhưng nếu bạn không muốn chia sẻ thông tin cho người lạ, và nếu bạn đang ở một nơi có nhiều thiết bị Bluetooth, chẳng hạn như triển lãm công nghệ, bạn nên tắt thiết bị của mình đi, ông khuyên khách hàng.
-Nowak cũng lưu ý cả bốn mẫu máy trên đều là đời cũ, và các kiểu máy mới của Nokia chưa thấy có vấn đề gì.
-

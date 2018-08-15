@@ -1,7 +1,0 @@
- Google tăng cường tuyển nhân tài bằng các cuộc thi có thưởng Trong chiến dịch “săn lùng” những lập trình viên giỏi nhất, hãng dịch vụ tìm kiếm trực tuyến tổ chức cuộc thi mang tên Code Jam tại khu vực châu Âu. 
-Thí sinh sẽ phải chinh phục những thách thức mã hóa phức tạp nhất để đoạt phần thưởng tương đương 4.500 USD và trở thành nhân viên của nhà tổ chức. 
-Trong cuộc thi sử dụng ngôn ngữ C++, C# và Java này, các đấu thủ sẽ đấu loại trực tuyến để lọt vào Top 500. 
-Sau vòng hai, số thí sinh sẽ chỉ còn 200. 50 “cao thủ” cuối cùng sẽ đến Dublin (Ireland) để dự chung kết. 
-Google hy vọng cuộc thi sẽ cho phép họ tìm ra và thu hút được những tài năng tin học hàng đầu về làm việc cho các trung tâm nghiên cứu phát triển đang ngày càng mở rộng của họ tại châu Âu. 
-“Code Jam là một trong rất nhiều phương cách mà chúng tôi tiến hành để tiếp cận được với những bạn trẻ ham thích lập trình”, Giám đốc công nghệ của Google tại Anh phát biểu. "Đây thực sự là một cách rất thú vị để tuyển người" Việc đăng ký tham gia Code Jam sẽ kéo dài trong ba tuần đầu tháng 5. Chi tiết xem tại www.google.com/codejameurope 
-

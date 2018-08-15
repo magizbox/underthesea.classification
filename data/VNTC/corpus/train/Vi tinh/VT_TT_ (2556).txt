@@ -1,7 +1,0 @@
- Thêm tính năng RSS vào cho Yahoo Mail
-Tính năng RSS trong Yahoo Mail là tính năng hết sức độc đáo, nó luôn đưa ra những thông báo kịp thời khi người dùng nhận được những e-mail mới, tin nhắn trực tuyến hoặc những tin nhắn SMS gửi từ các thiết bị di động. Ngoài ra tính năng RSS cũng đưa ra những thông báo ngay khi hộp thư nhận được các tin tức mới nhất mà người dùng đã đăng ký đọc từ mọi nguồn. 
-Scott Gatz, giám đốc sản phẩm của Yahoo cho biết:”Có đến hàng triệu nguồn tin khác nhau mà người dùng đã từng đăng ký sử dụng trong các sản phẩm dịch vụ của Yahoo như Yahoo News, Yahoo Mobile hoặc My Yahoo… Đến nay người dùng đã có thể đăng ký sử dụng tính năng đọc tin RSS trong Yahoo Mail bằng cách nhập vào địa chỉ các trang web có tính năng đọc tin RSS, sau đó Yahoo sẽ cung cấp kịp thời các cảnh báo về mọi nguồn tin này từ trang web My Yahoo của người dùng”. 
-Trong vòng vài tuần tới, tính năng RSS sẽ được thể hiện bằng một nút đặc trưng cho RSS nằm trong My Yahoo, cho phép mọi người dùng đăng ký các nguồn tin và nhận được mọi thông báo nhận tin kịp thời từ các dịch vụ của Yahoo. 
-Hiện nay Yahoo đang tích hợp tính năng My Yahoo RSS vào Yahoo Mail beta đời mới đang thử nghiệm, cho phép người dùng đọc tất cả mọi nguồn tin mà họ đã đăng kỳ ngay khi mở Yahoo Mail. 
-Khi đã tích hợp thành công, người dùng có thể nhắp vào biểu tượng “All Feeds” ngay trên giao diện của Yahoo Mail để đọc được toàn bộ các nguồn tin mới nhất vừa nhập về từ My Yahoo. 
-

@@ -1,7 +1,0 @@
-Philips xúc tiến màn hình mỏng như giấy
-Hãng điện tử Hà Lan vừa cho biết sẽ bắt đầu phát triển hàng loạt loại màn hiển thị có thể cuộn như tờ báo giấy. Cho đến hiện tại, dự án của họ mới chỉ là những phiên bản thử nghiệm.
-Công nghệ của Philips được kỳ vọng sẽ trở thành giải pháp cơ bản để đáp ứng nhu cầu cơ động hóa kích thước màn hình trong thiết bị di động, chẳng hạn người sử dụng khi cần xem nội dung có thể lôi ra bộ phận màn hình dấu trong điện thoại thông minh hoặc PDA. 
-Kỹ thuật này cũng có thể triển khai dưới dạng báo kỹ thuật số mà khi dùng có thể cuộn lại hoặc cho vào túi. Philips cho biết quy trình hiện tại và những cải tiến mới sẽ cho phép họ sản xuất đại trà trong vòng 2 năm nữa. 
-Hiện nay, loại màn hiển thị thử nghiệm mới nhất có khả năng cuộn lại mang mã hiệu PV-QML5 của Philips đã thu hẹp được tỷ lệ cong, cải thiện tuổi thọ hoạt động và độ tương phản khi xem. Tất cả những cải tiến trên được thực hiện dựa trên phiên bản màn hiển thị cuộn đầu tiên trên thế giới mà Philips giới thiệu một năm trước
-PV-QML5 có kích thước siêu mỏng (100m), dùng kỹ thuật ma trận động QVGA độ phân giải 320 x 240 pixels, cự ly đường chéo 5 inch. Khi không sử dụng, màn hình có thể được cuộn lại với mức cong dưới 7,5 mm. Với 4 cấp độ sáng trên mỗi pixel (gray level), loại màn hình monochrome này cho phép sử dụng như bản giấy với độ tương phản khá cao là 10:1 đối với các ứng dụng có mật độ dữ liệu đọc lớn. Kể cả trong ánh sáng ban ngày, nội dung hiển thị vẫn khá dễ đọc. Philips khẳng định sản phẩm này tiêu thụ một lượng điện năng vô cùng thấp.
-

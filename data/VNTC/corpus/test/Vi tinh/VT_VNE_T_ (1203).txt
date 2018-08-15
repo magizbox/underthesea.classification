@@ -1,5 +1,0 @@
-Tin học hoá quản lý tài nguyên môi trường
-Đến năm 2005, việc tin học hoá hệ thống quản lý hành chính nhà nước về tài nguyên môi trường, phù hợp với tiêu chuẩn chính phủ điện tử, đảm bảo tự động hoá việc thu nhận dữ liệu, sẽ phải được hoàn thành.
-Đây là một trong những nội dung trong chiến lược ứng dụng và phát triển công nghệ thông tin tài nguyên môi trường đến năm 2015 và định hướng đến năm 2020 do Thủ tướng chính phủ phê duyệt vừa được ban hành.
-Chiến lược cũng đặt trọng tâm đến năm 2010 sẽ có 50-100% thiết bị điều tra, khảo sát, quan trắc, đo đạc, của ngành tài nguyên môi trường được chuyển sang công nghệ số. Đến 2015 sẽ hoàn thiện mạng nội bộ tài nguyên, môi trường quốc gia, tạo điều kiện để người dân tiếp cận với thông tin về tài nguyên, môi trường.
-

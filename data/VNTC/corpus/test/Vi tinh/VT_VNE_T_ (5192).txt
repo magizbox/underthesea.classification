@@ -1,6 +1,0 @@
-Tắt máy tính chỉ bằng một lần bấm chuột
-Dịch vụ Brutus, được phát hành miễn phí từ 2/11 với dung lượng 1 MB, cho phép người sử dụng có thể log-off, restart (khởi động lại), và shut down (tắt máy) theo cách mà họ vẫn mong đợi: chỉ cần click chuột một lần duy nhất.
-Brutus hoạt động trên Windows 98 Second Edition, Windows Me, Windows 2000, Windows XP và Windows Server 2003.
-Nếu cài trên Windows XP và Windows 2000, người sử dụng cần đăng nhập bằng tài khoản được cấp quyền quản lý (administrator). Đây không phải là vấn đề với người dùng máy tính ở nhà, nhưng nếu PC thuộc mạng nội bộ trong một công ty, họ sẽ cần hỏi ý kiến quản trị mạng.
-Brutus được cài và gỡ bỏ tương đối đơn giản. Tải Brutus tại đây.
-
