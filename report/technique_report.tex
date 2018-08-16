@@ -37,7 +37,7 @@
 
 \newcommand\BibTeX{B{\sc ib}\TeX}
 
-\title{Vietnamese Text Classification System \\ in underthesea v1.1.7}
+\title{Vietnamese Text Classification System \\ in underthesea v1.1.8}
 
 \author{
 Vu Anh\\
@@ -50,7 +50,8 @@ anhv.ict91@gmail.com
 \begin{document}
 \maketitle
 \begin{abstract}
-In this report, we describe our classification system for Vietnamese, which is integrated in underthesea version 1.1.7
+In this report, we describe our classification system for Vietnamese, which is integrated in underthesea version 1.1.8. Our system is open-source and available at
+\href{https://github.com/undertheseanlp/classification}{https://github.com/undertheseanlp/classification}
 
 \end{abstract}
 
@@ -62,7 +63,7 @@ In recent years, natural language processing and text classification have had a 
 
 \section{System Description}
 
-We takes some experiments in Naive Bayes, SVM ~\cite{Suykens1999}, fasttext models ~\cite{DBLP:journals/corr/JoulinGBM16}.
+We takes some experiments in Logistic Regression, Naive Bayes, SVM ~\cite{Suykens1999}, fasttext models ~\cite{DBLP:journals/corr/JoulinGBM16}.
 
 \subsection{SVM}
 
@@ -70,13 +71,11 @@ SVM algorithm works by creating support vectors that separating two classes in n
 
 \subsection{FastText}
 
-FastText maps each vocabulary to a real-valued  vector, with unknown words having a special vocabulary ID. A document can be represented as the average of all these vectors. Then FastText will train a maximum entropy multi-class classifier  on the vectors and the output labels.
+FastText maps each vocabulary to a real-valued vector, with unknown words having a special vocabulary ID. A document can be represented as the average of all these vectors. Then FastText will train a maximum entropy multi-class classifier  on the vectors and the output labels.
 
 \section{Evaluation}
 
 \subsection{Data sets}
-
-\noindent \textbf{TC201805}: This dataset contains 5000 items in 15 categories
 
 \noindent \textbf{VNTC} ~\cite{DBLP:conf/rivf/HoangDNN07}: A Vietnamese corpus based on the four largest
 circulation Vietnamese online newspapers: VnExpress, TuoiTre Online, Thanh Nien Online, Nguoi Lao Dong Online. The collected texts are automatically preprocessed (removing the HTML tags, spelling normalization) by Teleport software and various heuristics. There followed a stage of manual correction by linguists (five master students in Linguistics of University of Social Sciences, VNU-HCM city, Vietnam) who reviewed and adjusted the documents which are
@@ -84,12 +83,37 @@ classified to the wrong topics. Final relatively large and sufficient corpus inc
 
 \subsection{Evaluation Measures}
 
+We used Precision, Recall, F1 score as evaluation measures.
+
+$$F_1 = \frac{2*P*R}{P + R}$$
+
+\noindent where P (Precision), and R (Recall) are determined as follows:
+
+$$P = \frac{\textrm{the text number classified by the model correctly}}{\textrm{the text number classified correctly in practice}}$$
+
+$$R = \frac{\textrm{the text number classified by the model correctly}}{\textrm{the text number classified by the model}}$$
+
 \subsection{Results}
 
+Table ~\ref{tab:result} show result on each system in VNTC dataset.
+
+\begin{table}
+  \centering
+  \begin{tabular}{cccc}
+    \toprule
+    Method & P & R & F1 \\
+    \midrule
+    Fasttext  & 0.86 & 0.86 & 0.85 \\
+    \bottomrule
+  \end{tabular}
+
+  \label{tab:result}
+  \caption{\small Result}
+\end{table}
 
 \section{Conclusions}
 
-To be updated
+There are a lot of thing you we to try in next version. We want to explore text classification tutorial of Google\footnote{\href{https://developers.google.com/machine-learning/guides/text-classification/}{Google Text Classification Tutorial}}, which has more details to build text classification system.
 
 \bibliography{technique_report}
 \bibliographystyle{acl_natbib}
