@@ -1,6 +1,6 @@
 import argparse
 
-from model.model_fasttext import classify
+from models.fasttext.model_fasttext import classify
 
 parser = argparse.ArgumentParser("classification.py")
 text_group = parser.add_argument_group("The following arguments are mandatory for text option")
