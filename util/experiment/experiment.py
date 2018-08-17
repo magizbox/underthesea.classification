@@ -5,7 +5,7 @@ from sklearn.preprocessing import MultiLabelBinarizer
 import time
 import dill
 from experiment.validation import TrainTestSplitValidation, CrossValidation
-from model import save_model
+from models import save_model
 
 
 class Experiment:
