@@ -98,7 +98,7 @@ $ python train.py --mode train-test \
 
 ```
 $ python train.py --mode train \
-     --train data/VNTC/corpus/train \
+     --train data/vntc/train.txt \
      --s tmp/model.bin 
 ```
 
