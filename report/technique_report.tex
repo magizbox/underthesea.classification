@@ -1,0 +1,121 @@
+%
+% File eacl2017.tex
+%
+%% Based on the style files for ACL-2016
+%% Based on the style files for ACL-2015, with some improvements
+%%  taken from the NAACL-2016 style
+%% Based on the style files for ACL-2014, which were, in turn,
+%% Based on the style files for ACL-2013, which were, in turn,
+%% Based on the style files for ACL-2012, which were, in turn,
+%% based on the style files for ACL-2011, which were, in turn, 
+%% based on the style files for ACL-2010, which were, in turn, 
+%% based on the style files for ACL-IJCNLP-2009, which were, in turn,
+%% based on the style files for EACL-2009 and IJCNLP-2008...
+
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt,a4paper]{article}
+\usepackage{acl2017}
+\usepackage{times}
+\usepackage{multirow}
+\usepackage{url}
+\usepackage{latexsym}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{booktabs}
+
+\aclfinalcopy % Uncomment this line for the final submission
+%\def\eaclpaperid{***} %  Enter the acl Paper ID here
+
+%\setlength\titlebox{5cm}
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+\newcommand\BibTeX{B{\sc ib}\TeX}
+
+\title{Vietnamese Text Classification System \\ in underthesea v1.1.8}
+
+\author{
+Vu Anh\\
+underthesea\\
+Hanoi, Vietnam\\
+anhv.ict91@gmail.com
+}
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+In this report, we describe our classification system for Vietnamese, which is integrated in underthesea version 1.1.8. Our system is open-source and available at
+\href{https://github.com/undertheseanlp/classification}{https://github.com/undertheseanlp/classification}
+
+\end{abstract}
+
+\section{Introduction}
+
+Text classification is an important task in Natural Language Processing with many applications, such as web search, information retrieval, ranking and document classification.
+
+In recent years, natural language processing and text classification have had a lot of works with encouraging results of research comminity in side and outsite Vietnam. The relevant works outside Vietnam have been published a lot.
+
+\section{System Description}
+
+We takes some experiments in Logistic Regression, Naive Bayes, SVM ~\cite{Suykens1999}, fasttext models ~\cite{DBLP:journals/corr/JoulinGBM16}.
+
+\subsection{SVM}
+
+SVM algorithm works by creating support vectors that separating two classes in n-dimensional space, where each dimension is represented by a feature. The separation is done by finding the largest separation margin between  the features from the two classes and a vector.
+
+\subsection{FastText}
+
+FastText maps each vocabulary to a real-valued vector, with unknown words having a special vocabulary ID. A document can be represented as the average of all these vectors. Then FastText will train a maximum entropy multi-class classifier  on the vectors and the output labels.
+
+\section{Evaluation}
+
+\subsection{Data sets}
+
+\noindent \textbf{VNTC} ~\cite{DBLP:conf/rivf/HoangDNN07}: A Vietnamese corpus based on the four largest
+circulation Vietnamese online newspapers: VnExpress, TuoiTre Online, Thanh Nien Online, Nguoi Lao Dong Online. The collected texts are automatically preprocessed (removing the HTML tags, spelling normalization) by Teleport software and various heuristics. There followed a stage of manual correction by linguists (five master students in Linguistics of University of Social Sciences, VNU-HCM city, Vietnam) who reviewed and adjusted the documents which are
+classified to the wrong topics. Final relatively large and sufficient corpus includes about 100,000 documents.
+
+\subsection{Evaluation Measures}
+
+We used Precision, Recall, F1 score as evaluation measures.
+
+$$F_1 = \frac{2*P*R}{P + R}$$
+
+\noindent where P (Precision), and R (Recall) are determined as follows:
+
+$$P = \frac{\textrm{the text number classified by the model correctly}}{\textrm{the text number classified correctly in practice}}$$
+
+$$R = \frac{\textrm{the text number classified by the model correctly}}{\textrm{the text number classified by the model}}$$
+
+\subsection{Results}
+
+Table ~\ref{tab:result} show result on each system in VNTC dataset.
+
+\begin{table}
+  \centering
+  \begin{tabular}{cccc}
+    \toprule
+    Method & P & R & F1 \\
+    \midrule
+    Fasttext  & 0.86 & 0.86 & 0.85 \\
+    \bottomrule
+  \end{tabular}
+
+  \label{tab:result}
+  \caption{\small Result}
+\end{table}
+
+\section{Conclusions}
+
+There are a lot of thing you we to try in next version. We want to explore text classification tutorial of Google\footnote{\href{https://developers.google.com/machine-learning/guides/text-classification/}{Google Text Classification Tutorial}}, which has more details to build text classification system.
+
+\bibliography{technique_report}
+\bibliographystyle{acl_natbib}
+
+\end{document}
