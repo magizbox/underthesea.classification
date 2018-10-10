@@ -1,4 +1,4 @@
-# Vietnamese Text Classification ![](https://img.shields.io/badge/F1-86.7%25-red.svg)
+# Vietnamese Text Classification ![](https://img.shields.io/badge/F1-87.6%25-red.svg)
 
 This repository contains experiments in *Vietnamese Text Classification* problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.  The code gives an end-to-end working example for reading datasets, training machine learning models, and evaluating performance of the models. It can easily be extended to train your own custom-defined models.
 
