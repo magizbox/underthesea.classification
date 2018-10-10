@@ -82,7 +82,8 @@ $ python benchmark.py --mode benchmark
             --test data/corpus/test.xlsx 
             --transform tfidf 
             --s report/benchmark_model_tfidf.png
-
+```
+```
 # experiments using linearSVC and countvectorizer
 $ python benchmark.py --mode benchmark 
             --train data/corpus/train.xlsx
