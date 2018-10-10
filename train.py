@@ -1,7 +1,6 @@
 import argparse
 import os
 import pickle
-from os.path import join
 from time import time
 
 from sklearn.feature_extraction.text import CountVectorizer
@@ -17,9 +16,16 @@ parser = argparse.ArgumentParser("train.py")
 parser.add_argument("--mode", help="available modes: train-test, train-test-split, cross-validation", required=True)
 parser.add_argument("--train", help="train folder")
 parser.add_argument("--test", help="test folder")
+parser.add_argument("--s", help="path to save model")
 parser.add_argument("--train_size", type=float,
                     help="train/test split ratio")
 args = parser.parse_args()
+
+
+def save_model(filename, clf):
+    with open(filename, 'wb') as f:
+        pickle.dump(clf, f, pickle.HIGHEST_PROTOCOL)
+
 
 if args.mode == "train-test":
     if not (args.train and args.test):
@@ -27,6 +33,7 @@ if args.mode == "train-test":
     train_path = os.path.abspath(args.train)
     test_path = os.path.abspath(args.test)
     train_size = args.train_size
+    model_path = os.path.abspath(args.s)
     test = args.test
     print("Load data")
     X_train, y_train = load_dataset(train_path)
@@ -58,6 +65,6 @@ if args.mode == "train-test":
     print("\t-test time: %0.3fs" % test_time)
 
     get_metrics(y_dev, y_pred)
-    pickle.dump(transformer, open(join("models", "count.transformer.pkl"), "wb"))
-    pickle.dump(y_transformer, open(join("models", "y_transformer.pkl"), "wb"))
-    pickle.dump(estimator, open(join("models", "model.pkl"), "wb"))
+    save_model(model_path + "/count.transformer.pkl", transformer)
+    save_model(model_path + "/y_transformer.pkl", y_transformer)
+    save_model(model_path + "/model.pkl", estimator)
