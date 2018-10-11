@@ -65,6 +65,6 @@ if args.mode == "train-test":
     print("\t-test time: %0.3fs" % test_time)
 
     get_metrics(y_dev, y_pred)
-    save_model(model_path + "/count.transformer.pkl", transformer)
-    save_model(model_path + "/y_transformer.pkl", y_transformer)
-    save_model(model_path + "/model.pkl", estimator)
+    save_model(model_path + "count.transformer.pkl", transformer)
+    save_model(model_path + "y_transformer.pkl", y_transformer)
+    save_model(model_path + "model.pkl", estimator)
