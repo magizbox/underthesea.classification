@@ -7,3 +7,4 @@ rcParams['figure.figsize'] = 13, 6
 df.drop("text", axis=1).sum().plot.barh()
 plt.savefig("labels_distribution.png")
 plt.show()
+>>>>>>> origin/master
