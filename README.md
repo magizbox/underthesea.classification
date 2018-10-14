@@ -55,7 +55,7 @@ $ python classification.py "Trong suốt kỳ chuyển nhượng mùa hè qua, t
 Bong da
 ```
 
-To predict labels for a file, use option `--fin` and `--fout`
+To predict labels from file, use option `--fin`
 
 ```
 $ python classification.py \
@@ -100,8 +100,7 @@ $ python train.py --mode train-test
             --train data/corpus/train.xlsx 
             --test data/corpus/test.xlsx 
             --train_size 0.2 
-            --s models/
-
+            --s models
 ```
 
 ## 3. References

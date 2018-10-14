@@ -18,3 +18,4 @@ def analyze(path, name):
 folder = join(dirname(dirname(__file__)), "data")
 analyze(join(folder, "corpus", "train.xlsx"), "train")
 analyze(join(folder, "corpus", "test.xlsx"), "test")
+
