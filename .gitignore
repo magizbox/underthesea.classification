@@ -63,4 +63,6 @@ fabric.properties
 
 /models/tfidf.transformer.pkl
 .idea/
-/models/*
+/models/y_transformer.pkl
+/models/x_transformer.pkl
+/models/model.pkl

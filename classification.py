@@ -20,7 +20,7 @@ if args.text:
 
 if args.fin:
     if not args.fin:
-        parser.error("File option requires --fin and --fout")
+        parser.error("File option requires --fin")
     fin = args.fin
     with open(fin) as f:
         text = f.read()
