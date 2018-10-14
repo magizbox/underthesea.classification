@@ -31,9 +31,9 @@ if args.mode == "train-test":
     if not (args.train and args.test):
         parser.error("Mode train-test requires --train and --test")
     if not args.s:
-        parser.error("Mode train-test requires save path model")
+        parser.error("Mode train-test requires --s ")
     if not args.train_size:
-        parser.error("Mode train-test requires train-test-split size")
+        parser.error("Mode train-test requires --train_size")
     train_path = os.path.abspath(args.train)
     test_path = os.path.abspath(args.test)
     train_size = args.train_size
