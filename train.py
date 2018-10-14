@@ -34,6 +34,8 @@ if args.mode == "train-test":
     test_path = os.path.abspath(args.test)
     train_size = args.train_size
     model_path = os.path.abspath(args.s)
+    if not os.path.exists(model_path):
+        os.mkdir(model_path)
     test = args.test
     print("Load data")
     X_train, y_train = load_dataset(train_path)
