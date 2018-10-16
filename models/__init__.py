@@ -1,7 +1,6 @@
 import pickle
 from os.path import join, dirname
-import sys
-sys.path.insert(0, dirname(__file__))
+
 
 y_transform = pickle.load(open(join(dirname(__file__), "y_transformer.pkl"), "rb"))
 x_transform = pickle.load(open(join(dirname(__file__), "x_transformer.pkl"), "rb"))
