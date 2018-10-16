@@ -82,7 +82,7 @@ Giao duc
 
 **Chuẩn bị tập dữ liệu mới**
 
-Chuyển đổi tập dữ liệu của bạn thành tệp excel..
+Chuyển đổi tập dữ liệu của bạn thành file excel
 
 ```
 $ python util/preprocess.py
