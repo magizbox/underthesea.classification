@@ -2,6 +2,9 @@
 
 Dự án nghiên cứu về bài toán *phân loại văn bản tiếng Việt*, được phát triển bởi nhóm nghiên cứu xử lý ngôn ngữ tự nhiên tiếng Việt - [underthesea](https://github.com/undertheseanlp). Chứa mã nguồn các thử nghiệm cho việc xử lý dữ liệu, huấn luyện và đánh giá mô hình, cũng như cho phép dễ dàng tùy chỉnh mô hình đối với những tập dữ liệu mới.
 
+![](https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg)
+![](https://img.shields.io/badge/build-passing-green.svg)
+
 **Nhóm tác giả** 
 
 * Vũ Anh ([anhv.ict91@gmail.com](anhv.ict91@gmail.com))
