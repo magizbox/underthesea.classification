@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> upstream/master
 # Created by .ignore support plugin (hsz.mobi)
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
@@ -64,9 +67,6 @@ fabric.properties
 
 /models/tfidf.transformer.pkl
 .idea/
-/models/*
-=======
-.idea
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -178,4 +178,8 @@ tmp/*
 !tmp/input.txt
 !tmp/train_samples.txt
 
->>>>>>> origin/master
+/models/y_transformer.pkl
+/models/x_transformer.pkl
+/models/model.pkl
+
+__pycache__
