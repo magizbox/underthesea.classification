@@ -1,22 +1,22 @@
 # Phân loại văn bản tiếng Việt
 
-This repository contains experiments in *Vietnamese Text Classification* problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.  The code gives an end-to-end working example for reading datasets, training machine learning models, and evaluating performance of the models. It can easily be extended to train your own custom-defined models.
+Dự án này chứa các thử nghiệm trong bài toán *phân loại văn bản tiếng Việt*, là một phần của dự án [underthesea](https://github.com/magizbox/underthesea). Trong đó có chứa mã nguồn cho việc xử lý dữ liệu, huấn luyện và đánh giá các mô hình. Bạn cũng có thể dễ dàng mở rộng để huấn luyện các mô hình trên dữ liệu của riêng mình. 
 
 **Nhóm tác giả** 
 
 * Vũ Anh ([anhv.ict91@gmail.com](anhv.ict91@gmail.com))
 * Bùi Nhật Anh ([buinhatanh1208@gmail.com](buinhatanh1208@gmail.com))
 
-Mọi ý kiến đóng góp, yêu cầu trợ giúp xin gửi vào mục [Issues](https://github.com/undertheseanlp/classification/issues) của dự án.
+Mọi ý kiến đóng góp hoặc yêu cầu trợ giúp xin gửi vào mục [Issues](https://github.com/undertheseanlp/classification/issues) của dự án. Các thảo luận được khuyến khích **sử dụng tiếng Việt** để dễ dàng trong quá trình trao đổi. 
 
 ## Mục lục
 
 * Yêu cầu hệ thống
 * Thiết lập môi trường
-* [2. Usage](#2-usage)
-  * [2.1 Using a pretrained model](#21-using-a-pretrained-model)
-  * [2.2 Train a new dataset](#22-train-a-new-dataset)
-* [3. References](#3-references)
+* Hướng dẫn sử dụng
+  * Sử dụng mô hình đã huấn luyện sẵn
+  * Huấn luyện mô hình mới 
+* Trích dẫn
 
 
 ## Yêu cầu hệ thống 
@@ -41,9 +41,9 @@ $ conda create -n classification python=3.6
 $ pip install -r requirements.txt
 ```
 
-## 2. Usage
+## Hướng dẫn sử dụng
 
-Make sure you are in `classification` folder and activate `classification` environment
+Trước khi chạy các thử nghiệm, hãy chắc chắn bạn đã activate môi trường `classification`, mọi câu lệnh đều được chạy trong thư mục gốc của dự án.
 
 ```
 $ cd classification
@@ -108,6 +108,6 @@ $ python train.py --mode train-test
             --s models
 ```
 
-## 3. References
+## Trích dẫn
 
 Last update: 10/2018
