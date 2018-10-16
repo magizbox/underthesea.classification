@@ -1,13 +1,15 @@
 # Phân loại văn bản tiếng Việt
 
-Bài toán *phân loại văn bản tiếng Việt* - một phần của dự án [underthesea](https://github.com/magizbox/underthesea). Dự án chứa mã nguồn cho việc xử lý dữ liệu và các thử nghiệm cho việc huấn luyện, đánh giá các mô hình. Bạn cũng có thể dễ dàng mở rộng để huấn luyện các mô hình trên dữ liệu của riêng mình. 
+Dự án nghiên cứu về bài toán *phân loại văn bản tiếng Việt*, được phát triển bởi nhóm nghiên cứu xử lý ngôn ngữ tự nhiên tiếng Việt - [underthesea](https://github.com/magizbox/underthesea). Chứa các mã nguồn cho việc xử lý dữ liệu, huấn luyện và đánh giá các mô hình, cũng như cho phép dễ dàng tùy chỉnh mô hình đối với những tập dữ liệu mới.
 
 **Nhóm tác giả** 
 
 * Vũ Anh ([anhv.ict91@gmail.com](anhv.ict91@gmail.com))
 * Bùi Nhật Anh ([buinhatanh1208@gmail.com](buinhatanh1208@gmail.com))
 
-Mọi ý kiến đóng góp hoặc yêu cầu trợ giúp xin gửi vào mục [Issues](https://github.com/undertheseanlp/classification/issues) của dự án. Các thảo luận được khuyến khích **sử dụng tiếng Việt** để dễ dàng trong quá trình trao đổi. 
+Mọi ý kiến đóng góp hoặc yêu cầu trợ giúp xin gửi vào mục [Issues](../../issues) của dự án. Các thảo luận được khuyến khích **sử dụng tiếng Việt** để dễ dàng trong quá trình trao đổi. 
+
+Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm phát triển với vai trò là [Developer](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor) hoặc [Committer](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#committer), xin hãy đọc kỹ [Hướng dẫn tham gia](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor).
 
 ## Mục lục
 
