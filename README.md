@@ -11,8 +11,8 @@ Mọi ý kiến đóng góp, yêu cầu trợ giúp xin gửi vào mục [Issues
 
 ## Mục lục
 
-* [Yêu cầu hệ thống]](#yêu-cầu-hệ-thống)
-* [Thiết lập môi trường]](#thiết-lập-môi-trường)
+* [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
+* [Thiết lập môi trường](#thiết-lập-môi-trường)
 * [2. Usage](#2-usage)
   * [2.1 Using a pretrained model](#21-using-a-pretrained-model)
   * [2.2 Train a new dataset](#22-train-a-new-dataset)
