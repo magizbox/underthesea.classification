@@ -17,7 +17,7 @@ Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm 
 * [Thiết lập môi trường](#thiết-lập-môi-trường)
 * [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
   * [Sử dụng mô hình đã huấn luyện sẵn](#sử-dụng-mô-hình-đã-huấn-luyện-sẵn)
-  * [Huấn luyện mô hình mới](#huấn-luyện-mô-hình-mới) 
+  * [Huấn luyện mô hình](#huấn-luyện-mô-hình) 
 * [Trích dẫn](#trích-dẫn)
 
 
@@ -70,7 +70,7 @@ $ python classification.py \
 Giao duc
 ```
 
-### Huấn luyện mô hình mới
+### Huấn luyện mô hình
 
 **Chuẩn bị tập dữ liệu mới**
 
