@@ -1,6 +1,6 @@
 # Phân loại văn bản tiếng Việt
 
-Dự án này chứa các thử nghiệm trong bài toán *phân loại văn bản tiếng Việt*, là một phần của dự án [underthesea](https://github.com/magizbox/underthesea). Trong đó có chứa mã nguồn cho việc xử lý dữ liệu, huấn luyện và đánh giá các mô hình. Bạn cũng có thể dễ dàng mở rộng để huấn luyện các mô hình trên dữ liệu của riêng mình. 
+Bài toán *phân loại văn bản tiếng Việt* - một phần của dự án [underthesea](https://github.com/magizbox/underthesea). Dự án chứa mã nguồn cho việc xử lý dữ liệu và các thử nghiệm cho việc huấn luyện, đánh giá các mô hình. Bạn cũng có thể dễ dàng mở rộng để huấn luyện các mô hình trên dữ liệu của riêng mình. 
 
 **Nhóm tác giả** 
 
@@ -60,7 +60,7 @@ $ python classification.py "Trong suốt kỳ chuyển nhượng mùa hè qua, t
 Bong da
 ```
 
-Dự đoán nhãn từ nội dung trong tệp, sử dụng tùy chọn `--fin`
+Dự đoán nhãn từ nội dung trong file, sử dụng tùy chọn `--fin`
 
 ```
 $ python classification.py \
