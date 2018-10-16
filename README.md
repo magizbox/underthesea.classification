@@ -1,28 +1,33 @@
-# Vietnamese Text Classification ![](https://img.shields.io/badge/F1-87.6%25-red.svg)
+# Phân loại văn bản tiếng Việt
 
 This repository contains experiments in *Vietnamese Text Classification* problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.  The code gives an end-to-end working example for reading datasets, training machine learning models, and evaluating performance of the models. It can easily be extended to train your own custom-defined models.
 
-## Table of contents
+**Nhóm tác giả** 
 
-* [1. Installation](#1-installation)
-  * [1.1 Requirements](#11-requirements)
-  * [1.2 Download and Setup Environement](#12-download-and-setup-environment)
+* Vũ Anh ([anhv.ict91@gmail.com](anhv.ict91@gmail.com))
+* Bùi Nhật Anh ([buinhatanh1208@gmail.com](buinhatanh1208@gmail.com))
+
+Mọi ý kiến đóng góp, yêu cầu trợ giúp xin gửi vào mục [Issues](https://github.com/undertheseanlp/classification/issues) của dự án.
+
+## Mục lục
+
+* Yêu cầu hệ thống
+* Thiết lập môi trường
 * [2. Usage](#2-usage)
   * [2.1 Using a pretrained model](#21-using-a-pretrained-model)
   * [2.2 Train a new dataset](#22-train-a-new-dataset)
 * [3. References](#3-references)
 
-## 1. Installation
 
-### 1.1 Requirements
+## Yêu cầu hệ thống 
 
-* `Operating Systems: Linux (Ubuntu, CentOS), Mac`
+* `Hệ điều hành: Linux (Ubuntu, CentOS), Mac`
 * `Python 3.6+`
 * `conda 4+`
 
-### 1.2 Download and Setup Environment
+## Thiết lập môi trường
 
-Clone project using git
+Tải project bằng cách sử dụng lệnh `git clone`
 
 ```
 $ git clone https://github.com/undertheseanlp/classification.git

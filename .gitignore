@@ -66,3 +66,6 @@ fabric.properties
 /models/y_transformer.pkl
 /models/x_transformer.pkl
 /models/model.pkl
+
+__pycache__
+tmp
