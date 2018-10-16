@@ -11,12 +11,12 @@ Mọi ý kiến đóng góp hoặc yêu cầu trợ giúp xin gửi vào mục [
 
 ## Mục lục
 
-* Yêu cầu hệ thống
-* Thiết lập môi trường
-* Hướng dẫn sử dụng
-  * Sử dụng mô hình đã huấn luyện sẵn
-  * Huấn luyện mô hình mới 
-* Trích dẫn
+* [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
+* [Thiết lập môi trường](#thiết-lập-môi-trường)
+* [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
+  * [Sử dụng mô hình đã huấn luyện sẵn](#sử-dụng-mô-hình-đã-huấn-luyện-sẵn)
+  * [Huấn luyện mô hình mới](#huấn-luyện-mô-hình-mới) 
+* [Trích dẫn](#trích-dẫn)
 
 
 ## Yêu cầu hệ thống 
@@ -33,7 +33,7 @@ Tải project bằng cách sử dụng lệnh `git clone`
 $ git clone https://github.com/undertheseanlp/classification.git
 ```
 
-Create environment and install requirements
+Tạo môi trường mới và cài đặt các gói liên quan
 
 ```
 $ cd classification
@@ -50,7 +50,7 @@ $ cd classification
 $ source activate classification
 ```
 
-### 2.1 Using a pretrained model
+### Sử dụng mô hình đã huấn luyện sẵn
 
 
 To predict label for a sentence
@@ -68,7 +68,7 @@ $ python classification.py \
 Giao duc
 ```
 
-### 2.2 Train a new dataset
+### Huấn luyện mô hình mới
 
 **Prepare a new dataset**
 
