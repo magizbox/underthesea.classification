@@ -21,6 +21,7 @@ Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm 
   * [Sử dụng mô hình đã huấn luyện sẵn](#sử-dụng-mô-hình-đã-huấn-luyện-sẵn)
   * [Huấn luyện mô hình](#huấn-luyện-mô-hình) 
 * [Trích dẫn](#trích-dẫn)
+* [Bản quyền](#bản-quyền)
 
 
 ## Yêu cầu hệ thống 
@@ -115,5 +116,10 @@ $ python train.py --mode train-test
 ## Trích dẫn
 
 TBD
+
+## Bản quyền
+
+Mã nguồn của dự án được phân phối theo giấy phép [GPL-3.0](LICENSE.txt).
+
 
 
