@@ -110,4 +110,6 @@ $ python train.py --mode train-test
 
 ## Trích dẫn
 
-Last update: 10/2018
+TBD
+
+ 
