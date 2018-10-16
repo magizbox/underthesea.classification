@@ -1,4 +1,4 @@
-# Vietnamese Text Classification ![](https://img.shields.io/badge/F1-86.7%25-red.svg)
+# Vietnamese Text Classification ![](https://img.shields.io/badge/F1-87.6%25-red.svg)
 
 This repository contains experiments in *Vietnamese Text Classification* problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.  The code gives an end-to-end working example for reading datasets, training machine learning models, and evaluating performance of the models. It can easily be extended to train your own custom-defined models.
 
@@ -20,11 +20,6 @@ This repository contains experiments in *Vietnamese Text Classification* problem
 * `Python 3.6+`
 * `conda 4+`
 
-Python Packages
-
-* `underthesea==1.1.7`
-* `languageflow==1.1.7`
-
 ### 1.2 Download and Setup Environment
 
 Clone project using git
@@ -36,7 +31,7 @@ $ git clone https://github.com/undertheseanlp/classification.git
 Create environment and install requirements
 
 ```
-$ cd ner
+$ cd classification
 $ conda create -n classification python=3.6
 $ pip install -r requirements.txt
 ```
@@ -56,52 +51,58 @@ $ source activate classification
 To predict label for a sentence
 
 ```
-$ python classification.py "Tái phát chấn thương, Neymar không thể tập luyện"
-'the_thao'
+$ python classification.py "Trong suốt kỳ chuyển nhượng mùa hè qua, tiền vệ Eden Hazard của Chelsea đã luôn được Real Madrid nhắm đến để thay thế Cristiano Ronaldo nhưng bất thành. Mới đây, Hazard đã cho biết anh đang chờ đợi thêm những tín hiệu chiêu mộ từ Real Madrid trước khi đưa ra quyết định về tương lai của mình ở Chelsea."
+Bong da
 ```
 
-To predict labels for a file, use option `--fin` and `--fout`
+To predict labels from file, use option `--fin`
 
 ```
 $ python classification.py \
-    --fin tmp/input.txt \
-    --fout tmp/output.txt
+    --fin tmp/input.txt
+Giao duc
 ```
 
 ### 2.2 Train a new dataset
 
 **Prepare a new dataset**
 
-Convert your dataset to [Underthesea Text Classification Data Format](https://github.com/undertheseanlp/classification/blob/master/data_format.md)
-
-Example
+Convert your dataset to excel file.
 
 ```
-__label__giao_duc Bất ngờ tranh luận quanh bìa SGK Lịch sử lớp 7 có hình Vạn Lý Trường Thành
-__label__giao_duc Tuyển sinh lớp 10 năm 2019 của Hà Nội: Chọn phương án nào hữu hiệu?
-__label__giao_duc Hơn 122.000 giáo viên mầm non nghỉ công tác chưa được hưởng chế độ
-__label__the_thao Báo chí Đông Nam Á hết mực khen ngợi Olympic Việt Nam
-__label__the_thao “Không nên để Công Phượng tiếp tục đá phạt đền!”
-__label__the_thao Chia tay Tottenham, ngôi sao Son Heung-min về thi đấu ở Asiad 2018
+$ python util/preprocess.py
 ```
 
-**Train and test**
+**Benchmark experiments**
 
 ```
-$ python util/preprocess_vntc.py
-$ python train.py --mode train-test \
-     --train tmp/vntc/train.txt \
-     --test tmp/vntc/test.txt
+# experiments using linearSVC and tfidfvectorizer
+$ python benchmark.py --mode benchmark 
+            --train data/corpus/train.xlsx 
+            --test data/corpus/test.xlsx 
+            --transform tfidf 
+            --s report/benchmark_model_tfidf.png
 ```
+```
+# experiments using linearSVC and countvectorizer
+$ python benchmark.py --mode benchmark 
+            --train data/corpus/train.xlsx
+            --test data/corpus/test.xlsx 
+            --transform count 
+            --s report/benchmark_model_count.png
+```
+
 
 **Train and save model**
 
 ```
-$ python train.py --mode train \
-     --train data/vntc/train.txt \
-     --s tmp/model.bin 
+$ python train.py --mode train-test 
+            --train data/corpus/train.xlsx 
+            --test data/corpus/test.xlsx 
+            --train_size 0.2 
+            --s models
 ```
 
 ## 3. References
 
-Last update: 08/2018
+Last update: 10/2018

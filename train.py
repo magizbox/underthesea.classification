@@ -1,56 +1,76 @@
 import argparse
-from languageflow.evaluation import print_cm
 import os
-import fasttext
-from sklearn.metrics import confusion_matrix, classification_report, precision_score, recall_score, f1_score, \
-    accuracy_score
+import pickle
+from time import time
+
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.model_selection import train_test_split
+from sklearn.multiclass import OneVsRestClassifier
+from sklearn.preprocessing import MultiLabelBinarizer
+from sklearn.svm import LinearSVC
+
+from util.load_data import load_dataset
+from util.model_evaluation import get_metrics
 
 parser = argparse.ArgumentParser("train.py")
 parser.add_argument("--mode", help="available modes: train-test, train-test-split, cross-validation", required=True)
 parser.add_argument("--train", help="train folder")
 parser.add_argument("--test", help="test folder")
-parser.add_argument("--train-test-split", type=float,
+parser.add_argument("--s", help="path to save model")
+parser.add_argument("--train_size", type=float,
                     help="train/test split ratio")
-parser.add_argument("-s", help="path to save model")
-parser.add_argument("--cross-validation", type=int, help="cross validation")
 args = parser.parse_args()
 
 
-if args.mode == "train":
-    if not (args.train and args.s):
-        parser.error("Mode train-test requires --train and -s")
-    train_path = os.path.abspath(args.train)
-    model_path = os.path.abspath(args.s)
-    fasttext.supervised(train_path, args.s)
-    print("Model is saved in {}".format(model_path))
+def save_model(filename, clf):
+    with open(filename, 'wb') as f:
+        pickle.dump(clf, f, pickle.HIGHEST_PROTOCOL)
+
 
 if args.mode == "train-test":
     if not (args.train and args.test):
         parser.error("Mode train-test requires --train and --test")
+    if not args.s:
+        parser.error("Mode train-test requires --s ")
+    if not args.train_size:
+        parser.error("Mode train-test requires --train_size")
     train_path = os.path.abspath(args.train)
     test_path = os.path.abspath(args.test)
+    train_size = args.train_size
+    model_path = os.path.abspath(args.s)
+    if not os.path.exists(model_path):
+        os.mkdir(model_path)
     test = args.test
-    print("Train model")
-    classifier = fasttext.supervised(train_path, 'tmp/model.bin')
-    classifier = fasttext.load_model("tmp/model.bin.bin")
-    y_true = []
-    y_predict = []
-    print("Evaluation")
-    print("Confusion Matrix")
-    for line in open(test_path):
-        index = line.find(" ")
-        label = line[:index]
-        text = line[index + 1:]
-        y_true.append(label)
-        y_predict.append(classifier.predict([text])[0][0])
-    labels = sorted(set(y_true))
-    cm = confusion_matrix(y_true, y_predict, labels=labels)
-    print_cm(cm, labels=labels)
-    print("Classification Report")
-    report = classification_report(y_true, y_predict, labels=labels)
-    print(report)
-    print("Score")
-    print("Accuracy:", accuracy_score(y_true, y_predict))
-    print("Precision:", precision_score(y_true, y_predict, average='micro'))
-    print("Recall   :", recall_score(y_true, y_predict, average='micro'))
-    print("Micro F1 :", f1_score(y_true, y_predict, average='micro'))
+    print("Load data")
+    X_train, y_train = load_dataset(train_path)
+    X_test, y_test = load_dataset(test_path)
+    X = X_train + X_test
+    y = y_train + y_test
+    target_names = list(set([i[0] for i in y]))
+    print("%d documents (training set)" % len(X_train))
+    print("%d documents (test set)" % len(X_test))
+    print("%d categories" % len(target_names))
+    print()
+
+    print("Training model")
+    t0 = time()
+    transformer = CountVectorizer(ngram_range=(1, 2))
+    X = transformer.fit_transform(X)
+    y_transformer = MultiLabelBinarizer()
+    y = y_transformer.fit_transform(y)
+
+    model = OneVsRestClassifier(LinearSVC())
+    X_train, X_dev, y_train, y_dev = train_test_split(X, y, train_size=train_size)
+    estimator = model.fit(X_train, y_train)
+    train_time = time() - t0
+    print("\t-train time: %0.3fs" % train_time)
+
+    t0 = time()
+    y_pred = estimator.predict(X_dev)
+    test_time = time() - t0
+    print("\t-test time: %0.3fs" % test_time)
+
+    get_metrics(y_dev, y_pred)
+    save_model(model_path + "/x_transformer.pkl", transformer)
+    save_model(model_path + "/y_transformer.pkl", y_transformer)
+    save_model(model_path + "/model.pkl", estimator)
