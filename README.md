@@ -1,6 +1,6 @@
 # Phân loại văn bản tiếng Việt
 
-Dự án này chứa các thử nghiệm trong bài toán *phân loại văn bản tiếng Việt*, là một phần của dự án [underthesea](https://github.com/magizbox/underthesea). Trong đó có chứa mã nguồn cho việc xử lý dữ liệu, huấn luyện và đánh giá các mô hình. Bạn cũng có thể dễ dàng mở rộng để huấn luyện các mô hình trên dữ liệu của riêng mình. 
+Bài toán *phân loại văn bản tiếng Việt* - một phần của dự án [underthesea](https://github.com/magizbox/underthesea). Dự án chứa mã nguồn cho việc xử lý dữ liệu và các thử nghiệm cho việc huấn luyện, đánh giá các mô hình. Bạn cũng có thể dễ dàng mở rộng để huấn luyện các mô hình trên dữ liệu của riêng mình. 
 
 **Nhóm tác giả** 
 
@@ -53,14 +53,14 @@ $ source activate classification
 ### Sử dụng mô hình đã huấn luyện sẵn
 
 
-To predict label for a sentence
+Dự đoán nhãn của một câu:
 
 ```
 $ python classification.py "Trong suốt kỳ chuyển nhượng mùa hè qua, tiền vệ Eden Hazard của Chelsea đã luôn được Real Madrid nhắm đến để thay thế Cristiano Ronaldo nhưng bất thành. Mới đây, Hazard đã cho biết anh đang chờ đợi thêm những tín hiệu chiêu mộ từ Real Madrid trước khi đưa ra quyết định về tương lai của mình ở Chelsea."
 Bong da
 ```
 
-To predict labels from file, use option `--fin`
+Dự đoán nhãn từ nội dung trong file, sử dụng tùy chọn `--fin`
 
 ```
 $ python classification.py \
@@ -70,15 +70,15 @@ Giao duc
 
 ### Huấn luyện mô hình mới
 
-**Prepare a new dataset**
+**Chuẩn bị tập dữ liệu mới**
 
-Convert your dataset to excel file.
+Chuyển đổi tập dữ liệu của bạn thành tệp excel..
 
 ```
 $ python util/preprocess.py
 ```
 
-**Benchmark experiments**
+**So sánh các thử nghiệm**
 
 ```
 # experiments using linearSVC and tfidfvectorizer
@@ -98,7 +98,7 @@ $ python benchmark.py --mode benchmark
 ```
 
 
-**Train and save model**
+**Huấn luyện và lưu mô hình**
 
 ```
 $ python train.py --mode train-test 
@@ -112,4 +112,4 @@ $ python train.py --mode train-test
 
 TBD
 
- 
+
