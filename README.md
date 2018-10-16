@@ -1,107 +1,115 @@
-# Vietnamese Text Classification ![](https://img.shields.io/badge/F1-86.7%25-red.svg)
+# Phân loại văn bản tiếng Việt
 
-This repository contains experiments in *Vietnamese Text Classification* problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.  The code gives an end-to-end working example for reading datasets, training machine learning models, and evaluating performance of the models. It can easily be extended to train your own custom-defined models.
+Dự án này chứa các thử nghiệm trong bài toán *phân loại văn bản tiếng Việt*, là một phần của dự án [underthesea](https://github.com/magizbox/underthesea). Trong đó có chứa mã nguồn cho việc xử lý dữ liệu, huấn luyện và đánh giá các mô hình. Bạn cũng có thể dễ dàng mở rộng để huấn luyện các mô hình trên dữ liệu của riêng mình. 
 
-## Table of contents
+**Nhóm tác giả** 
 
-* [1. Installation](#1-installation)
-  * [1.1 Requirements](#11-requirements)
-  * [1.2 Download and Setup Environement](#12-download-and-setup-environment)
-* [2. Usage](#2-usage)
-  * [2.1 Using a pretrained model](#21-using-a-pretrained-model)
-  * [2.2 Train a new dataset](#22-train-a-new-dataset)
-* [3. References](#3-references)
+* Vũ Anh ([anhv.ict91@gmail.com](anhv.ict91@gmail.com))
+* Bùi Nhật Anh ([buinhatanh1208@gmail.com](buinhatanh1208@gmail.com))
 
-## 1. Installation
+Mọi ý kiến đóng góp hoặc yêu cầu trợ giúp xin gửi vào mục [Issues](https://github.com/undertheseanlp/classification/issues) của dự án. Các thảo luận được khuyến khích **sử dụng tiếng Việt** để dễ dàng trong quá trình trao đổi. 
 
-### 1.1 Requirements
+## Mục lục
 
-* `Operating Systems: Linux (Ubuntu, CentOS), Mac`
+* [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
+* [Thiết lập môi trường](#thiết-lập-môi-trường)
+* [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
+  * [Sử dụng mô hình đã huấn luyện sẵn](#sử-dụng-mô-hình-đã-huấn-luyện-sẵn)
+  * [Huấn luyện mô hình mới](#huấn-luyện-mô-hình-mới) 
+* [Trích dẫn](#trích-dẫn)
+
+
+## Yêu cầu hệ thống 
+
+* `Hệ điều hành: Linux (Ubuntu, CentOS), Mac`
 * `Python 3.6+`
 * `conda 4+`
 
-Python Packages
+## Thiết lập môi trường
 
-* `underthesea==1.1.7`
-* `languageflow==1.1.7`
-
-### 1.2 Download and Setup Environment
-
-Clone project using git
+Tải project bằng cách sử dụng lệnh `git clone`
 
 ```
 $ git clone https://github.com/undertheseanlp/classification.git
 ```
 
-Create environment and install requirements
+Tạo môi trường mới và cài đặt các gói liên quan
 
 ```
-$ cd ner
+$ cd classification
 $ conda create -n classification python=3.6
 $ pip install -r requirements.txt
 ```
 
-## 2. Usage
+## Hướng dẫn sử dụng
 
-Make sure you are in `classification` folder and activate `classification` environment
+Trước khi chạy các thử nghiệm, hãy chắc chắn bạn đã activate môi trường `classification`, mọi câu lệnh đều được chạy trong thư mục gốc của dự án.
 
 ```
 $ cd classification
 $ source activate classification
 ```
 
-### 2.1 Using a pretrained model
+### Sử dụng mô hình đã huấn luyện sẵn
 
 
-To predict label for a sentence
+Dự đoán nhãn của một câu:
 
 ```
-$ python classification.py "Tái phát chấn thương, Neymar không thể tập luyện"
-'the_thao'
+$ python classification.py "Trong suốt kỳ chuyển nhượng mùa hè qua, tiền vệ Eden Hazard của Chelsea đã luôn được Real Madrid nhắm đến để thay thế Cristiano Ronaldo nhưng bất thành. Mới đây, Hazard đã cho biết anh đang chờ đợi thêm những tín hiệu chiêu mộ từ Real Madrid trước khi đưa ra quyết định về tương lai của mình ở Chelsea."
+Bong da
 ```
 
-To predict labels for a file, use option `--fin` and `--fout`
+Dự đoán nhãn từ nội dung trong tệp, sử dụng tùy chọn `--fin`
 
 ```
 $ python classification.py \
-    --fin tmp/input.txt \
-    --fout tmp/output.txt
+    --fin tmp/input.txt
+Giao duc
 ```
 
-### 2.2 Train a new dataset
+### Huấn luyện mô hình mới
 
-**Prepare a new dataset**
+**Chuẩn bị tập dữ liệu mới**
 
-Convert your dataset to [Underthesea Text Classification Data Format](https://github.com/undertheseanlp/classification/blob/master/data_format.md)
-
-Example
+Chuyển đổi tập dữ liệu của bạn thành tệp excel..
 
 ```
-__label__giao_duc Bất ngờ tranh luận quanh bìa SGK Lịch sử lớp 7 có hình Vạn Lý Trường Thành
-__label__giao_duc Tuyển sinh lớp 10 năm 2019 của Hà Nội: Chọn phương án nào hữu hiệu?
-__label__giao_duc Hơn 122.000 giáo viên mầm non nghỉ công tác chưa được hưởng chế độ
-__label__the_thao Báo chí Đông Nam Á hết mực khen ngợi Olympic Việt Nam
-__label__the_thao “Không nên để Công Phượng tiếp tục đá phạt đền!”
-__label__the_thao Chia tay Tottenham, ngôi sao Son Heung-min về thi đấu ở Asiad 2018
+$ python util/preprocess.py
 ```
 
-**Train and test**
+**So sánh các thử nghiệm**
 
 ```
-$ python util/preprocess_vntc.py
-$ python train.py --mode train-test \
-     --train tmp/vntc/train.txt \
-     --test tmp/vntc/test.txt
+# experiments using linearSVC and tfidfvectorizer
+$ python benchmark.py --mode benchmark 
+            --train data/corpus/train.xlsx 
+            --test data/corpus/test.xlsx 
+            --transform tfidf 
+            --s report/benchmark_model_tfidf.png
+```
+```
+# experiments using linearSVC and countvectorizer
+$ python benchmark.py --mode benchmark 
+            --train data/corpus/train.xlsx
+            --test data/corpus/test.xlsx 
+            --transform count 
+            --s report/benchmark_model_count.png
 ```
 
-**Train and save model**
+
+**Huấn luyện và lưu mô hình**
 
 ```
-$ python train.py --mode train \
-     --train data/vntc/train.txt \
-     --s tmp/model.bin 
+$ python train.py --mode train-test 
+            --train data/corpus/train.xlsx 
+            --test data/corpus/test.xlsx 
+            --train_size 0.2 
+            --s models
 ```
 
-## 3. References
+## Trích dẫn
 
-Last update: 08/2018
+TBD
+
+
