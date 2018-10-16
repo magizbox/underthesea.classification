@@ -36,6 +36,9 @@ if args.mode == "train-test":
         parser.error("Mode train-test requires --train_size")
     train_path = os.path.abspath(args.train)
     test_path = os.path.abspath(args.test)
+
+    test = args.test
+    print("Train model")
     train_size = args.train_size
     model_path = os.path.abspath(args.s)
     if not os.path.exists(model_path):
