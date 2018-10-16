@@ -115,7 +115,16 @@ $ python train.py --mode train-test
 
 ## Trích dẫn
 
-TBD
+Nếu bạn thấy mã nguồn này hữu ích, xin hãy trích dẫn đường dẫn đến dự án trọng các nghiên cứu của mình 
+
+```
+@online{undertheseanlp/classification,
+author ={Vu Anh, Bui Nhat Anh},
+year = {2018},
+title ={Phân loại văn bản tiếng Việt},
+url ={https://github.com/undertheseanlp/classification}
+}
+```
 
 ## Bản quyền
 
