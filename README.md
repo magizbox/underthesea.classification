@@ -115,7 +115,7 @@ $ python train.py --mode train-test
 
 ## Trích dẫn
 
-Nếu bạn thấy mã nguồn này hữu ích, xin hãy trích dẫn đường dẫn đến dự án trọng các nghiên cứu của mình 
+Nếu bạn thấy mã nguồn này hữu ích, xin hãy trích dẫn đường dẫn đến dự án trong các nghiên cứu của mình 
 
 ```
 @online{undertheseanlp/classification,
