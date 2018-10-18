@@ -25,6 +25,7 @@ Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm 
 * [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
   * [Sử dụng mô hình đã huấn luyện](#sử-dụng-mô-hình-đã-huấn-luyện)
   * [Huấn luyện mô hình](#huấn-luyện-mô-hình) 
+* [Kết quả thử nghiệm](#kết-quả-thử-nghiệm)
 * [Trích dẫn](#trích-dẫn)
 * [Bản quyền](#bản-quyền)
 
@@ -117,6 +118,21 @@ $ python train.py --mode train-test
             --train_size 0.2 
             --s models
 ```
+
+## Kết quả thử nghiệm 
+
+Kết quả thử nghiệm trên tập dữ liệu VNTC 
+
+<table>
+ <tr>
+   <th>Mô hình</td>
+   <th>F1</td>
+ </tr>
+ <tr>
+    <td>TDB</td>
+    <td>TDB</td>
+ </tr>
+</table>
 
 ## Trích dẫn
 
