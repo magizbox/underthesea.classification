@@ -124,7 +124,9 @@ $ python train.py --mode train-test
 ```
 
 ## Kết quả thử nghiệm 
+
 Mô tả dữ liệu VNTC
+
 | Label                | Topic                | Train  | Test   |
 |----------------------|----------------------|--------|--------|
 | am_nhac              | Âm Nhạc              | 900    | 813    |
