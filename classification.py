@@ -14,9 +14,12 @@ if not (args.text or args.fin):
 
 if args.text:
     text = args.text
-    predict = classifier(text)[0]
-    label = predict.replace("_", " ").capitalize()
-    print(label)
+    try:
+        predict = classifier(text)[0]
+        label = predict.replace("_", " ").capitalize()
+        print(label)
+    except:
+        print("Don't predict label")
 
 if args.fin:
     if not args.fin:
@@ -24,6 +27,9 @@ if args.fin:
     fin = args.fin
     with open(fin) as f:
         text = f.read()
-    predict = classifier(text)[0]
-    label = predict.replace("_", " ").capitalize()
-    print(label)
+    try:
+        predict = classifier(text)[0]
+        label = predict.replace("_", " ").capitalize()
+        print(label)
+    except:
+        print("Don't predict label")
