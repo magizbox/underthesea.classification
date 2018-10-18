@@ -5,8 +5,6 @@
 
 Dự án nghiên cứu về bài toán *phân loại văn bản tiếng Việt*, được phát triển bởi nhóm nghiên cứu xử lý ngôn ngữ tự nhiên tiếng Việt - [underthesea](https://github.com/undertheseanlp). Chứa mã nguồn các thử nghiệm cho việc xử lý dữ liệu, huấn luyện và đánh giá mô hình, cũng như cho phép dễ dàng tùy chỉnh mô hình đối với những tập dữ liệu mới.
 
-
-
 **Nhóm tác giả** 
 
 * Vũ Anh ([anhv.ict91@gmail.com](anhv.ict91@gmail.com))
@@ -120,7 +118,7 @@ $ python train.py --mode train-test
 
 ## Trích dẫn
 
-Nếu bạn thấy mã nguồn này hữu ích, xin hãy trích dẫn đường dẫn đến dự án trong các nghiên cứu của mình 
+Nếu bạn thấy mã nguồn này hữu ích, xin hãy trích dẫn đường dẫn của dự án trong các nghiên cứu của mình 
 
 ```
 @online{undertheseanlp/classification,
