@@ -9,6 +9,7 @@ Dự án nghiên cứu về bài toán *phân loại văn bản tiếng Việt*,
 
 * Vũ Anh ([anhv.ict91@gmail.com](anhv.ict91@gmail.com))
 * Bùi Nhật Anh ([buinhatanh1208@gmail.com](buinhatanh1208@gmail.com))
+* Mai Duy Khánh ([khanh.md01@gmail.com](khanh.md01@gmail.com))
 
 **Tham gia đóng góp**
 
