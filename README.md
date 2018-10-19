@@ -81,7 +81,7 @@ Giao duc
 
 ### Huấn luyện mô hình
 
-**Chuẩn bị tập dữ liệu mới**
+**Tiền xử lý dữ liệu**
 
 Tập dữ liệu của bạn được quy chuẩn từng nhãn theo từng danh mục chứa các file văn bản như tập dữ liệu trong thư mục data/raw
 
@@ -89,7 +89,7 @@ Tập dữ liệu của bạn được quy chuẩn từng nhãn theo từng danh
 Chuyển đổi tập dữ liệu của bạn thành file excel
 
 ```
-$ python util/preprocess.py
+$ python util/preprocess_vntc.py
 ```
 
 **So sánh các thử nghiệm**
