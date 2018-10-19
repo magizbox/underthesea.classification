@@ -83,6 +83,9 @@ Giao duc
 
 **Chuẩn bị tập dữ liệu mới**
 
+Tập dữ liệu của bạn được quy chuẩn từng nhãn theo từng danh mục chứa các file văn bản như tập dữ liệu trong thư mục data/raw
+
+
 Chuyển đổi tập dữ liệu của bạn thành file excel
 
 ```
