@@ -137,7 +137,7 @@ Xem thêm về [*mô tả dữ liệu*](https://github.com/jackNhat/classificati
     <td>TDB</td>
     <td>TDB</td>
  </tr>
-</table>
+ </table>
 
 ## Trích dẫn
 
