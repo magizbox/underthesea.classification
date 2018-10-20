@@ -16,7 +16,11 @@ Dự án nghiên cứu về bài toán *phân loại văn bản tiếng Việt*,
 
 Mọi ý kiến đóng góp hoặc yêu cầu trợ giúp xin gửi vào mục [Issues](../../issues) của dự án. Các thảo luận được khuyến khích **sử dụng tiếng Việt** để dễ dàng trong quá trình trao đổi. 
 
-Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm phát triển với vai trò là [Developer](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor), xin hãy đọc kỹ [Hướng dẫn tham gia đóng góp](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor).
+Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm phát triển với vai trò là [Developer](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor), xin hãy đọc kỹ [Hướng dẫn tham gia](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor).
+
+**Lời cảm ơn**
+
+Xin chân thành cảm ơn các nhóm phát triển sklearn, fasttext đã tạo ra những công cụ hữu ích để nhóm sử dụng trong các thử nghiệm của mình.
 
 ## Mục lục
 
@@ -94,8 +98,9 @@ $ python util/preprocess_vntc.py
 
 **So sánh các thử nghiệm**
 
+Các thử nghiệm kết hợp linearSVC và Tfidfvectorizer/Countvectorizer
+
 ```
-# experiments using linearSVC and tfidfvectorizer
 $ python benchmark.py --mode benchmark 
             --train data/corpus/train.xlsx 
             --test data/corpus/test.xlsx 
@@ -103,7 +108,6 @@ $ python benchmark.py --mode benchmark
             --s report/benchmark_model_tfidf.png
 ```
 ```
-# experiments using linearSVC and countvectorizer
 $ python benchmark.py --mode benchmark 
             --train data/corpus/train.xlsx
             --test data/corpus/test.xlsx 
@@ -124,7 +128,7 @@ $ python train.py --mode train-test
 
 ## Kết quả thử nghiệm 
 
-Kết quả thử nghiệm trên tập dữ liệu VNTC 
+Xem thêm về [*mô tả dữ liệu*](https://github.com/JackNhat/classification/blob/master/data_format.md)
 
 <table>
  <tr>
@@ -135,7 +139,8 @@ Kết quả thử nghiệm trên tập dữ liệu VNTC
     <td>TDB</td>
     <td>TDB</td>
  </tr>
-</table>
+ </table>
+
 
 ## Trích dẫn
 
