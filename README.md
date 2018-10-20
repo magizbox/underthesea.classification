@@ -128,7 +128,7 @@ $ python train.py --mode train-test
 
 ## Kết quả thử nghiệm 
 
-Xem thêm về [*mô tả dữ liệu*](https://github.com/jackNhat/classification/data_format.md)
+Xem thêm về [*mô tả dữ liệu*](https://github.com/JackNhat/classification/blob/master/data_format.md)
 
 <table>
  <tr>
