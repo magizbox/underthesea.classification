@@ -126,6 +126,8 @@ $ python train.py --mode train-test
 
 Kết quả thử nghiệm trên tập dữ liệu VNTC 
 
+Xem thêm về [*mô tả dữ liệu*](https://github.com/undertheseanlp/classification/data_format.md)
+
 <table>
  <tr>
    <th>Mô hình</td>
