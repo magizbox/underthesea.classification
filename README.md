@@ -14,9 +14,10 @@ Dự án nghiên cứu về bài toán *phân loại văn bản tiếng Việt*,
 
 **Tham gia đóng góp**
 
-Mọi ý kiến đóng góp hoặc yêu cầu trợ giúp xin gửi vào mục [Issues](../../issues) của dự án. Các thảo luận được khuyến khích **sử dụng tiếng Việt** để dễ dàng trong quá trình trao đổi. 
+ Mọi ý kiến đóng góp hoặc yêu cầu trợ giúp xin gửi vào mục [Issues](../../issues) của dự án. Các thảo luận được khuyến khích **sử dụng tiếng Việt** để dễ dàng trong quá trình trao đổi. 
+ 
+Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm phát triển với vai trò là [Developer](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor), xin hãy đọc kỹ [Hướng dẫn tham gia đóng góp](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor).
 
-Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm phát triển với vai trò là [Developer](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor), xin hãy đọc kỹ [Hướng dẫn tham gia](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor).
 
 **Lời cảm ơn**
 
@@ -130,16 +131,15 @@ $ python train.py --mode train-test
 
 Xem thêm về [*mô tả dữ liệu*](https://github.com/JackNhat/classification/blob/master/data_format.md)
 
-<table>
- <tr>
-   <th>Mô hình</td>
-   <th>F1</td>
- </tr>
- <tr>
-    <td>TDB</td>
-    <td>TDB</td>
- </tr>
- </table>
+| Mô hình                                         | F1 %     |
+|-------------------------------------------------|----------|
+| CountVectorizer(ngram_range=(1, 2))             | **88.2** |
+| CountVectorizer(ngram_range=(1, 2), max_df=0.5) | 87.7     |
+| CountVectorizer(ngram_range=(1, 2), max_df=0.6) | 87.6     |
+| TfidfVectorizer(max_df=0.5)                     | 86.7     |
+| TfidfVectorizer(max_df=0.6)                     | 86.6     |
+| TfidfVectorizer(max_df=0.8)                     | 83.0     |
+
 
 
 ## Trích dẫn
