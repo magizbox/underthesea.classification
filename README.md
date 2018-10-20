@@ -85,12 +85,15 @@ Giao duc
 
 ### Huấn luyện mô hình
 
-**Chuẩn bị tập dữ liệu mới**
+**Tiền xử lý dữ liệu**
+
+Tập dữ liệu của bạn được quy chuẩn từng nhãn theo từng danh mục chứa các file văn bản như tập dữ liệu trong thư mục data/raw
+
 
 Chuyển đổi tập dữ liệu của bạn thành file excel
 
 ```
-$ python util/preprocess.py
+$ python util/preprocess_vntc.py
 ```
 
 **So sánh các thử nghiệm**
@@ -125,49 +128,19 @@ $ python train.py --mode train-test
 
 ## Kết quả thử nghiệm 
 
-Mô tả dữ liệu VNTC
+Xem thêm về [*mô tả dữ liệu*](https://github.com/jackNhat/classification/data_format.md)
 
-| Label                | Topic                | Train  | Test   |
-|----------------------|----------------------|--------|--------|
-| am_nhac              | Âm Nhạc              | 900    | 813    |
-| am_thuc              | Ẩm thực              | 265    | 400    |
-| bat_dong_san         | Bất động sản         | 246    | 282    |
-| bong_da              | Bóng đá              | 1,857  | 1,464  |
-| chung_khoan          | Chứng khoán          | 382    | 320    |
-| cum_ga               | Cúm gà               | 510    | 381    |
-| cuoc_song_do_day     | Cuộc sống đó đây     | 729    | 405    |
-| du_hoc               | Du học               | 682    | 394    |
-| du_lich              | Du lịch              | 582    | 565    |
-| duong_vao_WTO        | Đường vào WTO        | 208    | 191    |
-| gia_dinh             | Gia đình             | 213    | 280    |
-| giai_tri_tin_hoc     | Giải trí tin học     | 825    | 707    |
-| giao_duc             | Giáo dục             | 821    | 707    |
-| gioi_tinh            | Giới tính            | 343    | 268    |
-| hacker_&_virus       | Hacker & Virus       | 355    | 319    |
-| hinh_su              | Hình sự              | 155    | 196    |
-| khong_gian_song      | Không gian sống      | 134    | 58     |
-| kinh_doanh_quoc_te   | Kinh doanh quốc tế   | 571    | 559    |
-| lam_dep              | Làm đẹp              | 776    | 735    |
-| loi_song             | Lối sống             | 223    | 214    |
-| mua_sam              | Mua sắm              | 187    | 84     |
-| my_thuat             | Mỹ thuật             | 193    | 144    |
-| san_khau_dien_anh    | Sân khấu điện ảnh    | 1,117  | 1,030  |
-| san_pham_tin_hoc_moi | Sản phẩm tin học mới | 770    | 595    |
-| tennis               | Tennis               | 588    | 283    |
-| the_gioi_tre         | Thế giới trẻ         | 331    | 380    |
-| thoi_trang           | Thời trang           | 412    | 302    |
-|                      | Tổng kết             | 14,375 | 12,076 |
+<table>
+ <tr>
+   <th>Mô hình</td>
+   <th>F1</td>
+ </tr>
+ <tr>
+    <td>TDB</td>
+    <td>TDB</td>
+ </tr>
+ </table>
 
-Kết quả thử nghiệm trên tập dữ liệu VNTC 
-
-| Mô hình                                         | F1 % |
-|-------------------------------------------------|------|
-| TfidfVectorizer(max_df=0.8)                     | 83.0 |
-| TfidfVectorizer(max_df=0.6)                     | 86.6 |
-| TfidfVectorizer(max_df=0.5)                     | 86.7 |
-| CountVectorizer(ngram_range=(1, 2), max_df=0.6) | 87.6 |
-| CountVectorizer(ngram_range=(1, 2), max_df=0.5) | 87.7 |
-| CountVectorizer(ngram_range=(1, 2))             | 88.2 |
 
 ## Trích dẫn
 
