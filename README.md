@@ -131,7 +131,7 @@ $ python train.py --mode train-test
 
 Xem thêm về [*mô tả dữ liệu*](https://github.com/JackNhat/classification/blob/master/data_format.md)
 
-Mô hình thử nghiệm kết hợp SVM và các đặc trưng Tfidf, BoW
+Kết quả các thử nghiệm kết hợp mô hình SVM và các đặc trưng Tfidf, BoW
 
 | Mô hình                                         | F1 %     |
 |-------------------------------------------------|----------|
