@@ -131,6 +131,8 @@ $ python train.py --mode train-test
 
 Xem thêm về [*mô tả dữ liệu*](https://github.com/JackNhat/classification/blob/master/data_format.md)
 
+Mô hình thử nghiệm kết hợp SVM và các đặc trưng Tfidf, BoW
+
 | Mô hình                                         | F1 %     |
 |-------------------------------------------------|----------|
 | CountVectorizer(ngram_range=(1, 2))             | **88.2** |
