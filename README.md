@@ -83,8 +83,11 @@ Giao duc
 
 **Tiền xử lý dữ liệu**
 
-Tập dữ liệu của bạn được quy chuẩn từng nhãn theo từng danh mục chứa các file văn bản như tập dữ liệu trong thư mục data/raw
+Để huấn luyện với dữ liệu VNTC, tải tập dữ liệu về bằng câu lệnh 
 
+```
+$ util/get_vntc.sh
+```
 
 Chuyển đổi tập dữ liệu của bạn thành file excel
 
