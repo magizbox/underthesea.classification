@@ -71,10 +71,15 @@ $ source activate classification
 
 **Tiền xử lý dữ liệu**
 
-Tập dữ liệu của bạn được quy chuẩn từng nhãn theo từng danh mục chứa các file văn bản như tập dữ liệu trong thư mục data/raw
+Lấy về bộ dữ liệu VNTC
+```
+$ sh util/get_vntc.sh
+```
+
+Tập dữ liệu được quy chuẩn từng nhãn theo từng danh mục chứa các file văn bản như tập dữ liệu trong thư mục data/raw
 
 
-Chuyển đổi tập dữ liệu của bạn thành file excel
+Chuyển đổi tập dữ liệu thành file excel
 
 ```
 $ python util/preprocess_vntc.py
