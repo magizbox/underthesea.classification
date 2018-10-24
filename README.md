@@ -18,6 +18,11 @@ Dự án nghiên cứu về bài toán *phân loại văn bản tiếng Việt*,
  
 Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm phát triển với vai trò là [Developer](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor), xin hãy đọc kỹ [Hướng dẫn tham gia đóng góp](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor).
 
+
+**Lời cảm ơn**
+
+Xin chân thành cảm ơn các nhóm phát triển sklearn, fasttext đã tạo ra những công cụ hữu ích để nhóm sử dụng trong các thử nghiệm của mình.
+
 ## Mục lục
 
 * [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
@@ -61,33 +66,13 @@ $ cd classification
 $ source activate classification
 ```
 
-### Sử dụng mô hình đã huấn luyện sẵn
-
-
-Dự đoán nhãn của một câu:
-
-```
-$ python classification.py "Trong suốt kỳ chuyển nhượng mùa hè qua, tiền vệ Eden Hazard của Chelsea đã luôn được Real Madrid nhắm đến để thay thế Cristiano Ronaldo nhưng bất thành. Mới đây, Hazard đã cho biết anh đang chờ đợi thêm những tín hiệu chiêu mộ từ Real Madrid trước khi đưa ra quyết định về tương lai của mình ở Chelsea."
-Bong da
-```
-
-Dự đoán nhãn từ nội dung trong file, sử dụng tùy chọn `--fin`
-
-```
-$ python classification.py \
-    --fin tmp/input.txt
-Giao duc
-```
 
 ### Huấn luyện mô hình
 
 **Tiền xử lý dữ liệu**
 
-Để huấn luyện với dữ liệu VNTC, tải tập dữ liệu về bằng câu lệnh 
+Tập dữ liệu của bạn được quy chuẩn từng nhãn theo từng danh mục chứa các file văn bản như tập dữ liệu trong thư mục data/raw
 
-```
-$ util/get_vntc.sh
-```
 
 Chuyển đổi tập dữ liệu của bạn thành file excel
 
@@ -140,6 +125,23 @@ Kết quả các thử nghiệm kết hợp mô hình SVM và các đặc trưng
 | TfidfVectorizer(max_df=0.6)                     | 86.6     |
 | TfidfVectorizer(max_df=0.8)                     | 83.0     |
 
+### Sử dụng mô hình đã huấn luyện
+
+
+Dự đoán nhãn của một câu:
+
+```
+$ python classification.py "Trong suốt kỳ chuyển nhượng mùa hè qua, tiền vệ Eden Hazard của Chelsea đã luôn được Real Madrid nhắm đến để thay thế Cristiano Ronaldo nhưng bất thành. Mới đây, Hazard đã cho biết anh đang chờ đợi thêm những tín hiệu chiêu mộ từ Real Madrid trước khi đưa ra quyết định về tương lai của mình ở Chelsea."
+Bong da
+```
+
+Dự đoán nhãn từ nội dung trong file, sử dụng tùy chọn `--fin`
+
+```
+$ python classification.py \
+    --fin tmp/input.txt
+Giao duc
+```
 
 
 ## Trích dẫn
@@ -160,7 +162,3 @@ url ={https://github.com/undertheseanlp/classification}
 Mã nguồn của dự án được phân phối theo giấy phép [GPL-3.0](LICENSE.txt).
 
 Dự án sử dụng tập dữ liệu **[VNTC](https://github.com/duyvuleo/VNTC)** trong các thử nghiệm. Xin vui lòng kiểm tra lại thông tin trên website hoặc báo cáo khoa học tương ứng để biết thông tin về bản quyền và trích dẫn khi sử dụng tập dữ liệu này. 
-
-## Lời cảm ơn
-
-Xin chân thành cảm ơn các nhóm phát triển sklearn, fasttext đã tạo ra những công cụ hữu ích để nhóm sử dụng trong các thử nghiệm của mình.
