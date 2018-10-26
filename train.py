@@ -3,6 +3,7 @@ import os
 import pickle
 from time import time
 
+import joblib
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.multiclass import OneVsRestClassifier
@@ -24,7 +25,7 @@ args = parser.parse_args()
 
 def save_model(filename, clf):
     with open(filename, 'wb') as f:
-        pickle.dump(clf, f, pickle.HIGHEST_PROTOCOL)
+        joblib.dump(clf, f, compress=3)
 
 
 if args.mode == "train-test":
