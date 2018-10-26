@@ -19,10 +19,6 @@ Dự án nghiên cứu về bài toán *phân loại văn bản tiếng Việt*,
 Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm phát triển với vai trò là [Developer](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor), xin hãy đọc kỹ [Hướng dẫn tham gia đóng góp](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor).
 
 
-**Lời cảm ơn**
-
-Xin chân thành cảm ơn các nhóm phát triển sklearn, fasttext đã tạo ra những công cụ hữu ích để nhóm sử dụng trong các thử nghiệm của mình.
-
 ## Mục lục
 
 * [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
@@ -64,6 +60,22 @@ Trước khi chạy các thử nghiệm, hãy chắc chắn bạn đã activate 
 ```
 $ cd classification
 $ source activate classification
+```
+**Sử dụng mô hình có sẵn**
+
+Dự đoán nhãn của một câu:
+
+```
+$ python classification.py "Theo CNBC, trong bối cảnh cuộc chiến thương mại Mỹ-Trung chưa rõ hồi kết, các nền kinh tế mạnh hàng đầu châu Á Thái Bình Dương và là đồng minh thân thiết với Mỹ như Nhật Bản, Hàn Quốc, Australia, Đài Loan dường như đã đồng loạt chuyển hướng sang hợp tác với Ấn Độ, nhằm giảm thiểu sự phụ thuộc vào Trung Quốc."
+Kinh doanh quoc te
+```
+
+Dự đoán nhãn từ nội dung trong file, sử dụng tùy chọn `--fin`
+
+```
+$ python classification.py \
+    --fin tmp/input.txt
+Giao duc
 ```
 
 
@@ -148,7 +160,6 @@ $ python classification.py \
 Giao duc
 ```
 
-
 ## Trích dẫn
 
 Nếu bạn thấy mã nguồn này hữu ích, xin hãy trích dẫn đường dẫn của dự án trong các nghiên cứu của mình 
@@ -161,6 +172,9 @@ title ={Phân loại văn bản tiếng Việt},
 url ={https://github.com/undertheseanlp/classification}
 }
 ```
+## Lời cảm ơn
+Xin chân thành cảm ơn các nhóm phát triển sklearn, fasttext đã tạo ra những công cụ hữu ích để nhóm sử dụng trong các thử nghiệm của mình.
+
 
 ## Bản quyền
 
