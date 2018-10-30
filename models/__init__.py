@@ -1,10 +1,10 @@
-import pickle
 from os.path import join, dirname
 
+import joblib
 
-y_transform = pickle.load(open(join(dirname(__file__), "y_transformer.pkl"), "rb"))
-x_transform = pickle.load(open(join(dirname(__file__), "x_transformer.pkl"), "rb"))
-estimator = pickle.load(open(join(dirname(__file__), "model.pkl"), "rb"))
+y_transform = joblib.load(join(dirname(__file__), "y_transformer.pkl"))
+x_transform = joblib.load(join(dirname(__file__), "x_transformer.pkl"))
+estimator = joblib.load(join(dirname(__file__), "model.pkl"))
 
 
 def classifier(X):
