@@ -18,6 +18,7 @@ Dự án nghiên cứu về bài toán *phân loại văn bản tiếng Việt*,
  
 Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm phát triển với vai trò là [Developer](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor), xin hãy đọc kỹ [Hướng dẫn tham gia đóng góp](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor).
 
+
 ## Mục lục
 
 * [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
@@ -60,15 +61,13 @@ Trước khi chạy các thử nghiệm, hãy chắc chắn bạn đã activate 
 $ cd classification
 $ source activate classification
 ```
-
-### Sử dụng mô hình đã huấn luyện sẵn
-
+**Sử dụng mô hình có sẵn**
 
 Dự đoán nhãn của một câu:
 
 ```
-$ python classification.py "Trong suốt kỳ chuyển nhượng mùa hè qua, tiền vệ Eden Hazard của Chelsea đã luôn được Real Madrid nhắm đến để thay thế Cristiano Ronaldo nhưng bất thành. Mới đây, Hazard đã cho biết anh đang chờ đợi thêm những tín hiệu chiêu mộ từ Real Madrid trước khi đưa ra quyết định về tương lai của mình ở Chelsea."
-Bong da
+$ python classification.py "Theo CNBC, trong bối cảnh cuộc chiến thương mại Mỹ-Trung chưa rõ hồi kết, các nền kinh tế mạnh hàng đầu châu Á Thái Bình Dương và là đồng minh thân thiết với Mỹ như Nhật Bản, Hàn Quốc, Australia, Đài Loan dường như đã đồng loạt chuyển hướng sang hợp tác với Ấn Độ, nhằm giảm thiểu sự phụ thuộc vào Trung Quốc."
+Kinh doanh quoc te
 ```
 
 Dự đoán nhãn từ nội dung trong file, sử dụng tùy chọn `--fin`
@@ -79,17 +78,20 @@ $ python classification.py \
 Giao duc
 ```
 
+
 ### Huấn luyện mô hình
 
 **Tiền xử lý dữ liệu**
 
-Để huấn luyện với dữ liệu VNTC, tải tập dữ liệu về bằng câu lệnh 
-
+Lấy về bộ dữ liệu VNTC
 ```
-$ util/get_vntc.sh
+$ sh util/get_vntc.sh
 ```
 
-Chuyển đổi tập dữ liệu của bạn thành file excel
+Tập dữ liệu được quy chuẩn từng nhãn theo từng danh mục chứa các file văn bản như tập dữ liệu trong thư mục data/raw
+
+
+Chuyển đổi tập dữ liệu thành file excel
 
 ```
 $ python util/preprocess_vntc.py
@@ -129,7 +131,7 @@ $ python train.py --mode train-test
 
 Xem thêm về [*mô tả dữ liệu*](https://github.com/JackNhat/classification/blob/master/data_format.md)
 
-Mô hình thử nghiệm kết hợp SVM và các đặc trưng Tfidf, BoW
+Kết quả các thử nghiệm kết hợp mô hình SVM và các đặc trưng Tfidf, BoW
 
 | Mô hình                                         | F1 %     |
 |-------------------------------------------------|----------|
@@ -140,7 +142,23 @@ Mô hình thử nghiệm kết hợp SVM và các đặc trưng Tfidf, BoW
 | TfidfVectorizer(max_df=0.6)                     | 86.6     |
 | TfidfVectorizer(max_df=0.8)                     | 83.0     |
 
+### Sử dụng mô hình đã huấn luyện
 
+
+Dự đoán nhãn của một câu:
+
+```
+$ python classification.py "Trong suốt kỳ chuyển nhượng mùa hè qua, tiền vệ Eden Hazard của Chelsea đã luôn được Real Madrid nhắm đến để thay thế Cristiano Ronaldo nhưng bất thành. Mới đây, Hazard đã cho biết anh đang chờ đợi thêm những tín hiệu chiêu mộ từ Real Madrid trước khi đưa ra quyết định về tương lai của mình ở Chelsea."
+Bong da
+```
+
+Dự đoán nhãn từ nội dung trong file, sử dụng tùy chọn `--fin`
+
+```
+$ python classification.py \
+    --fin tmp/input.txt
+Giao duc
+```
 
 ## Trích dẫn
 
@@ -154,13 +172,12 @@ title ={Phân loại văn bản tiếng Việt},
 url ={https://github.com/undertheseanlp/classification}
 }
 ```
+## Lời cảm ơn
+Xin chân thành cảm ơn các nhóm phát triển sklearn, fasttext đã tạo ra những công cụ hữu ích để nhóm sử dụng trong các thử nghiệm của mình.
+
 
 ## Bản quyền
 
 Mã nguồn của dự án được phân phối theo giấy phép [GPL-3.0](LICENSE.txt).
 
 Dự án sử dụng tập dữ liệu **[VNTC](https://github.com/duyvuleo/VNTC)** trong các thử nghiệm. Xin vui lòng kiểm tra lại thông tin trên website hoặc báo cáo khoa học tương ứng để biết thông tin về bản quyền và trích dẫn khi sử dụng tập dữ liệu này. 
-
-## Lời cảm ơn
-
-Xin chân thành cảm ơn các nhóm phát triển sklearn, fasttext đã tạo ra những công cụ hữu ích để nhóm sử dụng trong các thử nghiệm của mình.
