@@ -1,6 +1,5 @@
 import argparse
 import os
-import pickle
 from time import time
 
 import joblib
