@@ -66,8 +66,8 @@ $ source activate classification
 Dự đoán nhãn của một câu:
 
 ```
-$ python classification.py "Theo CNBC, trong bối cảnh cuộc chiến thương mại Mỹ-Trung chưa rõ hồi kết, các nền kinh tế mạnh hàng đầu châu Á Thái Bình Dương và là đồng minh thân thiết với Mỹ như Nhật Bản, Hàn Quốc, Australia, Đài Loan dường như đã đồng loạt chuyển hướng sang hợp tác với Ấn Độ, nhằm giảm thiểu sự phụ thuộc vào Trung Quốc."
-Kinh doanh quoc te
+$ python classification.py "Trong phần lớn thời gian sáng nay, thầy trò HLV Park Hang Seo có cuộc họp nội bộ tại khách sạn. Tại cuộc họp này, nội dung quan trọng nhất chính là xem băng ghi hình một số trận đấu gần nhất của đội chủ nhà, giúp đội tuyển Việt Nam đưa ra những phương án đối phó trong trận ra quân tại AFF Cup 2018 sắp tới."
+The thao
 ```
 
 Dự đoán nhãn từ nội dung trong file, sử dụng tùy chọn `--fin`
@@ -75,7 +75,7 @@ Dự đoán nhãn từ nội dung trong file, sử dụng tùy chọn `--fin`
 ```
 $ python classification.py \
     --fin tmp/input.txt
-Giao duc
+Kinh doanh
 ```
 
 
