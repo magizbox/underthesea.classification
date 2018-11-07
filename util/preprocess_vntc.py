@@ -4,9 +4,11 @@ from os.path import join, dirname
 from random import shuffle
 
 import pandas as pd
+from ftfy import fix_text
 
 
 def normalize_text(text):
+    text = fix_text(text)
     text = " ".join(i for i in text.split())
     table = str.maketrans({key: None for key in string.punctuation})
     text = text.translate(table)
@@ -46,8 +48,8 @@ def convert_to_corpus(name, rows):
 
 if __name__ == '__main__':
     path = join(dirname(dirname(__file__)), 'data', 'raw')
-    train_folder = [join(path, "train", i) for i in os.listdir(join(path, "train"))]
-    test_folder = [join(path, "test", i) for i in os.listdir(join(path, "test"))]
+    train_folder = [join(path, "Train_Full", i) for i in os.listdir(join(path, "Train_Full"))]
+    test_folder = [join(path, "Test_Full", i) for i in os.listdir(join(path, "Test_Full"))]
     train = [x for i in train_folder for x in load_data(i)]
     test = [x for i in test_folder for x in load_data(i)]
     convert_to_corpus("train", train)
