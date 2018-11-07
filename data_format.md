@@ -1,8 +1,8 @@
 # Mô tả dữ liệu
 
-| Phiên bản         | v1.0.0     |
+| Phiên bản         | v1.0.1     |
 |-------------------|------------|
-| Lần cập nhật cuối | 20/10/2018 |
+| Lần cập nhật cuối | 06/11/2018 |
 | Người thực hiện   | Bùi Nhật Anh     |
 
 Tài liệu mô tả đề xuất về cấu trúc chuẩn của tập dữ liệu (corpus) đối với bài toán phân loại văn bản (text classification). Được áp dụng trong các thí nghiệm của [`underthesea`](http://github.com/undertheseanlp/classification).
@@ -20,33 +20,33 @@ Cấu trúc thư mục
 ```
 .
 ├── raw
-|   ├── train
-|   |   ├── Am nhac
-|   |   ├── Am thuc
-|   |   ├── Bat dong san
+|   ├── Train_Full
+|   |   ├── Chinh tri Xa hoi
+|   |   ├── Doi song
+|   |   ├── Khoa hoc
 |   |   └── ...
-|   └── test
-|   |   ├── Am nhac
-|   |   ├── Am thuc
-|   |   ├── Bat dong san
+|   └── Test_Full
+|   |   ├── Chinh tri Xa hoi
+|   |   ├── Doi song
+|   |   ├── Khoa hoc
 |   └── └── ...
 └── corpus
     ├── train.xlsx
     └── test.xlsx
 ```
 
-Thư mục `raw` chứa dữ liệu [`VNTC`](https://github.com/duyvuleo/VNTC) bao gồm 14375 văn bản cho việc huấn luyện, 12076 văn bản cho việc kiểm thử, tương ứng với hai thư mục `train` và `test`, mỗi thư mục gồm 27 thư mục với 27 topic của bộ dữ liệu, mỗi thư mục gồm các file văn bản (với đuôi định dạng txt). File `text` chứa nội dung của từng văn bản ứng với tên file tương ứng.
+Thư mục `raw` chứa dữ liệu [`VNTC`](https://github.com/duyvuleo/VNTC) bao gồm 33759 văn bản cho việc huấn luyện, 50373 văn bản cho việc kiểm thử, tương ứng với hai thư mục `train` và `test`, mỗi thư mục gồm 10 thư mục với 10 topic của bộ dữ liệu, mỗi thư mục gồm các file văn bản (với đuôi định dạng txt). File `text` chứa nội dung của từng văn bản ứng với tên file tương ứng.
 
 *Format*: `<text_file_id>|<text content>`
 
-*Ví dụ trong thư mục `Am nhac`*
+*Ví dụ trong thư mục `Chinh tri Xa hoi`*
 ```
-AN_NLD_T_ (761)|text content 761
-AN_NLD_T_ (762)|text content 762
-AN_NLD_T_ (763)|text content 763
-AN_NLD_T_ (764)|text content 764
+XH_NLD_ (3672)|text content 3672
+XH_NLD_ (3673)|text content 3673
+XH_NLD_ (3674)|text content 3674
+XH_NLD_ (3675)|text content 3675
 ```
-Tương tự như vậy với 26 thư mục còn lại.
+Tương tự như vậy với 9 thư mục còn lại.
  
 
 Thư mục `corpus` chứa dữ liệu huấn luyện và kiểm thử tương tự với 2 file `train.xlsx` và `test.xlsx`. Để có được 2 file này, chạy câu lệnh:
@@ -57,11 +57,11 @@ Mỗi văn bản trong bộ dữ liệu VNTC được biến đổi dạng one-h
 
 *Ví dụ*
 
-| text                                                                          | am_nhac | am_thuc | bat_dong_san | bong_da |
+| text                                                                          | chnh_tri_xa_hoi| doi_song |khoa_hoc| kinh_doanh|
 |-------------------------------------------------------------------------------|---------|---------|--------------|---------|
-| UBND TP Hà Nội vừa ban hành quyết định về giá bán căn hộ chung cư cao tầng... | 0       | 0       | 1            | 0       |
-| Hồ Ngọc Hà: 'Đôi khi tôi hơi coi thường đàn ông' ...                          | 1       | 0       | 0            | 0       |
-| Riquelme vắng mặt trận gặp M.U                                                | 0       | 0       | 0            | 1       |
-| Các quán tiết canh Hà Nội giờ đóng cửa                                        | 0       | 1       | 0            | 0       |
+|thành lập dự án policy phòng chống hiv/aids ở vn...| 1  | 0       | 0            | 0       |
+|  sử dụng màu sắc trong trang trí nội thất ...                          | 0       | 1       | 0            | 0       |
+| sếu đầu đỏ ở vườn quốc gia tràm chim vườn quốc gia tràm chim...                                             | 0       | 0       | 1           | 0       |
+|  không thu thuế đối với các loại trái phiếu chính phủ ...                                     | 0       | 0       | 0            | 1       |
 
 Với 2 thư mục `train` và `test` sẽ thu được 2 file `train.xlsx` và `test.xlsx` tương ứng.
