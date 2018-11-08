@@ -99,14 +99,15 @@ $ python util/preprocess_vntc.py
 
 **So sánh các thử nghiệm**
 
+<<<<<<< HEAD
 Các thử nghiệm kết hợp LinearSVC và CountVectorizer 
 
 ```
 $ python benchmark.py 
---mode benchmark 
---train data/corpus/train.xlsx 
---test data/corpus/test.xlsx 
---s report/benchmark_chi2.png
+            --mode benchmark 
+            --train data/corpus/train.xlsx 
+            --test data/corpus/test.xlsx 
+            --s report/benchmark_chi2.png
 ```
 
 **Huấn luyện và lưu mô hình**
