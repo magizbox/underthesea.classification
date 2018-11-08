@@ -1,0 +1,17 @@
+certifi==2018.8.24
+Click==7.0
+cycler==0.10.0
+joblib==0.13.0
+kiwisolver==1.0.1
+languageflow==1.1.8a1
+matplotlib==3.0.1
+numpy==1.15.4
+pandas==0.23.4
+pyparsing==2.3.0
+python-crfsuite==0.9.5
+python-dateutil==2.7.5
+pytz==2018.7
+scikit-learn==0.20.0
+scipy==1.1.0
+six==1.11.0
+underthesea==1.1.9a1

@@ -1,15 +1,10 @@
 import os
 
 from underthesea import word_tokenize
-
-
-
-import string
 from os.path import join, dirname
 from random import shuffle
 
 import pandas as pd
-from ftfy import fix_text
 
 
 def normalize(text):
