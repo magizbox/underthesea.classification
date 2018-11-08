@@ -85,7 +85,6 @@ if args.mode == "benchmark":
     for k in range(1000, 10000, 1000):
         results.append(classifier(k, X_train, y_train, X_test, y_test))
 
-
     # make some plots
     indices = np.arange(len(results))
     results = [[x[i] for x in results] for i in range(4)]

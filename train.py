@@ -46,6 +46,7 @@ if args.mode == "train-test":
     X_test, y_test = load_dataset(test_path)
 
     target_names = list(set([i[0] for i in y_train]))
+
     print("%d documents (training set)" % len(X_train))
     print("%d documents (test set)" % len(X_test))
     print("%d categories" % len(target_names))
@@ -66,6 +67,7 @@ if args.mode == "train-test":
     y_test = y_transformer.transform(y_test)
 
     model = OneVsRestClassifier(LinearSVC())
+
     estimator = model.fit(X_train, y_train)
     train_time = time() - t0
     print("\t-train time: %0.3fs" % train_time)
