@@ -10,7 +10,7 @@ import pandas as pd
 def normalize(text):
     text = text.lower()
     sentence = word_tokenize(text)
-    stop_words = open("/util/vietnamese-stopwords.txt").read().split("\n")
+    stop_words = open("vietnamese-stopwords.txt").read().split("\n")
     filtered_sentence = [w for w in sentence if not w in stop_words]
     text = " ".join(i for i in filtered_sentence)
     return text
