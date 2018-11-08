@@ -99,7 +99,6 @@ $ python util/preprocess_vntc.py
 
 **So sánh các thử nghiệm**
 
-<<<<<<< HEAD
 Các thử nghiệm kết hợp LinearSVC và CountVectorizer 
 
 ```
