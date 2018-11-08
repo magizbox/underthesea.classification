@@ -135,12 +135,12 @@ Kết quả các thử nghiệm kết hợp mô hình SVM và các đặc trưng
 
 | Mô hình                                         | F1 %     |
 |-------------------------------------------------|----------|
-| CountVectorizer(ngram_range=(1, 2))             | **88.2** |
-| CountVectorizer(ngram_range=(1, 2), max_df=0.5) | 87.7     |
-| CountVectorizer(ngram_range=(1, 2), max_df=0.6) | 87.6     |
-| TfidfVectorizer(max_df=0.5)                     | 86.7     |
-| TfidfVectorizer(max_df=0.6)                     | 86.6     |
-| TfidfVectorizer(max_df=0.8)                     | 83.0     |
+| CountVectorizer(ngram_range=(1, 3), max_df=0.7) | **89.3** |
+| TfidfVectorizer(max_df=0.8)                     | 89.0     |
+| CountVectorizer(ngram_range=(1, 3)              | 88.9     |
+| TfidfVectorizer(ngram_range=(1, 3), max_df=0.8) | 86.9     |
+| TfidfVectorizer(ngram_range=(1, 3))             | 86.8     |
+| CountVectorizer(max_df=0.7)                     | 85.5     |
 
 ### Sử dụng mô hình đã huấn luyện
 
