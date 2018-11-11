@@ -1,11 +1,9 @@
 import os
-import string
+
 from os.path import join, dirname
 from random import shuffle
 
 import pandas as pd
-from ftfy import fix_text
-
 
 
 def load_data(folder):
