@@ -57,7 +57,7 @@ if args.mode == "train-test":
 
     print("Training model")
     t0 = time()
-    transformer = CountVectorizer(ngram_range=(1, 2), max_df=0.7)
+    transformer = CountVectorizer(ngram_range=(1, 3), max_df=0.7)
     X = transformer.fit_transform(X)
     y_transformer = MultiLabelBinarizer()
     y = y_transformer.fit_transform(y)

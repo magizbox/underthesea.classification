@@ -23,6 +23,7 @@ def load_data(folder):
         with open(file, "rb") as f:
             content = f.read()
             content = content.decode('utf-16')
+            content = normalize_text(content)
         data.append({"label": label, "text": content})
     return data
 
@@ -32,7 +33,7 @@ def convert_to_corpus(name, rows):
     labels = list(set([row["label"] for row in rows]))
     for row in rows:
         item = {}
-        item["text"] = normalize_text(row["text"])
+        item["text"] = row["text"]
         for label in labels:
             if label in row["label"]:
                 item[label] = 1
