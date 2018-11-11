@@ -4,6 +4,7 @@ from os.path import join, dirname
 from random import shuffle
 
 import pandas as pd
+from ftfy import fix_text
 
 
 def load_data(folder):
@@ -23,7 +24,7 @@ def convert_to_corpus(name, rows):
     labels = list(set([row["label"] for row in rows]))
     for row in rows:
         item = {}
-        item["text"] = row["text"]
+        item["text"] = fix_text(row["text"])
         for label in labels:
             if label in row["label"]:
                 item[label] = 1
