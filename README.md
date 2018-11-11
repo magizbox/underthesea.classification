@@ -126,7 +126,6 @@ $ python train.py --mode train-test
             --test data/corpus/test.xlsx 
             --train_size 0.2 
             --s models
-            --chi2 2500
 ```
 
 ## Kết quả thử nghiệm 
