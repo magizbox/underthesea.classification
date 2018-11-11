@@ -1,4 +1,7 @@
 import argparse
+import string
+
+from ftfy import fix_text
 
 from models import classifier
 

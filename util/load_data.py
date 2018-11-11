@@ -1,4 +1,7 @@
+import string
+
 import pandas as pd
+from ftfy import fix_text
 
 
 def normalize_text(text):
