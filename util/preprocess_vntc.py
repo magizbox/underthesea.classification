@@ -7,13 +7,6 @@ import pandas as pd
 from ftfy import fix_text
 
 
-def normalize_text(text):
-    text = fix_text(text)
-    text = " ".join(i for i in text.split())
-    table = str.maketrans({key: None for key in string.punctuation})
-    text = text.translate(table)
-    return text.lower()
-
 
 def load_data(folder):
     data = []
@@ -23,7 +16,6 @@ def load_data(folder):
         with open(file, "rb") as f:
             content = f.read()
             content = content.decode('utf-16')
-            content = normalize_text(content)
         data.append({"label": label, "text": content})
     return data
 
