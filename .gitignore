@@ -178,7 +178,3 @@ tmp/*
 /models/x_transformer.pkl
 /models/model.pkl
 
-__pycache__
-
-data/VNTC
-!data/VNTC/README.md

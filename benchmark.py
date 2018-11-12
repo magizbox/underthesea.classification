@@ -6,8 +6,6 @@ import numpy as np
 from sklearn import metrics
 
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from sklearn.model_selection import train_test_split
-from sklearn.multiclass import OneVsRestClassifier
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.svm import LinearSVC
 import matplotlib.pyplot as plt
@@ -27,28 +25,27 @@ parser.add_argument("--s", help="path to save image")
 args = parser.parse_args()
 
 
-def classifier(algorithm, X, y):
+def classifier(algorithm, X_train, y_train, X_test, y_test):
     print("_" * 80)
     name = algorithm[0]
     transformer = algorithm[1]
     print(name)
     t0 = time()
-    X = transformer.fit_transform(X)
+    X = transformer.fit_transform(X_train)
     y_transformer = MultiLabelBinarizer()
-    y = y_transformer.fit_transform(y)
+    y = y_transformer.fit_transform(y_train)
 
-    model = OneVsRestClassifier(LinearSVC())
-    X_train, X_dev, y_train, y_dev = train_test_split(X, y, train_size=0.2)
+    model = LinearSVC()
     estimator = model.fit(X_train, y_train)
     train_time = time() - t0
     print("\t-train time: %0.3fs" % train_time)
 
     t0 = time()
-    y_pred = estimator.predict(X_dev)
+    y_pred = estimator.predict(X_test)
     test_time = time() - t0
     print("\t-test time: %0.3fs" % test_time)
 
-    f1_score = metrics.f1_score(y_dev, y_pred, average="weighted")
+    f1_score = metrics.f1_score(y_test, y_pred, average="weighted")
     print("\t-f1 score: %0.3f" % f1_score)
 
     return name, f1_score, train_time, test_time
@@ -65,9 +62,7 @@ if args.mode == "benchmark":
     test = args.test
     X_train, y_train = load_dataset(train_path)
     X_test, y_test = load_dataset(test_path)
-    X = X_train + X_test
-    y = y_train + y_test
-    target_names = list(set([i[0] for i in y]))
+    target_names = list(set([i[0] for i in y_train]))
     print("%d documents (training set)" % len(X_train))
     print("%d documents (test set)" % len(X_test))
     print("%d categories" % len(target_names))
@@ -104,7 +99,7 @@ if args.mode == "benchmark":
     results = []
     print("Benchmark model using linearSVC")
     for algo in algorithms:
-        results.append(classifier(algo, X, y))
+        results.append(classifier(algo, X_train, y_train, X_test, y_test))
 
     # make some plots
     indices = np.arange(len(results))
