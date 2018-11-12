@@ -16,14 +16,12 @@ parser.add_argument("--mode", help="available modes: train-test", required=True)
 parser.add_argument("--train", help="train folder")
 parser.add_argument("--test", help="test folder")
 parser.add_argument("--s", help="path to save model")
-parser.add_argument("--train_size", type=float,
-                    help="train/test split ratio")
 args = parser.parse_args()
 
 
 def save_model(filename, clf):
     with open(filename, 'wb') as f:
-        joblib.dump(clf, f, compress=2)
+        joblib.dump(clf, f, compress=3)
 
 
 if args.mode == "train-test":
@@ -31,13 +29,10 @@ if args.mode == "train-test":
         parser.error("Mode train-test requires --train and --test")
     if not args.s:
         parser.error("Mode train-test requires --s ")
-    if not args.train_size:
-        parser.error("Mode train-test requires --train_size")
     train_path = os.path.abspath(args.train)
     test_path = os.path.abspath(args.test)
 
     print("Train model")
-    train_size = args.train_size
     model_path = os.path.abspath(args.s)
     print("Load data")
     X_train, y_train = load_dataset(train_path)

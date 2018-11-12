@@ -124,7 +124,6 @@ $ python benchmark.py --mode benchmark
 $ python train.py --mode train-test 
             --train data/corpus/train.xlsx 
             --test data/corpus/test.xlsx 
-            --train_size 0.2 
             --s models
 ```
 
