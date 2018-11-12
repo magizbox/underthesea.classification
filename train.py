@@ -4,6 +4,7 @@ from time import time
 
 import joblib
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.multiclass import OneVsRestClassifier
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.svm import LinearSVC
 
@@ -60,7 +61,7 @@ if args.mode == "train-test":
     X_test = transformer.transform(X_test)
     y_test = y_transformer.transform(y_test)
 
-    model = LinearSVC()
+    model = OneVsRestClassifier(LinearSVC())
     estimator = model.fit(X_train, y_train)
     train_time = time() - t0
     print("\t-train time: %0.3fs" % train_time)

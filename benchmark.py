@@ -6,6 +6,7 @@ import numpy as np
 from sklearn import metrics
 
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+from sklearn.multiclass import OneVsRestClassifier
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.svm import LinearSVC
 import matplotlib.pyplot as plt
@@ -31,16 +32,18 @@ def classifier(algorithm, X_train, y_train, X_test, y_test):
     transformer = algorithm[1]
     print(name)
     t0 = time()
-    X = transformer.fit_transform(X_train)
+    X_train = transformer.fit_transform(X_train)
     y_transformer = MultiLabelBinarizer()
-    y = y_transformer.fit_transform(y_train)
+    y_train = y_transformer.fit_transform(y_train)
 
-    model = LinearSVC()
+    model = OneVsRestClassifier(LinearSVC())
     estimator = model.fit(X_train, y_train)
     train_time = time() - t0
     print("\t-train time: %0.3fs" % train_time)
 
     t0 = time()
+    X_test = transformer.transform(X_test)
+    y_test = y_transformer.transform(y_test)
     y_pred = estimator.predict(X_test)
     test_time = time() - t0
     print("\t-test time: %0.3fs" % test_time)
