@@ -180,5 +180,5 @@ tmp/*
 
 __pycache__
 
-data/VNTC/*
-
+data/VNTC
+!data/VNTC/README.md

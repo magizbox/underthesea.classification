@@ -1,4 +1,7 @@
 import argparse
+import string
+
+from ftfy import fix_text
 
 from models import classifier
 
@@ -9,11 +12,21 @@ file = parser.add_argument_group("The following arguments are mandatory for file
 file.add_argument("--fin", help="text file input")
 args = parser.parse_args()
 
+
+def normalize_text(text):
+    text = fix_text(text)
+    text = " ".join(i for i in text.split())
+    table = str.maketrans({key: None for key in string.punctuation})
+    text = text.translate(table)
+    return text.lower()
+
+
 if not (args.text or args.fin):
     parser.print_help()
 
 if args.text:
     text = args.text
+    text = normalize_text(text)
     try:
         predict = classifier(text)[0]
         label = predict.replace("_", " ").capitalize()
@@ -27,6 +40,7 @@ if args.fin:
     fin = args.fin
     with open(fin) as f:
         text = f.read()
+        text = normalize_text(text)
     try:
         predict = classifier(text)[0]
         label = predict.replace("_", " ").capitalize()

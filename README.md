@@ -102,11 +102,20 @@ $ python util/preprocess_vntc.py
 Các thử nghiệm kết hợp LinearSVC và CountVectorizer 
 
 ```
-$ python benchmark.py 
-            --mode benchmark 
+$  python benchmark.py --mode benchmark 
             --train data/corpus/train.xlsx 
             --test data/corpus/test.xlsx 
-            --s report/benchmark_chi2.png
+            --transform tfidf 
+            --s report/benchmark_model_tfidf.png
+```
+
+```
+$ python benchmark.py --mode benchmark 
+            --train data/corpus/train.xlsx
+            --test data/corpus/test.xlsx 
+            --transform count 
+            --s report/benchmark_model_count.png
+
 ```
 
 **Huấn luyện và lưu mô hình**
@@ -117,7 +126,6 @@ $ python train.py --mode train-test
             --test data/corpus/test.xlsx 
             --train_size 0.2 
             --s models
-            --chi2 2500
 ```
 
 ## Kết quả thử nghiệm 
