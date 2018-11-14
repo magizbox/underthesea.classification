@@ -82,12 +82,12 @@ if args.mode == "benchmark":
             ("Tfidf Tri-gram", TfidfVectorizer(ngram_range=(1, 3))),
         ]:
             algorithms.append(algo)
-        for n in [0.5, 0.6, 0.7, 0.8]:
+        for n in [0.5]:
             algorithms.append(("Tfidf max_df={}".format(str(n)), TfidfVectorizer(max_df=n)))
-        for n in [0.5, 0.6, 0.7, 0.8]:
-            for ngram in [("Bi-gram", (1, 2)), ("Tri-gram", (1, 3))]:
-                algorithms.append(("Tfidf {} + max_df={}".format(ngram[0], str(n)),
-                                  TfidfVectorizer(max_df=n, ngram_range=ngram[1])))
+        # for n in [0.5, 0.6, 0.7, 0.8]:
+        #     for ngram in [("Bi-gram", (1, 2)), ("Tri-gram", (1, 3))]:
+        #         algorithms.append(("Tfidf {} + max_df={}".format(ngram[0], str(n)),
+        #                           TfidfVectorizer(max_df=n, ngram_range=ngram[1])))
 
     if args.transform == "count":
         for algo in [
