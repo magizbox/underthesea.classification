@@ -8,7 +8,7 @@ sys.path.append(os.getcwd())
 from time import time
 import joblib
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.preprocessing import MultiLabelBinarizer
+from sklearn.preprocessing import MultiLabelBinarizer, LabelEncoder
 from sklearn.svm import LinearSVC
 from util.load_data import load_dataset
 
@@ -39,7 +39,7 @@ t0 = time()
 transformer = CountVectorizer(ngram_range=(1, 3), max_df=0.7)
 X_train = transformer.fit_transform(X_train)
 
-y_transformer = MultiLabelBinarizer()
+y_transformer = LabelEncoder()
 y_train = y_transformer.fit_transform(y_train)
 
 
