@@ -1,5 +1,6 @@
 import argparse
 import os
+import pickle
 import sys
 from os.path import dirname, join
 
@@ -22,16 +23,14 @@ args = parser.parse_args()
 
 
 def save_model(filename, clf):
-    with open(filename, 'wb') as f:
-        # joblib.dump(clf, f, compress=2)
-        joblib.dump(clf, f)
+    pickle.dump(clf, open(filename, 'wb'))
 
 
 train_path = os.path.abspath(join(cwd, args.train))
 serialization_dir = os.path.abspath(join(cwd, args.serialization_dir))
 print("Load data")
 X_train, y_train = load_dataset(train_path)
-X_train, X_test, y_train, y_test = train_test_split(X_train, y_train, test_size=0.8)
+# X_train, X_test, y_train, y_test = train_test_split(X_train, y_train, test_size=0.8)
 target_names = list(set([i[0] for i in y_train]))
 
 print("%d documents" % len(X_train))
