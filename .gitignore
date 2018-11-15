@@ -174,7 +174,6 @@ tmp/*
 !tmp/input.txt
 !tmp/train_samples.txt
 
-*/y_transformer.pkl
 */x_transformer.pkl
 */model.pkl
 
