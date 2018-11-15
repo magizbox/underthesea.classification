@@ -16,8 +16,8 @@ logging.basicConfig(level=logging.INFO,
                     format='%(asctime) %(levelname)s % (message)s')
 
 # parse commandline argument
-parser = argparse.ArgumentParser("benchmark.py")
-parser.add_argument("--mode", help="available modes: benchmark", required=True)
+parser = argparse.ArgumentParser("optimize_hyperparameters.py")
+parser.add_argument("--mode", help="available modes: optimize", required=True)
 parser.add_argument("--train", help="train folder")
 parser.add_argument("--test", help="test folder")
 parser.add_argument("--trans", help="vectorizer X_train")

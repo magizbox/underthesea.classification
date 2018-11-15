@@ -102,14 +102,14 @@ $ python util/preprocess_vntc.py
 Các thử nghiệm kết hợp LinearSVC và CountVectorizer 
 
 ```
-$  python benchmark.py --mode benchmark 
+$  python optimize_hyperparameters.py --mode optimize 
             --train data/corpus/train.xlsx 
             --test data/corpus/test.xlsx 
             --trans tfidf 
 ```
 
 ```
-$ python benchmark.py --mode benchmark 
+$ python optimize_hyperparameters.py --mode optimize 
             --train data/corpus/train.xlsx
             --test data/corpus/test.xlsx 
             --trans count 
