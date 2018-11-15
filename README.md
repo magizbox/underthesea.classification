@@ -105,16 +105,14 @@ Các thử nghiệm kết hợp LinearSVC và CountVectorizer
 $  python benchmark.py --mode benchmark 
             --train data/corpus/train.xlsx 
             --test data/corpus/test.xlsx 
-            --transform tfidf 
-            --s report/benchmark_model_tfidf.png
+            --trans tfidf 
 ```
 
 ```
 $ python benchmark.py --mode benchmark 
             --train data/corpus/train.xlsx
             --test data/corpus/test.xlsx 
-            --transform count 
-            --s report/benchmark_model_count.png
+            --trans count 
 
 ```
 
@@ -180,4 +178,6 @@ Xin chân thành cảm ơn các nhóm phát triển sklearn, fasttext đã tạo
 
 Mã nguồn của dự án được phân phối theo giấy phép [GPL-3.0](LICENSE.txt).
 
+
 Dự án sử dụng tập dữ liệu **[VNTC](https://github.com/duyvuleo/VNTC)** trong các thử nghiệm. Xin vui lòng kiểm tra lại thông tin trên website hoặc báo cáo khoa học tương ứng để biết thông tin về bản quyền và trích dẫn khi sử dụng tập dữ liệu này.
+

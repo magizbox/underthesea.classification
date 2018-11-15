@@ -174,9 +174,11 @@ tmp/*
 !tmp/input.txt
 !tmp/train_samples.txt
 
-/models/y_transformer.pkl
-/models/x_transformer.pkl
-/models/model.pkl
+*/y_transformer.pkl
+*/x_transformer.pkl
+*/model.pkl
+
+*/__pycache__
 
 data/VNTC
 !data/VNTC/README.md
