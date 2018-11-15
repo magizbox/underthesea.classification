@@ -3,7 +3,7 @@ import os
 import pickle
 from time import time
 
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import LinearSVC
 
 from util.load_data import load_dataset
@@ -45,7 +45,7 @@ if args.mode == "train-test":
 
     print("Training model")
     t0 = time()
-    transformer = CountVectorizer(ngram_range=(1, 3), max_df=0.7)
+    transformer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.5)
     X_train = transformer.fit_transform(X_train)
     X_test = transformer.transform(X_test)
 
