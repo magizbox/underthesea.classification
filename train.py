@@ -21,7 +21,7 @@ args = parser.parse_args()
 
 def save_model(filename, clf):
     with open(filename, 'wb') as f:
-        joblib.dump(clf, f, compress=3)
+        joblib.dump(clf, f, compress=5)
 
 
 if args.mode == "train-test":
