@@ -1,8 +1,9 @@
 from os.path import dirname, join
 import pickle
-from sklearn.metrics import f1_score
-
+from sklearn.metrics import confusion_matrix
+import matplotlib.pyplot as plt
 from util.load_data import load_dataset
+from util.model_evaluation import get_metrics, plot_confusion_matrix
 
 cwd = dirname(__file__)
 x_transformer_file = open(join(cwd, "snapshots", "x_transformer.pkl"), "rb")
@@ -20,5 +21,11 @@ y_test = [item for sublist in y_test for item in sublist]
 X = x_transformer.transform(X_test)
 y = estimator.predict(X)
 y_pred = y_transformer.inverse_transform(y)
+get_metrics(y_test, y_pred)
 
-print("f1_score:", f1_score(y_test, y_pred, average='weighted'))
+classes = set(y_test)
+cm = confusion_matrix(y_test, y_pred)
+plot_confusion_matrix(cm, classes,
+                          normalize=False,
+                          title='Confusion matrix',
+                          cmap=plt.cm.Blues)

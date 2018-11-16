@@ -6,25 +6,13 @@ import matplotlib.pyplot as plt
 
 
 def get_metrics(true_labels, predicted_labels):
-    print('Accuracy:', np.round(
-        metrics.accuracy_score(true_labels,
-                               predicted_labels),
-        3))
-    print('Precision:', np.round(
-        metrics.precision_score(true_labels,
-                                predicted_labels,
-                                average='weighted'),
-        3))
-    print('Recall:', np.round(
-        metrics.recall_score(true_labels,
-                             predicted_labels,
-                             average='weighted'),
-        3))
-    print('F1 Score:', np.round(
-        metrics.f1_score(true_labels,
-                         predicted_labels,
-                         average='weighted'),
-        3))
+    print('Accuracy:',
+          np.round(metrics.accuracy_score(true_labels, predicted_labels), 3))
+    print('Precision:',
+          np.round(metrics.precision_score(true_labels, predicted_labels, average='micro'),3))
+    print('Recall:',
+          np.round(metrics.recall_score(true_labels, predicted_labels, average='micro'), 3))
+    print('F1 Score:', np.round(metrics.f1_score(true_labels, predicted_labels, average='micro'), 3))
 
 
 def plot_confusion_matrix(cm, classes,
@@ -54,3 +42,4 @@ def plot_confusion_matrix(cm, classes,
     plt.ylabel('True label')
     plt.xlabel('Predicted label')
     plt.tight_layout()
+    plt.show()
