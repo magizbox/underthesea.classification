@@ -1,7 +1,7 @@
 from os.path import dirname, join
 import pickle
 
-from sklearn.metrics import f1_score
+from sklearn.metrics import f1_score, accuracy_score, precision_score, recall_score
 
 from load_data import load_dataset
 
@@ -30,5 +30,11 @@ X = x_transformer.transform(X_test)
 y = estimator.predict(X)
 y_pred = y_transformer.inverse_transform(y)
 
+accuracy = accuracy_score(y_test, y_pred)
+print("Accuracy:", accuracy)
+precision = precision_score(y_test, y_pred, average="micro")
+print("Precision:", precision)
+recall = recall_score(y_test, y_pred, average="micro")
+print("Recall:", recall)
 f1 = f1_score(y_test, y_pred, average="micro")
-print("F1 scrore: ", f1)
+print("F1 Score:", f1)
