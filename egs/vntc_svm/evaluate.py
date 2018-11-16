@@ -22,4 +22,3 @@ y = estimator.predict(X)
 y_pred = y_transformer.inverse_transform(y)
 
 print("f1_score:", f1_score(y_test, y_pred, average='weighted'))
-# print(0)
