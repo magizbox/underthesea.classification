@@ -15,11 +15,15 @@ F1 Score: 0.918
 
 ### Huấn luyện mô hình 
 
-TBD
+```
+python train.py --train data/train.xlsx -s snapshots 
+```
 
 ### Đánh giá mô hình 
 
-TBD
+```
+python evaluate.py 
+```
 
 ### Dự đoán
 
