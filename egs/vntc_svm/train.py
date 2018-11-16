@@ -2,9 +2,9 @@ import argparse
 import os
 import pickle
 import sys
-from os.path import dirname, join
-sys.path.append(dirname(dirname(os.getcwd())))
-cwd = dirname(__file__)
+from os.path import dirname, join, abspath
+cwd = dirname(abspath(__file__))
+sys.path.append(dirname(dirname(cwd)))
 from time import time
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.preprocessing import LabelEncoder

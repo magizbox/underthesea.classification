@@ -51,7 +51,6 @@ df = pd.concat([
     pd.DataFrame(y_pred_1, columns=mlb.classes_)
 ], axis=1)
 df.to_excel("output.xlsx", index=False)
-print(0)
 
 # text = "Theo nguồn tin của Dân trí, Tập đoàn Hoá chất (Vinachem) vừa báo cáo, do tình hình tài chính của Tập đoàn hiện nay rất khó khăn nên không có đủ khả năng thu xếp nguồn tiền để trả nợ toàn bộ các khoản vay đến hạn cho Ngân hàng Phát triển Việt Nam trong năm 2018"
 # label = classify(text)
