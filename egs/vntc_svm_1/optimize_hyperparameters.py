@@ -1,6 +1,8 @@
 import argparse
+import json
 import logging
 import os
+from os.path import join, dirname
 from time import time
 import warnings
 
@@ -43,12 +45,18 @@ def grid_search(pipeline, train_path, test_path):
     gridsearch.fit(X_train, y_train)
     print("done in %0.3fs" % (time() - t0))
     print()
+
+    params = []
     print("Best dev score: %0.3f" % gridsearch.best_score_)
     print("Best parameters set:")
     best_parameters = gridsearch.best_estimator_.get_params()
     for param_name in sorted(parameters.keys()):
         print("\t%s: %r" % (param_name, best_parameters[param_name]))
+        params.append((param_name, best_parameters[param_name]))
     print("Best test score: %0.3f" % gridsearch.score(X_test, y_test))
+    params_path = join(dirname(__file__), "experiments", "svm", "{}_params.json".format(args.trans))
+    with open(params_path, "w") as f:
+        json.dump(dict(params), f)
 
 
 if __name__ == '__main__':
