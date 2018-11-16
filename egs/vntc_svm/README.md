@@ -27,5 +27,7 @@ python evaluate.py
 
 ### Dự đoán
 
-TBD
+```
+python predict.py 
+```
 
