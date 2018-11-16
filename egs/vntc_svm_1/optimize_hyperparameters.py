@@ -34,7 +34,7 @@ def grid_search(pipeline, train_path, test_path):
     print("%d categories" % len(target_names))
     print()
 
-    gridsearch = GridSearchCV(pipeline, parameters, cv=3,
+    gridsearch = GridSearchCV(pipeline, parameters, cv=5,
                               n_jobs=-1, verbose=1)
 
     print("Performing grid search...")
