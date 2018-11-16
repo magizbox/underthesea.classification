@@ -102,19 +102,17 @@ $ python util/preprocess_vntc.py
 Các thử nghiệm kết hợp LinearSVC và CountVectorizer 
 
 ```
-$  python benchmark.py --mode benchmark 
+$  python optimize_hyperparameters.py --mode optimize 
             --train data/corpus/train.xlsx 
             --test data/corpus/test.xlsx 
-            --transform tfidf 
-            --s report/benchmark_model_tfidf.png
+            --trans tfidf 
 ```
 
 ```
-$ python benchmark.py --mode benchmark 
+$ python optimize_hyperparameters.py --mode optimize 
             --train data/corpus/train.xlsx
             --test data/corpus/test.xlsx 
-            --transform count 
-            --s report/benchmark_model_count.png
+            --trans count 
 
 ```
 
@@ -124,7 +122,6 @@ $ python benchmark.py --mode benchmark
 $ python train.py --mode train-test 
             --train data/corpus/train.xlsx 
             --test data/corpus/test.xlsx 
-            --train_size 0.2 
             --s models
 ```
 
@@ -136,10 +133,10 @@ Kết quả các thử nghiệm kết hợp mô hình SVM và các đặc trưng
 
 | Mô hình                                         | F1 %     |
 |-------------------------------------------------|----------|
-| CountVectorizer(ngram_range=(1, 3), max_df=0.7) | **89.3** |
+| TfidfVectorizer(ngram_range=(1, 2), max_df=0.5) | **92.8** |
+| CountVectorizer(ngram_range=(1, 3), max_df=0.7) | 89.3     |
 | TfidfVectorizer(max_df=0.8)                     | 89.0     |
 | CountVectorizer(ngram_range=(1, 3)              | 88.9     |
-| TfidfVectorizer(ngram_range=(1, 3), max_df=0.8) | 86.9     |
 | TfidfVectorizer(ngram_range=(1, 3))             | 86.8     |
 | CountVectorizer(max_df=0.7)                     | 85.5     |
 
@@ -180,5 +177,6 @@ Xin chân thành cảm ơn các nhóm phát triển sklearn, fasttext đã tạo
 ## Bản quyền
 
 Mã nguồn của dự án được phân phối theo giấy phép [GPL-3.0](LICENSE.txt).
+
 
 Dự án sử dụng tập dữ liệu **[VNTC](https://github.com/duyvuleo/VNTC)** trong các thử nghiệm. Xin vui lòng kiểm tra lại thông tin trên website hoặc báo cáo khoa học tương ứng để biết thông tin về bản quyền và trích dẫn khi sử dụng tập dữ liệu này.
