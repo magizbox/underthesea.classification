@@ -3,6 +3,7 @@ import os
 import pickle
 import sys
 from os.path import dirname, join, abspath
+
 cwd = dirname(abspath(__file__))
 sys.path.append(dirname(dirname(cwd)))
 from time import time
@@ -20,6 +21,16 @@ args = parser.parse_args()
 
 def save_model(filename, clf):
     pickle.dump(clf, open(filename, 'wb'))
+
+
+class HoldoutValidation:
+    def __init__(self):
+        pass
+
+
+class PipeLoader:
+    def __init__(self):
+        pass
 
 
 train_path = os.path.abspath(join(cwd, args.train))
