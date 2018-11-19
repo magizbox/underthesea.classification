@@ -42,7 +42,7 @@ y_train = [item for sublist in y_train for item in sublist]
 y_train = y_transformer.fit_transform(y_train)
 
 model = LinearSVC()
-estimator = model.fit(X_train, list(y_train))
+estimator = model.fit(X_train, y_train)
 t1 = time() - t0
 print("Train time: %0.3fs" % t1)
 
