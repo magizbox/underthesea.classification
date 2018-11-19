@@ -20,7 +20,7 @@ $ source activate classification
 
 Huấn luyện mô hình với dữ liệu `train` đặt tại thư mục `data`.
 ```
-$ python train.py --train data/corpus/train.xlsx --s snapshots
+$ python train.py --train data/train.xlsx --s snapshots
 ```
 
 ### Đánh giá mô hình
