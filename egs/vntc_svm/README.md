@@ -22,7 +22,17 @@ Recall: 0.915
 F1 Score: 0.915
 ```
 
+Tham số: TfidfVectorizer(ngram_range=(1, 2), max_df=0.7)
 
+```
+Load model time: 2.512s
+Predict time: 67.158s
+Accuracy: 0.928
+Precision: 0.928
+Recall: 0.928
+F1 Score: 0.928
+Confusion matrix, without normalization
+```
 
 ## Hướng dẫn sử dụng
 
