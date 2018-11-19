@@ -11,6 +11,19 @@ Recall: 0.918
 F1 Score: 0.918 
 ```
 
+Tham số: CountVectorizer(ngram_range=(1, 2), max_df=0.7)
+
+```
+Load model time: 2.467s
+Predict time: 59.249s
+Accuracy: 0.915
+Precision: 0.915
+Recall: 0.915
+F1 Score: 0.915
+```
+
+
+
 ## Hướng dẫn sử dụng
 
 ### Huấn luyện mô hình 
