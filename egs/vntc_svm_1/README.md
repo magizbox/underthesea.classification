@@ -20,7 +20,7 @@ $ source activate classification
 
 Huấn luyện mô hình với dữ liệu `train` đặt tại thư mục `data`.
 ```
-$ python train.py --train data/corpus/train.xlsx --s snapshots
+$ python train.py --train data/train.xlsx --s snapshots
 ```
 
 ### Đánh giá mô hình
@@ -44,14 +44,17 @@ $  python optimize_hyperparameters.py
 $ python optimize_hyperparameters.py 
             --train data/corpus/train.xlsx
             --test data/corpus/test.xlsx 
-            --trans count 
-
+            --trans count
 ```
 
 Kết thúc quá trình sẽ nhận được bộ tham số tốt nhất cho thử nghiệm. Tham số này sẽ được lưu thành file `json` tại thư mục `experiments` với tên là thử nghiệm tương ứng.
+
+| Thử nghiệm                                      | F1 score (%) |
+|-------------------------------------------------|--------------|
+| TfidfVectorizer(ngram_range=(1, 2), max_df=0.5) | 92.8         |
+| CountVectorizer(ngram_range=(1, 3), max_df=0.5) | 92.0         |
 
 Sử dụng tham số đã được chọn ra để huấn luyện lại và lưu trữ mô hình mới.
 ```
 $ python train.py --train data/corpus/train.xlsx --s snapshots
 ```
-
