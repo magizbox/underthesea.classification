@@ -75,6 +75,7 @@ if __name__ == '__main__':
     parameters = {
         'vect__max_df': (0.5, 0.6, 0.7, 0.8),
         'vect__ngram_range': ((1, 2), (1, 3)),
+        'clf__C': (0.7, 0.8, 0.9, 1.0),
     }
 
     if args.trans == "tfidf":

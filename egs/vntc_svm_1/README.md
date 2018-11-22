@@ -35,15 +35,15 @@ Sử dụng Pipeline và GridSearchCV của Sklearn để tối ưu hóa các si
 
 ```
 $  python optimize_hyperparameters.py 
-            --train data/corpus/train.xlsx 
-            --test data/corpus/test.xlsx 
+            --train data/train.xlsx 
+            --test data/test.xlsx 
             --trans tfidf 
 ```
 
 ```
 $ python optimize_hyperparameters.py 
-            --train data/corpus/train.xlsx
-            --test data/corpus/test.xlsx 
+            --train data/train.xlsx
+            --test data/test.xlsx 
             --trans count
 ```
 
@@ -56,5 +56,5 @@ Kết thúc quá trình sẽ nhận được bộ tham số tốt nhất cho th�
 
 Sử dụng tham số đã được chọn ra để huấn luyện lại và lưu trữ mô hình mới.
 ```
-$ python train.py --train data/corpus/train.xlsx --s snapshots
+$ python train.py --train data/train.xlsx --s snapshots
 ```
