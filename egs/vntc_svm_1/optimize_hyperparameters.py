@@ -65,16 +65,15 @@ if __name__ == '__main__':
     test_path = os.path.abspath(args.test)
 
     pipeline_tfidf = Pipeline([
-        ("vect", TfidfVectorizer()),
+        ("vect", TfidfVectorizer(max_df=0.5, ngram_range=(1, 2))),
         ("clf", LinearSVC()),
     ])
     pipeline_count = Pipeline([
-        ("vect", CountVectorizer()),
+        ("vect", CountVectorizer(max_df=0.5, ngram_range=(1, 2))),
         ("clf", LinearSVC()),
     ])
     parameters = {
-        'vect__max_df': (0.5, 0.6, 0.7, 0.8),
-        'vect__ngram_range': ((1, 2), (1, 3)),
+        'clf__C': (0.5, 0.6, 0.7, 0.8),
     }
 
     if args.trans == "tfidf":

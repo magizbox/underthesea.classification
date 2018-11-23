@@ -1,1 +1,1 @@
-{"vect__max_df": 0.5, "vect__ngram_range": [1, 2]}
+{"clf__C": 0.8}
