@@ -19,8 +19,8 @@ logging.basicConfig(level=logging.INFO,
 
 # parse commandline argument
 parser = argparse.ArgumentParser("optimize_hyperparameters.py")
-parser.add_argument("--train", help="train folder")
-parser.add_argument("--test", help="test folder")
+parser.add_argument("--train", help="train path", required=True)
+parser.add_argument("--test", help="test path", required=True)
 parser.add_argument("--trans", help="vectorizer X_train")
 args = parser.parse_args()
 
@@ -73,7 +73,7 @@ if __name__ == '__main__':
         ("clf", LinearSVC()),
     ])
     parameters = {
-        'clf__C': (0.5, 0.6, 0.7, 0.8),
+        'clf__C': (0.0001, 0.001, 0.01, 0.1, 1, 10, 100),
     }
 
     if args.trans == "tfidf":
