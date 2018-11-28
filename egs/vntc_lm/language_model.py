@@ -27,8 +27,8 @@ class SRILanguageModel:
 
 if __name__ == '__main__':
     lm = SRILanguageModel(sri_bin="/usr/share/srilm/bin/i686-m64", savepath="tmp/lm.bin")
-    corpus_path = "/usr/share/srilm/corpus.txt"
+    corpus_path = "tmp/corpus.txt"
     lm.fit(corpus_path)
-    filepath = "/usr/share/srilm/test.txt"
+    filepath = "tmp/corpus-test.txt"
     score = lm.predict(filepath)
     print(score)

@@ -39,7 +39,7 @@ tôi rất vui
 tôi đi chơi
 ```
 
-2. Tạo file `test.txt` với nội dung
+2. Tạo file `corpus-test.txt` với nội dung
 
 ```
 học mà chơi
@@ -64,7 +64,7 @@ warning: discount coeff 2 is out of range: 1.875
 4. Sử dụng mô hình ngôn ngữ
 
 ```
-$ bin/i686-m64/ngram -lm lm.lm -order 2 -ppl test.txt -debug 2 
+$ bin/i686-m64/ngram -lm lm.lm -order 2 -ppl corpus-test.txt -debug 2 
 reading 8 1-grams
 reading 9 2-grams
 học mà chơi
