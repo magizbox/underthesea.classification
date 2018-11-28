@@ -2,6 +2,7 @@ import subprocess
 from os.path import abspath
 import re
 
+
 class SRILanguageModel:
     def __init__(self, sri_bin, savepath):
         self.sri_bin = sri_bin
