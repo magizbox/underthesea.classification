@@ -11,22 +11,16 @@ Recall   : 0.8681
 Micro F1 : 0.8681
 Predict time: 4.618s
 ```
-
-
-
 ## Hướng dẫn sử dụng
-
 ### Khởi tạo dữ liệu
 ```
 $ python preprocess.py
 ```
-
 ### Huấn luyện mô hình 
 
 ```
 python train.py --train data/train.txt --s snapshots 
 ```
-
 ### Đánh giá mô hình 
 
 ```

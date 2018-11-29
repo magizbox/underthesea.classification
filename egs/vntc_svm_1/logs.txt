@@ -1,0 +1,40 @@
+24/11/2018 22:25
+
+Loading from dataset
+33759 documents (training set)
+50373 documents (test set)
+10 categories
+
+Performing grid search...
+pipeline: ['vect', 'clf']
+parameters:
+{'clf__C': (0.5, 0.6, 0.7, 0.8)}
+Fitting 5 folds for each of 4 candidates, totalling 20 fits
+[Parallel(n_jobs=-1)]: Done  18 out of  20 | elapsed:  5.6min remaining:   37.6s
+[Parallel(n_jobs=-1)]: Done  20 out of  20 | elapsed:  5.7min finished
+done in 387.162s
+
+Best dev score: 0.927
+Best parameters set:
+	clf__C: 0.8
+Best test score: 0.928
+
+24/11/2018 22:57
+
+Loading from dataset
+33759 documents (training set)
+50373 documents (test set)
+10 categories
+
+Performing grid search...
+pipeline: ['vect', 'clf']
+parameters:
+{'clf__C': (0.0001, 0.001, 0.01, 0.1, 1, 10, 100)}
+Fitting 5 folds for each of 7 candidates, totalling 35 fits
+[Parallel(n_jobs=-1)]: Done  35 out of  35 | elapsed: 22.1min finished
+done in 1427.060s
+
+Best dev score: 0.927
+Best parameters set:
+	clf__C: 10
+Best test score: 0.927

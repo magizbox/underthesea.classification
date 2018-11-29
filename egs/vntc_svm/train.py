@@ -6,7 +6,7 @@ from os.path import dirname, join, abspath
 cwd = dirname(abspath(__file__))
 sys.path.append(dirname(dirname(cwd)))
 from time import time
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.preprocessing import LabelEncoder
 from sklearn.svm import LinearSVC
 from util.load_data import load_dataset
@@ -34,7 +34,7 @@ print("%d categories" % len(target_names))
 
 print("Training model")
 t0 = time()
-transformer = CountVectorizer(ngram_range=(1, 2), max_df=0.7)
+transformer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.7)
 X_train = transformer.fit_transform(X_train)
 
 y_transformer = LabelEncoder()

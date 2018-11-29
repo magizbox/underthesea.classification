@@ -7,6 +7,7 @@ from time import time
 import warnings
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.feature_selection import SelectKBest, chi2
 from sklearn.model_selection import GridSearchCV
 from sklearn.pipeline import Pipeline
 from sklearn.svm import LinearSVC
@@ -65,7 +66,8 @@ if __name__ == '__main__':
     test_path = os.path.abspath(args.test)
 
     pipeline_tfidf = Pipeline([
-        ("vect", TfidfVectorizer(max_df=0.5, ngram_range=(1, 2))),
+        ("vect", TfidfVectorizer(ngram_range=(1, 2))),
+        ("fs", SelectKBest(chi2)),
         ("clf", LinearSVC()),
     ])
     pipeline_count = Pipeline([
@@ -73,7 +75,8 @@ if __name__ == '__main__':
         ("clf", LinearSVC()),
     ])
     parameters = {
-        'clf__C': (0.0001, 0.001, 0.01, 0.1, 1, 10, 100),
+        'clf__C': (0.1, 1, 10, 100),
+        'fs__k': (1000, 2000, 3000, 4000, 5000, 7000, 10000, 20000, 30000)
     }
 
     if args.trans == "tfidf":

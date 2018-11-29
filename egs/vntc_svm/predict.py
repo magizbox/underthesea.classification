@@ -1,7 +1,10 @@
-from os.path import dirname, join
 import pickle
 import pandas as pd
 from sklearn.preprocessing import MultiLabelBinarizer
+from os.path import dirname, join, abspath
+import sys
+cwd = dirname(abspath(__file__))
+sys.path.append(dirname(dirname(cwd)))
 
 from util.load_data import load_dataset
 
