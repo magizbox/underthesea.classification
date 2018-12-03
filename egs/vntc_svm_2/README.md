@@ -12,7 +12,7 @@ Các thử nghiệm được đặt trong mỗi thư mục con của thư mục 
 
 Trước khi chạy các thử nghiệm, hãy chắc chắn bạn đã activate môi trường classification, mọi câu lệnh đều được chạy trong thư mục gốc của dự án.
 ```
-$ cd classification/egs/vntc_svm_1
+$ cd classification/egs/vntc_svm_2
 $ source activate classification
 ```
 
