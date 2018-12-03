@@ -39,7 +39,7 @@ def convert_to_corpus(name, rows):
 
 
 if __name__ == '__main__':
-    path = join(dirname(dirname(__file__)), 'data', 'raw')
+    path = join(dirname(dirname(__file__)), 'data', "vntc", 'raw')
     train_folder = [join(path, "Train_Full", i) for i in os.listdir(join(path, "Train_Full"))]
     test_folder = [join(path, "Test_Full", i) for i in os.listdir(join(path, "Test_Full"))]
     train = [x for i in train_folder for x in load_data(i)]
