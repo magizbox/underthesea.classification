@@ -52,7 +52,7 @@ Kết thúc quá trình sẽ nhận được bộ tham số tốt nhất cho th�
 | Thử nghiệm                                      | F1 score (%) |
 |-------------------------------------------------|--------------|
 | TfidfVectorizer(ngram_range=(1, 2), max_df=0.5) | 92.8         |
-| CountVectorizer(ngram_range=(1, 3), max_df=0.5) | 91.9         |
+| CountVectorizer(ngram_range=(1, 3), max_df=0.5) | 92.0         |
 
 Sử dụng tham số đã được chọn ra để huấn luyện lại và lưu trữ mô hình mới.
 ```

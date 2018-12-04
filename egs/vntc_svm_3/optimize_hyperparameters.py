@@ -71,7 +71,6 @@ if __name__ == '__main__':
         ("vect", CountVectorizer()),
         ("clf", LinearSVC()),
     ])
-
     if args.trans == "tfidf":
         grid_search(pipeline_tfidf, train_path, test_path)
 
