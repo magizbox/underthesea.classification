@@ -12,7 +12,7 @@ Các thử nghiệm được đặt trong mỗi thư mục con của thư mục 
 
 Trước khi chạy các thử nghiệm, hãy chắc chắn bạn đã activate môi trường classification, mọi câu lệnh đều được chạy trong thư mục gốc của dự án.
 ```
-$ cd classification/egs/vntc_svm_2
+$ cd classification/egs/vntc_svm_6
 $ source activate classification
 ```
 
@@ -49,10 +49,10 @@ $ python optimize_hyperparameters.py
 
 Kết thúc quá trình sẽ nhận được bộ tham số tốt nhất cho thử nghiệm. Tham số này sẽ được lưu thành file `json` tại thư mục `experiments` với tên là thử nghiệm tương ứng.
 
-| Thử nghiệm                                      | F1 score (%) |
-|-------------------------------------------------|--------------|
-| TfidfVectorizer(ngram_range=(1, 2), max_df=0.5) | 92.8         |
-| CountVectorizer(ngram_range=(1, 3), max_df=0.5) | 91.9         |
+| Thử nghiệm                                                        | F1 score (%) |
+|-------------------------------------------------------------------|--------------|
+| TfidfVectorizer(ngram_range=(1, 2), max_df=0.7), LinearSVC(C=10)  | 92.3         |
+| CountVectorizer(ngram_range=(1, 3), max_df=0.8), LinearSVC(C=0.1) | 91.6         |
 
 Sử dụng tham số đã được chọn ra để huấn luyện lại và lưu trữ mô hình mới.
 ```

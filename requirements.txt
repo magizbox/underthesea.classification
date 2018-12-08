@@ -1,4 +1,3 @@
-certifi==2018.8.24
 cycler==0.10.0
 et-xmlfile==1.0.1
 ftfy==5.5.0
