@@ -7,10 +7,11 @@ class SRILanguageModel:
     def __init__(self, sri_bin, savepath):
         self.sri_bin = sri_bin
         self.savepath = abspath(savepath)
+        self.order = 4
 
     def fit(self, corpus_path):
         ngram_count_command = f"{self.sri_bin}/ngram-count"
-        cmd = f'{ngram_count_command} -text "{corpus_path}" -lm {self.savepath} -order 2'
+        cmd = f'{ngram_count_command} -text "{corpus_path}" -lm {self.savepath} -order {self.order} -gt1min 3'
         output = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 
     def predict(self, filepath):
@@ -18,7 +19,7 @@ class SRILanguageModel:
         :rtype: float
         """
         ngram_command = f"{self.sri_bin}/ngram"
-        cmd = f"{ngram_command} -lm {self.savepath} -order 2 -ppl \"{filepath}\""
+        cmd = f"{ngram_command} -lm {self.savepath} -order {self.order} -ppl \"{filepath}\""
         text = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE, universal_newlines=True)
         text = text.stdout.split("\n")[1]
         score_text = re.search("logprob= (-?\d+(.\d+)?)", text).group(1)

@@ -1,7 +1,7 @@
 import os
 from os.path import dirname, join
 
-from egs.vntc_lm.language_model import SRILanguageModel
+from language_model import SRILanguageModel
 
 corpus = join(dirname(__file__), "data", "train")
 for file in os.listdir(corpus):
