@@ -1,27 +1,41 @@
-import argparse
-import os
-from os.path import join, dirname
+from os import listdir
+from os.path import join
 
 from language_model import SRILanguageModel
 
-parser = argparse.ArgumentParser("predict.py")
-file = parser.add_argument_group("The following arguments are mandatory for file option")
-file.add_argument("--fin", help="text file input")
-args = parser.parse_args()
+
+class LMClassifier:
+    def __init__(self, srilm_path, serialization_dir):
+        self.lms = {}
+        for file in listdir(serialization_dir):
+            name = file.split(".")[0][3:]
+            model_path = join(serialization_dir, file)
+            lm = SRILanguageModel(sri_bin=srilm_path, savepath=model_path)
+            self.lms[name] = lm
+
+    def predict(self, filepath):
+        best_label = None
+        max_score = None
+        for label, lm in self.lms.items():
+            score = lm.predict(filepath)
+            print(f"{label} -> {score}")
+            if max_score is None:
+                max_score = score
+                best_label = label
+            if score > max_score:
+                max_score = score
+                best_label = label
+        return best_label
 
 
-output = []
 srilm_path = "/usr/share/srilm/bin/i686-m64"
+serialization_dir = "tmp/model"
+classifier = LMClassifier(srilm_path, serialization_dir)
 
-model_path = join(dirname(__file__), "tmp")
-model_name = [i for i in os.listdir(model_path) if i.endswith(".bin")]
-for path in model_name:
-    model = join(model_path, path)
-    lm = SRILanguageModel(sri_bin=srilm_path, savepath=model)
-    file_path = args.fin
-    result = lm.predict(file_path)
-    output.append(result)
-max_score = max(output)
-predict = model_name[output.index(max(output))]
-label = predict.replace("lm_", "").replace(".bin", "").replace("_", " ")
-print(label)
+
+folder = "data/test/Khoa hoc"
+files = listdir(folder)
+files = [join(folder, file) for file in files]
+for file in files:
+    y_pred = classifier.predict(file)
+    print(y_pred)

@@ -19,7 +19,6 @@ class SRILanguageModel:
         """
         ngram_command = f"{self.sri_bin}/ngram"
         cmd = f"{ngram_command} -lm {self.savepath} -order 2 -ppl \"{filepath}\""
-        print(cmd)
         text = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE, universal_newlines=True)
         text = text.stdout.split("\n")[1]
         score_text = re.search("logprob= (-?\d+(.\d+)?)", text).group(1)
