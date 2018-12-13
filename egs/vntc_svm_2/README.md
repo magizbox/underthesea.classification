@@ -49,10 +49,10 @@ $ python optimize_hyperparameters.py
 
 Kết thúc quá trình sẽ nhận được bộ tham số tốt nhất cho thử nghiệm. Tham số này sẽ được lưu thành file `json` tại thư mục `experiments` với tên là thử nghiệm tương ứng.
 
-| Thử nghiệm                                      | F1 score (%) |
-|-------------------------------------------------|--------------|
-| TfidfVectorizer(ngram_range=(1, 2), max_df=0.5) | 92.8         |
-| CountVectorizer(ngram_range=(1, 3), max_df=0.5) | 91.9         |
+| Thử nghiệm                                                                                      | F1 score (%) |
+|-------------------------------------------------------------------------------------------------|--------------|
+| TfidfVectorizer(ngram_range=(1, 2), max_df=0.7) + LinearSVC(C=1) + SelectKBest(chi2, k=300000)  | 92.4         |
+| CountVectorizer(ngram_range=(1, 3), max_df=0.8) + LinearSVC(C=1) + SelectKBest(chi2, k=500000)| 90.8         |
 
 Sử dụng tham số đã được chọn ra để huấn luyện lại và lưu trữ mô hình mới.
 ```

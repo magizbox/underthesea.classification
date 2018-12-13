@@ -18,7 +18,7 @@ class LMClassifier:
         max_score = None
         for label, lm in self.lms.items():
             score = lm.predict(filepath)
-            print(f"{label} -> {score}")
+            # print(f"{label} -> {score}")
             if max_score is None:
                 max_score = score
                 best_label = label

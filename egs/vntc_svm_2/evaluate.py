@@ -9,6 +9,9 @@ cwd = dirname(__file__)
 x_transformer_file = open(join(cwd, "snapshots", "x_transformer.pkl"), "rb")
 x_transformer = pickle.load(x_transformer_file)
 
+ch2_file = open(join(cwd, "snapshots", "ch2.pkl"), "rb")
+ch2 = pickle.load(ch2_file)
+
 y_transformer_file = open(join(cwd, "snapshots", "y_transformer.pkl"), "rb")
 y_transformer = pickle.load(y_transformer_file)
 
@@ -18,6 +21,7 @@ estimator = pickle.load(estimator_file)
 
 def classify(text):
     X = x_transformer.transform([text])
+    X = ch2.transform(X)
     y = estimator.predict(X)
     label = y_transformer.inverse_transform(y)
     return label
@@ -27,6 +31,7 @@ test_path = join(cwd, "data", "test.xlsx")
 X_test, y_test = load_dataset(test_path)
 y_test = [item for sublist in y_test for item in sublist]
 X = x_transformer.transform(X_test)
+X = ch2.transform(X)
 y = estimator.predict(X)
 y_pred = y_transformer.inverse_transform(y)
 
