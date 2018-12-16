@@ -5,6 +5,7 @@ from time import time
 import warnings
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.feature_selection import SelectKBest, chi2
 from sklearn.model_selection import GridSearchCV
 from sklearn.pipeline import Pipeline
 from sklearn.svm import LinearSVC
@@ -25,8 +26,8 @@ args = parser.parse_args()
 
 def grid_search(pipeline, train_path, test_path):
     parameters = {
-        'vect__max_df': (0.5, 0.6, 0.7, 0.8),
-        'vect__ngram_range': ((1, 2), (1, 3))
+        'clf__C': (1, 10, 20),
+        'fs__k': (20000, 500000, 100000, 300000)
     }
     X_train, y_train = load_dataset(train_path)
     X_test, y_test = load_dataset(test_path)
@@ -64,14 +65,15 @@ if __name__ == '__main__':
     test_path = os.path.abspath(args.test)
 
     pipeline_tfidf = Pipeline([
-        ("vect", TfidfVectorizer()),
+        ("vect", TfidfVectorizer(ngram_range=(1, 2), max_df=0.8)),
+        ("fs", SelectKBest(chi2)),
         ("clf", LinearSVC()),
     ])
     pipeline_count = Pipeline([
-        ("vect", CountVectorizer()),
+        ("vect", CountVectorizer(ngram_range=(1, 2), max_df=0.5)),
+        ("fs", SelectKBest(chi2)),
         ("clf", LinearSVC()),
     ])
-
     if args.trans == "tfidf":
         grid_search(pipeline_tfidf, train_path, test_path)
 

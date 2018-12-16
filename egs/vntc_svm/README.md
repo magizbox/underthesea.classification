@@ -1,56 +1,60 @@
-# Thử nghiệm với SVM
+# Các thử nghiệm kết hợp mô hình SVM và đặc trưng Tfidf, BoW
 
-## Kết quả
+Các thử nghiệm được đặt trong mỗi thư mục con của thư mục `egs` bao gồm đầy đủ các thành phần: dữ liệu, mô hình huấn luyện, đánh giá mô hình và việc tối ưu hóa siêu tham số đảm bảo có thể tái sử dụng.
 
-Kết quả trên tập test
+## Mục lục
 
+* [Huấn luyện mô hình](#huấn-luyện-mô-hình)
+
+* [Đánh giá mô hình](#đánh-giá-mô-hình)
+
+* [Tối ưu hóa tham số](#tối-ưu-hóa-tham-số)
+
+Trước khi chạy các thử nghiệm, hãy chắc chắn bạn đã activate môi trường classification, mọi câu lệnh đều được chạy trong thư mục gốc của dự án.
 ```
-Accuracy: 0.918
-Precision: 0.918
-Recall: 0.918
-F1 Score: 0.918 
-```
-
-Tham số: CountVectorizer(ngram_range=(1, 2), max_df=0.7)
-
-```
-Load model time: 2.467s
-Predict time: 59.249s
-Accuracy: 0.915
-Precision: 0.915
-Recall: 0.915
-F1 Score: 0.915
+$ cd classification/egs/vntc_svm
+$ source activate classification
 ```
 
-Tham số: TfidfVectorizer(ngram_range=(1, 2), max_df=0.7)
+### Huấn luyện mô hình
 
+Huấn luyện mô hình với dữ liệu `train` đặt tại thư mục `data`.
 ```
-Load model time: 2.512s
-Predict time: 67.158s
-Accuracy: 0.928
-Precision: 0.928
-Recall: 0.928
-F1 Score: 0.928
-Confusion matrix, without normalization
+$ python train.py --train data/train.xlsx --s snapshots
 ```
 
-## Hướng dẫn sử dụng
+### Đánh giá mô hình
+Đánh giá mô hình với dữ liệu `test` đặt tại thư mục `data`.
+```
+$ python evaluate.py
+```
+Kết thúc quá trình đánh giá mô hình sẽ nhận được thông kết quả bao gồm các chỉ số: `accuracy`, `precision`, `recall`, `f1`.
 
-### Huấn luyện mô hình 
+### Tối ưu hóa tham số
+Sử dụng Pipeline và GridSearchCV của Sklearn để tối ưu hóa các siêu tham số cho các đặc trưng Tfidf, BoW.
 
 ```
-python train.py --train data/train.xlsx -s snapshots 
+$  python optimize_hyperparameters.py 
+            --train data/train.xlsx 
+            --test data/test.xlsx 
+            --trans tfidf 
 ```
 
-### Đánh giá mô hình 
-
 ```
-python evaluate.py 
-```
-
-### Dự đoán
-
-```
-python predict.py 
+$ python optimize_hyperparameters.py 
+            --train data/train.xlsx
+            --test data/test.xlsx 
+            --trans count
 ```
 
+Kết thúc quá trình sẽ nhận được bộ tham số tốt nhất cho thử nghiệm. Tham số này sẽ được lưu thành file `json` tại thư mục `experiments` với tên là thử nghiệm tương ứng.
+
+| Thử nghiệm                                                                               | F1 score (%) |
+|------------------------------------------------------------------------------------------|--------------|
+| TfidfVectorizer(ngram_range=(1, 2), max_df=0.8) + LinearSVC(C=1)  + SelectKBest(k=20000) | 92.7         |
+| CountVectorizer(ngram_range=(1, 2), max_df=0.5) + LinearSVC(C=0.1) + SelectKBest(k=20000)| 90.3         |
+
+Sử dụng tham số đã được chọn ra để huấn luyện lại và lưu trữ mô hình mới.
+```
+$ python train.py --train data/train.xlsx --s snapshots
+```
