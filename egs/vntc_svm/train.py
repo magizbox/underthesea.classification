@@ -10,7 +10,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.svm import LinearSVC
 from sklearn.feature_selection import SelectKBest, chi2
 
-from util.load_data import load_dataset
+from load_data import load_dataset
 
 
 cwd = dirname(abspath(__file__))
