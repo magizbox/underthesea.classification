@@ -35,14 +35,10 @@ def my_run(features__max_df, features__ngram_range):
     model_trainer = ModelTrainer(classifier, corpus)
     tmp_model_folder = mkdtemp()
 
-    def negative_f1_score(y_true, y_pred):
-        score_class_0, score_class_1 = f1_score(y_true, y_pred, average=None)
-        return score_class_1
+    def micro_f1_score(y_true, y_pred):
+        return f1_score(y_true, y_pred, average='micro')
 
-    def macro_f1_score(y_true, y_pred):
-        return f1_score(y_true, y_pred, average='macro')
-
-    score = model_trainer.train(tmp_model_folder, scoring=macro_f1_score)
+    score = model_trainer.train(tmp_model_folder, scoring=micro_f1_score)
     ex.log_scalar('dev_score', score['dev_score'])
     ex.log_scalar('test_score', score['test_score'])
     print(time.time() - start)
