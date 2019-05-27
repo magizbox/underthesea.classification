@@ -71,5 +71,5 @@ start = time.time()
 trials = Trials()
 best = fmin(objective, space=space, algo=tpe.suggest, max_evals=1000, trials=trials)
 
-print(f"Hyperopt search took {round(time.time() - start, 2)} seconds for 1000 candidates" % (time.time() - start))
+print(f"Hyperopt search took {round(time.time() - start, 2)} seconds for 1000 candidates")
 print(-best_score, best)
