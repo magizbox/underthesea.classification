@@ -51,6 +51,7 @@ Tạo môi trường mới và cài đặt các gói liên quan
 $ cd classification
 $ conda create -n classification python=3.6
 $ pip install -r requirements.txt
+$ pip install git+https://github.com/undertheseanlp/languageflow.git@GH-73
 ```
 
 ## Hướng dẫn sử dụng
