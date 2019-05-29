@@ -8,8 +8,10 @@ from languageflow.models.text_classifier import TextClassifier, TEXT_CLASSIFIER_
 from languageflow.trainers.model_trainer import ModelTrainer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import f1_score
-from sklearn.pipeline import Pipeline
+from sklearn.pipeline import Pipeline, FeatureUnion
 from sklearn.svm import LinearSVC
+
+from text_features import Tokenize, Lowercase
 
 model_folder = "tmp/classification_svm_vntc"
 try:
@@ -28,9 +30,15 @@ corpus: CategorizedCorpus = DataFetcher.load_corpus(NLPData.VNTC)
 print("\n\n>>> Sample sentences")
 for s in corpus.train[:10]:
     print(s)
+
 pipeline = Pipeline(
     steps=[
-        ('features', TfidfVectorizer(ngram_range=tfidf__ngram_range, max_df=tfidf__max_df)),
+        ('features', FeatureUnion([
+            ('lower_pipe', Pipeline([
+                ('tokenize', Tokenize()),
+                ('lower', Lowercase()),
+                ('tfidf', TfidfVectorizer(ngram_range=tfidf__ngram_range, max_df=tfidf__max_df))])),
+            ('with_tone_char', TfidfVectorizer(ngram_range=tfidf__ngram_range, analyzer='char'))])),
         ('estimator', LinearSVC())
     ]
 )
