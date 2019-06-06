@@ -79,7 +79,6 @@ $ python classification.py \
 Kinh doanh
 ```
 
-
 ### Huấn luyện mô hình
 
 **Tiền xử lý dữ liệu**
@@ -161,16 +160,17 @@ Giao duc
 
 ## Trích dẫn
 
-Nếu bạn thấy mã nguồn này hữu ích, xin hãy trích dẫn đường dẫn của dự án trong các nghiên cứu của mình 
+Nếu bạn sử dụng mã nguồn này, xin hãy trích dẫn thông tin sau 
 
 ```
 @online{undertheseanlp/classification,
-author ={Vu Anh, Bui Nhat Anh},
-year = {2018},
+author ={Vu Anh, Pham Hong Quang},
+year = {2019},
 title ={Phân loại văn bản tiếng Việt},
 url ={https://github.com/undertheseanlp/classification}
 }
 ```
+
 ## Lời cảm ơn
 Xin chân thành cảm ơn các nhóm phát triển sklearn, fasttext đã tạo ra những công cụ hữu ích để nhóm sử dụng trong các thử nghiệm của mình.
 
